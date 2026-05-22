@@ -11,14 +11,14 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.201 Standard No. 201; Occupant protection in interior impact.
+title: § 571.201 Standard No. 201; Occupant protection in interior impact.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.201 Standard No. 201; Occupant protection in interior impact.
+## § 571.201 Standard No. 201; Occupant protection in interior impact.
 
 S1. Purpose and scope. This standard specifies requirements to afford impact protection for occupants.
 
@@ -116,7 +116,7 @@ S4.2 Vehicles manufactured on or after September 1, 1998 shall comply with the r
 
 S5 Requirements for instrument panels, seat backs, interior compartment doors, sun visors, and armrests. Each vehicle shall comply with the requirements specified in S5.1 through S5.5.2.
 
-S5.1 Instrument panels. Except as provided in S5.1.1, when that area of the instrument panel that is within the head impact area is impacted in accordance with S5.1.2 by a 6.8 kilogram, 165 mm diameter head form atâ
+S5.1 Instrument panels. Except as provided in S5.1.1, when that area of the instrument panel that is within the head impact area is impacted in accordance with S5.1.2 by a 6.8 kilogram, 165 mm diameter head form at—
 
 (a) A relative velocity of 24 kilometers per hour for all vehicles except those specified in paragraph (b) of this section,
 
@@ -134,7 +134,7 @@ S5.1.1 The requirements of S5.1 do not apply to:
 
 (e) Areas below any point at which a vertical line is tangent to the rearmost surface of the panel.
 
-S5.1.2 Demonstration procedures. Tests shall be performed as described in SAE Recommended Practice J921 (1965) (incorporated by reference, see Â§ 571.5), using the specified instrumentation or instrumentation that meets the performance requirements specified in SAE Recommended Practice J977 (1966) (incorporated by reference, see Â§ 571.5), except that:
+S5.1.2 Demonstration procedures. Tests shall be performed as described in SAE Recommended Practice J921 (1965) (incorporated by reference, see § 571.5), using the specified instrumentation or instrumentation that meets the performance requirements specified in SAE Recommended Practice J977 (1966) (incorporated by reference, see § 571.5), except that:
 
 (a) The origin of the line tangent to the instrument panel surface shall be a point on a transverse horizontal line through a point 125 mm horizontally forward of the seating reference point of any front outboard passenger designated seating position, displaced vertically an amount equal to the rise which results from a 125 mm forward adjustment of the seat or 19 mm; and
 
@@ -148,7 +148,7 @@ S5.2 Seat Backs. Except as provided in S5.2.1, when that area of the seat back t
 
 S5.2.1 The requirements of S5.2 do not apply to seats installed in school buses which comply with the requirements of Standard No. 222, School Bus Passenger Seating and Occupant Protection (49 CFR 571.222) or to rearmost side-facing, back-to-back, folding auxiliary jump, and temporary seats.
 
-S5.2.2 Demonstration procedures. Tests shall be performed as described in SAE Recommended Practice J921 (1965) (incorporated by reference, see Â§ 571.5), using the specified instrumentation or instrumentation that meets the performance requirements specified in SAE Recommended Practice J977 (1966) (incorporated by reference, see Â§ 571.5), except that:
+S5.2.2 Demonstration procedures. Tests shall be performed as described in SAE Recommended Practice J921 (1965) (incorporated by reference, see § 571.5), using the specified instrumentation or instrumentation that meets the performance requirements specified in SAE Recommended Practice J977 (1966) (incorporated by reference, see § 571.5), except that:
 
 (a) The origin of the line tangent to the uppermost seat back frame component shall be a point on a transverse horizontal line through the seating reference point of the right rear designated seating position, with adjustable forward seats in their rearmost design driving position and reclinable forward seat backs in their nominal design driving position;
 
@@ -168,11 +168,11 @@ S5.3 Interior compartment doors. Each interior compartment door assembly located
 
 S5.3.1 Demonstration procedures.
 
-(a) Subject the interior compartment door latch system to an inertia load of 10g in a horizontal transverse direction and an inertia load of 10g in a vertical direction in accordance with the procedure described in section 5 of SAE Recommended Practice J839b (1965) (incorporated by reference, see Â§ 571.5), or an approved equivalent.
+(a) Subject the interior compartment door latch system to an inertia load of 10g in a horizontal transverse direction and an inertia load of 10g in a vertical direction in accordance with the procedure described in section 5 of SAE Recommended Practice J839b (1965) (incorporated by reference, see § 571.5), or an approved equivalent.
 
 (b) Impact the vehicle perpendicularly into a fixed collision barrier at a forward longitudinal velocity of 48 kilometers per hour.
 
-(c) Subject the interior compartment door latch system to a horizontal inertia load of 30g in a longitudinal direction in accordance with the procedure described in section 5 of SAE Recommended Practice J839b (1965) (incorporated by reference, see Â§ 571.5), or an approved equivalent.
+(c) Subject the interior compartment door latch system to a horizontal inertia load of 30g in a longitudinal direction in accordance with the procedure described in section 5 of SAE Recommended Practice J839b (1965) (incorporated by reference, see § 571.5), or an approved equivalent.
 
 S5.4 Sun visors.
 
@@ -496,7 +496,7 @@ S8.14 Multiple impacts.
 
 (d) For S8.14(b) and S8.14(c), the distance between impacts is the distance between the center of the target circle specified in S8.11 for each impact, measured along the vehicle interior.
 
-(e) No impact may occur within the âexclusion zoneâ of any pillar target specified in S10.1 through S10.4, door frame target specified in S10.14 and S10.15, upper roof target specified in S10.9, or seat belt mounting structure target specified in S10.16. The âexclusion zoneâ is determined according to the procedure in S8.14(f) through S8.14(k).
+(e) No impact may occur within the “exclusion zone” of any pillar target specified in S10.1 through S10.4, door frame target specified in S10.14 and S10.15, upper roof target specified in S10.9, or seat belt mounting structure target specified in S10.16. The “exclusion zone” is determined according to the procedure in S8.14(f) through S8.14(k).
 
 (f) Locate the point, Point X, at the center of the target circle specified in S8.11 for the tested target.
 
@@ -504,11 +504,11 @@ S8.14 Multiple impacts.
 
 (h) Locate a horizontal plane passing through Point X. Determine the intersection points, if they exist, of the small sphere surface, the horizontal plane, and the vehicle interior surface. Relative to Point X, the point on the left is Point L and the point on the right is Point R.
 
-(i) Locate a vertical plane, Plane Z, passing through Point X and coincident (within Â±5Â°) with the horizontal approach angle used or intended for use in testing the target centered on Point X.
+(i) Locate a vertical plane, Plane Z, passing through Point X and coincident (within ±5°) with the horizontal approach angle used or intended for use in testing the target centered on Point X.
 
 (j) If either Point L or Point R does not exist, extend Line LX and/or Line RX, as appropriate, perpendicular to Plane Z beyond Point X by 150 mm. The end of the line is designated as Point L or Point R, as appropriate.
 
-(k) Locate a vertical plane, Plane ZL, passing through Point L and parallel to Plane Z. Locate another vertical plane, Plane ZR, passing through Point R and parallel to Plane Z. The âexclusion zoneâ is the vehicle interior surface area between Plane ZL and Plane ZR below the upper boundary of the smaller sphere and above the lower boundary of the larger sphere. Points on the intersection of the vehicle interior surface and the large sphere below the target, the small sphere above the target, Plane ZL and Plane ZR are not included in the âexclusion zone.â
+(k) Locate a vertical plane, Plane ZL, passing through Point L and parallel to Plane Z. Locate another vertical plane, Plane ZR, passing through Point R and parallel to Plane Z. The “exclusion zone” is the vehicle interior surface area between Plane ZL and Plane ZR below the upper boundary of the smaller sphere and above the lower boundary of the larger sphere. Points on the intersection of the vehicle interior surface and the large sphere below the target, the small sphere above the target, Plane ZL and Plane ZR are not included in the “exclusion zone.”
 
 S8.15 Upper Roof. The upper roof of a vehicle is determined according to the procedure specified in S8.15 (a) through (h).
 
@@ -532,41 +532,41 @@ S8.15 Upper Roof. The upper roof of a vehicle is determined according to the pro
 
 (2) A longitudinal vertical plane G located at a distance of (.35 D2) to the left of Point M and a longitudinal vertical plane H located at a distance of (.35 D2) to the right of Point M, measured horizontally.
 
-S8.16 Test weightâvehicle to pole test. Each vehicle shall be loaded to its unloaded vehicle weight, plus 136 kilograms (300 pounds) or its rated cargo and luggage capacity (whichever is less), secured in the luggage or load-carrying area, plus the weight of the necessary anthropomorphic test dummy. Any added test equipment shall be located away from impact areas in secure places in the vehicle.
+S8.16 Test weight—vehicle to pole test. Each vehicle shall be loaded to its unloaded vehicle weight, plus 136 kilograms (300 pounds) or its rated cargo and luggage capacity (whichever is less), secured in the luggage or load-carrying area, plus the weight of the necessary anthropomorphic test dummy. Any added test equipment shall be located away from impact areas in secure places in the vehicle.
 
-S8.17 Vehicle test attitudeâvehicle to pole test. Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its âas deliveredâ condition. The âas deliveredâ condition is the vehicle as received at the test site, filled to 100 percent of all fluid capacities and with all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard. Determine the distance between the same level surface and the same standard reference points in the vehicle's âfully loaded condition.â The âfully loaded conditionâ is the test vehicle loaded in accordance with S8.16. The load placed in the cargo area shall be centered over the longitudinal centerline of the vehicle. The pretest vehicle attitude shall be the same as either the âas deliveredâ or âfully loadedâ attitude or is between the âas deliveredâ attitude and the âfully loadedâ attitude. If the test configuration requires that the vehicle be elevated off the ground, the pretest vehicle attitude must be maintained.
+S8.17 Vehicle test attitude—vehicle to pole test. Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its “as delivered” condition. The “as delivered” condition is the vehicle as received at the test site, filled to 100 percent of all fluid capacities and with all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard. Determine the distance between the same level surface and the same standard reference points in the vehicle's “fully loaded condition.” The “fully loaded condition” is the test vehicle loaded in accordance with S8.16. The load placed in the cargo area shall be centered over the longitudinal centerline of the vehicle. The pretest vehicle attitude shall be the same as either the “as delivered” or “fully loaded” attitude or is between the “as delivered” attitude and the “fully loaded” attitude. If the test configuration requires that the vehicle be elevated off the ground, the pretest vehicle attitude must be maintained.
 
-S8.18 Adjustable seatsâvehicle to pole test. Initially, adjustable seats shall be adjusted as specified in S8.3.2.1 of Standard 214 (49 CFR 571.214).
+S8.18 Adjustable seats—vehicle to pole test. Initially, adjustable seats shall be adjusted as specified in S8.3.2.1 of Standard 214 (49 CFR 571.214).
 
-S8.19 Adjustable seat back placementâvehicle to pole test. Initially, position adjustable seat backs in the manner specified in S8.3.2.2 of Standard 214 (49 CFR 571.214).
+S8.19 Adjustable seat back placement—vehicle to pole test. Initially, position adjustable seat backs in the manner specified in S8.3.2.2 of Standard 214 (49 CFR 571.214).
 
-S8.20 Adjustable steering controlsâvehicle to pole test. Adjustable steering controls shall be adjusted so that the steering control hub is at the geometric center of the locus it describes when it is moved through its full range of driving positions.
+S8.20 Adjustable steering controls—vehicle to pole test. Adjustable steering controls shall be adjusted so that the steering control hub is at the geometric center of the locus it describes when it is moved through its full range of driving positions.
 
-S8.21 Windows and sunroofâvehicle to pole test. Movable windows and vents shall be placed in the fully open position. Any sunroof shall be placed in the fully closed position.
+S8.21 Windows and sunroof—vehicle to pole test. Movable windows and vents shall be placed in the fully open position. Any sunroof shall be placed in the fully closed position.
 
-S8.22 Convertible topsâvehicle to pole test. The top, if any, of convertibles and open-body type vehicles shall be in the closed passenger compartment configuration.
+S8.22 Convertible tops—vehicle to pole test. The top, if any, of convertibles and open-body type vehicles shall be in the closed passenger compartment configuration.
 
-S8.23 Doorsâvehicle to pole test. Doors, including any rear hatchback or tailgate, shall be fully closed and latched but not locked.
+S8.23 Doors—vehicle to pole test. Doors, including any rear hatchback or tailgate, shall be fully closed and latched but not locked.
 
-S8.24 Impact reference lineâvehicle to pole test. On the striking side of the vehicle, place an impact reference line at the intersection of the vehicle exterior and a transverse vertical plane passing through the center of gravity of the head of the dummy seated in accordance with S8.28, in any front outboard designated seating position.
+S8.24 Impact reference line—vehicle to pole test. On the striking side of the vehicle, place an impact reference line at the intersection of the vehicle exterior and a transverse vertical plane passing through the center of gravity of the head of the dummy seated in accordance with S8.28, in any front outboard designated seating position.
 
-S8.25 Rigid Poleâvehicle to pole test. The rigid pole is a vertical metal structure beginning no more than 102 millimeters (4 inches) above the lowest point of the tires on the striking side of the test vehicle when the vehicle is loaded as specified in S8.16 and extending above the highest point of the roof of the test vehicle. The pole is 254 mm Â±3 mm (10 inches) in diameter and set off from any mounting surface, such as a barrier or other structure, so that the test vehicle will not contact such a mount or support at any time within 100 milliseconds of the initiation of vehicle to pole contact.
+S8.25 Rigid Pole—vehicle to pole test. The rigid pole is a vertical metal structure beginning no more than 102 millimeters (4 inches) above the lowest point of the tires on the striking side of the test vehicle when the vehicle is loaded as specified in S8.16 and extending above the highest point of the roof of the test vehicle. The pole is 254 mm ±3 mm (10 inches) in diameter and set off from any mounting surface, such as a barrier or other structure, so that the test vehicle will not contact such a mount or support at any time within 100 milliseconds of the initiation of vehicle to pole contact.
 
-S8.26 Impact configurationâvehicle to pole test. The rigid pole shall be stationary. The test vehicle shall be propelled sideways so that its line of forward motion forms an angle of 90 degrees (Â±3 degrees) with the vehicle's longitudinal center line. The impact reference line shall be aligned with the center line of the rigid pole so that, when the vehicle-to-pole contact occurs, the center line of the pole contacts the vehicle area bounded by two transverse vertical planes 38 mm (1.5 inches) forward and aft of the impact reference line.
+S8.26 Impact configuration—vehicle to pole test. The rigid pole shall be stationary. The test vehicle shall be propelled sideways so that its line of forward motion forms an angle of 90 degrees (±3 degrees) with the vehicle's longitudinal center line. The impact reference line shall be aligned with the center line of the rigid pole so that, when the vehicle-to-pole contact occurs, the center line of the pole contacts the vehicle area bounded by two transverse vertical planes 38 mm (1.5 inches) forward and aft of the impact reference line.
 
-S8.27 Anthropomorphic test dummyâvehicle to pole test.
+S8.27 Anthropomorphic test dummy—vehicle to pole test.
 
 S8.27.1 The anthropomorphic test dummy used for evaluation of a vehicle's head impact protection shall conform to the requirements of subpart M of part 572 of this chapter (49 CFR part 572, subpart M). In a test in which the test vehicle is striking its left side, the dummy is to be configured and instrumented to strike on its left side, in accordance with subpart M of part 572. In a test in which the test vehicle is striking its right side, the dummy is to be configured and instrumented to strike its right side, in accordance with subpart M of part 572.
 
-S8.27.2 The part 572, subpart M, test dummy specified is clothed in form fitting cotton stretch garments with short sleeves and midcalf length pants. Each foot of the test dummy is equipped with a size 11EEE shoe, which meets the configuration size, sole, and heel thickness specifications of MIL-S-13192 (1976) and weighs 0.57 Â±0.09 kilograms (1.25 Â±0.2 pounds).
+S8.27.2 The part 572, subpart M, test dummy specified is clothed in form fitting cotton stretch garments with short sleeves and midcalf length pants. Each foot of the test dummy is equipped with a size 11EEE shoe, which meets the configuration size, sole, and heel thickness specifications of MIL-S-13192 (1976) and weighs 0.57 ±0.09 kilograms (1.25 ±0.2 pounds).
 
 S8.27.3 Limb joints shall be set at between 1 and 2 g's. Leg joints are adjusted with the torso in the supine position.
 
 S8.27.4 The stabilized temperature of the test dummy at the time of the side impact test shall be at any temperature between 20.6 degrees C. and 22.2 degrees C.
 
-S8.27.5 The acceleration data from the accelerometers installed inside the skull cavity of the test dummy are processed according to the practices set forth in SAE Recommended Practice J211, March 1995, âInstrumentation for Impact Tests,â Class 1000.
+S8.27.5 The acceleration data from the accelerometers installed inside the skull cavity of the test dummy are processed according to the practices set forth in SAE Recommended Practice J211, March 1995, “Instrumentation for Impact Tests,” Class 1000.
 
-S8.28 Positioning procedure for the Part 572 Subpart M test dummyâvehicle to pole test. The part 572, subpart M, test dummy is initially positioned in the front outboard seating position on the struck side of the vehicle in accordance with the provisions of S12.1 of Standard 214 (49 CFR 571.214), and the vehicle seat is positioned as specified in S8.3.2.1 and S8.3.2.2 of that standard. The position of the dummy is then measured as follows. Locate the horizontal plane passing through the dummy head center of gravity. Identify the rearmost point on the dummy head in that plane. Construct a line in the plane that contains the rearward point of the front door daylight opening and is perpendicular to the longitudinal vehicle centerline. Measure the longitudinal distance between the rearmost point on the dummy head and this line. If this distance is less than 50 mm (2 inches) or the point is not forward of the line, then the seat and/or dummy positions is adjusted as follows. First, the seat back angle is adjusted, a maximum of 5 degrees, until a 50 mm (2 inches) distance is achieved. If this is not sufficient to produce the 50 mm (2 inches) distance, the seat is moved forward until the 50 mm (2 inches) distance is achieved or until the knees of the dummy contact the dashboard or knee bolster, whichever comes first. If the required distance cannot be achieved through movement of the seat, the seat back angle is adjusted even further forward until the 50 mm (2 inches) distance is obtained or until the seat back is in its fully upright locking position.
+S8.28 Positioning procedure for the Part 572 Subpart M test dummy—vehicle to pole test. The part 572, subpart M, test dummy is initially positioned in the front outboard seating position on the struck side of the vehicle in accordance with the provisions of S12.1 of Standard 214 (49 CFR 571.214), and the vehicle seat is positioned as specified in S8.3.2.1 and S8.3.2.2 of that standard. The position of the dummy is then measured as follows. Locate the horizontal plane passing through the dummy head center of gravity. Identify the rearmost point on the dummy head in that plane. Construct a line in the plane that contains the rearward point of the front door daylight opening and is perpendicular to the longitudinal vehicle centerline. Measure the longitudinal distance between the rearmost point on the dummy head and this line. If this distance is less than 50 mm (2 inches) or the point is not forward of the line, then the seat and/or dummy positions is adjusted as follows. First, the seat back angle is adjusted, a maximum of 5 degrees, until a 50 mm (2 inches) distance is achieved. If this is not sufficient to produce the 50 mm (2 inches) distance, the seat is moved forward until the 50 mm (2 inches) distance is achieved or until the knees of the dummy contact the dashboard or knee bolster, whichever comes first. If the required distance cannot be achieved through movement of the seat, the seat back angle is adjusted even further forward until the 50 mm (2 inches) distance is obtained or until the seat back is in its fully upright locking position.
 
 S9. Orthogonal Reference System. The approach angles specified in S8.13.4 are determined using the reference system specified in S9.1 through S9.4.
 

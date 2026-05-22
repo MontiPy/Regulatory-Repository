@@ -11,7 +11,7 @@ systems:
 - Tell-tales & controls
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.101 Standard No. 101; Controls and displays.
+title: § 571.101 Standard No. 101; Controls and displays.
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -19,7 +19,7 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.101 Standard No. 101; Controls and displays.
+## § 571.101 Standard No. 101; Controls and displays.
 
 S1. Scope. This standard specifies performance requirements for location, identification, color, and illumination of motor vehicle controls, telltales and indicators.
 
@@ -83,7 +83,7 @@ S5.2.4 [Reserved]
 
 S5.2.5 A single symbol, word, or abbreviation may be used to identify any combination of the control, indicator, and telltale for the same function.
 
-S5.2.6 Except as provided in S5.2.7, all identifications of telltales, indicators and controls listed in Table 1 or Table 2 must appear to the driver to be perceptually upright. A rotating control that has an âoffâ position shall appear to the driver perceptually upright when the rotating control is in the âoffâ position.
+S5.2.6 Except as provided in S5.2.7, all identifications of telltales, indicators and controls listed in Table 1 or Table 2 must appear to the driver to be perceptually upright. A rotating control that has an “off” position shall appear to the driver perceptually upright when the rotating control is in the “off” position.
 
 S5.2.7 The identification of the following items need not appear to the driver to be perceptually upright:
 
@@ -91,7 +91,7 @@ S5.2.7 The identification of the following items need not appear to the driver t
 
 (b) Any control, telltale or indicator located on the steering wheel, when the steering wheel is positioned for the motor vehicle to travel in a direction other than straight forward; and
 
-(c) Any rotating control that does not have an âoffâ position.
+(c) Any rotating control that does not have an “off” position.
 
 S5.2.8 Each control for an automatic vehicle speed system (cruise control) and each control for heating and air conditioning systems must have identification provided for each function of each such system.
 
@@ -101,9 +101,9 @@ S5.3 Illumination
 
 S5.3.1 Timing of illumination
 
-(a) Except as provided in S5.3.1(c), the identifications of controls for which the word âYesâ is specified in column 5 of Table 1 must be capable of being illuminated whenever the headlamps are activated. This requirement does not apply to a control located on the floor, floor console, steering wheel, steering column, or in the area of windshield header, or to a control for a heating and air-conditioning system that does not direct air upon the windshield.
+(a) Except as provided in S5.3.1(c), the identifications of controls for which the word “Yes” is specified in column 5 of Table 1 must be capable of being illuminated whenever the headlamps are activated. This requirement does not apply to a control located on the floor, floor console, steering wheel, steering column, or in the area of windshield header, or to a control for a heating and air-conditioning system that does not direct air upon the windshield.
 
-(b) Except as provided in S5.3.1(c), the indicators and their identifications for which the word âYesâ is specified in column 5 of Table 1 must be illuminated whenever the vehicle's propulsion system and headlamps are activated.
+(b) Except as provided in S5.3.1(c), the indicators and their identifications for which the word “Yes” is specified in column 5 of Table 1 must be illuminated whenever the vehicle's propulsion system and headlamps are activated.
 
 (c) The indicators, their identifications and the identifications of controls need not be illuminated when the headlamps are being flashed or operated as daytime running lamps.
 
@@ -133,7 +133,7 @@ S5.3.3 Brightness of telltale illumination
 
 (b) The means for providing the required visibility may be adjustable manually or automatically, except that the telltales and identification for brakes, highbeams, turn signals, and safety belts may not be adjustable under any driving condition to a level that is invisible.
 
-S5.3.4 Brightness of interior lamps. (a) Any source of illumination within the passenger compartment which is forward of a transverse vertical plane 110 mm rearward of the manikin âHâ point with the driver's seat in its rearmost driving position, which is not used for the controls and displays regulated by this standard, which is not a telltale, and which is capable of being illuminated while the vehicle is in motion, shall have either:
+S5.3.4 Brightness of interior lamps. (a) Any source of illumination within the passenger compartment which is forward of a transverse vertical plane 110 mm rearward of the manikin “H” point with the driver's seat in its rearmost driving position, which is not used for the controls and displays regulated by this standard, which is not a telltale, and which is capable of being illuminated while the vehicle is in motion, shall have either:
 
 (1) Light intensity which is manually or automatically adjustable to provide at least two levels of brightness;
 
@@ -173,7 +173,7 @@ S5.5.6(a) Except as provided in S5.5.6(b) and (c), messages displayed in a commo
 
 (b) Telltales for high beams, turn signal, low tire pressure, and passenger air bag off, and telltales for which the color red is required in table 1 to this section must not be cancelable while the underlying condition for their activation exists.
 
-(c) Telltales for the seat belts must not be cancelable by the driver before the minimum durations are satisfied but may be cancellable automatically as specified in FMVSS No. 208 (Â§ 571.208).
+(c) Telltales for the seat belts must not be cancelable by the driver before the minimum durations are satisfied but may be cancellable automatically as specified in FMVSS No. 208 (§ 571.208).
 
 S5.6 Conditions
 

@@ -13,7 +13,7 @@ systems:
 - Steering
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.204 Standard No. 204; Steering control rearward displacement.
+title: § 571.204 Standard No. 204; Steering control rearward displacement.
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -21,7 +21,7 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.204 Standard No. 204; Steering control rearward displacement.
+## § 571.204 Standard No. 204; Steering control rearward displacement.
 
 S1. Purpose and scope. This standard specifies requirements limiting the rearward displacement of the steering control into the passenger compartment to reduce the likelihood of chest, neck, or head injury.
 

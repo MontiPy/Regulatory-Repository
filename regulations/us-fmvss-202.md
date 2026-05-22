@@ -13,7 +13,7 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers
+title: § 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers
   option until September 1, 2009.
 vehicle_categories:
 - Passenger car
@@ -21,17 +21,17 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers option until September 1, 2009.
+## § 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers option until September 1, 2009.
 
 S1. Purpose and scope. This standard specifies requirements for head restraints to reduce the frequency and severity of neck injury in rear-end and other collisions.
 
-S2. Application. This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a GVWR of 4,536 kg or less, manufactured before September 1, 2009. Until September 1, 2009, manufacturers may comply with the standard in this Â§ 571.202, with the European regulations referenced in S4.3 of this Â§ 571.202, or with the standard in Â§ 571.202a. For vehicles manufactured on or after September 1, 2009 and before September 1, 2010, manufacturers may comply with the standard in this Â§ 571.202 or with the European regulations referenced in S4.3 of this Â§ 571.202, instead of the standard in Â§ 571.202a, only to the extent consistent with phase-in specified in Â§ 571.202a.
+S2. Application. This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a GVWR of 4,536 kg or less, manufactured before September 1, 2009. Until September 1, 2009, manufacturers may comply with the standard in this § 571.202, with the European regulations referenced in S4.3 of this § 571.202, or with the standard in § 571.202a. For vehicles manufactured on or after September 1, 2009 and before September 1, 2010, manufacturers may comply with the standard in this § 571.202 or with the European regulations referenced in S4.3 of this § 571.202, instead of the standard in § 571.202a, only to the extent consistent with phase-in specified in § 571.202a.
 
 S3. Definitions.
 
 Head restraint means a device that limits rearward displacement of a seated occupant's head relative to the occupant's torso.
 
-Height means, when used in reference to a head restraint, the distance from the H-point, measured parallel to the torso reference line defined by the three dimensional SAE Standard J826 JUL95 (incorporated by reference, see Â§ 571.5) manikin, to a plane normal to the torso reference line.
+Height means, when used in reference to a head restraint, the distance from the H-point, measured parallel to the torso reference line defined by the three dimensional SAE Standard J826 JUL95 (incorporated by reference, see § 571.5) manikin, to a plane normal to the torso reference line.
 
 Top of the head restraint means the point on the head restraint with the greatest height.
 
@@ -65,13 +65,13 @@ S4.3 [Reserved]
 
 S4.4. Except for school buses, a head restraint that conforms to S4.4 (a) and (b) of this section must be provided at each outboard front designated seating position. For school buses, a head restraint that conforms to S4.4 (a) and (b) of this section must be provided at the driver's seating position.
 
-(a) The head restraint must comply with Paragraphs 5.1.1, 5.1.3, 5.3.1, 5.5 through 5.13, 6.1.1, 6.1.3, and 6.4 through 6.8 of the English language version of the UNECE Regulation 17 (incorporated by reference, see Â§ 571.5).
+(a) The head restraint must comply with Paragraphs 5.1.1, 5.1.3, 5.3.1, 5.5 through 5.13, 6.1.1, 6.1.3, and 6.4 through 6.8 of the English language version of the UNECE Regulation 17 (incorporated by reference, see § 571.5).
 
 (b) The head restraint must meet the width requirements specified in S4.2(b)(2) of this section.
 
-S4.5 Except for school buses, head restraints that conform to the requirements of Â§ 571.202a must be provided at each front outboard designated seating position. If a rear head restraint (as defined in Â§ 571.202a) is provided at a rear outboard designated seating position, it must conform to the requirements of Â§ 571.202a applicable to rear head restraints. For school buses, a head restraint that conforms to the requirements of Â§ 571.202a must be installed at the driver's seating position.
+S4.5 Except for school buses, head restraints that conform to the requirements of § 571.202a must be provided at each front outboard designated seating position. If a rear head restraint (as defined in § 571.202a) is provided at a rear outboard designated seating position, it must conform to the requirements of § 571.202a applicable to rear head restraints. For school buses, a head restraint that conforms to the requirements of § 571.202a must be installed at the driver's seating position.
 
-S4.6 Where manufacturer options are specified in this section or Â§ 571.202a, the manufacturer must select an option by the time it certifies the vehicle and may not thereafter select a different option for that vehicle. The manufacturer may select different compliance options for different designated seating positions to which the requirements of this section are applicable. Each manufacturer must, upon request from the National Highway Traffic Safety Administration, provide information regarding which of the compliance options it has selected for a particular vehicle or make/model.
+S4.6 Where manufacturer options are specified in this section or § 571.202a, the manufacturer must select an option by the time it certifies the vehicle and may not thereafter select a different option for that vehicle. The manufacturer may select different compliance options for different designated seating positions to which the requirements of this section are applicable. Each manufacturer must, upon request from the National Highway Traffic Safety Administration, provide information regarding which of the compliance options it has selected for a particular vehicle or make/model.
 
 S5. Demonstration procedures.
 
@@ -83,9 +83,9 @@ S5.1 Compliance with S4.2(a) of this section is demonstrated in accordance with 
 
 (2) Rotate the head of the dummy rearward until the back of the head contacts the flat horizontal surface specified in S5.1(a)(1) of this section.
 
-(3) Position the SAE Standard J826 JUL95 (incorporated by reference, see Â§ 571.5) two-dimensional manikin's back against the flat surface specified in S5.1(a)(1) of this section, alongside the dummy with the H-point of the manikin aligned with the H-point of the dummy.
+(3) Position the SAE Standard J826 JUL95 (incorporated by reference, see § 571.5) two-dimensional manikin's back against the flat surface specified in S5.1(a)(1) of this section, alongside the dummy with the H-point of the manikin aligned with the H-point of the dummy.
 
-(4) Establish the torso line of the manikin as defined in SAE Aerospace-Automotive Drawing Standards (1963) (incorporated by reference, see Â§ 571.5), sec. 2.3.6, P.E1.01.
+(4) Establish the torso line of the manikin as defined in SAE Aerospace-Automotive Drawing Standards (1963) (incorporated by reference, see § 571.5), sec. 2.3.6, P.E1.01.
 
 (5) Establish the dummy torso reference line by superimposing the torso line of the manikin on the torso of the dummy.
 
@@ -99,7 +99,7 @@ S5.1 Compliance with S4.2(a) of this section is demonstrated in accordance with 
 
 S5.2 Compliance with S4.2(b) of this section is demonstrated in accordance with the following with the head restraint in its fully extended design position:
 
-(a) Place a test device, having the back plan dimensions and torso line (centerline of the head room probe in full back position), of the three dimensional SAE Standard J826 JUL95 (incorporated by reference, see Â§ 571.5) manikin, at the manufacturer's recommended design seated position.
+(a) Place a test device, having the back plan dimensions and torso line (centerline of the head room probe in full back position), of the three dimensional SAE Standard J826 JUL95 (incorporated by reference, see § 571.5) manikin, at the manufacturer's recommended design seated position.
 
 (b) Establish the displaced torso reference line by applying a rearward moment of 373 Nm about the seating reference point to the seat back through the test device back pan specified in S5.2(a) of this section.
 

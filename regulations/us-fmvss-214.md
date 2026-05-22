@@ -13,14 +13,14 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.214 Standard No. 214; Side impact protection.
+title: § 571.214 Standard No. 214; Side impact protection.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.214 Standard No. 214; Side impact protection.
+## § 571.214 Standard No. 214; Side impact protection.
 
 S1 Scope and purpose.
 
@@ -46,7 +46,7 @@ Raised roof is used as defined in paragraph S4 of 49 CFR 571.216.
 
 Walk-in van means a special cargo/mail delivery vehicle that has only one designated seating position. That designated seating position must be forward facing and for use only by the driver. The vehicle usually has a thin and light sliding (or folding) side door for easy operation and a high roof clearance that a person of medium stature can enter the passenger compartment area in an up-right position.
 
-S4 Requirements. Subject to the exceptions of S5â
+S4 Requirements. Subject to the exceptions of S5—
 
 (a) Passenger cars. Passenger cars must meet the requirements set forth in S6 (door crush resistance), S7 (moving deformable barrier test), and S9 (vehicle-to-pole test), subject to the phased-in application of S7 and S9.
 
@@ -56,7 +56,7 @@ S4 Requirements. Subject to the exceptions of S5â
 
 S5 General exclusions.
 
-(a) Exclusions from S6 (door crush resistance). A vehicle need not meet the requirements of S6 (door crush resistance) forâ
+(a) Exclusions from S6 (door crush resistance). A vehicle need not meet the requirements of S6 (door crush resistance) for—
 
 (1) Any side door located so that no point on a ten-inch horizontal longitudinal line passing through and bisected by the H-point of a manikin placed in any seat, with the seat adjusted to any position and the seat back adjusted as specified in S8.3, falls within the transverse, horizontal projection of the door's opening,
 
@@ -111,14 +111,14 @@ S6.3 Test procedures for door crush resistance. The following procedures apply t
 (a) Place side windows in their uppermost position and all doors in locked position. Place the sill of the side of the vehicle opposite to the side being tested against a rigid unyielding vertical surface. Fix the vehicle rigidly in position by means of tiedown attachments located at or forward of the front wheel centerline and at or rearward of the rear wheel centerline.
 
 (b) Prepare a loading device consisting of a rigid steel cylinder or semi-cylinder 305 mm (12 inches) in diameter with an edge radius of 13 mm (
-1/2 inch). The length of the loading device shall be such thatâ
+1/2 inch). The length of the loading device shall be such that—
 
 (1) For doors with windows, the top surface of the loading device is at least 13 mm (
 1/2 inch) above the bottom edge of the door window opening but not of a length that will cause contact with any structure above the bottom edge of the door window opening during the test.
 
 (2) For doors without windows, the top surface of the loading device is at the same height above the ground as when the loading device is positioned in accordance with paragraph (b)(1) of this section for purposes of testing a front door with windows on the same vehicle.
 
-(c) Locate the loading device as shown in Figure 1 (side view) of this section so thatâ
+(c) Locate the loading device as shown in Figure 1 (side view) of this section so that—
 
 (1) Its longitudinal axis is vertical.
 
@@ -148,7 +148,7 @@ S6.3 Test procedures for door crush resistance. The following procedures apply t
 
 (4) The peak crush resistance is the largest force recorded over the entire 457 mm (18-inch) crush distance.
 
-S7 Moving Deformable Barrier (MDB) Requirements. Except as provided in section S5, when tested under the conditions of S8 each vehicle shall meet S7.3 and the following requirements in a 53 Â±1.0 km/h (33.5 mph) impact in which the vehicle is struck on either side by a moving deformable barrier.
+S7 Moving Deformable Barrier (MDB) Requirements. Except as provided in section S5, when tested under the conditions of S8 each vehicle shall meet S7.3 and the following requirements in a 53 ±1.0 km/h (33.5 mph) impact in which the vehicle is struck on either side by a moving deformable barrier.
 
 S7.1 MDB test with SID. For vehicles manufactured before September 1, 2010, the following requirements must be met. The following requirements also apply to vehicles manufactured on or after September 1, 2010 that are not part of the percentage of a manufacturer's production meeting the MDB test with advanced test dummies (S7.2 of this section) or are otherwise excluded from the phase-in requirements of S7.2. (Vehicles manufactured before September 1, 2010 may meet S7.2, at the manufacturer's option.)
 
@@ -162,7 +162,7 @@ S7.1.2 When using the Part 572 Subpart F dummy (SID), the following performance 
 
 (2) 90 g for a passenger car with two side doors, when calculated in accordance with the following formula:
 
-Where the term âGRâ is the greater of the peak accelerations of either the upper or lower rib, expressed in g's and the term âGLSâ is the lower spine (T12) peak acceleration, expressed in g's. The peak acceleration values are obtained in accordance with the procedure specified in S11.5.
+Where the term “GR” is the greater of the peak accelerations of either the upper or lower rib, expressed in g's and the term “GLS” is the lower spine (T12) peak acceleration, expressed in g's. The peak acceleration values are obtained in accordance with the procedure specified in S11.5.
 
 (b) Pelvis. The peak lateral acceleration of the pelvis, as measured in accordance with S11.5, shall not exceed 130 g's.
 
@@ -230,7 +230,7 @@ S8 Test conditions for determining compliance with moving deformable barrier req
 
 S8.1 Test weight. Each vehicle is loaded to its unloaded vehicle weight, plus 136 kg (300 pounds) or its rated cargo and luggage capacity (whichever is less), secured in the luggage or load-carrying area, plus the weight of the necessary anthropomorphic test dummies. Any added test equipment is located away from impact areas in secure places in the vehicle. The vehicle's fuel system is filled in accordance with the following procedure. With the test vehicle on a level surface, pump the fuel from the vehicle's fuel tank and then operate the engine until it stops. Then, add Stoddard solvent to the test vehicle's fuel tank in an amount that is equal to not less than 92 percent and not more than 94 percent of the fuel tank's usable capacity stated by the vehicle's manufacturer. In addition, add the amount of Stoddard solvent needed to fill the entire fuel system from the fuel tank through the engine's induction system.
 
-S8.2 Vehicle test attitude. Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its fully loaded condition at the test site, with all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard, and with the vehicle filled to 100 percent of all fluid capacities. The âfully loaded conditionâ is the test vehicle loaded in accordance with S8.1 of this standard (49 CFR 571.214). The load placed in the cargo area is centered over the longitudinal centerline of the vehicle. The pretest vehicle attitude is equal to the fully loaded attitude Â± 10 mm.
+S8.2 Vehicle test attitude. Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its fully loaded condition at the test site, with all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard, and with the vehicle filled to 100 percent of all fluid capacities. The “fully loaded condition” is the test vehicle loaded in accordance with S8.1 of this standard (49 CFR 571.214). The load placed in the cargo area is centered over the longitudinal centerline of the vehicle. The pretest vehicle attitude is equal to the fully loaded attitude ± 10 mm.
 
 S8.3 Adjustable seats.
 
@@ -238,7 +238,7 @@ S8.3.1 50th Percentile Male ES-2re Dummy (49 CFR Part 572 Subpart U) In Front Se
 
 S8.3.1.1 Lumbar support adjustment. Position adjustable lumbar supports so that the lumbar support is in its lowest, retracted or deflated adjustment position.
 
-S8.3.1.2 Other seat adjustments. Position any adjustable parts of the seat that provide additional support so that they are in the lowest or non-deployed adjustment position. Position any adjustable head restraint in the highest and most forward position. Place adjustable seat backs in the manufacturer's nominal design riding position in the manner specified by the manufacturer. If the position is not specified, set the seat back at the first detent rearward of 25Â° from the vertical.
+S8.3.1.2 Other seat adjustments. Position any adjustable parts of the seat that provide additional support so that they are in the lowest or non-deployed adjustment position. Position any adjustable head restraint in the highest and most forward position. Place adjustable seat backs in the manufacturer's nominal design riding position in the manner specified by the manufacturer. If the position is not specified, set the seat back at the first detent rearward of 25° from the vertical.
 
 S8.3.1.3 Seat position adjustment. If the driver and any front outboard passenger seats do not adjust independently of each other, the struck side seat shall control the final position of the non-struck side seat. If the driver and any front outboard passenger seats adjust independently of each other, adjust both the struck and non-struck side seats in the manner specified in S8.3.1.
 
@@ -252,7 +252,7 @@ S8.3.2  50th Percentile Male SID Dummy (49 CFR Part 572 Subpart F) in Front and 
 
 S8.3.2.1 Adjustable seats. Adjustable seats are placed in the adjustment position midway between the forward most and rearmost positions, and if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forward most and rearmost positions, the closest adjustment position to the rear of the mid-point is used.
 
-S8.3.2.2 Adjustable seat back placement. Place adjustable seat backs in the manufacturer's nominal design riding position in the manner specified by the manufacturer. If the position is not specified, set the seat back at the first detent rearward of 25Â° from the vertical. Place each adjustable head restraint in its highest adjustment position. Position adjustable lumbar supports so that they are set in their released, i.e., full back position.
+S8.3.2.2 Adjustable seat back placement. Place adjustable seat backs in the manufacturer's nominal design riding position in the manner specified by the manufacturer. If the position is not specified, set the seat back at the first detent rearward of 25° from the vertical. Place each adjustable head restraint in its highest adjustment position. Position adjustable lumbar supports so that they are set in their released, i.e., full back position.
 
 S8.3.3 5th Percentile Female Dummy in Second Row Seat.
 
@@ -274,7 +274,7 @@ S8.8 Transmission and brake engagement. For a vehicle equipped with a manual tra
 
 S8.9 Moving deformable barrier. The moving deformable barrier conforms to the dimensions shown in Figure 2 and specified in 49 CFR Part 587.
 
-S8.10 Impact configuration. The test vehicle (vehicle A in Figure 3) is stationary. The line of forward motion of the moving deformable barrier (vehicle B in Figure 3) forms an angle of 63 degrees with the centerline of the test vehicle. The longitudinal centerline of the moving deformable barrier is perpendicular to the longitudinal centerline of the test vehicle when the barrier strikes the test vehicle. In a test in which the test vehicle is to be struck on its left (right) side: All wheels of the moving deformable barrier are positioned at an angle of 27 Â±1 degrees to the right (left) of the centerline of the moving deformable barrier; and the left (right) forward edge of the moving deformable barrier is aligned so that a longitudinal plane tangent to that side passes through the impact reference line within a tolerance of Â±51 mm (2 inches) when the barrier strikes the test vehicle.
+S8.10 Impact configuration. The test vehicle (vehicle A in Figure 3) is stationary. The line of forward motion of the moving deformable barrier (vehicle B in Figure 3) forms an angle of 63 degrees with the centerline of the test vehicle. The longitudinal centerline of the moving deformable barrier is perpendicular to the longitudinal centerline of the test vehicle when the barrier strikes the test vehicle. In a test in which the test vehicle is to be struck on its left (right) side: All wheels of the moving deformable barrier are positioned at an angle of 27 ±1 degrees to the right (left) of the centerline of the moving deformable barrier; and the left (right) forward edge of the moving deformable barrier is aligned so that a longitudinal plane tangent to that side passes through the impact reference line within a tolerance of ±51 mm (2 inches) when the barrier strikes the test vehicle.
 
 S8.11 Impact reference line. Place a vertical reference line at the location described below on the side of the vehicle that will be struck by the moving deformable barrier.
 
@@ -364,7 +364,7 @@ S10. General test conditions for determining compliance with vehicle-to-pole req
 
 S10.1 Test weight. Each vehicle is loaded as specified in S8.1 of this standard (49 CFR 571.214).
 
-S10.2 Vehicle test attitude. When the vehicle is in its âas delivered,â âfully loadedâ and âas testedâ condition, locate the vehicle on a flat, horizontal surface to determine the vehicle attitude. Use the same level surface or reference plane and the same standard points on the test vehicle when determining the âas delivered,â âfully loadedâ and âas testedâ conditions. Measure the angles relative to a horizontal plane, front-to-rear and from left-to-right for the âas delivered,â âfully loaded,â and âas testedâ conditions. The front-to-rear angle (pitch) is measured along a fixed reference on the left and right front occupant's door sills. Mark where the angles are taken on the door sills. The left to right angle (roll) is measured along a fixed reference point at the front and rear of the vehicle at the vehicle longitudinal center plane. Mark where the angles are measured. The âas deliveredâ condition is the vehicle as received at the test site, with 100 percent of all fluid capacities and all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard. When the vehicle is in its âfully loadedâ condition, measure the angle between the left front occupant's door sill and the horizontal, at the same place the âas deliveredâ angle was measured. The âfully loaded conditionâ is the test vehicle loaded in accordance with S8.1 of this standard (49 CFR 571.214). The load placed in the cargo area is centered over the longitudinal centerline of the vehicle. The vehicle âas testedâ pitch and roll angles are between the âas deliveredâ and âfully loadedâ condition, inclusive.
+S10.2 Vehicle test attitude. When the vehicle is in its “as delivered,” “fully loaded” and “as tested” condition, locate the vehicle on a flat, horizontal surface to determine the vehicle attitude. Use the same level surface or reference plane and the same standard points on the test vehicle when determining the “as delivered,” “fully loaded” and “as tested” conditions. Measure the angles relative to a horizontal plane, front-to-rear and from left-to-right for the “as delivered,” “fully loaded,” and “as tested” conditions. The front-to-rear angle (pitch) is measured along a fixed reference on the left and right front occupant's door sills. Mark where the angles are taken on the door sills. The left to right angle (roll) is measured along a fixed reference point at the front and rear of the vehicle at the vehicle longitudinal center plane. Mark where the angles are measured. The “as delivered” condition is the vehicle as received at the test site, with 100 percent of all fluid capacities and all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard. When the vehicle is in its “fully loaded” condition, measure the angle between the left front occupant's door sill and the horizontal, at the same place the “as delivered” angle was measured. The “fully loaded condition” is the test vehicle loaded in accordance with S8.1 of this standard (49 CFR 571.214). The load placed in the cargo area is centered over the longitudinal centerline of the vehicle. The vehicle “as tested” pitch and roll angles are between the “as delivered” and “fully loaded” condition, inclusive.
 
 S10.3 Adjustable seats.
 
@@ -400,7 +400,7 @@ S10.8 Doors. Doors, including any rear hatchback or tailgate, are fully closed a
 
 S10.9 Transmission and brake engagement. For a vehicle equipped with a manual transmission, the transmission is placed in second gear. For a vehicle equipped with an automatic transmission, the transmission is placed in neutral. For all vehicles, the parking brake is engaged.
 
-S10.10 Rigid pole. The rigid pole is a vertical metal structure beginning no more than 102 millimeters (4 inches) above the lowest point of the tires on the striking side of the test vehicle when the vehicle is loaded as specified in S8.1 and extending above the highest point of the roof of the test vehicle. The pole is 254 mm (10 inches) Â±6 mm (0.25 in) in diameter and set off from any mounting surface, such as a barrier or other structure, so that the test vehicle will not contact such a mount or support at any time within 100 milliseconds of the initiation of vehicle to pole contact.
+S10.10 Rigid pole. The rigid pole is a vertical metal structure beginning no more than 102 millimeters (4 inches) above the lowest point of the tires on the striking side of the test vehicle when the vehicle is loaded as specified in S8.1 and extending above the highest point of the roof of the test vehicle. The pole is 254 mm (10 inches) ±6 mm (0.25 in) in diameter and set off from any mounting surface, such as a barrier or other structure, so that the test vehicle will not contact such a mount or support at any time within 100 milliseconds of the initiation of vehicle to pole contact.
 
 S10.11 Impact reference line. The impact reference line is located on the striking side of the vehicle at the intersection of the vehicle exterior and a vertical plane passing through the center of gravity of the head of the dummy seated in accordance with S12 in the front outboard designated seating position. The vertical plane forms an angle of 285 (or 75) degrees with the vehicle's longitudinal centerline for the right (or left) side impact test. The angle is measured counterclockwise from the vehicle's positive X-axis as defined in S10.13.
 
@@ -408,7 +408,7 @@ S10.12 Impact configuration.
 
 S10.12.1 The rigid pole is stationary.
 
-S10.12.2 The test vehicle is propelled sideways so that its line of forward motion forms an angle of 285 (or 75) degrees (Â±3 degrees) for the right (or left) side impact with the vehicle's longitudinal centerline. The angle is measured counterclockwise from the vehicle's positive X-axis as defined in S10.13. The impact reference line is aligned with the center line of the rigid pole surface, as viewed in the direction of vehicle motion, so that, when the vehicle-to-pole contact occurs, the center line contacts the vehicle area bounded by two vertical planes parallel to and 38 mm (1.5 inches) forward and aft of the impact reference line.
+S10.12.2 The test vehicle is propelled sideways so that its line of forward motion forms an angle of 285 (or 75) degrees (±3 degrees) for the right (or left) side impact with the vehicle's longitudinal centerline. The angle is measured counterclockwise from the vehicle's positive X-axis as defined in S10.13. The impact reference line is aligned with the center line of the rigid pole surface, as viewed in the direction of vehicle motion, so that, when the vehicle-to-pole contact occurs, the center line contacts the vehicle area bounded by two vertical planes parallel to and 38 mm (1.5 inches) forward and aft of the impact reference line.
 
 S10.13 Vehicle reference coordinate system. The vehicle reference coordinate system is an orthogonal coordinate system consisting of three axes, a longitudinal axis (X), a transverse axis (Y), and a vertical axis (Z). X and Y are in the same horizontal plane and Z passes through the intersection of X and Y. The origin of the system is at the center of gravity of the vehicle. The X-axis is parallel to the longitudinal centerline of the vehicle and is positive to the vehicle front end and negative to the rear end. The Y-axis is positive to the left side of the vehicle and negative to the right side. The Z-axis is positive above the X-Y plane and negative below it.
 
@@ -416,9 +416,9 @@ S11 Anthropomorphic test dummies. The anthropomorphic test dummies used to evalu
 
 S11.1 Clothing.
 
-(a) 50th percentile male. Each test dummy representing a 50th percentile male is clothed in formfitting cotton stretch garments with short sleeves and midcalf length pants. Each foot of the test dummy is equipped with a size 11EEE shoe, which meets the configuration size, sole, and heel thickness specifications of MIL-S-13192 (incorporated by reference, see Â§ 571.5) and weighs 0.68 Â±0.09 kilograms (1.25 Â±0.2 lb).
+(a) 50th percentile male. Each test dummy representing a 50th percentile male is clothed in formfitting cotton stretch garments with short sleeves and midcalf length pants. Each foot of the test dummy is equipped with a size 11EEE shoe, which meets the configuration size, sole, and heel thickness specifications of MIL-S-13192 (incorporated by reference, see § 571.5) and weighs 0.68 ±0.09 kilograms (1.25 ±0.2 lb).
 
-(b) 5th percentile female. The 49 CFR Part 572 Subpart V test dummy representing a 5th percentile female is clothed in formfitting cotton stretch garments with short sleeves and about the knee length pants. Each foot has on a size 7.5W shoe that meets the configuration and size specifications of MIL-S-21711E (incorporated by reference, see Â§ 571.5) or its equivalent.
+(b) 5th percentile female. The 49 CFR Part 572 Subpart V test dummy representing a 5th percentile female is clothed in formfitting cotton stretch garments with short sleeves and about the knee length pants. Each foot has on a size 7.5W shoe that meets the configuration and size specifications of MIL-S-21711E (incorporated by reference, see § 571.5) or its equivalent.
 
 S11.2 Limb joints.
 
@@ -442,13 +442,13 @@ S11.5 Processing Data.
 
 (iii) Remove the bias from the subsampled data; and
 
-(iv) Filter the data with the FIR100 software specified in 49 CFR 572.44(d), which has the following characteristicsâ
+(iv) Filter the data with the FIR100 software specified in 49 CFR 572.44(d), which has the following characteristics—
 
 (A) Passband frequency 100 Hz.
 
 (B) Stopband frequency 189 Hz.
 
-(C) Stopband gain â50 db.
+(C) Stopband gain −50 db.
 
 (D) Passband ripple 0.0225 db.
 
@@ -470,7 +470,7 @@ S11.5 Processing Data.
 
 S12 Positioning procedures for the anthropomorphic test dummies.
 
-S12.1 50th percentile male test dummyâ49 CFR part 572 subpart F (SID). Position a correctly configured test dummy, conforming to the applicable requirements of part 572 Subpart F of this chapter, in the front outboard seating position on the side of the test vehicle to be struck by the moving deformable barrier and, if the vehicle has a second seat, position another conforming test dummy in the second seat outboard position on the same side of the vehicle, as specified in S12.1.3. Each test dummy is restrained using all available belt systems in all seating positions where such belt restraints are provided. Place any adjustable anchorages at the manufacturer's nominal design position for a 50th percentile adult male occupant. In addition, any folding armrest is retracted. Additional positioning procedures are specified below.
+S12.1 50th percentile male test dummy—49 CFR part 572 subpart F (SID). Position a correctly configured test dummy, conforming to the applicable requirements of part 572 Subpart F of this chapter, in the front outboard seating position on the side of the test vehicle to be struck by the moving deformable barrier and, if the vehicle has a second seat, position another conforming test dummy in the second seat outboard position on the same side of the vehicle, as specified in S12.1.3. Each test dummy is restrained using all available belt systems in all seating positions where such belt restraints are provided. Place any adjustable anchorages at the manufacturer's nominal design position for a 50th percentile adult male occupant. In addition, any folding armrest is retracted. Additional positioning procedures are specified below.
 
 S12.1.1 Positioning a Part 572 Subpart F (SID) dummy in the driver's seating position.
 
@@ -485,7 +485,7 @@ S12.1.1 Positioning a Part 572 Subpart F (SID) dummy in the driver's seating pos
 (1) H-point. The H-points of each test dummy coincide within 12.7 mm (
 1/2 inch) in the vertical dimension and 12.7 mm (
 1/2 inch) in the horizontal dimension of a point that is located 6.4 mm (
-1/4 inch) below the position of the H-point determined by using the equipment for the 50th percentile and procedures specified in SAE Standard J826-1980 (incorporated by reference, see Â§ 571.5), except that Table 1 of SAE Standard J826-1980 is not applicable. The length of the lower leg and thigh segments of the H-point machine are adjusted to 414 and 401 mm (16.3 and 15.8 inches), respectively.
+1/4 inch) below the position of the H-point determined by using the equipment for the 50th percentile and procedures specified in SAE Standard J826-1980 (incorporated by reference, see § 571.5), except that Table 1 of SAE Standard J826-1980 is not applicable. The length of the lower leg and thigh segments of the H-point machine are adjusted to 414 and 401 mm (16.3 and 15.8 inches), respectively.
 
 (2) Pelvic angle. As determined using the pelvic angle gauge (GM drawing 78051-532 incorporated by reference in part 572, Subpart E of this chapter) which is inserted into the H-point gauging hole of the dummy, the angle of the plane of the surface on the lumbar-pelvic adaptor on which the lumbar spine attaches is 23 to 25 degrees from the horizontal, sloping upward toward the front of the vehicle.
 
@@ -506,7 +506,7 @@ S12.1.2 Positioning a Part 572 Subpart F (SID) dummy in any front outboard passe
 (1) H-point. The H-points of each test dummy coincide within 12.7 mm (
 1/2 inch) in the vertical dimension and 12.7 mm (
 1/2 inch) in the horizontal dimension of a point that is located 6.4 mm (
-1/4 inch) below the position of the H-point determined by using the equipment for the 50th percentile and procedures specified in SAE Standard J826-1980 (incorporated by reference, see Â§ 571.5), except that Table 1 of SAE J826-1980 is not applicable. The length of the lower leg and thigh segments of the H-point machine are adjusted to 414 and 401 mm (16.3 and 15.8 inches), respectively.
+1/4 inch) below the position of the H-point determined by using the equipment for the 50th percentile and procedures specified in SAE Standard J826-1980 (incorporated by reference, see § 571.5), except that Table 1 of SAE J826-1980 is not applicable. The length of the lower leg and thigh segments of the H-point machine are adjusted to 414 and 401 mm (16.3 and 15.8 inches), respectively.
 
 (2) Pelvic angle. As determined using the pelvic angle gauge (GM drawing 78051-532 incorporated by reference in part 572, Subpart E of this chapter) which is inserted into the H-point gauging hole of the dummy, the angle of the plane of the surface on the lumbar-pelvic adaptor on which the lumbar spine attaches is 23 to 25 degrees from the horizontal, sloping upward toward the front of the vehicle.
 
@@ -527,7 +527,7 @@ S12.1.3 Positioning a Part 572 Subpart F (SID) dummy in the rear outboard seatin
 (1) H-point. The H-points of each test dummy coincide within 12.7 mm (
 1/2 inch) in the vertical dimension and 12.7 mm (
 1/2 inch) in the horizontal dimension of a point that is located 6.4 mm (
-1/4 inch) below the position of the H-point determined by using the equipment for the 50th percentile and procedures specified in SAE Standard J826-1980 (incorporated by reference, see Â§ 571.5), except that Table 1 of SAE J826-1980 is not applicable. The length of the lower leg and thigh segments of the H-point machine are adjusted to 414 and 401 mm (16.3 and 15.8 inches), respectively.
+1/4 inch) below the position of the H-point determined by using the equipment for the 50th percentile and procedures specified in SAE Standard J826-1980 (incorporated by reference, see § 571.5), except that Table 1 of SAE J826-1980 is not applicable. The length of the lower leg and thigh segments of the H-point machine are adjusted to 414 and 401 mm (16.3 and 15.8 inches), respectively.
 
 (2) Pelvic angle. As determined using the pelvic angle gauge (GM drawing 78051-532 incorporated by reference in part 572, Subpart E of this chapter) which is inserted into the H-point gauging hole of the dummy, the angle of the plane of the surface on the lumbar-pelvic adaptor on which the lumbar spine attaches is 23 to 25 degrees from the horizontal, sloping upward toward the front of the vehicle.
 
@@ -535,7 +535,7 @@ S12.1.3 Positioning a Part 572 Subpart F (SID) dummy in the rear outboard seatin
 
 (d) Feet. Place the feet of the test dummy flat on the floorpan and beneath the front seat as far as possible without front seat interference. If necessary, the distance between the knees may be changed in order to place the feet beneath the seat.
 
-S12.2 50th percentile male test dummyâ49 CFR Part 572 Subpart U (ES-2re).
+S12.2 50th percentile male test dummy—49 CFR Part 572 Subpart U (ES-2re).
 
 S12.2.1 Positioning an ES-2re dummy in all seating positions. Position a correctly configured ES-2re test dummy, conforming to the applicable requirements of part 572 of this chapter, in the front outboard seating position on the side of the test vehicle to be struck by the moving deformable barrier or pole. Restrain the test dummy using all available belt systems in the seating positions where the belt restraints are provided. Place any adjustable anchorages at the manufacturer's nominal design position for a 50th percentile adult male occupant. Retract any folding armrest.
 
@@ -547,19 +547,19 @@ S12.2.1 Positioning an ES-2re dummy in all seating positions. Position a correct
 
 (b) Pelvis. Position the pelvis of the dummy according to the following:
 
-(1) Position the pelvis of the dummy such that a lateral line passing through the dummy H-points is perpendicular to the longitudinal center plane of the seat. The line through the dummy H-points is horizontal with a maximum inclination of Â±2 degrees. The dummy may be equipped with tilt sensors in the thorax and the pelvis. These instruments can help to obtain the desired position.
+(1) Position the pelvis of the dummy such that a lateral line passing through the dummy H-points is perpendicular to the longitudinal center plane of the seat. The line through the dummy H-points is horizontal with a maximum inclination of ±2 degrees. The dummy may be equipped with tilt sensors in the thorax and the pelvis. These instruments can help to obtain the desired position.
 
 (2) The correct position of the dummy pelvis may be checked relative to the H-point of the H-point Manikin by using the M3 holes in the H-point back plates at each side of the ES-2re pelvis. Position the dummy such that the M3 holes are located within a circle of radius 10 mm (0.39 in.) around the H-point of the H-point Manikin.
 
-(c) Arms. Place the dummy's upper arms such that the angle between the projection of the arm centerline on the mid-sagittal plane of the dummy and the torso reference line is 40Â° Â±5Â°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, 40, and 90 degree settings forward of the spine.
+(c) Arms. Place the dummy's upper arms such that the angle between the projection of the arm centerline on the mid-sagittal plane of the dummy and the torso reference line is 40° ±5°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, 40, and 90 degree settings forward of the spine.
 
 (d) Legs and Feet. Position the legs and feet of the dummy according to the following:
 
-(1) For the driver's seating position, without inducing pelvis or torso movement, place the right foot of the dummy on the un-pressed accelerator pedal with the heel resting as far forward as possible on the floor pan. Set the left foot perpendicular to the lower leg with the heel resting on the floor pan in the same lateral line as the right heel. Set the knees of the dummy such that their outside surfaces are 150 Â±10 mm (5.9 Â±0.4 inches) from the plane of symmetry of the dummy. If possible within these constraints, place the thighs of the dummy in contact with the seat cushion.
+(1) For the driver's seating position, without inducing pelvis or torso movement, place the right foot of the dummy on the un-pressed accelerator pedal with the heel resting as far forward as possible on the floor pan. Set the left foot perpendicular to the lower leg with the heel resting on the floor pan in the same lateral line as the right heel. Set the knees of the dummy such that their outside surfaces are 150 ±10 mm (5.9 ±0.4 inches) from the plane of symmetry of the dummy. If possible within these constraints, place the thighs of the dummy in contact with the seat cushion.
 
-(2) For other seating positions, without inducing pelvis or torso movement, place the heels of the dummy as far forward as possible on the floor pan without compressing the seat cushion more than the compression due to the weight of the leg. Set the knees of the dummy such that their outside surfaces are 150 Â±10 mm (5.9 Â±0.4 inches) from the plane of symmetry of the dummy.
+(2) For other seating positions, without inducing pelvis or torso movement, place the heels of the dummy as far forward as possible on the floor pan without compressing the seat cushion more than the compression due to the weight of the leg. Set the knees of the dummy such that their outside surfaces are 150 ±10 mm (5.9 ±0.4 inches) from the plane of symmetry of the dummy.
 
-S12.3 5th percentile female test dummyâ49 CFR Part 572 Subpart V (SID-IIs). Position a correctly configured 5th percentile female Part 572 Subpart V (SID-IIs) test dummy, conforming to the applicable requirements of part 572 of this chapter, in the front outboard seating position on the side of the test vehicle to be struck by the pole and, for the moving deformable barrier, if the vehicle has a second seat, position a conforming test dummy in the second seat outboard position on the same side of the vehicle (side to be struck) as specified in S12.3.4. Retract any folding armrest. Additional procedures are specified below.
+S12.3 5th percentile female test dummy—49 CFR Part 572 Subpart V (SID-IIs). Position a correctly configured 5th percentile female Part 572 Subpart V (SID-IIs) test dummy, conforming to the applicable requirements of part 572 of this chapter, in the front outboard seating position on the side of the test vehicle to be struck by the pole and, for the moving deformable barrier, if the vehicle has a second seat, position a conforming test dummy in the second seat outboard position on the same side of the vehicle (side to be struck) as specified in S12.3.4. Retract any folding armrest. Additional procedures are specified below.
 
 S12.3.1 General provisions and definitions.
 
@@ -573,30 +573,30 @@ S12.3.1 General provisions and definitions.
 
 (e) Definitions.
 
-(1) The term âmidsagittal planeâ refers to the vertical plane that separates the dummy into equal left and right halves.
+(1) The term “midsagittal plane” refers to the vertical plane that separates the dummy into equal left and right halves.
 
-(2) The term âvertical longitudinal planeâ refers to a vertical plane parallel to the vehicle's longitudinal centerline.
+(2) The term “vertical longitudinal plane” refers to a vertical plane parallel to the vehicle's longitudinal centerline.
 
-(3) The term âvertical planeâ refers to a vertical plane, not necessarily parallel to the vehicle's longitudinal centerline.
+(3) The term “vertical plane” refers to a vertical plane, not necessarily parallel to the vehicle's longitudinal centerline.
 
-(4) The term âtransverse instrumentation platformâ refers to the transverse instrumentation surface inside the dummy's skull casting to which the neck load cell mounts. This surface is perpendicular to the skull cap's machined inferior-superior mounting surface.
+(4) The term “transverse instrumentation platform” refers to the transverse instrumentation surface inside the dummy's skull casting to which the neck load cell mounts. This surface is perpendicular to the skull cap's machined inferior-superior mounting surface.
 
-(5) The term âthighâ refers to the femur between, but not including, the knee and the pelvis.
+(5) The term “thigh” refers to the femur between, but not including, the knee and the pelvis.
 
-(6) The term âlegâ refers to the lower part of the entire leg including the knee.
+(6) The term “leg” refers to the lower part of the entire leg including the knee.
 
-(7) The term âfootâ refers to the foot, including the ankle.
+(7) The term “foot” refers to the foot, including the ankle.
 
 (8) For leg and thigh angles, use the following references:
 
-(i) Thighâa straight line on the thigh skin between the center of the
+(i) Thigh—a straight line on the thigh skin between the center of the
 1/2-13 UNC-2B tapped hole in the upper leg femur clamp and the knee pivot shoulder bolt.
 
-(ii) Legâa straight line on the leg skin between the center of the ankle shell and the knee pivot shoulder bolt.
+(ii) Leg—a straight line on the leg skin between the center of the ankle shell and the knee pivot shoulder bolt.
 
-(9) The term âseat cushion reference pointâ (SCRP) means a point placed on the outboard side of the seat cushion at a horizontal distance between 150 mm (5.9 in) and 250 mm (9.8 in) from the front edge of the seat used as a guide in positioning the seat.
+(9) The term “seat cushion reference point” (SCRP) means a point placed on the outboard side of the seat cushion at a horizontal distance between 150 mm (5.9 in) and 250 mm (9.8 in) from the front edge of the seat used as a guide in positioning the seat.
 
-(10) The term âseat cushion reference lineâ means a line on the side of the seat cushion, passing through the seat cushion reference point, whose projection in the vehicle vertical longitudinal plane is straight and has a known angle with respect to the horizontal.
+(10) The term “seat cushion reference line” means a line on the side of the seat cushion, passing through the seat cushion reference point, whose projection in the vehicle vertical longitudinal plane is straight and has a known angle with respect to the horizontal.
 
 S12.3.2 5th percentile female driver dummy positioning.
 
@@ -606,27 +606,27 @@ S12.3.2 5th percentile female driver dummy positioning.
 
 (2) Fully recline the seat back, if adjustable. Install the dummy into the driver's seat, such that when the legs are positioned 120 degrees to the thighs, the calves of the legs are not touching the seat cushion.
 
-(3) Bucket seats. Center the dummy on the seat cushion so that its midsagittal plane is vertical and passes through the SgRP within Â±10 mm (Â±0.4 in).
+(3) Bucket seats. Center the dummy on the seat cushion so that its midsagittal plane is vertical and passes through the SgRP within ±10 mm (±0.4 in).
 
-(4) Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and aligned within Â±10 mm (Â±0.4 in) of the center of the steering control rim.
+(4) Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and aligned within ±10 mm (±0.4 in) of the center of the steering control rim.
 
 (5) Hold the dummy's thighs down and push rearward on the upper torso to maximize the dummy's pelvic angle.
 
 (6) Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
 
-(7) Gently rock the upper torso relative to the lower torso laterally in a side to side motion three times through a Â±5 degree arc (approximately 51 mm (2 in) side to side).
+(7) Gently rock the upper torso relative to the lower torso laterally in a side to side motion three times through a ±5 degree arc (approximately 51 mm (2 in) side to side).
 
-(8) If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. Keeping the leg and the thigh in a vertical plane, place the foot in the vertical longitudinal plane that passes through the centerline of the accelerator pedal. Rotate the left thigh outboard about the hip until the center of the knee is the same distance from the midsagittal plane of the dummy as the right knee Â±5 mm (Â±0.2 in). Using only the control that moves the seat fore and aft, attempt to return the seat to the full forward position. If either of the dummy's legs first contacts the steering control, then adjust the steering control, if adjustable, upward until contact with the steering control is avoided. If the steering control is not adjustable, separate the knees enough to avoid steering control contact. Proceed with moving the seat forward until either the leg contacts the vehicle interior or the seat reaches the full forward position. (The right foot may contact and depress the accelerator and/or change the angle of the foot with respect to the leg during seat movement.) If necessary to avoid contact with the vehicle's brake or clutch pedal, rotate the test dummy's left foot about the leg. If there is still interference, rotate the left thigh outboard about the hip the minimum distance necessary to avoid pedal interference. If a dummy leg contacts the vehicle interior before the full forward position is attained, position the seat at the next detent where there is no contact. If the seat is a power seat, move the seat fore and aft to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the vehicle interior and the point on the dummy that would first contact the vehicle interior. If the steering control was moved, return it to the position described in S10.5. If the steering control contacts the dummy's leg(s) prior to attaining this position, adjust it to the next higher detent, or if infinitely adjustable, until there is 5 mm (0.2 in) clearance between the control and the dummy's leg(s).
+(8) If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. Keeping the leg and the thigh in a vertical plane, place the foot in the vertical longitudinal plane that passes through the centerline of the accelerator pedal. Rotate the left thigh outboard about the hip until the center of the knee is the same distance from the midsagittal plane of the dummy as the right knee ±5 mm (±0.2 in). Using only the control that moves the seat fore and aft, attempt to return the seat to the full forward position. If either of the dummy's legs first contacts the steering control, then adjust the steering control, if adjustable, upward until contact with the steering control is avoided. If the steering control is not adjustable, separate the knees enough to avoid steering control contact. Proceed with moving the seat forward until either the leg contacts the vehicle interior or the seat reaches the full forward position. (The right foot may contact and depress the accelerator and/or change the angle of the foot with respect to the leg during seat movement.) If necessary to avoid contact with the vehicle's brake or clutch pedal, rotate the test dummy's left foot about the leg. If there is still interference, rotate the left thigh outboard about the hip the minimum distance necessary to avoid pedal interference. If a dummy leg contacts the vehicle interior before the full forward position is attained, position the seat at the next detent where there is no contact. If the seat is a power seat, move the seat fore and aft to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the vehicle interior and the point on the dummy that would first contact the vehicle interior. If the steering control was moved, return it to the position described in S10.5. If the steering control contacts the dummy's leg(s) prior to attaining this position, adjust it to the next higher detent, or if infinitely adjustable, until there is 5 mm (0.2 in) clearance between the control and the dummy's leg(s).
 
 (9) Head leveling.
 
-(i) Vehicles with fixed seat backs. Adjust the lower neck bracket to level the transverse instrumentation platform angle of the head to within Â±0.5 degrees. If it is not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the neck bracket adjustment position that minimizes the difference between the transverse instrumentation platform angle and level.
+(i) Vehicles with fixed seat backs. Adjust the lower neck bracket to level the transverse instrumentation platform angle of the head to within ±0.5 degrees. If it is not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the neck bracket adjustment position that minimizes the difference between the transverse instrumentation platform angle and level.
 
-(ii) Vehicles with adjustable seat backs. While holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform angle of the head is level to within Â±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. (If the torso contacts the steering control, use S12.3.2(a)(10) before proceeding with the remaining portion of this paragraph.) If it is not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the seat back adjustment position that minimizes the difference between the transverse instrumentation platform angle and level, then adjust the neck bracket to level the transverse instrumentation platform angle to within Â±0.5 degrees if possible. If it is still not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the neck bracket angle position that minimizes the difference between the transverse instrumentation platform angle and level.
+(ii) Vehicles with adjustable seat backs. While holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform angle of the head is level to within ±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. (If the torso contacts the steering control, use S12.3.2(a)(10) before proceeding with the remaining portion of this paragraph.) If it is not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the seat back adjustment position that minimizes the difference between the transverse instrumentation platform angle and level, then adjust the neck bracket to level the transverse instrumentation platform angle to within ±0.5 degrees if possible. If it is still not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the neck bracket angle position that minimizes the difference between the transverse instrumentation platform angle and level.
 
 (10) If the torso contacts the steering control, adjust the steering control in the following order until there is no contact: Telescoping adjustment, lowering adjustment, raising adjustment. If the vehicle has no adjustments or contact with the steering control cannot be eliminated by adjustment, position the seat at the next detent where there is no contact with the steering control as adjusted in S10.5. If the seat is a power seat, position the seat to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the steering control as adjusted in S10.5 and the point of contact on the dummy.
 
-(11) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees Â±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
+(11) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
 
 (12) If the dummy is contacting the vehicle interior after these adjustments, move the seat rearward until there is a maximum of 5 mm (0.2 in) between the contact point of the dummy and the interior of the vehicle or if it has a manual seat adjustment, to the next rearward detent position. If after these adjustments, the dummy contact point is more than 5 mm (0.2 in) from the vehicle interior and the seat is still not in its forwardmost position, move the seat forward until the contact point is 5 mm (0.2 in) or less from the vehicle interior, or if it has a manual seat adjustment, move the seat to the closest detent position without making contact, or until the seat reaches its forwardmost position, whichever occurs first.
 
@@ -654,7 +654,7 @@ S12.3.2 5th percentile female driver dummy positioning.
 
 (iii) Rotate the left leg outboard about the hip.
 
-(c) Driver arm/hand positioning. Place the dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45Â° Â±5Â°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, Â±45, Â±90, Â±135, and 180 degree settings where positive is forward of the spine.
+(c) Driver arm/hand positioning. Place the dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45° ±5°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, ±45, ±90, ±135, and 180 degree settings where positive is forward of the spine.
 
 S12.3.3 5th percentile female front passenger dummy positioning.
 
@@ -664,25 +664,25 @@ S12.3.3 5th percentile female front passenger dummy positioning.
 
 (2) Fully recline the seat back, if adjustable. Place the dummy into any passenger seat, such that when the legs are positioned 120 degrees to the thighs, the calves of the legs are not touching the seat cushion.
 
-(3) Bucket seats. Place the dummy on the seat cushion so that its midsagittal plane is vertical and passes through the SgRP within Â±10 mm (Â±0.4 in).
+(3) Bucket seats. Place the dummy on the seat cushion so that its midsagittal plane is vertical and passes through the SgRP within ±10 mm (±0.4 in).
 
-(4) Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the midsagittal plane of the driver dummy, if there is a driver's seating position. Otherwise, the midsagittal plane of any front outboard passenger dummy shall be vertical, parallel to the vehicle's longitudinal centerline, and pass, within Â±10 mm (Â±0.4 in), through the seating reference point of the seating that it occupies.
+(4) Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the midsagittal plane of the driver dummy, if there is a driver's seating position. Otherwise, the midsagittal plane of any front outboard passenger dummy shall be vertical, parallel to the vehicle's longitudinal centerline, and pass, within ±10 mm (±0.4 in), through the seating reference point of the seating that it occupies.
 
 (5) Hold the dummy's thighs down and push rearward on the upper torso to maximize the dummy's pelvic angle.
 
 (6) Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
 
-(7) Gently rock the upper torso relative to the lower torso laterally in a side to side motion three times through a Â±5 degree arc (approximately 51 mm (2 in) side to side).
+(7) Gently rock the upper torso relative to the lower torso laterally in a side to side motion three times through a ±5 degree arc (approximately 51 mm (2 in) side to side).
 
 (8) If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. With the feet perpendicular to the legs, place the heels on the floor pan. If a heel will not contact the floor pan, place it as close to the floor pan as possible. Using only the control that primarily moves the seat fore and aft, attempt to return the seat to the full forward position. If a dummy leg contacts the vehicle interior before the full forward position is attained, position the seat at the next detent where there is no contact. If the seats are power seats, position the seat to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the vehicle interior and the point on the dummy that would first contact the vehicle interior.
 
 (9) Head leveling.
 
-(i) Vehicles with fixed seat backs. Adjust the lower neck bracket to level the transverse instrumentation platform angle of the head to within Â±0.5 degrees. If it is not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the neck bracket adjustment position that minimizes the difference between the transverse instrumentation platform angle and level.
+(i) Vehicles with fixed seat backs. Adjust the lower neck bracket to level the transverse instrumentation platform angle of the head to within ±0.5 degrees. If it is not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the neck bracket adjustment position that minimizes the difference between the transverse instrumentation platform angle and level.
 
-(ii) Vehicles with adjustable seat backs. While holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform angle of the head is level to within Â±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. If it is not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the seat back adjustment position that minimizes the difference between the transverse instrumentation platform angle and level, then adjust the neck bracket to level the transverse instrumentation platform angle to within Â±0.5 degrees if possible. If it is still not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the neck bracket angle position that minimizes the difference between the transverse instrumentation platform angle and level.
+(ii) Vehicles with adjustable seat backs. While holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform angle of the head is level to within ±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. If it is not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the seat back adjustment position that minimizes the difference between the transverse instrumentation platform angle and level, then adjust the neck bracket to level the transverse instrumentation platform angle to within ±0.5 degrees if possible. If it is still not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the neck bracket angle position that minimizes the difference between the transverse instrumentation platform angle and level.
 
-(10) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees Â±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
+(10) Measure and set the dummy's pelvic angle using the pelvic angle gage. The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S12.3.2(a)(9).
 
 (11) If the dummy is contacting the vehicle interior after these adjustments, move the seat rearward until there is a maximum of 5 mm (0.2 in) between the contact point of the dummy and the interior of the vehicle or if it has a manual seat adjustment, to the next rearward detent position. If after these adjustments, the dummy contact point is more than 5 mm (0.2 in) from the vehicle interior and the seat is still not in its forwardmost position, move the seat forward until the contact point is 5 mm (0.2 in) or less from the vehicle interior, or if it has a manual seat adjustment, move the seat to the closest detent position without making contact, or until the seat reaches its forwardmost position, whichever occurs first.
 
@@ -694,7 +694,7 @@ S12.3.3 5th percentile female front passenger dummy positioning.
 
 (3) If either foot does not contact the floor pan, place the foot parallel to the floor pan and place the lower leg as perpendicular to the thigh as possible.
 
-(c) Passenger arm/hand positioning. Place the dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45Â° Â±5Â°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, Â±45, Â±90, Â±135, and 180 degree settings where positive is forward of the spine.
+(c) Passenger arm/hand positioning. Place the dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45° ±5°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, ±45, ±90, ±135, and 180 degree settings where positive is forward of the spine.
 
 S12.3.4 5th percentile female in rear outboard seating positions.
 
@@ -702,25 +702,25 @@ S12.3.4 5th percentile female in rear outboard seating positions.
 
 (b) Fully recline the seat back, if adjustable. Install the dummy into the passenger's seat, such that when the legs are 120 degrees to the thighs, the calves of the legs are not touching the seat cushion.
 
-(c) Place the dummy on the seat cushion so that its midsagittal plane is vertical and coincides with the vertical longitudinal plane through the center of the seating position SgRP within Â±10 mm (Â±0.4 in).
+(c) Place the dummy on the seat cushion so that its midsagittal plane is vertical and coincides with the vertical longitudinal plane through the center of the seating position SgRP within ±10 mm (±0.4 in).
 
 (d) Hold the dummy's thighs down and push rearward on the upper torso to maximize the dummy's pelvic angle.
 
 (e) Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
 
-(f) Gently rock the upper torso laterally side to side three times through a Â±5 degree arc (approximately 51 mm (2 in) side to side).
+(f) Gently rock the upper torso laterally side to side three times through a ±5 degree arc (approximately 51 mm (2 in) side to side).
 
 (g) If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. With the feet perpendicular to the legs, place the heels on the floor pan. If a heel will not contact the floor pan, place it as close to the floor pan as possible.
 
 (h) Head leveling.
 
-(1) Vehicles with fixed seat backs. Adjust the lower neck bracket to level the transverse instrumentation platform angle of the head to within Â±0.5 degrees. If it is not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the neck bracket adjustment position that minimizes the difference between the transverse instrumentation platform angle and level.
+(1) Vehicles with fixed seat backs. Adjust the lower neck bracket to level the transverse instrumentation platform angle of the head to within ±0.5 degrees. If it is not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the neck bracket adjustment position that minimizes the difference between the transverse instrumentation platform angle and level.
 
-(2) Vehicles with adjustable seat backs. While holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform angle of the head is level to within Â±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. If it is not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the seat back adjustment position that minimizes the difference between the transverse instrumentation platform angle and level, then adjust the neck bracket to level the transverse instrumentation platform angle to within Â±0.5 degrees if possible. If it is still not possible to level the transverse instrumentation platform to within Â±0.5 degrees, select the neck bracket angle position that minimizes the difference between the transverse instrumentation platform angle and level.
+(2) Vehicles with adjustable seat backs. While holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform angle of the head is level to within ±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. If it is not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the seat back adjustment position that minimizes the difference between the transverse instrumentation platform angle and level, then adjust the neck bracket to level the transverse instrumentation platform angle to within ±0.5 degrees if possible. If it is still not possible to level the transverse instrumentation platform to within ±0.5 degrees, select the neck bracket angle position that minimizes the difference between the transverse instrumentation platform angle and level.
 
 (i) [Reserved]
 
-(j) Measure and set the dummy's pelvic angle using the pelvic angle gauge. The angle is set to 20.0 degrees Â±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible, as specified in S12.3.4(h).
+(j) Measure and set the dummy's pelvic angle using the pelvic angle gauge. The angle is set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible, as specified in S12.3.4(h).
 
 (k) Passenger foot positioning.
 
@@ -728,7 +728,7 @@ S12.3.4 5th percentile female in rear outboard seating positions.
 
 (2) If either foot does not contact the floor pan, place the foot parallel to the floor and place the leg as perpendicular to the thigh as possible.
 
-(l) Passenger arm/hand positioning. Place the rear dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45Â° Â±5Â°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, Â±45, Â±90, Â±135, and 180 degree settings where positive is forward of the spine.
+(l) Passenger arm/hand positioning. Place the rear dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45° ±5°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, ±45, ±90, ±135, and 180 degree settings where positive is forward of the spine.
 
 S13 Phase-in of moving deformable barrier and vehicle-to-pole performance requirements.
 
@@ -808,19 +808,19 @@ S13.4 Calculation of complying vehicles.
 
 (a) For the purposes of calculating the vehicles complying with S13.1.1, a manufacturer may count a vehicle if it is manufactured on or after October 11, 2007 but before September 1, 2011.
 
-(b) For purposes of complying with S13.1.2, a manufacturer may count a vehicle if itâ
+(b) For purposes of complying with S13.1.2, a manufacturer may count a vehicle if it—
 
 (1) Is manufactured on or after October 11, 2007 but before September 1, 2012 and,
 
 (2) Is not counted toward compliance with S13.1.1.
 
-(c) For purposes of complying with S13.1.3, a manufacturer may count a vehicle if itâ
+(c) For purposes of complying with S13.1.3, a manufacturer may count a vehicle if it—
 
 (1) Is manufactured on or after October 11, 2007 but before September 1, 2013 and,
 
 (2) Is not counted toward compliance with S13.1.1 or S13.1.2.
 
-(d) For purposes of complying with S13.1.4, a manufacturer may count a vehicle if itâ
+(d) For purposes of complying with S13.1.4, a manufacturer may count a vehicle if it—
 
 (1) Is manufactured on or after October 11, 2007 but before September 1, 2014 and,
 

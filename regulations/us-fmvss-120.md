@@ -13,7 +13,7 @@ systems:
 - Tires & wheels
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.120 Tire selection and rims and motor home/recreation vehicle trailer
+title: § 571.120 Tire selection and rims and motor home/recreation vehicle trailer
   load carrying capacity information for motor vehicles with a GVWR of more than 4,536
   kilograms (10,000 pounds).
 vehicle_categories:
@@ -23,7 +23,7 @@ vehicle_categories:
 - Motorcycle
 ---
 
-## Â§ 571.120 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds).
+## § 571.120 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds).
 
 S1. Scope. This standard specifies tire and rim selection requirements, rim marking requirements and motor home/recreation vehicle trailer load carrying capacity information.
 
@@ -49,7 +49,7 @@ S5. Requirements.
 
 S5.1 Tire and rim selection.
 
-S5.1.1 Except as specified in S5.1.3, each vehicle equipped with pneumatic tires for highway service shall be equipped with tires that meet the requirements of Â§ 571.109, Â§ 571.119 or Â§ 571.139, and rims that are listed by the manufacturer of the tires as suitable for use with those tires, in accordance with S4.4 of Â§ 571.109 or S5.1 of Â§ 571.119, as applicable, except that vehicles may be equipped with a non-pneumatic spare tire assembly that meets the requirements of Â§ 571.129, New non-pneumatic tires for passenger cars, and S8 of this standard. Vehicles equipped with such an assembly shall meet the requirements of S5.3.3, S7, and S9 of this standard.
+S5.1.1 Except as specified in S5.1.3, each vehicle equipped with pneumatic tires for highway service shall be equipped with tires that meet the requirements of § 571.109, § 571.119 or § 571.139, and rims that are listed by the manufacturer of the tires as suitable for use with those tires, in accordance with S4.4 of § 571.109 or S5.1 of § 571.119, as applicable, except that vehicles may be equipped with a non-pneumatic spare tire assembly that meets the requirements of § 571.129, New non-pneumatic tires for passenger cars, and S8 of this standard. Vehicles equipped with such an assembly shall meet the requirements of S5.3.3, S7, and S9 of this standard.
 
 S5.1.2 Except in the case of a vehicle which has a speed attainable in 3.2 kilometers of 80 kilometers per hour or less, the sum of the maximum load ratings of the tires fitted to an axle shall be not less than the gross axle weight rating (GAWR) of the axle system as specified on the vehicle's certification label required by 49 CFR part 567. Except in the case of a vehicle which has a speed attainable in 2 miles of 50 mph or less, the sum of the maximum load ratings of the tires fitted to an axle shall be not less than the gross axle weight rating (GAWR) of the axle system as specified on the vehicle's certification label required by 49 CFR part 567. If the certification label shows more than one GAWR for the axle system, the sum shall be not less than the GAWR corresponding to the size designation of the tires fitted to the axle. If the size designation of the tires fitted to the axle does not appear on the certification label, the sum shall be not less than the lowest GAWR appearing on the label. When a passenger car tire is installed on a multipurpose passenger vehicle, truck, bus, or trailer, the tire's load rating shall be reduced by dividing by 1.10 before calculating the sum (i.e., the sum of the load ratings of the tires on each axle, when the tires' load carrying capacity at the recommended tire cold inflation pressure is reduced by dividing by 1.10, must be appropriate for the GAWR).
 
@@ -59,23 +59,23 @@ S5.2 Rim marking. Each rim or, at the option of the manufacturer in the case of 
 
 (a) A designation which indicates the source of the rim's published nominal dimensions, as follows:
 
-(1) âTâ indicates The Tire and Rim Association.
+(1) “T” indicates The Tire and Rim Association.
 
-(2) âEâ indicates The European Tyre and Rim Technical Organisation
+(2) “E” indicates The European Tyre and Rim Technical Organisation
 
-(3) âJâ indicates Japan Automobile Tire Manufacturers' Association, Inc.
+(3) “J” indicates Japan Automobile Tire Manufacturers' Association, Inc.
 
-(4) âDâ indicates Deutsche Industrie Norm.
+(4) “D” indicates Deutsche Industrie Norm.
 
-(5) âBâ indicates British Standards Institution.
+(5) “B” indicates British Standards Institution.
 
-(6) âSâ indicates Scandinavian Tire and Rim Organization.
+(6) “S” indicates Scandinavian Tire and Rim Organization.
 
-(7) âAâ indicates The Tyre and Rim Association of Australia.
+(7) “A” indicates The Tyre and Rim Association of Australia.
 
-(8) âNâ indicates an independent listing pursuant to S4.4.1(a) of Standard No. 109 or S5.1(a) of Standard No. 119.
+(8) “N” indicates an independent listing pursuant to S4.4.1(a) of Standard No. 109 or S5.1(a) of Standard No. 119.
 
-(b) The rim size designation, and in case of multipiece rims, the rim type designation. For example: 20 Ã 5.50, or 20 Ã 5.5.
+(b) The rim size designation, and in case of multipiece rims, the rim type designation. For example: 20 × 5.50, or 20 × 5.5.
 
 (c) The symbol DOT, constituting a certification by the manufacturer of the rim that the rim complies with all applicable motor vehicle safety standards.
 
@@ -83,13 +83,13 @@ S5.2 Rim marking. Each rim or, at the option of the manufacturer in the case of 
 
 (e) The month, day and year or the month and year of manufacture, expressed either numerically or by use of a symbol, at the option of the manufacturer. For example:
 
-âSeptember 4, 1976â may be expressed numerically as:
+“September 4, 1976” may be expressed numerically as:
 
 90476, 904, or 76
 
 76 904
 
-âSeptember 1976â may be expressed as:
+“September 1976” may be expressed as:
 
 976, 9, or 76
 
@@ -99,17 +99,17 @@ S5.2 Rim marking. Each rim or, at the option of the manufacturer in the case of 
 
 (2) Each manufacturer of wheels shall provide an explanation of its date of manufacture symbol to any person upon request.
 
-S5.3 Each vehicle shall show the information specified in S5.3.1 and S5.3.2 and, in the case of a vehicle equipped with a non-pneumatic spare tire, the information specified in S5.3.3, in the English language, lettered in block capitals and numerals not less than 2.4 millimeters high and in the format set forth following this paragraph. This information shall appear eitherâ
+S5.3 Each vehicle shall show the information specified in S5.3.1 and S5.3.2 and, in the case of a vehicle equipped with a non-pneumatic spare tire, the information specified in S5.3.3, in the English language, lettered in block capitals and numerals not less than 2.4 millimeters high and in the format set forth following this paragraph. This information shall appear either—
 
-(a) After each GAWR listed on the certification label required by Â§ 567.4 or Â§ 567.5 of this chapter; or at the option of the manufacturer,
+(a) After each GAWR listed on the certification label required by § 567.4 or § 567.5 of this chapter; or at the option of the manufacturer,
 
-(b) On the tire information label affixed to the vehicle in the manner, location, and form described in Â§ 567.4 (b) through (f) of this chapter as appropriate of each GVWR-GAWR combination listed on the certification label.
+(b) On the tire information label affixed to the vehicle in the manner, location, and form described in § 567.4 (b) through (f) of this chapter as appropriate of each GVWR-GAWR combination listed on the certification label.
 
 S5.3.1 Tires. The size designation (not necessarily for the tires on the vehicle) and the recommended cold inflation pressure for those tires such that the sum of the load ratings of the tires on each axle (when the tires' load carrying capacity at the specified pressure is reduced by dividing by 1.10, in the case of a tire subject to FMVSS No. 109) is appropriate for the GAWR as calculated in accordance with S5.1.2.
 
 S5.3.2. Rims. The size designation and, if applicable, the type designation of Rims (not necessarily those on the vehicle) appropriate for those tires.
 
-S5.3.3 The non-pneumatic tire identification code, with which that assembly is labeled pursuant to S4.3(a) of Â§ 571.129.
+S5.3.3 The non-pneumatic tire identification code, with which that assembly is labeled pursuant to S4.3(a) of § 571.129.
 
 S6. Load Limits for Non-Pneumatic Spare Tires. The highest vehicle maximum load on the tire for the vehicle shall not be greater than the load rating for the non-pneumatic spare tire.
 
@@ -121,9 +121,9 @@ S7 Labeling Requirements for Non-Pneumatic Spare Tires or Tire Assemblies. Each 
 
 S8. Requirements for Vehicles Equipped with Non-Pneumatic Spare Tire Assemblies
 
-S8.1 Vehicle Placarding Requirements. A placard, permanently affixed to the inside of the spare tire stowage area or equally accessible location adjacent to the non-pneumatic spare tire assembly, shall display the information set forth in S7 in block capitals and numerals not less than 6 millimeters high preceded by the words âIMPORTANTâUSE OF SPARE TIREâ in letters not less than 9 millimeters high.
+S8.1 Vehicle Placarding Requirements. A placard, permanently affixed to the inside of the spare tire stowage area or equally accessible location adjacent to the non-pneumatic spare tire assembly, shall display the information set forth in S7 in block capitals and numerals not less than 6 millimeters high preceded by the words “IMPORTANT—USE OF SPARE TIRE” in letters not less than 9 millimeters high.
 
-S8.2 Supplementary Information. The owner's manual of the vehicle shall contain, in writing in the English language and in not less than 10 point type, the following information under the heading âIMPORTANTâUSE OF SPARE TIREâ:
+S8.2 Supplementary Information. The owner's manual of the vehicle shall contain, in writing in the English language and in not less than 10 point type, the following information under the heading “IMPORTANT—USE OF SPARE TIRE”:
 
 (a) A statement indicating the information related to appropriate use for the non-pneumatic spare tire including at a minimum the information set forth in S8 (a) and (b) and either the information set forth in S5.3.6 or a statement that the information set forth in S5.3.6 is located on the vehicle placard and on the non-pneumatic tire;
 
@@ -133,9 +133,9 @@ S8.2 Supplementary Information. The owner's manual of the vehicle shall contain,
 
 S9 Non-Pneumatic Rims and Wheel Center Members
 
-S9.1 Non-Pneumatic Rim Requirements. Each non-pneumatic rim that is part of a separable non-pneumatic spare tire assembly shall be constructed to the dimensions of a non-pneumatic rim that is listed pursuant to S4.4 of Â§ 571.129 for use with the non-pneumatic tire, designated by its non-pneumatic tire identification code, with which the vehicle is equipped.
+S9.1 Non-Pneumatic Rim Requirements. Each non-pneumatic rim that is part of a separable non-pneumatic spare tire assembly shall be constructed to the dimensions of a non-pneumatic rim that is listed pursuant to S4.4 of § 571.129 for use with the non-pneumatic tire, designated by its non-pneumatic tire identification code, with which the vehicle is equipped.
 
-S9.2 Wheel Center Member Requirements. Each wheel center member that is part of a separable non-pneumatic spare tire assembly shall be constructed to the dimensions of a wheel center member that is listed pursuant to S4.4 of Â§ 571.129 for use with the non-pneumatic tire, designated by its non-pneumatic tire identification code, with which the vehicle is equipped.
+S9.2 Wheel Center Member Requirements. Each wheel center member that is part of a separable non-pneumatic spare tire assembly shall be constructed to the dimensions of a wheel center member that is listed pursuant to S4.4 of § 571.129 for use with the non-pneumatic tire, designated by its non-pneumatic tire identification code, with which the vehicle is equipped.
 
 S10. Each motor home and recreation vehicle (RV) trailer must meet the applicable requirements in S10.
 
@@ -160,31 +160,31 @@ S10.4.3 The RV load carrying capacity labels (Figures 1 and 2) must be:
 
 S10.4.4 Permanent and temporary motor home OCCC labels must contain the following information in accordance with Figure 1:
 
-(a) The statement: âMOTOR HOME OCCUPANT AND CARGO CARRYING CAPACITYâ in block letters.
+(a) The statement: “MOTOR HOME OCCUPANT AND CARGO CARRYING CAPACITY” in block letters.
 
 (b) The Vehicle Identification Number (VIN).
 
-(c) The statement âTHE COMBINED WEIGHT OF OCCUPANTS AND CARGO SHOULD NEVER EXCEED: XXX kg or XXX lbsâ in block letters with appropriate values included.
+(c) The statement “THE COMBINED WEIGHT OF OCCUPANTS AND CARGO SHOULD NEVER EXCEED: XXX kg or XXX lbs” in block letters with appropriate values included.
 
-(d) The statement âSafety belt equipped seating capacity: XXXâ with the appropriate value included. This is the total number of safety belt equipped seating positions.
+(d) The statement “Safety belt equipped seating capacity: XXX” with the appropriate value included. This is the total number of safety belt equipped seating positions.
 
-(e) The statement: âCAUTION: A full load of water equals XXX kg or XXX lbs of cargo @ 1 kg/L (8.3 lb/gal) and the tongue weight of a towed trailer counts as cargoâ with appropriate values included.
+(e) The statement: “CAUTION: A full load of water equals XXX kg or XXX lbs of cargo @ 1 kg/L (8.3 lb/gal) and the tongue weight of a towed trailer counts as cargo” with appropriate values included.
 
 S10.4.5 Permanent and temporary RV trailer CCC labels must contain the following information in accordance with Figure 2:
 
-(a) The statement: âRECREATION VEHICLE TRAILER CARGO CARRYING CAPACITYâ in block letters.
+(a) The statement: “RECREATION VEHICLE TRAILER CARGO CARRYING CAPACITY” in block letters.
 
 (b) The Vehicle Identification Number (VIN).
 
-(c) The statement: âTHE WEIGHT OF CARGO SHOULD NEVER EXCEED: XXX kg or XXX lbsâ in block letters with appropriate values included.
+(c) The statement: “THE WEIGHT OF CARGO SHOULD NEVER EXCEED: XXX kg or XXX lbs” in block letters with appropriate values included.
 
-(d) The statement: âCAUTION: A full load of water equals XXX kg or XXX lbs of cargo @ 1 kg/L (8.3 lb/gal)â with appropriate values included.
+(d) The statement: “CAUTION: A full load of water equals XXX kg or XXX lbs of cargo @ 1 kg/L (8.3 lb/gal)” with appropriate values included.
 
 S10.5 Weight added to motor homes and RV trailers between final vehicle certification and first retail sale of the vehicle.
 
 S10.5.1 If weight exceeding 45.4 kg (100 pounds) is added to a motor home or RV trailer between final vehicle certification and first retail sale of the vehicle, the load carrying capacity values on the RV load carrying capacity labels (Figures 1 and 2) required by S10.4 must be corrected using one or a combination of the following methods:
 
-(a) Permanently affix the load carrying capacity modification label (Figure 3) which displays the amount the load carrying capacity is reduced to the nearest kilogram with conversion to the nearest pound, within 25 millimeters of the original, permanent RV load carrying capacity label (Figure 1 or 2). The load carrying capacity modification label must be legible, visible, permanent, moisture resistant, presented in the English language, have a minimum print size of 2.4 millimeters (3/32 inches) high and be printed in black print on a yellow background. If the manufacturer selects S10.4.3(b), apply a temporary version of the load carrying capacity modification label (Figure 3) within 25 millimeters of the original, temporary RV load carrying capacity label (Figure 1 or 2) on the interior of the forward-most exterior passenger door on the right side of the vehicle. Both temporary and permanent versions of the load carrying capacity modification label (Figure 3) may be printed without values and values may be legibly applied to the label with a black, fine point, indelible marker. The label must contain the statements âCAUTIONâLOAD CARRYING CAPACITY REDUCEDâ in block letters and âModifications to this vehicle have reduced the original load carrying capacity by XXX kg or XXX lbsâ in accordance with Figure 3 with appropriate values in place of XXX. If two load carrying capacity modification labels are required (one permanent and one temporary), the weight values on each must agree, or
+(a) Permanently affix the load carrying capacity modification label (Figure 3) which displays the amount the load carrying capacity is reduced to the nearest kilogram with conversion to the nearest pound, within 25 millimeters of the original, permanent RV load carrying capacity label (Figure 1 or 2). The load carrying capacity modification label must be legible, visible, permanent, moisture resistant, presented in the English language, have a minimum print size of 2.4 millimeters (3/32 inches) high and be printed in black print on a yellow background. If the manufacturer selects S10.4.3(b), apply a temporary version of the load carrying capacity modification label (Figure 3) within 25 millimeters of the original, temporary RV load carrying capacity label (Figure 1 or 2) on the interior of the forward-most exterior passenger door on the right side of the vehicle. Both temporary and permanent versions of the load carrying capacity modification label (Figure 3) may be printed without values and values may be legibly applied to the label with a black, fine point, indelible marker. The label must contain the statements “CAUTION—LOAD CARRYING CAPACITY REDUCED” in block letters and “Modifications to this vehicle have reduced the original load carrying capacity by XXX kg or XXX lbs” in accordance with Figure 3 with appropriate values in place of XXX. If two load carrying capacity modification labels are required (one permanent and one temporary), the weight values on each must agree, or
 
 (b) Modify the original permanent RV load carrying capacity label (Figure 1 or 2) with correct load carrying capacity weight values. If the manufacturer selects S10.4.3(b), the temporary RV load carrying capacity label (Figure 1 or 2) must also be modified with correct load carrying capacity weight values. Modification of labels requires a machine printed overlay with printed corrected values or blanks for corrected values that may be entered with a black, fine-point, indelible marker. Crossing out old values and entering corrected values on the original label is not permissible, or
 

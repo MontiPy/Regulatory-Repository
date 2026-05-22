@@ -12,29 +12,29 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle
-  is certified to Â§ 571.216a.
+title: § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle
+  is certified to § 571.216a.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle is certified to Â§ 571.216a.
+## § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle is certified to § 571.216a.
 
 S1. Scope. This standard establishes strength requirements for the passenger compartment roof.
 
 S2. Purpose. The purpose of this standard is to reduce deaths and injuries due to the crushing of the roof into the occupant compartment in rollover crashes.
 
-S3. Application. (a) This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a GVWR of 2,722 kilograms (6,000 pounds) or less. However, it does not apply toâ
+S3. Application. (a) This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a GVWR of 2,722 kilograms (6,000 pounds) or less. However, it does not apply to—
 
 (a) School buses;
 
-(b) Vehicles that conform to the rollover test requirements (S5.3) of Standard No. 208 (Â§ 571.208) by means that require no action by vehicle occupants;
+(b) Vehicles that conform to the rollover test requirements (S5.3) of Standard No. 208 (§ 571.208) by means that require no action by vehicle occupants;
 
 (c) Convertibles, except for optional compliance with the standard as an alternative to the rollover test requirements in S5.3 of Standard No. 208; or
 
-(d) Vehicles certified to comply with Â§ 571.216a.
+(d) Vehicles certified to comply with § 571.216a.
 
 S4. Definitions.
 
@@ -56,17 +56,17 @@ S7. Test procedure. Each vehicle must be capable of meeting the requirements of 
 
 S7.1 Place the sills or the chassis frame of the vehicle on a rigid horizontal surface, fix the vehicle rigidly in position, close all windows, close and lock all doors, and secure any convertible top or removable roof structure in place over the occupant compartment. Remove roof racks or other non-structural components.
 
-S7.2 Orient the test device as shown in Figure 1 of this section, so thatâ
+S7.2 Orient the test device as shown in Figure 1 of this section, so that—
 
 (a) Its longitudinal axis is at a forward angle (in side view) of 5 degrees below the horizontal, and is parallel to the vertical plane through the vehicle's longitudinal centerline;
 
 (b) Its transverse axis is at an outboard angle, in the front view projection, of 25 degrees below the horizontal.
 
-S7.3 Maintaining the orientation specified in S7.2â
+S7.3 Maintaining the orientation specified in S7.2—
 
 (a) Lower the test device until it initially makes contact with the roof of the vehicle.
 
-(b) Position the test device so thatâ
+(b) Position the test device so that—
 
 (1) The longitudinal centerline on its lower surface is on the initial point of contact, or on the center of the initial contact area, with the roof; and
 
@@ -82,11 +82,11 @@ S8 Alternate test procedure for multipurpose passenger vehicles, trucks and buse
 
 S8.1 Place the sills or the chassis frame of the vehicle on a rigid horizontal surface, fix the vehicle rigidly in position, close all windows, close and lock all doors, and secure any convertible top or removable roof structure in place over the passenger compartment.
 
-S8.2 Orient the test device as shown in Figure 2, so thatâ
+S8.2 Orient the test device as shown in Figure 2, so that—
 
-(a) Its longitudinal axis is at a forward angle (side view) of 5Â° below the horizontal, and is parallel to the vertical plane through the vehicle's longitudinal centerline;
+(a) Its longitudinal axis is at a forward angle (side view) of 5° below the horizontal, and is parallel to the vertical plane through the vehicle's longitudinal centerline;
 
-(b) Its lateral axis is at a lateral outboard angle, in the front view projection, of 25Â° below the horizontal;
+(b) Its lateral axis is at a lateral outboard angle, in the front view projection, of 25° below the horizontal;
 
 (c) Its lower surface is tangent to the surface of the vehicle; and
 

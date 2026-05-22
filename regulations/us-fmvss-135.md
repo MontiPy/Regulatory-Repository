@@ -12,14 +12,14 @@ systems:
 - Braking
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.135 Standard No. 135; Light vehicle brake systems.
+title: § 571.135 Standard No. 135; Light vehicle brake systems.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.135 Standard No. 135; Light vehicle brake systems.
+## § 571.135 Standard No. 135; Light vehicle brake systems.
 
 S1. Scope. This standard specifies requirements for service brake and associated parking brake systems.
 
@@ -114,7 +114,7 @@ S5.4.1. Master cylinder reservoirs. A master cylinder shall have a reservoir com
 S5.4.2. Reservoir capacity. Reservoirs, whether for master cylinders or other type systems, shall have a total minimum capacity equivalent to the fluid displacement resulting when all the wheel cylinders or caliper pistons serviced by the reservoirs move from a new lining, fully retracted position (as adjusted initially to the manufacturer's recommended setting) to a fully worn, fully applied position, as determined in accordance with S7.17(c) of this standard. Reservoirs shall have completely separate compartments for each subsystem except that in reservoir systems utilizing a portion of the reservoir for a common supply to two or more subsystems, individual partial compartments shall each have a minimum volume of fluid equal to at least the volume displaced by the master cylinder piston servicing the subsystem, during a full stroke of the piston. Each brake power unit reservoir servicing only the brake system shall have a minimum capacity equivalent to the fluid displacement required to charge the system piston(s) or accumulator(s) to normal operating pressure plus the displacement resulting when all the wheel cylinders or caliper pistons serviced by the reservoir or accumulator(s) move from a new lining, fully retracted position (as adjusted initially to the manufacturer's recommended setting) to a fully worn, fully applied position.
 
 S5.4.3. Reservoir labeling. Each vehicle equipped with hydraulic brakes shall have a brake fluid warning statement that reads as follows, in letters at least 3.2 mm (
-1/8 inch) high: âWARNING: Clean filler cap before removing. Use only ______ fluid from a sealed container.â (Inserting the recommended type of brake fluid as specified in 49 CFR 571.116, e.g., âDOT 3.â) The lettering shall be:
+1/8 inch) high: “WARNING: Clean filler cap before removing. Use only ______ fluid from a sealed container.” (Inserting the recommended type of brake fluid as specified in 49 CFR 571.116, e.g., “DOT 3.”) The lettering shall be:
 
 (a) Permanently affixed, engraved or embossed;
 
@@ -126,7 +126,7 @@ S5.4.4. Fluid level indication. Brake fluid reservoirs shall be so constructed t
 
 S5.5. Brake system warning indicator. Each vehicle shall have one or more visual brake system warning indicators, mounted in front of and in clear view of the driver, which meet the requirements of S5.5.1 through S5.5.5. In addition, a vehicle manufactured without a split service brake system shall be equipped with an audible warning signal that activates under the conditions specified in S5.5.1(a).
 
-S5.5.1. Activation. An indicator shall be activated when the ignition (start) switch is in the âonâ (ârunâ) position and whenever any of conditions (a) through (g) occur:
+S5.5.1. Activation. An indicator shall be activated when the ignition (start) switch is in the “on” (“run”) position and whenever any of conditions (a) through (g) occur:
 
 (a) A gross loss of fluid or fluid pressure (such as caused by rupture of a brake line but not by a structural failure of a housing that is common to two or more subsystems) as indicated by one of the following conditions (chosen at the option of the manufacturer):
 
@@ -150,41 +150,41 @@ S5.5.1. Activation. An indicator shall be activated when the ignition (start) sw
 
 S5.5.2. Function check. (a) All indicators shall be activated as a check function by either:
 
-(1) Automatic activation when the ignition (start) switch is turned to the âonâ (ârunâ) position when the engine is not running, or when the ignition (âstartâ) switch is in a position between âonâ (ârunâ) and âstartâ that is designated by the manufacturer as a check position, or
+(1) Automatic activation when the ignition (start) switch is turned to the “on” (“run”) position when the engine is not running, or when the ignition (“start”) switch is in a position between “on” (“run”) and “start” that is designated by the manufacturer as a check position, or
 
-(2) A single manual action by the driver, such as momentary activation of a test button or switch mounted on the instrument panel in front of and in clear view of the driver, or, in the case of an indicator for application of the parking brake, by applying the parking brake when the ignition is in the âonâ (ârunâ) position.
+(2) A single manual action by the driver, such as momentary activation of a test button or switch mounted on the instrument panel in front of and in clear view of the driver, or, in the case of an indicator for application of the parking brake, by applying the parking brake when the ignition is in the “on” (“run”) position.
 
 (b) In the case of a vehicle that has an interlock device that prevents the engine from being started under one or more conditions, check functions meeting the requirements of S5.5.2(a) need not be operational under any condition in which the engine cannot be started.
 
 (c) The manufacturer shall explain the brake check function test procedure in the owner's manual.
 
-S5.5.3. Duration. Each indicator activated due to a condition specified in S5.5.1 shall remain activated as long as the condition exists, whenever the ignition (âstartâ) switch is in the âonâ (ârunâ) position, whether or not the engine is running.
+S5.5.3. Duration. Each indicator activated due to a condition specified in S5.5.1 shall remain activated as long as the condition exists, whenever the ignition (“start”) switch is in the “on” (“run”) position, whether or not the engine is running.
 
 S5.5.4. Function. When a visual warning indicator is activated, it may be continuous or flashing, except that the visual warning indicator on a vehicle not equipped with a split service brake system shall be flashing. The audible warning required for a vehicle manufactured without a split service brake system may be continuous or intermittent.
 
 S5.5.5. Labeling. (a) Each visual indicator shall display a word or words in accordance with the requirements of Standard No. 101 (49 CFR 571.101) and this section, which shall be legible to the driver under all daytime and nighttime conditions when activated. Unless otherwise specified, the words shall have letters not less than 3.2 mm (
 1/8 inch) high and the letters and background shall be of contrasting colors, one of which is red. Words or symbols in addition to those required by Standard No. 101 and this section may be provided for purposes of clarity.
 
-(b) Vehicles manufactured with a split service brake system may use a common brake warning indicator to indicate two or more of the functions described in S5.5.1(a) through S5.5.1(g). If a common indicator is used, it shall display the word âBrake.â
+(b) Vehicles manufactured with a split service brake system may use a common brake warning indicator to indicate two or more of the functions described in S5.5.1(a) through S5.5.1(g). If a common indicator is used, it shall display the word “Brake.”
 
-(c) A vehicle manufactured without a split service brake system shall use a separate indicator to indicate the failure condition in S5.5.1(a). This indicator shall display the words âSTOPâBRAKE FAILUREâ in block capital letters not less than 6.4 mm (
+(c) A vehicle manufactured without a split service brake system shall use a separate indicator to indicate the failure condition in S5.5.1(a). This indicator shall display the words “STOP—BRAKE FAILURE” in block capital letters not less than 6.4 mm (
 1/4 inch) in height.
 
 (d) If separate indicators are used for one or more of the conditions described in S5.5.1(a) through S5.5.1(g), the indicators shall display the following wording:
 
-(1) If a separate indicator is provided for the low brake fluid condition in S5.5.1(a)(1), the words âBrake Fluidâ shall be used except for vehicles using hydraulic system mineral oil.
+(1) If a separate indicator is provided for the low brake fluid condition in S5.5.1(a)(1), the words “Brake Fluid” shall be used except for vehicles using hydraulic system mineral oil.
 
-(2) If a separate indicator is provided for the gross loss of pressure condition in S5.5.1(a)(2), the words âBrake Pressureâ shall be used.
+(2) If a separate indicator is provided for the gross loss of pressure condition in S5.5.1(a)(2), the words “Brake Pressure” shall be used.
 
-(3) If a separate indicator is provided for the condition specified in S5.5.1(b), the letters and background shall be of contrasting colors, one of which is yellow. The indicator shall be labeled with the words âAntilockâ or âAnti-lockâ or âABSâ; or âBrake Proportioning,â in accordance with Table 1 of Standard No. 101.
+(3) If a separate indicator is provided for the condition specified in S5.5.1(b), the letters and background shall be of contrasting colors, one of which is yellow. The indicator shall be labeled with the words “Antilock” or “Anti-lock” or “ABS”; or “Brake Proportioning,” in accordance with Table 1 of Standard No. 101.
 
-(4) If a separate indicator is provided for application of the parking brake as specified for S5.5.1(c), the single word âParkâ or the words âParking Brakeâ may be used.
+(4) If a separate indicator is provided for application of the parking brake as specified for S5.5.1(c), the single word “Park” or the words “Parking Brake” may be used.
 
-(5) If a separate indicator is provided to indicate brake lining wear-out as specified in S5.5.1(d), the words âBrake Wearâ shall be used.
+(5) If a separate indicator is provided to indicate brake lining wear-out as specified in S5.5.1(d), the words “Brake Wear” shall be used.
 
-(6) If a separate indicator is provided for the condition specified in S5.5.1(g), the letters and background shall be of contrasting colors, one of which is yellow. The indicator shall be labeled with the symbol âRBS.â RBS failure in a system that is part of the service brake system may also be indicated by a yellow lamp that also indicates âABSâ failure and displays the symbol âABS/RBS.â
+(6) If a separate indicator is provided for the condition specified in S5.5.1(g), the letters and background shall be of contrasting colors, one of which is yellow. The indicator shall be labeled with the symbol “RBS.” RBS failure in a system that is part of the service brake system may also be indicated by a yellow lamp that also indicates “ABS” failure and displays the symbol “ABS/RBS.”
 
-(7) If a separate indicator is provided for any other function, the display shall include the word âBrakeâ and the appropriate additional labeling.
+(7) If a separate indicator is provided for any other function, the display shall include the word “Brake” and the appropriate additional labeling.
 
 S5.6. Brake system integrity. Each vehicle shall meet the complete performance requirements of this standard without:
 
@@ -196,13 +196,13 @@ S6. General test conditions. Each vehicle must meet the performance requirements
 
 S6.1. Ambient conditions.
 
-S6.1.1. Ambient temperature. The ambient temperature is any temperature between 0 Â°C (32 Â°F) and 40 Â°C (104 Â°F).
+S6.1.1. Ambient temperature. The ambient temperature is any temperature between 0 °C (32 °F) and 40 °C (104 °F).
 
 S6.1.2. Wind speed. The wind speed is not greater than 5 m/s (11.2 mph).
 
 S6.2. Road test surface.
 
-S6.2.1. Pavement friction. Unless otherwise specified, the road test surface produces a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see Â§ 571.5), at a speed of 64.4 km/h (40 mph), without water delivery.
+S6.2.1. Pavement friction. Unless otherwise specified, the road test surface produces a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 64.4 km/h (40 mph), without water delivery.
 
 S6.2.2. Gradient. Except for the parking brake gradient holding test, the test surface has no more than a 1% gradient in the direction of testing and no more than a 2% gradient perpendicular to the direction of testing.
 
@@ -236,7 +236,7 @@ S6.3.10. Vehicle openings. All vehicle openings (doors, windows, hood, trunk, co
 
 S6.3.11 State of charge of batteries for EVs.
 
-S6.3.11.1 The state of charge of the propulsion batteries is determined in accordance with SAE Recommended Practice J227a (1976) (incorporated by reference, see Â§ 571.5). The applicable sections of J227a (1976) are 3.2.1 through 3.2.4, 3.3.1 through 3.3.2.2, 3.4.1 and 3.4.2, 4.2.1, 5.2, 5.2.1 and 5.3.
+S6.3.11.1 The state of charge of the propulsion batteries is determined in accordance with SAE Recommended Practice J227a (1976) (incorporated by reference, see § 571.5). The applicable sections of J227a (1976) are 3.2.1 through 3.2.4, 3.3.1 through 3.3.2.2, 3.4.1 and 3.4.2, 4.2.1, 5.2, 5.2.1 and 5.3.
 
 S6.3.11.2 At the beginning of the burnish procedure (S7.1 of this standard) in the test sequence, each propulsion battery is at the maximum state of charge recommended by the manufacturer, as stated in the vehicle operator's manual or on a label that is permanently attached to the vehicle, of, if the manufacturer has made no recommendation, not less than 95 percent. During the 200-stop burnish procedure, the propulsion batteries are restored to the maximum state of charge determined as above, after each increment of 40 burnish stops until the burnish procedure is complete. The batteries may be charged at a more frequent interval during a particular 40-stop increment only if the EV is incapable of achieving the initial burnish test speed during that increment. During the burnish procedure, the propulsion batteries may be charged by external means or replaced by batteries that are at a state of charge of not less than 95 percent. For an EV having a manual control for setting the level of regenerative braking, the manual control, at the beginning of the burnish procedure, is set to provide maximum regenerative braking throughout the burnish.
 
@@ -256,7 +256,7 @@ S6.3.13.1 (a) For an EV equipped with an RBS that is part of the service brake s
 
 (b) For an EV equipped with an RBS that is not part of the service brake system, the RBS is operational and set to produce the maximum regenerative braking effect during the burnish, and is disabled during the test procedures. If the vehicle is equipped with a neutral gear that automatically disables the RBS, the test procedures which are designated to be conducted in gear may be conducted in neutral.
 
-S6.3.13.2 For tests conducted âin neutralâ, the operator of an EV with no âneutralâ position (or other means such as a clutch for disconnecting the drive train from the propulsion motor(s)) does not apply any electromotive force to the propulsion motor(s). Any electromotive force that is applied to the propulsion motor(s) automatically remains in effect unless otherwise specified by the test procedure.
+S6.3.13.2 For tests conducted “in neutral”, the operator of an EV with no “neutral” position (or other means such as a clutch for disconnecting the drive train from the propulsion motor(s)) does not apply any electromotive force to the propulsion motor(s). Any electromotive force that is applied to the propulsion motor(s) automatically remains in effect unless otherwise specified by the test procedure.
 
 S6.4. Instrumentation.
 
@@ -278,14 +278,14 @@ S6.5.3.1. The braking performance of a vehicle is determined by measuring the st
 
 S6.5.3.2. Unless otherwise specified, the vehicle is stopped in the shortest distance achievable (best effort) on all stops. Where more than one stop is required for a given set of test conditions, a vehicle is deemed to comply with the corresponding stopping distance requirements if at least one of the stops is made within the prescribed distance.
 
-S6.5.3.3. In the stopping distance formulas given for each applicable test (such as Sâ¤0.10V + 0.0060V
+S6.5.3.3. In the stopping distance formulas given for each applicable test (such as S≤0.10V + 0.0060V
 2), S is the maximum stopping distance in meters, and V is the test speed in km/h.
 
 S6.5.4. Vehicle position and attitude.
 
 S6.5.4.1. The vehicle is aligned in the center of the lane at the start of each brake application. Steering corrections are permitted during each stop.
 
-S6.5.4.2. Stops are made without any part of the vehicle leaving the lane and without rotation of the vehicle about its vertical axis of more than Â±15Â° from the center line of the test lane at any time during any stop.
+S6.5.4.2. Stops are made without any part of the vehicle leaving the lane and without rotation of the vehicle about its vertical axis of more than ±15° from the center line of the test lane at any time during any stop.
 
 S6.5.5. Transmission selector control.
 
@@ -327,7 +327,7 @@ S7.1.2. Vehicle conditions. (a) Vehicle load: GVWR only.
 
 S7.1.3. Test conditions and procedures. The road test surface conditions specified in S6.2 do not apply to the burnish procedure.
 
-(a) IBT: â¤100 Â°C (212 Â°F).
+(a) IBT: ≤100 °C (212 °F).
 
 (b) Test speed: 80 km/h (49.7 mph).
 
@@ -341,7 +341,7 @@ S7.1.3. Test conditions and procedures. The road test surface conditions specifi
 
 (f) Number of runs: 200 stops.
 
-(g) Interval between runs: The interval from the start of one service brake application to the start of the next is either the time necessary to reduce the IBT to 100 Â°C (212 Â°F) or less, or the distance of 2 km (1.24 miles), whichever occurs first.
+(g) Interval between runs: The interval from the start of one service brake application to the start of the next is either the time necessary to reduce the IBT to 100 °C (212 °F) or less, or the distance of 2 km (1.24 miles), whichever occurs first.
 
 (h) Accelerate to 80 km/h (49.7 mph) after each stop and maintain that speed until making the next stop.
 
@@ -355,7 +355,7 @@ S7.2.1 General information. (a) The purpose of this test is to ensure that locku
 
 (c) This wheel lock sequence test is to be used as a screening test to evaluate a vehicle's axle lockup sequence and to determine whether the torque wheel test in S7.4 must be conducted.
 
-(d) For this test, a simultaneous lockup of the front and rear wheels refers to the conditions when the time interval between the first occurrence of lockup of the last (second) wheel on the rear axle and the first occurrence of lockup of the last (second) wheel on the front axle is â¤0.1 second for vehicle speeds >15 km/h (9.3 mph).
+(d) For this test, a simultaneous lockup of the front and rear wheels refers to the conditions when the time interval between the first occurrence of lockup of the last (second) wheel on the rear axle and the first occurrence of lockup of the last (second) wheel on the front axle is ≤0.1 second for vehicle speeds >15 km/h (9.3 mph).
 
 (e) A front or rear axle lockup is defined as the point in time when the last (second) wheel on an axle locks up.
 
@@ -369,9 +369,9 @@ S7.2.2 Vehicle conditions. (a) Vehicle load: GVWR and LLVW.
 
 (b) Transmission position: In neutral.
 
-S7.2.3. Test Conditions and Procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.2.3. Test Conditions and Procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
-(b) Test speed: 65 km/h (40.4 mph) for a braking ratio â¤0.50; 100 km/h (62.1 mph) for a braking ratio >0.50.
+(b) Test speed: 65 km/h (40.4 mph) for a braking ratio ≤0.50; 100 km/h (62.1 mph) for a braking ratio >0.50.
 
 (c) Pedal force:
 
@@ -383,7 +383,7 @@ S7.2.3. Test Conditions and Procedures. (a) IBT: â¤65 Â°C (149 Â°F), â�
 
 (d) Wheel lockup: Only wheel lockups above a vehicle speed of 15 km/h (9.3 mph) are considered in determining the results of this test.
 
-(e) Test surfaces: This test is conducted, for each loading condition, on two different test surfaces that will result in a braking ratio of between 0.15 and 0.80, inclusive. NHTSA reserves the right to choose the test surfaces to be used based on adhesion utilization curves or any other method of determining âworst caseâ conditions.
+(e) Test surfaces: This test is conducted, for each loading condition, on two different test surfaces that will result in a braking ratio of between 0.15 and 0.80, inclusive. NHTSA reserves the right to choose the test surfaces to be used based on adhesion utilization curves or any other method of determining “worst case” conditions.
 
 (f) The data recording equipment shall have a minimum sampling rate of 40 Hz.
 
@@ -425,7 +425,7 @@ S7.4.2. Vehicle conditions. (a) Vehicle load: GVWR and LLVW.
 
 (c) Tires: For this test, a separate set of tires, identical to those used for all other tests under Section 7.0, may be used.
 
-S7.4.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.4.3. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speeds: 100 km/h (62.1 mph), and 50 km/h (31.1 mph).
 
@@ -481,11 +481,11 @@ S7.5.1. Vehicle conditions. (a) Vehicle load: GVWR and LLVW.
 
 (b) Transmission position: In neutral.
 
-S7.5.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.5.2. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speed: 100 km/h (62.1 mph).
 
-(c) Pedal force: â¤65N (14.6 lbs), â¤500N (112.4 lbs).
+(c) Pedal force: ≤65N (14.6 lbs), ≤500N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel for longer than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
@@ -495,9 +495,9 @@ S7.5.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â�
 
 (g) For each stop, bring the vehicle to test speed and then stop the vehicle in the shortest possible distance under the specified conditions.
 
-S7.5.3. Performance requirements. (a) Stopping distance for 100 km/h test speed: â¤70m (230 ft).
+S7.5.3. Performance requirements. (a) Stopping distance for 100 km/h test speed: ≤70m (230 ft).
 
-(b) Stopping distance for reduced test speed: Sâ¤0.10V + 0.0060V
+(b) Stopping distance for reduced test speed: S≤0.10V + 0.0060V
 2.
 
 S7.6. High speed effectiveness. This test is not run if vehicle maximum speed is less than or equal to 125 km/h (77.7 mph).
@@ -506,11 +506,11 @@ S7.6.1. Vehicle conditions. (a) Vehicle load: GVWR and LLVW.
 
 (b) Transmission position: In gear.
 
-S7.6.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.6.2. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
-(b) Test speed: 80% of vehicle maximum speed if 125 km/h (77.7 mph) <vehicle maximum speed <200 km/h (124.3 mph), or 160 km/h (99.4 mph) if vehicle maximum speed â¤200 km/h (124.3 mph).
+(b) Test speed: 80% of vehicle maximum speed if 125 km/h (77.7 mph) <vehicle maximum speed <200 km/h (124.3 mph), or 160 km/h (99.4 mph) if vehicle maximum speed ≤200 km/h (124.3 mph).
 
-(c) Pedal force: â¤65N (14.6 lbs), â¤500N (112.4 lbs).
+(c) Pedal force: ≤65N (14.6 lbs), ≤500N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel for longer than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
@@ -520,7 +520,7 @@ S7.6.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â�
 
 S7.6.3. Performance requirements.
 
-Stopping distance: Sâ¤0.10V + 0.0067V
+Stopping distance: S≤0.10V + 0.0067V
 2.
 
 S7.7. Stops with Engine Off.
@@ -533,13 +533,13 @@ S7.7.2. Vehicle conditions. (a) Vehicle load: GVWR only.
 
 (c) Vehicle engine: Off (not running).
 
-(d) Ignition key position: May be returned to âonâ position after turning engine off, or a device may be used to âkillâ the engine while leaving the ignition key in the âonâ position.
+(d) Ignition key position: May be returned to “on” position after turning engine off, or a device may be used to “kill” the engine while leaving the ignition key in the “on” position.
 
-S7.7.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.7.3. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speed: 100 km/h (62.1 mph).
 
-(c) Pedal force: â¤65N (14.6 lbs), â¤500N (112.4 lbs).
+(c) Pedal force: ≤65N (14.6 lbs), ≤500N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel allowed for longer than 0.1 seconds at speeds greater than 15 km/h (9.3 mph).
 
@@ -551,9 +551,9 @@ S7.7.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â�
 
 (h) For an EV, this test is conducted with no electrical power supplied to the vehicle's propulsion motor(s), but with the RBS and brake power or power assist still operating, unless cutting off the supply of electrical power to the propulsion motor(s) also disables those systems.
 
-S7.7.4. Performance requirements. (a) Stopping distance for 100 km/h test speed: â¤70m (230 ft.)
+S7.7.4. Performance requirements. (a) Stopping distance for 100 km/h test speed: ≤70m (230 ft.)
 
-(b) Stopping distance for reduced test speed: S â¤0.10V + 0.0060V
+(b) Stopping distance for reduced test speed: S ≤0.10V + 0.0060V
 2.
 
 S7.8. Antilock functional failure.
@@ -562,11 +562,11 @@ S7.8.1. Vehicle conditions. (a) Vehicle loading: LLVW and GVWR.
 
 (b) Transmission position: In neutral.
 
-S7.8.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.8.2. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speed: 100 km/h (62.1 mph).
 
-(c) Pedal force: â¤65 N (14.6 lbs), â¤500 N (112.4 lbs).
+(c) Pedal force: ≤65 N (14.6 lbs), ≤500 N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel for more than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
@@ -586,9 +586,9 @@ S7.8.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â�
 
 S7.8.3. Performance requirements. For service brakes on a vehicle equipped with one or more antilock systems, in the event of any single functional failure in any such system, the service brake system shall continue to operate and shall stop the vehicle as specified in S7.8.3(a) or S7.8.3(b).
 
-(a) Stopping distance for 100 km/h test speed: â¤85 m (279 ft).
+(a) Stopping distance for 100 km/h test speed: ≤85 m (279 ft).
 
-(b) Stopping distance for reduced test speed: S â¤0.10V + 0.0075V
+(b) Stopping distance for reduced test speed: S ≤0.10V + 0.0075V
 2.
 
 S7.9. Variable brake proportioning system functional failure.
@@ -597,11 +597,11 @@ S7.9.1. Vehicle conditions. (a) Vehicle load: LLVW and GVWR.
 
 (b) Transmission position: In neutral.
 
-S7.9.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.9.2. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speed: 100 km/h (62.1 mph).
 
-(c) Pedal force: â¤65 N (14.6 lbs), â¤500 N (112.4 lbs).
+(c) Pedal force: ≤65 N (14.6 lbs), ≤500 N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel for longer than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
@@ -621,9 +621,9 @@ S7.9.2. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â�
 
 S7.9.3. Performance requirements. The service brakes on a vehicle equipped with one or more variable brake proportioning systems, in the event of any single functional failure in any such system, shall continue to operate and shall stop the vehicle as specified in S7.9.3(a) or S7.9.3(b).
 
-(a) Stopping distance for 100 km/h test speed: â¤110 m (361 ft).
+(a) Stopping distance for 100 km/h test speed: ≤110 m (361 ft).
 
-(b) Stopping distance for reduced test speed: S â¤0.10V + 0.0100V
+(b) Stopping distance for reduced test speed: S ≤0.10V + 0.0100V
 2.
 
 S7.10. Hydraulic circuit failure.
@@ -634,11 +634,11 @@ S7.10.2. Vehicle conditions. (a) Vehicle load: LLVW and GVWR.
 
 (b) Transmission position: In neutral.
 
-S7.10.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.10.3. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speed: 100 km/h (62.1 mph).
 
-(c) Pedal force: â¤65N (14.6 lbs), â¤500 N (112.4 lbs).
+(c) Pedal force: ≤65N (14.6 lbs), ≤500 N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel for longer than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
@@ -662,9 +662,9 @@ S7.10.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â
 
 S7.10.4 Performance requirements. For vehicles manufactured with a split service brake system, in the event of any failure in a single subsystem, as specified in S7.10.3(f) of this standard, and after activation of the brake system indicator as specified in S5.5.1, the remaining portions of the service brake system shall continue to operate and shall stop the vehicle as specified in S7.10.4(a) or S7.10.4(b). For vehicles not manufactured with a split service brake system, in the event of any failure in any component of the service brake system, as specified in S7.10.3(f), and after activation of the brake system indicator as specified in S5.5.1 of this standard, the vehicle shall, by operation of the service brake control, stop 10 times consecutively as specified in S7.10.4(a) or S7.10.4(b).
 
-(a) Stopping distance from 100 km/h test speed: â¤168 m (551 ft).
+(a) Stopping distance from 100 km/h test speed: ≤168 m (551 ft).
 
-(b) Stopping distance for reduced test speed: S â¤0.10V + 0.0158V
+(b) Stopping distance for reduced test speed: S ≤0.10V + 0.0158V
 2.
 
 S7.11. Brake power unit or brake power assist unit inoperative (System depleted).
@@ -675,11 +675,11 @@ S7.11.2. Vehicle conditions. (a) Vehicle load: GVWR only.
 
 (b) Transmission position: In neutral.
 
-S7.11.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â¤100 Â°C (212 Â°F).
+S7.11.3. Test conditions and procedures. (a) IBT: ≤65 °C (149 °F), ≤100 °C (212 °F).
 
 (b) Test speed: 100 km/h (62.1 mph).
 
-(c) Pedal force: â¤65 N (14.6 lbs), â¤500 N (112.4 lbs).
+(c) Pedal force: ≤65 N (14.6 lbs), ≤500 N (112.4 lbs).
 
 (d) Wheel lockup: No lockup of any wheel for longer than 0.1 seconds allowed at speeds greater than 15 km/h (9.3 mph).
 
@@ -703,9 +703,9 @@ S7.11.3. Test conditions and procedures. (a) IBT: â¤65 Â°C (149 Â°F), â
 
 S7.11.4. Performance requirements. The service brakes on a vehicle equipped with one or more brake power assist units or brake power units, with one such unit inoperative and depleted of all reserve capability, shall stop the vehicle as specified in S7.11.4(a) or S7.11.4(b).
 
-(a) Stopping distance from 100 km/h test speed: â¤168 m (551 ft).
+(a) Stopping distance from 100 km/h test speed: ≤168 m (551 ft).
 
-(b) Stopping distance for reduced test speed: S â¤0.10V + 0.0158V
+(b) Stopping distance for reduced test speed: S ≤0.10V + 0.0158V
 2.
 
 S7.12. Parking brake.
@@ -726,11 +726,11 @@ S7.12.2. Test conditions and procedures.
 
 (a) IBT:
 
-(1) Parking brake systems utilizing service brake friction materials shall be tested with the IBT â¤100 Â°C (212 Â°F) and shall have no additional burnishing or artificial heating prior to the start of the parking brake test.
+(1) Parking brake systems utilizing service brake friction materials shall be tested with the IBT ≤100 °C (212 °F) and shall have no additional burnishing or artificial heating prior to the start of the parking brake test.
 
 (2) Parking brake systems utilizing non-service brake friction materials shall be tested with the friction materials at ambient temperature at the start of the test. The friction materials shall have no additional burnishing or artificial heating prior to or during the parking brake test.
 
-(b) Parking brake control force: Hand control â¤400 N (89.9 lbs); foot control â¤500 N (112.4 lbs).
+(b) Parking brake control force: Hand control ≤400 N (89.9 lbs); foot control ≤500 N (112.4 lbs).
 
 (c) Hand force measurement locations: The force required for actuation of a hand-operated brake system is measured at the center of the hand grip area or at a distance of 40 mm (1.57 in) from the end of the actuation lever as illustrated in Figure 3.
 
@@ -768,7 +768,7 @@ S7.13.2. Vehicle conditions. (a) Vehicle load: GVWR only.
 
 S7.13.3. Test conditions and procedures. (a) IBT:
 
-(1) Establish an IBT before the first brake application (snub) of â¤55 Â°C (131 Â°F), â¤65 Â°C (149 Â°F).
+(1) Establish an IBT before the first brake application (snub) of ≤55 °C (131 °F), ≤65 °C (149 °F).
 
 (2) IBT before subsequent snubs are those occurring at the distance intervals.
 
@@ -824,7 +824,7 @@ S7.14.3. Test conditions and procedures. (a) IBT: Temperature achieved at comple
 
 S7.14.4. Performance requirements. (a) For the first hot stop, the stopping distance must be less than or equal to a calculated distance which is based on 60 percent of the deceleration actually achieved on the shortest GVWR cold effectiveness stop. The following equations shall be used in calculating the performance requirement:
 
-(b) In addition to the requirement in S7.14.4(a), the stopping distance for at least one of the two hot stops must be S â¤89 m (292 ft) from a test speed of 100 km/h (62.1 mph) or, for reduced test speed, S â¤0.10V + 0.0079V
+(b) In addition to the requirement in S7.14.4(a), the stopping distance for at least one of the two hot stops must be S ≤89 m (292 ft) from a test speed of 100 km/h (62.1 mph) or, for reduced test speed, S ≤0.10V + 0.0079V
 2. The results of the second stop may not be used to meet the requirements of S7.14.4(a).
 
 S7.15. Brake cooling stops.

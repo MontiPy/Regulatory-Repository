@@ -12,7 +12,7 @@ systems:
 - Visibility
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.111 Standard No. 111; Rear visibility.
+title: § 571.111 Standard No. 111; Rear visibility.
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -21,7 +21,7 @@ vehicle_categories:
 - Motorcycle
 ---
 
-## Â§ 571.111 Standard No. 111; Rear visibility.
+## § 571.111 Standard No. 111; Rear visibility.
 
 S1. Scope. This standard specifies requirements for rear visibility devices and systems.
 
@@ -65,13 +65,13 @@ S5. Requirements for passenger cars.
 
 S5.1 Inside rearview mirror. Each passenger car shall have an inside rearview mirror of unit magnification.
 
-S5.1.1 Field of view. Except as provided in S5.3, the mirror shall provide a field of view with an included horizontal angle measured from the projected eye point of at least 20 degrees, and a sufficient vertical angle to provide a view of a level road surface extending to the horizon beginning at a point not greater than 61 m to the rear of the vehicle when the vehicle is occupied by the driver and four passengers or the designated occupant capacity, if less, based on an average occupant weight of 68 kg. The line of sight may be partially obscured by seated occupants or by head restraints. The location of the driver's eye reference points shall be those established in Motor Vehicle Safety Standard No. 104 (Â§ 571.104) or a nominal location appropriate for any 95th percentile male driver.
+S5.1.1 Field of view. Except as provided in S5.3, the mirror shall provide a field of view with an included horizontal angle measured from the projected eye point of at least 20 degrees, and a sufficient vertical angle to provide a view of a level road surface extending to the horizon beginning at a point not greater than 61 m to the rear of the vehicle when the vehicle is occupied by the driver and four passengers or the designated occupant capacity, if less, based on an average occupant weight of 68 kg. The line of sight may be partially obscured by seated occupants or by head restraints. The location of the driver's eye reference points shall be those established in Motor Vehicle Safety Standard No. 104 (§ 571.104) or a nominal location appropriate for any 95th percentile male driver.
 
-S5.1.2 Mounting. The mirror mounting shall provide a stable support for the mirror, and shall provide for mirror adjustment by tilting in both the horizontal and vertical directions. If the mirror is in the head impact area, the mounting shall deflect, collapse or break away without leaving sharp edges when the reflective surface of the mirror is subjected to a force of 400 N in any forward direction that is not more than 45Â° from the forward longitudinal direction.
+S5.1.2 Mounting. The mirror mounting shall provide a stable support for the mirror, and shall provide for mirror adjustment by tilting in both the horizontal and vertical directions. If the mirror is in the head impact area, the mounting shall deflect, collapse or break away without leaving sharp edges when the reflective surface of the mirror is subjected to a force of 400 N in any forward direction that is not more than 45° from the forward longitudinal direction.
 
-S5.2 Outside rearview mirrorâdriver's side.
+S5.2 Outside rearview mirror—driver's side.
 
-S5.2.1 Field of view. Each passenger car shall have an outside mirror of unit magnification. The mirror shall provide the driver a view of a level road surface extending to the horizon from a line, perpendicular to a longitudinal plane tangent to the driver's side of the vehicle at the widest point, extending 2.4 m out from the tangent plane 10.7 m behind the driver's eyes, with the seat in the rearmost position. The line of sight may be partially obscured by rear body or fender contours. The location of the driver's eye reference points shall be those established in Motor Vehicle Safety Standard No. 104 (Â§ 571.104) or a nominal location appropriate for any 95th percentile male driver.
+S5.2.1 Field of view. Each passenger car shall have an outside mirror of unit magnification. The mirror shall provide the driver a view of a level road surface extending to the horizon from a line, perpendicular to a longitudinal plane tangent to the driver's side of the vehicle at the widest point, extending 2.4 m out from the tangent plane 10.7 m behind the driver's eyes, with the seat in the rearmost position. The line of sight may be partially obscured by rear body or fender contours. The location of the driver's eye reference points shall be those established in Motor Vehicle Safety Standard No. 104 (§ 571.104) or a nominal location appropriate for any 95th percentile male driver.
 
 S5.2.2 Mounting. The mirror mounting shall provide a stable support for the mirror, and neither the mirror nor the mounting shall protrude farther than the widest part of the vehicle body except to the extent necessary to produce a field of view meeting or exceeding the requirements of S5.2.1. The mirror shall not be obscured by the unwiped portion of the windshield, and shall be adjustable by tilting in both horizontal and vertical directions from the driver's seated position. The mirror and mounting shall be free of sharp points or edges that could contribute to pedestrian injury.
 
@@ -81,7 +81,7 @@ S5.4 Convex mirror requirements. Each motor vehicle using a convex mirror to mee
 
 S5.4.1 When each convex mirror is tested in accordance with the procedures specified in S12. of this standard, none of the radii of curvature readings shall deviate from the average radius of curvature by more than plus or minus 12.5 percent.
 
-S5.4.2 Each convex mirror shall have permanently and indelibly marked at the lower edge of the mirror's reflective surface, in letters not less than 4.8 mm nor more than 6.4 mm high the words âObjects in Mirror Are Closer Than They Appear.â
+S5.4.2 Each convex mirror shall have permanently and indelibly marked at the lower edge of the mirror's reflective surface, in letters not less than 4.8 mm nor more than 6.4 mm high the words “Objects in Mirror Are Closer Than They Appear.”
 
 S5.4.3 The average radius of curvature of each such mirror, as determined by using the procedure in S12., shall be not less than 889 mm and not more than 1,651 mm.
 
@@ -115,7 +115,7 @@ S5.5.7 Durability. The rear visibility system shall meet the field of view and i
 
 S6. Requirements for multipurpose passenger vehicles, low-speed vehicles, trucks, buses, and school buses with GVWR of 4,536 kg or less.
 
-S6.1 Each multipurpose passenger vehicle, truck and bus, other than a school bus, with a GVWR of 4,536 kg or less shall have eitherâ
+S6.1 Each multipurpose passenger vehicle, truck and bus, other than a school bus, with a GVWR of 4,536 kg or less shall have either—
 
 (a) Mirrors that conform to the requirements of S5.; or
 
@@ -194,7 +194,7 @@ S9.3(a) For each of the cylinders A through P whose entire top surface is not di
 
 (c) Each school bus which has a mirror installed in compliance with S9.3(a) that has an average radius of curvature of less than 889 mm, as determined under S12, shall have a label visible to the seated driver. The label shall be printed in a type face and color that are clear and conspicuous. The label shall state the following:
 
-âUSE CROSS VIEW MIRRORS TO VIEW PEDESTRIANS WHILE BUS IS STOPPED. DO NOT USE THESE MIRRORS TO VIEW TRAFFIC WHILE BUS IS MOVING. IMAGES IN SUCH MIRRORS DO NOT ACCURATELY SHOW ANOTHER VEHICLE'S LOCATION.â
+“USE CROSS VIEW MIRRORS TO VIEW PEDESTRIANS WHILE BUS IS STOPPED. DO NOT USE THESE MIRRORS TO VIEW TRAFFIC WHILE BUS IS MOVING. IMAGES IN SUCH MIRRORS DO NOT ACCURATELY SHOW ANOTHER VEHICLE'S LOCATION.”
 
 S9.4(a) Each image required by S9.3(a)(1) to be visible at the driver's eye location shall be separated from the edge of the effective mirror surface of the mirror providing that image by a distance of not less than 3 minutes of arc.
 
@@ -210,7 +210,7 @@ S10.1 Each motorcycle shall have either a mirror of unit magnification with not 
 2 of reflective surface, or a convex mirror with not less than 6450 mm
 2 of reflective surface and an average radius of curvature not less than 508 mm and not greater than 1524 mm, installed with a stable support, and mounted so that the horizontal center of the reflective surface is at least 279 mm outward of the longitudinal centerline of the motorcycle. The mirror shall be adjustable by tilting in both the horizontal and vertical directions.
 
-S11. Mirror Construction. The average reflectance of any mirror required by this standard shall be determined in accordance with SAE Standard J964 OCT84 (incorporated by reference, see Â§ 571.5). All single reflectance mirrors shall have an average reflectance of at least 35 percent. If a mirror is capable of multiple reflectance levels, the minimum reflectance level in the day mode shall be at least 35 percent and the minimum reflectance level in the night mode shall be at least 4 percent. A multiple reflectance mirror shall either be equipped with a means for the driver to adjust the mirror to a reflectance level of at least 35 percent in the event of electrical failure, or achieve such reflectance level automatically in the event of electrical failure.
+S11. Mirror Construction. The average reflectance of any mirror required by this standard shall be determined in accordance with SAE Standard J964 OCT84 (incorporated by reference, see § 571.5). All single reflectance mirrors shall have an average reflectance of at least 35 percent. If a mirror is capable of multiple reflectance levels, the minimum reflectance level in the day mode shall be at least 35 percent and the minimum reflectance level in the night mode shall be at least 4 percent. A multiple reflectance mirror shall either be equipped with a means for the driver to adjust the mirror to a reflectance level of at least 35 percent in the event of electrical failure, or achieve such reflectance level automatically in the event of electrical failure.
 
 S12. Determination of radius of curvature.
 
@@ -304,7 +304,7 @@ S14.1.2.5.1 Adjust the driver's seat to the midpoint of the longitudinal adjustm
 
 S14.1.2.5.2 Adjust the driver's seat to the lowest point of all vertical adjustment ranges present.
 
-S14.1.2.5.3 Using the three dimensional SAE Standard J826 JUL95 (incorporated by reference, see Â§ 571.5) manikin, adjust the driver's seat back angle at the vertical portion of the H-point machine's torso weight hanger to 25 degrees. If this adjustment setting is not available, adjust the seat-back angle to the positional detent setting closest to 25 degrees in the direction of the manufacturer's nominal design riding position.
+S14.1.2.5.3 Using the three dimensional SAE Standard J826 JUL95 (incorporated by reference, see § 571.5) manikin, adjust the driver's seat back angle at the vertical portion of the H-point machine's torso weight hanger to 25 degrees. If this adjustment setting is not available, adjust the seat-back angle to the positional detent setting closest to 25 degrees in the direction of the manufacturer's nominal design riding position.
 
 S14.1.3 Test object. Each test object is a right circular cylinder that is 0.8 m high and 0.3 m in external diameter. There are seven test objects, designated A through G, and they are marked as follows.
 
@@ -366,7 +366,7 @@ S14.1.8.3 Determine viewing distance. Determine the actual distance from the rot
 
 S14.1.8.4 Calculate visual angle subtended by test objects. Use the following equation to calculate the subtended visual angles:
 
-S14.2 Image response time test procedure. The temperature inside the vehicle during this test is any temperature between 15 Â°C and 25 Â°C. Immediately prior to commencing the actions listed in subparagraphs (a)-(c) of this paragraph, all components of the rear visibility system are in a powered off state. Then:
+S14.2 Image response time test procedure. The temperature inside the vehicle during this test is any temperature between 15 °C and 25 °C. Immediately prior to commencing the actions listed in subparagraphs (a)-(c) of this paragraph, all components of the rear visibility system are in a powered off state. Then:
 
 (a) Open the driver's door to any width,
 
@@ -378,23 +378,23 @@ S14.2 Image response time test procedure. The temperature inside the vehicle dur
 
 S14.3 Durability test procedures. For the durability tests specified in S14.3.1, S14.3.2, and S14.3.3, the external components are mounted on an environmental test fixture.
 
-S14.3.1 Corrosion test procedure. The external components are subjected to two 24-hour corrosion test cycles. In each corrosion test cycle, the external components are subjected to a salt spray (fog) test in accordance with ASTM B117-03 (incorporated by reference, see Â§ 571.5) for a period of 24 hours. Allow 1 hour to elapse without spray between the two test cycles.
+S14.3.1 Corrosion test procedure. The external components are subjected to two 24-hour corrosion test cycles. In each corrosion test cycle, the external components are subjected to a salt spray (fog) test in accordance with ASTM B117-03 (incorporated by reference, see § 571.5) for a period of 24 hours. Allow 1 hour to elapse without spray between the two test cycles.
 
-S14.3.2 Humidity exposure test procedure. The external components are subjected to 24 consecutive 3-hour humidity test cycles. In each humidity test cycle, external components are subjected to a temperature of 100Â° + 7Â°â0 Â°F (38Â° + 4Â°â0 Â°C) with a relative humidity of not less than 90% for a period of 2 hours. After a period not to exceed 5 minutes, the external components are subjected to a temperature of 32Â° + 5Â° â0 Â°F (0Â° + 3Â° â0 Â°C) and a humidity of not more than 30% Â±10% for 1 hour. Allow no more than 5 minutes to elapse between each test cycle.
+S14.3.2 Humidity exposure test procedure. The external components are subjected to 24 consecutive 3-hour humidity test cycles. In each humidity test cycle, external components are subjected to a temperature of 100° + 7°−0 °F (38° + 4°−0 °C) with a relative humidity of not less than 90% for a period of 2 hours. After a period not to exceed 5 minutes, the external components are subjected to a temperature of 32° + 5° −0 °F (0° + 3° −0 °C) and a humidity of not more than 30% ±10% for 1 hour. Allow no more than 5 minutes to elapse between each test cycle.
 
-S14.3.3 Temperature exposure test procedure. The external components are subjected to 4 consecutive 2-hour temperature test cycles. In each temperature test cycle, the external components are first subjected to a temperature of 176Â° Â±5 Â°F (80Â° Â±3 Â°C) for a period of one hour. After a period not to exceed 5 minutes, the external components are subjected to a temperature of 32Â° + 5Â° â0 Â°F (0Â° + 3Â° â0 Â°C) for 1 hour. Allow no more than 5 minutes to elapse between each test cycle.
+S14.3.3 Temperature exposure test procedure. The external components are subjected to 4 consecutive 2-hour temperature test cycles. In each temperature test cycle, the external components are first subjected to a temperature of 176° ±5 °F (80° ±3 °C) for a period of one hour. After a period not to exceed 5 minutes, the external components are subjected to a temperature of 32° + 5° −0 °F (0° + 3° −0 °C) for 1 hour. Allow no more than 5 minutes to elapse between each test cycle.
 
 S15 Rear visibility phase-in schedule. For the purposes of the requirements in S15.1 through S15.7, production year means the 12-month period between May 1 of one year and April 30 of the following year, inclusive.
 
 S15.1 Vehicles manufactured on or after May 1, 2016 and before May 1, 2018. At any time during or after the production years ending April 30, 2017 and April 30, 2018, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with S5.5.1 or S6.2.1 of this standard. The manufacturer's designation of a vehicle as a certified vehicle is irrevocable.
 
-S15.2 Vehicles manufactured on or after May 1, 2016 and before May 1, 2017. Except as provided in S15.4, for passenger cars, multipurpose passenger vehicles, trucks, buses, and low-speed vehicles with a GVWR of 4,536 kg or less, manufactured by a manufacturer on or after May 1, 2016, and before May 1, 2017, the number of such vehicles complying with S5.5.1 or S6.2.1 shall be not less than 10 percent of the manufacturer'sâ
+S15.2 Vehicles manufactured on or after May 1, 2016 and before May 1, 2017. Except as provided in S15.4, for passenger cars, multipurpose passenger vehicles, trucks, buses, and low-speed vehicles with a GVWR of 4,536 kg or less, manufactured by a manufacturer on or after May 1, 2016, and before May 1, 2017, the number of such vehicles complying with S5.5.1 or S6.2.1 shall be not less than 10 percent of the manufacturer's—
 
 (a) Production of such vehicles during that period; or
 
 (b) Average annual production of such vehicles manufactured in the three previous production years.
 
-S15.3 Vehicles manufactured on or after May 1, 2017 and before May 1, 2018. Except as provided in S15.4, for passenger cars, multipurpose passenger vehicles, trucks, buses, and low-speed vehicles with a GVWR of 4,536 kg or less, manufactured by a manufacturer on or after May 1, 2017, and before May 1, 2018, the number of such vehicles complying with S5.5.1 or S6.2.1 shall be not less than 40 percent of the manufacturer'sâ
+S15.3 Vehicles manufactured on or after May 1, 2017 and before May 1, 2018. Except as provided in S15.4, for passenger cars, multipurpose passenger vehicles, trucks, buses, and low-speed vehicles with a GVWR of 4,536 kg or less, manufactured by a manufacturer on or after May 1, 2017, and before May 1, 2018, the number of such vehicles complying with S5.5.1 or S6.2.1 shall be not less than 40 percent of the manufacturer's—
 
 (a) Production of such vehicles during that period; or
 
@@ -406,7 +406,7 @@ S15.4 Exclusions from phase-in. The following vehicles shall not be subject to t
 
 (b) Vehicles that are altered (within the meaning of 49 CFR 567.7) before May 1, 2017, after having been previously certified in accordance with part 567 of this chapter, and vehicles manufactured in two or more stages before May 1, 2018.
 
-S15.5 Vehicles produced by more than one manufacturer. For the purpose of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under S15.1 through S15.3, a vehicle produced by more than one manufacturer shall be attributed to a single manufacturer as follows, subject to S15.6â
+S15.5 Vehicles produced by more than one manufacturer. For the purpose of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under S15.1 through S15.3, a vehicle produced by more than one manufacturer shall be attributed to a single manufacturer as follows, subject to S15.6—
 
 (a) A vehicle that is imported shall be attributed to the importer.
 

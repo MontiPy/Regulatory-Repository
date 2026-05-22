@@ -15,14 +15,14 @@ systems:
 - Restraints
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.208 Standard No. 208; Occupant crash protection.
+title: § 571.208 Standard No. 208; Occupant crash protection.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.208 Standard No. 208; Occupant crash protection.
+## § 571.208 Standard No. 208; Occupant crash protection.
 
 S1. Scope. This standard specifies performance requirements for the protection of vehicle occupants in crashes.
 
@@ -40,9 +40,9 @@ S4.1 Passenger cars.
 
 S4.1.1 Passenger cars manufactured from January 1, 1972, to August 31, 1973. Each passenger car manufactured from January 1, 1972, to August 31, 1973, inclusive, shall meet the requirements of S4.1.1.1, S4.1.1.2, or S4.1.1.3. A protection system that meets the requirements of S4.1.1.1, or S4.1.1.2 may be installed at one or more designated seating positions of a vehicle that otherwise meets the requirements of S4.1.1.3.
 
-S4.1.1.1 First optionâcomplete passive protection system. The vehicle shall meet the crash protection requirements of S5. by means that require no action by vehicle occupants.
+S4.1.1.1 First option—complete passive protection system. The vehicle shall meet the crash protection requirements of S5. by means that require no action by vehicle occupants.
 
-S4.1.1.2 Second optionâlap belt protection system with belt warning. The vehicle shallâ
+S4.1.1.2 Second option—lap belt protection system with belt warning. The vehicle shall—
 
 (a) At each designated seating position have a Type 1 seatbelt assembly or a Type 2 seatbelt assembly with a detachable upper torso portion that conforms to S7.1 and S7.2 of this standard;
 
@@ -50,21 +50,21 @@ S4.1.1.2 Second optionâlap belt protection system with belt warning. The ve
 
 (c) Meet the frontal crash protection requirements of S5.1, in a perpendicular impact, with respect to anthropomorphic test devices in each front outboard designated seating position restrained only by Type 1 seat belt assemblies.
 
-S4.1.1.3 Third optionâlap and shoulder belt protection system with belt warning.
+S4.1.1.3 Third option—lap and shoulder belt protection system with belt warning.
 
-S4.1.1.3.1 Except for convertibles and open-body vehicles, the vehicle shallâ
+S4.1.1.3.1 Except for convertibles and open-body vehicles, the vehicle shall—
 
-(a) At each front outboard designated seating position have a Type 2 seatbelt assembly that conforms to Â§ 571.209 and S7.1 and S7.2 of this standard, with either an integral or detachable upper torso portion, and a seatbelt warning system that conforms to S7.3;
+(a) At each front outboard designated seating position have a Type 2 seatbelt assembly that conforms to § 571.209 and S7.1 and S7.2 of this standard, with either an integral or detachable upper torso portion, and a seatbelt warning system that conforms to S7.3;
 
-(b) At each designated seating position other than the front outboard positions, have a Type 1 or Type 2 seat belt assembly that conforms to Â§ 571.209 and to S7.1 and S7.2 of this standard; and
+(b) At each designated seating position other than the front outboard positions, have a Type 1 or Type 2 seat belt assembly that conforms to § 571.209 and to S7.1 and S7.2 of this standard; and
 
 (c) When it perpendicularly impacts a fixed collision barrier, while moving longitudinally forward at any speed up to and including 30 m.p.h., under the test conditions of S8.1 with anthropomorphic test devices at each front outboard position restrained by Type 2 seatbelt assemblies, experience no complete separation of any load-bearing element of a seatbelt assembly or anchorage.
 
-S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated seating position have a Type 1 or Type 2 seatbelt assembly that conforms to Â§ 571.209 and to S7.1 and S7.2 of this standard, and at each front outboard designated seating position have a seatbelt warning system that conforms to S7.3.
+S4.1.1.3.2 Convertibles and open-body type vehicles shall at each designated seating position have a Type 1 or Type 2 seatbelt assembly that conforms to § 571.209 and to S7.1 and S7.2 of this standard, and at each front outboard designated seating position have a seatbelt warning system that conforms to S7.3.
 
 S4.1.2 Passenger cars manufactured on or after September 1, 1973, and before September 1, 1986. Each passenger car manufactured on or after September 1, 1973, and before September 1, 1986, shall meet the requirements of S4.1.2.1, S4.1.2.2 or S4.1.2.3. A protection system that meets the requirements of S4.1.2.1 or S4.1.2.2 may be installed at one or more designated seating positions of a vehicle that otherwise meets the requirements of S4.1.2.3.
 
-S4.1.2.1 First optionâfrontal/angular automatic protection system. The vehicle shall:
+S4.1.2.1 First option—frontal/angular automatic protection system. The vehicle shall:
 
 (a) At each front outboard designated seating position meet the frontal crash protection requirements of S5.1 by means that require no action by vehicle occupants;
 
@@ -74,7 +74,7 @@ S4.1.2.1 First optionâfrontal/angular automatic protection system. The vehi
 
 (2) At each front outboard designated seating position have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3, and that meets the requirements of S5.1 with front test dummies as required by S5.1, restrained by the Type 1 or Type 2 seat belt assembly (or the pelvic portion of any Type 2 seat belt assembly which has a detachable upper torso belt) in addition to the means that require no action by the vehicle occupant.
 
-S4.1.2.2 Second optionâhead-on automatic protection system. The vehicle shallâ
+S4.1.2.2 Second option—head-on automatic protection system. The vehicle shall—
 
 (a) At each designated seating position have a Type 1 seat belt assembly or Type 2 seat belt assembly with a detachable upper torso portion that conforms to S7.1 and S7.2 of this standard.
 
@@ -84,17 +84,17 @@ S4.1.2.2 Second optionâhead-on automatic protection system. The vehicle sha
 
 (d) At each front outboard designated seating position, have a seat belt warning system that conforms to S7.3.
 
-S4.1.2.3 Third optionâlap and shoulder belt protection system with belt warning.
+S4.1.2.3 Third option—lap and shoulder belt protection system with belt warning.
 
-S4.1.2.3.1 Except for convertibles and open-body vehicles, the vehicle shallâ
+S4.1.2.3.1 Except for convertibles and open-body vehicles, the vehicle shall—
 
-(a) At each front outboard designated seating position have a seat belt assembly that conforms to S7.1 and S7.2 of this standard, and a seat belt warning system that conforms to S7.3. The belt assembly shall be either a Type 2 seat belt assembly with a nondetachable shoulder belt that conforms to Standard No. 209 (Â§ 571.209), or a Type 1 seat belt assembly such that with a test device restrained by the assembly the vehicle meets the frontal crash protection requirements of S5.1 in a perpendicular impact.
+(a) At each front outboard designated seating position have a seat belt assembly that conforms to S7.1 and S7.2 of this standard, and a seat belt warning system that conforms to S7.3. The belt assembly shall be either a Type 2 seat belt assembly with a nondetachable shoulder belt that conforms to Standard No. 209 (§ 571.209), or a Type 1 seat belt assembly such that with a test device restrained by the assembly the vehicle meets the frontal crash protection requirements of S5.1 in a perpendicular impact.
 
-(b) At any center front designated seating position, have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 (Â§ 571.209) and to S7.1 and S7.2 of this standard, and a seat belt warning system that conforms to S7.3; and
+(b) At any center front designated seating position, have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 (§ 571.209) and to S7.1 and S7.2 of this standard, and a seat belt warning system that conforms to S7.3; and
 
-(c) At each other designated seating position, have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 (Â§ 571.209) and S7.1 and S7.2 of this standard.
+(c) At each other designated seating position, have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 (§ 571.209) and S7.1 and S7.2 of this standard.
 
-S4.1.2.3.2 Convertibles and open-body type vehicles shall at each designated seating position have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 (Â§ 571.209) and to S7.1 and S7.2 of this standard, and at each front designated seating position have a seat belt warning system that conforms to S7.3.
+S4.1.2.3.2 Convertibles and open-body type vehicles shall at each designated seating position have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 (§ 571.209) and to S7.1 and S7.2 of this standard, and at each front designated seating position have a seat belt warning system that conforms to S7.3.
 
 S4.1.3 Passenger cars manufactured on or after September 1, 1986, and before September 1, 1989.
 
@@ -180,7 +180,7 @@ S4.1.4.2 (a) Each passenger car, other than a convertible, manufactured before D
 
 (b) Except as provided in S4.1.4.2.1 and S4.1.4.2.2, each passenger car, other than a convertible, manufactured on or after September 1, 1990 and each convertible passenger car manufactured on or after September 1, 1991 shall be equipped with an integral Type 2 seat belt assembly at every forward-facing rear outboard designated seating position. Type 2 seat belt assemblies installed in compliance with this requirement shall comply with Standard No. 209 (49 CFR 571.209) and with S7.1 an S7.2 of this standard. If a Type 2 seat belt assembly installed in compliance with this requirement incorporates any webbing tension-relieving device, the vehicle owner's manual shall include the information specified in S7.4.2(b) of this standard for the tension relieving device, and the vehicle shall comply with S7.4.2(c) of this standard.
 
-(c) As used in this section, ârear outboard designated seating positionâ means any âoutboard designated seating positionâ (as that term is defined at 49 CFR 571.3) that is rearward of the front seat(s), except any designated seating position adjacent to a walkway that is located between the seat and the near side of the vehicle and is designed to allow access to more rearward seating positions.
+(c) As used in this section, “rear outboard designated seating position” means any “outboard designated seating position” (as that term is defined at 49 CFR 571.3) that is rearward of the front seat(s), except any designated seating position adjacent to a walkway that is located between the seat and the near side of the vehicle and is designed to allow access to more rearward seating positions.
 
 S4.1.4.2.1 Any rear outboard designated seating position with a seat that can be adjusted to be forward-facing and to face some other direction shall either:
 
@@ -196,9 +196,9 @@ S4.1.5.1 Frontal/angular automatic protection system. (a) Each passenger car man
 
 (1) At each front outboard designated seating position meet the frontal crash protection requirements of S5.1 by means that require no action by vehicle occupants;
 
-(2) At any front designated seating positions that are not âoutboard designated seating positions,â as that term is defined at 49 CFR 571.3, and at any rear designated seating positions that are not ârear outboard designated seating positions,â as that term is defined at S4.1.4.2(c) of this standard, have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 and S7.2 of this standard; and
+(2) At any front designated seating positions that are not “outboard designated seating positions,” as that term is defined at 49 CFR 571.3, and at any rear designated seating positions that are not “rear outboard designated seating positions,” as that term is defined at S4.1.4.2(c) of this standard, have a Type 1 or Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 and S7.2 of this standard; and
 
-(3) At each front designated seating position that is an âoutboard designated seating position,â as that term is defined at 49 CFR 571.3, and at each forward-facing rear designated seating position that is a ârear outboard designated seating positions,â as that term is defined at S4.1.4.2(c) of this standard, have a Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3 of this standard, and, in the case of the Type 2 seat belt assemblies installed at the front outboard designated seating positions, meet the frontal crash protection requirements with the appropriate anthropomorphic test dummy restrained by the Type 2 seat belt assembly in addition to the means that requires no action by the vehicle occupant.
+(3) At each front designated seating position that is an “outboard designated seating position,” as that term is defined at 49 CFR 571.3, and at each forward-facing rear designated seating position that is a “rear outboard designated seating positions,” as that term is defined at S4.1.4.2(c) of this standard, have a Type 2 seat belt assembly that conforms to Standard No. 209 and S7.1 through S7.3 of this standard, and, in the case of the Type 2 seat belt assemblies installed at the front outboard designated seating positions, meet the frontal crash protection requirements with the appropriate anthropomorphic test dummy restrained by the Type 2 seat belt assembly in addition to the means that requires no action by the vehicle occupant.
 
 (b) For the purposes of sections S4.1.5 through S4.1.5.3 and S4.2.6 through S4.2.6.2 of this standard, an inflatable restraint system means an air bag that is activated in a crash.
 
@@ -250,9 +250,9 @@ S4.2 Trucks and multipurpose passenger vehicles with a GVWR of 10,000 pounds or 
 
 S4.2.1 Trucks and multipurpose passenger vehicles with a GVWR of 10,000 pounds or less, manufactured on or after January 1, 1976 and before September 1, 1991. Each truck and multipurpose passenger vehicle, with a gross vehicle weight rating of 10,000 pounds or less, manufactured before September 1, 1991, shall meet the requirements of S4.1.2.1, or at the option of the manufacturer, S4.1.2.2 or S4.1.2.3 (as specified for passenger cars), except that forward control vehicles manufactured prior to September 1, 1981, convertibles, open-body type vehicles, walk-in van-type trucks, motor homes, vehicles designed to be exclusively sold to the U.S. Postal Service, and vehicles carrying chassis-mount campers may instead meet the requirements of S4.2.1.1 or S4.2.1.2.
 
-S4.2.1.1 First optionâcomplete automatic protection system. The vehicle shall meet the crash protection requirements of S5 by means that require no action by vehicle occupants.
+S4.2.1.1 First option—complete automatic protection system. The vehicle shall meet the crash protection requirements of S5 by means that require no action by vehicle occupants.
 
-S4.2.1.2 Second optionâbelt system. The vehicle shall have seat belt assemblies that conform to Standard 209 (49 CFR 571.209) installed as follows:
+S4.2.1.2 Second option—belt system. The vehicle shall have seat belt assemblies that conform to Standard 209 (49 CFR 571.209) installed as follows:
 
 (a) A Type 1 or Type 2 seat belt assembly shall be installed for each designated seating position in convertibles, open-body type vehicles, and walk-in van-type trucks.
 
@@ -266,11 +266,11 @@ S4.2.3 Trucks and multipurpose passenger vehicles manufactured on or after Septe
 
 S4.2.4 Rear outboard seating positions in trucks and multipurpose passenger vehicles manufactured on or after September 1, 1991 with a GVWR of 10,000 pounds or less. Except as provided in S4.2.4.2 and S4.2.4.3, each truck and each multipurpose passenger vehicle, other than a motor home, manufactured on or after September 1, 1991 that has a gross vehicle weight rating of 10,000 pounds or less shall be equipped with an integral Type 2 seat belt assembly at every forward-facing rear outboard designated seating position. Type 2 seat belt assemblies installed in compliance with this requirement shall comply with Standard No. 209 (49 CFR 571.209) and with S7.1 and S7.2 of this standard. If a Type 2 seat belt assembly installed in compliance with this requirement incorporates any webbing tension-relieving device, the vehicle owner's manual shall include the information specified in S7.4.2(b) of this standard for the tension relieving device, and the vehicle shall comply with S7.4.2(c) of this standard.
 
-S4.2.4.1 As used in this sectionâ
+S4.2.4.1 As used in this section—
 
 (a) [Reserved]
 
-(b) Rear outboard designated seating position means any âoutboard designated seating positionâ (as that term is defined at 49 CFR 571.3) that is rearward of the front seat(s), except any designated seating positions adjacent to a walkway located between the seat and the side of the vehicle, which walkway is designed to allow access to more rearward seating positions.
+(b) Rear outboard designated seating position means any “outboard designated seating position” (as that term is defined at 49 CFR 571.3) that is rearward of the front seat(s), except any designated seating positions adjacent to a walkway located between the seat and the side of the vehicle, which walkway is designed to allow access to more rearward seating positions.
 
 S4.2.4.2 Any rear outboard designated seating position with a seat that can be adjusted to be forward-facing and to face some other direction shall either:
 
@@ -328,7 +328,7 @@ S4.2.5.5 Calculation of complying trucks, buses, and multipurpose passenger vehi
 
 (2) Each truck, bus, and multipurpose passenger vehicle with a GVWR of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less whose driver's seating position complies with the requirements of S4.1.2.1(a) by means not including any type of seat belt and whose right front passenger seating position is equipped with a manual Type 2 seat belt that complies with S5.1 of this standard, with the seat belt assembly adjusted in accordance with S7.4.2, is counted as one vehicle.
 
-(3) Each truck, bus, and multipurpose passenger vehicle with a GVWR of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less that is manufactured in two or more stages or that is altered (within the meaning of Â§ 567.7 of this chapter) after having previously been certified in accordance with part 567 of this chapter is not subject to the requirements of S4.2.5.1.2, S4.2.5.2.2, and S4.2.5.3.2. Such vehicles may be excluded from all calculations of compliance with S4.2.5.1.2, S4.2.5.2.2, and S4.2.5.3.2.
+(3) Each truck, bus, and multipurpose passenger vehicle with a GVWR of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less that is manufactured in two or more stages or that is altered (within the meaning of § 567.7 of this chapter) after having previously been certified in accordance with part 567 of this chapter is not subject to the requirements of S4.2.5.1.2, S4.2.5.2.2, and S4.2.5.3.2. Such vehicles may be excluded from all calculations of compliance with S4.2.5.1.2, S4.2.5.2.2, and S4.2.5.3.2.
 
 (b) For the purposes of complying with S4.2.5.1.2, a truck, bus, or multipurpose passenger vehicle with a GVWR of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less may be counted if it:
 
@@ -392,7 +392,7 @@ S4.2.7.2 Any rear designated seating position with a seat that can be adjusted t
 
 (a) Meet the requirements of S4.2.7.1 with the seat in any position in which it can be occupied while the vehicle is in motion; or
 
-(b) When the seat is in its forward-facing and/or rear-facing position or within Â±30 degrees of either position, have a Type 2 seat belt assembly with an upper torso restraint that conforms to S7.1 and S7.2 of this standard and that adjusts by means of an emergency locking retractor that conforms to Standard No. 209 (49 CFR 571.209), which upper torso restraint may be detachable at either the buckle or the upper anchorage, but not both, and, when the seat is in any other position in which it can be occupied while the vehicle is in motion, have a Type 1 seat belt or the pelvic portion of a Type 2 seat belt assembly that conforms to S7.1 and S7.2 of this standard.
+(b) When the seat is in its forward-facing and/or rear-facing position or within ±30 degrees of either position, have a Type 2 seat belt assembly with an upper torso restraint that conforms to S7.1 and S7.2 of this standard and that adjusts by means of an emergency locking retractor that conforms to Standard No. 209 (49 CFR 571.209), which upper torso restraint may be detachable at either the buckle or the upper anchorage, but not both, and, when the seat is in any other position in which it can be occupied while the vehicle is in motion, have a Type 1 seat belt or the pelvic portion of a Type 2 seat belt assembly that conforms to S7.1 and S7.2 of this standard.
 
 S4.2.7.3 Any rear designated seating position on a readily removable seat (i.e., a seat designed to be easily removed and replaced by means installed by the manufacturer for that purpose) may meet the requirements of S4.2.7.1 by use of a belt incorporating a release mechanism that detaches both the lap and shoulder portion at either the upper or lower anchorage point, but not both. The means of detachment shall be a key or key-like object.
 
@@ -406,21 +406,21 @@ S4.2.8Seat belt warnings for trucks and multipurpose passenger vehicles manufact
 
 S4.2.8.1. Any front outboard designated seating position certified to a compliance option requiring a seat belt and any front inboard designated seating position for which a seat belt warning is required by S4.2.6.4 shall comply with S7.5 of this standard.
 
-S4.2.8.2. All rear designated seating positions certified to a compliance option requiring a seat belt, except for ambulances, as defined by FMVSS No. 201 (Â§ 571.201), and law enforcement vehicles, shall comply with S7.5 of this standard.
+S4.2.8.2. All rear designated seating positions certified to a compliance option requiring a seat belt, except for ambulances, as defined by FMVSS No. 201 (§ 571.201), and law enforcement vehicles, shall comply with S7.5 of this standard.
 
 S4.3 Trucks and multipurpose passenger vehicles, with GVWR of more than 10,000 pounds.
 
 S4.3.1 Trucks and multipurpose passenger vehicles with a GVWR of more than 10,000 pounds, manufactured in or after January 1, 1972 and before September 1, 1990. Each truck and multipurpose passenger vehicle with a gross vehicle weight rating of more than 10,000 pounds, manufactured on or after January 1, 1972 and before September 1, 1990, shall meet the requirements of S4.3.1.1 or S4.3.1.2. A protection system that meets the requirements of S4.3.1.1 may be installed at one or more designated seating positions of a vehicle that otherwise meets the requirements of S4.3.1.2.
 
-S4.3.1.1 First optionâcomplete passenger protection system. The vehicle shall meet the crash protection requirements of S5 by means that require no action by vehicle occupants.
+S4.3.1.1 First option—complete passenger protection system. The vehicle shall meet the crash protection requirements of S5 by means that require no action by vehicle occupants.
 
-S4.3.1.2 Second optionâbelt system. The vehicle shall, at each designated seating position, have either a Type 1 or a Type 2 seat belt assembly that conforms to S571.209.
+S4.3.1.2 Second option—belt system. The vehicle shall, at each designated seating position, have either a Type 1 or a Type 2 seat belt assembly that conforms to S571.209.
 
 S4.3.2 Trucks and multipurpose passenger vehicles with a GVWR of more than 10,000 pounds, manufactured on or after September 1, 1990. Each truck and multipurpose passenger vehicle with a gross vehicle weight rating of more than 10,000 pounds, manufactured on or after September 1, 1990, shall meet the requirements of S4.3.2.1 or S4.3.2.2. A protection system that meets the requirements of S4.3.2.1 may be installed at one or more designated seating positions of a vehicle that otherwise meets the requirements of S4.3.2.2.
 
-S4.3.2.1 First optionâcomplete passenger protection system. The vehicle shall meet the crash protection requirements of S5 by means that require no action by vehicle occupants.
+S4.3.2.1 First option—complete passenger protection system. The vehicle shall meet the crash protection requirements of S5 by means that require no action by vehicle occupants.
 
-S4.3.2.2 Second optionâbelt system. The vehicle shall, at each designated seating position, have either a Type 1 or a Type 2 seat belt assembly that conforms to Â§ 571.209 of this part and S7.2 of this Standard. A Type 1 belt assembly or the pelvic portion of a dual retractor Type 2 belt assembly installed at a front outboard seating position shall include either an emergency locking retractor or an automatic locking retractor. If a seat belt assembly installed at a front outboard seating position includes an automatic locking retractor for the lap belt or the lap belt portion, that seat belt assembly shall comply with the following:
+S4.3.2.2 Second option—belt system. The vehicle shall, at each designated seating position, have either a Type 1 or a Type 2 seat belt assembly that conforms to § 571.209 of this part and S7.2 of this Standard. A Type 1 belt assembly or the pelvic portion of a dual retractor Type 2 belt assembly installed at a front outboard seating position shall include either an emergency locking retractor or an automatic locking retractor. If a seat belt assembly installed at a front outboard seating position includes an automatic locking retractor for the lap belt or the lap belt portion, that seat belt assembly shall comply with the following:
 
 (a) An automatic locking retractor used at a front outboard seating position that has some type of suspension system for the seat shall be attached to the seat structure that moves as the suspension system functions.
 
@@ -466,7 +466,7 @@ S4.4.3.1.1 Any rear designated seating position with a seat that can be adjusted
 
 (a) Meet the requirements of S4.4.3.1 with the seat in any position in which it can be occupied while the vehicle is in motion, or meet S4.4.3.1.1(b)(1) and S4.4.3.1.1(b)(2).
 
-(b)(1) When the seat is in its forward-facing and/or rear-facing position, or within Â±30 degrees of either position, have a Type 2 seat belt assembly with an upper torso restraint that
+(b)(1) When the seat is in its forward-facing and/or rear-facing position, or within ±30 degrees of either position, have a Type 2 seat belt assembly with an upper torso restraint that
 
 (i) Conforms to S7.1 and S7.2 of this standard,
 
@@ -503,9 +503,9 @@ S4.4.4 Buses with a GVWR of more than 4,536 kg (10,000 lb) but not greater than 
 
 S4.4.4.1 Each bus with a GVWR of more than 4,536 kg (10,000 lb) but not greater than 11,793 kg (26,000 lb), except a school bus or an over-the-road bus, shall meet the requirements of S4.4.4.1.1 or S4.4.4.1.2.
 
-S4.4.4.1.1 First optionâcomplete passenger protection systemâdriver only. The vehicle shall meet the crash protection requirements of S5, with respect to an anthropomorphic test dummy in the driver's designated seating position, by means that require no action by vehicle occupants.
+S4.4.4.1.1 First option—complete passenger protection system—driver only. The vehicle shall meet the crash protection requirements of S5, with respect to an anthropomorphic test dummy in the driver's designated seating position, by means that require no action by vehicle occupants.
 
-S4.4.4.1.2 Second optionâbelt system. The vehicle shall, at the driver's designated seating position and all designated seating positions in the front row of seats, if there is no driver's designated seating position, be equipped with either a Type 1 or a Type 2 seat belt assembly that conforms to Â§ 571.209 of this part and S7.2 of this Standard. A Type 1 belt assembly or the pelvic portion of a dual retractor Type 2 belt assembly installed at these seating positions shall include either an emergency locking retractor or an automatic locking retractor. If a seat belt assembly includes an automatic locking retractor for the lap belt or the lap belt portion, that seat belt assembly shall comply with the following:
+S4.4.4.1.2 Second option—belt system. The vehicle shall, at the driver's designated seating position and all designated seating positions in the front row of seats, if there is no driver's designated seating position, be equipped with either a Type 1 or a Type 2 seat belt assembly that conforms to § 571.209 of this part and S7.2 of this Standard. A Type 1 belt assembly or the pelvic portion of a dual retractor Type 2 belt assembly installed at these seating positions shall include either an emergency locking retractor or an automatic locking retractor. If a seat belt assembly includes an automatic locking retractor for the lap belt or the lap belt portion, that seat belt assembly shall comply with the following:
 
 (a) An automatic locking retractor used at a driver's seating position that has some type of suspension system for the seat shall be attached to the seat structure that moves as the suspension system functions.
 
@@ -559,7 +559,7 @@ S4.5.1 Labeling and owner's manual information.
 
 (b) Sun visor air bag warning label. (1) Except as provided in S4.5.1(b)(2), each vehicle shall have a label permanently affixed to either side of the sun visor, at the manufacturer's option, at each front outboard seating position that is equipped with an inflatable restraint. The label shall conform in content to the label shown in either Figure 6a or 6b of this standard, as appropriate, and shall comply with the requirements of S4.5.1(b)(1)(i) through S4.5.1(b)(1)(iv).
 
-(i) The heading area shall be yellow with the word âWARNINGâ and the alert symbol in black.
+(i) The heading area shall be yellow with the word “WARNING” and the alert symbol in black.
 
 (ii) The message area shall be white with black text. The message area shall be no less than 30 cm
 2 (4.7 in
@@ -567,11 +567,11 @@ S4.5.1 Labeling and owner's manual information.
 
 (iii) The pictogram shall be black with a red circle and slash on a white background. The pictogram shall be no less than 30 mm (1.2 in) in diameter.
 
-(iv) If the vehicle does not have a back seat, the label shown in Figure 6a or 6b may be modified by omitting the statements: âThe BACK SEAT is the SAFEST place for children.â
+(iv) If the vehicle does not have a back seat, the label shown in Figure 6a or 6b may be modified by omitting the statements: “The BACK SEAT is the SAFEST place for children.”
 
 (2) Vehicles certified to meet the requirements specified in S19, S21, or S23 before September 1, 2003 shall have a label permanently affixed to either side of the sun visor, at the manufacturer's option, at each front outboard seating position that is equipped with an inflatable restraint. The label shall conform in content to the label shown either in Figure 8 or Figure 11 of this standard, at the manufacturer's option, and shall comply with the requirements of S4.5.1(b)(2)(i) through S4.5.1(b)(2)(iv).
 
-(i) The heading area shall be yellow with the word âWARNINGâ and the alert symbol in black.
+(i) The heading area shall be yellow with the word “WARNING” and the alert symbol in black.
 
 (ii) The message area shall be white with black text. The message area shall be no less than 30 cm
 2 (4.7 in
@@ -579,13 +579,13 @@ S4.5.1 Labeling and owner's manual information.
 
 (iii) The pictogram shall be black on a white background. The pictogram shall be no less than 30 mm (1.2 in) in length.
 
-(iv) If the vehicle does not have a back seat, the label shown in the figure may be modified by omitting the statement: âThe BACK SEAT is the SAFEST place for CHILDREN.â
+(iv) If the vehicle does not have a back seat, the label shown in the figure may be modified by omitting the statement: “The BACK SEAT is the SAFEST place for CHILDREN.”
 
-(v) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in the figure may be modified by omitting the statement: âNever put a rear-facing child seat in the front.â
+(v) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in the figure may be modified by omitting the statement: “Never put a rear-facing child seat in the front.”
 
 (3) Vehicles certified to meet the requirements specified in S19, S21, or S23 on or after September 1, 2003 shall have a label permanently affixed to either side of the sun visor, at the manufacturer's option, at each front outboard seating position that is equipped with an inflatable restraint. The label shall conform in content to the label shown in Figure 11 of this standard and shall comply with the requirements of S4.5.1(b)(3)(i) through S4.5.1(b)(3)(iv).
 
-(i) The heading area shall be yellow with the word âWARNINGâ and the alert symbol in black.
+(i) The heading area shall be yellow with the word “WARNING” and the alert symbol in black.
 
 (ii) The message area shall be white with black text. The message area shall be no less than 30 cm
 2 (4.7 in
@@ -593,9 +593,9 @@ S4.5.1 Labeling and owner's manual information.
 
 (iii) The pictogram shall be black on a white background. The pictogram shall be no less than 30 mm (1.2 in) in length.
 
-(iv) If the vehicle does not have a back seat, the label shown in the figure may be modified by omitting the statement: âThe BACK SEAT is the SAFEST place for CHILDREN.â
+(iv) If the vehicle does not have a back seat, the label shown in the figure may be modified by omitting the statement: “The BACK SEAT is the SAFEST place for CHILDREN.”
 
-(v) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in the figure may be modified by omitting the statement: âNever put a rear-facing child seat in the front.â
+(v) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in the figure may be modified by omitting the statement: “Never put a rear-facing child seat in the front.”
 
 (4) Design-specific information.
 
@@ -629,13 +629,13 @@ S4.5.1 Labeling and owner's manual information.
 
 (e) Label on the dashboard. (1) Except as provided in S4.5.1(e)(2) or S4.5.1(e)(3), each vehicle that is equipped with an inflatable restraint for the passenger position shall have a label attached to a location on the dashboard or the steering control hub that is clearly visible from all front seating positions. The label need not be permanently affixed to the vehicle. This label shall conform in content to the label shown in Figure 7 of this standard, and shall comply with the requirements of S4.5.1(e)(1)(i) through S4.5.1(e)(1)(iii).
 
-(i) The heading area shall be yellow with the word âWARNINGâ and the alert symbol in black.
+(i) The heading area shall be yellow with the word “WARNING” and the alert symbol in black.
 
 (ii) The message area shall be white with black text. The message area shall be no less than 30 cm
 2 (4.7 in
 2).
 
-(iii) If the vehicle does not have a back seat, the label shown in Figure 7 may be modified by omitting the statement: âThe back seat is the safest place for children 12 and under.â
+(iii) If the vehicle does not have a back seat, the label shown in Figure 7 may be modified by omitting the statement: “The back seat is the safest place for children 12 and under.”
 
 (2) Vehicles certified to meet the requirements specified in S19, S21, and S23 before December 1, 2003, that are equipped with an inflatable restraint for the passenger position shall have a label attached to a location on the dashboard or the steering control hub that is clearly visible from all front seating positions. The label need not be permanently affixed to the vehicle. This label shall conform in content to the label shown in either Figure 9 or Figure 12 of this standard, at manufacturer's option, and shall comply with the requirements of S4.5.1(e)(2)(i) through S4.5.1(e)(2)(iv).
 
@@ -645,9 +645,9 @@ S4.5.1 Labeling and owner's manual information.
 2 (4.7 in
 2).
 
-(iii) If the vehicle does not have a back seat, the labels shown in Figures 9 and 12 may be modified by omitting the statement: âThe back seat is the safest place for children.â
+(iii) If the vehicle does not have a back seat, the labels shown in Figures 9 and 12 may be modified by omitting the statement: “The back seat is the safest place for children.”
 
-(iv) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in Figure 12 may be modified by omitting the statement: âNever put a rear-facing child seat in the front.â
+(iv) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in Figure 12 may be modified by omitting the statement: “Never put a rear-facing child seat in the front.”
 
 (3) Vehicles certified to meet the requirements specified in S19, S21, and S23 on or after December 1, 2003, that are equipped with an inflatable restraint for the passenger position shall have a label attached to a location on the dashboard or the steering control hub that is clearly visible from all front seating positions. The label need not be permanently affixed to the vehicle. This label shall conform in content to the label shown in Figure 12 of this standard and shall comply with the requirements of S4.5.1(e)(3)(i) through S4.5.1(e)(3)(iv).
 
@@ -657,9 +657,9 @@ S4.5.1 Labeling and owner's manual information.
 2 (4.7 in
 2).
 
-(iii) If the vehicle does not have a back seat, the label shown in Figure 12 may be modified by omitting the statement: âThe back seat is the safest place for children.â
+(iii) If the vehicle does not have a back seat, the label shown in Figure 12 may be modified by omitting the statement: “The back seat is the safest place for children.”
 
-(iv) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in Figure 12 may be modified by omitting the statement: âNever put a rear-facing child seat in the front.â
+(iv) If the vehicle does not have a back seat or the back seat is too small to accommodate a rear-facing child restraint consistent with S4.5.4.1, the label shown in Figure 12 may be modified by omitting the statement: “Never put a rear-facing child seat in the front.”
 
 (f) Information to appear in owner's manual. (1) The owner's manual for any vehicle equipped with an inflatable restraint system shall include an accurate description of the vehicle's air bag system in an easily understandable format. The owner's manual shall include a statement to the effect that the vehicle is equipped with an air bag and lap/shoulder belt at both front outboard seating positions, and that the air bag is a supplemental restraint at those seating positions. The information shall emphasize that all occupants should always wear their seat belts whether or not an air bag is also provided at their seating position to minimize the risk of severe injury or death in the event of a crash. The owner's manual shall also provide any necessary precautions regarding the proper positioning of occupants, including children, at seating positions equipped with air bags to ensure maximum safety protection for those occupants. The owner's manual shall also explain that no objects should be placed over or near the air bag on the instrument panel, because any such objects could cause harm if the vehicle is in a crash severe enough to cause the air bag to inflate.
 
@@ -687,7 +687,7 @@ S4.5.1 Labeling and owner's manual information.
 
 S4.5.2 Readiness indicator. An occupant protection system that deploys in the event of a crash shall have a monitoring system with a readiness indicator. The indicator shall monitor its own readiness and shall be clearly visible from the driver's designated seating position. If the vehicle is equipped with a single readiness indicator for both a driver and passenger air bag, and if the vehicle is equipped with an on-off switch permitted by S4.5.4 of this standard, the readiness indicator shall monitor the readiness of the driver air bag when the passenger air bag has been deactivated by means of the on-off switch, and shall not illuminate solely because the passenger air bag has been deactivated by the manual on-off switch. A list of the elements of the system being monitored by the indicator shall be included with the information furnished in accordance with S4.5.1 but need not be included on the label.
 
-S4.5.3 Automatic belts. Except as provided in S4.5.3.1, a seat belt assembly that requires no action by vehicle occupants (hereinafter referred to as an âautomatic beltâ) may be used to meet the crash protection requirements of any option under S4. and in place of any seat belt assembly otherwise required by that option.
+S4.5.3 Automatic belts. Except as provided in S4.5.3.1, a seat belt assembly that requires no action by vehicle occupants (hereinafter referred to as an “automatic belt”) may be used to meet the crash protection requirements of any option under S4. and in place of any seat belt assembly otherwise required by that option.
 
 S4.5.3.1. An automatic belt that provides only pelvic restraint may not be used pursuant to S4.5.3 to meet the requirements of an option that requires a Type 2 seat belt assembly. An automatic belt may not be used pursuant to S4.5.3 to meet the requirements of S4.1.5.1(a)(3) for a Type 2 seat belt assembly at any seating position equipped with an inflatable restraint system pursuant to S4.1.5.2, S4.1.5.3, S4.2.6.1, or S4.2.6.2 of this standard.
 
@@ -717,15 +717,15 @@ S4.5.4.1 The vehicle complies with either S4.5.4.1(a) or S4.5.4.1(b).
 
 S4.5.4.2 The device is operable by means of the ignition key for the vehicle. The device shall be separate from the ignition switch for the vehicle, so that the driver must take some action with the ignition key other than inserting it or turning it in the ignition switch to deactivate the passenger air bag. Once deactivated, the passenger air bag shall remain deactivated until it is reactivated by means of the device.
 
-S4.5.4.3 A telltale light in the interior of the vehicle shall be illuminated whenever the passenger air bag is turned off by means of the on-off switch. The telltale shall be clearly visible to occupants of all front seating positions. âClearly visibleâ means within the normal range of vision throughout normal driving operations. The telltale:
+S4.5.4.3 A telltale light in the interior of the vehicle shall be illuminated whenever the passenger air bag is turned off by means of the on-off switch. The telltale shall be clearly visible to occupants of all front seating positions. “Clearly visible” means within the normal range of vision throughout normal driving operations. The telltale:
 
 (a) Shall be yellow;
 
-(b) Shall have the identifying words âPASSENGER AIR BAG OFFâ or âPASS AIR BAG OFFâ on the telltale or within 25 millimeters of the telltale;
+(b) Shall have the identifying words “PASSENGER AIR BAG OFF” or “PASS AIR BAG OFF” on the telltale or within 25 millimeters of the telltale;
 
-(c) Shall remain illuminated for the entire time that the air bag is âoffâ;
+(c) Shall remain illuminated for the entire time that the air bag is “off”;
 
-(d) Shall not be illuminated at any time when the air bag is âonâ; and,
+(d) Shall not be illuminated at any time when the air bag is “on”; and,
 
 (e) Shall not be combined with the readiness indicator required by S4.5.2 of this standard.
 
@@ -787,15 +787,15 @@ S4.6 Dynamic testing of manual belt systems.
 
 S4.6.1 Each truck and multipurpose passenger vehicle with a GVWR of 8,500 pounds or less and an unloaded weight of less than 5,500 pounds that is manufactured on or after September 1, 1991, and is equipped with a Type 2 seat belt assembly at a front outboard designated seating position pursuant to S4.1.2.3 shall meet the frontal crash protection requirements of S5.1 at those designated seating positions with a test dummy restrained by a Type 2 seat belt assembly that has been adjusted in accordance with S7.4.2. A vehicle shall not be deemed to be in noncompliance with this standard if its manufacturer establishes that it did not have reason to know in the exercise of due care that such vehicle is not in conformity with the requirement of this standard.
 
-S4.6.2 Any manual seat belt assembly subject to the requirements of S5.1 of this standard by virtue of any provision of this standard other than S4.1.2.1(c)(2) does not have to meet the requirements of S4.2(a)-(f) and S4.4 of Standard No. 209 (Â§ 571.209).
+S4.6.2 Any manual seat belt assembly subject to the requirements of S5.1 of this standard by virtue of any provision of this standard other than S4.1.2.1(c)(2) does not have to meet the requirements of S4.2(a)-(f) and S4.4 of Standard No. 209 (§ 571.209).
 
-S4.6.3 Any manual seat belt assembly subject to the requirements of S5.1 of this standard by virtue of S4.1.2.1(c)(2) does not have to meet the elongation requirements of S4.2(c), S4.4(a)(2), S4.4(b)(4), and S4.4(b)(5) of Standard No. 209 (Â§ 571.209).
+S4.6.3 Any manual seat belt assembly subject to the requirements of S5.1 of this standard by virtue of S4.1.2.1(c)(2) does not have to meet the elongation requirements of S4.2(c), S4.4(a)(2), S4.4(b)(4), and S4.4(b)(5) of Standard No. 209 (§ 571.209).
 
 S4.7 [Reserved]
 
 S4.8 Selection of compliance options. Where manufacturer options are specified, the manufacturer shall select the option by the time it certifies the vehicle and may not thereafter select a different option for the vehicle. Each manufacturer shall, upon request from the National Highway Traffic Safety Administration, provide information regarding which of the compliance options it has selected for a particular vehicle or make/model.
 
-S4.9 Values and tolerances. Wherever a range of values or tolerances are specified, requirements shall be met at all values within the range of values or tolerances. With respect to the positioning of anthropomorphic dummies, torso and spine angle tolerances shall be Â±2 degrees unless otherwise stated, and leg, thigh, foot, and arm angle tolerances shall be Â±5 degrees unless otherwise stated.
+S4.9 Values and tolerances. Wherever a range of values or tolerances are specified, requirements shall be met at all values within the range of values or tolerances. With respect to the positioning of anthropomorphic dummies, torso and spine angle tolerances shall be ±2 degrees unless otherwise stated, and leg, thigh, foot, and arm angle tolerances shall be ±5 degrees unless otherwise stated.
 
 S4.10 Metric values. Specifications and requirements are given in metric units with English units provided for reference. The metric values are controlling.
 
@@ -813,7 +813,7 @@ S4.11 Test duration for purpose of measuring injury criteria.
 
 S4.12 Suppression systems that do not detect dummies. For vehicles with occupant sensing systems that recognize humans and not dummies, such that the air bag or bags would not function in crash tests, the manufacturer shall provide NHTSA with information and equipment necessary to circumvent the suppression system for the crash test such that the restraint system operates as if 5th percentile adult female humans and 50th percentile adult male humans are seated in the vehicle.
 
-S4.13 Data channels. For vehicles manufactured on or after September 1, 2001, all data channels used in injury criteria calculations shall be filtered using a phaseless digital filter, such as the Butterworth four-pole phaseless digital filter specified in appendix C of SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5).
+S4.13 Data channels. For vehicles manufactured on or after September 1, 2001, all data channels used in injury criteria calculations shall be filtered using a phaseless digital filter, such as the Butterworth four-pole phaseless digital filter specified in appendix C of SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5).
 
 S5 Occupant crash protection requirements for the 50th percentile adult male dummy.
 
@@ -821,7 +821,7 @@ S5.1 Frontal barrier crash test.
 
 S5.1.1 Belted test. (a) Vehicles not certified to S14. Impact a vehicle traveling longitudinally forward at any speed, up to and including 48 km/h (30 mph), into a fixed rigid barrier that is perpendicular to the line of travel of the vehicle, and at any angle up to 30 degrees in either direction from the perpendicular to the line of travel of the vehicle, under the applicable conditions of S8 and S10. The test dummy specified in S8.1.8 placed in each front outboard designated seating position shall meet the injury criteria of S6.1, S6.2(a), S6.3, S6.4(a), and S6.5 of this standard.
 
-(b) Vehicles certified to S14â(1) Vehicles certified to S14.1 or S14.2. Impact a vehicle traveling longitudinally forward at any speed, up to and including 48 km/h (30 mph), into a fixed rigid barrier that is perpendicular to the line of travel of the vehicle under the applicable conditions of S8 and S10. The test dummy specified in S8.1.8 placed in each front outboard designated seating position shall meet the injury criteria of S6.1, S6.2(b), S6.3, S6.4(b), S6.5, and S6.6 of this standard.
+(b) Vehicles certified to S14—(1) Vehicles certified to S14.1 or S14.2. Impact a vehicle traveling longitudinally forward at any speed, up to and including 48 km/h (30 mph), into a fixed rigid barrier that is perpendicular to the line of travel of the vehicle under the applicable conditions of S8 and S10. The test dummy specified in S8.1.8 placed in each front outboard designated seating position shall meet the injury criteria of S6.1, S6.2(b), S6.3, S6.4(b), S6.5, and S6.6 of this standard.
 
 (2) Vehicles certified to S14.3 or S14.4. Impact a vehicle traveling longitudinally forward at any speed, up to and including 56 km/h (35 mph), into a fixed rigid barrier that is perpendicular to the line of travel of the vehicle under the applicable conditions of S8 and S10. The test dummy specified in S8.1.8 placed in each front outboard designated seating position shall meet the injury criteria of S6.1, S6.2(b), S6.3, S6.4(b), S6.5, and S6.6 of this standard.
 
@@ -861,7 +861,7 @@ S6.6 Neck injury. When measuring neck injury, each of the following injury crite
 
 (a) Nij.
 
-(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5) Channel Frequency Class 600.
+(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5) Channel Frequency Class 600.
 
 (2) During the event, the axial force (Fz) can be either in tension or compression while the occipital condyle bending moment (Mocy) can be in either flexion or extension. This results in four possible loading conditions for Nij: tension-extension (Nte), tension-flexion (Ntf), compression-extension (Nce), or compression-flexion (Ncf).
 
@@ -889,19 +889,19 @@ S7. Seat belt assembly requirements. As used in this section, a law enforcement 
 
 S7.1 Adjustment.
 
-S7.1.1 Except as specified in S7.1.1.1 and S7.1.1.2, the lap belt of any seat belt assembly furnished in accordance with S4.1.2 shall adjust by means of any emergency-locking or automatic-locking retractor that conforms to Â§ 571.209 to fit persons whose dimensions range from those of a 50th percentile 6-year-old child to those of a 95th percentile adult male and the upper torso restraint shall adjust by means of an emergency-locking retractor or a manual adjusting device that conforms to Â§ 571.209 to fit persons whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male, with the seat in any position, the seat back in the manufacturer's nominal design riding position, and any adjustable anchorages adjusted to the manufacturer's nominal design position for a 50th percentile adult male occupant. However, an upper torso restraint furnished in accordance with S4.1.2.3.1(a) shall adjust by means of an emergency-locking retractor that conforms to Â§ 571.209.
+S7.1.1 Except as specified in S7.1.1.1 and S7.1.1.2, the lap belt of any seat belt assembly furnished in accordance with S4.1.2 shall adjust by means of any emergency-locking or automatic-locking retractor that conforms to § 571.209 to fit persons whose dimensions range from those of a 50th percentile 6-year-old child to those of a 95th percentile adult male and the upper torso restraint shall adjust by means of an emergency-locking retractor or a manual adjusting device that conforms to § 571.209 to fit persons whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male, with the seat in any position, the seat back in the manufacturer's nominal design riding position, and any adjustable anchorages adjusted to the manufacturer's nominal design position for a 50th percentile adult male occupant. However, an upper torso restraint furnished in accordance with S4.1.2.3.1(a) shall adjust by means of an emergency-locking retractor that conforms to § 571.209.
 
 S7.1.1.1 A seat belt assembly installed at the driver's seating position shall adjust to fit persons whose dimensions range from those of a 5th-percentile adult female to those of a 95th-percentile adult male.
 
-S7.1.1.2 (a) A seat belt assembly installed in a motor vehicle other than a forward control vehicle at any designated seating position other than the outboard positions of the front and second seats shall adjust either by a retractor as specified in S7.1.1 or by a manual adjusting device that conforms to Â§ 571.209.
+S7.1.1.2 (a) A seat belt assembly installed in a motor vehicle other than a forward control vehicle at any designated seating position other than the outboard positions of the front and second seats shall adjust either by a retractor as specified in S7.1.1 or by a manual adjusting device that conforms to § 571.209.
 
-(b) A seat belt assembly installed in a forward control vehicle at any designated seating position other than the front outboard seating positions shall adjust either by a retractor as specified in S7.1.1 or by a manual adjusting device that conforms to Â§ 571.209.
+(b) A seat belt assembly installed in a forward control vehicle at any designated seating position other than the front outboard seating positions shall adjust either by a retractor as specified in S7.1.1 or by a manual adjusting device that conforms to § 571.209.
 
-(c) A seat belt assembly installed in a forward-facing rear outboard seating position in a law enforcement vehicle shall adjust either by a retractor as specified in S7.1.1 or by a manual adjusting device that conforms to Â§ 571.209.
+(c) A seat belt assembly installed in a forward-facing rear outboard seating position in a law enforcement vehicle shall adjust either by a retractor as specified in S7.1.1 or by a manual adjusting device that conforms to § 571.209.
 
 S7.1.1.3 A Type 1 lap belt or the lap belt portion of any Type 2 seat belt assembly installed at any forward-facing outboard designated seating position of a vehicle with a gross vehicle weight rating of 10,000 pounds or less to comply with a requirement of this standard, except walk-in van-type vehicles and school buses, and except in rear seating positions in law enforcement vehicles, shall meet the requirements of S7.1 by means of an emergency locking retractor that conforms to Standard No. 209 (49 CFR 571.209).
 
-S7.1.1.4 Notwithstanding the other provisions of S7.1âS7.1.1.3, emergency-locking retractors on belt assemblies located in positions other than front outboard designated seating postions may be equipped with a manual webbing adjustment device capable of causing the retractor that adjusts the lap belt to lock when the belt is buckled.
+S7.1.1.4 Notwithstanding the other provisions of S7.1—S7.1.1.3, emergency-locking retractors on belt assemblies located in positions other than front outboard designated seating postions may be equipped with a manual webbing adjustment device capable of causing the retractor that adjusts the lap belt to lock when the belt is buckled.
 
 S7.1.1.5 Passenger cars, and trucks, buses, and multipurpose passenger vehicles with a GVWR of 4,536 kg (10,000 lb) or less manufactured on or after September 1, 1995 and buses with a GVWR of more than 11,793 kg (26,000 pounds) manufactured on or after November 28, 2016, except a perimeter-seating bus, prison bus, school bus, or transit bus, shall meet the requirements of S7.1.1.5(a), S7.1.1.5(b) and S7.1.1.5(c).
 
@@ -961,13 +961,13 @@ S7.2 Latch mechanism. Except as provided in S7.2(e), each seat belt assembly ins
 
 (e) The requirements of S7.2 do not apply to any automatic belt assembly. The requirements specified in S7.2(a) through (c) do not apply to any safety belt assembly installed at a forward-facing rear outboard seating position in a law enforcement vehicle.
 
-S7.3 (a) A seat belt assembly provided at the driver's seating position shall be equipped with a warning system that, at the option of the manufacturer, eitherâ
+S7.3 (a) A seat belt assembly provided at the driver's seating position shall be equipped with a warning system that, at the option of the manufacturer, either—
 
-(1) Activates a continuous or intermittent audible signal for a period of not less than 4 seconds and not more than 8 seconds and that activates a continuous or flashing warning light visible to the driver displaying the identifying symbol for the seat belt telltale shown in Table 2 of FMVSS 101 or, at the option of the manufacturer if permitted by FMVSS 101, displaying the words âFasten Seat Beltsâ or âFasten Beltsâ, for not less than 60 seconds (beginning when the vehicle ignition switch is moved to the âonâ or the âstartâ position) when condition (b) exists simultaneously with condition (c), or that
+(1) Activates a continuous or intermittent audible signal for a period of not less than 4 seconds and not more than 8 seconds and that activates a continuous or flashing warning light visible to the driver displaying the identifying symbol for the seat belt telltale shown in Table 2 of FMVSS 101 or, at the option of the manufacturer if permitted by FMVSS 101, displaying the words “Fasten Seat Belts” or “Fasten Belts”, for not less than 60 seconds (beginning when the vehicle ignition switch is moved to the “on” or the “start” position) when condition (b) exists simultaneously with condition (c), or that
 
-(2) Activates, for a period of not less than 4 seconds and not more than 8 seconds (beginning when the vehicle ignition switch is moved to the âonâ or the âstartâ position), a continuous or flashing warning light visible to the driver, displaying the identifying symbol of the seat belt telltale shown in Table 2 of FMVSS 101 or, at the option of the manufacturer if permitted by FMVSS 101, displaying the words âFasten Seat Beltsâ or âFasten Beltsâ, when condition (b) exists, and a continuous or intermittent audible signal when condition (b) exists simultaneously with condition (c).
+(2) Activates, for a period of not less than 4 seconds and not more than 8 seconds (beginning when the vehicle ignition switch is moved to the “on” or the “start” position), a continuous or flashing warning light visible to the driver, displaying the identifying symbol of the seat belt telltale shown in Table 2 of FMVSS 101 or, at the option of the manufacturer if permitted by FMVSS 101, displaying the words “Fasten Seat Belts” or “Fasten Belts”, when condition (b) exists, and a continuous or intermittent audible signal when condition (b) exists simultaneously with condition (c).
 
-(b) The vehicle's ignition switch is moved to the âonâ position or to the âstartâ position.
+(b) The vehicle's ignition switch is moved to the “on” position or to the “start” position.
 
 (c) The driver's lap belt is not in use, as determined, at the option of the manufacturer, either by the belt latch mechanism not being fastened, or by the belt not being extended at least 4 inches from its stowed position.
 
@@ -985,15 +985,15 @@ S7.4 Seat belt comfort and convenience.
 
 (ii) Manual seat belts installed in a bus, multipurpose passenger vehicle and truck with a gross vehicle weight rating of 10,000 pounds or less, except for walk-in van-type vehicles, shall meet the requirements of S7.4.3, S7.4.4, S7.4.5, and S7.4.6.
 
-S7.4.1 Convenience hooks. Any manual convenience hook or other device that is provided to stow seat belt webbing to facilitate entering or exiting the vehicle shall automatically release the webbing when the automatic belt system is otherwise operational and shall remain in the released mode for as long as (a) exists simultaneously with (b), or, at the manufacturer's option, for as long as (a) exists simultaneously with (c)â
+S7.4.1 Convenience hooks. Any manual convenience hook or other device that is provided to stow seat belt webbing to facilitate entering or exiting the vehicle shall automatically release the webbing when the automatic belt system is otherwise operational and shall remain in the released mode for as long as (a) exists simultaneously with (b), or, at the manufacturer's option, for as long as (a) exists simultaneously with (c)—
 
-(a) The vehicle ignition switch is moved to the âonâ or âstartâ position;
+(a) The vehicle ignition switch is moved to the “on” or “start” position;
 
 (b) The vehicle's drive train is engaged;
 
 (c) The vehicle's parking brake is in the released mode (nonengaged).
 
-S7.4.2 Webbing tension-relieving device. Each vehicle with an automatic seat belt assembly or with a Type 2 manual seat belt assembly that must meet the occupant crash protection requirements of S5.1 of this standard installed at a front outboard designated seating position, and each vehicle with a Type 2 manual seat belt assembly installed at a rear outboard designated seating position in compliance with a requirement of this standard, that has either automatic or manual tension-relieving devices permitting the introduction of slack in the webbing of the shoulder belt (e.g., âcomfort clipsâ or âwindow-shadeâ devices) shall:
+S7.4.2 Webbing tension-relieving device. Each vehicle with an automatic seat belt assembly or with a Type 2 manual seat belt assembly that must meet the occupant crash protection requirements of S5.1 of this standard installed at a front outboard designated seating position, and each vehicle with a Type 2 manual seat belt assembly installed at a rear outboard designated seating position in compliance with a requirement of this standard, that has either automatic or manual tension-relieving devices permitting the introduction of slack in the webbing of the shoulder belt (e.g., “comfort clips” or “window-shade” devices) shall:
 
 (a) Comply with the requirements of S5.1 with the shoulder belt webbing adjusted to introduce the maximum amount of slack recommended by the vehicle manufacturer pursuant to S7.4.2(b).
 
@@ -1027,29 +1027,29 @@ S7.5 Seat belt warning systems for vehicles manufactured on or after September 1
 
 (5) A readily-removable seat means a seat designed to be easily removed and replaced by means installed by the manufacturer for that purpose.
 
-(6) Seat centerline means the line formed by the intersection of the seating surface and the vertical plane that passes through the âseating reference pointâ (as defined at 49 CFR 571.3) and is parallel to the direction that the seat faces.
+(6) Seat centerline means the line formed by the intersection of the seating surface and the vertical plane that passes through the “seating reference point” (as defined at 49 CFR 571.3) and is parallel to the direction that the seat faces.
 
 (b) Front seat belt warning system. A driver's designated seating position and any front outboard passenger designating seating position must be equipped with an audio-visual seat belt warning meeting the requirements of S7.5(b)(1) through (4) when tested in accordance with S7.5(d).
 
-(1) Visual warning. (i) A visual warning must activate and remain active whenever the ignition switch is in the âonâ or âstartâ position (or the propulsion system is activated), the seat is occupied, and the seat belt is not in use.
+(1) Visual warning. (i) A visual warning must activate and remain active whenever the ignition switch is in the “on” or “start” position (or the propulsion system is activated), the seat is occupied, and the seat belt is not in use.
 
 (ii) Vehicles with a driver's designated seating position. The visual warning for the driver's seat belt and the visual warning for the front outboard passenger seat belt must be visible from the driver's seat. If the vehicle has a mode of driverless operation, the visual warning for the front outboard passenger seat belt must also be visible from the front outboard passenger seat.
 
 (iii) Vehicles without a driver's designated seating position. The visual warning for each outboard passenger designated seating position must be visible from each outboard passenger designated seating position.
 
-(iv) The visual warning may be continuous or intermittent and must display the identifying symbol or the words specified in table 2 of FMVSS No. 101 (Â§ 571.101).
+(iv) The visual warning may be continuous or intermittent and must display the identifying symbol or the words specified in table 2 of FMVSS No. 101 (§ 571.101).
 
 (v) For a visual warning associated with multiple front outboard seats, the visual warning must use supplementary symbols, words, or abbreviations to indicate the seating positions for which the warnings are intended.
 
 (vi) The visual warning must not be overridden by other warnings.
 
-(2) Audible warningâfirst phase. (i) An audible warning must activate when the ignition switch is placed in the âonâ or âstartâ position (or upon manual activation of the propulsion system, but prior to the vehicle being placed in âpossible active driving modeâ as defined by FMVSS No. 305 (Â§ 571.305)), the seat is occupied, and the seat belt is not in use.
+(2) Audible warning—first phase. (i) An audible warning must activate when the ignition switch is placed in the “on” or “start” position (or upon manual activation of the propulsion system, but prior to the vehicle being placed in “possible active driving mode” as defined by FMVSS No. 305 (§ 571.305)), the seat is occupied, and the seat belt is not in use.
 
 (ii) The audible warning must continue for at least 30 seconds, until the seat belt that triggered the warning is in use, until the seat is no longer occupied, or until the second-phase warning activates. The audible warning may be paused during the activation of another audible safety warning that is designed to alert the driver to take immediate action, but the seat belt audible warning must be resumed for the remainder of the required duration after the other audible warning deactivates.
 
 (iii) The audible warning may be continuous or intermittent. If intermittent, inactive periods longer than 3 seconds will not be counted toward the total duration of the audible warning, and there must be no inactive periods greater than 10 seconds. The same audible warning may be used for all front and rear seats.
 
-(3) Audible warningâsecond phase. (i) The audible warning must activate and remain active when the vehicle speed is equal to or greater than 10 km/h (6.2 mph), the seat is occupied, and the seat belt is not in use. The audible warning may be paused during the activation of another audible safety warning that is designed to alert the driver to take immediate action, but the seat belt audible warning must be resumed after the other audible warning deactivates.
+(3) Audible warning—second phase. (i) The audible warning must activate and remain active when the vehicle speed is equal to or greater than 10 km/h (6.2 mph), the seat is occupied, and the seat belt is not in use. The audible warning may be paused during the activation of another audible safety warning that is designed to alert the driver to take immediate action, but the seat belt audible warning must be resumed after the other audible warning deactivates.
 
 (ii) The audible warning may be continuous or intermittent. If intermittent, the audible warning when active must be continuous or have a chime frequency of at least 0.5 Hz and a duty cycle of at least 0.2. The same audible warning may be used for all front and rear seats.
 
@@ -1057,7 +1057,7 @@ S7.5 Seat belt warning systems for vehicles manufactured on or after September 1
 
 (c) Rear passenger seat belt warning system. All rear designated seating positions must be equipped with a warning system meeting the requirements of S7.5(c)(1) through (7) when tested in accordance with S7.5(d).
 
-(1) Start-of-trip warning. A visual warning indicating how many or which rear seat belts are in use and/or not in use must activate when the ignition switch is placed in the âonâ or âstartâ position (or upon manual activation of the propulsion system, but prior to the vehicle being placed in âpossible active driving modeâ as defined by FMVSS No. 305 (Â§ 571.305)) and continue for at least 60 seconds.
+(1) Start-of-trip warning. A visual warning indicating how many or which rear seat belts are in use and/or not in use must activate when the ignition switch is placed in the “on” or “start” position (or upon manual activation of the propulsion system, but prior to the vehicle being placed in “possible active driving mode” as defined by FMVSS No. 305 (§ 571.305)) and continue for at least 60 seconds.
 
 (i) No visual warning is required for:
 
@@ -1087,13 +1087,13 @@ S7.5 Seat belt warning systems for vehicles manufactured on or after September 1
 
 (5) Cancellation. The warning must not be able to be canceled or deactivated.
 
-(6) Seat electrical connection requirements. Any rear designated seating position consisting of a readily-removable seat that is equipped with electrical connections utilized by the rear seat belt warning system must eitherâ
+(6) Seat electrical connection requirements. Any rear designated seating position consisting of a readily-removable seat that is equipped with electrical connections utilized by the rear seat belt warning system must either—
 
 (i) Automatically connect the electrical connections when the seat is put in place; or
 
 (ii) If a manual electrical connection is required, the connectors must be readily accessible.
 
-(7) Electrical connection warning signal. Vehicles that provide a visual warning designed to indicate to the driver how many or which rear seat belts are not in use and are equipped with any readily removable rear seats must, when the ignition switch is placed in the âonâ or âstartâ position (or upon manual activation of the propulsion system, but prior to the vehicle being placed in âpossible active driving modeâ as defined by FMVSS No. 305 (Â§ 571.305)) provide a visual warning visible from the driver's seat if a seat has been installed and a proper electrical connection has not been made. The visual warning may be intermittent but must remain active until all rear seat electrical connections are properly made.
+(7) Electrical connection warning signal. Vehicles that provide a visual warning designed to indicate to the driver how many or which rear seat belts are not in use and are equipped with any readily removable rear seats must, when the ignition switch is placed in the “on” or “start” position (or upon manual activation of the propulsion system, but prior to the vehicle being placed in “possible active driving mode” as defined by FMVSS No. 305 (§ 571.305)) provide a visual warning visible from the driver's seat if a seat has been installed and a proper electrical connection has not been made. The visual warning may be intermittent but must remain active until all rear seat electrical connections are properly made.
 
 (d) Test procedures. (1) Occupied designated seating positions. If testing with a designated seating position occupied, the following apply, at the option of the manufacturer:
 
@@ -1105,7 +1105,7 @@ S7.5 Seat belt warning systems for vehicles manufactured on or after September 1
 
 (B) Seat any human occupant that weighs 46.7 kg (103 lb) or more and is 139.7 cm (55 inches) tall or taller; or
 
-(C) The seat may be considered occupied when the ignition switch is in the âonâ or âstartâ position (or the propulsion system is activated).
+(C) The seat may be considered occupied when the ignition switch is in the “on” or “start” position (or the propulsion system is activated).
 
 (iii) Rear seating positions. (A) Seat the 6-year-old child dummy described in part 572, subpart N of this chapter, as well as any larger dummy described in part 572 of this chapter; or
 
@@ -1113,9 +1113,9 @@ S7.5 Seat belt warning systems for vehicles manufactured on or after September 1
 
 (iv) Compliance option selection. The manufacturer shall select a compliance option by the time it certifies the vehicle and may not thereafter select a different option for the vehicle. Each manufacturer shall provide information to NHTSA regarding which of the compliance options it has selected for a particular vehicle or make/model upon request.
 
-(2) Seating proceduresâ(i) Seat adjustment. If adjustable, the seat back shall be placed in the manufacturer's nominal design riding position, with any other seat adjustments in any position, and any adjustable seat belt anchorages in any position.
+(2) Seating procedures—(i) Seat adjustment. If adjustable, the seat back shall be placed in the manufacturer's nominal design riding position, with any other seat adjustments in any position, and any adjustable seat belt anchorages in any position.
 
-(ii) Test dummy. Seat the test dummy such that the midsagittal plane of the dummy is vertical and within Â±10 mm of the seat centerline, with the torso and pelvis in contact with the seat back. The dummy may be clothed in any manner.
+(ii) Test dummy. Seat the test dummy such that the midsagittal plane of the dummy is vertical and within ±10 mm of the seat centerline, with the torso and pelvis in contact with the seat back. The dummy may be clothed in any manner.
 
 (iii) Human occupant. The occupant shall assume, to the extent possible, the final physical position specified for the test dummy. The occupant may be clothed in any manner.
 
@@ -1129,11 +1129,11 @@ S8.1.1 Except as provided in paragraph (c) of S8.1.1, the vehicle, including tes
 
 (a) Passenger cars. A passenger car is loaded to its unloaded vehicle weight plus its rated cargo and luggage capacity weight, secured in the luggage area, plus the weight of the necessary anthropomorphic test devices.
 
-(b) Multipurpose passenger vehicles, trucks, and buses. A multipurpose passenger vehicle, truck, or bus is loaded to its unloaded vehicle weight plus 300 pounds or its rated cargo and luggage capacity weight, whichever is less, secured in the load carrying area and distributed as nearly as possible in proportion to its gross axle weight ratings, plus the weight of the necessary anthropomorphic test devices. For the purposes of Â§ 8.1.1, unloaded vehicle weight does not include the weight of work-performing accessories. Vehicles are tested to a maximum unloaded vehicle weight of 5,500 pounds.
+(b) Multipurpose passenger vehicles, trucks, and buses. A multipurpose passenger vehicle, truck, or bus is loaded to its unloaded vehicle weight plus 300 pounds or its rated cargo and luggage capacity weight, whichever is less, secured in the load carrying area and distributed as nearly as possible in proportion to its gross axle weight ratings, plus the weight of the necessary anthropomorphic test devices. For the purposes of § 8.1.1, unloaded vehicle weight does not include the weight of work-performing accessories. Vehicles are tested to a maximum unloaded vehicle weight of 5,500 pounds.
 
 (c) Fuel system capacity. With the test vehicle on a level surface, pump the fuel from the vehicle's fuel tank and then operate the engine until it stops. Then, add Stoddard solvent to the test vehicle's fuel tank in an amount which is equal to not less than 92 and not more than 94 percent of the fuel tank's usable capacity stated by the vehicle's manufacturer. In addition, add the amount of Stoddard solvent needed to fill the entire fuel system from the fuel tank through the engine's induction system.
 
-(d) Vehicle test attitude. Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its âas deliveredâ condition. The âas deliveredâ condition is the vehicle as received at the test site, with 100 percent of all fluid capacities and all tires inflated to the manufacturer's specifications as listed on the vehicle's tire placard. Determine the distance between the same level surface and the same standard reference points in the vehicle's âfully loaded condition.â The âfully loaded conditionâ is the test vehicle loaded in accordance with S8.1.1 (a) or (b), as applicable. The load placed in the cargo area shall be center over the longitudinal centerline of the vehicle. The pretest vehicle attitude shall be equal to either the as delivered or fully loaded attitude or between the as delivered attitude and the fully loaded attitude.
+(d) Vehicle test attitude. Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its “as delivered” condition. The “as delivered” condition is the vehicle as received at the test site, with 100 percent of all fluid capacities and all tires inflated to the manufacturer's specifications as listed on the vehicle's tire placard. Determine the distance between the same level surface and the same standard reference points in the vehicle's “fully loaded condition.” The “fully loaded condition” is the test vehicle loaded in accordance with S8.1.1 (a) or (b), as applicable. The load placed in the cargo area shall be center over the longitudinal centerline of the vehicle. The pretest vehicle attitude shall be equal to either the as delivered or fully loaded attitude or between the as delivered attitude and the fully loaded attitude.
 
 S8.1.2 Adjustable seats are in the adjustment position midway between the forwardmost and rearmost positions, and if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forwardmost and rearmost positions, the closest adjustment position to the rear of the midpoint is used.
 
@@ -1151,7 +1151,7 @@ S8.1.8 Anthropomorphic test dummies.
 
 S8.1.8.1 The anthropomorphic test dummies used for evaluation of occupant protection systems manufactured pursuant to applicable portions of S4.1.2, S4.1.3, and S4.1.4 of this standard shall conform to the requirements of subpart E of part 572 of this chapter.
 
-S8.1.8.2 Each test dummy is clothed in a form fitting cotton stretch short sleeve shirt with above-the-elbow sleeves and above-the-knee length pants. The weight of the shirt or pants shall not exceed 0.25 pounds each. Each foot of the test dummy is equipped with a size 11XW shoe which meets the configuration size, sole, and heel thickness specifications of MIL-S-13192P (incorporated by reference, see Â§ 571.5) change âPâ and whose weight is 1.25 Â±0.2 pounds.
+S8.1.8.2 Each test dummy is clothed in a form fitting cotton stretch short sleeve shirt with above-the-elbow sleeves and above-the-knee length pants. The weight of the shirt or pants shall not exceed 0.25 pounds each. Each foot of the test dummy is equipped with a size 11XW shoe which meets the configuration size, sole, and heel thickness specifications of MIL-S-13192P (incorporated by reference, see § 571.5) change “P” and whose weight is 1.25 ±0.2 pounds.
 
 S8.1.8.3 Limb joints are set at 1g, barely restraining the weight of the limb when extended horizontally. Leg joints are adjusted with the torso in the supine position.
 
@@ -1169,11 +1169,11 @@ S8.2.3 During the entire impact sequence the barrier undergoes no significant am
 
 S8.2.4 During the entire impact sequence the barrier is guided so that it travels in a straight line, with no significant lateral, vertical or rotational movement.
 
-S8.2.5 The concrete surface upon which the vehicle is tested is level, rigid and of uniform construction, with a skid number of 75 when measured in accordance with ASTM E274-65T (incorporated by reference, see Â§ 571.5) at 40 m.p.h., omitting water delivery as specified in paragraph 7.1 of that method.
+S8.2.5 The concrete surface upon which the vehicle is tested is level, rigid and of uniform construction, with a skid number of 75 when measured in accordance with ASTM E274-65T (incorporated by reference, see § 571.5) at 40 m.p.h., omitting water delivery as specified in paragraph 7.1 of that method.
 
 S8.2.6 The tested vehicle's brakes are disengaged and the transmission is in neutral.
 
-S8.2.7 The barrier and the test vehicle are positioned so that at impactâ
+S8.2.7 The barrier and the test vehicle are positioned so that at impact—
 
 (a) The vehicle is at rest in its normal attitude;
 
@@ -1185,9 +1185,9 @@ S8.3 Rollover test conditions. The following conditions apply to the rollover te
 
 S8.3.1 The tested vehicle's brakes are disengaged and the transmission is in neutral.
 
-S8.3.2 The concrete surface on which the test is conducted is level, rigid, of uniform construction, and of a sufficient size that the vehicle remains on it throughout the entire rollover cycle. It has a skid number of 75 when measured in accordance with ASTM E274-65T (incorporated by reference, see Â§ 571.5) at 40 m.p.h. omitting water delivery as specified in paragraph 7.1 of that method.
+S8.3.2 The concrete surface on which the test is conducted is level, rigid, of uniform construction, and of a sufficient size that the vehicle remains on it throughout the entire rollover cycle. It has a skid number of 75 when measured in accordance with ASTM E274-65T (incorporated by reference, see § 571.5) at 40 m.p.h. omitting water delivery as specified in paragraph 7.1 of that method.
 
-S8.3.3 The vehicle is placed on a device, similar to that illustrated in Figure 2, having a platform in the form of a flat, rigid plane at an angle of 23Â° from the horizontal. At the lower edge of the platform is an unyielding flange, perpendicular to the platform with a height of 4 inches and a length sufficient to hold in place the tires that rest against it. The intersection of the inner face of the flange with the upper face of the platform is 9 inches above the rollover surface. No other restraints are used to hold the vehicle in position during the deceleration of the platform and the departure of the vehicle.
+S8.3.3 The vehicle is placed on a device, similar to that illustrated in Figure 2, having a platform in the form of a flat, rigid plane at an angle of 23° from the horizontal. At the lower edge of the platform is an unyielding flange, perpendicular to the platform with a height of 4 inches and a length sufficient to hold in place the tires that rest against it. The intersection of the inner face of the flange with the upper face of the platform is 9 inches above the rollover surface. No other restraints are used to hold the vehicle in position during the deceleration of the platform and the departure of the vehicle.
 
 S8.3.4 With the vehicle on the test platform, the test devices remain as nearly as possible in the posture specified in S8.1.
 
@@ -1199,14 +1199,14 @@ S8.4 Frontal test condition. If the vehicle is equipped with a cutoff device per
 
 S9. Pressure vessels and explosive devices.
 
-S9.1 Pressure vessels. A pressure vessel that is continuously pressurized shall conform to the requirements of Â§Â§ 178.65(a), 178.65(c)(2), 178.65(d), 178.65(e)(1), and 178.65(e)(2) of this title; and to the pressure relief device requirements of Â§Â§ 173.301(a)(2), 173.301(a)(3) and 173.301(f) of this title. It shall not leak or evidence visible distortion when tested in accordance with Â§ 178.65(f)(1) of this title and shall not fail in any of the ways enumerated in Â§ 178.65(f)(2) of this title when hydrostatically tested to destruction. It shall not crack when flattened in accordance with Â§ 178.65(g) of this title to the limit specified in Â§ 178.65(g)(4) of this title.
+S9.1 Pressure vessels. A pressure vessel that is continuously pressurized shall conform to the requirements of §§ 178.65(a), 178.65(c)(2), 178.65(d), 178.65(e)(1), and 178.65(e)(2) of this title; and to the pressure relief device requirements of §§ 173.301(a)(2), 173.301(a)(3) and 173.301(f) of this title. It shall not leak or evidence visible distortion when tested in accordance with § 178.65(f)(1) of this title and shall not fail in any of the ways enumerated in § 178.65(f)(2) of this title when hydrostatically tested to destruction. It shall not crack when flattened in accordance with § 178.65(g) of this title to the limit specified in § 178.65(g)(4) of this title.
 
-S9.2 Explosive devices. An explosive device shall not exhibit any of the characteristics prohibited by Â§ 173.54 of this title. All explosive material shall be enclosed in a structure that is capable of containing the explosive energy without sudden release of pressure except through overpressure relief devices or parts designed to release the pressure during actuation.
+S9.2 Explosive devices. An explosive device shall not exhibit any of the characteristics prohibited by § 173.54 of this title. All explosive material shall be enclosed in a structure that is capable of containing the explosive energy without sudden release of pressure except through overpressure relief devices or parts designed to release the pressure during actuation.
 
 S10. Test dummy positioning procedures.
 
 S10.1 Head. The transverse instrumentation platform of the head shall be level within
-1/2 degree. To level the head of the test dummy, the following sequences must be followed. First, adjust the position of the H point within the limits set forth in S10.4.2.1 to level the transverse instrumentation platform of the head of the test dummy. If the transverse instrumentation platform of the head is still not level, then adjust the pelvic angle of the test dummy within the limits specified in S10.4.2.2 of this standard. If the transverse instrumentation platform of the head is still not level, then adjust the neck bracket of the dummy the minimum amount necessary from the non-adjusted â0â setting to ensure that the transverse instrumentation platform of the head is horizontal within
+1/2 degree. To level the head of the test dummy, the following sequences must be followed. First, adjust the position of the H point within the limits set forth in S10.4.2.1 to level the transverse instrumentation platform of the head of the test dummy. If the transverse instrumentation platform of the head is still not level, then adjust the pelvic angle of the test dummy within the limits specified in S10.4.2.2 of this standard. If the transverse instrumentation platform of the head is still not level, then adjust the neck bracket of the dummy the minimum amount necessary from the non-adjusted “0” setting to ensure that the transverse instrumentation platform of the head is horizontal within
 1/2 degree. The test dummy shall remain within the limits specified in S10.4.2.1 and S10.4.2.2. after any adjustment of the neck bracket.
 
 S10.2 Upper Arms.
@@ -1234,7 +1234,7 @@ S10.4.2 Lower Torso.
 S10.4.2.1 H-point. The H-points of the driver and any front outboard passenger test dummies shall coincide within
 1/2 inch in the vertical dimension and
 1/2 inch in the horizontal dimension of a point
-1/4 inch below the position of the H-point determined by using the equipment and procedures specified in SAE Standard J826-1980 (incorporated by reference, see Â§ 571.5), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 16.3 and 15.8 inches, respectively, instead of the 50th percentile values specified in Table 1 of SAE Standard J826-1980.
+1/4 inch below the position of the H-point determined by using the equipment and procedures specified in SAE Standard J826-1980 (incorporated by reference, see § 571.5), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 16.3 and 15.8 inches, respectively, instead of the 50th percentile values specified in Table 1 of SAE Standard J826-1980.
 
 S10.4.2.2 Pelvic angle. As determined using the pelvic angle gage (GM drawing 78051-532, incorporated by reference in part 572, subpart E of this chapter) which is inserted into the H-point gaging hole of the dummy, the angle measured from the horizontal on the three inch flat surface of the gage shall be 22
 1/2 degrees plus or minus 2
@@ -1274,7 +1274,7 @@ Line means a name that a manufacturer applies to a group of motor vehicles of th
 
 S12.3 Standard of review. In order to receive a temporary exemption from the inflatable restraint requirement, a vehicle manufacturer must demonstrate in its application that there has been a disruption in the supply of one or more inflatable restraint system components, or a disruption in the use and installation by the manufacturer of any such component due to unavoidable events not under the control of the manufacturer, which will prevent a manufacturer from meeting its anticipated production volume of vehicles with inflatable restraint systems.
 
-S12.4 Exemption applicationsâGeneral requirements. Each application for a temporary exemption from the inflatable restraint requirements mustâ
+S12.4 Exemption applications—General requirements. Each application for a temporary exemption from the inflatable restraint requirements must—
 
 (a) Be written in the English language;
 
@@ -1288,7 +1288,7 @@ S12.4 Exemption applicationsâGeneral requirements. Each application for a t
 
 (f) Specify and segregate any part of the information and data submitted in the application that should be withheld from public disclosure in accordance with part 512 of this chapter.
 
-S12.5 Exemption applicationsâSpecific content requirements. Each application for a temporary exemption from the inflatable restraint requirement must include:
+S12.5 Exemption applications—Specific content requirements. Each application for a temporary exemption from the inflatable restraint requirement must include:
 
 (a) A clear and specific identification of any component in the inflatable restraint system that has become unavailable due to circumstances beyond the manufacturer's control, and a diagram showing the location of such component within the restraint system and within the vehicle;
 
@@ -1344,21 +1344,21 @@ S12.7.3 The manufacturer of any vehicle that is delivered without an inflatable 
 
 S13 Alternative unbelted test available, under S3(b) of this standard, for certain vehicles manufactured before September 1, 2006.
 
-S13.1 Instrumentation for Impact TestâPart 1âElectronic Instrumentation. Under the applicable conditions of S8, mount the vehicle on a dynamic test platform at the vehicle attitude set forth in S13.3, so that the longitudinal center line of the vehicle is parallel to the direction of the test platform travel and so that movement between the base of the vehicle and the test platform is prevented. The test platform is instrumented with an accelerometer and data processing system having a frequency response of 60 channel class as specified in SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5). The accelerometer sensitive axis is parallel to the direction of test platform travel. The test is conducted at a velocity change approximating 48 km/h (30 mph) with acceleration of the test platform such that all points on the crash pulse curve within the corridor identified in Figure 6 are covered. An inflatable restraint is to be activated at 20 ms Â±2 ms from the time that 0.5 g is measured on the dynamic test platform. The test dummy specified in S8.1.8, placed in each front outboard designated seating position as specified in S10, excluding S10.7, S10.8, and S10.9, shall meet the injury criteria of S6.1, S6.2(a), S6.3, S6.4(a), S6.5, and S13.2 of this standard.
+S13.1 Instrumentation for Impact Test—Part 1—Electronic Instrumentation. Under the applicable conditions of S8, mount the vehicle on a dynamic test platform at the vehicle attitude set forth in S13.3, so that the longitudinal center line of the vehicle is parallel to the direction of the test platform travel and so that movement between the base of the vehicle and the test platform is prevented. The test platform is instrumented with an accelerometer and data processing system having a frequency response of 60 channel class as specified in SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5). The accelerometer sensitive axis is parallel to the direction of test platform travel. The test is conducted at a velocity change approximating 48 km/h (30 mph) with acceleration of the test platform such that all points on the crash pulse curve within the corridor identified in Figure 6 are covered. An inflatable restraint is to be activated at 20 ms ±2 ms from the time that 0.5 g is measured on the dynamic test platform. The test dummy specified in S8.1.8, placed in each front outboard designated seating position as specified in S10, excluding S10.7, S10.8, and S10.9, shall meet the injury criteria of S6.1, S6.2(a), S6.3, S6.4(a), S6.5, and S13.2 of this standard.
 
 S13.2 Neck injury criteria. A vehicle certified to this alternative test requirement shall, in addition to meeting the criteria specified in S13.1, meet the following injury criteria for the neck, measured with the six axis load cell (ref. Denton drawing C-1709) that is mounted between the bottom of the skull and the top of the neck as shown in Drawing 78051-218, in the unbelted sled test:
 
-(a) Flexion Bending Moment (calculated at the occipital condyle)â190 Nm. SAE Class 600.
+(a) Flexion Bending Moment (calculated at the occipital condyle)—190 Nm. SAE Class 600.
 
-(b) Extension Bending Moment (calculated at the occipital condyle)â57 Nm. SAE Class 600.
+(b) Extension Bending Moment (calculated at the occipital condyle)—57 Nm. SAE Class 600.
 
-(c) Axial Tensionâ3300 peak N. SAE Class 1000.
+(c) Axial Tension—3300 peak N. SAE Class 1000.
 
-(d) Axial Compressionâ4000 peak N. SAE Class 1000.
+(d) Axial Compression—4000 peak N. SAE Class 1000.
 
-(e) Fore-and-Aft Shearâ3100 peak N. SAE Class 1000.
+(e) Fore-and-Aft Shear—3100 peak N. SAE Class 1000.
 
-S13.3 Vehicle test attitude. When the vehicle is in its âas deliveredâ condition, measure the angle between the left side door sill and the horizontal. Mark where the angle is taken on the door sill. The âas deliveredâ condition is the vehicle as received at the test site, with 100 percent of all fluid capacities and all tires inflated to the manufacturer's specifications as listed on the vehicle's tire placard. When the vehicle is in its âfully loadedâ condition, measure the angle between the left side door sill and the horizontal, at the same place the âas deliveredâ angle was measured. The âfully loadedâ condition is the test vehicle loaded in accordance with S8.1.1(a) or (b) of Standard No. 208, as applicable. The load placed in the cargo area shall be centered over the longitudinal centerline of the vehicle. The pretest door sill angle, when the vehicle is on the sled, (measured at the same location as the as delivered and fully loaded condition) shall be equal to or between the as delivered and fully loaded door sill angle measurements.
+S13.3 Vehicle test attitude. When the vehicle is in its “as delivered” condition, measure the angle between the left side door sill and the horizontal. Mark where the angle is taken on the door sill. The “as delivered” condition is the vehicle as received at the test site, with 100 percent of all fluid capacities and all tires inflated to the manufacturer's specifications as listed on the vehicle's tire placard. When the vehicle is in its “fully loaded” condition, measure the angle between the left side door sill and the horizontal, at the same place the “as delivered” angle was measured. The “fully loaded” condition is the test vehicle loaded in accordance with S8.1.1(a) or (b) of Standard No. 208, as applicable. The load placed in the cargo area shall be centered over the longitudinal centerline of the vehicle. The pretest door sill angle, when the vehicle is on the sled, (measured at the same location as the as delivered and fully loaded condition) shall be equal to or between the as delivered and fully loaded door sill angle measurements.
 
 S13.4 Tires and wheels. Remove the tires and wheels.
 
@@ -1580,7 +1580,7 @@ S15.3.6 Neck injury. When measuring neck injury, each of the following injury cr
 
 (a) Nij.
 
-(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5) Channel Frequency Class 600.
+(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5) Channel Frequency Class 600.
 
 (2) During the event, the axial force (Fz) can be either in tension or compression while the occipital condyle bending moment (Mocy) can be in either flexion or extension. This results in four possible loading conditions for Nij: Tension-extension (Nte), tension-flexion (Ntf), compression-extension (Nce), or compression-flexion (Ncf).
 
@@ -1608,11 +1608,11 @@ S16. Test procedures for rigid barrier test requirements using 5th percentile ad
 
 S16.1 General provisions. Crash testing to determine compliance with the requirements of S15 of this standard is conducted as specified in the following paragraphs (a) and (b).
 
-(a) Belted testâ(1) Vehicles certified to S14.1 or S14.2. Place a 49 CFR Part 572 Subpart O 5th percentile adult female test dummy at each front outboard seating position of a vehicle, in accordance with the procedures specified in S16.3 of this standard. Impact the vehicle traveling longitudinally forward at any speed, up to and including 48 km/h (30 mph), into a fixed rigid barrier that is perpendicular within a tolerance of Â±5 degrees to the line of travel of the vehicle under the applicable conditions of S16.2 of this standard.
+(a) Belted test—(1) Vehicles certified to S14.1 or S14.2. Place a 49 CFR Part 572 Subpart O 5th percentile adult female test dummy at each front outboard seating position of a vehicle, in accordance with the procedures specified in S16.3 of this standard. Impact the vehicle traveling longitudinally forward at any speed, up to and including 48 km/h (30 mph), into a fixed rigid barrier that is perpendicular within a tolerance of ±5 degrees to the line of travel of the vehicle under the applicable conditions of S16.2 of this standard.
 
-(2) Vehicles certified to S14.6 or S14.7. Place a 49 CFR Part 572 Subpart O 5th percentile adult female test dummy at each front outboard seating position of a vehicle, in accordance with the procedures specified in S16.3 of this standard. Impact the vehicle traveling longitudinally forward at any speed, up to and including 56km/h (35 mph), into a fixed rigid barrier that is perpendicular within a tolerance of Â±5 degrees to the line of travel of the vehicle under the applicable conditions of S16.2 of this standard.
+(2) Vehicles certified to S14.6 or S14.7. Place a 49 CFR Part 572 Subpart O 5th percentile adult female test dummy at each front outboard seating position of a vehicle, in accordance with the procedures specified in S16.3 of this standard. Impact the vehicle traveling longitudinally forward at any speed, up to and including 56km/h (35 mph), into a fixed rigid barrier that is perpendicular within a tolerance of ±5 degrees to the line of travel of the vehicle under the applicable conditions of S16.2 of this standard.
 
-(b) Unbelted test. Place a 49 CFR Part 572 Subpart O 5th percentile adult female test dummy at each front outboard seating position of a vehicle, in accordance with the procedures specified in S16.3 of this standard, except S16.3.5. Impact the vehicle traveling longitudinally forward at any speed, from 32 km/h (20 mph) to 40 km/h (25 mph), inclusive, into a fixed rigid barrier that is perpendicular within a tolerance of Â±5 degrees to the line of travel of the vehicle under the applicable conditions of S16.2 of this standard.
+(b) Unbelted test. Place a 49 CFR Part 572 Subpart O 5th percentile adult female test dummy at each front outboard seating position of a vehicle, in accordance with the procedures specified in S16.3 of this standard, except S16.3.5. Impact the vehicle traveling longitudinally forward at any speed, from 32 km/h (20 mph) to 40 km/h (25 mph), inclusive, into a fixed rigid barrier that is perpendicular within a tolerance of ±5 degrees to the line of travel of the vehicle under the applicable conditions of S16.2 of this standard.
 
 S16.2 Test conditions.
 
@@ -1625,13 +1625,13 @@ S16.2.3 Convertibles and open-body type vehicles have the top, if any, in place 
 S16.2.4 Doors are fully closed and latched but not locked.
 
 S16.2.5 The dummy is clothed in form fitting cotton stretch garments with short sleeves and above the knee length pants. A size 7
-1/2 W shoe which meets the configuration and size specifications of MIL-S-21711E (incorporated by reference, see Â§ 571.5) or its equivalent is placed on each foot of the test dummy.
+1/2 W shoe which meets the configuration and size specifications of MIL-S-21711E (incorporated by reference, see § 571.5) or its equivalent is placed on each foot of the test dummy.
 
 S16.2.6 Limb joints are set at one g, barely restraining the weight of the limb when extended horizontally. Leg joints are adjusted with the torso in the supine position.
 
 S16.2.7 Instrumentation shall not affect the motion of dummies during impact.
 
-S16.2.8 The stabilized temperature of the dummy is at any level between 20.6 Â°C and 22.2 Â°C (69 Â°F to 72 Â°F).
+S16.2.8 The stabilized temperature of the dummy is at any level between 20.6 °C and 22.2 °C (69 °F to 72 °F).
 
 S16.2.9 Steering control adjustment.
 
@@ -1663,31 +1663,31 @@ S16.3.1.1 All angles are measured with respect to the horizontal plane unless ot
 
 S16.3.1.2 The dummy's neck bracket is adjusted to align the zero degree index marks.
 
-S16.3.1.3 The term âmidsagittal planeâ refers to the vertical plane that separates the dummy into equal left and right halves.
+S16.3.1.3 The term “midsagittal plane” refers to the vertical plane that separates the dummy into equal left and right halves.
 
-S16.3.1.4 The term âvertical longitudinal planeâ refers to a vertical plane parallel to the vehicle's longitudinal centerline.
+S16.3.1.4 The term “vertical longitudinal plane” refers to a vertical plane parallel to the vehicle's longitudinal centerline.
 
-S16.3.1.5 The term âvertical planeâ refers to a vertical plane, not necessarily parallel to the vehicle's longitudinal centerline.
+S16.3.1.5 The term “vertical plane” refers to a vertical plane, not necessarily parallel to the vehicle's longitudinal centerline.
 
-S16.3.1.6 The term âtransverse instrumentation platformâ refers to the transverse instrumentation surface inside the dummy's skull casting to which the neck load cell mounts. This surface is perpendicular to the skull cap's machined inferior-superior mounting surface.
+S16.3.1.6 The term “transverse instrumentation platform” refers to the transverse instrumentation surface inside the dummy's skull casting to which the neck load cell mounts. This surface is perpendicular to the skull cap's machined inferior-superior mounting surface.
 
-S16.3.1.7 The term âthighâ refers to the femur between, but not including, the knee and the pelvis.
+S16.3.1.7 The term “thigh” refers to the femur between, but not including, the knee and the pelvis.
 
-S16.3.1.8 The term âlegâ refers to the lower part of the entire leg, including the knee.
+S16.3.1.8 The term “leg” refers to the lower part of the entire leg, including the knee.
 
-S16.3.1.9 The term âfootâ refers to the foot, including the ankle.
+S16.3.1.9 The term “foot” refers to the foot, including the ankle.
 
 S16.3.1.10 The longitudinal centerline of a bucket seat cushion is defined by a vertical plane that passes through the SgRP and is parallel to the longitudinal centerline of the vehicle.
 
 S16.3.1.11 For leg and thigh angles, use the following references:
 
-S16.3.1.11.1 Thighâa straight line on the thigh skin between the center of the 1/2-13 UNC-2B tapped hole in the upper leg femur clamp (see drawings 880105-504 (left thigh) and 880105-505 (right thigh), upper leg femur clamp) and the knee pivot shoulder bolt (part 880105-527 in drawing 880105-528R & 528L, sliding knee assembly without potentiometer).
+S16.3.1.11.1 Thigh—a straight line on the thigh skin between the center of the 1/2-13 UNC-2B tapped hole in the upper leg femur clamp (see drawings 880105-504 (left thigh) and 880105-505 (right thigh), upper leg femur clamp) and the knee pivot shoulder bolt (part 880105-527 in drawing 880105-528R & 528L, sliding knee assembly without potentiometer).
 
-S16.3.1.11.2 Legâa straight line on the leg skin between the center of the ankle shell (parts 880105-609 & 633 in drawing 880105-660, ankle assembly) and the knee pivot shoulder bolt (part 880105-527 in drawing 880105-528R & 528L, sliding knee assembly without potentiometer).
+S16.3.1.11.2 Leg—a straight line on the leg skin between the center of the ankle shell (parts 880105-609 & 633 in drawing 880105-660, ankle assembly) and the knee pivot shoulder bolt (part 880105-527 in drawing 880105-528R & 528L, sliding knee assembly without potentiometer).
 
-S16.3.1.12 The term âseat cushion reference pointâ (SCRP) means a point placed on the outboard side of the seat cushion at a horizontal distance between 150 mm (5.9 in) and 250 mm (9.8 in) from the front edge of the seat used as a guide in positioning the seat.
+S16.3.1.12 The term “seat cushion reference point” (SCRP) means a point placed on the outboard side of the seat cushion at a horizontal distance between 150 mm (5.9 in) and 250 mm (9.8 in) from the front edge of the seat used as a guide in positioning the seat.
 
-S16.3.1.13 The term âseat cushion reference lineâ means a line on the side of the seat cushion, passing through the seat cushion reference point, whose projection in the vehicle vertical longitudinal plane is straight and has a known angle with respect to the horizontal.
+S16.3.1.13 The term “seat cushion reference line” means a line on the side of the seat cushion, passing through the seat cushion reference point, whose projection in the vehicle vertical longitudinal plane is straight and has a known angle with respect to the horizontal.
 
 S16.3.2 Driver dummy positioning.
 
@@ -1697,23 +1697,23 @@ S16.3.2.1.1 With the seat in the position determined in S16.2.10.3.3, use only t
 
 S16.3.2.1.2 Fully recline the seat back, if adjustable. Install the dummy into the driver's seat, such that when the legs are positioned 120 degrees to the thighs, the calves of the legs are not touching the seat cushion.
 
-S16.3.2.1.3 Bucket seats. Place the dummy on the seat cushion so that its midsagittal plane is vertical and coincides with the vertical longitudinal plane through the center of the seat cushion, within Â±10 mm (Â±0.4 in).
+S16.3.2.1.3 Bucket seats. Place the dummy on the seat cushion so that its midsagittal plane is vertical and coincides with the vertical longitudinal plane through the center of the seat cushion, within ±10 mm (±0.4 in).
 
-S16.3.2.1.4 Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and aligned within Â±10 mm (Â±0.4 in) of the center of the steering control.
+S16.3.2.1.4 Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and aligned within ±10 mm (±0.4 in) of the center of the steering control.
 
 S16.3.2.1.5 Hold the dummy's thighs down and push rearward on the upper torso to maximize the dummy's pelvic angle.
 
 S16.3.2.1.6 Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
 
-S16.3.2.1.7 Gently rock the upper torso laterally in a side to side motion three times through a Â±5 degree arc (approximately 51 mm (2 in) side to side).
+S16.3.2.1.7 Gently rock the upper torso laterally in a side to side motion three times through a ±5 degree arc (approximately 51 mm (2 in) side to side).
 
-S16.3.2.1.8 If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. Keeping the leg and the thigh in a vertical plane, place the foot in the vertical longitudinal plane that passes through the centerline of the accelerator pedal. Rotate the left thigh outboard about the hip until the center of the knee is the same distance from the midsagittal plane of the dummy as the right knee Â±5 mm (Â±0.2 in). Using only the control that primarily moves the seat fore and aft, attempt to return the seat to the full forward position. If either of the dummy's legs first contacts the steering control, then adjust the steering control, if adjustable, upward until contact with the steering control is avoided. If the steering control is not adjustable, separate the knees enough to avoid steering control contact. Proceed with moving the seat forward until either the leg contacts the vehicle interior or the seat reaches the full forward position. (The right foot may contact and depress the accelerator and/or change the angle of the foot with respect to the leg during seat movement.) If necessary to avoid contact with the vehicles brake or clutch pedal, rotate the test dummy's left foot about the leg. If there is still interference, rotate the left thigh outboard about the hip the minimum distance necessary to avoid pedal interference. If a dummy leg contacts the vehicle interior before the full forward position is attained, position the seat at the next detent where there is no contact. If the seat is a power seat, move the seat fore and aft to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the vehicle interior and the point on the dummy that would first contact the vehicle interior. If the steering control was moved, return it to the position described in S16.2.9. If the steering control contacts the dummy's leg(s) prior to attaining this position, adjust it to the next higher detent, or if infinitely adjustable, until there is 5 mm (0.2 in) clearance between the control and the dummy's leg(s).
+S16.3.2.1.8 If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. Keeping the leg and the thigh in a vertical plane, place the foot in the vertical longitudinal plane that passes through the centerline of the accelerator pedal. Rotate the left thigh outboard about the hip until the center of the knee is the same distance from the midsagittal plane of the dummy as the right knee ±5 mm (±0.2 in). Using only the control that primarily moves the seat fore and aft, attempt to return the seat to the full forward position. If either of the dummy's legs first contacts the steering control, then adjust the steering control, if adjustable, upward until contact with the steering control is avoided. If the steering control is not adjustable, separate the knees enough to avoid steering control contact. Proceed with moving the seat forward until either the leg contacts the vehicle interior or the seat reaches the full forward position. (The right foot may contact and depress the accelerator and/or change the angle of the foot with respect to the leg during seat movement.) If necessary to avoid contact with the vehicles brake or clutch pedal, rotate the test dummy's left foot about the leg. If there is still interference, rotate the left thigh outboard about the hip the minimum distance necessary to avoid pedal interference. If a dummy leg contacts the vehicle interior before the full forward position is attained, position the seat at the next detent where there is no contact. If the seat is a power seat, move the seat fore and aft to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the vehicle interior and the point on the dummy that would first contact the vehicle interior. If the steering control was moved, return it to the position described in S16.2.9. If the steering control contacts the dummy's leg(s) prior to attaining this position, adjust it to the next higher detent, or if infinitely adjustable, until there is 5 mm (0.2 in) clearance between the control and the dummy's leg(s).
 
-S16.3.2.1.9 For vehicles without adjustable seat backs, adjust the lower neck bracket to level the head as much as possible. For vehicles with adjustable seat backs, while holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform of the head is level to within Â±0.5 degree, making sure that the pelvis does not interfere with the seat bight. Inspect the abdomen to ensure that it is properly installed. If the torso contacts the steering control, adjust the steering control in the following order until there is no contact: Telescoping adjustment, lowering adjustment, raising adjustment. If the vehicle has no adjustments, or contact with the steering control cannot be eliminated by adjustment, position the seat at the next detent where there is no contact with the steering control as adjusted in S16.2.9. If the seat is a power seat, position the seat to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the steering control as adjusted in S16.2.9 and the point of contact on the dummy.
+S16.3.2.1.9 For vehicles without adjustable seat backs, adjust the lower neck bracket to level the head as much as possible. For vehicles with adjustable seat backs, while holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform of the head is level to within ±0.5 degree, making sure that the pelvis does not interfere with the seat bight. Inspect the abdomen to ensure that it is properly installed. If the torso contacts the steering control, adjust the steering control in the following order until there is no contact: Telescoping adjustment, lowering adjustment, raising adjustment. If the vehicle has no adjustments, or contact with the steering control cannot be eliminated by adjustment, position the seat at the next detent where there is no contact with the steering control as adjusted in S16.2.9. If the seat is a power seat, position the seat to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the steering control as adjusted in S16.2.9 and the point of contact on the dummy.
 
-S16.3.2.1.10 If it is not possible to achieve the head level within Â±0.5 degrees, minimize the angle.
+S16.3.2.1.10 If it is not possible to achieve the head level within ±0.5 degrees, minimize the angle.
 
-S16.3.2.1.11 Measure and set the dummy's pelvic angle using the pelvic angle gauge (drawing TE-2504, incorporated by reference in 49 CFR part 572, subpart O of this chapter). The angle shall be set to 20.0 degrees Â±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S16.3.2.1.9 and S16.3.2.1.10.
+S16.3.2.1.11 Measure and set the dummy's pelvic angle using the pelvic angle gauge (drawing TE-2504, incorporated by reference in 49 CFR part 572, subpart O of this chapter). The angle shall be set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible by adjustments specified in S16.3.2.1.9 and S16.3.2.1.10.
 
 S16.3.2.1.12 If the dummy is contacting the vehicle interior after these adjustments, using only the control that primarily moves the seat fore and aft, move the seat rearward until there is a maximum of 5 mm (0.2 in) between the contact point of the dummy and the interior of the vehicle or if it has a manual seat adjustment, to the next rearward detent position. If after these adjustments, the dummy contact point is more than 5 mm (0.2 in) from the vehicle interior and the seat is still not in its forwardmost position, move the seat forward until the contact point is a maximum of 5 mm (0.2 in) from the vehicle interior, or if it has a manual seat adjustment, move the seat to the closest detent position that causes no contact, or until the seat reaches its forwardmost position, whichever occurs first.
 
@@ -1761,23 +1761,23 @@ S16.3.3.1.1 With the seat at the mid-height in the full forward position determi
 
 S16.3.3.1.2 Fully recline the seat back, if adjustable. Install the dummy into any front outboard passenger seat, such that when the legs are 120 degrees to the thighs, the calves of the legs are not touching the seat cushion.
 
-S16.3.3.1.3 Bucket seats. Place the dummy on the seat cushion so that its midsagittal plane is vertical and coincides with the vertical longitudinal plane through the center of the seat cushion, within Â±10 mm (Â±0.4 mm).
+S16.3.3.1.3 Bucket seats. Place the dummy on the seat cushion so that its midsagittal plane is vertical and coincides with the vertical longitudinal plane through the center of the seat cushion, within ±10 mm (±0.4 mm).
 
-S16.3.3.1.4 Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the midsagittal plane of the driver dummy, if there is a driver's seating position. Otherwise, the midsagittal plane of any front outboard passenger dummy shall be vertical, parallel to the vehicle's longitudinal centerline, and pass, within Â±10 mm (Â±0.4 in), through the seating reference point of the seat that it occupies.
+S16.3.3.1.4 Bench seats. Position the midsagittal plane of the dummy vertical and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the midsagittal plane of the driver dummy, if there is a driver's seating position. Otherwise, the midsagittal plane of any front outboard passenger dummy shall be vertical, parallel to the vehicle's longitudinal centerline, and pass, within ±10 mm (±0.4 in), through the seating reference point of the seat that it occupies.
 
 S16.3.3.1.5 Hold the dummy's thighs down and push rearward on the upper torso to maximize the dummy's pelvic angle.
 
 S16.3.3.1.6 Place the legs at 120 degrees to the thighs. Set the initial transverse distance between the longitudinal centerlines at the front of the dummy's knees at 160 to 170 mm (6.3 to 6.7 in), with the thighs and legs of the dummy in vertical planes. Push rearward on the dummy's knees to force the pelvis into the seat so there is no gap between the pelvis and the seat back or until contact occurs between the back of the dummy's calves and the front of the seat cushion.
 
-S16.3.3.1.7 Gently rock the upper torso laterally side to side three times through a Â±5 degree arc (approximately 51 mm (2 in) side to side).
+S16.3.3.1.7 Gently rock the upper torso laterally side to side three times through a ±5 degree arc (approximately 51 mm (2 in) side to side).
 
 S16.3.3.1.8 If needed, extend the legs slightly so that the feet are not in contact with the floor pan. Let the thighs rest on the seat cushion to the extent permitted by the foot movement. With the feet perpendicular to the legs, place the heels on the floor pan. If a heel will not contact the floor pan, place it as close to the floor pan as possible. Using only the control that primarily moves the seat fore and aft, attempt to return the seat to the full forward position. If a dummy leg contacts the vehicle interior before the full forward position is attained, position the seat at the next detent where there is no contact. If the seats are power seats, position the seat to avoid contact while assuring that there is a maximum of 5 mm (0.2 in) distance between the vehicle interior and the point on the dummy that would first contact the vehicle interior.
 
-S16.3.3.1.9 For vehicles without adjustable seat backs, adjust the lower neck bracket to level the head as much as possible. For vehicles with adjustable seat backs, while holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform of the head is level to within Â±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. Inspect the abdomen to insure that it is properly installed.
+S16.3.3.1.9 For vehicles without adjustable seat backs, adjust the lower neck bracket to level the head as much as possible. For vehicles with adjustable seat backs, while holding the thighs in place, rotate the seat back forward until the transverse instrumentation platform of the head is level to within ±0.5 degrees, making sure that the pelvis does not interfere with the seat bight. Inspect the abdomen to insure that it is properly installed.
 
-S16.3.3.1.10 If it is not possible to orient the head level within Â±0.5 degrees, minimize the angle.
+S16.3.3.1.10 If it is not possible to orient the head level within ±0.5 degrees, minimize the angle.
 
-S16.3.3.1.11 Measure and set the dummy's pelvic angle using the pelvic angle gauge (drawing TE-2504, incorporated by reference in 49 CFR Part 572, Subpart O, of this chapter). The angle shall be set to 20.0 degrees Â±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible, as specified in S16.3.3.1.9 and S16.3.3.1.10.
+S16.3.3.1.11 Measure and set the dummy's pelvic angle using the pelvic angle gauge (drawing TE-2504, incorporated by reference in 49 CFR Part 572, Subpart O, of this chapter). The angle shall be set to 20.0 degrees ±2.5 degrees. If this is not possible, adjust the pelvic angle as close to 20.0 degrees as possible while keeping the transverse instrumentation platform of the head as level as possible, as specified in S16.3.3.1.9 and S16.3.3.1.10.
 
 S16.3.3.1.12 If the dummy is contacting the vehicle interior after these adjustments, using only the control that primarily moves the seat fore and aft, move the seat rearward until there is a maximum of 5 mm (0.2 in) between the contact point of the dummy and the interior of the vehicle or if it has a manual seat adjustment, to the next rearward detent position. If after these adjustments, the dummy contact point is more than 5 mm (0.2 in) from the vehicle interior and the seat is still not in its forwardmost position, move the seat forward until the contact point is a maximum of 5 mm (0.2 in) from the vehicle interior, or if it has a manual seat adjustment, move the seat to the closest detent position that causes no contact, or until the seat reaches its forwardmost position, whichever occurs first.
 
@@ -1831,13 +1831,13 @@ S18.2.2 General test conditions. All of the test conditions specified in S16.2 o
 
 S18.2.3 Dummy seating procedures. Position the anthropomorphic test dummies as specified in S16.3 of this standard.
 
-S18.2.4 Impact configuration. The test vehicle shall impact the barrier with the longitudinal centerline of the vehicle parallel to the line of travel and perpendicular to the barrier face within a tolerance of Â±5 degrees. The test vehicle shall be aligned so that the vehicle strikes the barrier with 40 percent overlap on the left side of the vehicle, with the vehicle's front engaging the barrier face such that the vehicle's longitudinal centerline is offset outboard of the edge of the barrier face by 10 percent of the vehicle's width Â±50 mm (2.0 in) as illustrated in Figure 10. The vehicle width is defined as the maximum dimension measured across the widest part of the vehicle, including bumpers and molding but excluding such components as exterior mirrors, flexible mud flaps, marker lamps, and dual rear wheel configurations.
+S18.2.4 Impact configuration. The test vehicle shall impact the barrier with the longitudinal centerline of the vehicle parallel to the line of travel and perpendicular to the barrier face within a tolerance of ±5 degrees. The test vehicle shall be aligned so that the vehicle strikes the barrier with 40 percent overlap on the left side of the vehicle, with the vehicle's front engaging the barrier face such that the vehicle's longitudinal centerline is offset outboard of the edge of the barrier face by 10 percent of the vehicle's width ±50 mm (2.0 in) as illustrated in Figure 10. The vehicle width is defined as the maximum dimension measured across the widest part of the vehicle, including bumpers and molding but excluding such components as exterior mirrors, flexible mud flaps, marker lamps, and dual rear wheel configurations.
 
 S19 Requirements to provide protection for infants in rear facing and convertible child restraints and car beds.
 
 S19.1 Each vehicle certified as complying with S14 shall, at the option of the manufacturer, meet the requirements specified in S19.2 or S19.3, under the test procedures specified in S20.
 
-S19.2 Option 1âAutomatic suppression feature. Each vehicle shall meet the requirements specified in S19.2.1 through S19.2.3.
+S19.2 Option 1—Automatic suppression feature. Each vehicle shall meet the requirements specified in S19.2.1 through S19.2.3.
 
 S19.2.1 The vehicle shall be equipped with an automatic suppression feature for any front outboard passenger air bag which results in deactivation of the air bag during each of the static tests specified in S20.2 (using the 49 CFR part 572 Subpart R 12-month-old CRABI child dummy in any of the child restraints identified in sections B and C of appendix A or A-1 of this standard, as appropriate and the 49 CFR part 572 subpart K Newborn Infant dummy in any of the car beds identified in section A of appendix A or A-1, as appropriate), and activation of the air bag system during each of the static tests specified in S20.3 (using the 49 CFR part 572 Subpart O 5th percentile adult female dummy).
 
@@ -1845,7 +1845,7 @@ S19.2.2 The vehicle shall be equipped with telltales for each front outboard pas
 
 (a) Shall emit yellow light;
 
-(b) Shall have the identifying words âPASSENGER AIR BAG OFFâ or âPASS AIR BAG OFFâ on the telltale or within 25 mm (1.0 in) of the telltale; and
+(b) Shall have the identifying words “PASSENGER AIR BAG OFF” or “PASS AIR BAG OFF” on the telltale or within 25 mm (1.0 in) of the telltale; and
 
 (c) Shall not be combined with the readiness indicator required by S4.5.2 of this standard.
 
@@ -1861,7 +1861,7 @@ S19.2.2 The vehicle shall be equipped with telltales for each front outboard pas
 
 S19.2.3 The vehicle shall be equipped with a mechanism that indicates whether the air bag system is suppressed, regardless of whether any front outboard passenger seat is occupied. The mechanism need not be located in the occupant compartment unless it is the telltale described in S19.2.2.
 
-S19.3 Option 2âLow risk deployment. Each vehicle shall meet the injury criteria specified in S19.4 of this standard when any front outboard passenger air bag is deployed in accordance with the procedures specified in S20.4.
+S19.3 Option 2—Low risk deployment. Each vehicle shall meet the injury criteria specified in S19.4 of this standard when any front outboard passenger air bag is deployed in accordance with the procedures specified in S20.4.
 
 S19.4 Injury criteria for the 49 CFR part 572, Subpart R 12-month-old CRABI test dummy.
 
@@ -1879,7 +1879,7 @@ S19.4.4 Neck injury. When measuring neck injury, each of the following injury cr
 
 (a) Nij.
 
-(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5) Channel Frequency Class 600.
+(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5) Channel Frequency Class 600.
 
 (2) During the event, the axial force (Fz) can be either in tension or compression while the occipital condyle bending moment (Mocy) can be in either flexion or extension. This results in four possible loading conditions for Nij: tension-extension (Nte), tension-flexion (Ntf), compression-extension (Nce), or compression-flexion (Ncf).
 
@@ -1957,29 +1957,29 @@ S20.2.1.2 The vehicle shall comply with the child restraint attached to the vehi
 
 (a) Using the vehicle safety belts as specified in S20.2.1.5; and
 
-(b) If the child restraint is certified to S5.9 of Â§ 571.213, and the vehicle seat has an anchorage system as specified in Â§ 571.225, using only the mechanism provided by the child restraint manufacturer for attachment to the lower anchorages as specified in S20.2.1.6.
+(b) If the child restraint is certified to S5.9 of § 571.213, and the vehicle seat has an anchorage system as specified in § 571.225, using only the mechanism provided by the child restraint manufacturer for attachment to the lower anchorages as specified in S20.2.1.6.
 
-S20.2.1.3 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as âPlane A.â
+S20.2.1.3 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as “Plane A.”
 
-S20.2.1.4 For bucket seats, âPlane Bâ refers to a vertical plane parallel to the vehicle longitudinal centerline through the longitudinal centerline of any front outboard passenger vehicle seat cushion. For bench seats in vehicles with manually operated driving controls, âPlane Bâ refers to a vertical plane through any front outboard passenger vehicle seat parallel to the vehicle longitudinal centerline the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, âPlane Bâ refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
+S20.2.1.4 For bucket seats, “Plane B” refers to a vertical plane parallel to the vehicle longitudinal centerline through the longitudinal centerline of any front outboard passenger vehicle seat cushion. For bench seats in vehicles with manually operated driving controls, “Plane B” refers to a vertical plane through any front outboard passenger vehicle seat parallel to the vehicle longitudinal centerline the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, “Plane B” refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
 
 S20.2.1.5 Installation with vehicle safety belts.
 
 (a) Place any adjustable seat belt anchorages at the vehicle manufacturer's nominal design position for a 50th percentile adult male occupant.
 
-(b) Without attaching the child restraint anchorage system components specified in S5.9 of Â§ 571.213 to a vehicle child restraint anchorage system specified in Â§ 571.225, align the child restraint system facing rearward or forward, depending on the orientation being tested, such that Plane A is aligned with Plane B.
+(b) Without attaching the child restraint anchorage system components specified in S5.9 of § 571.213 to a vehicle child restraint anchorage system specified in § 571.225, align the child restraint system facing rearward or forward, depending on the orientation being tested, such that Plane A is aligned with Plane B.
 
 (c) While maintaining the child restraint positions achieved in S20.2.1.5(b), secure the child restraint by following, to the extent possible, the child restraint manufacturer's directions regarding proper installation of the restraint for the orientation being tested. Cinch the vehicle belts to any tension from zero up to 134 N to secure the child restraint. Measure belt tension in a flat, straight section of the lap belt between the child restraint belt path and the contact point with the belt anchor or vehicle seat, on the side away from the buckle (to avoid interference from the shoulder portion of the belt).
 
 (d) Position the 49 CFR part 572 subpart R 12-month-old CRABI dummy in the child restraint by following, to the extent possible, the manufacturer's instructions provided with the child restraint for seating infants.
 
-(e) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+(e) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S20.2.1.6 Installation using the lower anchor bars and the child restraint manufacturer provided attachment mechanism.
 
 S20.2.1.6.1 If the attachment mechanism provided by the manufacturer incorporates a strap(s), use the following procedure:
 
-(a) Place the child restraint on the vehicle seat facing rearward or forward, depending on the orientation being tested, with Plane A of the child restraint aligned within Â±10 mm with a longitudinal vertical plane passing though a point midway between the centers of the two lower anchor bars.
+(a) Place the child restraint on the vehicle seat facing rearward or forward, depending on the orientation being tested, with Plane A of the child restraint aligned within ±10 mm with a longitudinal vertical plane passing though a point midway between the centers of the two lower anchor bars.
 
 (b) Position any adjustments on the child restraint, to the extent possible according to the child restraint manufacturer's instructions.
 
@@ -1987,29 +1987,29 @@ S20.2.1.6.1 If the attachment mechanism provided by the manufacturer incorporate
 
 (d) Move the child restraint rearward until it contacts the seat back.
 
-(e) Use the loading device equipped with the loading foot shown in Figure A1 and position it as shown in Figure A2 of appendix A and appendix A-1 of this section. The 15Â±3 degree angle of the loading device illustrated in Figure A2 is determined with an initial preload of 75Â±25N.
+(e) Use the loading device equipped with the loading foot shown in Figure A1 and position it as shown in Figure A2 of appendix A and appendix A-1 of this section. The 15±3 degree angle of the loading device illustrated in Figure A2 is determined with an initial preload of 75±25N.
 
-(f) Over a period of 90Â±30 seconds, increase the load to 875NÂ±25 N.
+(f) Over a period of 90±30 seconds, increase the load to 875N±25 N.
 
 (g) After achieving the 875 N load in step (f) of this section, hold the bar length at present position and allow the load to settle for 60 seconds.
 
-(h) Following the one-minute settling period specified in step (g) of this section, increase the load to 875Â±25 N such that the 875Â±25 N load is achieved within 10 seconds of the settling period.
+(h) Following the one-minute settling period specified in step (g) of this section, increase the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of the settling period.
 
 (i) Hold the bar length at present position and allow the load to settle for 120 seconds after achieving the load in step (f) of this section.
 
-(j) Following the settling period specified in step (i) of this section, increase the load to 875Â±25 N such that the 875Â±25 N load is achieved within 10 seconds of the settling period.
+(j) Following the settling period specified in step (i) of this section, increase the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of the settling period.
 
-(k) Observe the settling of the load and tighten the lower anchor straps when the load is 850Â±5N or 180 seconds has elapsed since achieving the 875Â±25 N load in step (f) of this section, whichever comes first. Tighten the lower anchor straps at the same time such that the load is reduced 15Â±10 N and the change occurs within 2 seconds.
+(k) Observe the settling of the load and tighten the lower anchor straps when the load is 850±5N or 180 seconds has elapsed since achieving the 875±25 N load in step (f) of this section, whichever comes first. Tighten the lower anchor straps at the same time such that the load is reduced 15±10 N and the change occurs within 2 seconds.
 
 (l) Remove the loading device and position the 49 CFR part 572 subpart R 12-month-old CRABI dummy in the child restraint by following, to the extent possible, the manufacturer's instructions provided with the child restraint for seating infants.
 
-(m) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+(m) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S20.2.1.6.2 If the mechanism provided by the manufacturer does not incorporate a strap(s), use the following procedure:
 
 (a) Place the vehicle seat in the rearmost and mid-height position.
 
-(b) Place the child restraint on the vehicle seat facing rearward or forward, depending on the orientation being tested, with Plane A of the child restraint aligned within Â±10 mm with a longitudinal vertical plane passing though a point midway between the centers of the two lower anchor bars.
+(b) Place the child restraint on the vehicle seat facing rearward or forward, depending on the orientation being tested, with Plane A of the child restraint aligned within ±10 mm with a longitudinal vertical plane passing though a point midway between the centers of the two lower anchor bars.
 
 (c) Position any adjustments on the child restraint, to the extent possible, according to the child restraint manufacturer's instructions.
 
@@ -2019,21 +2019,21 @@ S20.2.1.6.2 If the mechanism provided by the manufacturer does not incorporate a
 
 (f) If the child restraint does not use a linear sliding or ratcheting mechanism that requires the application of force to securely install the child restraint, follow, to the extent possible, the CRS manufacturer's instructions for installing the child restraint onto the seat. Do not load the seat as provided in S20.2.1.6.2(g).
 
-(g) If the child restraint uses a linear sliding or ratcheting mechanism that requires the application of force to securely install the child restraint, within 25Â±5 seconds, apply a 475Â±25N force, that has no lateral component, aligned angularly Â±10 degrees with a parallel plane located within Â±100 mm of the plane formed by the linear mechanism. Release the force.
+(g) If the child restraint uses a linear sliding or ratcheting mechanism that requires the application of force to securely install the child restraint, within 25±5 seconds, apply a 475±25N force, that has no lateral component, aligned angularly ±10 degrees with a parallel plane located within ±100 mm of the plane formed by the linear mechanism. Release the force.
 
 (h) Position the 49 CFR part 572 subpart R 12-month-old CRABI dummy in the child restraint by following, to the extent possible, the manufacturer's instructions provided with the child restraint for seating infants.
 
 (i) Move the vehicle seat to the seat position being tested (full rear, mid, full forward).
 
-(j) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+(j) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S20.2.2 Unbelted rear facing and convertible child restraints.
 
 S20.2.2.1 The vehicle shall comply in tests using any child restraint specified in section B and section C of appendix A or A-1 of this standard, as appropriate.
 
-S20.2.2.2 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as âPlane Aâ.
+S20.2.2.2 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as “Plane A”.
 
-S20.2.2.3 For bucket seats, âPlane Bâ refers to a vertical plane parallel to the vehicle longitudinal centerline through the longitudinal centerline of any front outboard passenger vehicle seat cushion. For bench seats in vehicles with manually operated driving controls, âPlane Bâ refers to a vertical plane through any front outboard passenger seat parallel to the vehicle longitudinal centerline the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, âPlane Bâ refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
+S20.2.2.3 For bucket seats, “Plane B” refers to a vertical plane parallel to the vehicle longitudinal centerline through the longitudinal centerline of any front outboard passenger vehicle seat cushion. For bench seats in vehicles with manually operated driving controls, “Plane B” refers to a vertical plane through any front outboard passenger seat parallel to the vehicle longitudinal centerline the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, “Plane B” refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
 
 S20.2.2.4 Facing rear.
 
@@ -2041,7 +2041,7 @@ S20.2.2.4 Facing rear.
 
 (b) Position the 49 CFR part 572 subpart R 12-month-old CRABI dummy in the child restraint by following, to the extent possible, the manufacturer's instructions provided with the child restraint for seating infants.
 
-(c) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+(c) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S20.2.2.5 Facing forward.
 
@@ -2049,7 +2049,7 @@ S20.2.2.5 Facing forward.
 
 (b) Position the 49 CFR part 572 subpart R 12-month-old CRABI dummy in the child restraint by following, to the extent possible, the manufacturer's instructions provided with the child restraint for seating infants.
 
-(c) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+(c) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S20.2.3 Tests with a belted car bed.
 
@@ -2061,7 +2061,7 @@ S20.2.3.2 (a) Install the car bed following, to the extent possible, the car bed
 
 (c) Position the 49 CFR part 572 subpart K Newborn Infant dummy in the car bed by following, to the extent possible, the car bed manufacturer's instructions provided with the car bed for positioning infants.
 
-(d) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+(d) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S20.3 Static tests of automatic suppression feature which shall result in activation of any front outboard passenger air bag system.
 
@@ -2069,7 +2069,7 @@ S20.3.1 Each vehicle certified to this option shall comply in tests conducted wi
 
 S20.3.2 Place a 49 CFR part 572 subpart O 5th percentile adult female test dummy at any front outboard passenger seating position of the vehicle, in accordance with procedures specified in S16.3.3 of this standard, except as specified in S20.3.1, subject to the fore-aft seat positions in S20.3.1. Do not fasten the seat belt.
 
-S20.3.3 Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+S20.3.3 Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 S20.3.4 Wait 10 seconds, then check whether the air bag system is activated.
 
@@ -2079,13 +2079,13 @@ S20.4.1 Position any front outboard passenger vehicle seat at the mid-height in 
 
 S20.4.2 The vehicle shall comply in tests using any child restraint specified in section B and section C of appendix A or A-1 of this standard, as appropriate.
 
-S20.4.3 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as âPlane Aâ.
+S20.4.3 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as “Plane A”.
 
-S20.4.4 For bucket seats, âPlane Bâ refers to a vertical plane parallel to the vehicle longitudinal centerline through the longitudinal centerline of any front outboard passenger seat cushion. For bench seats in vehicles with manually operated driving controls, âPlane Bâ refers to a vertical plane through any front outboard passenger seat parallel to the vehicle longitudinal centerline that is the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, âPlane Bâ refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
+S20.4.4 For bucket seats, “Plane B” refers to a vertical plane parallel to the vehicle longitudinal centerline through the longitudinal centerline of any front outboard passenger seat cushion. For bench seats in vehicles with manually operated driving controls, “Plane B” refers to a vertical plane through any front outboard passenger seat parallel to the vehicle longitudinal centerline that is the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, “Plane B” refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
 
 S20.4.5 Align the child restraint system facing rearward such that Plane A is aligned with Plane B.
 
-S20.4.6 If the child restraint is certified to S5.9 of Â§ 571.213, and the vehicle seat has an anchorage system as specified in Â§ 571.225, attach the child restraint to the vehicle seat anchorage as specified in S20.2.1.6. Do not attach the top tether of the child restraint system. Do not attach the vehicle safety belt.
+S20.4.6 If the child restraint is certified to S5.9 of § 571.213, and the vehicle seat has an anchorage system as specified in § 571.225, attach the child restraint to the vehicle seat anchorage as specified in S20.2.1.6. Do not attach the top tether of the child restraint system. Do not attach the vehicle safety belt.
 
 S20.4.7 While maintaining the child restraint position achieved in S20.4.5, secure the child restraint by following, to the extent possible, the child restraint manufacturer's directions regarding proper installation of the restraint in the rear facing mode. Place any adjustable seat belt anchorages at the manufacturer's nominal design position for a 50th percentile adult male occupant. Cinch the vehicle belts to any tension from zero up to 134 N (30 lb) to secure the child restraint. Measure belt tension in a flat, straight section of the lap belt between the child restraint belt path and the contact point with the belt anchor or vehicle seat, on the side away from the buckle (to avoid interference from the shoulder portion of the belt).
 
@@ -2097,7 +2097,7 @@ S21 Requirements using 3-year-old child dummies.
 
 S21.1 Each vehicle that is certified as complying with S14 shall, at the option of the manufacturer, meet the requirements specified in S21.2, S21.3, S21.4 or S21.5, under the test procedures specified in S22 or S28, as applicable.
 
-S21.2 Option 1âAutomatic suppression feature. Each vehicle shall meet the requirements specified in S21.2.1 through S21.2.3.
+S21.2 Option 1—Automatic suppression feature. Each vehicle shall meet the requirements specified in S21.2.1 through S21.2.3.
 
 S21.2.1 The vehicle shall be equipped with an automatic suppression feature for any front outboard passenger air bag which results in deactivation of the air bag during each of the static tests specified in S22.2 (using the 49 CFR part 572 subpart P 3-year-old child dummy and, as applicable, any child restraint specified in section C and section D of appendix A or A-1 of this standard, as appropriate), and activation of the air bag system during each of the static tests specified in S22.3 (using the 49 CFR part 572 subpart O 5th percentile adult female dummy).
 
@@ -2105,9 +2105,9 @@ S21.2.2 The vehicle shall be equipped with a telltale light meeting the requirem
 
 S21.2.3 The vehicle shall be equipped with a mechanism that indicates whether the air bag is suppressed, regardless of whether any front outboard passenger seat is occupied. The mechanism need not be located in the occupant compartment unless it is the telltale described in S21.2.2.
 
-S21.3 Option 2âDynamic automatic suppression system that suppresses the air bag when an occupant is out of position. (This option is available under the conditions set forth in S27.1.) The vehicle shall be equipped with a dynamic automatic suppression system for any front outboard passenger air bag system which meets the requirements specified in S27.
+S21.3 Option 2—Dynamic automatic suppression system that suppresses the air bag when an occupant is out of position. (This option is available under the conditions set forth in S27.1.) The vehicle shall be equipped with a dynamic automatic suppression system for any front outboard passenger air bag system which meets the requirements specified in S27.
 
-S21.4 Option 3âLow risk deployment. Each vehicle shall meet the injury criteria specified in S21.5 of this standard when any front outboard passenger air bag is deployed in accordance with both of the low risk deployment test procedures specified in S22.4.
+S21.4 Option 3—Low risk deployment. Each vehicle shall meet the injury criteria specified in S21.5 of this standard when any front outboard passenger air bag is deployed in accordance with both of the low risk deployment test procedures specified in S22.4.
 
 S21.5 Injury criteria for the 49 CFR part 572, subpart P 3-year-old child test dummy.
 
@@ -2127,7 +2127,7 @@ S21.5.5 Neck injury. When measuring neck injury, each of the following injury cr
 
 (a) Nij.
 
-(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5) Channel Frequency Class 600.
+(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5) Channel Frequency Class 600.
 
 (2) During the event, the axial force (Fz) can be either in tension or compression while the occipital condyle bending moment (Mocy) can be in either flexion or extension. This results in four possible loading conditions for Nij: Tension-extension (Nte), tension-flexion (Ntf), compression-extension (Nce), or compression-flexion (Ncf).
 
@@ -2167,11 +2167,11 @@ S22.1.5 The definitions provided in S16.3.1 through S16.3.10 apply to the tests 
 
 S22.1.6 For leg and thigh angles use the following references:
 
-(a) Thighâa straight line on the thigh skin between the center of the
-5/16 Ã
+(a) Thigh—a straight line on the thigh skin between the center of the
+5/16 ×
 1/2 in. screw (part 9001024, item 10 in drawing 210-0000 sheet 2 of 7, complete assembly (HYB III 3 YR OLD)) and the knee bolt (part 210-5301 in drawing 210-5000-1 & -1, leg assembly).
 
-(b) Legâa straight line on the leg skin between the center of the ankle bolt (part 210-5701 in drawing 210-5000-1 & -2, leg assembly) and the knee bolt (part 210-5301 in drawing 210-5000-1 & -2, leg assembly).
+(b) Leg—a straight line on the leg skin between the center of the ankle bolt (part 210-5701 in drawing 210-5000-1 & -2, leg assembly) and the knee bolt (part 210-5301 in drawing 210-5000-1 & -2, leg assembly).
 
 S22.1.7 Seat set-up. Unless otherwise stated,
 
@@ -2193,21 +2193,21 @@ S22.2 Static tests of automatic suppression feature which shall result in deacti
 
 S22.2.1.1 Install the restraint in any front outboard passenger vehicle seat in accordance, to the extent possible, with the child restraint manufacturer's instructions provided with the seat for use by children with the same height and weight as the 3-year-old child dummy.
 
-S22.2.1.2 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as âPlane Aâ.
+S22.2.1.2 Locate a vertical plane through the longitudinal centerline of the child restraint. This will be referred to as “Plane A”.
 
-S22.2.1.3 For bucket seats, âPlane Bâ refers to a vertical longitudinal plane through the longitudinal centerline of the seat cushion of any front outboard passenger vehicle seat. For bench seats in vehicles with manually operated driving controls, âPlane Bâ refers to a vertical plane through any front outboard passenger vehicle seat parallel to the vehicle longitudinal centerline the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, âPlane Bâ refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
+S22.2.1.3 For bucket seats, “Plane B” refers to a vertical longitudinal plane through the longitudinal centerline of the seat cushion of any front outboard passenger vehicle seat. For bench seats in vehicles with manually operated driving controls, “Plane B” refers to a vertical plane through any front outboard passenger vehicle seat parallel to the vehicle longitudinal centerline the same distance from the longitudinal centerline of the vehicle as the center of the steering control. For bench seats in vehicles without manually operated driving controls, “Plane B” refers to the vertical plane parallel to the vehicle longitudinal centerline, through any front outboard passenger seat's SgRP.
 
 S22.2.1.4 The vehicle shall comply with the child restraint belted to the vehicle in the following manner:
 
 (a) Using the vehicle safety belts as specified in S22.2.1.5 with section C and section D child restraints of appendix A or A-1, as appropriate, of this section designed to be secured to the vehicle seat even when empty; and
 
-(b) If the child restraint is certified to S5.9 of Â§ 571.213, and the vehicle seat has an anchorage system as specified in Â§ 571.225, using only the mechanism provided by the child restraint manufacturer for attachment to the lower anchorage as specified in S22.2.1.6.
+(b) If the child restraint is certified to S5.9 of § 571.213, and the vehicle seat has an anchorage system as specified in § 571.225, using only the mechanism provided by the child restraint manufacturer for attachment to the lower anchorage as specified in S22.2.1.6.
 
 S22.2.1.5 Installation with vehicle safety belts.
 
 (a) Place any adjustable safety belt anchorages at the vehicle manufacturer's nominal design position for a 50th percentile adult male occupant.
 
-(b) Without attaching the child restraint anchorage system components specified in S5.9 of Â§ 571.213 to a vehicle child restraint anchorage system specified in Â§ 571.225, align the child restraint system facing forward, such that Plane A is aligned with Plane B.
+(b) Without attaching the child restraint anchorage system components specified in S5.9 of § 571.213 to a vehicle child restraint anchorage system specified in § 571.225, align the child restraint system facing forward, such that Plane A is aligned with Plane B.
 
 (c) While maintaining the child restraint positions achieved in S22.2.1.5(b), secure the child restraint by following, to the extent possible, the child restraint manufacturer's directions regarding proper installation of the restraint. Cinch the vehicle belts to any tension from zero up to 134 N to secure the child restraint. Measure belt tension in a flat, straight section of the lap belt between the child restraint belt path and the contact point with the belt anchor or vehicle seat, on the side away from the buckle (to avoid interference from the shoulder portion of the belt).
 
@@ -2215,7 +2215,7 @@ S22.2.1.6 Installation using the lower anchor bars and the attachment mechanism 
 
 S22.2.1.6.1 If the mechanism provided by the manufacturer incorporates a strap(s), use the following procedure.
 
-(a) Place the child restraint on the vehicle seat facing forward, with Plane A of the child restraint aligned within Â±10 mm with a longitudinal vertical plane passing through a point midway between the centers of the two lower anchor bars.
+(a) Place the child restraint on the vehicle seat facing forward, with Plane A of the child restraint aligned within ±10 mm with a longitudinal vertical plane passing through a point midway between the centers of the two lower anchor bars.
 
 (b) Position any adjustments on the child restraint, to the extent possible, according to the child restraint manufacturer's instructions.
 
@@ -2225,19 +2225,19 @@ S22.2.1.6.1 If the mechanism provided by the manufacturer incorporates a strap(s
 
 (e) Do not attach any top tethers.
 
-(f) Use the loading device equipped with the loading foot shown in Figure A1 and position it as shown in Figure A2 of appendix A and appendix A-1 of this standard. The 15Â±3 degree angle of the loading device is determined with an initial preload of 75Â±25 N.
+(f) Use the loading device equipped with the loading foot shown in Figure A1 and position it as shown in Figure A2 of appendix A and appendix A-1 of this standard. The 15±3 degree angle of the loading device is determined with an initial preload of 75±25 N.
 
-(g) Over a period of 90Â±30 seconds, increase the load to 875Â±25 N.
+(g) Over a period of 90±30 seconds, increase the load to 875±25 N.
 
 (h) After achieving the 875 N load in step (g) of this section, hold the bar length at the present position and allow the load to settle for 60 seconds.
 
-(i) Following the one-minute settling period specified in step (h) of this section, increase the load to 875Â±25 N such that the 875Â±25 N load is achieved within 10 seconds of the settling period.
+(i) Following the one-minute settling period specified in step (h) of this section, increase the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of the settling period.
 
 (j) Hold the bar length at present position and allow the load to settle for 120 seconds after achieving the load in step (g) of this section.
 
-(k) Following the settling period specified in step (j) of this section, increase the load to 875Â±25 N such that the 875Â±25 N load is achieved within 10 seconds of the settling period.
+(k) Following the settling period specified in step (j) of this section, increase the load to 875±25 N such that the 875±25 N load is achieved within 10 seconds of the settling period.
 
-(l) Observe the settling of the load and tighten the lower anchor straps when the load is 850Â±5N or 180 seconds has elapsed since achieving the 875Â±25 N load in step (g) of this section, whichever comes first. Tighten the lower anchor straps at the same time such that the load is reduced 15Â±10 N and the change occurs within 2 seconds.
+(l) Observe the settling of the load and tighten the lower anchor straps when the load is 850±5N or 180 seconds has elapsed since achieving the 875±25 N load in step (g) of this section, whichever comes first. Tighten the lower anchor straps at the same time such that the load is reduced 15±10 N and the change occurs within 2 seconds.
 
 (m) Remove the loading device.
 
@@ -2245,7 +2245,7 @@ S22.2.1.6.2 If the mechanism provided by the manufacturer does not incorporate a
 
 (a) Place the vehicle seat in the rear-most and mid-height position.
 
-(b) Place the child restraint on the vehicle seat facing forward with Plane A of the child restraint aligned within Â±10 mm with a longitudinal vertical plane passing through a point midway between the centers of the two lower anchor bars.
+(b) Place the child restraint on the vehicle seat facing forward with Plane A of the child restraint aligned within ±10 mm with a longitudinal vertical plane passing through a point midway between the centers of the two lower anchor bars.
 
 (c) Position any adjustments on the child restraint, to the extent possible, according to the child restraint manufacturer's instructions.
 
@@ -2257,7 +2257,7 @@ S22.2.1.6.2 If the mechanism provided by the manufacturer does not incorporate a
 
 (g) If the child restraint does not use a linear sliding or ratcheting mechanism that requires the application of force to securely install the child restraint, follow, to the extent possible, the manufacturer's instructions for installing the child restraint onto the seat. Do not load the seat as provided in S22.2.1.6.2(h).
 
-(h) If the child restraint uses a linear sliding or ratcheting mechanism that requires the application of force to securely install the child restraint, within 25Â±5 seconds, apply a 475Â±25N force, that has no lateral component, aligned angularly Â±10 degrees with a parallel plane located within Â±100 mm of the plane formed by the linear mechanism. Release the force.
+(h) If the child restraint uses a linear sliding or ratcheting mechanism that requires the application of force to securely install the child restraint, within 25±5 seconds, apply a 475±25N force, that has no lateral component, aligned angularly ±10 degrees with a parallel plane located within ±100 mm of the plane formed by the linear mechanism. Release the force.
 
 (i) Move the vehicle seat to the seat position being tested (full rear, mid, full forward).
 
@@ -2267,7 +2267,7 @@ S22.2.1.7.1 After installation of a forward facing child restraint, position the
 
 S22.2.1.7.2 Attach all belts that come with the child restraint that are appropriate for a child of the same height and weight as the 3-year-old child dummy, if any, by following, to the extent possible, the manufacturer's instructions provided with the child restraint for seating children.
 
-S22.2.1.7.3 Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+S22.2.1.7.3 Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S22.2.1.8 Booster seat child restraint.
 
@@ -2277,7 +2277,7 @@ S22.2.1.8.2 If applicable, attach all belts that come with the child restraint t
 
 S22.2.1.8.3 If applicable, place the Type 2 manual belt around the test dummy and fasten the latch. Remove all slack from the lap belt portion. Pull the upper torso webbing out of the retractor and allow it to retract; repeat this four times. Apply a 9 to 18 N (2 to 4 lb) tension load to the lap belt. Allow the excess webbing in the upper torso belt to be retracted by the retractive force of the retractor.
 
-S22.2.1.8.4 Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
+S22.2.1.8.4 Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors. Wait 10 seconds, then check whether the air bag is deactivated.
 
 S22.2.2 Unbelted tests with dummies. Place the 49 CFR part 572 subpart P 3-year-old child dummy on any front outboard passenger vehicle seat in any of the following positions (without using a child restraint or booster seat or the vehicle's seat belts):
 
@@ -2285,7 +2285,7 @@ S22.2.2.1 Sitting on seat with back against seat back.
 
 (a) Place the dummy on any front outboard passenger seat.
 
-(b) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in). Position the torso of the dummy against the seat back. Position the dummy's thighs against the seat cushion.
+(b) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in). Position the torso of the dummy against the seat back. Position the dummy's thighs against the seat cushion.
 
 (c) Allow the legs of the dummy to extend off the surface of the seat.
 
@@ -2293,7 +2293,7 @@ S22.2.2.1 Sitting on seat with back against seat back.
 
 (e) Rotate the dummy's lower arms until the dummy's hands contact the seat cushion.
 
-(f) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(f) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (g) Wait 10 seconds, then check whether the air bag is deactivated.
 
@@ -2303,7 +2303,7 @@ S22.2.2.3 Sitting on seat with back not against seat back.
 
 (a) Place the dummy on any front outboard passenger seat.
 
-(b) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in). Position the dummy with the spine vertical so that the horizontal distance from the dummy's back to the seat back is no less than 25 mm (1.0 in) and no more than 150 mm (6.0 in), as measured along the dummy's midsagittal plane at the mid-sternum level. To keep the dummy in position, a material with a maximum breaking strength of 311 N (70 lb) may be used to hold the dummy.
+(b) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in). Position the dummy with the spine vertical so that the horizontal distance from the dummy's back to the seat back is no less than 25 mm (1.0 in) and no more than 150 mm (6.0 in), as measured along the dummy's midsagittal plane at the mid-sternum level. To keep the dummy in position, a material with a maximum breaking strength of 311 N (70 lb) may be used to hold the dummy.
 
 (c) Position the dummy's thighs against the seat cushion.
 
@@ -2311,13 +2311,13 @@ S22.2.2.3 Sitting on seat with back not against seat back.
 
 (e) Position the upper arms parallel to the spine and rotate the dummy's lower arms until the dummy's hands contact the seat cushion.
 
-(f) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(f) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (g) Wait 10 seconds, then check whether the air bag is deactivated.
 
 S22.2.2.4 Sitting on seat edge, spine vertical, hands by the dummy's sides.
 
-(a) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in).
+(a) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in).
 
 (b) Position the dummy in the seated position forward in the seat such that the legs are vertical and the back of the legs rest against the front of the seat with the spine vertical. If the dummy's feet contact the floor pan, rotate the legs forward until the dummy is resting on the seat with the feet positioned flat on the floor pan and the dummy spine vertical. To keep the dummy in position, a material with a maximum breaking strength of 311 N (70 lb) may be used to hold the dummy.
 
@@ -2325,13 +2325,13 @@ S22.2.2.4 Sitting on seat edge, spine vertical, hands by the dummy's sides.
 
 (d) Lower the dummy's lower arms such that they contact the seat cushion.
 
-(e) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(e) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (f) Wait 10 seconds, then check whether the air bag is deactivated.
 
 S22.2.2.5 Standing on seat, facing forward.
 
-(a) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the center of the steering control rim. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in). Position the dummy in a standing position on any front outboard passenger seat cushion facing the front of the vehicle while placing the heels of the dummy's feet in contact with the seat back.
+(a) In the case of vehicles equipped with bench seats and with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the center of the steering control rim. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in). Position the dummy in a standing position on any front outboard passenger seat cushion facing the front of the vehicle while placing the heels of the dummy's feet in contact with the seat back.
 
 (b) Rest the dummy against the seat back, with the arms parallel to the spine.
 
@@ -2339,29 +2339,29 @@ S22.2.2.5 Standing on seat, facing forward.
 
 (d) If necessary use a material with a maximum breaking strength of 311 N (70 lb) or spacer blocks to keep the dummy in position.
 
-(e) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(e) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (f) Wait 10 seconds, then check whether the air bag is deactivated.
 
 S22.2.2.6 Kneeling on seat, facing forward.
 
-(a) In the case of vehicles equipped with bench seats and manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in).
+(a) In the case of vehicles equipped with bench seats and manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in).
 
 (b) Position the dummy in a kneeling position in any front outboard passenger vehicle seat with the dummy facing the front of the vehicle with its toes at the intersection of the seat back and seat cushion. Position the dummy so that the spine is vertical. Push down on the legs so that they contact the seat as much as possible and then release. Place the arms parallel to the spine.
 
 (c) If necessary use a material with a maximum breaking strength of 311 N (70 lb) or spacer blocks to keep the dummy in position.
 
-(d) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(d) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (e) Wait 10 seconds, then check whether the air bag is deactivated.
 
 S22.2.2.7 Kneeling on seat, facing rearward.
 
-(a) In the case of vehicles equipped with bench seats and manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in).
+(a) In the case of vehicles equipped with bench seats and manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the vehicle's longitudinal centerline, within ±10 mm (±0.4 in), as the center of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies. In the case of vehicles equipped with bucket seats, position the midsagittal plane of any front outboard dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in).
 
 (b) Position the dummy in a kneeling position in any front outboard passenger vehicle seat with the dummy facing the rear of the vehicle. Position the dummy such that the dummy's head and torso are in contact with the seat back. Push down on the legs so that they contact the seat as much as possible and then release. Place the arms parallel to the spine.
 
-(c) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(c) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (d) Wait 10 seconds, then check whether the air bag is deactivated.
 
@@ -2389,7 +2389,7 @@ S22.2.2.8 Lying on seat. This test is performed only in vehicles with 3 designat
 
 (c) Move the dummy's upper left arm parallel to the vehicle's transverse plane and the lower left arm 90 degrees to the upper arm. Rotate the lower left arm about the elbow joint and toward the dummy's head until movement is obstructed.
 
-(d) Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+(d) Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 (e) Wait 10 seconds, then check whether the air bag is deactivated.
 
@@ -2399,7 +2399,7 @@ S22.3.1 Each vehicle certified to this option shall comply in tests conducted wi
 
 S22.3.2 Place a 49 CFR part 572 subpart O 5th percentile adult female test dummy at any front outboard passenger seating position of the vehicle, in accordance with procedures specified in S16.3.3 of this standard, except as specified in S22.3.1. Do not fasten the seat belt.
 
-S22.3.3 Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+S22.3.3 Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 S22.3.4 Wait 10 seconds, then check whether the air bag system is activated.
 
@@ -2407,13 +2407,13 @@ S22.4 Low risk deployment tests.
 
 S22.4.1 Each vehicle that is certified as complying with S21.4 shall meet the following test requirements with the 49 CFR part 572, subpart P 3-year-old child dummy in both of the following positions: Position 1 (S22.4.2) and Position 2 (S22.4.3).
 
-S22.4.1.1 Locate and mark a point on the front of the dummy's chest jacket on the midsagittal plane that is 114 mm (4.5 in) Â±3 mm (Â±0.1 in) along the surface of the skin from the top of the skin at the neck line. This is referred to as âPoint 1.â
+S22.4.1.1 Locate and mark a point on the front of the dummy's chest jacket on the midsagittal plane that is 114 mm (4.5 in) ±3 mm (±0.1 in) along the surface of the skin from the top of the skin at the neck line. This is referred to as “Point 1.”
 
-S22.4.1.2 Mark a point on the instrument panel that is longitudinally and transversely, as measured along the surface of the instrument panel, within Â±6 mm (Â±0.2 in) of the point that is defined by the intersection of the instrument panel and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag.
+S22.4.1.2 Mark a point on the instrument panel that is longitudinally and transversely, as measured along the surface of the instrument panel, within ±6 mm (±0.2 in) of the point that is defined by the intersection of the instrument panel and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag.
 
-S22.4.1.3 Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located in S22.4.1.2. This is referred to as âPlane D.â
+S22.4.1.3 Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located in S22.4.1.2. This is referred to as “Plane D.”
 
-S22.4.1.4 Locate the horizontal plane through the point located in S22.4.1.2. This is referred to as âPlane C.â
+S22.4.1.4 Locate the horizontal plane through the point located in S22.4.1.2. This is referred to as “Plane C.”
 
 S22.4.2 Position 1 (chest on instrument panel).
 
@@ -2421,13 +2421,13 @@ S22.4.2.1 Set the seat and seat cushion in the positions determined in S16.2.10.
 
 S22.4.2.2 Place the dummy in any front outboard passenger seat such that:
 
-S22.4.2.2.1 The midsagittal plane is coincident with Plane D within Â±10 mm (Â±0.4 in).
+S22.4.2.2.1 The midsagittal plane is coincident with Plane D within ±10 mm (±0.4 in).
 
 S22.4.2.2.2 The legs are initially vertical to the floor pan. The legs and thighs shall be adjusted to the extent necessary for the head/torso to contact the instrument panel as specified in S22.4.2.3.
 
 S22.4.2.2.3 The upper arms are parallel to the torso and the hands are in contact with the thighs.
 
-S22.4.2.3 Without changing the seat position and with the dummy's thorax instrument cavity rear face vertical, move the dummy forward until the dummy head/torso contacts the instrument panel. If the dummy loses contact with the seat cushion because of the forward movement, maintain the height of the dummy and the angle of the thigh with respect to the torso. Once contact is made, raise the dummy vertically until Point 1 lies in Plane C within Â±10 mm (Â±0.4 in). If the dummy's head contacts the windshield and keeps Point 1 from reaching Plane C, lower the dummy until there is no more than 5 mm (0.2 in) clearance between the head and the windshield. (The dummy shall remain in contact with the instrument panel while being raised or lowered, which may change the dummy's fore-aft position.)
+S22.4.2.3 Without changing the seat position and with the dummy's thorax instrument cavity rear face vertical, move the dummy forward until the dummy head/torso contacts the instrument panel. If the dummy loses contact with the seat cushion because of the forward movement, maintain the height of the dummy and the angle of the thigh with respect to the torso. Once contact is made, raise the dummy vertically until Point 1 lies in Plane C within ±10 mm (±0.4 in). If the dummy's head contacts the windshield and keeps Point 1 from reaching Plane C, lower the dummy until there is no more than 5 mm (0.2 in) clearance between the head and the windshield. (The dummy shall remain in contact with the instrument panel while being raised or lowered, which may change the dummy's fore-aft position.)
 
 S22.4.2.4 If possible, position the legs of the dummy so that the legs are vertical and the feet rest flat on the floor pan of the vehicle. If the positioning against the instrument panel does not allow the feet to be on the floor pan, the feet shall be parallel to the floor pan.
 
@@ -2439,7 +2439,7 @@ S22.4.3.1 Place any front outboard passenger seat at the mid-height, in full rea
 
 S22.4.3.2 Place the dummy in any front outboard passenger seat such that:
 
-S22.4.3.2.1 The midsagittal plane is coincident with Plane D within Â±10 mm (Â±0.4 in).
+S22.4.3.2.1 The midsagittal plane is coincident with Plane D within ±10 mm (±0.4 in).
 
 S22.4.3.2.2 The legs are vertical to the floor pan, the back of the legs are in contact with the seat cushion, and the dummy's thorax instrument cavity rear face is vertical. If it is not possible to position the dummy with the legs in the prescribed position, rotate the legs forward until the dummy is resting on the seat with the feet positioned flat on the floor pan, and the back of the legs are in contact with the front of the seat cushion. Set the transverse distance between the longitudinal centerlines at the front of the dummy's knees at 86 to 91 mm (3.4 to 3.6 in), with the thighs and the legs of the dummy in vertical planes.
 
@@ -2459,7 +2459,7 @@ S22.5 Test procedure for determining stages of air bag systems subject to low ri
 
 S22.5.1 The test described in S22.5.2 shall be conducted with an unbelted 50th percentile adult male test dummy in the driver's seating position according to S8 as it applies to that seating position and an unbelted 5th percentile adult female test dummy either in any front outboard passenger vehicle seating position according to S16 as it applies to that seating position or at any fore-aft seat position on any passenger side.
 
-S22.5.2 Impact the vehicle traveling longitudinally forward at any speed, up to and including 26 km/h (16 mph) into a fixed rigid barrier that is perpendicular Â±5 degrees to the line of travel of the vehicle under the applicable conditions of S8, S10, and S16 excluding S10.7, S10.8, S10.9, and S16.3.5.
+S22.5.2 Impact the vehicle traveling longitudinally forward at any speed, up to and including 26 km/h (16 mph) into a fixed rigid barrier that is perpendicular ±5 degrees to the line of travel of the vehicle under the applicable conditions of S8, S10, and S16 excluding S10.7, S10.8, S10.9, and S16.3.5.
 
 S22.5.3 Determine which inflation stage or combination of stages are fired and determine the time delay between successive stages. That stage or combination of stages, with time delay between successive stages, shall be used in deploying the air bag when conducting the low risk deployment tests described in S22.4, S24.4, and S26.
 
@@ -2469,7 +2469,7 @@ S23 Requirements using 6-year-old child dummies.
 
 S23.1 Each vehicle that is certified as complying with S14 shall, at the option of the manufacturer, meet the requirements specified in S23.2, S23.3, or S23.4, under the test procedures specified in S24 or S28, as applicable.
 
-S23.2 Option 1âAutomatic suppression feature. Each vehicle shall meet the requirements specified in S23.2.1 through S23.2.3.
+S23.2 Option 1—Automatic suppression feature. Each vehicle shall meet the requirements specified in S23.2.1 through S23.2.3.
 
 S23.2.1 The vehicle shall be equipped with an automatic suppression feature for any front outboard passenger frontal air bag system which results in deactivation of the air bag during each of the static tests specified in S24.2 (using the 49 CFR part 572 subpart N 6-year-old child dummy in any of the child restraints specified in section D of appendix A or A-1 of this standard, as appropriate), and activation of the air bag system during each of the static tests specified in S24.3 (using the 49 CFR part 572 subpart O 5th percentile adult female dummy).
 
@@ -2477,9 +2477,9 @@ S23.2.2 The vehicle shall be equipped with a telltale light meeting the requirem
 
 S23.2.3 The vehicle shall be equipped with a mechanism that indicates whether the air bag is suppressed, regardless of whether any front outboard passenger seat is occupied. The mechanism need not be located in the occupant compartment unless it is the telltale described in S23.2.2.
 
-S23.3 Option 2âDynamic automatic suppression system that suppresses the air bag when an occupant is out of position. (This option is available under the conditions set forth in S27.1.) The vehicle shall be equipped with a dynamic automatic suppression system for any front outboard passenger frontal air bag system which meets the requirements specified in S27.
+S23.3 Option 2—Dynamic automatic suppression system that suppresses the air bag when an occupant is out of position. (This option is available under the conditions set forth in S27.1.) The vehicle shall be equipped with a dynamic automatic suppression system for any front outboard passenger frontal air bag system which meets the requirements specified in S27.
 
-S23.4 Option 3âLow risk deployment. Each vehicle shall meet the injury criteria specified in S23.5 of this standard when any front outboard passenger air bag is statically deployed in accordance with both of the low risk deployment test procedures specified in S24.4.
+S23.4 Option 3—Low risk deployment. Each vehicle shall meet the injury criteria specified in S23.5 of this standard when any front outboard passenger air bag is statically deployed in accordance with both of the low risk deployment test procedures specified in S24.4.
 
 S23.5 Injury criteria for the 49 CFR part 572 subpart N 6-year-old child dummy.
 
@@ -2499,7 +2499,7 @@ S23.5.5 Neck injury. When measuring neck injury, each of the following injury cr
 
 (a) Nij.
 
-(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5) Channel Frequency Class 600.
+(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5) Channel Frequency Class 600.
 
 (2) During the event, the axial force (Fz) can be either in tension or compression while the occipital condyle bending moment (Mocy) can be in either flexion or extension. This results in four possible loading conditions for Nij: tension-extension (Nte), tension-flexion (Ntf), compression-extension (Nce), or compression-flexion (Ncf).
 
@@ -2539,17 +2539,17 @@ S24.1.5 The definitions provided in S16.3.1 through S16.3.10 apply to the tests 
 
 S24.1.6 For leg and thigh angles, use the following references:
 
-S24.1.6.1 Thighâa straight line on the thigh skin between the center of the 5/16-18 UNC-2B threaded access hole in the upper leg clamp (drawing 127-4004, 6 YR H3âupper leg clamp) and the knee screw (part 9000248 in drawing 127-4000-1 & -2, leg assembly).
+S24.1.6.1 Thigh—a straight line on the thigh skin between the center of the 5/16-18 UNC-2B threaded access hole in the upper leg clamp (drawing 127-4004, 6 YR H3—upper leg clamp) and the knee screw (part 9000248 in drawing 127-4000-1 & -2, leg assembly).
 
-S24.1.6.2 Legâa straight line on the leg skin between the center of the lower leg screw (part 9001170 in drawing 127-4000-1 & -2, leg assembly) and the knee screw (part 9000248 in drawing 127-4000-1 & -2, leg assembly).
+S24.1.6.2 Leg—a straight line on the leg skin between the center of the lower leg screw (part 9001170 in drawing 127-4000-1 & -2, leg assembly) and the knee screw (part 9000248 in drawing 127-4000-1 & -2, leg assembly).
 
 S24.2 Static tests of automatic suppression feature which shall result in deactivation of any passenger air bag, associated with that designated seating position. Each vehicle that is certified as complying with S23.2 of FMVSS No. 208 shall meet the following test requirements with the child restraint in any front outboard passenger vehicle seat under the following conditions:
 
 (a) Using the vehicle safety belts as specified in S22.2.1.5 with section D child restraints designed to be secured to the vehicle seat even when empty;
 
-(b) If the child restraint is certified to S5.9 of Â§ 571.213, and the vehicle seat has an anchorage system as specified in Â§ 571.225, using only the mechanism provided by the child restraint manufacturer for attachment to the lower anchorage as specified in S22.2.1.6; and
+(b) If the child restraint is certified to S5.9 of § 571.213, and the vehicle seat has an anchorage system as specified in § 571.225, using only the mechanism provided by the child restraint manufacturer for attachment to the lower anchorage as specified in S22.2.1.6; and
 
-(c) Without securing the child restraint with either the vehicle safety belts or any mechanism provided with a child restraint certified to S5.9 of Â§ 571.213.
+(c) Without securing the child restraint with either the vehicle safety belts or any mechanism provided with a child restraint certified to S5.9 of § 571.213.
 
 S24.2.1 Except as provided in S24.2.2, conduct all tests as specified in S22.2, except that the 49 CFR part 572 subpart N 6-year-old child dummy shall be used.
 
@@ -2557,7 +2557,7 @@ S24.2.2 Exceptions. The tests specified in the following paragraphs of S22.2 nee
 
 S24.2.3 Sitting back in the seat and leaning on any front outboard passenger door.
 
-(a) Place the dummy in the seated position in any front outboard passenger vehicle seat. For bucket seats, position the midsagittal plane of the dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within Â±10 mm (Â±0.4 in). For bench seats in vehicles with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the longitudinal centerline of the vehicle, within Â±10 mm (Â±0.4 in), as the center of rotation of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within Â±10 mm (Â±0.4 in) of the seating reference point of the seat that it occupies.
+(a) Place the dummy in the seated position in any front outboard passenger vehicle seat. For bucket seats, position the midsagittal plane of the dummy vertically such that it coincides with the longitudinal centerline of the seat cushion, within ±10 mm (±0.4 in). For bench seats in vehicles with manually operated driving controls, position the midsagittal plane of the dummy vertically and parallel to the vehicle's longitudinal centerline and the same distance from the longitudinal centerline of the vehicle, within ±10 mm (±0.4 in), as the center of rotation of the steering control. For bench seats in vehicles without manually operated driving controls, position the midsagittal plane of any front outboard dummy vertically and parallel to the vehicle's longitudinal centerline, within ±10 mm (±0.4 in) of the seating reference point of the seat that it occupies.
 
 (b) Place the dummy's back against the seat back and rest the dummy's thighs on the seat cushion.
 
@@ -2567,7 +2567,7 @@ S24.2.3 Sitting back in the seat and leaning on any front outboard passenger doo
 
 (e) Rotate the dummy's lower arms down until they contact the seat.
 
-(f) Close the vehicle's passenger-side door and then start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system.
+(f) Close the vehicle's passenger-side door and then start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system.
 
 (g) Push against the dummy's left shoulder to lean the dummy against the door; close all remaining doors.
 
@@ -2579,7 +2579,7 @@ S24.3.1 Each vehicle certified to this option shall comply in tests conducted wi
 
 S24.3.2 Place a 49 CFR part 572 subpart O 5th percentile adult female test dummy at any front outboard passenger seating position of the vehicle, in accordance with procedures specified in S16.3.3 of this standard, except as specified in S24.3.1. Do not fasten the seat belt.
 
-S24.3.3 Start the vehicle engine or place the ignition in the âonâ position, whichever will turn on the suppression system, and then close all vehicle doors.
+S24.3.3 Start the vehicle engine or place the ignition in the “on” position, whichever will turn on the suppression system, and then close all vehicle doors.
 
 S24.3.4 Wait 10 seconds, then check whether the air bag system is activated.
 
@@ -2587,13 +2587,13 @@ S24.4 Low risk deployment tests.
 
 S24.4.1 Each vehicle that is certified as complying with S23.4 shall meet the following test requirements with the 49 CFR part 572, subpart N 6-year-old child dummy in both of the following positions: Position 1 (S24.4.2) or Position 2 (S24.4.3).
 
-S24.4.1.1 Locate and mark a point on the front of the dummy's chest jacket on the midsagittal plane that is 139 mm (5.5 in) Â±3 mm (Â±0.1in) along the surface of the skin from the top of the skin at the neckline. This is referred to as âPoint 1.â
+S24.4.1.1 Locate and mark a point on the front of the dummy's chest jacket on the midsagittal plane that is 139 mm (5.5 in) ±3 mm (±0.1in) along the surface of the skin from the top of the skin at the neckline. This is referred to as “Point 1.”
 
-S24.4.1.2 Mark a point on the instrument panel that is longitudinally and transversely, as measured along the surface of the instrument panel, within Â±6 mm (Â±0.2 in) of the point that is defined by the intersection of the instrument panel and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag.
+S24.4.1.2 Mark a point on the instrument panel that is longitudinally and transversely, as measured along the surface of the instrument panel, within ±6 mm (±0.2 in) of the point that is defined by the intersection of the instrument panel and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag.
 
-S22.4.1.3 Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located in S24.4.1.2. This is referred to as âPlane D.â
+S22.4.1.3 Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located in S24.4.1.2. This is referred to as “Plane D.”
 
-S24.4.1.4 Locate the horizontal plane through the point located in S24.4.1.2. This is referred to as âPlane C.â
+S24.4.1.4 Locate the horizontal plane through the point located in S24.4.1.2. This is referred to as “Plane C.”
 
 S24.4.2 Position 1 (chest on instrument panel).
 
@@ -2603,11 +2603,11 @@ S24.4.2.2 Remove the legs of the dummy at the pelvic interface.
 
 S24.4.2.3 Place the dummy in any front outboard passenger seat such that:
 
-(a) The midsagittal plane is coincident with Plane D within Â±10 mm (Â±0.4 in).
+(a) The midsagittal plane is coincident with Plane D within ±10 mm (±0.4 in).
 
 (b) The upper arms are parallel to the torso and the hands are next to where the thighs would be.
 
-(c) Without changing the seat position and with the dummy's thorax instrument cavity rear face 6 degrees forward of the vertical, move the dummy forward until the dummy head/torso contacts the instrument panel. If the dummy loses contact with the seat cushion because of the forward movement, maintain the height of the dummy while moving the dummy forward. If the head contacts the windshield before head/torso contact with the instrument panel, maintain the thorax instrument cavity angle and move the dummy forward such that the head is following the angle of the windshield until there is head/torso contact with the instrument panel. Once contact is made, raise or lower the dummy vertically until Point 1 lies in Plane C within Â±10 mm (Â±0.4 in). If the dummy's head contacts the windshield and keeps Point 1 from reaching Plane C, lower the dummy until there is no more than 5 mm (0.2 in) clearance between the head and the windshield. (The dummy shall remain in contact with the instrument panel while being raised or lowered which may change the dummy's fore-aft position.)
+(c) Without changing the seat position and with the dummy's thorax instrument cavity rear face 6 degrees forward of the vertical, move the dummy forward until the dummy head/torso contacts the instrument panel. If the dummy loses contact with the seat cushion because of the forward movement, maintain the height of the dummy while moving the dummy forward. If the head contacts the windshield before head/torso contact with the instrument panel, maintain the thorax instrument cavity angle and move the dummy forward such that the head is following the angle of the windshield until there is head/torso contact with the instrument panel. Once contact is made, raise or lower the dummy vertically until Point 1 lies in Plane C within ±10 mm (±0.4 in). If the dummy's head contacts the windshield and keeps Point 1 from reaching Plane C, lower the dummy until there is no more than 5 mm (0.2 in) clearance between the head and the windshield. (The dummy shall remain in contact with the instrument panel while being raised or lowered which may change the dummy's fore-aft position.)
 
 S24.4.2.4 If necessary, material with a maximum breaking strength of 311 N (70 lb) and spacer blocks may be used to support the dummy in position. The material should support the torso rather than the head. Support the dummy so that there is minimum interference with the full rotational and translational freedom for the upper torso of the dummy and the material does not interfere with the air bag.
 
@@ -2617,7 +2617,7 @@ S24.4.3.1 Place any front outboard passenger seat at the mid-height full rearwar
 
 S24.4.3.2 Place the dummy in any front outboard passenger seat such that:
 
-(a) The midsagittal plane is coincident with Plane D within Â±10 mm (Â±0.4 in).
+(a) The midsagittal plane is coincident with Plane D within ±10 mm (±0.4 in).
 
 (b) The legs are perpendicular to the floor pan, the back of the legs are in contact with the seat cushion, and the dummy's thorax instrument cavity rear face is 6 degrees forward of vertical. If it is not possible to position the dummy with the legs in the prescribed position, rotate the legs forward until the dummy is resting on the seat with the feet positioned flat on the floor pan and the back of the legs are in contact with the front of the seat cushion. Set the transverse distance between the longitudinal centerlines at the front of the dummy's knees at 112 to 117 mm (4.4 to 4.6 in), with the thighs and the legs of the dummy in vertical planes.
 
@@ -2637,15 +2637,15 @@ S25 Requirements using an out-of-position 5th percentile adult female dummy at t
 
 S25.1 Each vehicle certified as complying with S14 shall, at the option of the manufacturer, meet the requirements specified in S25.2 or S25.3 under the test procedures specified in S26 or S28, as appropriate.
 
-S25.2 Option 1âDynamic automatic suppression system that suppresses the air bag when the driver is out of position. (This option is available under the conditions set forth in S27.1.) The vehicle shall be equipped with a dynamic automatic suppression system for the driver air bag which meets the requirements specified in S27.
+S25.2 Option 1—Dynamic automatic suppression system that suppresses the air bag when the driver is out of position. (This option is available under the conditions set forth in S27.1.) The vehicle shall be equipped with a dynamic automatic suppression system for the driver air bag which meets the requirements specified in S27.
 
-S25.3 Option 2âLow risk deployment. Each vehicle shall meet the injury criteria specified by S15.3 of this standard, except as modified in S25.4, when the driver air bag is statically deployed in accordance with both of the low risk deployment test procedures specified in S26.
+S25.3 Option 2—Low risk deployment. Each vehicle shall meet the injury criteria specified by S15.3 of this standard, except as modified in S25.4, when the driver air bag is statically deployed in accordance with both of the low risk deployment test procedures specified in S26.
 
 S25.4 Neck injury criteria driver low risk deployment tests. When measuring neck injury in low risk deployment tests for the driver position, each of the following neck injury criteria shall be met.
 
 (a) Nij.
 
-(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see Â§ 571.5) Channel Frequency Class 600.
+(1) The shear force (Fx), axial force (Fz), and bending moment (My) shall be measured by the dummy upper neck load cell for the duration of the crash event as specified in S4.11. Shear force, axial force, and bending moment shall be filtered for Nij purposes at SAE Recommended Practice J211/1 MAR95 (incorporated by reference, see § 571.5) Channel Frequency Class 600.
 
 (2) During the event, the axial force (Fz) can be either in tension or compression while the occipital condyle bending moment (Mocy) can be in either flexion or extension. This results in four possible loading conditions for Nij: tension-extension (Nte), tension-flexion (Ntf), compression-extension (Nce), or compression-flexion (Ncf).
 
@@ -2677,13 +2677,13 @@ S26.2 Driver position 1 (chin on module).
 
 S26.2.1 Adjust the steering controls so that the steering control hub is at the geometric center of the locus it describes when it is moved through its full range of driving positions. If there is no setting at the geometric center, position it one setting lower than the geometric center. Set the rotation of the steering control so that the vehicle wheels are pointed straight ahead.
 
-S26.2.2 Mark a point on the steering control cover that is longitudinally and transversely, as measured along the surface of the steering control cover, within Â±6 mm (Â±0.2 in) of the point that is defined by the intersection of the steering control cover and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag. Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located on the steering control cover. This is referred to as âPlane E.â
+S26.2.2 Mark a point on the steering control cover that is longitudinally and transversely, as measured along the surface of the steering control cover, within ±6 mm (±0.2 in) of the point that is defined by the intersection of the steering control cover and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag. Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located on the steering control cover. This is referred to as “Plane E.”
 
 S26.2.3 Place the seat and seat cushion in the position achieved in S16.2.10.3.1. If the seat or seat cushion is adjustable in the vertical direction by adjustments other than that which primarily moves the seat or seat cushion fore-aft, determine the maximum and minimum heights of the SCRP at this position, while maintaining the seat cushion reference line angle as closely as possible. Place the SCRP in the mid-height position. If the seat back is adjustable independent of the seat, place the seat back at the manufacturer's nominal design seat back angle for a 50th percentile adult male as specified in S8.1.3. Position any adjustable parts of the seat that provide additional support so that they are in the lowest or most open adjustment position. Position an adjustable head restraint in the lowest and most forward position.
 
 S26.2.4 Place the dummy in the driver's seat such that:
 
-S26.2.4.1 The midsagittal plane is coincident with Plane E within Â±10 mm (Â±0.4 in).
+S26.2.4.1 The midsagittal plane is coincident with Plane E within ±10 mm (±0.4 in).
 
 S26.2.4.2 The legs are perpendicular to the floor pan and the back of the legs are in contact with the seat cushion. The legs may be adjusted if necessary to achieve the final head position.
 
@@ -2705,11 +2705,11 @@ S26.3.1 Place the seat and seat cushion in the position achieved in S16.2.10.3.1
 
 S26.3.2 Adjust the steering controls so that the steering control hub is at the geometric center of the locus it describes when it is moved through its full range of driving positions. If there is no setting at the geometric center, position it one setting lower than the geometric center. Set the rotation of the steering control so that the vehicle wheels are pointed straight ahead.
 
-S26.3.3 Mark a point on the steering control cover that is longitudinally and transversely, as measured along the surface of the steering control cover, within Â±6 mm (Â±0.2 in) of the point that is defined by the intersection of the steering control cover and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag. Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located on the steering control cover. This is referred to as âPlane E.â
+S26.3.3 Mark a point on the steering control cover that is longitudinally and transversely, as measured along the surface of the steering control cover, within ±6 mm (±0.2 in) of the point that is defined by the intersection of the steering control cover and a line between the volumetric center of the smallest volume that can encompass the folded undeployed air bag and the volumetric center of the static fully inflated air bag. Locate the vertical plane parallel to the vehicle longitudinal centerline through the point located on the steering control cover. This is referred to as “Plane E.”
 
 S26.3.4 Place the dummy in the driver's seat position such that:
 
-S26.3.4.1 The midsagittal plane is coincident with Plane E within Â±10 mm (Â±0.4 in).
+S26.3.4.1 The midsagittal plane is coincident with Plane E within ±10 mm (±0.4 in).
 
 S26.3.4.2 The legs are perpendicular to the floor pan and the back of the legs are in contact with the seat cushion. The legs may be adjusted if necessary to achieve the final head position.
 
@@ -2721,7 +2721,7 @@ S26.3.4.5 The upper arms are parallel to the torso and the hands are in contact 
 
 S26.3.5 Maintaining the spine angle, slide the dummy forward until the head/torso contacts the steering control.
 
-S26.3.6 While maintaining the spine angle, position the dummy so that a point on the chin 40 mm (1.6 in) Â±3 mm (Â±0.1 in) below the center of the mouth (chin point) is, within Â±10 mm (Â±0.4 in), in contact with a point on the steering control rim surface closest to the dummy that is 10 mm (0.4 in) vertically below the highest point on the rim in Plane E. If the dummy's head contacts the vehicle windshield or upper interior before the prescribed position can be obtained, lower the dummy until there is no more than 5 mm (0.2 in) clearance between the vehicle's windshield or upper interior, as applicable.
+S26.3.6 While maintaining the spine angle, position the dummy so that a point on the chin 40 mm (1.6 in) ±3 mm (±0.1 in) below the center of the mouth (chin point) is, within ±10 mm (±0.4 in), in contact with a point on the steering control rim surface closest to the dummy that is 10 mm (0.4 in) vertically below the highest point on the rim in Plane E. If the dummy's head contacts the vehicle windshield or upper interior before the prescribed position can be obtained, lower the dummy until there is no more than 5 mm (0.2 in) clearance between the vehicle's windshield or upper interior, as applicable.
 
 S26.3.7 If the steering control can be adjusted so that the chin point can be in contact with the rim of the uppermost portion of the steering control, adjust the steering control to that position. If the steering control contacts the dummy's leg(s) prior to attaining this position, adjust it to the next highest detent, or if infinitely adjustable, until there is a maximum of 5 mm (0.2 in) clearance between the control and the dummy's leg(s). Readjust the dummy's torso such that the thorax instrument cavity rear face is 6 degrees forward of the steering control angle. Position the dummy so that the chin point is in contact, or if contact is not achieved, as close as possible to contact with the rim of the uppermost portion of the steering control.
 

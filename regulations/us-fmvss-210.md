@@ -12,7 +12,7 @@ systems:
 - Restraints
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.210 Standard No. 210; Seat belt assembly anchorages.
+title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -20,7 +20,7 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.210 Standard No. 210; Seat belt assembly anchorages.
+## § 571.210 Standard No. 210; Seat belt assembly anchorages.
 
 S1. Purpose and scope. This standard establishes requirements for seat belt assembly anchorages to insure their proper location for effective occupant restraint and to reduce the likelihood of their failure.
 
@@ -34,9 +34,9 @@ Bridged pull yoke means the yoke that bridges the torso and pelvis on the FAD1 o
 
 FAD means the force application device, either the FAD1 or the FAD2, a one-piece device consisting of an upper torso portion and a pelvic portion hinged together.
 
-FAD1 means the larger version of the force application device specified in drawings NHTSA221-210-01, âDrawing Package for the Force Application Device 1 (FAD1),â April 9, 2024 (incorporated by reference, see Â§ 571.5). FAD1 is depicted in figure 7 to this standard (figure provided for illustration purposes).
+FAD1 means the larger version of the force application device specified in drawings NHTSA221-210-01, “Drawing Package for the Force Application Device 1 (FAD1),” April 9, 2024 (incorporated by reference, see § 571.5). FAD1 is depicted in figure 7 to this standard (figure provided for illustration purposes).
 
-FAD2 means the smaller version of the force application device specified in drawings NHTSA221-210-01J, âDrawing Package for the Force Application Device 2 (FAD2),â April 9, 2024 (incorporated by reference; see Â§ 571.5). FAD2 is depicted in figure 8 to this standard (figure provided for illustration purposes).
+FAD2 means the smaller version of the force application device specified in drawings NHTSA221-210-01J, “Drawing Package for the Force Application Device 2 (FAD2),” April 9, 2024 (incorporated by reference; see § 571.5). FAD2 is depicted in figure 8 to this standard (figure provided for illustration purposes).
 
 Midsagittal plane means the vertical plane that separates the FAD into equal left and right halves.
 
@@ -44,7 +44,7 @@ School bus torso belt adjusted height means the vertical height above the seatin
 
 School bus torso belt anchor point means the midpoint of the torso belt width where the torso belt first contacts the uppermost torso belt anchorage. Seat belt anchorage means any component, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including, but not limited to, the attachment hardware, seat frames, seat pedestals, the vehicle structure itself, and any part of the vehicle whose failure causes separation of the belt from the vehicle structure.
 
-Seat reference plane means the vertical plane that passes through the âseating reference pointâ (as defined at 49 CFR 571.3) and is parallel to the direction that the seat faces.
+Seat reference plane means the vertical plane that passes through the “seating reference point” (as defined at 49 CFR 571.3) and is parallel to the direction that the seat faces.
 
 Small occupant seating position is as defined in 49 CFR 571.222.
 
@@ -120,7 +120,7 @@ S4.2.5 The attachment hardware of a seat belt assembly, which is subject to the 
 
 S4.2.6 Manufacturer's choice of compliance option. The manufacturer shall select the compliance option by the time it certifies the vehicle and may not thereafter select a different option for the vehicle. Each manufacturer shall, upon the request from the National Highway Traffic Safety Administration, provide information regarding which of the compliance options it selected for a particular vehicle or make/model.
 
-S4.3 Location. As used in this section, âforwardâ means the direction in which the seat faces, and other directional references are to be interpreted accordingly. Anchorages for seat belt assemblies that meet the frontal crash protection requirements of S5.1 of Standard No. 208 (49 CFR 571.208) are exempt from the location requirements of this section.
+S4.3 Location. As used in this section, “forward” means the direction in which the seat faces, and other directional references are to be interpreted accordingly. Anchorages for seat belt assemblies that meet the frontal crash protection requirements of S5.1 of Standard No. 208 (49 CFR 571.208) are exempt from the location requirements of this section.
 
 S4.3.1 Seat belt anchorages for Type 1 seat belt assemblies and the pelvic portion of Type 2 seat belt assemblies.
 
@@ -136,7 +136,7 @@ S4.3.1.3 In an installation in which the seat belt attaches to the seat structur
 
 S4.3.1.4 Anchorages for an individual seat belt assembly shall be located at least 165 mm apart laterally, measured between the vertical center line of the bolt holes or, for designs using other means of attachment to the vehicle structure, between the centroid of such means.
 
-S4.3.2 Seat belt anchorages for the upper torso portion of Type 2 seat belt assemblies. Adjust the seat to its full rearward and downward position and adjust the seat back to its most upright position. Except a small occupant seating position as defined in 49 CFR 571.222, with the seat and seat back so positioned, as specified by subsection (a) or (b) of this section, the upper end of the upper torso restraint shall be located within the acceptable range shown in Figure 1, with reference to a two-dimensional drafting template described in SAE Standard J826 MAY87 (incorporated by reference, see Â§ 571.5). The template's âHâ point shall be at the design âHâ point of the seat for its full rearward and full downward position, as defined in SAE Recommended Practice J1100 JUN84 (incorporated by reference, see Â§ 571.5), and the template's torso line shall be at the same angle from the vertical as the seat back.
+S4.3.2 Seat belt anchorages for the upper torso portion of Type 2 seat belt assemblies. Adjust the seat to its full rearward and downward position and adjust the seat back to its most upright position. Except a small occupant seating position as defined in 49 CFR 571.222, with the seat and seat back so positioned, as specified by subsection (a) or (b) of this section, the upper end of the upper torso restraint shall be located within the acceptable range shown in Figure 1, with reference to a two-dimensional drafting template described in SAE Standard J826 MAY87 (incorporated by reference, see § 571.5). The template's “H” point shall be at the design “H” point of the seat for its full rearward and full downward position, as defined in SAE Recommended Practice J1100 JUN84 (incorporated by reference, see § 571.5), and the template's torso line shall be at the same angle from the vertical as the seat back.
 
 (a) For fixed anchorages, compliance with this section shall be determined at the vertical centerline of the bolt holes or, for designs using another means of attachment to the vehicle structure, at the centroid of such means.
 

@@ -13,7 +13,7 @@ systems:
 - Steering
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.203 Standard No. 203; Impact protection for the driver from the steering
+title: § 571.203 Standard No. 203; Impact protection for the driver from the steering
   control system.
 vehicle_categories:
 - Passenger car
@@ -21,7 +21,7 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.203 Standard No. 203; Impact protection for the driver from the steering control system.
+## § 571.203 Standard No. 203; Impact protection for the driver from the steering control system.
 
 S1. Purpose and scope. This standard specifies requirements for steering control systems that will minimize chest, neck, and facial injuries to the driver as a result of impact.
 
@@ -35,7 +35,7 @@ S5. Impact protection requirements.
 
 S5.1 Except as provided in this paragraph, the steering control system of any vehicle to which this standard applies shall be impacted in accordance with S5.1(a).
 
-(a) When the steering control system is impacted by a body block in accordance with SAE Recommended Practice J944 JUN80 (incorporated by reference, see Â§ 571.5), at a relative velocity of 24 km/h, the impact force developed on the chest of the body block transmitted to the steering control system shall not exceed 11,120 N, except for intervals whose cumulative duration is not more than 3 milliseconds.
+(a) When the steering control system is impacted by a body block in accordance with SAE Recommended Practice J944 JUN80 (incorporated by reference, see § 571.5), at a relative velocity of 24 km/h, the impact force developed on the chest of the body block transmitted to the steering control system shall not exceed 11,120 N, except for intervals whose cumulative duration is not more than 3 milliseconds.
 
 (b) [Reserved]
 

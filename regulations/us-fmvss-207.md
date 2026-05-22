@@ -13,7 +13,7 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.207 Standard No. 207; Seating systems.
+title: § 571.207 Standard No. 207; Seating systems.
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -21,7 +21,7 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.207 Standard No. 207; Seating systems.
+## § 571.207 Standard No. 207; Seating systems.
 
 S1. Purpose and scope. This standard establishes requirements for seats, their attachment assemblies, and their installation to minimize the possibility of their failure by forces acting on them as a result of vehicle impact.
 
@@ -37,17 +37,17 @@ S4.1 Driver's seat. Each vehicle with manually operated driving controls shall h
 
 S4.2. General performance requirements. When tested in accordance with S5, each occupant seat shall withstand the following forces, in newtons, except for: a side-facing seat; a passenger seat on a bus other than a school bus; a passenger seat on a school bus with a GVWR greater than 4,536 kilograms (10,000 pounds); and, a passenger seat on a school bus with a GVWR less than or equal to 4,536 kg manufactured before October 21, 2011.
 
-(a) In any position to which it can be adjustedâ20 times the mass of the seat in kilograms multiplied by 9.8 applied in a forward longitudinal direction;
+(a) In any position to which it can be adjusted—20 times the mass of the seat in kilograms multiplied by 9.8 applied in a forward longitudinal direction;
 
-(b) In any position to which it can be adjustedâ20 times the mass of the seat in kilograms multiplied by 9.8 applied in a rearward longitudinal direction;
+(b) In any position to which it can be adjusted—20 times the mass of the seat in kilograms multiplied by 9.8 applied in a rearward longitudinal direction;
 
-(c) For a seat belt assembly attached to the seatâthe force specified in paragraph (a), if it is a forward facing seat, or paragraph (b), if it is a rearward facing seat, in each case applied simultaneously with the forces imposed on the seat by the seat belt assembly when it is loaded in accordance with S4.2 of Â§ 571.210; and
+(c) For a seat belt assembly attached to the seat—the force specified in paragraph (a), if it is a forward facing seat, or paragraph (b), if it is a rearward facing seat, in each case applied simultaneously with the forces imposed on the seat by the seat belt assembly when it is loaded in accordance with S4.2 of § 571.210; and
 
-(d) In its rearmost positionâa force that produces a 373 newton meters moment about the seating reference point for each designated seating position that the seat provides, applied to the upper cross-member of the seat back or the upper seat back, in a rearward longitudinal direction for forward-facing seats and in a forward longitudinal direction for rearward-facing seats.
+(d) In its rearmost position—a force that produces a 373 newton meters moment about the seating reference point for each designated seating position that the seat provides, applied to the upper cross-member of the seat back or the upper seat back, in a rearward longitudinal direction for forward-facing seats and in a forward longitudinal direction for rearward-facing seats.
 
 S4.2.1 Seat adjustment. Except for vertical movement of nonlocking suspension type occupant seats in trucks or buses, each seat shall remain in its adjusted position when tested in accordance with the test procedures specified in S5.
 
-S4.3. Restraining device for hinged or folding seats or seat backs. Except for a passenger seat in a bus or a seat having a back that is adjustable only for the comfort of its occupants, a hinged or folding occupant seat or occupant seat back shallâ
+S4.3. Restraining device for hinged or folding seats or seat backs. Except for a passenger seat in a bus or a seat having a back that is adjustable only for the comfort of its occupants, a hinged or folding occupant seat or occupant seat back shall—
 
 (a) Be equipped with a self-locking device for restraining the hinged or folding seat or seat back, and
 
@@ -81,7 +81,7 @@ S5.1.1 For a seat whose seat back and seat bench are attached to the vehicle by 
 
 (b) Secure a strut on each side of the seat from a point on the outside of the seat frame in the horizontal plane of the seat's center of gravity to a point on the frame as far forward as possible of the seat anchorages. Between the upper ends of the struts attach a rigid cross-member, in front of the seat back frame for rearward loading and behind the seat back frame for forward loading. Apply the force specified by S4.2(a) or S4.2(b) horizontally through the rigid cross-member as shown in Figure 1.
 
-(c) Find âcg1,â the center of gravity of the portion of the seat that is above the lowest surface of the seat adjuster. On each side of the seat, secure a strut from a point on the outside of the seat frame in the horizontal plane of cg1 to a point on the frame as far forward as possible of the seat adjusted position. Between the upper ends of the struts attach a rigid cross-member, in front of the seat back frame for rearward loading and behind the seat back frame for forward loading. Find âcg2,â the center of gravity of the portion of the seat that is below the seat adjuster. Apply a force horizontally through cg1 equal to 20 times the weight of the portion of the seat represented by cg1, and simultaneously apply a force horizontally through cg2 equal to 20 times the weight of the portion of the seat represented by cg2.
+(c) Find “cg1,” the center of gravity of the portion of the seat that is above the lowest surface of the seat adjuster. On each side of the seat, secure a strut from a point on the outside of the seat frame in the horizontal plane of cg1 to a point on the frame as far forward as possible of the seat adjusted position. Between the upper ends of the struts attach a rigid cross-member, in front of the seat back frame for rearward loading and behind the seat back frame for forward loading. Find “cg2,” the center of gravity of the portion of the seat that is below the seat adjuster. Apply a force horizontally through cg1 equal to 20 times the weight of the portion of the seat represented by cg1, and simultaneously apply a force horizontally through cg2 equal to 20 times the weight of the portion of the seat represented by cg2.
 
 S5.1.2 If the seat back and the seat bench are attached to the vehicle by different attachments, attach to each component a fixture capable of transmitting a force to that component. Apply forces, in newtons, equal to 20 times the mass of the seat back in kilograms multiplied by 9.8 m/s
 2 horizontally through the center of gravity of the seat back, as shown in Figure 2 and apply forces, in newtons, equal to 20 times the mass of the seat bench in kilograms multiplied by 9.8 m/s

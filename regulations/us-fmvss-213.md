@@ -12,15 +12,15 @@ systems:
 - Restraints
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.213 Child restraint systems; Applicable unless a vehicle or child restraint
-  system is certified to Â§ 571.213b.
+title: § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint
+  system is certified to § 571.213b.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.213 Child restraint systems; Applicable unless a vehicle or child restraint system is certified to Â§ 571.213b.
+## § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint system is certified to § 571.213b.
 
 S1. Scope. This standard specifies requirements for child restraint systems used in motor vehicles and aircraft.
 
@@ -42,7 +42,7 @@ Built-in child restraint system means a child restraint system that is designed 
 
 Car bed means a child restraint system designed to restrain or position a child in the supine or prone position on a continuous flat surface.
 
-Child restraint anchorage system is defined in S3 of FMVSS No. 225 (Â§ 571.225).
+Child restraint anchorage system is defined in S3 of FMVSS No. 225 (§ 571.225).
 
 Child restraint system means any device, except Type I or Type II seat belts, designed for use in a motor vehicle or aircraft to restrain, seat, or position children who weigh 36 kilograms (kg) (80 lb) or less.
 
@@ -62,11 +62,11 @@ Seat orientation reference line or SORL means the horizontal line through Point 
 
 Specific vehicle shell means the actual vehicle model part into which the built-in child restraint system is or is intended to be fabricated, including the complete surroundings of the built-in system. If the built-in child restraint system is or is intended to be fabricated as part of any seat other than a front seat, these surroundings include the back of the seat in front, the interior rear side door panels and trim, the floor pan, adjacent pillars (e.g., the B and C pillars), and the ceiling. If the built-in system is or is intended to be fabricated as part of the front seat, these surroundings include the dashboard, the steering mechanism and its associated trim hardware, any levers and knobs installed on the floor or on a console, the interior front side door panels and trim, the front seat, the floor pan, the A pillars and the ceiling.
 
-Tether anchorage is defined in S3 of FMVSS No. 225 (Â§ 571.225).
+Tether anchorage is defined in S3 of FMVSS No. 225 (§ 571.225).
 
-Tether strap is defined in S3 of FMVSS No. 225 (Â§ 571.225).
+Tether strap is defined in S3 of FMVSS No. 225 (§ 571.225).
 
-Tether hook is defined in S3 of FMVSS No. 225 (Â§ 571.225).
+Tether hook is defined in S3 of FMVSS No. 225 (§ 571.225).
 
 Torso means the portion of the body of a seated anthropomorphic test dummy, excluding the thighs, that lies between the top of the child restraint system seating surface and the top of the shoulders of the test dummy.
 
@@ -84,7 +84,7 @@ S5. Requirements. (a) Each motor vehicle with a built-in child restraint system 
 
 [Table — see source for details]
 
-(g) Each add-on child restraint system manufactured for use in motor vehicles, that is recommended for children in a weight range that includes weights up to 18 kilograms (40 pounds), or for children in a height range that includes heights up to 1100 millimeters, shall meet the requirements in this standard and the additional side impact protection requirements in Standard No. 213a (Â§ 571.213a). Excepted from Standard No. 213a are harnesses and car beds.
+(g) Each add-on child restraint system manufactured for use in motor vehicles, that is recommended for children in a weight range that includes weights up to 18 kilograms (40 pounds), or for children in a height range that includes heights up to 1100 millimeters, shall meet the requirements in this standard and the additional side impact protection requirements in Standard No. 213a (§ 571.213a). Excepted from Standard No. 213a are harnesses and car beds.
 
 S5.1 Dynamic performance.
 
@@ -101,7 +101,7 @@ S5.1.1 Child restraint system integrity. When tested in accordance with S6.1, ea
 
 (c) If a front facing child restraint system, not allow the angle between the system's back support surfaces for the child and the system's seating surface to be less than 45 degrees at the completion of the test.
 
-S5.1.2 Injury criteria. When tested in accordance with S6.1 and with the test dummies specified in S7, each child restraint system manufactured before August 1, 2005, that, in accordance with S5.5.2, is recommended for use by children whose mass is more than 10 kg shallâ
+S5.1.2 Injury criteria. When tested in accordance with S6.1 and with the test dummies specified in S7, each child restraint system manufactured before August 1, 2005, that, in accordance with S5.5.2, is recommended for use by children whose mass is more than 10 kg shall—
 
 (a) Limit the resultant acceleration at the location of the accelerometer mounted in the test dummy head as specified in part 572 such that the expression:
 
@@ -141,9 +141,9 @@ S5.1.4 Back support angle. When a rear-facing child restraint system is tested i
 
 S5.2 Force distribution.
 
-S5.2.1 Minimum head support surfaceâchild restraints other than car beds.
+S5.2.1 Minimum head support surface—child restraints other than car beds.
 
-S5.2.1.1 Except as provided in S5.2.1.2, each child restraint system other than a car bed shall provide restraint against rearward movement of the head of the child (rearward in relation to the child) by means of a continuous seat back which is an integral part of the system and whichâ
+S5.2.1.1 Except as provided in S5.2.1.2, each child restraint system other than a car bed shall provide restraint against rearward movement of the head of the child (rearward in relation to the child) by means of a continuous seat back which is an integral part of the system and which—
 
 (a) Has a height, measured along the system seat back surface for the child in the vertical longitudinal plane passing through the longitudinal centerline of the child restraint systems from the lowest point on the system seating surface that is contacted by the buttocks of the seated dummy, as follows:
 
@@ -153,7 +153,7 @@ S5.2.1.1 Except as provided in S5.2.1.2, each child restraint system other than 
 
 (c) Limits the rearward rotation of the test dummy head so that the angle between the head and torso of the dummy specified in S7. when tested in accordance with S6.1 is not more than 45 degrees greater than the angle between the head and torso after the dummy has been placed in the system in accordance with S6.1.2.3 and before the system is tested in accordance with S6.1.
 
-S5.2.1.2 The applicability of the requirements of S5.2.1.1 to a front-facing child restraint, and the conformance of any child restraint other than a car bed to those requirements, is determined using the largest of the test dummies specified in S7 for use in testing that restraint, provided that the 6-year-old dummy described in subpart I or subpart N of part 572 of this title and the 10-year-old dummy described in subpart T of part 572 of this title, are not used to determine the applicability of or compliance with S5.2.1.1. A front facing child restraint system is not required to comply with S5.2.1.1 if the target point on either side of the dummy's head is below a horizontal plane tangent to the top ofâ
+S5.2.1.2 The applicability of the requirements of S5.2.1.1 to a front-facing child restraint, and the conformance of any child restraint other than a car bed to those requirements, is determined using the largest of the test dummies specified in S7 for use in testing that restraint, provided that the 6-year-old dummy described in subpart I or subpart N of part 572 of this title and the 10-year-old dummy described in subpart T of part 572 of this title, are not used to determine the applicability of or compliance with S5.2.1.1. A front facing child restraint system is not required to comply with S5.2.1.1 if the target point on either side of the dummy's head is below a horizontal plane tangent to the top of—
 
 (a) The standard seat assembly, in the case of an add-on child restraint system, when the dummy is positioned in the system and the system is installed on the assembly in accordance with S6.1.2.
 
@@ -167,9 +167,9 @@ S5.2.2.1(a) The system surface provided for the support of the child's back shal
 
 (c) Each horizontal cross section of each system surface designed to restrain forward movement of the child's torso shall be flat or concave and each vertical longitudinal cross section shall be flat or convex with a radius of curvature of the underlying structure of not less than 2 inches.
 
-S5.2.2.2 Each forward-facing child restraint system shall have no fixed or movable surfaceâ
+S5.2.2.2 Each forward-facing child restraint system shall have no fixed or movable surface—
 
-(a) Directly forward of the dummy and intersected by a horizontal lineâ
+(a) Directly forward of the dummy and intersected by a horizontal line—
 
 (1) Parallel to the SORL, in the case of the add-on child restraint system, or
 
@@ -209,39 +209,39 @@ S5.4 Belts, belt buckles, and belt webbing.
 
 S5.4.1 Performance requirements.
 
-S5.4.1.1 Child restraint systems manufactured before September 1, 2007. The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shallâ
+S5.4.1.1 Child restraint systems manufactured before September 1, 2007. The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shall—
 
-(a) After being subjected to abrasion as specified in S5.1(d) or S5.3(c) of FMVSS 209 (Â§ 571.209), have a breaking strength of not less than 75 percent of the strength of the unabraded webbing when tested in accordance with S5.1(b) of FMVSS 209. A mass of 2.35 Â±.05 kg shall be used in the test procedure in S5.1(d) of FMVSS 209 for webbing, including webbing used to secure a child restraint system to the tether and lower anchorages of a child restraint anchorage system, except that a mass of 1.5 Â±.05 kg shall be used for webbing in pelvic and upper torso restraints of a belt assembly used in a child restraint system. The mass is shown as (B) in Figure 2 of FMVSS 209.
+(a) After being subjected to abrasion as specified in S5.1(d) or S5.3(c) of FMVSS 209 (§ 571.209), have a breaking strength of not less than 75 percent of the strength of the unabraded webbing when tested in accordance with S5.1(b) of FMVSS 209. A mass of 2.35 ±.05 kg shall be used in the test procedure in S5.1(d) of FMVSS 209 for webbing, including webbing used to secure a child restraint system to the tether and lower anchorages of a child restraint anchorage system, except that a mass of 1.5 ±.05 kg shall be used for webbing in pelvic and upper torso restraints of a belt assembly used in a child restraint system. The mass is shown as (B) in Figure 2 of FMVSS 209.
 
-(b) Meet the requirements of S4.2 (e) and (f) of FMVSS No. 209 (Â§ 571.209); and
+(b) Meet the requirements of S4.2 (e) and (f) of FMVSS No. 209 (§ 571.209); and
 
 (c) If contactable by the test dummy torso when the system is tested in accordance with S6.1, have a width of not less than 1
 1/2 inches when measured in accordance with S5.4.1.3.
 
-S5.4.1.2 Child restraint systems manufactured on or after September 1, 2007. The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shallâ
+S5.4.1.2 Child restraint systems manufactured on or after September 1, 2007. The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shall—
 
-(a) Have a minimum breaking strength for new webbing of not less than 15,000 N in the case of webbing used to secure a child restraint system to the vehicle, including the tether and lower anchorages of a child restraint anchorage system, and not less than 11,000 N in the case of the webbing used to secure a child to a child restraint system when tested in accordance with S5.1 of FMVSS No. 209. Each value shall be not less than the 15,000 N and 11,000 N applicable breaking strength requirements, but the median value shall be used for determining the retention of breaking strength in paragraphs (b)(1), (c)(1), and (c)(2) of this section S5.4.1.2. âNew webbingâ means webbing that has not been exposed to abrasion, light or micro-organisms as specified elsewhere in this section.
+(a) Have a minimum breaking strength for new webbing of not less than 15,000 N in the case of webbing used to secure a child restraint system to the vehicle, including the tether and lower anchorages of a child restraint anchorage system, and not less than 11,000 N in the case of the webbing used to secure a child to a child restraint system when tested in accordance with S5.1 of FMVSS No. 209. Each value shall be not less than the 15,000 N and 11,000 N applicable breaking strength requirements, but the median value shall be used for determining the retention of breaking strength in paragraphs (b)(1), (c)(1), and (c)(2) of this section S5.4.1.2. “New webbing” means webbing that has not been exposed to abrasion, light or micro-organisms as specified elsewhere in this section.
 
-(b)(1) After being subjected to abrasion as specified in S5.1(d) or S5.3(c) of FMVSS 209 (Â§ 571.209), have a breaking strength of not less than 75 percent of the new webbing strength, when tested in accordance with S5.1(b) of FMVSS 209.
+(b)(1) After being subjected to abrasion as specified in S5.1(d) or S5.3(c) of FMVSS 209 (§ 571.209), have a breaking strength of not less than 75 percent of the new webbing strength, when tested in accordance with S5.1(b) of FMVSS 209.
 
-(2) A mass of 2.35 Â±.05 kg shall be used in the test procedure in S5.1(d) of FMVSS 209 for webbing, including webbing to secure a child restraint system to the tether and lower anchorages of a child restraint anchorage system, except that a mass of 1.5 Â±.05 kg shall be used for webbing in pelvic and upper torso restraints of a belt assembly used in a child restraint system. The mass is shown as (B) in Figure 2 of FMVSS 209.
+(2) A mass of 2.35 ±.05 kg shall be used in the test procedure in S5.1(d) of FMVSS 209 for webbing, including webbing to secure a child restraint system to the tether and lower anchorages of a child restraint anchorage system, except that a mass of 1.5 ±.05 kg shall be used for webbing in pelvic and upper torso restraints of a belt assembly used in a child restraint system. The mass is shown as (B) in Figure 2 of FMVSS 209.
 
-(c)(1) After exposure to the light of a carbon arc and tested by the procedure specified in S5.1(e) of FMVSS 209 (Â§ 571.209), have a breaking strength of not less than 60 percent of the new webbing, and shall have a color retention not less than No. 2 on the AATCC Gray Scale for Evaluating Change in Color (incorporated by reference, see Â§ 571.5).
+(c)(1) After exposure to the light of a carbon arc and tested by the procedure specified in S5.1(e) of FMVSS 209 (§ 571.209), have a breaking strength of not less than 60 percent of the new webbing, and shall have a color retention not less than No. 2 on the AATCC Gray Scale for Evaluating Change in Color (incorporated by reference, see § 571.5).
 
-(2) After being subjected to micro-organisms and tested by the procedures specified in S5.1(f) of FMVSS 209 (Â§ 571.209), shall have a breaking strength not less than 85 percent of the new webbing.
+(2) After being subjected to micro-organisms and tested by the procedures specified in S5.1(f) of FMVSS 209 (§ 571.209), shall have a breaking strength not less than 85 percent of the new webbing.
 
 (d) If contactable by the test dummy torso when the system is tested in accordance with S6.1, have a width of not less than 1
 1/2 inches when measured in accordance with S5.4.1.3.
 
-S5.4.1.3 Width test procedure. Condition the webbing for 24 hours in an atmosphere of any relative humidity between 48 and 67 percent, and any ambient temperature between 70Â° and 77 Â°F. Measure belt webbing width under a tension of 5 pounds applied lengthwise.
+S5.4.1.3 Width test procedure. Condition the webbing for 24 hours in an atmosphere of any relative humidity between 48 and 67 percent, and any ambient temperature between 70° and 77 °F. Measure belt webbing width under a tension of 5 pounds applied lengthwise.
 
-S5.4.2 Belt buckles and belt adjustment hardware. Each belt buckle and item of belt adjustment hardware used in a child restraint system shall conform to the requirements of S4.3(a) and S4.3(b) of FMVSS No. 209 (Â§ 571.209).
+S5.4.2 Belt buckles and belt adjustment hardware. Each belt buckle and item of belt adjustment hardware used in a child restraint system shall conform to the requirements of S4.3(a) and S4.3(b) of FMVSS No. 209 (§ 571.209).
 
 S5.4.3 Belt Restraint.
 
 S5.4.3.1 General. Each belt that is part of a child restraint system and that is designed to restrain a child using the system shall be adjustable to snugly fit any child whose height and weight are within the ranges recommended in accordance with S5.5.2(f) and who is positioned in the system in accordance with the instructions required by S5.6.
 
-S5.4.3.2 Direct restraint. Except for belt-positioning seats, each belt that is part of a child restraint system and that is designed to restrain a child using the system and to attach the system to the vehicle, and each Type I and lap portion of a Type II vehicle belt that is used to attach the system to the vehicle shall, when tested in accordance with S6.1, impose no loads on the child that result from the mass of the system, orâ
+S5.4.3.2 Direct restraint. Except for belt-positioning seats, each belt that is part of a child restraint system and that is designed to restrain a child using the system and to attach the system to the vehicle, and each Type I and lap portion of a Type II vehicle belt that is used to attach the system to the vehicle shall, when tested in accordance with S6.1, impose no loads on the child that result from the mass of the system, or—
 
 (a) In the case of an add-on child restraint system, from the mass of the seat back of the standard seat assembly specified in S6.1, or
 
@@ -257,7 +257,7 @@ S5.4.3.3 Seating systems. Except for child restraint systems subject to S5.4.3.4
 
 (b) Lower torso restraint in the form of:
 
-(i) A lap belt assembly making an angle between 45Â° and 90Â° with the child restraint seating surface at the lap belt attachment points, or
+(i) A lap belt assembly making an angle between 45° and 90° with the child restraint seating surface at the lap belt attachment points, or
 
 (ii) A fixed or movable surface that complies with S5.2.2.1(c), and
 
@@ -281,9 +281,9 @@ S5.4.3.5 Buckle release. Any buckle in a child restraint system belt assembly de
 
 (b) After the dynamic test of S6.1, when tested in accordance with the appropriate sections of S6.2, release when a force of not more than 71 N is applied, provided, however, that the conformance of any child restraint to this requirement is determined using the largest of the test dummies specified in S7 for use in testing that restraint when the restraint is facing forward, rearward, and/or laterally;
 
-(c) Meet the requirements of S4.3(d)(2) of FMVSS No. 209 (Â§ 571.209), except that the minimum surface area for child restraint buckles designed for push button application shall be 0.6 square inch;
+(c) Meet the requirements of S4.3(d)(2) of FMVSS No. 209 (§ 571.209), except that the minimum surface area for child restraint buckles designed for push button application shall be 0.6 square inch;
 
-(d) Meet the requirements of S4.3(g) of FMVSS No. 209 (Â§ 571.209) when tested in accordance with S5.2(g) of FMVSS No. 209; and
+(d) Meet the requirements of S4.3(g) of FMVSS No. 209 (§ 571.209) when tested in accordance with S5.2(g) of FMVSS No. 209; and
 
 (e) Not release during the testing specified in S6.1.
 
@@ -297,29 +297,29 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (b) The manufacturer's name. A distributor's name may be used instead if the distributor assumes responsibility for all duties and liabilities imposed on the manufacturer with respect to the system by the National Traffic and Motor Vehicle Safety Act, as amended.
 
-(c) The statement: âManufactured in ____,â inserting the month and year of manufacture.
+(c) The statement: “Manufactured in ____,” inserting the month and year of manufacture.
 
 (d) The place of manufacture (city and State, or foreign country). However, if the manufacturer uses the name of the distributor, then it shall state the location (city and State, or foreign country) of the principal offices of the distributor.
 
-(e) The statement: âThis child restraint system conforms to all applicable Federal motor vehicle safety standards.â
+(e) The statement: “This child restraint system conforms to all applicable Federal motor vehicle safety standards.”
 
 (f) For child restraint systems manufactured before June 30, 2025, paragraph (f)(1) of this section applies. For child restraint systems manufactured on or after June 30, 2025, paragraph (f)(2) of this section applies.
 
 (1) One of the following statements, as appropriate, inserting the manufacturer's recommendations for the maximum mass of children who can safely occupy the system, except that booster seats shall not be recommended for children whose masses are less than 13.6 kg. For child restraint systems that can only be used as belt-positioning seats, manufacturers must include the maximum and minimum recommended height, but may delete the reference to weight:
 
-(i) Use only with children who weigh __ pounds (__ kg) or less and whose height is (insert values in English and metric units; use of word âmassâ in label is optional) or less; or
+(i) Use only with children who weigh __ pounds (__ kg) or less and whose height is (insert values in English and metric units; use of word “mass” in label is optional) or less; or
 
-(ii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word âmassâ is optional) and whose height is (insert appropriate values in English and metric units) or less and who are capable of sitting upright alone; or
+(ii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less and who are capable of sitting upright alone; or
 
-(iii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word âmassâ is optional) and whose height is (insert appropriate values in English and metric units) or less.
+(iii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less.
 
-(iv) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word âmassâ is optional) and whose height is between __ and __ (insert appropriate values in English and metric units).
+(iv) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is between __ and __ (insert appropriate values in English and metric units).
 
 (2) For child restraint systems manufactured on or after June 30, 2025: Statements or a combination of statements and pictograms specifying the manufacturer's recommendations for the mass and height ranges (in English and metric units) of children who can safely occupy the system in each applicable mode (rear-facing, forward facing, booster), except manufacturers shall not recommend forward-facing use for child restraint systems with internal harnesses for children of masses less than 12 kg (26.5 lb), and shall not recommend booster seats for children of masses less than 18 kg (40 lb).
 
 (g) The statements specified in paragraphs (1) and (2):
 
-(1) A heading as specified in S5.5.2(k)(3)(i), with the statement âWARNING! DEATH or SERIOUS INJURY can occur,â capitalized as written and followed by bulleted statements in the following order:
+(1) A heading as specified in S5.5.2(k)(3)(i), with the statement “WARNING! DEATH or SERIOUS INJURY can occur,” capitalized as written and followed by bulleted statements in the following order:
 
 (i) As appropriate, the statements required by the following sections will be bulleted and placed after the statement required by 5.5.2(g)(1) in the following order: 5.5.2(k)(1), 5.5.2(h), 5.5.2(j), and 5.5.2(i). For child restraint systems manufactured on or after June 30, 2025, the statements required by 5.5.2(f) and 5.5.2(k)(2) need not be included.
 
@@ -329,7 +329,7 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (iv) Register your child restraint with the manufacturer.
 
-(2) At the manufacturer's option, the phrase âDEATH or SERIOUS INJURY can occurâ in the heading can be on either a white or yellow background.
+(2) At the manufacturer's option, the phrase “DEATH or SERIOUS INJURY can occur” in the heading can be on either a white or yellow background.
 
 (3) More than one label may be used for the required bulleted statements. Multiple labels shall be placed one above the other unless that arrangement is precluded by insufficient space or shape of the child restraint. In that case, multiple labels shall be placed side by side. When using multiple labels, the mandated warnings must be in the correct order when read from top to bottom. If the labels are side-by-side, then the mandated warnings must appear top to bottom of the leftmost label, then top to bottom of the next label to its right, and so on. There shall be no intervening labels and the required heading shall only appear on the first label in the sequence.
 
@@ -353,13 +353,13 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (3) Except as provided in (k)(4) of this section, each child restraint system that can be used in a rear-facing position shall have a label that conforms in content to Figure 10 and to the requirements of S5.5.2(k)(3)(i) through S5.5.2(k)(3)(iii) of this standard permanently affixed to the outer surface of the cushion or padding in or adjacent to the area where a child's head would rest, so that the label is plainly visible and easily readable.
 
-(i) The heading area shall be yellow with the word âwarningâ and the alert symbol in black.
+(i) The heading area shall be yellow with the word “warning” and the alert symbol in black.
 
 (ii) The message area shall be white with black text. The message area shall be no less than 30 square cm.
 
 (iii) The pictogram shall be black with a red circle and slash on a white background. The pictogram shall be no less than 30 mm in diameter.
 
-(4) If a child restraint system is equipped with a device that deactivates the passenger-side air bag in a vehicle when and only when the child restraint is installed in the vehicle and provides a signal, for at least 60 seconds after deactivation, that the air bag is deactivated, the label specified in Figure 10 may include the phrase âunless air bag is offâ after âon front seat with air bag.â
+(4) If a child restraint system is equipped with a device that deactivates the passenger-side air bag in a vehicle when and only when the child restraint is installed in the vehicle and provides a signal, for at least 60 seconds after deactivation, that the air bag is deactivated, the label specified in Figure 10 may include the phrase “unless air bag is off” after “on front seat with air bag.”
 
 (l) An installation diagram showing the child restraint system installed in:
 
@@ -369,7 +369,7 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (3) A seating position equipped with a child restraint anchorage system. For child restraint systems manufactured on or after February 27, 2015, the following paragraphs (l)(3)(i) and (ii) apply, as appropriate.
 
-(i) If the child restraint system is designed to meet the requirements of this standard when installed by the child restraint anchorage system according to S5.3.2, and if the sum of the weight of the child restraint system and the maximum child weight recommended for the child restraint when used with the restraint's internal harness or components is greater than 65 lb when used forward-facing or rear-facing, include the following statement on this installation diagram: âDo not install by this method for a child weighing more than *.â At the manufacturer's option, â*â is the child weight limit in English units in accordance with S5.5.2(l)(3)(i)(A), (B) or (C). The corresponding child weight limit in metric units may also be included in the statement at the manufacturer's option.
+(i) If the child restraint system is designed to meet the requirements of this standard when installed by the child restraint anchorage system according to S5.3.2, and if the sum of the weight of the child restraint system and the maximum child weight recommended for the child restraint when used with the restraint's internal harness or components is greater than 65 lb when used forward-facing or rear-facing, include the following statement on this installation diagram: “Do not install by this method for a child weighing more than *.” At the manufacturer's option, “*” is the child weight limit in English units in accordance with S5.5.2(l)(3)(i)(A), (B) or (C). The corresponding child weight limit in metric units may also be included in the statement at the manufacturer's option.
 
 (A) For forward-facing and rear-facing child restraints, * is less than or equal to 65 minus child restraint weight (pounds).
 
@@ -391,11 +391,11 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (m) One of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a Web site on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in part (ii):
 
-(i) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available (preceding four words are optional) and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.â
+(i) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available (preceding four words are optional) and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.”
 
-(ii) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available [preceding four words are optional], and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number) or register online at (insert Web site for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.â
+(ii) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available [preceding four words are optional], and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number) or register online at (insert Web site for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.”
 
-(n) Child restraint systems, other than belt-positioning seats, harnesses and backless child restraint systems, may be certified as complying with the provisions of S8. Child restraints that are so certified shall be labeled with the statement âThis Restraint is Certified for Use in Motor Vehicles and Aircraft.â Belt-positioning seats, harnesses and backless child restraint systems shall be labeled with the statement âThis Restraint is Not Certified for Use in Aircraft.â The statement required by this paragraph shall be in red lettering and shall be placed after the certification statement required by S5.5.2(e).
+(n) Child restraint systems, other than belt-positioning seats, harnesses and backless child restraint systems, may be certified as complying with the provisions of S8. Child restraints that are so certified shall be labeled with the statement “This Restraint is Certified for Use in Motor Vehicles and Aircraft.” Belt-positioning seats, harnesses and backless child restraint systems shall be labeled with the statement “This Restraint is Not Certified for Use in Aircraft.” The statement required by this paragraph shall be in red lettering and shall be placed after the certification statement required by S5.5.2(e).
 
 S5.5.3 The information specified in S5.5.2(f) through (l) shall be located on the add-on child restraint system so that it is visible when the system is installed as specified in S5.6.1, except that for child restraints with a detachable base, the installation diagrams specified in S5.5.2(l) are required to be visible only when the base alone is installed.
 
@@ -409,25 +409,25 @@ S5.5.5 The information specified in paragraphs (a) through (l) of this section t
 
 (b) The manufacturer's name. A distributor's or dealer's name may be used instead if the distributor or dealer assumes responsibility for all duties and liabilities imposed on the manufacturer with respect to the system by the National Traffic and Motor Vehicle Safety Act, as amended.
 
-(c) The statement: âManufactured in ______,â inserting the month and year of manufacture.
+(c) The statement: “Manufactured in ______,” inserting the month and year of manufacture.
 
 (d) The place of manufacture (city and State, or foreign country). However, if the manufacturer uses the name of the distributor or dealer, then it shall state the location (city and State, or foreign country) of the principal offices of the distributor or dealer.
 
-(e) The statement: âThis child restraint system conforms to all applicable Federal motor vehicle safety standards.â
+(e) The statement: “This child restraint system conforms to all applicable Federal motor vehicle safety standards.”
 
 (f) One of the following statements, inserting the manufacturer's recommendations for the maximum mass of children who can safely occupy the system, except that booster seats shall not be recommended for children whose masses are less than 13.6 kg. For seats that can only be used as belt-positioning seats, manufacturers must include the maximum and minimum recommended height, but may delete the reference to weight:
 
-(1) Use only with children who weigh ____ pounds (____ kg) or less and whose height is (insert values in English and metric units; use of word âmassâ in label is optional) or less; or
+(1) Use only with children who weigh ____ pounds (____ kg) or less and whose height is (insert values in English and metric units; use of word “mass” in label is optional) or less; or
 
-(2) Use only with children who weigh between ____ and ____ pounds (____ and ____ kg) and whose height is (insert appropriate values in English and metric units; use of word âmassâ in label is optional) or less and who are capable of sitting upright alone; or
+(2) Use only with children who weigh between ____ and ____ pounds (____ and ____ kg) and whose height is (insert appropriate values in English and metric units; use of word “mass” in label is optional) or less and who are capable of sitting upright alone; or
 
-(3) Use only with children who weigh between ____ and ____ pounds (____ and ____ kg) and whose height is (insert appropriate values in English and metric units; use of word âmassâ in label is optional) or less.
+(3) Use only with children who weigh between ____ and ____ pounds (____ and ____ kg) and whose height is (insert appropriate values in English and metric units; use of word “mass” in label is optional) or less.
 
-(4) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word âmassâ is optional) and whose height is between ____ and ____ (insert appropriate values in English and metric units).
+(4) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is between ____ and ____ (insert appropriate values in English and metric units).
 
 (g) The heading and statement specified in paragraph (1), and if appropriate, the statements in paragraph (2) and (3). If used, the statements in paragraphs (2) and (3) shall be bulleted and precede the bulleted statement required by paragraph (1) after the heading.
 
-(1) A heading as specified in S5.5.2(k)(3)(i), with the statement âWARNING! DEATH or SERIOUS INJURY can occur,â capitalized as written and followed by the bulleted statement: Follow all instructions on the child restraint and in the vehicle's owner's manual. At the manufacturer's option, the phrase âDEATH or SERIOUS INJURY can occurâ in the heading can be on either a white or yellow background.
+(1) A heading as specified in S5.5.2(k)(3)(i), with the statement “WARNING! DEATH or SERIOUS INJURY can occur,” capitalized as written and followed by the bulleted statement: Follow all instructions on the child restraint and in the vehicle's owner's manual. At the manufacturer's option, the phrase “DEATH or SERIOUS INJURY can occur” in the heading can be on either a white or yellow background.
 
 (2) In the case of each built-in child restraint system which is not intended for use in motor vehicles in certain adjustment positions or under certain circumstances, an appropriate statement of the manufacturers restrictions regarding those positions or circumstances.
 
@@ -441,9 +441,9 @@ S5.5.5 The information specified in paragraphs (a) through (l) of this section t
 
 (k) One of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a Web site on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in part (ii):
 
-(i) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.â
+(i) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.”
 
-(ii) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert telephone number) or register online at (insert Web site for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.â
+(ii) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, e-mail address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert telephone number) or register online at (insert Web site for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to http://www.NHTSA.gov.”
 
 (l) In the case of a built-in belt-positioning seat that uses either the vehicle's Type I or Type II belt systems or both, a statement describing the manufacturer's recommendations for the maximum height and weight of children who can safely occupy the system and how the booster should be used (e.g., with or without shield) with the different vehicle belt systems.
 
@@ -465,11 +465,11 @@ S5.6.1.6 Each add-on child restraint system shall have a location on the restrai
 
 S5.6.1.7 (a) For child restraint systems manufactured before June 30, 2025, one of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a website on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in paragraph S5.6.1.7(a)(2):
 
-(1) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.â
+(1) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.”
 
-(2) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert telephone number) or register online at (insert website for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.â
+(2) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert telephone number) or register online at (insert website for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.”
 
-(b) For child restraint systems manufactured on or after June 30, 2025, the child restraint system shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: âFor recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.â
+(b) For child restraint systems manufactured on or after June 30, 2025, the child restraint system shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: “For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.”
 
 S5.6.1.8 In the case of each child restraint system that can be used in a position so that it is facing the rear of the vehicle, the instructions shall provide a warning against using rear-facing restraints at seating positions equipped with air bags, and shall explain the reasons for, and consequences of not following the warning. The instructions shall also include a statement that owners of vehicles with front passenger side air bags should refer to their vehicle owner's manual for child restraint installation instructions.
 
@@ -485,13 +485,13 @@ S5.6.1.10(a) For instructions for a booster seat that is recommended for use wit
 
 (2) A booster seat which is recommended for use with both a vehicle's Type I and Type II seat belt assemblies is not subject to S5.6.1.10(b)(1) if, when the booster is used with the shield or similar component, the booster will cause the shoulder belt to be located in a position other than in front of the child when the booster is installed. However, the instructions for such a booster shall include a warning to use the booster with the vehicle's lap and shoulder belt system when using the booster without a shield.
 
-(c) The instructions for belt-positioning seats shall include the statement, âThis restraint is not certified for aircraft use,â and the reasons for this statement.
+(c) The instructions for belt-positioning seats shall include the statement, “This restraint is not certified for aircraft use,” and the reasons for this statement.
 
-S5.6.1.11 (a) For harnesses that are manufactured before June 30, 2025, for use on school bus seats, the instructions must include the following statement: âWARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.â The labeling requirement refers to a restrained occupant as: an occupant restrained by any user appropriate vehicle restraint or child restraint system (e.g., lap belt, lap and shoulder belt, booster, child seat, harness . . .).
+S5.6.1.11 (a) For harnesses that are manufactured before June 30, 2025, for use on school bus seats, the instructions must include the following statement: “WARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.” The labeling requirement refers to a restrained occupant as: an occupant restrained by any user appropriate vehicle restraint or child restraint system (e.g., lap belt, lap and shoulder belt, booster, child seat, harness . . .).
 
-(b) For school bus child restraint systems manufactured on or after June 30, 2025, the instructions must include the following statement: âWARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.â (The instruction's reference to a ârestrained occupantâ refers to an occupant restrained by any user-appropriate vehicle restraint or child restraint system (e.g., lap belt, lap and shoulder belt, booster seat or other child restraint system.)
+(b) For school bus child restraint systems manufactured on or after June 30, 2025, the instructions must include the following statement: “WARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.” (The instruction's reference to a “restrained occupant” refers to an occupant restrained by any user-appropriate vehicle restraint or child restraint system (e.g., lap belt, lap and shoulder belt, booster seat or other child restraint system.)
 
-S5.6.1.12 (a) Child restraint systems manufactured from February 27, 2014 to February 26, 2015. The instructions for child restraint systems equipped with an internal harness to restrain the child and with components to attach to a child restraint anchorage system, and for which the combined weight of the child restraint system and the maximum recommended child weight for use with the internal harness exceeds 65 pounds, must include the following statement: âDo not use the lower anchors of the child restraint anchorage system (LATCH system) to attach this child restraint when restraining a child weighing more than â*â [*insert a recommended weight value in English and metric units such that the sum of the recommended weight value and the weight of the child restraint system does not exceed 65 pounds (29.5 kg)] with the internal harness of the child restraint.â
+S5.6.1.12 (a) Child restraint systems manufactured from February 27, 2014 to February 26, 2015. The instructions for child restraint systems equipped with an internal harness to restrain the child and with components to attach to a child restraint anchorage system, and for which the combined weight of the child restraint system and the maximum recommended child weight for use with the internal harness exceeds 65 pounds, must include the following statement: “Do not use the lower anchors of the child restraint anchorage system (LATCH system) to attach this child restraint when restraining a child weighing more than “*” [*insert a recommended weight value in English and metric units such that the sum of the recommended weight value and the weight of the child restraint system does not exceed 65 pounds (29.5 kg)] with the internal harness of the child restraint.”
 
 (b) Child restraint systems manufactured on or after February 27, 2015. If the child restraint is designed to meet the requirements of this standard when installed by the child restraint anchorage system according to S5.3.2, the installation diagram showing the child restraint system installed using a child restraint anchorage system must meet the specifications in S5.5.2(l)(3).
 
@@ -503,11 +503,11 @@ S5.6.2.1 The instructions shall explain the primary consequences of not followin
 
 S5.6.2.2 (a) For child restraint systems manufactured before June 30, 2025, the instructions for each built in child restraint system other than a factory-installed restraint, shall include one of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a website on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in S5.6.2.2(a)(2):
 
-(1) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.â
+(1) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert a U.S. telephone number). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.”
 
-(2) âChild restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert U.S. telephone number) or register online at (insert website for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.â
+(2) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (insert address) or call (insert U.S. telephone number) or register online at (insert website for electronic registration form). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.”
 
-(b) For child restraint systems manufactured on or after June 30, 2025, the instructions for each built-in child restraint system other than a factory-installed restraint shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: âFor recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.â
+(b) For child restraint systems manufactured on or after June 30, 2025, the instructions for each built-in child restraint system other than a factory-installed restraint shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: “For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to www.NHTSA.gov.”
 
 S5.6.2.3. Each built-in child restraint system other than a factory-installed built-in restraint, shall have a location on the restraint for storing the instructions.
 
@@ -517,9 +517,9 @@ S5.6.2.5 In the case of a built-in belt-positioning seat that uses either the ve
 
 S5.6.3 Add-on and built-in child restraint systems. In the case of each child restraint system that has belts designed to restrain children using them and which do not adjust automatically to fit the child, the printed instructions shall include the following statement: A snug strap should not allow any slack. It lies in a relatively straight line without sagging. It does not press on the child's flesh or push the child's body into an unnatural position.
 
-S5.7 Flammability. Each material used in a child restraint system shall conform to the requirements of S4 of FMVSS No. 302 (571.302). In the case of a built-in child restraint system, the requirements of S4 of FMVSS No. 302 shall be met in both the âin-useâ and âstowedâ positions.
+S5.7 Flammability. Each material used in a child restraint system shall conform to the requirements of S4 of FMVSS No. 302 (571.302). In the case of a built-in child restraint system, the requirements of S4 of FMVSS No. 302 shall be met in both the “in-use” and “stowed” positions.
 
-S5.8 Information requirementsâattached registration form and electronic registration form.
+S5.8 Information requirements—attached registration form and electronic registration form.
 
 S5.8.1 Attached registration form. (a) For child restraint systems manufactured before June 30, 2025, each child restraint system, except a factory-installed built-in restraint system, shall have a registration form attached to any surface of the restraint that contacts the dummy when the dummy is positioned in the system in accordance with S6.1.2 of Standard 213.
 
@@ -567,15 +567,15 @@ S5.8.2 Electronic registration form. (a) Each electronic registration form provi
 
 (1) Contain the following statements at the top of the form:
 
-(i) âFOR YOUR CHILD'S CONTINUED SAFETYâ (Displayed in bold type face, caps, and minimum 12 point type.)
+(i) “FOR YOUR CHILD'S CONTINUED SAFETY” (Displayed in bold type face, caps, and minimum 12 point type.)
 
-(ii) âAlthough child restraint systems undergo testing and evaluation, it is possible that a child restraint could be recalled.â (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
+(ii) “Although child restraint systems undergo testing and evaluation, it is possible that a child restraint could be recalled.” (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
 
-(iii) âIn case of a recall, we can reach you only if we have your name and address, so please fill in the registration form to be on our recall list.â (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
+(iii) “In case of a recall, we can reach you only if we have your name and address, so please fill in the registration form to be on our recall list.” (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
 
-(iv) âIn order to properly register your child restraint system, you will need to provide the model number, serial number and date of manufacture. This information is printed on the registration card and can also be found on a white label located on the back of the child restraint system.â (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
+(iv) “In order to properly register your child restraint system, you will need to provide the model number, serial number and date of manufacture. This information is printed on the registration card and can also be found on a white label located on the back of the child restraint system.” (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
 
-(v) âThis registration is only applicable to child restraint systems purchased in the United States.â (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
+(v) “This registration is only applicable to child restraint systems purchased in the United States.” (Displayed in bold typeface, caps and lower case, and minimum 12 point type.)
 
 (2) Provide as required registration fields, space for the purchaser to record the model name or number and date of manufacture (month, year) of the child restraint system, and space for the purchaser to record his or her name and mailing address. At the manufacturer's option, a space is provided for the purchaser to record his or her e-mail address.
 
@@ -599,7 +599,7 @@ S5.8.2.1 Upgraded electronic registration form. (a) Each electronic registration
 
 (d) If a manufacturer printed the electronic address (in form of a website (printed URL)) on the attached registration form provided pursuant to S5.8.1, the electronic registration form shall be accessed directly by the electronic address. Accessing the electronic address (in form of a website (printed URL) that contains the electronic registration form shall not cause additional screens or electronic banners to appear. In addition to the electronic address in form of a website, manufacturers may include a code (such as a QR code or similar) to access the electronic address.
 
-S5.9 Attachment to child restraint anchorage system. (a) Each add-on child restraint system other than a car bed, harness and belt-positioning seat, shall have components permanently attached to the system that enable the restraint to be securely fastened to the lower anchorages of the child restraint anchorage system specified in Standard No. 225 (Â§ 571.225) and depicted in Drawing Package SAS-100-1000, Standard Seat Belt Assembly with Addendum A or in Drawing Package, âNHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2003â (both incorporated by reference, see Â§ 571.5). The components must be attached by use of a tool, such as a screwdriver. In the case of rear-facing child restraints with detachable bases, only the base is required to have the components.
+S5.9 Attachment to child restraint anchorage system. (a) Each add-on child restraint system other than a car bed, harness and belt-positioning seat, shall have components permanently attached to the system that enable the restraint to be securely fastened to the lower anchorages of the child restraint anchorage system specified in Standard No. 225 (§ 571.225) and depicted in Drawing Package SAS-100-1000, Standard Seat Belt Assembly with Addendum A or in Drawing Package, “NHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2003” (both incorporated by reference, see § 571.5). The components must be attached by use of a tool, such as a screwdriver. In the case of rear-facing child restraints with detachable bases, only the base is required to have the components.
 
 (b) In the case of each child restraint system that is manufactured on or after September 1, 1999 and that has components for attaching the system to a tether anchorage, those components shall include a tether hook that conforms to the configuration and geometry specified in Figure 11 of this standard.
 
@@ -621,7 +621,7 @@ S6.1.1 Test conditions.
 
 (i) [Reserved]
 
-(ii) The test device for add-on restraint systems manufactured on or after August 1, 2005 is a standard seat assembly consisting of a simulated vehicle bench seat, with three seating positions, which is depicted in Drawing Package, âNHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2003,â (consisting of drawings and a bill of materials) dated June 3, 2003 (incorporated by reference; see Â§ 571.5). The assembly is mounted on a dynamic test platform so that the center SORL of the seat is parallel to the direction of the test platform travel and so that movement between the base of the assembly and the platform is prevented.
+(ii) The test device for add-on restraint systems manufactured on or after August 1, 2005 is a standard seat assembly consisting of a simulated vehicle bench seat, with three seating positions, which is depicted in Drawing Package, “NHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2003,” (consisting of drawings and a bill of materials) dated June 3, 2003 (incorporated by reference; see § 571.5). The assembly is mounted on a dynamic test platform so that the center SORL of the seat is parallel to the direction of the test platform travel and so that movement between the base of the assembly and the platform is prevented.
 
 (2) The test device for built-in child restraint systems is either the specific vehicle shell or the specific vehicle.
 
@@ -629,7 +629,7 @@ S6.1.1 Test conditions.
 
 (A) The specific vehicle shell, if selected for testing, is mounted on a dynamic test platform so that the longitudinal center line of the shell is parallel to the direction of the test platform travel and so that movement between the base of the shell and the platform is prevented. Adjustable seats are in the adjustment position midway between the forwardmost and rearmost positions, and if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forwardmost and rearmost position, the closest adjustment position to the rear of the midpoint is used. Adjustable seat backs are in the manufacturer's nominal design riding position. If such a position is not specified, the seat back is positioned so that the longitudinal center line of the child test dummy's neck is vertical, and if an instrumented test dummy is used, the accelerometer surfaces in the dummy's head and thorax, as positioned in the vehicle, are horizontal. If the vehicle seat is equipped with adjustable head restraints, each is adjusted to its highest adjustment position.
 
-(B) The platform is instrumented with an accelerometer and data processing system having a frequency response of 60 Hz channel frequency class as specified in SAE Recommended Practice J211/1, (incorporated by reference, see Â§ 571.5). The accelerometer sensitive axis is parallel to the direction of test platform travel.
+(B) The platform is instrumented with an accelerometer and data processing system having a frequency response of 60 Hz channel frequency class as specified in SAE Recommended Practice J211/1, (incorporated by reference, see § 571.5). The accelerometer sensitive axis is parallel to the direction of test platform travel.
 
 (ii) Specific vehicle. For built-in child restraint systems, an alternate test device is the specific vehicle into which the built-in system is fabricated. The following test conditions apply to this alternate test device.
 
@@ -645,19 +645,19 @@ S6.1.1 Test conditions.
 
 (F) Doors are fully closed and latched but not locked.
 
-(G) All instrumentation and data reduction are in conformance with SAE Recommended Practice J211/1 (1995), âInstrumentation for Impact Tests,â (incorporated by reference, see Â§ 571.5).
+(G) All instrumentation and data reduction are in conformance with SAE Recommended Practice J211/1 (1995), “Instrumentation for Impact Tests,” (incorporated by reference, see § 571.5).
 
-(b) The tests are frontal barrier impact simulations of the test platform or frontal barrier crashes of the specific vehicles as specified in S5.1 of Â§ 571.208 and for:
+(b) The tests are frontal barrier impact simulations of the test platform or frontal barrier crashes of the specific vehicles as specified in S5.1 of § 571.208 and for:
 
 (1) Test Configuration I, are at a velocity change of 48 km/h with the acceleration of the test platform entirely within the curve shown in Figure 2 (for child restraints manufactured before August 1, 2005) or in Figure 2A (for child restraints manufactured on or after August 1, 2005), or for the specific vehicle test with the deceleration produced in a 48 km/h frontal barrier crash.
 
 (2) Test Configuration II, are set at a velocity change of 32 km/h with the acceleration of the test platform entirely within the curve shown in Figure 3, or for the specific vehicle test, with the deceleration produced in a 32 km/h frontal barrier crash.
 
-(c) As illustrated in Figures 1A and 1B of this standard, attached to the seat belt anchorage points provided on the standard seat assembly are Type 1 seat belt assemblies in the case of add-on child restraint systems other than belt-positioning seats, or Type 2 seat belt assemblies in the case of belt-positioning seats. These seat belt assemblies meet the requirements of Standard No. 209 (Â§ 571.209) and have webbing with a width of not more than 2 inches, and are attached to the anchorage points without the use of retractors or reels of any kind. As illustrated in Figures 1Aâ and 1Bâ of this standard, attached to the standard seat assembly is a child restraint anchorage system conforming to the specifications of Standard No. 225 (Â§ 571.225), in the case of add-on child restraint systems other than belt-positioning booster seats.
+(c) As illustrated in Figures 1A and 1B of this standard, attached to the seat belt anchorage points provided on the standard seat assembly are Type 1 seat belt assemblies in the case of add-on child restraint systems other than belt-positioning seats, or Type 2 seat belt assemblies in the case of belt-positioning seats. These seat belt assemblies meet the requirements of Standard No. 209 (§ 571.209) and have webbing with a width of not more than 2 inches, and are attached to the anchorage points without the use of retractors or reels of any kind. As illustrated in Figures 1A” and 1B” of this standard, attached to the standard seat assembly is a child restraint anchorage system conforming to the specifications of Standard No. 225 (§ 571.225), in the case of add-on child restraint systems other than belt-positioning booster seats.
 
-(d)(1) When using the test dummy specified in 49 CFR part 572, subparts I and K, performance tests under S6.1 are conducted at any ambient temperature from 19 Â°C to 26 Â°C and at any relative humidity from 10 percent to 70 percent.
+(d)(1) When using the test dummy specified in 49 CFR part 572, subparts I and K, performance tests under S6.1 are conducted at any ambient temperature from 19 °C to 26 °C and at any relative humidity from 10 percent to 70 percent.
 
-(2) When using the test dummies specified in 49 CFR part 572, subparts N, P, R or T, performance tests under S6.1 are conducted at any ambient temperature from 20.6 Â°C to 22.2 Â°C and at any relative humidity from 10 percent to 70 percent.
+(2) When using the test dummies specified in 49 CFR part 572, subparts N, P, R or T, performance tests under S6.1 are conducted at any ambient temperature from 20.6 °C to 22.2 °C and at any relative humidity from 10 percent to 70 percent.
 
 (e) In the case of add-on child restraint systems, the restraint shall meet the requirements of S5 at each of its seat back angle adjustment positions and restraint belt routing positions, when the restraint is oriented in the direction recommended by the manufacturer (e.g., forward, rearward or laterally) pursuant to S5.6, and tested with the test dummy specified in S7.
 
@@ -721,7 +721,7 @@ S6.2 Buckle release test procedure.
 
 The belt assembly buckles used in any child restraint system shall be tested in accordance with S6.2.1 through S6.2.4 inclusive.
 
-S6.2.1 Before conducting the testing specified in S6.1, place the loaded buckle on a hard, flat, horizontal surface. Each belt end of the buckle shall be pre-loaded in the following manner. The anchor end of the buckle shall be loaded with a 9 N force in the direction away from the buckle. In the case of buckles designed to secure a single latch plate, the belt latch plate end of the buckle shall be pre-loaded with a 9 N force in the direction away from the buckle. In the case of buckles designed to secure two or more latch plates, the belt latch plate ends of the buckle shall be loaded equally so that the total load is 9 N, in the direction away from the buckle. For pushbutton-release buckles, the release force shall be applied by a conical surface (cone angle not exceeding 90 degrees). For pushbutton-release mechanisms with a fixed edge (referred to in Figure 7 as âhinged buttonâ), the release force shall be applied at the centerline of the button, 3 mm away from the movable edge directly opposite the fixed edge, and in the direction that produces maximum releasing effect. For pushbutton-release mechanisms with no fixed edge (referred to in Figure 7 as âfloating buttonâ), the release force shall be applied at the center of the release mechanism in the direction that produces the maximum releasing effect. For all other buckle release mechanisms, the force shall be applied on the centerline of the buckle lever or finger tab in the direction that produces the maximum releasing effect. Measure the force required to release the buckle. Figure 7 illustrates the loading for the different buckles and the point where the release force should be applied, and Figure 8 illustrates the conical surface used to apply the release force to pushbutton-release buckles.
+S6.2.1 Before conducting the testing specified in S6.1, place the loaded buckle on a hard, flat, horizontal surface. Each belt end of the buckle shall be pre-loaded in the following manner. The anchor end of the buckle shall be loaded with a 9 N force in the direction away from the buckle. In the case of buckles designed to secure a single latch plate, the belt latch plate end of the buckle shall be pre-loaded with a 9 N force in the direction away from the buckle. In the case of buckles designed to secure two or more latch plates, the belt latch plate ends of the buckle shall be loaded equally so that the total load is 9 N, in the direction away from the buckle. For pushbutton-release buckles, the release force shall be applied by a conical surface (cone angle not exceeding 90 degrees). For pushbutton-release mechanisms with a fixed edge (referred to in Figure 7 as “hinged button”), the release force shall be applied at the centerline of the button, 3 mm away from the movable edge directly opposite the fixed edge, and in the direction that produces maximum releasing effect. For pushbutton-release mechanisms with no fixed edge (referred to in Figure 7 as “floating button”), the release force shall be applied at the center of the release mechanism in the direction that produces the maximum releasing effect. For all other buckle release mechanisms, the force shall be applied on the centerline of the buckle lever or finger tab in the direction that produces the maximum releasing effect. Measure the force required to release the buckle. Figure 7 illustrates the loading for the different buckles and the point where the release force should be applied, and Figure 8 illustrates the conical surface used to apply the release force to pushbutton-release buckles.
 
 S6.2.2 After completion of the testing specified in S6.1 and before the buckle is unlatched, tie a self-adjusting sling to each wrist and ankle of the test dummy in the manner illustrated in Figure 4, without disturbing the belted dummy and the child restraint system.
 
@@ -790,13 +790,13 @@ S9.1 Type of clothing.
 
 (f) Hybrid III 6-year-old dummy (49 CFR part 572, subpart N) and Hybrid III 6-year-old weighted dummy (49 CFR part 572, subpart S), and Hybrid III 10-year-old dummy (49 CFR part 572, subpart T). When used in testing under this standard, the dummies specified in 49 CFR part 572, subparts N and S, are clothed as specified in subpart N and with child or youth size 13 M sneakers weighing not more than 0.45 kg each. When used in testing under this standard, the dummy specified in 49 CFR part 572, subpart T, is clothed as specified in subpart T and with youth size 3 sneakers weighing not more than 0.6 kg each.
 
-S9.2 Preparing clothing. Clothing other than the shoes is machined-washed in 71 Â°C to 82 Â°C and machine-dried at 49 Â°C to 60 Â°C for 30 minutes.
+S9.2 Preparing clothing. Clothing other than the shoes is machined-washed in 71 °C to 82 °C and machine-dried at 49 °C to 60 °C for 30 minutes.
 
 S9.3 Preparing dummies. (Subparts referenced in this section are of Part 572 of this chapter.)
 
-S9.3.1 When using the test dummies conforming to part 572 C, I, or K, prepare the dummies as specified in this paragraph. Before being used in testing under this standard, dummies must be conditioned at any ambient temperature from 19 Â° C to 25.5 Â° C and at any relative humidity from 10 percent to 70 percent, for at least 4 hours.
+S9.3.1 When using the test dummies conforming to part 572 C, I, or K, prepare the dummies as specified in this paragraph. Before being used in testing under this standard, dummies must be conditioned at any ambient temperature from 19 ° C to 25.5 ° C and at any relative humidity from 10 percent to 70 percent, for at least 4 hours.
 
-S9.3.2 When using the test dummies conforming to part 572 subparts N, P, R, S or T, prepare the dummies as specified in this paragraph. Before being used in testing under this standard, dummies must be conditioned at any ambient temperature from 20.6Â° to 22.2Â°C and at any relative humidity from 10 percent to 70 percent, for at least 4 hours.
+S9.3.2 When using the test dummies conforming to part 572 subparts N, P, R, S or T, prepare the dummies as specified in this paragraph. Before being used in testing under this standard, dummies must be conditioned at any ambient temperature from 20.6° to 22.2°C and at any relative humidity from 10 percent to 70 percent, for at least 4 hours.
 
 S10 Positioning the dummy and attaching the system belts.
 
@@ -824,7 +824,7 @@ S10.2.1 Newborn dummy and 12-month-old dummy. Position the test dummy according 
 
 S10.2.2 Other dummies generally. When using: (1) the Hybrid III 3-year-old (part 572, subpart P), Hybrid II 6-year-old (part 572, subpart I), and Hybrid III weighted 6-year-old (part 572, subpart S) in child restraint systems including belt-positioning seats; (2) the Hybrid III 6-year-old (part 572, subpart N) and the Hybrid III 10-year-old (part 572, subpart T) in child restraint systems other than belt-positioning seats, position the dummy in accordance with S5.6.1 or S5.6.2, while conforming to the following:
 
-(a) Holding the test dummy torso upright until it contacts the system's design seating surface, place the test dummy in the seated position within the system with the midsagittal plane of the test dummy headâ
+(a) Holding the test dummy torso upright until it contacts the system's design seating surface, place the test dummy in the seated position within the system with the midsagittal plane of the test dummy head—
 
 (1) Coincident with the center SORL of the standard seating assembly, in the case of the add-on child restraint system, or
 
@@ -844,15 +844,15 @@ S10.2.3 Hybrid III 6-year-old in belt-positioning seats, Hybrid III weighted 6-y
 
 (a) Prepare the dummy. (1) When using the Hybrid III 10-year-old dummy, prepare the dummy according to the following:
 
-(i) Set the dummy's neck angle at the SP-16 setting (âSPâ means standard procedure), see Figure 14a.
+(i) Set the dummy's neck angle at the SP-16 setting (“SP” means standard procedure), see Figure 14a.
 
 (ii) Set the dummy's lumbar angle at the SP-12 setting, see Figure 14b. This is done by aligning the notch on the lumbar adjustment bracket with the SP-12 notch on the lumbar attachment.
 
 (iii) Adjust the limb joints to 1-2 g while the torso is in the seated position.
 
-(iv) Apply double-sided tape to the surface of a lap shield, which is a piece of translucent silicone rubber 3 mm Â±0.5 mm thick (50A durometer) cut to the dimensions specified in Figure 13. Place the lap shield on the pelvis of the dummy. Align the top of the lap shield with the superior anterior edge of the pelvis skin. Attach the lap shield to the dummy.
+(iv) Apply double-sided tape to the surface of a lap shield, which is a piece of translucent silicone rubber 3 mm ±0.5 mm thick (50A durometer) cut to the dimensions specified in Figure 13. Place the lap shield on the pelvis of the dummy. Align the top of the lap shield with the superior anterior edge of the pelvis skin. Attach the lap shield to the dummy.
 
-(v) Apply double-sided tape to one side of a pelvis positioning pad, which is a 125 Ã 95 Ã 20 mm (Â±2 mm tolerance in each of the three dimensions) piece of closed cell (Type 2 according to ASTM D-1056-07) (incorporated by reference; see Â§ 571.5) foam or rubber cut from material having the following specifications: compression resistance between 9 to 17 psi in a compression-deflection test specified in ASTM D-1056-07 (incorporated by reference; see Â§ 571.5), and a density of 7 to 12.5 lb/ft
+(v) Apply double-sided tape to one side of a pelvis positioning pad, which is a 125 × 95 × 20 mm (±2 mm tolerance in each of the three dimensions) piece of closed cell (Type 2 according to ASTM D-1056-07) (incorporated by reference; see § 571.5) foam or rubber cut from material having the following specifications: compression resistance between 9 to 17 psi in a compression-deflection test specified in ASTM D-1056-07 (incorporated by reference; see § 571.5), and a density of 7 to 12.5 lb/ft
 3. Center the long axis of the pad on the posterior of the pelvis with the top edge of the foam aligned with the superior edge of the pelvis skin. Attach the pelvis positioning pad to the dummy.
 
 (vi) Dress and prepare the dummy according to S9.
@@ -861,7 +861,7 @@ S10.2.3 Hybrid III 6-year-old in belt-positioning seats, Hybrid III weighted 6-y
 
 (i) If necessary, adjust the limb joints to 1-2 g while the torso is in the seated position.
 
-(ii) Apply double-sided tape to the surface of a lap shield, which is a piece of translucent silicone rubber 3 mm thick Â±0.5 mm thick (50A durometer) cut to the dimensions specified in Figure 13. Place the lap shield on the pelvis of the dummy. Align the top of the lap shield with the superior anterior edge of the pelvis skin. Attach the lap shield to the dummy.
+(ii) Apply double-sided tape to the surface of a lap shield, which is a piece of translucent silicone rubber 3 mm thick ±0.5 mm thick (50A durometer) cut to the dimensions specified in Figure 13. Place the lap shield on the pelvis of the dummy. Align the top of the lap shield with the superior anterior edge of the pelvis skin. Attach the lap shield to the dummy.
 
 (iii) Dress and prepare the dummy according to S9.
 
@@ -881,7 +881,7 @@ S10.2.3 Hybrid III 6-year-old in belt-positioning seats, Hybrid III weighted 6-y
 
 (4) Rotate the arms of the dummy down so that they are perpendicular to the torso.
 
-(5) Bend the knees until the back of the lower legs are in minimal contact with the belt-positioning seat, standard seat assembly or vehicle seat. Position the legs such that the outer edges of the knees are 180 Â±10 mm apart for the Hybrid III 6-year-old dummy and 220 Â±10 mm apart for the Hybrid III 10-year-old dummy. Position the feet such that the soles are perpendicular to the centerline of the lower legs. In the case of a belt-positioning seat with a back, adjust the dummy so that the shoulders are parallel to a line connecting the shoulder belt guides. This can be accomplished by leaning the torso such that the dummy's head and neck are centered on the backrest components of the belt-positioning seat. In case of a backless child restraint, adjust the dummy's torso so that the head is as close to laterally level as possible.
+(5) Bend the knees until the back of the lower legs are in minimal contact with the belt-positioning seat, standard seat assembly or vehicle seat. Position the legs such that the outer edges of the knees are 180 ±10 mm apart for the Hybrid III 6-year-old dummy and 220 ±10 mm apart for the Hybrid III 10-year-old dummy. Position the feet such that the soles are perpendicular to the centerline of the lower legs. In the case of a belt-positioning seat with a back, adjust the dummy so that the shoulders are parallel to a line connecting the shoulder belt guides. This can be accomplished by leaning the torso such that the dummy's head and neck are centered on the backrest components of the belt-positioning seat. In case of a backless child restraint, adjust the dummy's torso so that the head is as close to laterally level as possible.
 
 (d) Apply the belt. Attach the vehicle belts and tighten them as specified in S6.1.2.
 

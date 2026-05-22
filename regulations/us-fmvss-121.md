@@ -12,14 +12,14 @@ systems:
 - Braking
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.121 Standard No. 121; Air brake systems.
+title: § 571.121 Standard No. 121; Air brake systems.
 vehicle_categories:
 - Heavy truck
 - Bus
 - Trailer
 ---
 
-## Â§ 571.121 Standard No. 121; Air brake systems.
+## § 571.121 Standard No. 121; Air brake systems.
 
 S1. Scope. This standard establishes performance and equipment requirements for braking systems on vehicles equipped with air brake systems.
 
@@ -74,7 +74,7 @@ Heavy hauler trailer means a trailer which has one or more of the following char
 
 (1) Its brake lines are designed to adapt to separation or extension of the vehicle frame; or
 
-(2) Its body consists only of a platform whose primary cargo-carrying surface is not more than 40 inches above the ground in an unloaded condition, except that it may include sides that are designed to be easily removable and a permanent âfront end structureâ as that term is used in Â§ 393.106 of this title.
+(2) Its body consists only of a platform whose primary cargo-carrying surface is not more than 40 inches above the ground in an unloaded condition, except that it may include sides that are designed to be easily removable and a permanent “front end structure” as that term is used in § 393.106 of this title.
 
 Independently controlled wheel means a directly controlled wheel for which the modulator does not adjust the brake actuating forces at any other wheel on the same axle.
 
@@ -104,7 +104,7 @@ S5. Requirements. Each vehicle shall meet the following requirements under the c
 
 S5.1 Required equipment for trucks and buses. Each truck and bus shall have the following equipment:
 
-S5.1.1 Air compressor. An air compressor of sufficient capacity to increase air pressure in the supply and service reservoirs from 85 psi to 100 psi when the engine is operating at the vehicle manufacturer's maximum recommended r.p.m. within a time, in seconds, determined by the quotient (Actual reservoir capacity Ã 25)/Required reservoir capacity.
+S5.1.1 Air compressor. An air compressor of sufficient capacity to increase air pressure in the supply and service reservoirs from 85 psi to 100 psi when the engine is operating at the vehicle manufacturer's maximum recommended r.p.m. within a time, in seconds, determined by the quotient (Actual reservoir capacity × 25)/Required reservoir capacity.
 
 S5.1.1.1 Air compressor cut-in pressure. The air compressor governor cut-in pressure for each bus shall be 85 p.s.i. or greater. The air compressor governor cut-in pressure for each truck shall be 100 p.s.i. or greater.
 
@@ -122,7 +122,7 @@ S5.1.3 Towing vehicle protection system. If the vehicle is intended to tow anoth
 
 S5.1.4 Pressure gauge. A pressure gauge in each service brake system, readily visible to a person seated in the normal driving position, that indicates the service reservoir system air pressure. The accuracy of the gauge shall be within plus or minus 7 percent of the compressor cut-out pressure.
 
-S5.1.5 Warning signal. A signal, other than a pressure gauge, that gives a continuous warning to a person in the normal driving position when the ignition is in the âonâ (ârunâ) position and the air pressure in the service reservoir system is below 60 psi. The signal shall be either visible within the driver's forward field of view, or both audible and visible.
+S5.1.5 Warning signal. A signal, other than a pressure gauge, that gives a continuous warning to a person in the normal driving position when the ignition is in the “on” (“run”) position and the air pressure in the service reservoir system is below 60 psi. The signal shall be either visible within the driver's forward field of view, or both audible and visible.
 
 S5.1.6 Antilock brake system.
 
@@ -132,13 +132,13 @@ S5.1.6.1(a) Each single-unit vehicle manufactured on or after March 1, 1998, sha
 
 S5.1.6.2 Antilock malfunction signal and circuit.
 
-(a) Each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, shall be equipped with an indicator lamp, mounted in front of and in clear view of the driver, which is activated whenever there is a malfunction that affects the generation or transmission of response or control signals in the vehicle's antilock brake system. The indicator lamp shall remain activated as long as such a malfunction exists, whenever the ignition (start) switch is in the âonâ (ârunâ) position, whether or not the engine is running. Each message about the existence of such a malfunction shall be stored in the antilock brake system after the ignition switch is turned to the âoffâ position and automatically reactivated when the ignition switch is again turned to the âonâ (ârunâ) position. The indicator lamp shall also be activated as a check of lamp function whenever the ignition is turned to the âonâ (ârunâ) position. The indicator lamp shall be deactivated at the end of the check of lamp function unless there is a malfunction or a message about a malfunction that existed when the key switch was last turned to the âoffâ position.
+(a) Each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, shall be equipped with an indicator lamp, mounted in front of and in clear view of the driver, which is activated whenever there is a malfunction that affects the generation or transmission of response or control signals in the vehicle's antilock brake system. The indicator lamp shall remain activated as long as such a malfunction exists, whenever the ignition (start) switch is in the “on” (“run”) position, whether or not the engine is running. Each message about the existence of such a malfunction shall be stored in the antilock brake system after the ignition switch is turned to the “off” position and automatically reactivated when the ignition switch is again turned to the “on” (“run”) position. The indicator lamp shall also be activated as a check of lamp function whenever the ignition is turned to the “on” (“run”) position. The indicator lamp shall be deactivated at the end of the check of lamp function unless there is a malfunction or a message about a malfunction that existed when the key switch was last turned to the “off” position.
 
-(b) Each truck tractor manufactured on or after March 1, 2001, and each single unit vehicle manufactured on or after March 1, 2001, that is equipped to tow another air-braked vehicle, shall be equipped with an electrical circuit that is capable of transmitting a malfunction signal from the antilock brake system(s) on one or more towed vehicle(s) (e.g., trailer(s) and dolly(ies)) to the trailer ABS malfunction lamp in the cab of the towing vehicle, and shall have the means for connection of this electrical circuit to the towed vehicle. Each such truck tractor and single unit vehicle shall also be equipped with an indicator lamp, separate from the lamp required in S5.1.6.2(a), mounted in front of and in clear view of the driver, which is activated whenever the malfunction signal circuit described above receives a signal indicating an ABS malfunction on one or more towed vehicle(s). The indicator lamp shall remain activated as long as an ABS malfunction signal from one or more towed vehicle(s) is present, whenever the ignition (start) switch is in the âonâ (ârunâ) position, whether or not the engine is running. The indicator lamp shall also be activated as a check of lamp function whenever the ignition is turned to the âonâ (ârunâ) position. The indicator lamp shall be deactivated at the end of the check of lamp function unless a trailer ABS malfunction signal is present.
+(b) Each truck tractor manufactured on or after March 1, 2001, and each single unit vehicle manufactured on or after March 1, 2001, that is equipped to tow another air-braked vehicle, shall be equipped with an electrical circuit that is capable of transmitting a malfunction signal from the antilock brake system(s) on one or more towed vehicle(s) (e.g., trailer(s) and dolly(ies)) to the trailer ABS malfunction lamp in the cab of the towing vehicle, and shall have the means for connection of this electrical circuit to the towed vehicle. Each such truck tractor and single unit vehicle shall also be equipped with an indicator lamp, separate from the lamp required in S5.1.6.2(a), mounted in front of and in clear view of the driver, which is activated whenever the malfunction signal circuit described above receives a signal indicating an ABS malfunction on one or more towed vehicle(s). The indicator lamp shall remain activated as long as an ABS malfunction signal from one or more towed vehicle(s) is present, whenever the ignition (start) switch is in the “on” (“run”) position, whether or not the engine is running. The indicator lamp shall also be activated as a check of lamp function whenever the ignition is turned to the “on” (“run”) position. The indicator lamp shall be deactivated at the end of the check of lamp function unless a trailer ABS malfunction signal is present.
 
 (c) [Reserved]
 
-S5.1.6.3 Antilock power circuit for towed vehicles. Each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, that is equipped to tow another air-braked vehicle shall be equipped with one or more electrical circuits that provide continuous power to the antilock system on the towed vehicle or vehicles whenever the ignition (start) switch is in the âonâ (ârunâ) position. Such a circuit shall be adequate to enable the antilock system on each towed vehicle to be fully operable.
+S5.1.6.3 Antilock power circuit for towed vehicles. Each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, that is equipped to tow another air-braked vehicle shall be equipped with one or more electrical circuits that provide continuous power to the antilock system on the towed vehicle or vehicles whenever the ignition (start) switch is in the “on” (“run”) position. Such a circuit shall be adequate to enable the antilock system on each towed vehicle to be fully operable.
 
 S5.1.7 Service brake stop lamp switch. A switch that lights the stop lamps when the service brake control is statically depressed to a point that produces a pressure of 6 psi or less in the service brake chambers.
 
@@ -178,11 +178,11 @@ S5.2.3.3 Antilock malfunction indicator.
 
 (a) In addition to the requirements of S5.2.3.2, each trailer and trailer converter dolly shall be equipped with an external antilock malfunction indicator lamp that meets the requirements of S5.2.3.3 (b) through (d).
 
-(b)(1) The lamp shall be designed to conform to the performance requirements of SAE Recommended Practice J592 JUN92 (incorporated by reference, see Â§ 571.5), or SAE Recommended Practice J592e (1972) (incorporated by reference, see Â§ 571.5), for combination, clearance, and side marker lamps, which are marked with a âPCâ or âP2â on the lens or housing, in accordance with SAE Recommended Practice J759 JAN95 (incorporated by reference, see Â§ 571.5).
+(b)(1) The lamp shall be designed to conform to the performance requirements of SAE Recommended Practice J592 JUN92 (incorporated by reference, see § 571.5), or SAE Recommended Practice J592e (1972) (incorporated by reference, see § 571.5), for combination, clearance, and side marker lamps, which are marked with a “PC” or “P2” on the lens or housing, in accordance with SAE Recommended Practice J759 JAN95 (incorporated by reference, see § 571.5).
 
 (2) The color of the lamp shall be yellow.
 
-(3) The letters âABSâ shall be permanently molded, stamped, or otherwise marked or labeled in letters not less than 10 mm (0.4 inches) high on the lamp lens or its housing to identify the function of the lamp. Alternatively, the letters âABSâ may be painted on the trailer body or dolly or a plaque with the letters âABSâ may be affixed to the trailer body or converter dolly; the letters âABSâ shall be not less than 25 mm (1 inch) high. A portion of one of the letters in the alternative identification shall be not more than 150 mm (5.9 inches) from the edge of the lamp lens.
+(3) The letters “ABS” shall be permanently molded, stamped, or otherwise marked or labeled in letters not less than 10 mm (0.4 inches) high on the lamp lens or its housing to identify the function of the lamp. Alternatively, the letters “ABS” may be painted on the trailer body or dolly or a plaque with the letters “ABS” may be affixed to the trailer body or converter dolly; the letters “ABS” shall be not less than 25 mm (1 inch) high. A portion of one of the letters in the alternative identification shall be not more than 150 mm (5.9 inches) from the edge of the lamp lens.
 
 (c) Location requirements. (1) Each trailer that is not a trailer converter dolly shall be equipped with a lamp mounted on a permanent structure on the left side of the trailer as viewed from the rear, no closer than 150 mm (5.9 inches), and no farther than 600 mm (23.6 inches) from the red rear side marker lamp, when measured between the closest edge of the effective projected luminous lens area of each lamp.
 
@@ -192,9 +192,9 @@ S5.2.3.3 Antilock malfunction indicator.
 
 (d) The lamp shall be illuminated whenever power is supplied to the antilock brake system and there is a malfunction that affects the generation or transmission of response or control signals in the trailer's antilock brake system. The lamp shall remain illuminated as long as such a malfunction exists and power is supplied to the antilock brake system. Each message about the existence of such a malfunction shall be stored in the antilock brake system whenever power is no longer supplied to the system. The lamp shall be automatically reactivated when power is again supplied to the trailer's antilock brake system. The lamp shall also be activated as a check of lamp function whenever power is first supplied to the antilock brake system and the vehicle is stationary. The lamp shall be deactivated at the end of the check of lamp function, unless there is a malfunction or a message about a malfunction that existed when power was last supplied to the antilock brake system.
 
-S5.3 Service brakesâroad tests. The service brake system on each truck tractor shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor shall) manufactured before July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, and S5.3.4 when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006 shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each trailer shall, under the conditions of S6, meet the requirements of S5.3.3, S5.3.4, and S5.3.5 when tested without adjustments other than those specified in this standard. However, a heavy hauler trailer and the truck and trailer portions of an auto transporter need not met the requirements of S5.3.
+S5.3 Service brakes—road tests. The service brake system on each truck tractor shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor shall) manufactured before July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, and S5.3.4 when tested without adjustments other than those specified in this standard. The service brake system on each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005 and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006 shall, under the conditions of S6, meet the requirements of S5.3.1, S5.3.3, S5.3.4, and S5.3.6, when tested without adjustments other than those specified in this standard. The service brake system on each trailer shall, under the conditions of S6, meet the requirements of S5.3.3, S5.3.4, and S5.3.5 when tested without adjustments other than those specified in this standard. However, a heavy hauler trailer and the truck and trailer portions of an auto transporter need not met the requirements of S5.3.
 
-S5.3.1 Stopping distanceâtrucks and buses. When stopped six times for each combination of vehicle type, weight, and speed specified in S5.3.1.1, in the sequence specified in Table I, each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, shall stop at least once in not more than the distance specified in Table II, measured from the point at which movement of the service brake control begins, without any part of the vehicle leaving the roadway, and with wheel lockup permitted only as follows:
+S5.3.1 Stopping distance—trucks and buses. When stopped six times for each combination of vehicle type, weight, and speed specified in S5.3.1.1, in the sequence specified in Table I, each truck tractor manufactured on or after March 1, 1997, and each single unit vehicle manufactured on or after March 1, 1998, shall stop at least once in not more than the distance specified in Table II, measured from the point at which movement of the service brake control begins, without any part of the vehicle leaving the roadway, and with wheel lockup permitted only as follows:
 
 (a) At vehicle speeds above 20 mph, any wheel on a nonsteerable axle other than the two rearmost nonliftable, nonsteerable axles may lock up, for any duration. The wheels on the two rearmost nonliftable, nonsteerable axles may lock up according to S5.3.1(b).
 
@@ -226,7 +226,7 @@ S5.3.4.1(a) With an initial service brake chamber air pressure of 95 psi, the ai
 
 (b) For vehicles designed to tow another vehicle equipped with air brakes, the pressure in the 50-cubic-inch test reservoir referred to in S5.3.4.1(a) shall, when measured from the first movement of the service brake control, fall to 5 psi in not more than 0.75 seconds in the case of trucks and buses, 1.10 seconds in the case of trailer converter dollies, and 1.00 seconds in the case of trailers other than trailer converter dollies.
 
-S5.3.5 Control signal pressure differentialâconverter dollies and trailers designed to tow another vehicle equipped with air brakes.
+S5.3.5 Control signal pressure differential—converter dollies and trailers designed to tow another vehicle equipped with air brakes.
 
 (a) For a trailer designed to tow another vehicle equipped with air brakes, the pressure differential between the control line input coupling and a 50-cubic-inch test reservoir attached to the control line output coupling shall not exceed the values specified in S5.3.5(a) (1), (2), and (3) under the conditions specified in S5.3.5(b) (1) through (4):
 
@@ -236,7 +236,7 @@ S5.3.5 Control signal pressure differentialâconverter dollies and trailers 
 
 (3) Not more than a 5-percent differential at any input pressure equal to or greater than 40 psi.
 
-(b) The requirements in S5.3.5(a) shall be metâ
+(b) The requirements in S5.3.5(a) shall be met—
 
 (1) When the pressure at the input coupling is steady, increasing or decreasing;
 
@@ -246,9 +246,9 @@ S5.3.5 Control signal pressure differentialâconverter dollies and trailers 
 
 (4) Operating the trailer test rig in the same manner and under the same conditions as it is operated during testing to measure brake actuation and release times, as specified in S5.3.3 and S5.3.4, except for the installation of the orifice in the control line to restrict airflow rate.
 
-S5.3.6 Stability and control during brakingâtrucks and buses. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each truck tractor shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005, and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006, shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway.
+S5.3.6 Stability and control during braking—trucks and buses. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each truck tractor shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway. When stopped four consecutive times for each combination of weight, speed, and road conditions specified in S5.3.6.1 and S5.3.6.2, each bus and truck (other than a truck tractor) manufactured on or after July 1, 2005, and each bus and truck (other than a truck tractor) manufactured in two or more stages on or after July 1, 2006, shall stop at least three times within the 12-foot lane, without any part of the vehicle leaving the roadway.
 
-S5.3.6.1 Using a full-treadle brake application for the duration of the stop, stop the vehicle from 30 mph or 75 percent of the maximum drive-through speed, whichever is less, on a 500-foot radius curved roadway with a wet level surface having a peak friction coefficient of 0.55 when measured on a straight or curved section of the curved roadway using an ASTM F2493 standard reference tire, in accordance with ASTM E1337-19 (incorporated by reference, see Â§ 571.5), at a speed of 40 mph, with water delivery.
+S5.3.6.1 Using a full-treadle brake application for the duration of the stop, stop the vehicle from 30 mph or 75 percent of the maximum drive-through speed, whichever is less, on a 500-foot radius curved roadway with a wet level surface having a peak friction coefficient of 0.55 when measured on a straight or curved section of the curved roadway using an ASTM F2493 standard reference tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 40 mph, with water delivery.
 
 S5.3.6.2 Stop the vehicle, with the vehicle:
 
@@ -256,15 +256,15 @@ S5.3.6.2 Stop the vehicle, with the vehicle:
 
 (b) At its unloaded weight plus up to 500 pounds (including driver and instrumentation), or at the manufacturer's option, at its unloaded weight plus up to 500 pounds (including driver and instrumentation) and plus not more than an additional 1000 pounds for a roll bar structure on the vehicle, for a truck, bus, or truck tractor.
 
-S5.4 Service brake systemâdynamometer tests. When tested without prior road testing, under the conditions of S6.2, each brake assembly shall meet the requirements of S5.4.1, S5.4.2, and S5.4.3 when tested in sequence and without adjustments other than those specified in the standard. For purposes of the requirements of S5.4.2 and S5.4.3, an average deceleration rate is the change in velocity divided by the deceleration time measured from the onset of deceleration.
+S5.4 Service brake system—dynamometer tests. When tested without prior road testing, under the conditions of S6.2, each brake assembly shall meet the requirements of S5.4.1, S5.4.2, and S5.4.3 when tested in sequence and without adjustments other than those specified in the standard. For purposes of the requirements of S5.4.2 and S5.4.3, an average deceleration rate is the change in velocity divided by the deceleration time measured from the onset of deceleration.
 
 S5.4.1 Brake retardation force. The sum of the retardation forces exerted by the brakes on each vehicle designed to be towed by another vehicle equipped with air brakes shall be such that the quotient sum of the brake retardation forces / sum of GAWR's relative to brake chamber air pressure, and shall have values not less than those shown in Column 1 of Table III. Retardation force shall be determined as follows:
 
-S5.4.1.1 After burnishing the brake pursuant to S6.2.6, retain the brake assembly on the inertia dynamometer. With an initial brake temperature between 125 Â°F. and 200 Â°F., conduct a stop from 50 m.p.h., maintaining brake chamber air pressure at a constant 20 psi. Measure the average torque exerted by the brake from the time the specified air pressure is reached until the brake stops and divide by the static loaded tire radius specified by the tire manufacturer to determine the retardation force. Repeat the procedure six times, increasing the brake chamber air pressure by 10 psi each time. After each stop, rotate the brake drum or disc until the temperature of the brake falls to between 125 Â°F. and 200 Â°F.
+S5.4.1.1 After burnishing the brake pursuant to S6.2.6, retain the brake assembly on the inertia dynamometer. With an initial brake temperature between 125 °F. and 200 °F., conduct a stop from 50 m.p.h., maintaining brake chamber air pressure at a constant 20 psi. Measure the average torque exerted by the brake from the time the specified air pressure is reached until the brake stops and divide by the static loaded tire radius specified by the tire manufacturer to determine the retardation force. Repeat the procedure six times, increasing the brake chamber air pressure by 10 psi each time. After each stop, rotate the brake drum or disc until the temperature of the brake falls to between 125 °F. and 200 °F.
 
 S5.4.2 Brake power. When mounted on an inertia dynamometer, each brake shall be capable of making 10 consecutive decelerations at an average rate of 9 f.p.s.p.s. from 50 m.p.h. to 15 m.p.h., at equal intervals of 72 seconds, and shall be capable of decelerating to a stop from 20 m.p.h. at an average deceleration rate of 14 f.p.s.p.s. 1 minute after the 10th deceleration. The series of decelerations shall be conducted as follows:
 
-S5.4.2.1 With an initial brake temperature between 150 Â°F. and 200 Â°F. for the first brake application, and the drum or disc rotating at a speed equivalent to 50 m.p.h., apply the brake and decelerate at an average deceleration rate of 9 f.p.s.p.s. to 15 m.p.h. Upon reaching 15 m.p.h., accelerate to 50 m.p.h. and apply the brake for a second time 72 seconds after the start of the first application. Repeat the cycle until 10 decelerations have been made. The service line air pressure shall not exceed 100 psi during any deceleration.
+S5.4.2.1 With an initial brake temperature between 150 °F. and 200 °F. for the first brake application, and the drum or disc rotating at a speed equivalent to 50 m.p.h., apply the brake and decelerate at an average deceleration rate of 9 f.p.s.p.s. to 15 m.p.h. Upon reaching 15 m.p.h., accelerate to 50 m.p.h. and apply the brake for a second time 72 seconds after the start of the first application. Repeat the cycle until 10 decelerations have been made. The service line air pressure shall not exceed 100 psi during any deceleration.
 
 S5.4.2.2 One minute after the end of the last deceleration required by S5.4.2.1 and with the drum or disc rotating at a speed of 20 m.p.h., decelerate to a stop at an average deceleration rate of 14 f.p.s.p.s.
 
@@ -283,7 +283,7 @@ S5.5 Antilock system.
 
 S5.5.1 Antilock system malfunction. On a truck tractor manufactured on or after March 1, 1997, that is equipped with an antilock brake system and a single unit vehicle manufactured on or after March 1, 1998, that is equipped with an antilock brake system, a malfunction that affects the generation or transmission of response or control signals of any part of the antilock system shall not increase the actuation and release times of the service brakes.
 
-S5.5.2 Antilock system powerâtrailers. On a trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped with an antilock system that requires electrical power for operation, the power shall be obtained from the towing vehicle through one or more electrical circuits which provide continuous power whenever the powered vehicle's ignition (start) switch is in the âonâ (ârunâ) position. The antilock system shall automatically receive power from the stoplamp circuit, if the primary circuit or circuits are not functioning. Each trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped to tow another air-braked vehicle shall be equipped with one or more circuits which provide continuous power to the antilock system on the vehicle(s) it tows. Such circuits shall be adequate to enable the antilock system on each towed vehicle to be fully operable.
+S5.5.2 Antilock system power—trailers. On a trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped with an antilock system that requires electrical power for operation, the power shall be obtained from the towing vehicle through one or more electrical circuits which provide continuous power whenever the powered vehicle's ignition (start) switch is in the “on” (“run”) position. The antilock system shall automatically receive power from the stoplamp circuit, if the primary circuit or circuits are not functioning. Each trailer (including a trailer converter dolly) manufactured on or after March 1, 1998, that is equipped to tow another air-braked vehicle shall be equipped with one or more circuits which provide continuous power to the antilock system on the vehicle(s) it tows. Such circuits shall be adequate to enable the antilock system on each towed vehicle to be fully operable.
 
 S5.6 Parking brakes.
 
@@ -295,7 +295,7 @@ S5.6 Parking brakes.
 
 (b) At the option of the manufacturer, for vehicles equipped with brake systems which incorporate a common diaphragm, the performance requirements specified in S5.6(a) which must be met with any single leakage-type failure in a common diaphragm may instead be met with the level of leakage-type failure determined in S5.6.7. The election of this option does not affect the performance requirements specified in S5.6(a) which apply with single leakage-type failures other than failures in a common diaphragm.
 
-(c) At the option of the manufacturer, the trailer portion of any agricultural commodity trailer, heavy hauler trailer, or pulpwood trailer may meet the requirements of Â§ 393.43 of this title instead of the requirements of S5.6(a).
+(c) At the option of the manufacturer, the trailer portion of any agricultural commodity trailer, heavy hauler trailer, or pulpwood trailer may meet the requirements of § 393.43 of this title instead of the requirements of S5.6(a).
 
 S5.6.1 Static retardation force. With all other brakes made inoperative, during a static drawbar pull in a forward or rearward direction, the static retardation force produced by the application of the parking brakes shall be:
 
@@ -319,7 +319,7 @@ S5.6.3.3 For trucks and buses, with an initial reservoir system pressure of 100 
 
 S5.6.3.4 The parking brake chamber pressures for S5.6.3.1 and S5.6.3.2 are determined as follows. For trucks and buses, with an initial reservoir system pressure of 100 psi and, if designed to tow a vehicle equipped with air brakes, with a 50 cubic inch test reservoir connected to the supply line coupling, any single leakage type failure, in any other brake system, of a part designed to contain compressed air or brake fluid (consistent with the parenthetical phrase specified in S5.6.3.1), is introduced in the brake system. The parking brake control is actuated and the pressures in the vehicle's parking brake chambers are measured three seconds after that actuation is initiated. For trailers, with the supply line initially pressurized to 100 psi using the supply line portion of the trailer test rig (Figure 1) and, if designed to tow a vehicle equipped with air brakes, with a 50 cubic inch test reservoir connected to the rear supply line coupling, any single leakage type failure, in any other brake system, of a part designed to contain compressed air or brake fluid (consistent with the parenthetical phrase specified in S5.6.3.1), is introduced in the brake system. The front supply line coupling is vented to the atmosphere and the pressures in the vehicle's parking brake chambers are measured three seconds after that venting is initiated.
 
-S5.6.4 Parking brake controlâtrucks and buses. The parking brake control shall be separate from the service brake control. It shall be operable by a person seated in the normal driving position. The control shall be identified in a manner that specifies the method of control operation. The parking brake control shall control the parking brakes of the vehicle and of any air braked vehicle that it is designed to tow.
+S5.6.4 Parking brake control—trucks and buses. The parking brake control shall be separate from the service brake control. It shall be operable by a person seated in the normal driving position. The control shall be identified in a manner that specifies the method of control operation. The parking brake control shall control the parking brakes of the vehicle and of any air braked vehicle that it is designed to tow.
 
 S5.6.5 Release Performance. Each parking brake system shall meet the requirements specified in S5.6.5.1 through S5.6.5.4.
 
@@ -369,7 +369,7 @@ S5.7.1 Emergency brake system performance. When stopped six times for each combi
 
 S5.7.2 Emergency brake system operation. The emergency brake system shall be applied and released, and be capable of modulation, by means of the service brake control.
 
-S5.7.3 Towing vehicle emergency brake requirements. In addition to meeting the other requirements of S5.7, a vehicle designed to tow another vehicle equipped with air brakes shallâ
+S5.7.3 Towing vehicle emergency brake requirements. In addition to meeting the other requirements of S5.7, a vehicle designed to tow another vehicle equipped with air brakes shall—
 
 (a) In the case of a truck-tractor in the unloaded condition and a single unit truck which is capable of towing an airbrake equipped vehicle and is loaded to GVWR, be capable of meeting the requirements of S5.7.1 by operation of the service brake control only, with the trailer air supply line and air control line from the towing vehicle vented to the atmosphere in accordance with S6.1.14;
 
@@ -379,12 +379,12 @@ S5.7.3 Towing vehicle emergency brake requirements. In addition to meeting the o
 
 S5.8 Emergency brakes for trailers. Each trailer shall meet the requirements of S5.8.1 through S5.8.3.
 
-S5.8.1 Emergency braking capability. Each trailer other than a trailer converter dolly shall have a parking brake system that conforms to S5.6 and that applies with the force specified in S5.6.1 or S5.6.2 when the air pressure in the supply line is at atmospheric pressure. A trailer converter dolly shall have, at the manufacturer's optionâ
+S5.8.1 Emergency braking capability. Each trailer other than a trailer converter dolly shall have a parking brake system that conforms to S5.6 and that applies with the force specified in S5.6.1 or S5.6.2 when the air pressure in the supply line is at atmospheric pressure. A trailer converter dolly shall have, at the manufacturer's option—
 
 (a) A parking brake system that conforms to S5.6 and that applies with the force specified in S5.6.1 or S5.6.2 when the air pressure in the supply line is at atmospheric pressure, or
 
 (b) An emergency system that automatically applies the service brakes when the service reservoir is at any pressure above 20 lb/in
-2 and the supply line is at atmospheric pressure. However, any agricultural commodity trailer, heavy hauler trailer, or pulpwood trailer shall meet the requirements of S5.8.1 or, at the option of the manufacturer, the requirements of Â§ 393.43 of this title.
+2 and the supply line is at atmospheric pressure. However, any agricultural commodity trailer, heavy hauler trailer, or pulpwood trailer shall meet the requirements of S5.8.1 or, at the option of the manufacturer, the requirements of § 393.43 of this title.
 
 S5.8.2 Supply line pressure retention. Any single leakage type failure in the service brake system (except for a failure of the supply line, a valve directly connected to the supply line or a component of a brake chamber housing) shall not result in the pressure in the supply line falling below 70 psi, measured at the forward trailer supply coupling. A trailer shall meet the above supply line pressure retention requirement with its brake system connected to the trailer test rig shown in Figure 1, with the reservoirs of the trailer and test rig initially pressurized to 100 psi and the regulator of the trailer test rig set at 100 psi; except that a trailer equipped with an air-applied, mechanically-held parking brake system and not designed to tow a vehicle equipped with air brakes, at the manufacturer's option, may meet the requirements of S5.8.4 rather than those of S5.8.2 and S5.8.3.
 
@@ -394,7 +394,7 @@ S5.8.4 Automatic application of air-applied, mechanically held parking brakes. W
 
 S5.9 Final inspection. Inspect the service brake system for the condition of adjustment and for the brake indicator display in accordance with S5.1.8 and S5.2.2.
 
-S6. Conditions. The requirements of S5 shall be met by a vehicle when it is tested according to the conditions set in this S6, without replacing any brake system part or making any adjustments to the brake system except as specified. Unless otherwise specified, where a range of conditions is specified, the vehicle must be capable of meeting the requirements at all points within the range. On vehicles equipped with automatic brake adjusters, the automatic brake adjusters must remain activated at all times. Compliance of vehicles manufactured in two or more stages may, at the option of the final-stage manufacturer, be demonstrated to comply with this standard by adherence to the instructions of the incomplete vehicle manufacturer provided with the vehicle in accordance with Â§ 568.4(a)(7)(ii) and Â§ 568.5 of title 49 of the Code of Federal Regulations.
+S6. Conditions. The requirements of S5 shall be met by a vehicle when it is tested according to the conditions set in this S6, without replacing any brake system part or making any adjustments to the brake system except as specified. Unless otherwise specified, where a range of conditions is specified, the vehicle must be capable of meeting the requirements at all points within the range. On vehicles equipped with automatic brake adjusters, the automatic brake adjusters must remain activated at all times. Compliance of vehicles manufactured in two or more stages may, at the option of the final-stage manufacturer, be demonstrated to comply with this standard by adherence to the instructions of the incomplete vehicle manufacturer provided with the vehicle in accordance with § 568.4(a)(7)(ii) and § 568.5 of title 49 of the Code of Federal Regulations.
 
 S6.1 Road test conditions.
 
@@ -406,11 +406,11 @@ S6.1.3 Unless otherwise specified, the transmission selector control is in neutr
 
 S6.1.4 All vehicle openings (doors, windows, hood, trunk, cargo doors, etc.) are in a closed position except as required for instrumentation purposes.
 
-S6.1.5 The ambient temperature is between 32 Â°F. and 100 Â°F.
+S6.1.5 The ambient temperature is between 32 °F. and 100 °F.
 
 S6.1.6 The wind velocity is zero.
 
-S6.1.7 Unless otherwise specified, stopping tests are conducted on a 12-foot wide level, straight roadway having a peak friction coefficient of 1.02. For road tests in S5.3, the vehicle is aligned in the center of the roadway at the beginning of a stop. Peak friction coefficient is measured using an ASTM F2493 standard reference test tire in accordance with ASTM E1337-19 (incorporated by reference, see Â§ 571.5), at a speed of 40 mph, without water delivery for the surface with PFC of 1.02, and with water delivery for the surface with PFC of 0.55.
+S6.1.7 Unless otherwise specified, stopping tests are conducted on a 12-foot wide level, straight roadway having a peak friction coefficient of 1.02. For road tests in S5.3, the vehicle is aligned in the center of the roadway at the beginning of a stop. Peak friction coefficient is measured using an ASTM F2493 standard reference test tire in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5), at a speed of 40 mph, without water delivery for the surface with PFC of 1.02, and with water delivery for the surface with PFC of 0.55.
 
 S6.1.8 For vehicles with parking brake systems not utilizing the service brake friction elements, burnish the friction elements of such systems prior to the parking brake test according to the manufacturer's recommendations. For vehicles with parking brake systems utilizing the service brake friction elements, burnish the brakes as follows: With the transmission in the highest gear appropriate for a speed of 40 mph, make 500 snubs between 40 mph and 20 mph at a deceleration rate of 10 f.p.s.p.s., or at the vehicle's maximum deceleration rate if less than 10 f.p.s.p.s. Except where an adjustment is specified, after each brake application accelerate to 40 mph and maintain that speed until making the next brake application at a point 1 mile from the initial point of the previous brake application. If the vehicle cannot attain a speed of 40 mph in 1 mile, continue to accelerate until the vehicle reaches 40 mph or until the vehicle has traveled 1.5 miles from the initial point of the previous brake application, whichever occurs first. Any automatic pressure limiting valve is in use to limit pressure as designed. The brakes may be adjusted up to three times during the burnish procedure, at intervals specified by the vehicle manufacturer, and may be adjusted at the conclusion of the burnishing, in accordance with the vehicle manufacturer's recommendation.
 
@@ -422,7 +422,7 @@ S6.1.10.1 [Reserved]
 
 S6.1.10.2 The center of gravity height of the ballast on the loaded control trailer shall be less than 24 inches above the top of the tractor's fifth wheel.
 
-S6.1.10.3 The control trailer has a single axle with a GAWR of 18,000 pounds and a length, measured from the transverse centerline of the axle to the centerline of the kingpin, of 258 Â±6 inches.
+S6.1.10.3 The control trailer has a single axle with a GAWR of 18,000 pounds and a length, measured from the transverse centerline of the axle to the centerline of the kingpin, of 258 ±6 inches.
 
 S6.1.10.4 The control trailer is loaded so that its axle is loaded at 4,500 pounds and the tractor is loaded to its GVWR, loaded above the kingpin only, with the tractor's fifth wheel adjusted so that the load on each axle measured at the tire-ground interface is most nearly proportional to the axles' respective GAWRs, without exceeding the GAWR of the tractor's axle or axles or control trailer's axle.
 
@@ -436,7 +436,7 @@ The trailer test rig shown in Figure 1 is calibrated in accordance with the cali
 
 S6.1.14 In testing the emergency braking system of towing vehicles under S5.7.3(a), the hose(s) is vented to the atmosphere at any time not less than 1 second and not more than 1 minute before the emergency stop begins, while the vehicle is moving at the speed from which the stop is to be made and any manual control for the towing vehicle protection system is in the position to supply air and brake control signals to the vehicle being towed. No brake application is made from the time the line(s) is vented until the emergency stop begins and no manual operation of the parking brake system or towing vehicle protection system occurs from the time the line(s) is vented until the stop is completed.
 
-S6.1.15 Initial brake temperature. Unless otherwise specified, the initial brake temperature is not less than 150 Â°F and not more than 200 Â°F.
+S6.1.15 Initial brake temperature. Unless otherwise specified, the initial brake temperature is not less than 150 °F and not more than 200 °F.
 
 S6.1.16 Thermocouples.
 
@@ -448,7 +448,7 @@ S6.2 Dynamometer test conditions.
 
 S6.2.1 The dynamometer inertia for each wheel is equivalent to the load on the wheel with the axle loaded to its GAWR. For a vehicle having additional GAWRs specified for operation at reduced speeds, the GAWR used is that specified for a speed of 50 mph, or, at the option of the manufacturer, any speed greater than 50 mph.
 
-S6.2.2 The ambient temperature is between 75 Â°F. and 100 Â°F.
+S6.2.2 The ambient temperature is between 75 °F. and 100 °F.
 
 S6.2.3 Air at ambient temperature is directed uniformly and continuously over the brake drum or disc at a velocity of 2,200 feet per minute.
 
@@ -456,7 +456,7 @@ S6.2.4 The temperature of each brake is measured by a single plug-type thermocou
 
 S6.2.5 The rate of brake drum or disc rotation on a dynamometer corresponding to the rate of rotation on a vehicle at a given speed is calculated by assuming a tire radius equal to the static loaded radius specified by the tire manufacturer.
 
-S6.2.6 Brakes are burnished before testing as follows: place the brake assembly on an inertia dynamometer and adjust the brake as recommended by the vehicle manufacturer. Make 200 stops from 40 mph at a deceleration of 10 f.p.s.p.s., with an initial brake temperature on each stop of not less than 315 Â°F and not more than 385 Â°F. Make 200 additional stops from 40 mph at a deceleration of 10 f.p.s.p.s. with an initial brake temperature on each stop of not less than 450 Â°F and not more than 550 Â°F. The brakes may be adjusted up to three times during the burnish procedure, at intervals specified by the vehicle manufacturer, and may be adjusted at the conclusion of the burnishing, in accordance with the vehicle manufacturer's recommendation.
+S6.2.6 Brakes are burnished before testing as follows: place the brake assembly on an inertia dynamometer and adjust the brake as recommended by the vehicle manufacturer. Make 200 stops from 40 mph at a deceleration of 10 f.p.s.p.s., with an initial brake temperature on each stop of not less than 315 °F and not more than 385 °F. Make 200 additional stops from 40 mph at a deceleration of 10 f.p.s.p.s. with an initial brake temperature on each stop of not less than 450 °F and not more than 550 °F. The brakes may be adjusted up to three times during the burnish procedure, at intervals specified by the vehicle manufacturer, and may be adjusted at the conclusion of the burnishing, in accordance with the vehicle manufacturer's recommendation.
 
 S6.2.7 The brake temperature is increased to a specified level by conducting one or more stops from 40 m.p.h. at a deceleration of 10 f.p.s.p.s. The brake temperature is decreased to a specified level by rotating the drum or disc at a constant 30 m.p.h.
 

@@ -14,13 +14,13 @@ systems:
 - Tell-tales & controls
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.138 Standard No. 138; Tire pressure monitoring systems.
+title: § 571.138 Standard No. 138; Tire pressure monitoring systems.
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-## Â§ 571.138 Standard No. 138; Tire pressure monitoring systems.
+## § 571.138 Standard No. 138; Tire pressure monitoring systems.
 
 S1 Purpose and scope. This standard specifies performance requirements for tire pressure monitoring systems (TPMSs) to warn drivers of significant under-inflation of tires and the resulting safety problems.
 
@@ -32,7 +32,7 @@ Lightly loaded vehicle weight means unloaded vehicle weight plus the weight of a
 
 Tire pressure monitoring system means a system that detects when one or more of a vehicle's tires is significantly under-inflated and illuminates a low tire pressure warning telltale.
 
-Vehicle Placard and Tire inflation pressure label mean the sources of information for the vehicle manufacturer's recommended cold tire inflation pressure pursuant to Â§ 571.110 of this Part.
+Vehicle Placard and Tire inflation pressure label mean the sources of information for the vehicle manufacturer's recommended cold tire inflation pressure pursuant to § 571.110 of this Part.
 
 S4 Requirements.
 
@@ -42,7 +42,7 @@ S4.2 TPMS detection requirements. The tire pressure monitoring system must:
 
 (a) Illuminate a low tire pressure warning telltale not more than 20 minutes after the inflation pressure in one or more of the vehicle's tires, up to a total of four tires, is equal to or less than either the pressure 25 percent below the vehicle manufacturer's recommended cold inflation pressure, or the pressure specified in the 3rd column of Table 1 of this standard for the corresponding type of tire, whichever is higher;
 
-(b) Continue to illuminate the low tire pressure warning telltale as long as the pressure in any of the vehicle's tires is equal to or less than the pressure specified in S4.2(a), and the ignition locking system is in the âOnâ (âRunâ) position, whether or not the engine is running, or until manually reset in accordance with the vehicle manufacturer's instructions.
+(b) Continue to illuminate the low tire pressure warning telltale as long as the pressure in any of the vehicle's tires is equal to or less than the pressure specified in S4.2(a), and the ignition locking system is in the “On” (“Run”) position, whether or not the engine is running, or until manually reset in accordance with the vehicle manufacturer's instructions.
 
 S4.3 Low tire pressure warning telltale.
 
@@ -50,13 +50,13 @@ S4.3.1 Each tire pressure monitoring system must include a low tire pressure war
 
 (a) Is mounted inside the occupant compartment in front of and in clear view of the driver;
 
-(b) Is identified by one of the symbols shown for the âLow Tire Pressureâ Telltale in Table 1 of Standard No. 101 (49 CFR 571.101); and
+(b) Is identified by one of the symbols shown for the “Low Tire Pressure” Telltale in Table 1 of Standard No. 101 (49 CFR 571.101); and
 
 (c) Is illuminated under the conditions specified in S4.2.
 
 S4.3.2 In the case of a telltale that identifies which tire(s) is (are) under-inflated, each tire in the symbol for that telltale must illuminate when the tire it represents is under-inflated to the extent specified in S4.2.
 
-S4.3.3 (a) Except as provided in paragraph (b) of this section, each low tire pressure warning telltale must illuminate as a check of lamp function either when the ignition locking system is activated to the âOnâ (âRunâ) position when the engine is not running, or when the ignition locking system is in a position between âOnâ (âRunâ) and âStartâ that is designated by the manufacturer as a check position.
+S4.3.3 (a) Except as provided in paragraph (b) of this section, each low tire pressure warning telltale must illuminate as a check of lamp function either when the ignition locking system is activated to the “On” (“Run”) position when the engine is not running, or when the ignition locking system is in a position between “On” (“Run”) and “Start” that is designated by the manufacturer as a check position.
 
 (b) The low tire pressure warning telltale need not illuminate when a starter interlock is in operation.
 
@@ -68,11 +68,11 @@ S4.4 TPMS malfunction.
 
 (1) Is mounted inside the occupant compartment in front of and in clear view of the driver;
 
-(2) Is identified by the word âTPMSâ as described under the âTire Pressure Monitoring System Malfunctionâ Telltale in Table 1 of Standard No. 101 (49 CFR 571.101);
+(2) Is identified by the word “TPMS” as described under the “Tire Pressure Monitoring System Malfunction” Telltale in Table 1 of Standard No. 101 (49 CFR 571.101);
 
-(3) Continues to illuminate the TPMS malfunction telltale under the conditions specified in S4.4(a) for as long as the malfunction exists, whenever the ignition locking system is in the âOnâ (âRunâ) position; and
+(3) Continues to illuminate the TPMS malfunction telltale under the conditions specified in S4.4(a) for as long as the malfunction exists, whenever the ignition locking system is in the “On” (“Run”) position; and
 
-(4) (i) Except as provided in paragraph (ii), each dedicated TPMS malfunction telltale must be activated as a check of lamp function either when the ignition locking system is activated to the âOnâ (âRunâ) position when the engine is not running, or when the ignition locking system is in a position between âOnâ (âRunâ) and âStartâ that is designated by the manufacturer as a check position.
+(4) (i) Except as provided in paragraph (ii), each dedicated TPMS malfunction telltale must be activated as a check of lamp function either when the ignition locking system is activated to the “On” (“Run”) position when the engine is not running, or when the ignition locking system is in a position between “On” (“Run”) and “Start” that is designated by the manufacturer as a check position.
 
 (ii) The dedicated TPMS malfunction telltale need not be activated when a starter interlock is in operation.
 
@@ -80,11 +80,11 @@ S4.4 TPMS malfunction.
 
 (1) Meets the requirements of S4.2 and S4.3; and
 
-(2) Flashes for a period of at least 60 seconds but no longer than 90 seconds upon detection of any condition specified in S4.4(a) after the ignition locking system is activated to the âOnâ (âRunâ) position. After each period of prescribed flashing, the telltale must remain continuously illuminated as long as a malfunction exists and the ignition locking system is in the âOnâ (âRunâ) position. This flashing and illumination sequence must be repeated each time the ignition locking system is placed in the âOnâ (âRunâ) position until the situation causing the malfunction has been corrected. Multiple malfunctions occurring during any ignition cycle may, but are not required to, reinitiate the prescribed flashing sequence.
+(2) Flashes for a period of at least 60 seconds but no longer than 90 seconds upon detection of any condition specified in S4.4(a) after the ignition locking system is activated to the “On” (“Run”) position. After each period of prescribed flashing, the telltale must remain continuously illuminated as long as a malfunction exists and the ignition locking system is in the “On” (“Run”) position. This flashing and illumination sequence must be repeated each time the ignition locking system is placed in the “On” (“Run”) position until the situation causing the malfunction has been corrected. Multiple malfunctions occurring during any ignition cycle may, but are not required to, reinitiate the prescribed flashing sequence.
 
 S4.5 Written instructions.
 
-(a) Beginning on September 1, 2006, the owner's manual in each vehicle certified as complying with S4 must provide an image of the Low Tire Pressure Telltale symbol (and an image of the TPMS Malfunction Telltale warning (âTPMSâ), if a dedicated telltale is utilized for this function) with the following statement in English:
+(a) Beginning on September 1, 2006, the owner's manual in each vehicle certified as complying with S4 must provide an image of the Low Tire Pressure Telltale symbol (and an image of the TPMS Malfunction Telltale warning (“TPMS”), if a dedicated telltale is utilized for this function) with the following statement in English:
 
 Each tire, including the spare (if provided), should be checked monthly when cold and inflated to the inflation pressure recommended by the vehicle manufacturer on the vehicle placard or tire inflation pressure label. (If your vehicle has tires of a different size than the size indicated on the vehicle placard or tire inflation pressure label, you should determine the proper tire inflation pressure for those tires.)
 
@@ -92,7 +92,7 @@ As an added safety feature, your vehicle has been equipped with a tire pressure 
 
 Please note that the TPMS is not a substitute for proper tire maintenance, and it is the driver's responsibility to maintain correct tire pressure, even if under-inflation has not reached the level to trigger illumination of the TPMS low tire pressure telltale.
 
-[The following paragraph is required for all vehicles certified to the standard starting on September 1, 2007 and for vehicles voluntarily equipped with a compliant TPMS MIL before that time.] Your vehicle has also been equipped with a TPMS malfunction indicator to indicate when the system is not operating properly. [For vehicles with a dedicated MIL telltale, add the following statement: The TPMS malfunction indicator is provided by a separate telltale, which displays the symbol âTPMSâ when illuminated.] [For vehicles with a combined low tire pressure/MIL telltale, add the following statement: The TPMS malfunction indicator is combined with the low tire pressure telltale. When the system detects a malfunction, the telltale will flash for approximately one minute and then remain continuously illuminated. This sequence will continue upon subsequent vehicle start-ups as long as the malfunction exists.] When the malfunction indicator is illuminated, the system may not be able to detect or signal low tire pressure as intended. TPMS malfunctions may occur for a variety of reasons, including the installation of replacement or alternate tires or wheels on the vehicle that prevent the TPMS from functioning properly. Always check the TPMS malfunction telltale after replacing one or more tires or wheels on your vehicle to ensure that the replacement or alternate tires and wheels allow the TPMS to continue to function properly.
+[The following paragraph is required for all vehicles certified to the standard starting on September 1, 2007 and for vehicles voluntarily equipped with a compliant TPMS MIL before that time.] Your vehicle has also been equipped with a TPMS malfunction indicator to indicate when the system is not operating properly. [For vehicles with a dedicated MIL telltale, add the following statement: The TPMS malfunction indicator is provided by a separate telltale, which displays the symbol “TPMS” when illuminated.] [For vehicles with a combined low tire pressure/MIL telltale, add the following statement: The TPMS malfunction indicator is combined with the low tire pressure telltale. When the system detects a malfunction, the telltale will flash for approximately one minute and then remain continuously illuminated. This sequence will continue upon subsequent vehicle start-ups as long as the malfunction exists.] When the malfunction indicator is illuminated, the system may not be able to detect or signal low tire pressure as intended. TPMS malfunctions may occur for a variety of reasons, including the installation of replacement or alternate tires or wheels on the vehicle that prevent the TPMS from functioning properly. Always check the TPMS malfunction telltale after replacing one or more tires or wheels on your vehicle to ensure that the replacement or alternate tires and wheels allow the TPMS to continue to function properly.
 
 (b) The owner's manual may include additional information about the time for the TPMS telltale(s) to extinguish once the low tire pressure condition or the malfunction is corrected. It may also include additional information about the significance of the low tire pressure warning telltale illuminating, a description of corrective action to be undertaken, whether the tire pressure monitoring system functions with the vehicle's spare tire (if provided), and how to use a reset button, if one is provided.
 
@@ -100,7 +100,7 @@ Please note that the TPMS is not a substitute for proper tire maintenance, and i
 
 S5 Test conditions.
 
-S5.1 Ambient temperature. The ambient temperature is between 0 Â°C (32 Â°F) and 40 Â°C (104 Â°F).
+S5.1 Ambient temperature. The ambient temperature is between 0 °C (32 °F) and 40 °C (104 °F).
 
 S5.2 Road test surface. Compliance testing is conducted on any portion of the Southern Loop of the Treadwear Test Course defined in appendix A and Figure 2 of section 575.104 of this chapter. The road surface is dry during testing.
 
@@ -124,7 +124,7 @@ S6 Test procedures.
 
 (a) Inflate the vehicle's tires to the cold tire inflation pressure(s) provided on the vehicle placard or the tire inflation pressure label.
 
-(b) With the vehicle stationary and the ignition locking system in the âLockâ or âOffâ position, activate the ignition locking system to the âOnâ (âRunâ) position or, where applicable, the appropriate position for the lamp check. The tire pressure monitoring system must perform a check of lamp function for the low tire pressure telltale as specified in paragraph S4.3.3 of this standard. If the vehicle is equipped with a separate TPMS malfunction telltale, the tire pressure monitoring system also must perform a check of lamp function as specified in paragraph S4.4(b)(4) of this standard.
+(b) With the vehicle stationary and the ignition locking system in the “Lock” or “Off” position, activate the ignition locking system to the “On” (“Run”) position or, where applicable, the appropriate position for the lamp check. The tire pressure monitoring system must perform a check of lamp function for the low tire pressure telltale as specified in paragraph S4.3.3 of this standard. If the vehicle is equipped with a separate TPMS malfunction telltale, the tire pressure monitoring system also must perform a check of lamp function as specified in paragraph S4.4(b)(4) of this standard.
 
 (c) If applicable, set or reset the tire pressure monitoring system in accordance with the instructions in the vehicle owner's manual.
 
@@ -146,7 +146,7 @@ S6 Test procedures.
 
 (4) If the low tire pressure telltale did not illuminate, discontinue the test.
 
-(g) If the low tire pressure telltale illuminated during the procedure in paragraph S6(f), deactivate the ignition locking system to the âOffâ or âLockâ position. After a 5-minute period, activate the vehicle's ignition locking system to the âOnâ (âRunâ) position. The telltale must illuminate and remain illuminated as long as the ignition locking system is in the âOnâ (âRunâ) position.
+(g) If the low tire pressure telltale illuminated during the procedure in paragraph S6(f), deactivate the ignition locking system to the “Off” or “Lock” position. After a 5-minute period, activate the vehicle's ignition locking system to the “On” (“Run”) position. The telltale must illuminate and remain illuminated as long as the ignition locking system is in the “On” (“Run”) position.
 
 (h) Keep the vehicle stationary for a period of up to one hour with the engine off.
 
@@ -166,7 +166,7 @@ S6 Test procedures.
 
 (4) If the TPMS malfunction indicator did not illuminate in accordance with paragraph S4.4, as required, discontinue the test.
 
-(m) If the TPMS malfunction indicator illuminated during the procedure in paragraph S6(l), deactivate the ignition locking system to the âOffâ or âLockâ position. After a 5-minute period, activate the vehicle's ignition locking system to the âOnâ (âRunâ) position. The TPMS malfunction indicator must again signal a malfunction and remain illuminated as long as the ignition locking system is in the âOnâ (âRunâ) position.
+(m) If the TPMS malfunction indicator illuminated during the procedure in paragraph S6(l), deactivate the ignition locking system to the “Off” or “Lock” position. After a 5-minute period, activate the vehicle's ignition locking system to the “On” (“Run”) position. The TPMS malfunction indicator must again signal a malfunction and remain illuminated as long as the ignition locking system is in the “On” (“Run”) position.
 
 (n) Restore the TPMS to normal operation. If necessary, drive the vehicle until the telltale has extinguished.
 

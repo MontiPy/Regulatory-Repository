@@ -13,13 +13,13 @@ systems:
 - Tires & wheels
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
+title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-## Â§ 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
+## § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
 
 S1. Scope and purpose. This standard specifies tire dimensions, test requirements, labeling requirements, and defines tire load ratings.
 
@@ -87,7 +87,7 @@ Sidewall means that portion of a tire between the tread and bead.
 
 Sidewall separation means the parting of the rubber compound from the cord material in the sidewall.
 
-Snow tire means a tire that attains a traction index equal to or greater than 112, compared to the ASTM F2493 standard reference test tire when using the snow traction test on the medium pack snow surface as described in ASTM F1805-20 (incorporated by reference, see Â§ 571.5), and that is marked with an Alpine Symbol specified in S5.5(i) on at least one sidewall.
+Snow tire means a tire that attains a traction index equal to or greater than 112, compared to the ASTM F2493 standard reference test tire when using the snow traction test on the medium pack snow surface as described in ASTM F1805-20 (incorporated by reference, see § 571.5), and that is marked with an Alpine Symbol specified in S5.5(i) on at least one sidewall.
 
 Test rim means the rim on which a tire is fitted for testing, and may be any rim listed as appropriate for use with that tire.
 
@@ -165,9 +165,9 @@ S5.5 Tire markings. Except as specified in paragraphs (a) through (i) of S5.5, e
 
 (f) The actual number of plies in the sidewall, and the actual number of plies in the tread area, if different;
 
-(g) The term âtubelessâ or âtube type,â as applicable;
+(g) The term “tubeless” or “tube type,” as applicable;
 
-(h) The word âradial,â if the tire is a radial ply tire; and
+(h) The word “radial,” if the tire is a radial ply tire; and
 
 (i) Alpine Symbol. A tire meeting the definition of a snow tire as defined in paragraph S3 may, at the option of the manufacturer, show the pictograph of a mountain with a snowflake as shown below. If the manufacturer chooses to mark the snow tire with the alpine symbol, the mountain profile must have a minimum base of 15 mm and a minimum height of 15 mm, and must contain three peaks with the middle peak being the tallest. Inside the mountain, there must be a six-sided snowflake having a minimum height of one-half the tallest peak.
 
@@ -188,9 +188,9 @@ S5.5.4 For passenger car tires, if the maximum inflation pressure of a tire is 2
 (b) Each marking of the tire's maximum load rating pursuant to S5.5(d) in kilograms must be followed in parenthesis by the equivalent load rating in pounds, rounded to the nearest whole number.
 
 S5.5.5 If the maximum inflation pressure of a tire is 420 kPa (60 psi), the tire must have permanently molded into or onto both sidewalls, in letters and numerals not less than
-1/2 inch high, the words âInflate to 60 psiâ or âInflate to 420 kPa (60 psi).â On both sidewalls, the words must be positioned in an area between the tire shoulder and the bead of the tire. However, the words must be also positioned on the tire so that they are not obstructed by the flange of any rim designated for use with that tire in this standard or in Standard No. 110 (Â§ 571.110 of this part).
+1/2 inch high, the words “Inflate to 60 psi” or “Inflate to 420 kPa (60 psi).” On both sidewalls, the words must be positioned in an area between the tire shoulder and the bead of the tire. However, the words must be also positioned on the tire so that they are not obstructed by the flange of any rim designated for use with that tire in this standard or in Standard No. 110 (§ 571.110 of this part).
 
-S5.5.6 For LT tires, the maximum permissible inflation pressure shown must be the inflation pressure that corresponds to the maximum load of the tire for the tire size as specified in one of the publications described in S4.1.1.(b) of Â§ 571.139. At the manufacturer's option, the shown inflation pressure may be as much as 10 psi (69 kPa) greater than the inflation pressure corresponding to the specified maximum load.
+S5.5.6 For LT tires, the maximum permissible inflation pressure shown must be the inflation pressure that corresponds to the maximum load of the tire for the tire size as specified in one of the publications described in S4.1.1.(b) of § 571.139. At the manufacturer's option, the shown inflation pressure may be as much as 10 psi (69 kPa) greater than the inflation pressure corresponding to the specified maximum load.
 
 S6. Test procedures, conditions and performance requirements. Each tire shall meet all of the applicable requirements of this section when tested according to the conditions and procedures set forth in S5 and S6.1 through S6.7.
 
@@ -208,7 +208,7 @@ S6.1.1.1.2 For passenger car tires, inflate to the pressure specified in the fol
 
 S6.1.1.1.3 In the case of a LT tire, inflate it to the pressure at maximum load as labeled on sidewall.
 
-S6.1.1.1.4 Condition the assembly at an ambient room temperature of 20 Â°C to 30 Â°C for not less than 24 hours.
+S6.1.1.1.4 Condition the assembly at an ambient room temperature of 20 °C to 30 °C for not less than 24 hours.
 
 S6.1.1.1.5 Readjust the tire pressure to that specified in S6.1.1.1.2.
 
@@ -234,23 +234,23 @@ S6.2.1.1.1 Mount the tire on a test rim and inflate it to the pressure specified
 
 [Table — see source for details]
 
-S6.2.1.1.2 Condition the assembly at 32 to 38 Â°C for not less than 3 hours.
+S6.2.1.1.2 Condition the assembly at 32 to 38 °C for not less than 3 hours.
 
 S6.2.1.1.3 Before or after mounting the assembly on a test axle, readjust the tire pressure to that specified in S6.2.1.1.1.
 
 S6.2.1.2 Test procedure.
 
-S6.2.1.2.1 Press the assembly against the outer face of a test drum with a diameter of 1.70 m Â±1%.
+S6.2.1.2.1 Press the assembly against the outer face of a test drum with a diameter of 1.70 m ±1%.
 
 S6.2.1.2.2 Apply to the test axle a load equal to 85% of the tire's maximum load carrying capacity.
 
 S6.2.1.2.3 Break-in the tire by running it for 2 hours at 80 km/h.
 
-S6.2.1.2.4 Allow tire to cool to 38 Â°C and readjust inflation pressure to applicable pressure in 6.2.1.1.1 immediately before the test.
+S6.2.1.2.4 Allow tire to cool to 38 °C and readjust inflation pressure to applicable pressure in 6.2.1.1.1 immediately before the test.
 
 S6.2.1.2.5 Throughout the test, the inflation pressure is not corrected and the test load is maintained at the value applied in S6.2.1.2.2.
 
-S6.2.1.2.6 During the test, the ambient temperature, measured at a distance of not less than 150 mm and not more than 1 m from the tire, is maintained at not less than 32 Â°C or more than 38 Â°C.
+S6.2.1.2.6 During the test, the ambient temperature, measured at a distance of not less than 150 mm and not more than 1 m from the tire, is maintained at not less than 32 °C or more than 38 °C.
 
 S6.2.1.2.7 The test is conducted, continuously and uninterrupted, for ninety minutes through three thirty-minute consecutive test stages at the following speeds: 140, 150, and 160 km/h.
 
@@ -272,15 +272,15 @@ S6.3.1.1.1 Mount the tire on a test rim and inflate it to the pressure specified
 
 [Table — see source for details]
 
-S6.3.1.1.2 Condition the assembly at 32 to 38 Â°C for not less than 3 hours.
+S6.3.1.1.2 Condition the assembly at 32 to 38 °C for not less than 3 hours.
 
 S6.3.1.1.3 Readjust the pressure to the value specified in S6.3.1.1.1 immediately before testing.
 
 S6.3.1.2 Test Procedure.
 
-S6.3.1.2.1 Mount the assembly on a test axle and press it against the outer face of a smooth wheel having a diameter of 1.70 m Â±1%.
+S6.3.1.2.1 Mount the assembly on a test axle and press it against the outer face of a smooth wheel having a diameter of 1.70 m ±1%.
 
-S6.3.1.2.2 During the test, the ambient temperature, at a distance of not less than 150 mm and not more than 1 m from the tire, is maintained at not less than 32 Â°C or more than 38 Â°C.
+S6.3.1.2.2 During the test, the ambient temperature, at a distance of not less than 150 mm and not more than 1 m from the tire, is maintained at not less than 32 °C or more than 38 °C.
 
 S6.3.1.2.3 Conduct the test, without interruptions, at the test speed of not less than 120 km/h with loads and test periods not less than those shown in the following table. For snow tires, conduct the test at not less than 110 km/h.
 
@@ -306,7 +306,7 @@ S6.4.1.1.1 This test is conducted following completion of the tire endurance tes
 
 [Table — see source for details]
 
-S6.4.1.1.2 After the tire is deflated to the appropriate test pressure in S6.4.1.1.1 at the completion of the endurance test, condition the assembly at 32 to 38 Â°C for not less than 2 hours.
+S6.4.1.1.2 After the tire is deflated to the appropriate test pressure in S6.4.1.1.1 at the completion of the endurance test, condition the assembly at 32 to 38 °C for not less than 2 hours.
 
 S6.4.1.1.3 Before or after mounting the assembly on a test axle, readjust the tire pressure to that specified in S6.4.1.1.1.
 
@@ -320,7 +320,7 @@ S6.4.1.2.3 Apply to the test axle a load equal to 100% of the tire's maximum loa
 
 S6.4.1.2.4 Throughout the test, the inflation pressure is not corrected and the test load is maintained at the initial level.
 
-S6.4.1.2.5 During the test, the ambient temperature, at a distance of not less than 150 mm and not more than 1 m from the tire, is maintained at not less than 32 Â°C or more than 38 Â°C.
+S6.4.1.2.5 During the test, the ambient temperature, at a distance of not less than 150 mm and not more than 1 m from the tire, is maintained at not less than 32 °C or more than 38 °C.
 
 S6.4.1.2.6 Allow the tire to cool for between 15 minutes and 25 minutes. Measure its inflation pressure. Then, deflate the tire, remove it from the test rim, and inspect it for the conditions specified in S6.4.2(a).
 
@@ -332,11 +332,11 @@ S6.4.2 Performance requirements. When the tire is tested in accordance with S6.4
 
 S6.5 Tire strength.
 
-S6.5.1 Tire strength for passenger car tires. Each tire shall comply with the requirements of S5.3 of Â§ 571.109.
+S6.5.1 Tire strength for passenger car tires. Each tire shall comply with the requirements of S5.3 of § 571.109.
 
-S6.5.2 Tire strength for LT tires. Each tire shall comply with the requirements of S7.3 of Â§ 571.119.
+S6.5.2 Tire strength for LT tires. Each tire shall comply with the requirements of S7.3 of § 571.119.
 
-S6.6 Tubeless tire bead unseating resistance. Each tire shall comply with the requirements of S5.2 of Â§ 571.109. For light truck tires, the maximum permissible inflation pressure to be used for the bead unseating test is as follows:
+S6.6 Tubeless tire bead unseating resistance. Each tire shall comply with the requirements of S5.2 of § 571.109. For light truck tires, the maximum permissible inflation pressure to be used for the bead unseating test is as follows:
 
 [Table — see source for details]
 

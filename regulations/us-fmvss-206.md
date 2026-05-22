@@ -12,14 +12,14 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.206 Standard No. 206; Door locks and door retention components.
+title: § 571.206 Standard No. 206; Door locks and door retention components.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
 
-## Â§ 571.206 Standard No. 206; Door locks and door retention components.
+## § 571.206 Standard No. 206; Door locks and door retention components.
 
 S1. Scope and Purpose. This standard specifies requirements for vehicle door locks and door retention components, including latches, hinges, and other supporting means, to minimize the likelihood of occupants being ejected from a vehicle as a result of impact.
 
@@ -65,7 +65,7 @@ Hinge Pin is that portion of the hinge normally interconnecting the body and doo
 
 Latch is a device employed to maintain the door in a closed position relative to the vehicle body with provisions for deliberate release (or operation).
 
-Primary Door Latch is a latch equipped with both a fully latched position and a secondary latched position and is designated as a âprimary door latchâ by the manufacturer.
+Primary Door Latch is a latch equipped with both a fully latched position and a secondary latched position and is designated as a “primary door latch” by the manufacturer.
 
 Primary Door Latch System consists of a primary door latch(s) and a striker(s).
 
@@ -83,7 +83,7 @@ S4. Requirements. The requirements apply to all side and back doors, that lead d
 
 S4.1 Hinged Doors
 
-S4.1.1 Primary and Auxiliary Door Latch Systems. Each hinged door system shall be equipped with at least one primary door latch system. By the time a vehicle is certified a manufacturer shall designate the door latch system(s) that is the âprimary door latch system(s).â Upon certification, a manufacturer may not thereafter alter the designation of a primary door latch system. Each manufacturer shall, upon request from the National Highway Traffic Safety Administration, provide information regarding such designation.
+S4.1.1 Primary and Auxiliary Door Latch Systems. Each hinged door system shall be equipped with at least one primary door latch system. By the time a vehicle is certified a manufacturer shall designate the door latch system(s) that is the “primary door latch system(s).” Upon certification, a manufacturer may not thereafter alter the designation of a primary door latch system. Each manufacturer shall, upon request from the National Highway Traffic Safety Administration, provide information regarding such designation.
 
 S4.1.1.1 Load Test One.
 
@@ -123,7 +123,7 @@ S4.1.2.1 When tested in accordance with S5.1.2, each door hinge system shall:
 
 (2) Not separate when a load of 9,000 N is applied perpendicular to the axis of the hinge pin and parallel to the hinge face plate (transverse load test) such that the hinge plates are not compressed against each other (Load Test Two).
 
-(3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Threeâonly for back doors that open in a vertical direction).
+(3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Three—only for back doors that open in a vertical direction).
 
 S4.1.2.2 If a single hinge within the hinge system is tested instead of the entire hinge system, the hinge must bear a load proportional to the total number of hinges in the hinge system. (For example, an individual hinge in a two-hinge system must be capable of withstanding 50% of the load requirements of the total system.)
 
@@ -227,7 +227,7 @@ S5.1.1.3 Load Test Three Force Application. The test procedures for S4.1.1.3 are
 
 S5.1.1.4 Inertial Force Application. The test procedures for S4.1.1.4 and S4.2.1.3 are as follows:
 
-(a) Calculation. The calculation is performed in accordance with paragraph 6 of SAE Recommended Practice J839 (1991) (incorporated by reference, see Â§ 571.5).
+(a) Calculation. The calculation is performed in accordance with paragraph 6 of SAE Recommended Practice J839 (1991) (incorporated by reference, see § 571.5).
 
 (b) Dynamic Test. The dynamic inertial force application is tested according to the setup specified in paragraph (1) or (2) of this section.
 
@@ -277,7 +277,7 @@ S5.1.1.4 Inertial Force Application. The test procedures for S4.1.1.4 and S4.2.1
 
 (3) Test Operation.
 
-(i) The acceleration device platform shall be instrumented with an accelerometer and data processing system that conforms to the requirements specified in SAE Recommended Practice J211-1 DEC2003 (incorporated by reference, see Â§ 571.5) Channel Class 60. The accelerometer sensitive axis is parallel to the direction of test platform travel.
+(i) The acceleration device platform shall be instrumented with an accelerometer and data processing system that conforms to the requirements specified in SAE Recommended Practice J211-1 DEC2003 (incorporated by reference, see § 571.5) Channel Class 60. The accelerometer sensitive axis is parallel to the direction of test platform travel.
 
 (ii) Maintaining a minimum acceleration level of 30 g for a period of at least 30 ms, while keeping the recorded acceleration within the pulse corridor defined in Table 1 and Figure 6, accelerate the acceleration device in the following directions:
 
@@ -297,13 +297,13 @@ S5.1.2.1 Multiple Hinge Evaluation;
 
 S5.1.2.1.1 Longitudinal Load Test.
 
-(a) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge in the system to the extreme end of another hinge in the system is to be set at 406 mm Â±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin in the longitudinal vehicle direction (see Figure 8).
+(a) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge in the system to the extreme end of another hinge in the system is to be set at 406 mm ±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin in the longitudinal vehicle direction (see Figure 8).
 
 (b) Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Record maximum load achieved.
 
 S5.1.2.1.2 Transverse Load Test
 
-(a) Attach the test fixture shown in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge in the system to the extreme opposite end of another hinge in the system is to be set at 406 mm Â±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin in the transverse vehicle direction (see Figure 8).
+(a) Attach the test fixture shown in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge in the system to the extreme opposite end of another hinge in the system is to be set at 406 mm ±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin in the transverse vehicle direction (see Figure 8).
 
 (b) Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Record maximum load achieved.
 
@@ -311,19 +311,19 @@ S5.1.2.2 Back Door Hinge Load Test
 
 (a) Load Test One
 
-(1) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge system in the system to the extreme opposite end of another hinge system is to be set at 406 Â±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin, and as specified in S4.1.2.1(d)(1). (See Figure 9).
+(1) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge system in the system to the extreme opposite end of another hinge system is to be set at 406 ±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin, and as specified in S4.1.2.1(d)(1). (See Figure 9).
 
 (2) Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
 
 (b) Load Test Two
 
-(1) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge system in the system to the extreme opposite end of another hinge system is to be set at 406 Â±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin, and as specified in S4.1.2.1(d)(2). (See Figure 9).
+(1) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge system in the system to the extreme opposite end of another hinge system is to be set at 406 ±4 mm. The load is to be applied equidistant between the linear center of the engaged portions of the hinge pins and through the centerline of the hinge pin, and as specified in S4.1.2.1(d)(2). (See Figure 9).
 
 (2) Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
 
 (c) Load Test Three
 
-(1) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge system in the system to the extreme opposite end of another hinge system is to be set at 406 Â±4 mm. The load is to be applied through the centerline of the hinge pin, and as specified in S4.1.2.1(d)(3). (See Figure 9).
+(1) Attach the test fixture illustrated in Figure 8 to the mounting provisions of the hinge system. Hinge attitude is configured to simulate vehicle position (door fully closed) relative to the hinge centerline. For test purposes, the distance between the extreme end of one hinge system in the system to the extreme opposite end of another hinge system is to be set at 406 ±4 mm. The load is to be applied through the centerline of the hinge pin, and as specified in S4.1.2.1(d)(3). (See Figure 9).
 
 (2) Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
 
@@ -385,7 +385,7 @@ S5.2.2.3 Test Setup.
 
 (f) For any tested door edge that contains one latch/striker, the following set-up procedures are used:
 
-(1)(i) The force application plate is 150 mm in length, 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm Â±1 mm.
+(1)(i) The force application plate is 150 mm in length, 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm ±1 mm.
 
 (ii) The plates are fixed perpendicular to the force application devices and move in the transverse direction. For alignment purposes, each plate is attached to the application device in a manner that allows for rotation about the vehicle's y-axis. In this manner, the face of each plate remains parallel to the vertical plane which passes through the vehicle's longitudinal centerline.
 
@@ -395,7 +395,7 @@ S5.2.2.3 Test Setup.
 
 (g) For any tested door edge that contains more than one latch/striker, the following setup procedures are used:
 
-(1)(i) The force application plate is 300 mm in length, 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm Â±1 mm.
+(1)(i) The force application plate is 300 mm in length, 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm ±1 mm.
 
 (ii) The plates are fixed perpendicular to the force application devices and move in the transverse direction. For alignment purposes, each plate is attached to the application device in a manner that allows for rotation about the vehicle's y-axis. In this manner, the face of each plate remains parallel to the vertical plane which passes through the vehicle's longitudinal centerline.
 
@@ -405,7 +405,7 @@ S5.2.2.3 Test Setup.
 
 (h) For any tested door edge that does not contain at least one latch/striker, the following set-up procedures are used:
 
-(1)(i) The force application plate is 300 mm in length, 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm Â±1 mm.
+(1)(i) The force application plate is 300 mm in length, 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm ±1 mm.
 
 (ii) The plates are fixed perpendicular to the force application devices and move in the transverse direction. For alignment purposes, each plate is attached to the application device in a manner that allows for rotation about the vehicle's y-axis. In this manner, the face of each plate remains parallel to the vertical plane which passes through the vehicle's longitudinal centerline.
 
@@ -417,7 +417,7 @@ S5.2.2.3 Test Setup.
 
 (j) Place the load application structure so that the force application plates are in contact with the interior of the sliding door.
 
-(k) Apply a preload of 500 N to each actuator and âzeroâ the displacement measuring device.
+(k) Apply a preload of 500 N to each actuator and “zero” the displacement measuring device.
 
 S5.2.2.4 Test Procedure.
 

@@ -154,7 +154,7 @@ def _fetch_section(session: _ECFRSession, issue_date: str, title: int, part: int
     url = f"{API_BASE}/full/{issue_date}/title-{title}.xml"
     resp = session.get_raw(url, params={"part": str(part), "section": section_str})
 
-    xml_text = resp.text
+    xml_text = resp.content.decode("utf-8")
     md_body = _xml_to_md(xml_text)
     title_text = _parse_title_from_head(xml_text) or _make_fallback_title(title, part, section)
 
@@ -175,7 +175,7 @@ def _fetch_part(session: _ECFRSession, issue_date: str, title: int, part: int) -
     url = f"{API_BASE}/full/{issue_date}/title-{title}.xml"
     resp = session.get_raw(url, params={"part": str(part)})
 
-    xml_text = resp.text
+    xml_text = resp.content.decode("utf-8")
     md_body = _xml_to_md(xml_text)
     title_text = _parse_title_from_head(xml_text) or _make_fallback_title(title, part, None)
 

@@ -17,15 +17,15 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: 'Â§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage
-  and electrical shock protection; applicable unless a vehicle is certified to Â§
+title: '§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage
+  and electrical shock protection; applicable unless a vehicle is certified to §
   571.305a.'
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-## Â§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage and electrical shock protection; applicable unless a vehicle is certified to Â§ 571.305a.
+## § 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage and electrical shock protection; applicable unless a vehicle is certified to § 571.305a.
 
 S1. Scope. This standard specifies requirements for limitation of electrolyte spillage and retention of electric energy storage/conversion devices during and after a crash, and protection from harmful electric shock during and after a crash and during normal vehicle operation.
 
@@ -231,9 +231,9 @@ S7.5 Side moving deformable barrier impact test conditions. In addition to the c
 
 S7.6 Electrical isolation test procedure. In addition to the conditions of S7.1 and S7.2, the conditions in S7.6.1 through S7.6.7 apply to the measuring of electrical isolation specified in S5.3(a).
 
-S7.6.1 Prior to any barrier impact test, the energy storage/conversion system is connected to the vehicle's propulsion system, and the vehicle ignition is in the âonâ (propulsion system energized) position. Bypass any devices or systems that do not allow the propulsion system to be energized at the time of impact when the vehicle ignition is on and the vehicle is in neutral. For a high voltage source that has an automatic disconnect that is physically contained within itself, the electrical isolation measurement after the test is made from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train. For a high voltage source that has an automatic disconnect that is not physically contained within itself, the electrical isolation measurement after the test is made from both the high voltage source side of the automatic disconnect and from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train.
+S7.6.1 Prior to any barrier impact test, the energy storage/conversion system is connected to the vehicle's propulsion system, and the vehicle ignition is in the “on” (propulsion system energized) position. Bypass any devices or systems that do not allow the propulsion system to be energized at the time of impact when the vehicle ignition is on and the vehicle is in neutral. For a high voltage source that has an automatic disconnect that is physically contained within itself, the electrical isolation measurement after the test is made from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train. For a high voltage source that has an automatic disconnect that is not physically contained within itself, the electrical isolation measurement after the test is made from both the high voltage source side of the automatic disconnect and from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train.
 
-S7.6.2 The voltmeter used in this test has an internal resistance of at least 10 MÎ©.
+S7.6.2 The voltmeter used in this test has an internal resistance of at least 10 MΩ.
 
 S7.6.3 The voltage(s) is/are measured as shown in Figure 1 and the high voltage source voltage(s) (Vb) is/are recorded. Before any vehicle impact test, Vb is equal to or greater than the nominal operating voltage as specified by the vehicle manufacturer.
 
@@ -241,9 +241,9 @@ S7.6.4 The voltage V1 between the negative side of the high voltage source and t
 
 S7.6.5 The voltage V2 between the positive side of the high voltage source and the electrical chassis is measured as shown in Figure 3.
 
-S7.6.6 If V1 is greater than or equal to V2, insert a known resistance (Ro) between the negative side of the high voltage source and the electrical chassis. With the Ro installed, measure the voltage (V1â²) as shown in Figure 4 between the negative side of the high voltage source and the electrical chassis. Calculate the electrical isolation resistance (Ri) according to the formula shown. Divide Ri (in ohms) by the working voltage of the high voltage source (in volts) to obtain the electrical isolation (in ohms/volt).
+S7.6.6 If V1 is greater than or equal to V2, insert a known resistance (Ro) between the negative side of the high voltage source and the electrical chassis. With the Ro installed, measure the voltage (V1′) as shown in Figure 4 between the negative side of the high voltage source and the electrical chassis. Calculate the electrical isolation resistance (Ri) according to the formula shown. Divide Ri (in ohms) by the working voltage of the high voltage source (in volts) to obtain the electrical isolation (in ohms/volt).
 
-S7.6.7 If V2 is greater than V1, insert a known resistance (Ro) between the positive side of the high voltage source and the electrical chassis. With the Ro installed, measure the voltage (V2â²) as shown in Figure 5 between the positive side of the high voltage source and the electrical chassis. Calculate the electrical isolation resistance (Ri) according to the formula shown. Divide Ri (in ohms) by the working voltage of the high voltage source (in volts) to obtain the electrical isolation (in ohms/volt).
+S7.6.7 If V2 is greater than V1, insert a known resistance (Ro) between the positive side of the high voltage source and the electrical chassis. With the Ro installed, measure the voltage (V2′) as shown in Figure 5 between the positive side of the high voltage source and the electrical chassis. Calculate the electrical isolation resistance (Ri) according to the formula shown. Divide Ri (in ohms) by the working voltage of the high voltage source (in volts) to obtain the electrical isolation (in ohms/volt).
 
 S7.7 Voltage measurement. For the purpose of determining the voltage level of the high voltage source specified in S5.3(b), voltage is measured as shown in Figure 1. Voltage Vb is measured across the two terminals of the voltage source. Voltages V1 and V2 are measured between the source and the electrical chassis. For a high voltage source that has an automatic disconnect that is physically contained within itself, the voltage measurement after the test is made from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train. For a high voltage source that has an automatic disconnect that is not physically contained within itself, the voltage measurement after the test is made from both the high voltage source side of the automatic disconnect and from the side of the automatic disconnect connected to the electric power train or to the rest of the electric power train if the high voltage source is a component contained in the power train.
 
@@ -255,7 +255,7 @@ S8. Test procedure for on-board electrical isolation monitoring system. Prior to
 
 (3) Determine the isolation resistance, Ri, of the high voltage source with the electrical isolation monitoring system using the procedure outlined in S7.6.2 through S7.6.7.
 
-(4) Insert a resistor with resistance Ro equal to or greater than 1/(1/(95 times the working voltage of the high voltage source)â1/Ri) and less than 1/(1/(100 times the working voltage of the high voltage source)â1/Ri) between the positive terminal of the high voltage source and the electrical chassis.
+(4) Insert a resistor with resistance Ro equal to or greater than 1/(1/(95 times the working voltage of the high voltage source)−1/Ri) and less than 1/(1/(100 times the working voltage of the high voltage source)−1/Ri) between the positive terminal of the high voltage source and the electrical chassis.
 
 (5) The electrical isolation monitoring system indicator shall display a warning visible to the driver seated in the driver's designated seating position.
 
@@ -265,7 +265,7 @@ S9.1 Test method to evaluate protection from direct contact with high voltage so
 
 (a) Any parts surrounding the high voltage components are opened, disassembled, or removed without the use of tools.
 
-(b) The selected access probe is inserted into any gaps or openings of the electrical protection barrier with a test force of 10 N Â± 1 N with the IPXXB probe or 1 to 2 N with the IPXXD probe. If the probe partly or fully penetrates into the electrical protection barrier, it is placed in every possible position to evaluate contact with high voltage live parts. If partial or full penetration into the electrical protection barrier occurs with the IPXXB probe, the IPXXB probe shall be placed as follows: starting from the straight position, both joints of the test finger are rotated progressively through an angle of up to 90 degrees with respect to the axis of the adjoining section of the test finger and are placed in every possible position.
+(b) The selected access probe is inserted into any gaps or openings of the electrical protection barrier with a test force of 10 N ± 1 N with the IPXXB probe or 1 to 2 N with the IPXXD probe. If the probe partly or fully penetrates into the electrical protection barrier, it is placed in every possible position to evaluate contact with high voltage live parts. If partial or full penetration into the electrical protection barrier occurs with the IPXXB probe, the IPXXB probe shall be placed as follows: starting from the straight position, both joints of the test finger are rotated progressively through an angle of up to 90 degrees with respect to the axis of the adjoining section of the test finger and are placed in every possible position.
 
 (c) A low voltage supply (of not less than 40 V and not more than 50 V) in series with a suitable lamp may be connected between the access probe and any high voltage live parts inside the electrical protection barrier to indicate whether high voltage live parts were contacted.
 

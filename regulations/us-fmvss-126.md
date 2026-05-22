@@ -14,7 +14,7 @@ systems:
 - ADAS
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.126 Standard No. 126; Electronic stability control systems for light
+title: § 571.126 Standard No. 126; Electronic stability control systems for light
   vehicles.
 vehicle_categories:
 - Passenger car
@@ -22,7 +22,7 @@ vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.126 Standard No. 126; Electronic stability control systems for light vehicles.
+## § 571.126 Standard No. 126; Electronic stability control systems for light vehicles.
 
 S1. Scope. This standard establishes performance and equipment requirements for electronic stability control (ESC) systems.
 
@@ -76,7 +76,7 @@ S5.1.3 Remains capable of activation even if the antilock brake system or tracti
 
 S5.2 Performance Requirements. During each test performed under the test conditions of S6 and the test procedure of S7.9, the vehicle with the ESC system engaged must satisfy the stability criteria of S5.2.1 and S5.2.2, and it must satisfy the responsiveness criterion of S5.2.3 during each of those tests conducted with a commanded steering wheel angle of 5A or greater, where A is the steering wheel angle computed in S7.6.1.
 
-S5.2.1 The yaw rate measured one second after completion of the sine with dwell steering input (time T0 + 1 in Figure 1) must not exceed 35 percent of the first peak value of yaw rate recorded after the steering wheel angle changes sign (between first and second peaks) (Ã¥Peak in Figure 1) during the same test run, and
+S5.2.1 The yaw rate measured one second after completion of the sine with dwell steering input (time T0 + 1 in Figure 1) must not exceed 35 percent of the first peak value of yaw rate recorded after the steering wheel angle changes sign (between first and second peaks) (åPeak in Figure 1) during the same test run, and
 
 S5.2.2 The yaw rate measured 1.75 seconds after completion of the sine with dwell steering input must not exceed 20 percent of the first peak value of yaw rate recorded after the steering wheel angle changes sign (between first and second peaks) during the same test run.
 
@@ -90,11 +90,11 @@ S5.3 ESC Malfunction. The vehicle must be equipped with a telltale that provides
 
 S5.3.1 As of September 1, 2011, must be mounted inside the occupant compartment in front of and in clear view of the driver;
 
-S5.3.2 As of September 1, 2011, must be identified by the symbol shown for âESC Malfunction Telltaleâ or the specified words or abbreviations listed in Table 1 of Standard No. 101 (49 CFR 571.101);
+S5.3.2 As of September 1, 2011, must be identified by the symbol shown for “ESC Malfunction Telltale” or the specified words or abbreviations listed in Table 1 of Standard No. 101 (49 CFR 571.101);
 
-S5.3.3 As of September 1, 2011, except as provided in paragraphs S5.3.4, S5.3.5, S5.3.8, and S5.3.10, the ESC malfunction telltale must illuminate only when a malfunction(s) of the ESC system exists and must remain continuously illuminated under the conditions specified in S5.3 for as long as the malfunction(s) exists (unless the âESC malfunctionâ and âESC Offâ telltales are combined in a two-part telltale and the âESC Offâ telltale is illuminated), whenever the ignition locking system is in the âOnâ (âRunâ) position; and
+S5.3.3 As of September 1, 2011, except as provided in paragraphs S5.3.4, S5.3.5, S5.3.8, and S5.3.10, the ESC malfunction telltale must illuminate only when a malfunction(s) of the ESC system exists and must remain continuously illuminated under the conditions specified in S5.3 for as long as the malfunction(s) exists (unless the “ESC malfunction” and “ESC Off” telltales are combined in a two-part telltale and the “ESC Off” telltale is illuminated), whenever the ignition locking system is in the “On” (“Run”) position; and
 
-S5.3.4 As of September 1, 2011, except as provided in paragraph S5.3.5, each ESC malfunction telltale must be activated as a check of lamp function either when the ignition locking system is turned to the âOnâ (âRunâ) position when the engine is not running, or when the ignition locking system is in a position between âOnâ (âRunâ) and âStartâ that is designated by the manufacturer as a check position.
+S5.3.4 As of September 1, 2011, except as provided in paragraph S5.3.5, each ESC malfunction telltale must be activated as a check of lamp function either when the ignition locking system is turned to the “On” (“Run”) position when the engine is not running, or when the ignition locking system is in a position between “On” (“Run”) and “Start” that is designated by the manufacturer as a check position.
 
 S5.3.5 The ESC malfunction telltale need not be activated when a starter interlock is in operation.
 
@@ -108,39 +108,39 @@ S5.3.9 Prior to September 1, 2011, a disconnection of the power to the ESC elect
 
 S5.3.10 Manufacturers may use the ESC malfunction telltale in a steady-burning mode to indicate malfunctions of ESC-related systems and functions including traction control, trailer stability assist, corner brake control, and other similar functions that use throttle and/or individual wheel torque control to operate and share common components with the ESC system, and may use the ESC malfunction telltale in a flashing mode to indicate operation of these ESC-related systems.
 
-S5.4 ESC Off and Other System Controls. The manufacturer may include an âESC Offâ control whose only purpose is to place the ESC system in a mode or modes in which it will no longer satisfy the performance requirements of S5.2.1, S5.2.2, and S5.2.3. An âESC Offâ control may be combined with other controls in a multi-function control. Manufacturers may also provide controls for other systems that have an ancillary effect upon ESC operation. Controls of either kind that place the ESC system in a mode in which it will no longer satisfy the performance requirements of S5.2.1, S5.2.2, and S5.2.3 are permitted, provided that:
+S5.4 ESC Off and Other System Controls. The manufacturer may include an “ESC Off” control whose only purpose is to place the ESC system in a mode or modes in which it will no longer satisfy the performance requirements of S5.2.1, S5.2.2, and S5.2.3. An “ESC Off” control may be combined with other controls in a multi-function control. Manufacturers may also provide controls for other systems that have an ancillary effect upon ESC operation. Controls of either kind that place the ESC system in a mode in which it will no longer satisfy the performance requirements of S5.2.1, S5.2.2, and S5.2.3 are permitted, provided that:
 
 S5.4.1 The vehicle's ESC system must always return to the manufacturer's original default ESC mode that satisfies the requirements of S5.1 and S5.2 at the initiation of each new ignition cycle, regardless of what ESC mode the driver had previously selected, unless (a) the vehicle is in a low-range four-wheel drive configuration selected by the driver on the previous ignition cycle that is designed for low-speed, off-road driving, or (b) the vehicle is in a four-wheel drive configuration selected by the driver on the previous ignition cycle that is designed for operation at higher speeds on snow-, sand-, or dirt-packed roads and that has the effect of locking the drive gears at the front and rear axles together, provided that the vehicle meets the stability performance requirements of S5.2.1 and S5.2.2 in this mode.
 
 S5.4.2 In addition to the requirements of S5.4.1, if the vehicle's ESC system has more than one ESC mode that satisfies the requirements of S5.1 and S5.2 within the drive configuration selected for the previous ignition cycle, the system must return to the manufacturer's original default ESC mode.
 
-S5.4.3 As of September 1, 2011, a control whose only purpose is to place the ESC system in a mode or modes in which it will no longer satisfy the performance requirements of S5.2.1, S5.2.2, and S5.2.3 must be identified by the symbol shown for âESC Offâ in Table 1 of Standard No. 101 (49 CFR 571.101), or the text, âESC Offâ as listed under âWord(s) or Abbreviationsâ in Table 1 of Standard No. 101 (49 CFR 571.101).
+S5.4.3 As of September 1, 2011, a control whose only purpose is to place the ESC system in a mode or modes in which it will no longer satisfy the performance requirements of S5.2.1, S5.2.2, and S5.2.3 must be identified by the symbol shown for “ESC Off” in Table 1 of Standard No. 101 (49 CFR 571.101), or the text, “ESC Off” as listed under “Word(s) or Abbreviations” in Table 1 of Standard No. 101 (49 CFR 571.101).
 
-S5.4.4 A control for another system that has the ancillary effect of placing the ESC system in a mode in which it no longer satisfies the performance requirements of S5.2.1, S5.2.2, and S5.2.3 need not be identified by the âESC Offâ identifiers in Table 1 of Standard No. 101 (49 CFR 571.101), but the ESC status must be identified by the âESC Offâ telltale in accordance with S5.5, as of September 1, 2011, except if the vehicle is in a 4-wheel drive high gear configuration that has the effect of locking the drive gears at the front and rear axles together provided the vehicle meets the stability performance criteria of S5.2.1 and S5.2.2.
+S5.4.4 A control for another system that has the ancillary effect of placing the ESC system in a mode in which it no longer satisfies the performance requirements of S5.2.1, S5.2.2, and S5.2.3 need not be identified by the “ESC Off” identifiers in Table 1 of Standard No. 101 (49 CFR 571.101), but the ESC status must be identified by the “ESC Off” telltale in accordance with S5.5, as of September 1, 2011, except if the vehicle is in a 4-wheel drive high gear configuration that has the effect of locking the drive gears at the front and rear axles together provided the vehicle meets the stability performance criteria of S5.2.1 and S5.2.2.
 
 S5.5 ESC Off Telltale
 
 S5.5.1 Except as provided in S5.5.10, the vehicle manufacturer must provide a telltale indicating that the vehicle has been put into a mode that renders it unable to satisfy the requirements of S5.2.1, S5.2.2 and S5.2.3, if such a mode is provided.
 
-S5.5.2 As of September 1, 2011, the âESC Offâ telltale must be identified by the symbol shown for âESC Offâ in Table 1 of Standard No. 101 (49 CFR 571.101) or the text, âESC Offâ as listed under âWord(s) or Abbreviationsâ in Table 1 of Standard No. 101 (49 CFR 571.101).
+S5.5.2 As of September 1, 2011, the “ESC Off” telltale must be identified by the symbol shown for “ESC Off” in Table 1 of Standard No. 101 (49 CFR 571.101) or the text, “ESC Off” as listed under “Word(s) or Abbreviations” in Table 1 of Standard No. 101 (49 CFR 571.101).
 
-S5.5.3 As of September 1, 2011, the âESC Offâ telltale must be mounted inside the occupant compartment in front of and in clear view of the driver.
+S5.5.3 As of September 1, 2011, the “ESC Off” telltale must be mounted inside the occupant compartment in front of and in clear view of the driver.
 
-S5.5.4 Except as provided in paragraph S5.4.4, the âESC Offâ telltale must remain continuously illuminated for as long as the ESC is in a mode that renders it unable to satisfy the requirements of S5.2.1, S5.2.2, and S5.2.3, and
+S5.5.4 Except as provided in paragraph S5.4.4, the “ESC Off” telltale must remain continuously illuminated for as long as the ESC is in a mode that renders it unable to satisfy the requirements of S5.2.1, S5.2.2, and S5.2.3, and
 
-S5.5.5 Notwithstanding S5.3.1(e) of 49 CFR 571.101, the vehicle manufacturer may use the âESC Offâ telltale to indicate an ESC level of function other than the fully functional default mode even if the vehicle would meet S5.2.1, S5.2.2 and S5.2.3 at that level of ESC function.
+S5.5.5 Notwithstanding S5.3.1(e) of 49 CFR 571.101, the vehicle manufacturer may use the “ESC Off” telltale to indicate an ESC level of function other than the fully functional default mode even if the vehicle would meet S5.2.1, S5.2.2 and S5.2.3 at that level of ESC function.
 
-S5.5.6 As of September 1, 2011, except as provided in paragraph S5.5.7 and S5.5.8, each âESC Offâ telltale must be activated as a check of lamp function either when the ignition locking system is turned to the âOnâ (âRunâ) position when the engine is not running, or when the ignition locking system is in a position between âOnâ (âRunâ) and âStartâ that is designated by the manufacturer as a check position.
+S5.5.6 As of September 1, 2011, except as provided in paragraph S5.5.7 and S5.5.8, each “ESC Off” telltale must be activated as a check of lamp function either when the ignition locking system is turned to the “On” (“Run”) position when the engine is not running, or when the ignition locking system is in a position between “On” (“Run”) and “Start” that is designated by the manufacturer as a check position.
 
-S5.5.7 The âESC Offâ telltale need not be activated when a starter interlock is in operation.
+S5.5.7 The “ESC Off” telltale need not be activated when a starter interlock is in operation.
 
 S5.5.8 The requirement S5.5.6 does not apply to telltales shown in a common space.
 
-S5.5.9 The âESC Offâ telltale must extinguish after the ESC system has been returned to its fully functional default mode.
+S5.5.9 The “ESC Off” telltale must extinguish after the ESC system has been returned to its fully functional default mode.
 
-S5.5.10 The âESC Offâ telltale need not illuminate when the vehicle is in a 4-wheel drive high gear locked differential configuration that has the effect of locking the drive gears at the front and rear axles together provided the vehicle meets the stability performance requirements of S5.2.1 and S5.2.2.
+S5.5.10 The “ESC Off” telltale need not illuminate when the vehicle is in a 4-wheel drive high gear locked differential configuration that has the effect of locking the drive gears at the front and rear axles together provided the vehicle meets the stability performance requirements of S5.2.1 and S5.2.2.
 
-S5.6 ESC System Technical Documentation. To ensure a vehicle is equipped with an ESC system that meets the definition of âESC Systemâ in S4, the vehicle manufacturer must make available to the agency, upon request, the following documentation:
+S5.6 ESC System Technical Documentation. To ensure a vehicle is equipped with an ESC system that meets the definition of “ESC System” in S4, the vehicle manufacturer must make available to the agency, upon request, the following documentation:
 
 S5.6.1 A system diagram that identifies all ESC system hardware. The diagram must identify what components are used to generate brake torques at each wheel, determine vehicle yaw rate, estimated side slip or the side slip derivative and driver steering inputs.
 
@@ -154,7 +154,7 @@ S6. Test Conditions.
 
 S6.1 Ambient conditions.
 
-S6.1.1 The ambient temperature is between 7 Â°C (45 Â°F) and 40 Â°C (104 Â°F).
+S6.1.1 The ambient temperature is between 7 °C (45 °F) and 40 °C (104 °F).
 
 S6.1.2 The maximum wind speed is no greater than 10 m/s (22 mph) for passenger cars and 5 m/s (11 mph) for multipurpose passenger vehicles, trucks and buses.
 
@@ -162,19 +162,19 @@ S6.2 Road test surface.
 
 S6.2.1 The tests are conducted on a dry, uniform, solid-paved surface. Surfaces with irregularities and undulations, such as dips and large cracks, are unsuitable.
 
-S6.2.2 The road test surface must produce a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see Â§ 571.5) at a speed of 64.4 km/h (40 mph), without water delivery.
+S6.2.2 The road test surface must produce a peak friction coefficient (PFC) of 1.02 when measured using an ASTM F2493 standard reference test tire, in accordance with ASTM E1337-19 (incorporated by reference, see § 571.5) at a speed of 64.4 km/h (40 mph), without water delivery.
 
 S6.2.3 The test surface has a consistent slope between level and 1%.
 
 S6.3 Vehicle conditions.
 
-S6.3.1 The ESC system is enabled for all testing, except when it is turned off directly or by simulating a malfunction in accordance with S7.3 and S7.10, respectively. The ESC system shall be initialized as follows: Place the vehicle in a forward gear and obtain a vehicle speed of 48 Â±8 km/h (30 Â±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake.
+S6.3.1 The ESC system is enabled for all testing, except when it is turned off directly or by simulating a malfunction in accordance with S7.3 and S7.10, respectively. The ESC system shall be initialized as follows: Place the vehicle in a forward gear and obtain a vehicle speed of 48 ±8 km/h (30 ±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake.
 
 S6.3.2 Test Weight. The vehicle is loaded with the fuel tank filled to at least 75 percent of capacity, and total interior load of 168 kg (370 lbs) comprised of the test driver, approximately 59 kg (130 lbs) of test equipment (automated steering machine, data acquisition system and the power supply for the steering machine), and ballast as required by differences in the weight of test drivers and test equipment. Where required, ballast shall be placed on the floor behind the passenger front seat or if necessary in the front passenger foot well area. All ballast shall be secured in a way that prevents it from becoming dislodged during test conduct.
 
 S6.3.3 Tires. The vehicle is tested with the tires installed on the vehicle at time of initial vehicle sale. The tires are inflated to the vehicle manufacturer's recommended cold tire inflation pressure(s) specified on the vehicle's placard or the tire inflation pressure label. Tubes may be installed to prevent tire de-beading.
 
-S6.3.4 Outriggers. Outriggers are used for testing trucks, multipurpose passenger vehicles, and buses. Vehicles with a baseline weight less than 1,588 kg (3,500 lbs) are equipped with âlightâ outriggers. Vehicles with a baseline weight equal to or greater than 1,588 kg (3,500 lbs) and less than 2,722 kg (6,000 lbs) are equipped with âstandardâ outriggers. Vehicles with a baseline weight equal to or greater than 2,722 kg (6,000 lbs) are equipped with âheavyâ outriggers. A vehicle's baseline weight is the weight of the vehicle delivered from the dealer, fully fueled, with a 73 kg (160 lb) driver. Light outriggers are designed with a maximum weight of 27 kg (59.5 lb) and a maximum roll moment of inertia of 27 kg-m
+S6.3.4 Outriggers. Outriggers are used for testing trucks, multipurpose passenger vehicles, and buses. Vehicles with a baseline weight less than 1,588 kg (3,500 lbs) are equipped with “light” outriggers. Vehicles with a baseline weight equal to or greater than 1,588 kg (3,500 lbs) and less than 2,722 kg (6,000 lbs) are equipped with “standard” outriggers. Vehicles with a baseline weight equal to or greater than 2,722 kg (6,000 lbs) are equipped with “heavy” outriggers. A vehicle's baseline weight is the weight of the vehicle delivered from the dealer, fully fueled, with a 73 kg (160 lb) driver. Light outriggers are designed with a maximum weight of 27 kg (59.5 lb) and a maximum roll moment of inertia of 27 kg-m
 2 (19.9 ft-lb-sec
 2). Standard outriggers are designed with a maximum weight of 32 kg (70 lb) and a maximum roll moment of inertia of 35.9 kg-m
 2 (26.5 ft-lb-sec
@@ -188,9 +188,9 @@ S7. Test Procedure.
 
 S7.1 Inflate the vehicles' tires to the cold tire inflation pressure(s) provided on the vehicle's placard or the tire inflation pressure label.
 
-S7.2 Telltale bulb check. With the vehicle stationary and the ignition locking system in the âLockâ or âOffâ position, activate the ignition locking system to the âOnâ (âRunâ) position or, where applicable, the appropriate position for the lamp check. The ESC malfunction telltale must be activated as a check of lamp function, as specified in S5.3.4, and if equipped, the âESC Offâ telltale must also be activated as a check of lamp function, as specified in S5.5.6. The telltale bulb check is not required for a telltale shown in a common space as specified in S5.3.6 and S5.5.8.
+S7.2 Telltale bulb check. With the vehicle stationary and the ignition locking system in the “Lock” or “Off” position, activate the ignition locking system to the “On” (“Run”) position or, where applicable, the appropriate position for the lamp check. The ESC malfunction telltale must be activated as a check of lamp function, as specified in S5.3.4, and if equipped, the “ESC Off” telltale must also be activated as a check of lamp function, as specified in S5.5.6. The telltale bulb check is not required for a telltale shown in a common space as specified in S5.3.6 and S5.5.8.
 
-S7.3 âESC Offâ control check. For vehicles equipped with an âESC Offâ control, with the vehicle stationary and the ignition locking system in the âLockâ or âOffâ position, activate the ignition locking system to the âOnâ (âRunâ) position. Activate the âESC Offâ control and verify that the âESC Offâ telltale is illuminated, as specified in S5.5.4. Turn the ignition locking system to the âLockâ or âOffâ position. Again, activate the ignition locking system to the âOnâ (âRunâ) position and verify that the âESC Offâ telltale has extinguished indicating that the ESC system has been reactivated as specified in S5.4.1.
+S7.3 “ESC Off” control check. For vehicles equipped with an “ESC Off” control, with the vehicle stationary and the ignition locking system in the “Lock” or “Off” position, activate the ignition locking system to the “On” (“Run”) position. Activate the “ESC Off” control and verify that the “ESC Off” telltale is illuminated, as specified in S5.5.4. Turn the ignition locking system to the “Lock” or “Off” position. Again, activate the ignition locking system to the “On” (“Run”) position and verify that the “ESC Off” telltale has extinguished indicating that the ESC system has been reactivated as specified in S5.4.1.
 
 S7.4 Brake Conditioning. Condition the vehicle brakes as follows:
 
@@ -210,17 +210,17 @@ S7.5.2 Using a sinusoidal steering pattern at a frequency of 1 Hz, a peak steeri
 
 S7.5.3 The steering wheel angle amplitude of the final cycle of the final pass is twice that of the other cycles. The maximum time permitted between all laps and passes is five minutes.
 
-S7.6 Slowly Increasing Steer Test. The vehicle is subjected to two series of runs of the Slowly Increasing Steer Test using a constant vehicle speed of 80 Â±2 km/h (50 Â±1 mph) and a steering pattern that increases by 13.5 degrees per second until a lateral acceleration of approximately 0.5 g is obtained. Three repetitions are performed for each test series. One series uses counterclockwise steering, and the other series uses clockwise steering. The maximum time permitted between each test run is five minutes.
+S7.6 Slowly Increasing Steer Test. The vehicle is subjected to two series of runs of the Slowly Increasing Steer Test using a constant vehicle speed of 80 ±2 km/h (50 ±1 mph) and a steering pattern that increases by 13.5 degrees per second until a lateral acceleration of approximately 0.5 g is obtained. Three repetitions are performed for each test series. One series uses counterclockwise steering, and the other series uses clockwise steering. The maximum time permitted between each test run is five minutes.
 
-S7.6.1 From the Slowly Increasing Steer tests, the quantity âAâ is determined. âAâ is the steering wheel angle in degrees that produces a steady state lateral acceleration (corrected using the methods specified in S7.11.3) of 0.3 g for the test vehicle. Utilizing linear regression, A is calculated, to the nearest 0.1 degrees, from each of the six Slowly Increasing Steer tests. The absolute value of the six A's calculated is averaged and rounded to the nearest 0.1 degrees to produce the final quantity, A, used below.
+S7.6.1 From the Slowly Increasing Steer tests, the quantity “A” is determined. “A” is the steering wheel angle in degrees that produces a steady state lateral acceleration (corrected using the methods specified in S7.11.3) of 0.3 g for the test vehicle. Utilizing linear regression, A is calculated, to the nearest 0.1 degrees, from each of the six Slowly Increasing Steer tests. The absolute value of the six A's calculated is averaged and rounded to the nearest 0.1 degrees to produce the final quantity, A, used below.
 
 S7.7 After the quantity A has been determined, without replacing the tires, the tire conditioning procedure described in S7.5 is performed immediately prior to conducting the Sine with Dwell Test of S7.9. Initiation of the first Sine with Dwell test series shall begin within two hours after completion of the Slowly Increasing Steer tests of S7.6.
 
-S7.8 Check that the ESC system is enabled by ensuring that the ESC malfunction and âESC Offâ (if provided) telltales are not illuminated.
+S7.8 Check that the ESC system is enabled by ensuring that the ESC malfunction and “ESC Off” (if provided) telltales are not illuminated.
 
 S7.9 Sine with Dwell Test of Oversteer Intervention and Responsiveness. The vehicle is subjected to two series of test runs using a steering pattern of a sine wave at 0.7 Hz frequency with a 500 ms delay beginning at the second peak amplitude as shown in Figure 2 (the Sine with Dwell tests). One series uses counterclockwise steering for the first half cycle, and the other series uses clockwise steering for the first half cycle. The vehicle is provided a cool-down period between each test run of 90 seconds to five minutes, with the vehicle stationary.
 
-S7.9.1 The steering motion is initiated with the vehicle coasting in high gear at 80 Â±2 km/h (50 Â±1 mph).
+S7.9.1 The steering motion is initiated with the vehicle coasting in high gear at 80 ±2 km/h (50 ±1 mph).
 
 S7.9.2 In each series of test runs, the steering amplitude is increased from run to run, by 0.5A, provided that no such run will result in a steering amplitude greater than that of the final run specified in S7.9.4.
 
@@ -234,13 +234,13 @@ S7.10 ESC Malfunction Detection.
 
 S7.10.1 Simulate one or more ESC malfunction(s) by disconnecting the power source to any ESC component, or disconnecting any electrical connection between ESC components (with the vehicle power off). When simulating an ESC malfunction, the electrical connections for the telltale lamp(s) are not to be disconnected.
 
-S7.10.2 With the vehicle initially stationary and the ignition locking system in the âLockâ or âOffâ position, activate the ignition locking system to the âStartâ position and start the engine. Place the vehicle in a forward gear and obtain a vehicle speed of 48 Â±8 km/h (30 Â±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake. Verify that within two minutes after obtaining this vehicle speed the ESC malfunction indicator illuminates in accordance with S5.3.
+S7.10.2 With the vehicle initially stationary and the ignition locking system in the “Lock” or “Off” position, activate the ignition locking system to the “Start” position and start the engine. Place the vehicle in a forward gear and obtain a vehicle speed of 48 ±8 km/h (30 ±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake. Verify that within two minutes after obtaining this vehicle speed the ESC malfunction indicator illuminates in accordance with S5.3.
 
-S7.10.3 As of September 1, 2011, stop the vehicle, deactivate the ignition locking system to the âOffâ or âLockâ position. After a five-minute period, activate the vehicle's ignition locking system to the âStartâ position and start the engine. Verify that the ESC malfunction indicator again illuminates to signal a malfunction and remains illuminated as long as the engine is running or until the fault is corrected.
+S7.10.3 As of September 1, 2011, stop the vehicle, deactivate the ignition locking system to the “Off” or “Lock” position. After a five-minute period, activate the vehicle's ignition locking system to the “Start” position and start the engine. Verify that the ESC malfunction indicator again illuminates to signal a malfunction and remains illuminated as long as the engine is running or until the fault is corrected.
 
-S7.10.4 Deactivate the ignition locking system to the âOffâ or âLockâ position. Restore the ESC system to normal operation, activate the ignition system to the âStartâ position and start the engine. Place the vehicle in a forward gear and obtain a vehicle speed of 48 Â±8 km/h (30 Â±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake. Verify that within two minutes after obtaining this vehicle speed that the ESC malfunction indicator has extinguished.
+S7.10.4 Deactivate the ignition locking system to the “Off” or “Lock” position. Restore the ESC system to normal operation, activate the ignition system to the “Start” position and start the engine. Place the vehicle in a forward gear and obtain a vehicle speed of 48 ±8 km/h (30 ±5 mph). Drive the vehicle for at least two minutes including at least one left and one right turning maneuver and at least one application of the service brake. Verify that within two minutes after obtaining this vehicle speed that the ESC malfunction indicator has extinguished.
 
-S7.11 Post Data ProcessingâCalculations for Performance Metrics. Yaw rate and lateral displacement measurements and calculations must be processed utilizing the following techniques:
+S7.11 Post Data Processing—Calculations for Performance Metrics. Yaw rate and lateral displacement measurements and calculations must be processed utilizing the following techniques:
 
 S7.11.1 Raw steering wheel angle data is filtered with a 12-pole phaseless Butterworth filter and a cutoff frequency of 10Hz. The filtered data is then zeroed to remove sensor offset utilizing static pretest data.
 
@@ -250,13 +250,13 @@ S7.11.3 Raw lateral acceleration data is filtered with a 12-pole phaseless Butte
 
 S7.11.4 Steering wheel velocity is determined by differentiating the filtered steering wheel angle data. The steering wheel velocity data is then filtered with a moving 0.1 second running average filter.
 
-S7.11.5 Lateral acceleration, yaw rate and steering wheel angle data channels are zeroed utilizing a defined âzeroing range.â The methods used to establish the zeroing range are defined in S7.11.5.1 and S7.11.5.2.
+S7.11.5 Lateral acceleration, yaw rate and steering wheel angle data channels are zeroed utilizing a defined “zeroing range.” The methods used to establish the zeroing range are defined in S7.11.5.1 and S7.11.5.2.
 
 S7.11.5.1 Using the steering wheel rate data calculated using the methods described in S7.11.4, the first instant steering wheel rate exceeds 75 deg/sec is identified. From this point, steering wheel rate must remain greater than 75 deg/sec for at least 200 ms. If the second condition is not met, the next instant steering wheel rate exceeds 75 deg/sec is identified and the 200 ms validity check applied. This iterative process continues until both conditions are ultimately satisfied.
 
-S7.11.5.2 The âzeroing rangeâ is defined as the 1.0 second time period prior to the instant the steering wheel rate exceeds 75 deg/sec (i.e., the instant the steering wheel velocity exceeds 75 deg/sec defines the end of the âzeroing rangeâ).
+S7.11.5.2 The “zeroing range” is defined as the 1.0 second time period prior to the instant the steering wheel rate exceeds 75 deg/sec (i.e., the instant the steering wheel velocity exceeds 75 deg/sec defines the end of the “zeroing range”).
 
-S7.11.6 The Beginning of Steer (BOS) is defined as the first instance filtered and zeroed steering wheel angle data reaches â5 degrees (when the initial steering input is counterclockwise) or + 5 degrees (when the initial steering input is clockwise) after time defining the end of the âzeroing range.â The value for time at the BOS is interpolated.
+S7.11.6 The Beginning of Steer (BOS) is defined as the first instance filtered and zeroed steering wheel angle data reaches −5 degrees (when the initial steering input is counterclockwise) or + 5 degrees (when the initial steering input is clockwise) after time defining the end of the “zeroing range.” The value for time at the BOS is interpolated.
 
 S7.11.7 The Completion of Steer (COS) is defined as the time the steering wheel angle returns to zero at the completion of the Sine with Dwell steering maneuver. The value for time at the zero degree steering wheel angle is interpolated.
 

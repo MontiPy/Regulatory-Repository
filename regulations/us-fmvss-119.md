@@ -13,7 +13,7 @@ systems:
 - Tires & wheels
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a
+title: § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a
   GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for
   motorcycles.
 vehicle_categories:
@@ -23,7 +23,7 @@ vehicle_categories:
 - Motorcycle
 ---
 
-## Â§ 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
+## § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
 
 S1. Scope. This standard establishes performance and marking requirements for tires for use on motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
 
@@ -94,11 +94,11 @@ Max speed ____km/h (____mph).
 
 (f) The actual number of plies and the composition of the ply cord material in the sidewall and, if different, in the tread area;
 
-(g) The words âtubelessâ or âtube typeâ as applicable.
+(g) The words “tubeless” or “tube type” as applicable.
 
-(h) The word âregroovableâ if the tire is designed for regrooving.
+(h) The word “regroovable” if the tire is designed for regrooving.
 
-(i) The word âradialâ if a radial tire.
+(i) The word “radial” if a radial tire.
 
 (j) The letter designating the tire load range.
 
@@ -110,7 +110,7 @@ S7.1 General conditions.
 
 S7.1.1 The tests are performed using an appropriate new tube, tube valve and flap assembly (as required) that allows no loss of air for testing of tube-type tires under S7.2, S7.3, and S7.4, and tubeless tires under S7.3.
 
-S7.1.2 The tire must be capable of meeting the requirements of S7.2 and S7.4 when conditioned to a temperature of 35 Â°C (95 Â°F) for 3 hours before the test is conducted, and with an ambient temperature maintained at 35 Â°C (95 Â°F) during all phases of testing. The tire must be capable of meeting the requirements of S7.3 when conditioned at a temperature of 21 Â°C (70 Â°F) for 3 hours before the test is conducted.
+S7.1.2 The tire must be capable of meeting the requirements of S7.2 and S7.4 when conditioned to a temperature of 35 °C (95 °F) for 3 hours before the test is conducted, and with an ambient temperature maintained at 35 °C (95 °F) during all phases of testing. The tire must be capable of meeting the requirements of S7.3 when conditioned at a temperature of 21 °C (70 °F) for 3 hours before the test is conducted.
 
 S7.2 Endurance. (a) Mount the tire on a model rim assembly and inflate it to the inflation pressure corresponding to the maximum load rating marked on the tire. Use a single maximum load value when the tire is marked with both single and dual maximum load.
 
@@ -130,15 +130,15 @@ S7.3 Strength. (a) Mount the tire on a model rim assembly and inflate it to the 
 
 (d) Record the force and the distance of penetration just before the tire breaks, or if it fails to break, just before the plunger is stopped by the rim.
 
-(e) Repeat the plunger application at 72Â° intervals around the circumference of the tire, until five measurements are made. However, in the case of tires of 12 inch rim diameter code or smaller, repeat the plunger application at 120Â° intervals around the circumference of the tire, until three measurements are made.
+(e) Repeat the plunger application at 72° intervals around the circumference of the tire, until five measurements are made. However, in the case of tires of 12 inch rim diameter code or smaller, repeat the plunger application at 120° intervals around the circumference of the tire, until three measurements are made.
 
 (f) Compute the breaking energy for each test point by one of the two following formulas:
 
-(1) W = [(F Ã P)/2] Ã 10â3
+(1) W = [(F × P)/2] × 10−3
 
 Where:
 
-(2) W = (F Ã P)/2
+(2) W = (F × P)/2
 
 (g) Determine the average breaking energy value for the tire by computing the average of the values obtained in accordance with paragraph (f).
 
@@ -146,7 +146,7 @@ S7.4 High speed performance. (a) Perform steps (a) through (c) of S7.2.
 
 (b) Apply a force of 88 percent of the maximum load rating marked on the tire (use single maximum load value when the tire is marked with both single and dual maximum loads), and rotate the test wheel at 250 rpm for 2 hours.
 
-(c) Remove the load, allow the tire to cool to 35 Â°C (95 Â°F), and then adjust the pressure to that marked on the tire for single tire use.
+(c) Remove the load, allow the tire to cool to 35 °C (95 °F), and then adjust the pressure to that marked on the tire for single tire use.
 
 (d) Reapply the same load, and without interruption or readjustment of inflation pressure, rotate the test wheel at 375 rpm for 30 minutes, then at 400 rpm for 30 minutes, and then at 425 rpm for 30 minutes.
 

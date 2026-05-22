@@ -11,13 +11,13 @@ systems:
 - Theft prevention
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.114 Standard No. 114; Theft protection and rollaway prevention.
+title: § 571.114 Standard No. 114; Theft protection and rollaway prevention.
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-## Â§ 571.114 Standard No. 114; Theft protection and rollaway prevention.
+## § 571.114 Standard No. 114; Theft protection and rollaway prevention.
 
 S1. Scope. This standard specifies vehicle performance requirements intended to reduce the incidence of crashes resulting from theft and accidental rollaway of motor vehicles.
 
@@ -57,31 +57,31 @@ S5.1.3 Except as specified below, an audible warning to the vehicle operator mus
 
 (c) For mechanical keys and starting systems, after the key has been withdrawn to a position from which it may not be turned.
 
-S5.1.4 If a vehicle is equipped with a transmission with a âparkâ position, the means for deactivating the vehicle's engine or motor must not activate any device installed pursuant to S5.1.1(b), unless the transmission is locked in the âparkâ position.
+S5.1.4 If a vehicle is equipped with a transmission with a “park” position, the means for deactivating the vehicle's engine or motor must not activate any device installed pursuant to S5.1.1(b), unless the transmission is locked in the “park” position.
 
-S5.2 Rollaway prevention in vehicles equipped with transmissions with a âparkâ position.
+S5.2 Rollaway prevention in vehicles equipped with transmissions with a “park” position.
 
-S5.2.1 Except as specified in S5.2.3, the starting system required by S5.1 must prevent key removal when tested according to the procedures in S6, unless the transmission or gear selection control is locked in âparkâ or becomes locked in âparkâ as a direct result of key removal.
+S5.2.1 Except as specified in S5.2.3, the starting system required by S5.1 must prevent key removal when tested according to the procedures in S6, unless the transmission or gear selection control is locked in “park” or becomes locked in “park” as a direct result of key removal.
 
-S5.2.2 Except as specified in S5.2.4, the vehicle must be designed such that the transmission or gear selection control cannot move from the âparkâ position, unless the key is in the starting system.
+S5.2.2 Except as specified in S5.2.4, the vehicle must be designed such that the transmission or gear selection control cannot move from the “park” position, unless the key is in the starting system.
 
-S5.2.3 Key removal override option. At the option of the manufacturer, the key may be removed from the starting system without the transmission or gear selection control in the âparkâ position under one of the following conditions:
+S5.2.3 Key removal override option. At the option of the manufacturer, the key may be removed from the starting system without the transmission or gear selection control in the “park” position under one of the following conditions:
 
-(a) In the event of electrical failure, including battery discharge, the vehicle may permit key removal from the starting system without the transmission or gear selection control locked in the âparkâ position; or
+(a) In the event of electrical failure, including battery discharge, the vehicle may permit key removal from the starting system without the transmission or gear selection control locked in the “park” position; or
 
-(b) Provided that steering or self-mobility is prevented, the vehicle may have a device by which the user can remove the key from the starting system without the transmission or gear selection control locked in âpark.â This device must require:
+(b) Provided that steering or self-mobility is prevented, the vehicle may have a device by which the user can remove the key from the starting system without the transmission or gear selection control locked in “park.” This device must require:
 
 (i) The use of a tool, and
 
 (ii) Simultaneous activation of the device and removal of the key; or
 
-(c) Provided that steering or self-mobility is prevented, the vehicle may have a device by which the user can remove the key from the starting system without the transmission or gear selection control locked in âpark.â This device must be covered by an opaque surface which, when installed:
+(c) Provided that steering or self-mobility is prevented, the vehicle may have a device by which the user can remove the key from the starting system without the transmission or gear selection control locked in “park.” This device must be covered by an opaque surface which, when installed:
 
 (i) Prevents sight of and use of the device, and
 
 (ii) Can be removed only by using a screwdriver or other tool.
 
-S5.2.4 Gear selection control override option. The vehicle may have a device by which the user can move the gear selection control from âparkâ after the key has been removed from the starting system. This device must be operable by one of the three options below:
+S5.2.4 Gear selection control override option. The vehicle may have a device by which the user can move the gear selection control from “park” after the key has been removed from the starting system. This device must be operable by one of the three options below:
 
 (a) By use of the key; or
 
@@ -89,7 +89,7 @@ S5.2.4 Gear selection control override option. The vehicle may have a device by 
 
 (i) The use of a tool, and
 
-(ii) Simultaneous activation of this means and movement of the gear selection control from âpark;â or
+(ii) Simultaneous activation of this means and movement of the gear selection control from “park;” or
 
 (c) By a means other than the key, provided steering or forward self-mobility is prevented when the key is removed from the starting system. This device must be covered by an opaque surface which, when installed:
 
@@ -97,11 +97,11 @@ S5.2.4 Gear selection control override option. The vehicle may have a device by 
 
 (ii) Can be removed only by using a screwdriver or other tool.
 
-S5.2.5 When tested in accordance with S6.2.2, each vehicle must not move more than 150 mm on a 10 percent grade when the gear selection control is locked in âpark.â
+S5.2.5 When tested in accordance with S6.2.2, each vehicle must not move more than 150 mm on a 10 percent grade when the gear selection control is locked in “park.”
 
-S5.3 Brake transmission shift interlock. Each motor vehicle manufactured on or after September 1, 2010 with a GVWR of 4,536 kilograms (10,000 pounds) or less with an automatic transmission that includes a âparkâ position shall be equipped with a system that requires the service brake to be depressed before the transmission can be shifted out of âpark.â This system shall function in any starting system key position in which the transmission can be shifted out of âpark.â This section does not apply to trailers or motorcycles.
+S5.3 Brake transmission shift interlock. Each motor vehicle manufactured on or after September 1, 2010 with a GVWR of 4,536 kilograms (10,000 pounds) or less with an automatic transmission that includes a “park” position shall be equipped with a system that requires the service brake to be depressed before the transmission can be shifted out of “park.” This system shall function in any starting system key position in which the transmission can be shifted out of “park.” This section does not apply to trailers or motorcycles.
 
-S6. Compliance test procedure for vehicles with transmissions with a âparkâ position.
+S6. Compliance test procedure for vehicles with transmissions with a “park” position.
 
 S6.1 Test conditions.
 
@@ -115,7 +115,7 @@ S6.2.1
 
 (a) Activate the starting system using the key.
 
-(b) Move the gear selection control to any gear selection position or any other position where it will remain without assistance, including a position between any detent positions, except for the âparkâ position.
+(b) Move the gear selection control to any gear selection position or any other position where it will remain without assistance, including a position between any detent positions, except for the “park” position.
 
 (c) Attempt to remove the key in each gear selection position.
 
@@ -125,7 +125,7 @@ S6.2.2
 
 (b) Apply the parking brake (if present).
 
-(c) Move the gear selection control to âpark.â
+(c) Move the gear selection control to “park.”
 
 (d) Note the vehicle position.
 
@@ -133,7 +133,7 @@ S6.2.2
 
 (f) Remove the key.
 
-(g) Verify that the gear selection control or transmission is locked in âpark.â
+(g) Verify that the gear selection control or transmission is locked in “park.”
 
 (h) Verify that the vehicle, at rest, has moved no more than 150 mm from the position noted prior to release of the brakes.
 
@@ -143,7 +143,7 @@ S6.2.3
 
 (b) Apply the parking brake (if present).
 
-(c) Move the gear selection control to âpark.â
+(c) Move the gear selection control to “park.”
 
 (d) Note the vehicle position.
 
@@ -151,7 +151,7 @@ S6.2.3
 
 (f) Remove the key.
 
-(g) Verify that the gear selection control or transmission is locked in âpark.â
+(g) Verify that the gear selection control or transmission is locked in “park.”
 
 (h) Verify that the vehicle, at rest, has moved no more than 150 mm from the position noted prior to release of the brakes.
 

@@ -13,7 +13,7 @@ systems:
 - Lighting & signaling
 tagged_at: 2026-05-22 15:30:00+00:00
 tagging_status: llm-tagged
-title: Â§ 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.
+title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,7 +22,7 @@ vehicle_categories:
 - Motorcycle
 ---
 
-## Â§ 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.
+## § 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.
 
 S1 Scope. This standard specifies requirements for original and replacement lamps, reflective devices, and associated equipment.
 
@@ -46,7 +46,7 @@ Aiming reference plane means a plane which is perpendicular to the longitudinal 
 
 Aiming screws are the horizontal and vertical adjusting screws with self-locking features used to aim and retain a headlamp unit in the proper position.
 
-Axis of reference means the characteristic axis of the lamp for use as the direction of reference (H = 0Â°, V = 0Â°) for angles of field for photometric measurements and for installing the lamp on the vehicle.
+Axis of reference means the characteristic axis of the lamp for use as the direction of reference (H = 0°, V = 0°) for angles of field for photometric measurements and for installing the lamp on the vehicle.
 
 Backup lamp means a lamp or lamps which illuminate the road to the rear of a vehicle and provide a warning signal to pedestrians and other drivers when the vehicle is backing up or is about to back up.
 
@@ -58,7 +58,7 @@ Clearance lamps are lamps which show to the front or rear of the vehicle, mounte
 
 Coated materials means a material which has a coating applied to the surface of the finished sample to impart some protective properties. Coating identification means a mark of the manufacturer's name, formulation designation number, and recommendations for application.
 
-Color Fundamental definitions of color are expressed by Chromaticity Coordinates according to the CIE 1931 Standard Colorimetric System, as described in the CIE 1931 Chromaticity Diagram (incorporated by reference, see Â§ 571.5).
+Color Fundamental definitions of color are expressed by Chromaticity Coordinates according to the CIE 1931 Standard Colorimetric System, as described in the CIE 1931 Chromaticity Diagram (incorporated by reference, see § 571.5).
 
 Color bleeding means the migration of color out of a plastic part onto the surrounding surface.
 
@@ -81,7 +81,7 @@ Design voltage means the voltage used for design purposes.
 Direct reading indicator means a device that is mounted in its entirety on a headlamp or headlamp aiming or headlamp mounting equipment, is part of a VHAD, and provides information about headlamp aim in an analog or digital format.
 
 Effective light-emitting surface means that portion of a lamp that directs light to the photometric test pattern, and does not include transparent lenses, mounting hole bosses, reflex reflector area, beads or rims that may glow or produce small areas of increased intensity as a result of uncontrolled light from an area of
-1/2Â° radius around a test point.
+1/2° radius around a test point.
 
 Effective projected luminous lens area means the area of the orthogonal projection of the effective light-emitting surface of a lamp on a plane perpendicular to a defined direction relative to the axis of reference. Unless otherwise specified, the direction is coincident with the axis of reference.
 
@@ -157,7 +157,7 @@ Retaining ring (type F sealed beam) means the clamping ring that holds a sealed 
 
 School bus signal lamps are alternately flashing lamps mounted horizontally both front and rear, intended to identify a vehicle as a school bus and to inform other users of the highway that such vehicle is stopped on the highway to take on or discharge school children.
 
-Sealed beam headlamp means an integral and indivisible optical assembly including the light source with âSEALED BEAMâ molded in the lens.
+Sealed beam headlamp means an integral and indivisible optical assembly including the light source with “SEALED BEAM” molded in the lens.
 
 Sealed beam headlamp assembly means a major lighting assembly which includes one or more sealed beam units used to provide general illumination ahead of the vehicle.
 
@@ -191,7 +191,7 @@ Vehicular hazard warning signal operating unit means a driver controlled device 
 
 Visually/optically aimable headlamp means a headlamp which is designed to be visually/optically aimable in accordance with the requirements of paragraph S10.18.9 of this standard.
 
-S5 References to SAE publications. Each required lamp, reflective device, and item of associated equipment must be designed to conform to the requirements of applicable SAE publications as referenced and subreferenced in this standard. The words âit is recommended that,â ârecommendations,â or âshould beâ appearing in any SAE publication referenced or subreferenced in this standard must be read as setting forth mandatory requirements.
+S5 References to SAE publications. Each required lamp, reflective device, and item of associated equipment must be designed to conform to the requirements of applicable SAE publications as referenced and subreferenced in this standard. The words “it is recommended that,” “recommendations,” or “should be” appearing in any SAE publication referenced or subreferenced in this standard must be read as setting forth mandatory requirements.
 
 S6 Vehicle requirements.
 
@@ -255,7 +255,7 @@ S6.1.5.1 Hazard warning signal. In all passenger cars, multipurpose passenger ve
 
 S6.1.5.2 Simultaneous beam activation.
 
-S6.1.5.2.1 On any vehicle to which this standard applies where the headlighting system is designed to conform to the photometric requirements of UB1 of Table XVIII and LB1M or LB1V of Table XIX-a, the lamps marked âLâ or âLFâ may remain permanently activated when the lamps marked âUâ or âUFâ are activated.
+S6.1.5.2.1 On any vehicle to which this standard applies where the headlighting system is designed to conform to the photometric requirements of UB1 of Table XVIII and LB1M or LB1V of Table XIX-a, the lamps marked “L” or “LF” may remain permanently activated when the lamps marked “U” or “UF” are activated.
 
 S6.1.5.2.2 On any vehicle to which this standard applies where an integral beam headlighting system is designed to conform to the photometric requirements of UB6 of Table XVIII and LB5M of Table XIX-b or LB4V of Table XIX-c, the lower beam headlamps must remain permanently activated when the upper beam headlamps are activated.
 
@@ -295,17 +295,17 @@ S6.4.3 Visibility options. A manufacturer must certify compliance of each lamp f
 
 S6.4.4 Legacy visibility alternative. As an alternative to S6.4.3, each passenger car and motorcycle, and each multipurpose passenger vehicle, truck, trailer, and bus that is of less than 2032 mm overall width, that is manufactured on or before September 1, 2011, and each multipurpose passenger vehicle, truck, trailer, and bus that is of 2032 mm or more overall width, that is manufactured on or before September 1, 2014, must have each lamp located so that it meets the visibility requirements specified in Table V-d.
 
-S6.4.5 School bus signal lamp aiming. Each school bus signal lamp must be mounted on the vehicle with its aiming plane vertical and normal to the vehicle longitudinal axis. Aim tolerance must be no more than 5 in vertically and 10 in horizontally at 25 ft from the lamp. If the lamps are aimed or inspected by use of SAE Recommended Practice J602-1963 (incorporated by reference, see Â§ 571.5), the graduation settings for aim must be 2Â° D and 0Â° sideways for aiming and the limits must be 3Â° U to 7Â° D and from 10Â° R to 10Â° L for inspection.
+S6.4.5 School bus signal lamp aiming. Each school bus signal lamp must be mounted on the vehicle with its aiming plane vertical and normal to the vehicle longitudinal axis. Aim tolerance must be no more than 5 in vertically and 10 in horizontally at 25 ft from the lamp. If the lamps are aimed or inspected by use of SAE Recommended Practice J602-1963 (incorporated by reference, see § 571.5), the graduation settings for aim must be 2° D and 0° sideways for aiming and the limits must be 3° U to 7° D and from 10° R to 10° L for inspection.
 
 S6.5 Marking. A summary of the marking requirements of this standard and their location in the standard is contained in Table III.
 
-S6.5.1 DOT marking. The lens of each original equipment and replacement headlamp, and of each original equipment and replacement beam contributor, and each replacement headlamp lens for an integral beam or replaceable bulb headlamp, must be marked with the symbol âDOTâ either horizontally or vertically to indicate certification under 49 U.S.C. 30115.
+S6.5.1 DOT marking. The lens of each original equipment and replacement headlamp, and of each original equipment and replacement beam contributor, and each replacement headlamp lens for an integral beam or replaceable bulb headlamp, must be marked with the symbol “DOT” either horizontally or vertically to indicate certification under 49 U.S.C. 30115.
 
 S6.5.1.1 The DOT marking requirements for conspicuity materials are specified in S8.2 of this standard.
 
-S6.5.1.2 Each original equipment or replacement lamp or reflective device specified in Table I, except for a headlamp, or an item of associated equipment specified in S9 may be marked with the symbol âDOTâ which constitutes a certification that it conforms to the requirements of this standard.
+S6.5.1.2 Each original equipment or replacement lamp or reflective device specified in Table I, except for a headlamp, or an item of associated equipment specified in S9 may be marked with the symbol “DOT” which constitutes a certification that it conforms to the requirements of this standard.
 
-S6.5.2 DRL marking. Each original equipment and replacement lamp used as a daytime running lamp (DRL), unless optically combined with a headlamp, must be permanently marked âDRLâ on its lens in letters not less than 3 mm high.
+S6.5.2 DRL marking. Each original equipment and replacement lamp used as a daytime running lamp (DRL), unless optically combined with a headlamp, must be permanently marked “DRL” on its lens in letters not less than 3 mm high.
 
 S6.5.3 Headlamp markings.
 
@@ -315,7 +315,7 @@ S6.5.3.2 Voltage and trade number. Each original and replacement equipment headl
 
 S6.5.3.3 Sealed beam headlamp markings.
 
-S6.5.3.3.1 Each sealed beam headlamp lens must be molded with âsealed beamâ and the appropriate designation code as shown in Table II in characters no less than 6.35 mm in size.
+S6.5.3.3.1 Each sealed beam headlamp lens must be molded with “sealed beam” and the appropriate designation code as shown in Table II in characters no less than 6.35 mm in size.
 
 S6.5.3.3.2 The face of any character molded on the surface of the lens must not be raised more than 0.5 mm above the lens surface.
 
@@ -325,7 +325,7 @@ S6.5.3.3.4 Type 1A1, 2A1, 2B1, and 2E1 headlamps must have no raised markings on
 
 S6.5.3.3.5 Type LF, UF, 1G1, 2G1, and 2H1 headlamps must have no raised markings on the outside surface of the lens within a diameter of 35 mm about the lens center.
 
-S6.5.3.3.6 A Type 1C1 replacement headlamp may be marked â1â rather than â1C1â. A Type 2C1 replacement headlamp may be marked â2â rather than â2C1â. A Type 2D1 replacement headlamp may be marked âTOPâ or â2â rather than â2D1â.
+S6.5.3.3.6 A Type 1C1 replacement headlamp may be marked “1” rather than “1C1”. A Type 2C1 replacement headlamp may be marked “2” rather than “2C1”. A Type 2D1 replacement headlamp may be marked “TOP” or “2” rather than “2D1”.
 
 S6.5.3.4 Replaceable bulb headlamp markings.
 
@@ -345,9 +345,9 @@ S6.6.2 All vehicles to which this standard applies except trailers and motorcycl
 
 S6.6.3 License plate holder. Each rear license plate holder must be designed and constructed to provide a substantial plane surface on which to mount the plate.
 
-S6.6.3.1 For motor vehicles on which the license plate is designed to be mounted on the vehicle such that the upper edge of the license plate is 1.2 m or less from the ground, the plane of the license plate mounting surface and the plane on which the vehicle stands must be perpendicular within 30Â° upward (an installed plate will face above the horizon) and 15Â° downward (an installed plate will face below the horizon).
+S6.6.3.1 For motor vehicles on which the license plate is designed to be mounted on the vehicle such that the upper edge of the license plate is 1.2 m or less from the ground, the plane of the license plate mounting surface and the plane on which the vehicle stands must be perpendicular within 30° upward (an installed plate will face above the horizon) and 15° downward (an installed plate will face below the horizon).
 
-S6.6.3.2 For motor vehicles on which the license plate is designed to be mounted on the vehicle such that the upper edge of the license plate is more than 1.2m from the ground, the plane of the license plate mounting surface and the plane on which the vehicle stands must be perpendicular within Â±15Â°.
+S6.6.3.2 For motor vehicles on which the license plate is designed to be mounted on the vehicle such that the upper edge of the license plate is more than 1.2m from the ground, the plane of the license plate mounting surface and the plane on which the vehicle stands must be perpendicular within ±15°.
 
 S6.7 Replacement equipment.
 
@@ -475,7 +475,7 @@ S7.1.2.12.2 If a multiple compartment or multiple lamp arrangement is used on a 
 
 S7.1.2.12.3 If a multiple compartment or multiple lamp arrangement is used and the distance between optical axes for one of the functions exceeds 560 mm for two compartment or lamp arrangements or 410 mm for three compartment or lamp arrangements, then the ratio must be computed for only those compartments or lamps where the taillamp and turn signal lamp are optically combined.
 
-S7.1.2.12.4 Where the taillamp or clearance lamp is combined with the turn signal lamp, and the maximum luminous intensity of the taillamp or clearance lamp is located below horizontal and within an area generated by a 0.5 Â° radius around a test point for a taillamp on a passenger car or on a multipurpose passenger vehicle, truck, bus, or trailer of less than 2032 mm in overall width, or by a 1.0 Â° radius around a test point for a taillamp or clearance lamp on a vehicle 2032 mm or more in overall width, the ratio for the test point may be computed using the lowest value of the taillamp or clearance lamp luminous intensity within the generated area.
+S7.1.2.12.4 Where the taillamp or clearance lamp is combined with the turn signal lamp, and the maximum luminous intensity of the taillamp or clearance lamp is located below horizontal and within an area generated by a 0.5 ° radius around a test point for a taillamp on a passenger car or on a multipurpose passenger vehicle, truck, bus, or trailer of less than 2032 mm in overall width, or by a 1.0 ° radius around a test point for a taillamp or clearance lamp on a vehicle 2032 mm or more in overall width, the ratio for the test point may be computed using the lowest value of the taillamp or clearance lamp luminous intensity within the generated area.
 
 S7.1.2.13 Photometry.
 
@@ -569,7 +569,7 @@ S7.3.12.2 If a multiple compartment or multiple lamp arrangement is used on a pa
 
 S7.3.12.3 If a multiple compartment or multiple lamp arrangement is used and the distance between optical axes for one of the functions exceeds 560 mm for two compartment or lamp arrangements or 410 mm for three compartments or lamp arrangements, then the ratio must be computed for only those compartments or lamps where the taillamp and stop lamp are optically combined.
 
-S7.3.12.4 Where the taillamp is combined with the stop lamp, and the maximum luminous intensity of the taillamp is located below horizontal and within an area generated by a 0.5 Â° radius around a test point for a taillamp on a passenger car or on a multipurpose passenger vehicle, truck, bus, or trailer of less than 2032 mm in overall width, or by a 1.0 Â° radius around a test point for a taillamp on a vehicle 2032 mm or more in overall width, the ratio for the test point may be computed using the lowest value of the taillamp luminous intensity within the generated area.
+S7.3.12.4 Where the taillamp is combined with the stop lamp, and the maximum luminous intensity of the taillamp is located below horizontal and within an area generated by a 0.5 ° radius around a test point for a taillamp on a passenger car or on a multipurpose passenger vehicle, truck, bus, or trailer of less than 2032 mm in overall width, or by a 1.0 ° radius around a test point for a taillamp on a vehicle 2032 mm or more in overall width, the ratio for the test point may be computed using the lowest value of the taillamp luminous intensity within the generated area.
 
 S7.3.13 Photometry.
 
@@ -733,9 +733,9 @@ S7.7.15.2 Each license plate lamp installed on a motorcycle or motor driven cycl
 
 S7.7.15.3 The light rays must reach all portions of an imaginary plate of the same size at least 25 mm ahead of the actual plate measured perpendicular to the plane of the plate.
 
-S7.7.15.4 Incident light from single lamp. When a single lamp as shown in Figure 20 is used to illuminate the license plate, the lamp and license plate holder must bear such relation to each other that at no point on the plate must the incident light make an angle of less than 8Â° to the plane of the plate, this angle being measured from the edge of the light emitting surface of the lamp farthest from the surface of the plate.
+S7.7.15.4 Incident light from single lamp. When a single lamp as shown in Figure 20 is used to illuminate the license plate, the lamp and license plate holder must bear such relation to each other that at no point on the plate must the incident light make an angle of less than 8° to the plane of the plate, this angle being measured from the edge of the light emitting surface of the lamp farthest from the surface of the plate.
 
-S7.7.15.5 Incident light from multiple lamps. When two or more lamps as shown in Figure 20 are used to illuminate the license plate, the minimum 8Â° incident light angle must apply only to that portion of the plate which the particular lamp is designed to illuminate. The angle must be measured in the same manner as S7.7.15.4.
+S7.7.15.5 Incident light from multiple lamps. When two or more lamps as shown in Figure 20 are used to illuminate the license plate, the minimum 8° incident light angle must apply only to that portion of the plate which the particular lamp is designed to illuminate. The angle must be measured in the same manner as S7.7.15.4.
 
 S7.8 Parking lamps.
 
@@ -901,7 +901,7 @@ S8.1.11 Photometry. Each reflex reflector must be designed to conform to the pho
 
 S8.1.12 Physical tests. Each reflex reflector must be designed to conform to the performance requirements of the vibration test, moisture test, dust test, and corrosion test of S14.5, and the color test and plastic optical material test of S14.4.
 
-S8.1.1P3 Alternative side reflex reflector material. Reflective material conforming to GSA Federal Specification L-S-300 (incorporated by reference, see Â§ 571.5), may be used for side reflex reflectors if this material as used on the vehicle, meets the performance requirements of Table XVI-a.
+S8.1.1P3 Alternative side reflex reflector material. Reflective material conforming to GSA Federal Specification L-S-300 (incorporated by reference, see § 571.5), may be used for side reflex reflectors if this material as used on the vehicle, meets the performance requirements of Table XVI-a.
 
 S8.2 Conspicuity systems. The requirement for conspicuity systems may be met with retroreflective sheeting, conspicuity reflex reflectors, or a combination of retroreflective sheeting and conspicuity reflex reflectors.
 
@@ -909,7 +909,7 @@ S8.2.1 Retroreflective sheeting.
 
 S8.2.1.1 Retroreflective sheeting must consist of a smooth, flat, transparent exterior film with retroreflective elements embedded or suspended beneath the film so as to form a non-exposed retroreflective optical system.
 
-S8.2.1.2 Retroreflective sheeting material. Retroreflective sheeting must meet the requirements, except photometry, of ASTM D 4956-90 (incorporated by reference, see Â§ 571.5) for Type V Sheeting. Sheeting of Grade DOT-C2 of no less than 50 mm wide, Grade DOT-C3 of no less than 75 mm wide, or Grade DOT-C4 of no less than 100 mm wide may be used.
+S8.2.1.2 Retroreflective sheeting material. Retroreflective sheeting must meet the requirements, except photometry, of ASTM D 4956-90 (incorporated by reference, see § 571.5) for Type V Sheeting. Sheeting of Grade DOT-C2 of no less than 50 mm wide, Grade DOT-C3 of no less than 75 mm wide, or Grade DOT-C4 of no less than 100 mm wide may be used.
 
 S8.2.1.3 Certification marking. The letters DOT-C2, DOT-C3, or DOT-C4, as appropriate, constituting a certification that the retroreflective sheeting conforms to the requirements of this standard, must appear at least once on the exposed surface of each white or red segment of retroreflective sheeting, and at least once every 300 mm on retroreflective sheeting that is white only. The characters must be not less than 3 mm high, and must be permanently stamped, etched, molded, or printed in indelible ink.
 
@@ -917,7 +917,7 @@ S8.2.1.4 Application pattern.
 
 S8.2.1.4.1 Alternating red and white materials.
 
-S8.2.1.4.1.1 As shown in Figures 12-1 and 12-2, where alternating material is installed, except for a segment that is trimmed to clear obstructions, or lengthened to provide red sheeting near red lamps, alternating material must be installed with each white and red segment having a length of 300 Â±150 mm.
+S8.2.1.4.1.1 As shown in Figures 12-1 and 12-2, where alternating material is installed, except for a segment that is trimmed to clear obstructions, or lengthened to provide red sheeting near red lamps, alternating material must be installed with each white and red segment having a length of 300 ±150 mm.
 
 S8.2.1.4.1.2 Neither white nor red sheeting must represent more than two thirds the aggregate of any continuous strip marking the width of a trailer, or any continuous or broken strip marking its length.
 
@@ -949,19 +949,19 @@ S8.2.3 Conspicuity system installation on trailers.
 
 S8.2.3.1 Trailer rear.
 
-S8.2.3.1.1 Element 1âalternating red and white materials. As shown in Figure 11, a strip of sheeting or conspicuity reflex reflectors, as horizontal as practicable, must be applied across the full width of the trailer, as close to the extreme edges as practicable, and as close as practicable to not less than 375 mm and not more than 1525 mm above the road surface at the strip centerline with the trailer at curb weight.
+S8.2.3.1.1 Element 1—alternating red and white materials. As shown in Figure 11, a strip of sheeting or conspicuity reflex reflectors, as horizontal as practicable, must be applied across the full width of the trailer, as close to the extreme edges as practicable, and as close as practicable to not less than 375 mm and not more than 1525 mm above the road surface at the strip centerline with the trailer at curb weight.
 
-S8.2.3.1.2 Element 2âwhite. (not required for container chassis or for platform trailers without bulkheads).
+S8.2.3.1.2 Element 2—white. (not required for container chassis or for platform trailers without bulkheads).
 
 S8.2.3.1.2.1 As shown in Figure 11, two pairs of strips of sheeting or conspicuity reflex reflectors, each pair consisting of strips 300 mm long of Grade DOT-C2, DOT-C3, or DOT-C4, must be applied horizontally and vertically to the right and left upper contours of the body, as viewed from the rear, as close to the top of the trailer and as far apart as practicable.
 
 S8.2.3.1.2.2 If the perimeter of the body, as viewed from the rear, is other than rectangular, the strips may be applied along the perimeter, as close as practicable to the uppermost and outermost areas of the rear of the body on the left and right sides.
 
-S8.2.3.1.3 Element 3âalternating red and white materials. (not required for trailers without underride protection devices).
+S8.2.3.1.3 Element 3—alternating red and white materials. (not required for trailers without underride protection devices).
 
 S8.2.3.1.3.1 As shown in Figure 11, a strip of Grade DOT-C2 sheeting no less than 38 mm wide or reflectors must be applied across the full width of the horizontal member of the rear underride protection device.
 
-S8.2.3.2 Trailer sideâalternating red and white materials.
+S8.2.3.2 Trailer side—alternating red and white materials.
 
 S8.2.3.2.1 As shown in Figure 11, a strip of sheeting or conspicuity reflex reflectors must be applied to each side, as horizontal as practicable, originating and terminating as close to the front and rear as practicable, as close as practicable to not less than 375 mm and not more than 1525 mm above the road surface at the strip centerline at curb weight, except that at the location chosen the strip must not be obscured in whole or in part by other motor vehicle equipment or trailer cargo.
 
@@ -971,7 +971,7 @@ S8.2.3.2.3 If necessary to clear rivet heads or other similar obstructions, Grad
 
 S8.2.4 Conspicuity system installation on truck tractors.
 
-S8.2.4.1 Element 1âalternating red and white materials. As shown in Figure 13, two strips of sheeting or conspicuity reflex reflectors, each not less than 600 mm long, located as close as practicable to the edges of the rear fenders, mudflaps, or the mudflap support brackets, must be applied to mark the width of the truck tractor.
+S8.2.4.1 Element 1—alternating red and white materials. As shown in Figure 13, two strips of sheeting or conspicuity reflex reflectors, each not less than 600 mm long, located as close as practicable to the edges of the rear fenders, mudflaps, or the mudflap support brackets, must be applied to mark the width of the truck tractor.
 
 S8.2.4.1.1 The strips must be mounted as horizontal as practicable, in a vertical plane facing the rear, on the rear fenders, on the mudflap support brackets, on plates attached to the mudflap support brackets, or on the mudflaps.
 
@@ -981,7 +981,7 @@ S8.2.4.1.3 For a truck tractor without mudflaps, the strips may be mounted outbo
 
 S8.2.4.1.4 If the strips are mounted on the back of the cab, no more than 25% of their cumulative area may be obscured by vehicle equipment as determined in a rear orthogonal view.
 
-S8.2.4.2 Element 2âwhite. As shown in Figure 13, two pairs of strips of sheeting or conspicuity reflex reflectors, each pair consisting of strips 300 mm long, must be applied horizontally and vertically as practicable to the right and left upper contours of the cab, as close to the top of the cab and as far apart as practicable.
+S8.2.4.2 Element 2—white. As shown in Figure 13, two pairs of strips of sheeting or conspicuity reflex reflectors, each pair consisting of strips 300 mm long, must be applied horizontally and vertically as practicable to the right and left upper contours of the cab, as close to the top of the cab and as far apart as practicable.
 
 S8.2.4.2.1 No more than 25% of their cumulative area may be obscured by vehicle equipment as determined in a rear orthogonal view.
 
@@ -1018,9 +1018,9 @@ S9.3.4.1 If the indicator is located inside the vehicle it must emit a green col
 
 S9.3.4.2 If the indicator is located outside of the vehicle it must emit a yellow light and have a minimum projected illuminated area of 0.1 sq in.
 
-S9.3.5 The minimum required illuminated area of the indicator must be visible to any tangent on the 95th eyellipse as defined in SAE Recommended Practice J941b (1969) (incorporated by reference, see Â§ 571.5), with the steering wheel turned to a straight ahead driving position and in the design location for an adjustable wheel or column.
+S9.3.5 The minimum required illuminated area of the indicator must be visible to any tangent on the 95th eyellipse as defined in SAE Recommended Practice J941b (1969) (incorporated by reference, see § 571.5), with the steering wheel turned to a straight ahead driving position and in the design location for an adjustable wheel or column.
 
-S9.3.6 Turn signal lamp failure. Failure of one or more turn signal lamps such that the minimum photometric performance specified in Tables VI or VII is not being met must be indicated by the turn signal pilot indicator by a âsteady onâ, âsteady offâ, or by a significant change in the flashing rate, except when a variable-load turn signal flasher is used on a multipurpose passenger vehicle, truck, or bus 2032 mm or more in overall width, on a truck that is capable of accommodating a slide in camper, or on any vehicle equipped to tow trailers.
+S9.3.6 Turn signal lamp failure. Failure of one or more turn signal lamps such that the minimum photometric performance specified in Tables VI or VII is not being met must be indicated by the turn signal pilot indicator by a “steady on”, “steady off”, or by a significant change in the flashing rate, except when a variable-load turn signal flasher is used on a multipurpose passenger vehicle, truck, or bus 2032 mm or more in overall width, on a truck that is capable of accommodating a slide in camper, or on any vehicle equipped to tow trailers.
 
 S9.4 Headlamp beam switching device. Each vehicle must have a means of switching between lower and upper beams designed and located so that it may be operated conveniently by a simple movement of the driver's hand or foot. The switch must have no dead point and, except as provided by S6.1.5.2, the lower and upper beams must not be energized simultaneously except momentarily for temporary signaling purposes or during switching between beams.
 
@@ -1034,7 +1034,7 @@ S9.4.1.3 Fail safe operation. A failure of the automatic control portion of the 
 
 S9.4.1.4 Automatic dimming indicator. There must be a convenient means of informing the driver when the device is controlling the headlamps automatically. For headlighting systems certified to Option 1, the device shall not affect the function of the upper beam indicator light.
 
-S9.4.1.5âOption 1 (Semiautomatic headlamp beam switching devices other than Adaptive Driving Beam systems).
+S9.4.1.5—Option 1 (Semiautomatic headlamp beam switching devices other than Adaptive Driving Beam systems).
 
 S9.4.1.5.1 Lens accessibility. The device lens must be accessible for cleaning while the device is installed on a vehicle.
 
@@ -1042,7 +1042,7 @@ S9.4.1.5.2 Mounting height. The center of the device lens must be mounted no les
 
 S9.4.1.5.3 Physical tests. Each semiautomatic headlamp beam switching device must be designed to conform to all applicable performance requirements of S14.9.3.11.
 
-S9.4.1.6âOption 2 (Adaptive Driving Beam systems).
+S9.4.1.6—Option 2 (Adaptive Driving Beam systems).
 
 S9.4.1.6.1 The system must be capable of detecting system malfunctions (including but not limited to sensor obstruction).
 
@@ -1127,7 +1127,7 @@ S10.11 Markings. See S6.5.
 
 S10.12 Spacing to other lamps. See S6.1.3.5.
 
-S10.13 Sealed beam headlighting systems. All sealed beam headlighting systems must be of a type designated in Table II-a. Each sealed beam headlamp must be designed to conform to the specifications furnished with respect to it pursuant to appendix C of part 564 of this chapter and Table II-a of this standard. The dimensions applicable to the design of a specific type are those identified with an âIâ for interchangeability specified on the applicable drawing(s) filed in Docket No. NHTSA 98-3397.
+S10.13 Sealed beam headlighting systems. All sealed beam headlighting systems must be of a type designated in Table II-a. Each sealed beam headlamp must be designed to conform to the specifications furnished with respect to it pursuant to appendix C of part 564 of this chapter and Table II-a of this standard. The dimensions applicable to the design of a specific type are those identified with an “I” for interchangeability specified on the applicable drawing(s) filed in Docket No. NHTSA 98-3397.
 
 S10.13.1 Installation. A sealed beam headlighting system must consist of the correct number of designated headlamp units as specified for the applicable system in Table II-a. The units must have their beams activated as specified in Table II-a. A system must provide in total not more than two upper beams and two lower beams.
 
@@ -1155,7 +1155,7 @@ S10.14.2.2 A system that incorporates more than one beam contributor providing a
 
 S10.14.3 Simultaneous aim. An integral beam headlighting system consisting of four individual headlamps or beam contributors may have the headlamp units mounted in an assembly to permit simultaneous aiming of the beam(s) contributors, providing that with any complying contributor the assembly complete with all lamps meets the applicable photometric requirements when tested in accordance with S14.2.5.
 
-S10.14.4 Markings. An integral beam headlamp with a single light source providing the lower beam must have its lens permanently marked with âLâ. An integral beam headlamp with a single light source providing the upper beam must have its lens permanently marked with âUâ.
+S10.14.4 Markings. An integral beam headlamp with a single light source providing the lower beam must have its lens permanently marked with “L”. An integral beam headlamp with a single light source providing the upper beam must have its lens permanently marked with “U”.
 
 S10.14.5 Additional light sources. An integral beam headlamp may incorporate light sources that are used for purposes other than headlighting and are capable of being replaced.
 
@@ -1175,7 +1175,7 @@ S10.14.7.5 Each integral beam headlamp except those with a glass lens and a non-
 
 S10.14.7.6 Each integral beam headlamp incorporating a replaceable lens must be designed to conform to the performance requirements of the chemical resistance of reflectors of replaceable lens headlamps test and the corrosion resistance of reflectors of replaceable lens headlamps test of S14.6.
 
-S10.14.7.7 Each integral beam headlamp capable of being mechanically aimed by externally applied headlamp aiming devices specified in SAE Recommended Practice J602-1980 (incorporated by reference, see Â§ 571.5), must be designed to conform to the performance requirements of the torque deflection test of S14.6.
+S10.14.7.7 Each integral beam headlamp capable of being mechanically aimed by externally applied headlamp aiming devices specified in SAE Recommended Practice J602-1980 (incorporated by reference, see § 571.5), must be designed to conform to the performance requirements of the torque deflection test of S14.6.
 
 S10.14.7.8 Each integral beam headlamp must be designed to conform to the performance requirements of the color test of S14.4. Each integral beam headlamp that does not incorporate a glass lens must be designed to conform to the performance requirements of the plastic optical materials test of S14.4.
 
@@ -1189,7 +1189,7 @@ S10.15.3 Replacement lens reflector units. Each lens reflector unit manufactured
 
 S10.15.4 Markings.
 
-S10.15.4.1 A replaceable bulb headlamp in a four headlamp system providing lower beam must have its lens permanently marked with âLâ. A replaceable bulb headlamp in a four headlamp system providing upper beam must have its lens permanently marked with âUâ.
+S10.15.4.1 A replaceable bulb headlamp in a four headlamp system providing lower beam must have its lens permanently marked with “L”. A replaceable bulb headlamp in a four headlamp system providing upper beam must have its lens permanently marked with “U”.
 
 S10.15.4.1.1 No such markings are required if the light sources in the headlamp are any combination of dual filament light sources other than HB2.
 
@@ -1209,7 +1209,7 @@ S10.15.7.4 Each replaceable bulb headlamp except those with a glass lens and a n
 
 S10.15.7.5 Each replaceable bulb headlamp incorporating a replaceable lens must be designed to conform to the performance requirements of the chemical resistance of reflectors of replaceable lens headlamps test and the corrosion resistance of reflectors of replaceable lens headlamps test of S14.6.
 
-S10.15.7.6 Each replaceable bulb headlamp capable of being mechanically aimed by externally applied headlamp aiming devices specified in SAE Recommended Practice J602-1980 (incorporated by reference, see Â§ 571.5), must be designed to conform to the performance requirements of the torque deflection test of S14.6.
+S10.15.7.6 Each replaceable bulb headlamp capable of being mechanically aimed by externally applied headlamp aiming devices specified in SAE Recommended Practice J602-1980 (incorporated by reference, see § 571.5), must be designed to conform to the performance requirements of the torque deflection test of S14.6.
 
 S10.15.7.7 Each replaceable bulb headlamp must be designed to conform to the performance requirements of the color test of S14.4. Each replaceable bulb headlamp that does not incorporate a glass lens must be designed to conform to the performance requirements of the plastic optical materials test of S14.4.
 
@@ -1255,7 +1255,7 @@ S10.17.1.3.1 If the system consists of two headlamps, one of which provides an u
 
 S10.17.1.3.2 If the headlamps are horizontally disposed about the vertical centerline, the distance between the closest edges of their effective projected luminous lens areas must not be greater than 200 mm.
 
-S10.17.2 Motorcycle replaceable bulb headlamp marking. Each replaceable bulb headlamp that is designed to conform to S10.17(b) and that is equipped with a light source other than a replaceable light source meeting the requirements of S11, must have the word âmotorcycleâ permanently marked on the lens in characters not less than 3 mm in height.
+S10.17.2 Motorcycle replaceable bulb headlamp marking. Each replaceable bulb headlamp that is designed to conform to S10.17(b) and that is equipped with a light source other than a replaceable light source meeting the requirements of S11, must have the word “motorcycle” permanently marked on the lens in characters not less than 3 mm in height.
 
 S10.17.3 Photometry. Each motorcycle headlamp that is not designed to conform to S10.17(a), must be designed to conform to the photometry requirements of Table XX when tested according to the procedure of S14.2.5.
 
@@ -1265,7 +1265,7 @@ S10.17.5 Motorcycle headlamp modulation system. A headlamp on a motorcycle may b
 
 S10.17.5.1 Modulation.
 
-(a) The rate of modulation must be 240 Â±40 cycles per minute.
+(a) The rate of modulation must be 240 ±40 cycles per minute.
 
 (b) The headlamp must be operated at maximum power for 50 to 70 percent of each cycle.
 
@@ -1275,7 +1275,7 @@ S10.17.5.1 Modulation.
 
 (e) Means must be provided so that both the lower beam and upper beam remain operable in the event of a modulator failure.
 
-(f) The system must include a sensor mounted with the axis of its sensing element perpendicular to a horizontal plane. Headlamp modulation must cease whenever the level of light emitted by a tungsten filament light operating at 3000Â° Kelvin is either less than 270 lux of direct light for upward pointing sensors or less than 60 lux of reflected light for downward pointing sensors. The light is measured by a silicon cell type light meter that is located at the sensor and pointing in the same direction as the sensor. A Kodak Gray Card (Kodak R-27) is placed at ground level to simulate the road surface in testing downward pointing sensors.
+(f) The system must include a sensor mounted with the axis of its sensing element perpendicular to a horizontal plane. Headlamp modulation must cease whenever the level of light emitted by a tungsten filament light operating at 3000° Kelvin is either less than 270 lux of direct light for upward pointing sensors or less than 60 lux of reflected light for downward pointing sensors. The light is measured by a silicon cell type light meter that is located at the sensor and pointing in the same direction as the sensor. A Kodak Gray Card (Kodak R-27) is placed at ground level to simulate the road surface in testing downward pointing sensors.
 
 (g) When tested in accordance with the test profile shown in Figure 9, the voltage drop across the modulator when the lamp is on at all test conditions for 12 volt systems and 6 volt systems must not be greater than 0.45 volt. The modulator must meet all the provisions of the standard after completion of the test profile shown in Figure 9.
 
@@ -1297,7 +1297,7 @@ S10.18.1.2 The adjustments must be conveniently made by one person with tools or
 
 S10.18.2 Headlamp aiming systems. When a headlamp system is installed on a motor vehicle, it must be aimable with at least one of the following: An externally applied aiming device, as specified in S10.18.7; an on-vehicle headlamp aiming device installed by the vehicle or lamp manufacturer, as specified in S10.18.8; or by visual/optical means, as specified in S10.18.9.
 
-S10.18.3 Aim adjustment interaction. When installed on the vehicle, adjustment of one aim axis through its full on-vehicle range must not cause the aim of the other axis to deviate more than Â±0.76Â°. If the performance specified is not achievable, the requirements of S10.18.3.1 apply, except that if the aiming mechanism is not a VHAD, the requirements specific to VHADs are not applicable, and the instruction must be specific to the aiming mechanism installed.
+S10.18.3 Aim adjustment interaction. When installed on the vehicle, adjustment of one aim axis through its full on-vehicle range must not cause the aim of the other axis to deviate more than ±0.76°. If the performance specified is not achievable, the requirements of S10.18.3.1 apply, except that if the aiming mechanism is not a VHAD, the requirements specific to VHADs are not applicable, and the instruction must be specific to the aiming mechanism installed.
 
 S10.18.3.1 Should the mechanism not meet the requirements of S10.18.3, a cautionary label must be placed adjacent to the mechanism stating the caution and including either the reason for the caution or the corrective action necessary. Each such label must also refer the reader to the vehicle operator's manual for complete instructions. Each such vehicle must be equipped with an operator's manual containing the complete instructions appropriate for the mechanism installed.
 
@@ -1311,45 +1311,45 @@ S10.18.5.2 Optical axis marking-lamp. Each headlamp or beam contributor that is 
 
 S10.18.5.3 Optical axis marking-visual/optical aim headlamp. There must be a mark or markings identifying the optical axis of the headlamp visible from the front of the headlamp when installed on the vehicle, to assure proper horizontal and vertical alignment of the aiming screen or optical aiming equipment with the headlamp being aimed. The manufacturer is free to choose the design of the mark or markings. The mark or markings may be on the interior or exterior of the lens or indicated by a mark or central structure on the interior or exterior of the headlamp.
 
-S10.18.6 Moveable reflectors. Each headlamp aimed by moving the reflector relative to the lens and headlamp housing, or vice versa, must conform with the photometric requirements applicable to it when tested according to the procedure of S14.2.5 with the lens at any position relative to the reflector within the full range of vertical pitch on the vehicle on which the headlamp system is installed and a horizontal range of Â±2.5Â°. Additionally it must comply with the aiming adjustment requirements of S14.6.
+S10.18.6 Moveable reflectors. Each headlamp aimed by moving the reflector relative to the lens and headlamp housing, or vice versa, must conform with the photometric requirements applicable to it when tested according to the procedure of S14.2.5 with the lens at any position relative to the reflector within the full range of vertical pitch on the vehicle on which the headlamp system is installed and a horizontal range of ±2.5°. Additionally it must comply with the aiming adjustment requirements of S14.6.
 
-S10.18.7 External aiming. Each headlighting system that is capable of being mechanically aimed by externally applied headlamp aiming devices must be mechanically aimable using the equipment specified in SAE Recommended Practice J602-1980 (incorporated by reference, see Â§ 571.5), without the removal of any ornamental trim rings, covers, wipers or other vehicle parts.
+S10.18.7 External aiming. Each headlighting system that is capable of being mechanically aimed by externally applied headlamp aiming devices must be mechanically aimable using the equipment specified in SAE Recommended Practice J602-1980 (incorporated by reference, see § 571.5), without the removal of any ornamental trim rings, covers, wipers or other vehicle parts.
 
-S10.18.7.1 Headlamp aiming device locating plates. Each headlighting system which is designed to use the Headlamp Aiming Device Locating Plates with adjustable legs for the 100 Ã 165 mm unit and the 142 Ã 200 mm unit, and which has adjustable length legs, must meet the following requirements:
+S10.18.7.1 Headlamp aiming device locating plates. Each headlighting system which is designed to use the Headlamp Aiming Device Locating Plates with adjustable legs for the 100 × 165 mm unit and the 142 × 200 mm unit, and which has adjustable length legs, must meet the following requirements:
 
 S10.18.7.1.1 The lens must have three aiming pads which meet the requirements of Figure 4, Dimensional Specifications for Location of Aiming Pads on Replaceable Bulb Headlamp Units. The aiming pads need not be centered at the geometric center of the lens, or on the optical axis. Except as provided in S10.18.7.1.2, a whole number, which represents the distance in tenths of an inch (i.e. 0.3 inch = 3) from the aiming reference plane to the respective aiming pads which are not in contact with that plane, must be inscribed adjacent to each respective aiming pad on the lens. The height of these numbers must be not less than .157 inch (4 mm). If there is interference between the plane and the area of the lens between the aiming pads, the whole number represents the distance to a secondary plane. The secondary plane must be located parallel to the aiming reference plane and as close to the lens as possible without causing interference.
 
-S10.18.7.1.2 If the most forward aiming pad is the lower inboard aiming pad, then the dimensions may be placed anywhere on the lens. The dimension for the outboard aiming pad (Dimension F in Figure 4) must be followed by the letter âHâ and the dimension for the center aiming pad must be followed by the letter âV.â The dimensions must be expressed in tenths of an inch.
+S10.18.7.1.2 If the most forward aiming pad is the lower inboard aiming pad, then the dimensions may be placed anywhere on the lens. The dimension for the outboard aiming pad (Dimension F in Figure 4) must be followed by the letter “H” and the dimension for the center aiming pad must be followed by the letter “V.” The dimensions must be expressed in tenths of an inch.
 
-S10.18.7.2 Nonadjustable headlamp aiming device locating plates. Each headlamp may be designed to use the nonadjustable Headlamp Aiming Device Locating Plate for the 100 Ã 165 mm unit, the 142 Ã 200 mm unit, the 146 mm diameter unit, or the 178 mm diameter unit of SAE Recommended Practice J602-1980 (incorporated by reference, see Â§ 571.5), or the 92 Ã 150 mm Type F unit, and incorporate lens-mounted aiming pads as specified for those units pursuant to Appendix C of part 564 of this chapter. If so designed, no additional lens marking is necessary to designate the type of plate or dimensions.
+S10.18.7.2 Nonadjustable headlamp aiming device locating plates. Each headlamp may be designed to use the nonadjustable Headlamp Aiming Device Locating Plate for the 100 × 165 mm unit, the 142 × 200 mm unit, the 146 mm diameter unit, or the 178 mm diameter unit of SAE Recommended Practice J602-1980 (incorporated by reference, see § 571.5), or the 92 × 150 mm Type F unit, and incorporate lens-mounted aiming pads as specified for those units pursuant to Appendix C of part 564 of this chapter. If so designed, no additional lens marking is necessary to designate the type of plate or dimensions.
 
 S10.18.8 On-vehicle aiming. Each headlighting system that is capable of being aimed by equipment installed on the vehicle must include a Vehicle Headlamp Aiming Device (VHAD) that conforms to the following requirements:
 
 S10.18.8.1 Aim. The VHAD must provide for headlamp aim inspection and adjustment in both the vertical and horizontal axes.
 
-S10.18.8.1.1 Vertical aim. The VHAD must include the necessary references and scales relative to the horizontal plane to assure correct vertical aim for photometry and aiming purposes. An off vehicle measurement of the angle of the plane of the ground is permitted. In addition, an equal number of graduations from the â0â position representing angular changes in the axis in the upward and downward directions must be provided.
+S10.18.8.1.1 Vertical aim. The VHAD must include the necessary references and scales relative to the horizontal plane to assure correct vertical aim for photometry and aiming purposes. An off vehicle measurement of the angle of the plane of the ground is permitted. In addition, an equal number of graduations from the “0” position representing angular changes in the axis in the upward and downward directions must be provided.
 
-S10.18.8.1.1.1 Each graduation must represent a change in the vertical position of the mechanical axis not larger than 0.19Â° (1 in at 25 ft) to provide for variations in aim at least 1.2Â° above and below the horizontal, and have an accuracy relative to the zero mark of less than 0.1Â°.
+S10.18.8.1.1.1 Each graduation must represent a change in the vertical position of the mechanical axis not larger than 0.19° (1 in at 25 ft) to provide for variations in aim at least 1.2° above and below the horizontal, and have an accuracy relative to the zero mark of less than 0.1°.
 
 S10.18.8.1.1.2 The VHAD must be marked to indicate headlamp aim movement in the upward and downward directions.
 
 S10.18.8.1.1.3 Each graduation must indicate a linear movement of the scale indicator of not less than 0.05 in (1.27 mm) if a direct reading analog indicator is used. If a remote reading indicator is provided, it must represent the actual aim movement in a clear, understandable format.
 
-S10.18.8.1.1.4 The vertical indicator must perform through a minimum range of Â±1.2Â°.
+S10.18.8.1.1.4 The vertical indicator must perform through a minimum range of ±1.2°.
 
-S10.18.8.1.1.5 Means must be provided in the VHAD for compensating for deviations in floor slope less than 1.2Â° from the horizontal that would affect the correct positioning of the headlamp for vertical aim.
+S10.18.8.1.1.5 Means must be provided in the VHAD for compensating for deviations in floor slope less than 1.2° from the horizontal that would affect the correct positioning of the headlamp for vertical aim.
 
-S10.18.8.1.1.6 The graduations must be legible under an illumination level not greater than 30 foot candles, measured at the top of the graduation, by an observer having 20/20 vision (Snellen), and must permit aim adjustment to within 0.19Â° (1 in at 25 ft).
+S10.18.8.1.1.6 The graduations must be legible under an illumination level not greater than 30 foot candles, measured at the top of the graduation, by an observer having 20/20 vision (Snellen), and must permit aim adjustment to within 0.19° (1 in at 25 ft).
 
-S10.18.8.1.2 Horizontal aim. The VHAD must include references and scales relative to the longitudinal axis of the vehicle necessary to assure correct horizontal aim for photometry and aiming purposes. A â0â mark must be used to indicate alignment of the headlamps relative to the longitudinal axis of the vehicle. In addition, an equal number of graduations from the â0â position representing equal angular changes in the axis relative to the vehicle axis must be provided. If the horizontal VHAD is part of an adaptive driving beam system, S10.18.8.1.2.1 through S10.18.8.1.2.4 are not required.
+S10.18.8.1.2 Horizontal aim. The VHAD must include references and scales relative to the longitudinal axis of the vehicle necessary to assure correct horizontal aim for photometry and aiming purposes. A “0” mark must be used to indicate alignment of the headlamps relative to the longitudinal axis of the vehicle. In addition, an equal number of graduations from the “0” position representing equal angular changes in the axis relative to the vehicle axis must be provided. If the horizontal VHAD is part of an adaptive driving beam system, S10.18.8.1.2.1 through S10.18.8.1.2.4 are not required.
 
-S10.18.8.1.2.1 Each graduation must represent a change in the horizontal position of the mechanical axis not greater than 0.38Â° (2 in at 25 ft) to provide for variations in aim at least 0.76Â° (4 in at 25 ft) to the left and right of the longitudinal axis of the vehicle, and must have an accuracy relative to the zero mark of less than 0.1Â°.
+S10.18.8.1.2.1 Each graduation must represent a change in the horizontal position of the mechanical axis not greater than 0.38° (2 in at 25 ft) to provide for variations in aim at least 0.76° (4 in at 25 ft) to the left and right of the longitudinal axis of the vehicle, and must have an accuracy relative to the zero mark of less than 0.1°.
 
 S10.18.8.1.2.2 The VHAD must be marked to indicate headlamp aim movement in the left and right directions.
 
-S10.18.8.1.2.3 The graduations must be legible under an illumination level not greater than 30 foot candles, measured at the top of the graduation, by an observer having 20/20 vision (Snellen), and must permit aim adjustment to within 0.38Â° (2 in at 25 ft).
+S10.18.8.1.2.3 The graduations must be legible under an illumination level not greater than 30 foot candles, measured at the top of the graduation, by an observer having 20/20 vision (Snellen), and must permit aim adjustment to within 0.38° (2 in at 25 ft).
 
-S10.18.8.1.2.4 The horizontal indicator must perform through a minimum range of Â±0.76Â° (4 in at 25 ft); however, the indicator itself must be capable of recalibration over a movement of Â±2.5Â° relative to the longitudinal axis of the vehicle to accommodate any adjustment necessary for recalibrating the indicator after vehicle repair from accident damage.
+S10.18.8.1.2.4 The horizontal indicator must perform through a minimum range of ±0.76° (4 in at 25 ft); however, the indicator itself must be capable of recalibration over a movement of ±2.5° relative to the longitudinal axis of the vehicle to accommodate any adjustment necessary for recalibrating the indicator after vehicle repair from accident damage.
 
 S10.18.8.2 Aiming instructions.
 
@@ -1367,13 +1367,13 @@ S10.18.9 Visual/optical aiming. Each visually/optically aimable headlamp must be
 
 S10.18.9.1 Vertical aim, lower beam. Each lower beam headlamp must have a cutoff in the beam pattern. It may be either on the left side or the right side of the optical axis, but once chosen for a particular headlamp system's design, the side chosen for the cutoff must not be changed for any headlamps intended to be used as replacements for those system's headlamps.
 
-S10.18.9.1.1 Vertical position of the cutoff. The headlamp must be aimed vertically so that the cutoff is on the left side, at 0.4Â° down from the H-H line, or on the right side, at the H-H line.
+S10.18.9.1.1 Vertical position of the cutoff. The headlamp must be aimed vertically so that the cutoff is on the left side, at 0.4° down from the H-H line, or on the right side, at the H-H line.
 
-S10.18.9.1.2 Vertical gradient. The gradient of the cutoff measured at either 2.5Â° L or 2.0Â° R must be not less than 0.13 based on the procedure of S10.18.9.1.5.
+S10.18.9.1.2 Vertical gradient. The gradient of the cutoff measured at either 2.5° L or 2.0° R must be not less than 0.13 based on the procedure of S10.18.9.1.5.
 
-S10.18.9.1.3 Horizontal position of the cutoff. The width must be not less than 2Â°, with not less than 2Â° of its actual width centered at either 2.5Â° L, or 2.0Â° R.
+S10.18.9.1.3 Horizontal position of the cutoff. The width must be not less than 2°, with not less than 2° of its actual width centered at either 2.5° L, or 2.0° R.
 
-S10.18.9.1.4 Maximum inclination of the cutoff. The vertical location of the highest gradient at the ends of the minimum width must be within Â±0.2Â° of the vertical location of the maximum gradient measured at the appropriate vertical line (at either 2.5Â° L for a left side cutoff, or 2.0Â° R for a right side cutoff).
+S10.18.9.1.4 Maximum inclination of the cutoff. The vertical location of the highest gradient at the ends of the minimum width must be within ±0.2° of the vertical location of the maximum gradient measured at the appropriate vertical line (at either 2.5° L for a left side cutoff, or 2.0° R for a right side cutoff).
 
 S10.18.9.1.5 Measuring the cutoff parameter.
 
@@ -1381,9 +1381,9 @@ S10.18.9.1.5.1 The headlamp is mounted on a headlamp test fixture which simulate
 
 S10.18.9.1.5.2 The headlamp beam pattern is aimed with the cutoff at the H-H axis. There is no adjustment, shimming, or modification of the horizontal axis of the headlamp or test fixture, unless the headlamp is equipped with a VHAD. In this case the VHAD is adjusted to zero.
 
-S10.18.9.1.5.3 A vertical scan of the beam pattern is conducted for a headlamp with a left side gradient by aligning the goniometer on a vertical line at 2.5Â° L and scanning from 1.5Â° U to 1.5Â° D. For a headlamp with a right side gradient, a vertical scan of the beam pattern is conducted by aligning the goniometer on a vertical line at 2.0Â° R and scanning from 1.5Â° U to 1.5Â° D.
+S10.18.9.1.5.3 A vertical scan of the beam pattern is conducted for a headlamp with a left side gradient by aligning the goniometer on a vertical line at 2.5° L and scanning from 1.5° U to 1.5° D. For a headlamp with a right side gradient, a vertical scan of the beam pattern is conducted by aligning the goniometer on a vertical line at 2.0° R and scanning from 1.5° U to 1.5° D.
 
-S10.18.9.1.5.4 Determine the maximum gradient within the range of the scan by using the formula: G = log E(a)âlogE(a + 0.1), where âGâ is the gradient, âEâ is illumination and âaâ is vertical angular position. The maximum value of the gradient âGâ determines the vertical angular location of the cutoff. Perform vertical scans at 1.0Â° L and R of the measurement point of the maximum gradient to determine the inclination.
+S10.18.9.1.5.4 Determine the maximum gradient within the range of the scan by using the formula: G = log E(a)−logE(a + 0.1), where “G” is the gradient, “E” is illumination and “a” is vertical angular position. The maximum value of the gradient “G” determines the vertical angular location of the cutoff. Perform vertical scans at 1.0° L and R of the measurement point of the maximum gradient to determine the inclination.
 
 S10.18.9.2 Horizontal aim, lower beam. There is no adjustment of horizontal aim unless the headlamp is equipped with a horizontal VHAD. If the headlamp has a VHAD, it is set to zero.
 
@@ -1397,7 +1397,7 @@ S10.18.9.4 Horizontal aim, upper beam.
 
 S10.18.9.4.1 If the upper beam is combined in a headlamp with a lower beam, the horizontal aim of the upper beam must not be changed from the aim set using the procedures of S10.18.9.1 and S10.18.9.2 used for the lower beam.
 
-S10.18.9.4.2 If the upper beam is not combined in a headlamp with the lower beam and has fixed horizontal aim or has a horizontal VHAD, then the headlamp is mounted on a headlamp test fixture which simulates its actual design location on any vehicle for which the headlamp is intended. The fixture, with the headlamp installed, is attached to the goniometer table in such a way that the fixture alignment axes are coincident with the goniometer axes. The headlamp must be energized at 12.8 Â±0.20 mV. There is no adjustment, shimming, or modification of the horizontal axis of the headlamp or test fixture, unless the headlamp is equipped with a VHAD. In this case the VHAD is adjusted to zero.
+S10.18.9.4.2 If the upper beam is not combined in a headlamp with the lower beam and has fixed horizontal aim or has a horizontal VHAD, then the headlamp is mounted on a headlamp test fixture which simulates its actual design location on any vehicle for which the headlamp is intended. The fixture, with the headlamp installed, is attached to the goniometer table in such a way that the fixture alignment axes are coincident with the goniometer axes. The headlamp must be energized at 12.8 ±0.20 mV. There is no adjustment, shimming, or modification of the horizontal axis of the headlamp or test fixture, unless the headlamp is equipped with a VHAD. In this case the VHAD is adjusted to zero.
 
 S10.18.9.4.3 If the upper beam is not combined in a headlamp with a lower beam, and it does not have a VHAD, the horizontal aim of the upper beam is adjusted so that the maximum beam intensity is located on the V-V axis.
 
@@ -1405,9 +1405,9 @@ S10.18.9.5 Photometry. When tested according to the procedure of S14.2.5, a visu
 
 S10.18.9.6 Visual/optical aiming identification marking. Each letter used in marking according to this paragraph must be not less than 3 mm high.
 
-S10.18.9.6.1 The lens of a lower beam headlamp must be marked âVOLâ if the headlamp is intended to be visually/optically aimed using the left side of the lower beam pattern. The lens of a lower beam headlamp must be marked âVORâ if the headlamp is intended to be visually/optically aimed using the right side of the lower beam pattern. The lens of a headlamp that is solely an upper beam headlamp and intended to be visually/optically aimed using the upper beam must be marked âVOâ.
+S10.18.9.6.1 The lens of a lower beam headlamp must be marked “VOL” if the headlamp is intended to be visually/optically aimed using the left side of the lower beam pattern. The lens of a lower beam headlamp must be marked “VOR” if the headlamp is intended to be visually/optically aimed using the right side of the lower beam pattern. The lens of a headlamp that is solely an upper beam headlamp and intended to be visually/optically aimed using the upper beam must be marked “VO”.
 
-S10.18.9.6.2 The lens of each sealed beam or integral beam headlamp must be marked âVORâ if the headlamp is of a type that was manufactured before May 1, 1997, and if such headlamp type has been redesigned since then to be visually/optically aimable.
+S10.18.9.6.2 The lens of each sealed beam or integral beam headlamp must be marked “VOR” if the headlamp is of a type that was manufactured before May 1, 1997, and if such headlamp type has been redesigned since then to be visually/optically aimable.
 
 S11 Replaceable light source requirements. Each replaceable light source must be designed to conform to the dimensions and electrical specifications furnished with respect to it pursuant to part 564 of this chapter, on file in Docket No. NHTSA 98-3397, and must conform to the following requirements:
 
@@ -1427,9 +1427,9 @@ S11.2 Ballast markings. If a ballast is required for operation, each ballast mus
 
 (f) Ballast output power in watts and output voltage in rms volts AC or DC; and
 
-(g) The symbol âDOTâ.
+(g) The symbol ‘DOT’.
 
-S11.3 Gas discharge laboratory life. For light sources that use excited gas mixtures as a filament or discharge arc, the ârated laboratory lifeâ is determined in accordance with sections 4.3 and 4.9 of SAE Recommended Practice J2009 FEB93, Forward Discharge Lighting Systems (incorporated by reference, see 571.108 S5.2 of this title).
+S11.3 Gas discharge laboratory life. For light sources that use excited gas mixtures as a filament or discharge arc, the “rated laboratory life” is determined in accordance with sections 4.3 and 4.9 of SAE Recommended Practice J2009 FEB93, Forward Discharge Lighting Systems (incorporated by reference, see 571.108 S5.2 of this title).
 
 S11.4 Physical tests.
 
@@ -1447,9 +1447,9 @@ S12.3 Except for malfunctions covered by S12.2, each headlamp concealment device
 
 S12.4 Each headlamp concealment device must be installed so that the headlamp may be mounted, aimed, and adjusted without removing any component of the device, other than components of the headlamp assembly.
 
-S12.5 Except for cases of malfunction covered by S12.2, each headlamp concealment device must, within an ambient temperature range of â20 Â°F to + 120 Â°F, be capable of being fully opened in not more than 3 seconds after the actuation of a driver-operated control.
+S12.5 Except for cases of malfunction covered by S12.2, each headlamp concealment device must, within an ambient temperature range of −20 °F to + 120 °F, be capable of being fully opened in not more than 3 seconds after the actuation of a driver-operated control.
 
-S12.6 As an alternative to complying with the requirements of S12.1 through S12.5, a vehicle with headlamps incorporating VHAD or visual/optical aiming in accordance with this standard may meet the requirements for Concealable lamps in paragraph 5.14 of UNECE Regulation 48 page 17 (incorporated by reference, see Â§ 571.5), in the English language version.
+S12.6 As an alternative to complying with the requirements of S12.1 through S12.5, a vehicle with headlamps incorporating VHAD or visual/optical aiming in accordance with this standard may meet the requirements for Concealable lamps in paragraph 5.14 of UNECE Regulation 48 page 17 (incorporated by reference, see § 571.5), in the English language version.
 
 S12.7 Certification election. Manufacturers of vehicles with headlamps incorporating VHAD or visual/optical aiming must elect to certify to S12.1 through S12.5 or to S12.6 prior to, or at the time of certification of the vehicle, pursuant to 49 CFR Part 567. The selection is irrevocable.
 
@@ -1485,18 +1485,18 @@ S14.2.1 Photometry measurements for all lamps except license plate lamps, headla
 
 S14.2.1.1 Mounting. Photometry measurements are made with the sample lamp mounted in its normal operating position.
 
-S14.2.1.2 School bus signal lamp aiming. A school bus signal lamp must be aimed with its aiming plane normal to the photometer axis and may be reaimed for photometry by Â±
-1/2Â° vertically and Â±1Â° horizontally.
+S14.2.1.2 School bus signal lamp aiming. A school bus signal lamp must be aimed with its aiming plane normal to the photometer axis and may be reaimed for photometry by ±
+1/2° vertically and ±1° horizontally.
 
 S14.2.1.3 Measurement distance. Photometric measurements are made at a distance between the light source and the point of measurement of at least 1.2 m for side marker lamps, clearance lamps, identification lamps, and parking lamps, and at least 3 m for turn signal lamps, stop lamps, taillamps, backup lamps, and school bus signal lamps.
 
 S14.2.1.4 Location of test points. Test point location must comply with the following nomenclature:
 
-(a) The line formed by the intersection of a vertical plane through the light source of the lamp and normal to the test screen is designated âVâ.
+(a) The line formed by the intersection of a vertical plane through the light source of the lamp and normal to the test screen is designated “V”.
 
-(b) The line formed by the intersection of a horizontal plane through the light source and normal to the test screen is designated âHâ.
+(b) The line formed by the intersection of a horizontal plane through the light source and normal to the test screen is designated “H”.
 
-(c) The point of intersection of these two lines is designated âH-Vâ.
+(c) The point of intersection of these two lines is designated “H-V”.
 
 (d) Other test points on the test screen are measured in terms of angles from the H and V lines.
 
@@ -1508,17 +1508,17 @@ S14.2.1.5.1 When compartments of lamps or arrangements of multiple lamps are pho
 
 S14.2.1.5.2 Luminous intensity measurements of multiple compartment lamps or multiple lamp arrangements are made either by:
 
-(a) Measuring all compartments together, provided that a line from the optical axis of each compartment or lamp to the center of the photometer sensing device does not make an angle more than 0.6Â° with the H-V axis, or
+(a) Measuring all compartments together, provided that a line from the optical axis of each compartment or lamp to the center of the photometer sensing device does not make an angle more than 0.6° with the H-V axis, or
 
 (b) Measuring each compartment or lamp separately by aligning its optical axis with the photometer and adding the value at each test point.
 
 S14.2.1.5.3 Multiple compartment turn signal lamps or stop lamps or multiple lamp arrangements of these lamps installed on multipurpose passenger vehicles, trucks, trailers, or buses 2032 mm or more in overall width must use the method of S14.2.1.5.2(b) only.
 
-S14.2.1.6 Bulbs. Except for a lamp having a sealed-in bulb, a lamp must meet the applicable requirements of this standard when tested with a bulb whose filament is positioned within Â±.010 in of the nominal design position specified in SAE Recommended Practice J573d (1968) (incorporated by reference, see Â§ 571.5) or specified by the bulb manufacturer and operated at the bulb's rated mean spherical candela.
+S14.2.1.6 Bulbs. Except for a lamp having a sealed-in bulb, a lamp must meet the applicable requirements of this standard when tested with a bulb whose filament is positioned within ±.010 in of the nominal design position specified in SAE Recommended Practice J573d (1968) (incorporated by reference, see § 571.5) or specified by the bulb manufacturer and operated at the bulb's rated mean spherical candela.
 
-S14.2.1.6.1 Each lamp designed to use a type of bulb that has not been assigned a mean spherical candela rating by its manufacturer and is not listed in SAE Recommended Practice J573d (1968) (incorporated by reference, see Â§ 571.5), must meet the applicable requirements of this standard when used with any bulb of the type specified by the lamp manufacturer, operated at the bulb's design voltage. A lamp that contains a sealed-in bulb must meet these requirements with the bulb operated at the bulb's design voltage.
+S14.2.1.6.1 Each lamp designed to use a type of bulb that has not been assigned a mean spherical candela rating by its manufacturer and is not listed in SAE Recommended Practice J573d (1968) (incorporated by reference, see § 571.5), must meet the applicable requirements of this standard when used with any bulb of the type specified by the lamp manufacturer, operated at the bulb's design voltage. A lamp that contains a sealed-in bulb must meet these requirements with the bulb operated at the bulb's design voltage.
 
-S14.2.1.6.2 A bulb that is not listed in SAE Recommended Practice J573d (1968) (incorporated by reference, see Â§ 571.5) is not required to use a socket that conforms to the requirements of SAE Recommended Practice J567b (1964) (incorporated by reference, see Â§ 571.5).
+S14.2.1.6.2 A bulb that is not listed in SAE Recommended Practice J573d (1968) (incorporated by reference, see § 571.5) is not required to use a socket that conforms to the requirements of SAE Recommended Practice J567b (1964) (incorporated by reference, see § 571.5).
 
 S14.2.2 License plate lamp photometry. Photometry compliance of license plate lamps is determined by measurement of the illumination falling upon test stations located on a test plate.
 
@@ -1532,7 +1532,7 @@ S14.2.3 Reflex reflector and retroreflective sheeting photometry.
 
 S14.2.3.1 Mounting. Each reflex reflector is mounted for photometry with the center of the reflex area at the center of goniometer rotation and at the same horizontal level as the source of illumination.
 
-S14.2.3.2 Illumination source. The source of illumination is a lamp with a 50 mm effective diameter and with a filament operating at 2856 Â°K.
+S14.2.3.2 Illumination source. The source of illumination is a lamp with a 50 mm effective diameter and with a filament operating at 2856 °K.
 
 S14.2.3.3 Measurement distance. The test distance is 30.5 m [100ft].
 
@@ -1560,32 +1560,32 @@ S14.2.3.8.2 Retroreflective sheeting. The required measurement for retroreflecti
 
 S14.2.3.8.3 Reflex reflector photometry measurement adjustments.
 
-S14.2.3.8.3.1 Reflex reflectors, which do not have a fixed rotational position on the vehicle, are rotated about their axis through 360Â° to find the minimum photometric value which must be reported for each test point. If the output falls below the minimum requirement at any test point, the reflector is rotated Â±5Â° about its axis from the angle where the minimum output occurred, and the maximum value within this angle is reported as a tolerance value.
+S14.2.3.8.3.1 Reflex reflectors, which do not have a fixed rotational position on the vehicle, are rotated about their axis through 360° to find the minimum photometric value which must be reported for each test point. If the output falls below the minimum requirement at any test point, the reflector is rotated ±5° about its axis from the angle where the minimum output occurred, and the maximum value within this angle is reported as a tolerance value.
 
 S14.2.3.8.3.2 Reflex reflectors, which by their design or construction, permit mounting on a vehicle in a fixed rotational position, are tested in this position. A visual locator, such as the word TOP is not considered adequate to establish a fixed rotational position on the vehicle.
 
-S14.2.3.8.3.3 If uncolored reflections from the front surface interfere with photometric readings at any test point, additional readings are taken 1Â° above, below, right, and left of the test point, and the lowest of these readings and its location is reported provided the minimum test point requirement for the test point is met.
+S14.2.3.8.3.3 If uncolored reflections from the front surface interfere with photometric readings at any test point, additional readings are taken 1° above, below, right, and left of the test point, and the lowest of these readings and its location is reported provided the minimum test point requirement for the test point is met.
 
 S14.2.4 Daytime running lamp (DRL) photometry measurements.
 
-S14.2.4.1 Each DRL is tested to the procedure of S14.2.5 when a test voltage of 12.8 v Â±20 mv is applied to the input terminals of the lamp switch module or voltage-reducing equipment, whichever is closer to the electrical source on the vehicle.
+S14.2.4.1 Each DRL is tested to the procedure of S14.2.5 when a test voltage of 12.8 v ±20 mv is applied to the input terminals of the lamp switch module or voltage-reducing equipment, whichever is closer to the electrical source on the vehicle.
 
 S14.2.4.2 The test distance from the lamp to the photometer is not less than 18.3 m if the lamp is optically combined with a headlamp, or is a separate lamp, and not less than 3 m if the lamp is optically combined with a lamp, other than a headlamp, that is required by this standard.
 
-S14.2.4.3 Except for a lamp having a sealed-in bulb, a lamp must meet the applicable requirements of this standard when tested with a bulb whose filament is positioned within Â±.010 in. of the nominal design position specified in SAE J573d, Lamp bulbs and Sealed Units, December 1968, (incorporated by reference, paragraph S5.2 of this section) or specified by the bulb manufacturer.
+S14.2.4.3 Except for a lamp having a sealed-in bulb, a lamp must meet the applicable requirements of this standard when tested with a bulb whose filament is positioned within ±.010 in. of the nominal design position specified in SAE J573d, Lamp bulbs and Sealed Units, December 1968, (incorporated by reference, paragraph S5.2 of this section) or specified by the bulb manufacturer.
 
 S14.2.5 Headlamp photometry measurements.
 
 S14.2.5.1 Mounting. Photometry measurements at the applicable test points are made with the sample headlamp mounted in its normal operating position.
 
-S14.2.5.2 Test points in the area from 10Â° U to 90Â° U must be measured from the normally exposed surface of the lens face.
+S14.2.5.2 Test points in the area from 10° U to 90° U must be measured from the normally exposed surface of the lens face.
 
 S14.2.5.3 Measurement distance. Photometric measurements are made at a distance between the light source and the photometer sensor of at least 18.3 m.
 
-S14.2.5.4 Seasoning and test voltage. All sealed beam headlamps, integral beam headlamps, beam contributors, and replaceable light sources are seasoned at design voltage for 1% of its average design life or 10 hours, whichever is less prior to a photometry test. A headlamp is tested at 12.8 v. Â±20 mv, D.C. as measured at the terminals of the lamp.
+S14.2.5.4 Seasoning and test voltage. All sealed beam headlamps, integral beam headlamps, beam contributors, and replaceable light sources are seasoned at design voltage for 1% of its average design life or 10 hours, whichever is less prior to a photometry test. A headlamp is tested at 12.8 v. ±20 mv, D.C. as measured at the terminals of the lamp.
 
 S14.2.5.5 Aiming. Each headlamp is aimed prior to a photometry test in accordance with the procedure appropriate to its aiming system. A
-1/4Â° reaim is permitted in any direction at any test point to allow for variations in readings between laboratories for all headlamps except a Type F upper beam unit not equipped with a VHAD.
+1/4° reaim is permitted in any direction at any test point to allow for variations in readings between laboratories for all headlamps except a Type F upper beam unit not equipped with a VHAD.
 
 S14.2.5.5.1 Mechanically aimable headlamps using an external aimer. The headlamp is aimed mechanically with the aiming plane at the design angle(s) to the photometer axis and the mechanical axis of the headlamp on the photometer axis.
 
@@ -1593,7 +1593,7 @@ S14.2.5.5.2 Mechanically aimable headlamps equipped with a VHAD. The headlamp is
 
 S14.2.5.5.3 Visually aimable lower beam headlamps-vertical aim.
 
-S14.2.5.5.3.1 A VOL cutoff headlamp must have the location of the cutoff maximum gradient, as determined by the method of this standard, positioned at 0.4Â° down from the H-H line.
+S14.2.5.5.3.1 A VOL cutoff headlamp must have the location of the cutoff maximum gradient, as determined by the method of this standard, positioned at 0.4° down from the H-H line.
 
 S14.2.5.5.3.2 A VOR cutoff headlamp must have the location of the cutoff maximum gradient, as determined by the method of this standard, positioned at the H-H line.
 
@@ -1609,7 +1609,7 @@ S14.2.5.5.6 Visually aimable upper beam headlamps-horizontal aim.
 
 S14.2.5.5.6.1 A headlamp whose upper beam is combined with a lower beam must not have its horizontal aim changed from that set for the lower beam.
 
-S14.2.5.5.6.2 A headlamp whose upper beam is not combined with a lower beam and has a fixed horizontal aim or has a horizontal VHAD must be mounted in its normal operating position on a goniometer such that the mounting fixture alignment axes are coincident with the goniometer axes and must be energized at 12.8 v Â±20 mv. There must be no adjustment, shimming, or modification of the horizontal axis of the headlamp or test fixture, unless the headlamp is equipped with a VHAD, in which case the VHAD must be adjusted to zero.
+S14.2.5.5.6.2 A headlamp whose upper beam is not combined with a lower beam and has a fixed horizontal aim or has a horizontal VHAD must be mounted in its normal operating position on a goniometer such that the mounting fixture alignment axes are coincident with the goniometer axes and must be energized at 12.8 v ±20 mv. There must be no adjustment, shimming, or modification of the horizontal axis of the headlamp or test fixture, unless the headlamp is equipped with a VHAD, in which case the VHAD must be adjusted to zero.
 
 S14.2.5.5.6.3 A headlamp whose upper beam is not combined with a lower beam and is not equipped with a horizontal VHAD, the horizontal aim must be adjusted so that the maximum beam intensity is positioned on the V-V axis.
 
@@ -1619,7 +1619,7 @@ S14.2.5.5.7.1 A headlamp system permitted to use simultaneous aim of lower beams
 
 S14.2.5.5.7.2 The headlamp must be aimed for upper beam photometry by moving the assembly in a plane parallel to the established lower beam aiming plane until the upper beam unit or the geometric center of all upper beam contributors is centered in the photometric axis.
 
-S14.2.5.5.8 Motorcycle headlamp-upper beam headlamps designed to comply with Table XX. The upper beam of a multiple beam headlamp designed to comply with the requirements of Table XX must be aimed photoelectrically so that the center of the zone of highest intensity falls 0.4Â° vertically below the lamp axis and is centered laterally. The center of the zone of highest intensity must be established by the intersection of a horizontal plane passing through the point of maximum intensity, and the vertical plane established by balancing the photometric values at 3Â°L and 3Â°R.
+S14.2.5.5.8 Motorcycle headlamp-upper beam headlamps designed to comply with Table XX. The upper beam of a multiple beam headlamp designed to comply with the requirements of Table XX must be aimed photoelectrically so that the center of the zone of highest intensity falls 0.4° vertically below the lamp axis and is centered laterally. The center of the zone of highest intensity must be established by the intersection of a horizontal plane passing through the point of maximum intensity, and the vertical plane established by balancing the photometric values at 3°L and 3°R.
 
 S14.2.5.5.9 Motorcycle headlamp-lower beam headlamps designed to comply with Table XX. The beam from a single beam headlamp designed to comply with the requirements of Table XX must be aimed straight ahead with the top of the beam aimed vertically to obtain 2000 cd at H-V.
 
@@ -1637,15 +1637,15 @@ S14.2.5.7.2.2 The sensor effective area is defined as the actual area of interce
 
 S14.2.5.7.2.3 The sensor must be capable of intercepting all direct illumination from the largest illuminated dimension of the sample lamp at the test distance.
 
-S14.2.5.7.3 The color response of the photometer must be corrected to that of the 1931 CIE Standard Observer (2-degree) Photopic Response Curve, as shown in the CIE 1931 Chromaticity Diagram (incorporated by reference, see Â§ 571.5).
+S14.2.5.7.3 The color response of the photometer must be corrected to that of the 1931 CIE Standard Observer (2-degree) Photopic Response Curve, as shown in the CIE 1931 Chromaticity Diagram (incorporated by reference, see § 571.5).
 
 S14.2.5.8 Location of test points.
 
 S14.2.5.8.1 Test point positions are defined by the positioner. The following nomenclature applies:
 
-S14.2.5.8.1.1 The letters âVâ and âHâ designate the vertical and horizontal planes intersecting both the headlamp light source and the photometer axis. âH-Vâ designates the zero test point angle at the intersection of the H and V planes. This intersection is parallel to the longitudinal axis of the vehicle.
+S14.2.5.8.1.1 The letters “V” and “H” designate the vertical and horizontal planes intersecting both the headlamp light source and the photometer axis. “H-V” designates the zero test point angle at the intersection of the H and V planes. This intersection is parallel to the longitudinal axis of the vehicle.
 
-S14.2.5.8.1.2 The letters âUâ, âDâ, âLâ, and âRâ, indicating up, down, left and right, respectively, designate the angular position from the H and V planes to the photometer as viewed from the headlamp.
+S14.2.5.8.1.2 The letters “U”, “D”, “L”, and “R”, indicating up, down, left and right, respectively, designate the angular position from the H and V planes to the photometer as viewed from the headlamp.
 
 S14.2.5.8.1.3 Horizontal angles designated L and R are defined as the plan view angle between the vertical plane and the projection of the light ray from the headlamp onto the horizontal plane.
 
@@ -1657,7 +1657,7 @@ S14.2.5.10 Moveable reflector aimed headlamp photometry measurements.
 
 S14.2.5.10.1 A headlamp aimed by moving the reflector relative to the lens and headlamp housing, or vice versa, must conform to the photometry requirements applicable to it with the lens at any position relative to the reflector.
 
-S14.2.5.10.2 These positions include not less than the full range of vertical pitch of the vehicle on which the headlamp is installed and not less than Â±2.5Â° from the nominal horizontal aim position for the vehicle on which the headlamp is installed unless the headlamp is visually/optically aimed with a fixed horizontal aim.
+S14.2.5.10.2 These positions include not less than the full range of vertical pitch of the vehicle on which the headlamp is installed and not less than ±2.5° from the nominal horizontal aim position for the vehicle on which the headlamp is installed unless the headlamp is visually/optically aimed with a fixed horizontal aim.
 
 S14.3 Motorcycle headlamp out of focus test procedure and performance requirements.
 
@@ -1731,7 +1731,7 @@ S14.4.2.1.1 Samples of materials shall be injection molded into polished metal m
 
 S14.4.2.1.2 Test specimens shape may vary, but each exposed surface must contain a minimum uninterrupted area of 32 sq cm.
 
-S14.4.2.1.3 Samples must be furnished in thicknesses of 1.6 Â±0.25 mm, 2.3 Â±0.25 mm, 3.2 Â±0.25 mm, and 6.4 Â±0.25 mm.
+S14.4.2.1.3 Samples must be furnished in thicknesses of 1.6 ±0.25 mm, 2.3 ±0.25 mm, 3.2 ±0.25 mm, and 6.4 ±0.25 mm.
 
 S14.4.2.1.4 All samples must conform to the applicable color test requirement of this standard prior to testing.
 
@@ -1745,13 +1745,13 @@ S14.4.2.2.2 Concentrations of polymer components and additives used in plastic m
 
 S14.4.2.2.3 Procedure.
 
-S14.4.2.2.3.1 One sample of each thickness of each material must be mounted at each exposure site so that at least a minimum uninterrupted area of 32 sq cm of the exposed upper surface of the sample is at an angle of 45Â° to the horizontal facing south. The sample must be mounted in the open no closer than 30 cm (11.8 in) to its background.
+S14.4.2.2.3.1 One sample of each thickness of each material must be mounted at each exposure site so that at least a minimum uninterrupted area of 32 sq cm of the exposed upper surface of the sample is at an angle of 45° to the horizontal facing south. The sample must be mounted in the open no closer than 30 cm (11.8 in) to its background.
 
 S14.4.2.2.3.2 During the exposure time the samples must be cleaned once every three months by washing with mild soap or detergent and water, and then rinsing with distilled water. Rubbing must be avoided.
 
 S14.4.2.2.4 Performance requirements. Plastic lenses, other than those incorporating reflex reflectors, used for inner lenses or those covered by another material and not exposed directly to sunlight must meet the optical material test requirements when covered by the outer lens or other material.
 
-S14.4.2.2.4.1 After completion of the outdoor exposure test the haze and loss of surface luster as measured by ASTM D1003-92 (incorporated by reference, see Â§ 571.5) must not be greater than:
+S14.4.2.2.4.1 After completion of the outdoor exposure test the haze and loss of surface luster as measured by ASTM D1003-92 (incorporated by reference, see § 571.5) must not be greater than:
 
 (a) 30% for materials used for outer lenses, other than those incorporating reflex reflectors;
 
@@ -1761,13 +1761,13 @@ S14.4.2.2.4.2 After completion of the outdoor exposure test materials used for h
 
 S14.4.2.2.4.3 After completion of the outdoor exposure test all materials, when compared with the unexposed control samples, must not show physical changes affecting performance such as color bleeding, delamination, crazing, or cracking. Additionally materials used for reflex reflectors and lenses used in front of reflex reflectors must not show surface deterioration or dimensional changes.
 
-S14.4.2.2.4.4 After completion of the outdoor exposure test all materials, when compared with the unexposed control samples, must not have their luminous transmittance changed by more than 25% when tested in accordance with ASTM E308-66 (incorporated by reference, see Â§ 571.5) using CIE Illuminant A (2856K).
+S14.4.2.2.4.4 After completion of the outdoor exposure test all materials, when compared with the unexposed control samples, must not have their luminous transmittance changed by more than 25% when tested in accordance with ASTM E308-66 (incorporated by reference, see § 571.5) using CIE Illuminant A (2856K).
 
 S14.4.2.2.4.5 After completion of the outdoor exposure test all materials must conform to the color test of this standard in the range of thickness stated by the material manufacturer.
 
 S14.4.2.3 Heat test.
 
-S14.4.2.3.1 Procedure. Two samples of each thickness of each material must be supported at the bottom, with at least 51 mm of the sample above the support, in the vertical position in such a manner that, on each side, the minimum uninterrupted area of exposed surface is not less than 3225 sq mm. The samples are placed in a circulating air oven at 79 Â±3 Â°C for two hours.
+S14.4.2.3.1 Procedure. Two samples of each thickness of each material must be supported at the bottom, with at least 51 mm of the sample above the support, in the vertical position in such a manner that, on each side, the minimum uninterrupted area of exposed surface is not less than 3225 sq mm. The samples are placed in a circulating air oven at 79 ±3 °C for two hours.
 
 S14.4.2.3.2 Performance requirements. After completion of the heat exposure and cooling to room ambient temperature, a test specimen must show no change in shape and general appearance discernable to the naked eye when compared with an unexposed specimen and continue to conform to the applicable color test requirement of this standard.
 
@@ -1782,7 +1782,7 @@ S14.5.1.2 Performance requirements. After completion of the vibration test a dev
 
 S14.5.2 Moisture test.
 
-S14.5.2.1 Procedure. The sample device must be mounted in its normal operating position with all drain holes open and subjected to a precipitation of 0.1 in of water per minute, delivered at an angle of 45Â° from a nozzle with a solid cone spray. During the test the device must revolve about its vertical axis at a rate of 4 rpm for a period of 12 hours followed by a one hour drain period where the device does not rotate and the spray stops. After completion of the moisture test the device must be examined for moisture accumulation.
+S14.5.2.1 Procedure. The sample device must be mounted in its normal operating position with all drain holes open and subjected to a precipitation of 0.1 in of water per minute, delivered at an angle of 45° from a nozzle with a solid cone spray. During the test the device must revolve about its vertical axis at a rate of 4 rpm for a period of 12 hours followed by a one hour drain period where the device does not rotate and the spray stops. After completion of the moisture test the device must be examined for moisture accumulation.
 
 S14.5.2.2 Performance requirements. Accumulation of moisture in excess of 2 cc or any visible moisture in a sealed reflex unit must constitute a failure.
 
@@ -1790,13 +1790,13 @@ S14.5.3 Dust test.
 
 S14.5.3.1 Samples. A sealed unit is not required to meet the requirements of this test.
 
-S14.5.3.2 Procedure. The sample device with any drain hole closed must be mounted in its normal operating position, at least 6 in from the wall in a cubical box with inside measurements of 3 ft on each side containing 10 lb of fine powered cement in accordance with ASTM C150-56 (incorporated by reference, see Â§ 571.5). At intervals of 15 minutes during a test period of 5 hours, the dust must be agitated by compressed air or fan blower by projecting blasts of air for a 2 second period in a downward direction into the dust in such a way that the dust is completely and uniformly diffused throughout the entire cube and allowed to settle. After the completion of the dust test the exterior surface of the device must be cleaned.
+S14.5.3.2 Procedure. The sample device with any drain hole closed must be mounted in its normal operating position, at least 6 in from the wall in a cubical box with inside measurements of 3 ft on each side containing 10 lb of fine powered cement in accordance with ASTM C150-56 (incorporated by reference, see § 571.5). At intervals of 15 minutes during a test period of 5 hours, the dust must be agitated by compressed air or fan blower by projecting blasts of air for a 2 second period in a downward direction into the dust in such a way that the dust is completely and uniformly diffused throughout the entire cube and allowed to settle. After the completion of the dust test the exterior surface of the device must be cleaned.
 
 S14.5.3.3 Performance requirements. If after a photometry test the maximum photometric intensity of the device is not more than 10% less than the maximum photometric intensity of the same device after being cleaned both inside and outside, the device is considered to have met the requirements of the dust test.
 
 S14.5.4 Corrosion test.
 
-S14.5.4.1 Procedure. The sample device must be subjected to a salt spray (fog) test in accordance with the latest version of ASTM B117-73 (Reapproved 1979) (incorporated by reference, see Â§ 571.5), for a period of 50 hours, consisting of two periods of 24 hour exposure followed by a 1 hr drying time.
+S14.5.4.1 Procedure. The sample device must be subjected to a salt spray (fog) test in accordance with the latest version of ASTM B117-73 (Reapproved 1979) (incorporated by reference, see § 571.5), for a period of 50 hours, consisting of two periods of 24 hour exposure followed by a 1 hr drying time.
 
 S14.5.4.2 Performance requirements. After the completion of the corrosion test there must be no evidence of excessive corrosion which would affect the proper function of the device.
 
@@ -1806,14 +1806,14 @@ S14.6.1 Abrasion test.
 
 S14.6.1.1 Procedure.
 
-S14.6.1.1.1 Abrading pad. A new, unused abrading pad constructed of 0000 steel wool not less than 2.5 Â±.1 cm wide, rubber cemented to a rigid base shaped to the same vertical contour of the lens, is used for each test. The abrading pad support is equal in size to the pad and the center of the support surface is within Â±2 mm of parallel to the lens surface. The âgrainâ of the pad is oriented perpendicular to the direction of motion. The density of the pad is such that when the pad is resting unweighted on the lens, the base of the pad is no closer than 3.2 mm to the lens at its closest point.
+S14.6.1.1.1 Abrading pad. A new, unused abrading pad constructed of 0000 steel wool not less than 2.5 ±.1 cm wide, rubber cemented to a rigid base shaped to the same vertical contour of the lens, is used for each test. The abrading pad support is equal in size to the pad and the center of the support surface is within ±2 mm of parallel to the lens surface. The “grain” of the pad is oriented perpendicular to the direction of motion. The density of the pad is such that when the pad is resting unweighted on the lens, the base of the pad is no closer than 3.2 mm to the lens at its closest point.
 
-S14.6.1.1.2 Abrading pad alignment. A sample headlamp is mounted in the abrasion test fixture of Figure 5 with the lens facing upward. When mounted on its support and resting on the lens of the test headlamp, the abrading pad is then weighted such that a pad pressure of 14 Â±1 KPa. exists at the center and perpendicular to the face of the lens.
+S14.6.1.1.2 Abrading pad alignment. A sample headlamp is mounted in the abrasion test fixture of Figure 5 with the lens facing upward. When mounted on its support and resting on the lens of the test headlamp, the abrading pad is then weighted such that a pad pressure of 14 ±1 KPa. exists at the center and perpendicular to the face of the lens.
 
-S14.6.1.1.3 Abrasion test procedure. The pad is cycled back and forth (1 cycle) for 11 cycles at 4 Â±0.8 in (10 Â±2 cm) per second over at least 80% of the lens surface, including all the area between the upper and lower aiming pads, but not including lens trim rings and edges. A pivot must be used if it is required to follow the contour of the lens.
+S14.6.1.1.3 Abrasion test procedure. The pad is cycled back and forth (1 cycle) for 11 cycles at 4 ±0.8 in (10 ±2 cm) per second over at least 80% of the lens surface, including all the area between the upper and lower aiming pads, but not including lens trim rings and edges. A pivot must be used if it is required to follow the contour of the lens.
 
 S14.6.1.2 Performance requirements. After completion of the abrasion test the sample headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° reaim is permitted in any direction at any test point.
+1/4° reaim is permitted in any direction at any test point.
 
 S14.6.2 Chemical resistance test.
 
@@ -1821,7 +1821,7 @@ S14.6.2.1 Procedure.
 
 S14.6.2.1.1 Test fluids. The five test fluids used in the chemical resistance test include:
 
-(a) ASTM Reference Fuel C, which is composed of Isooctane 50% volume and Toluene 50% volume. Isooctane must conform to A2.7 in the ASTM Motor Fuels section (incorporated by reference, see Â§ 571.5), and Toluene must conform to ASTM D362-84 (incorporated by reference, see Â§ 571.5). ASTM Reference Fuel C must be used as specified in: Paragraph A2.3.2 and A2.3.3 of the ASTM Motor Fuels section (incorporated by reference, see Â§ 571.5); and OSHA Standard 29 CFR 1910.106âHandling Storage and Use of Flammable Combustible Liquids;
+(a) ASTM Reference Fuel C, which is composed of Isooctane 50% volume and Toluene 50% volume. Isooctane must conform to A2.7 in the ASTM Motor Fuels section (incorporated by reference, see § 571.5), and Toluene must conform to ASTM D362-84 (incorporated by reference, see § 571.5). ASTM Reference Fuel C must be used as specified in: Paragraph A2.3.2 and A2.3.3 of the ASTM Motor Fuels section (incorporated by reference, see § 571.5); and OSHA Standard 29 CFR 1910.106—Handling Storage and Use of Flammable Combustible Liquids;
 
 (b) Tar remover (consisting by volume of 45% xylene and 55% petroleum base mineral spirits);
 
@@ -1833,14 +1833,14 @@ S14.6.2.1.1 Test fluids. The five test fluids used in the chemical resistance te
 
 S14.6.2.1.2 Fluid application. The entire exterior lens surface of the sample headlamp mounted in the headlamp test fixture and top surface of the lens-reflector joint is wiped once to the left and once to the right with a 6 inch square soft cotton cloth (with pressure equally applied) which has been saturated once in a container with 2 ounces of five different test fluids listed above. The lamp is wiped within 5 seconds after removal of the cloth from the test fluid. A new lamp sample may be used with each fluid.
 
-S14.6.2.1.3 Test duration. After the headlamp sample has been wiped with the test fluid, it must be stored in its designed operating attitude for 48 hours at a temperature of 23 Â°C Â±4 Â°C and a relative humidity of 30% Â±10%. At the end of the 48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually inspected.
+S14.6.2.1.3 Test duration. After the headlamp sample has been wiped with the test fluid, it must be stored in its designed operating attitude for 48 hours at a temperature of 23 °C ±4 °C and a relative humidity of 30% ±10%. At the end of the 48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually inspected.
 
 S14.6.2.2 Performance requirements. After completion of the chemical resistance test, the sample headlamp must have no surface deterioration, coating delamination, fractures, deterioration of bonding or sealing materials, color bleeding, or color pickup visible without magnification and the headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° reaim is permitted in any direction at any test point.
+1/4° reaim is permitted in any direction at any test point.
 
 S14.6.3 Corrosion test.
 
-S14.6.3.1 Procedure. A sample headlamp, mounted on a headlamp test fixture in designed operating position and including all accessory equipment necessary to operate in its normal manner, is subjected to a salt spray (fog) test in accordance with ASTM B117-73 (incorporated by reference, see Â§ 571.5), for 50 total hours, consisting of two periods of 24 hours exposure followed by a 1 hour drying period. If a portion of the device is completely protected in service, that portion is covered to prevent salt fog entry during exposure. After removal from the salt spray and the final 1 hour drying period the sample headlamp is examined for corrosion that affects any other applicable tests contained in S14.6. If such corrosion is found, the affected test(s) must be performed on the corrosion sample and the results recorded.
+S14.6.3.1 Procedure. A sample headlamp, mounted on a headlamp test fixture in designed operating position and including all accessory equipment necessary to operate in its normal manner, is subjected to a salt spray (fog) test in accordance with ASTM B117-73 (incorporated by reference, see § 571.5), for 50 total hours, consisting of two periods of 24 hours exposure followed by a 1 hour drying period. If a portion of the device is completely protected in service, that portion is covered to prevent salt fog entry during exposure. After removal from the salt spray and the final 1 hour drying period the sample headlamp is examined for corrosion that affects any other applicable tests contained in S14.6. If such corrosion is found, the affected test(s) must be performed on the corrosion sample and the results recorded.
 
 S14.6.3.2 Performance requirements. After completion of the corrosion test, the sample headlamp must not have any observed corrosion which would result in the failure of any other applicable tests contained in S14.6 and no corrosion of the headlamp mounting and aiming mechanism that would result in the failure of the aiming adjustment tests, inward force test, or torque deflection test of S14.6.
 
@@ -1850,7 +1850,7 @@ S14.6.4.1 Procedure.
 
 S14.6.4.1.1 A headlamp connector test must be performed on each filament circuit of the sample headlamp prior to the test in S14.6.4.1.2 according to Figure 4 and S14.6.15. The power source is set to provide 12.8 volts and the resistance must be set to produce 10 amperes.
 
-S14.6.4.1.2 The headlamp, with connector attached to the terminals, unfixtured and in its designed operating attitude with all drain holes, breathing devices or other designed openings in their normal operating positions, is subjected to a salt spray (fog) test in accordance with ASTM B117-73 (incorporated by reference, see Â§ 571.5), for 240 hours, consisting of ten successive 24-hour periods.
+S14.6.4.1.2 The headlamp, with connector attached to the terminals, unfixtured and in its designed operating attitude with all drain holes, breathing devices or other designed openings in their normal operating positions, is subjected to a salt spray (fog) test in accordance with ASTM B117-73 (incorporated by reference, see § 571.5), for 240 hours, consisting of ten successive 24-hour periods.
 
 S14.6.4.1.3 During each period, the headlamp is mounted in the middle of the chamber and exposed for 23 hours to the salt spray. The spray is not activated during the 24th hour. The bulb is removed from the headlamp and from the test chamber during the one hour of salt spray deactivation and reinserted for the start of the next test period, at the end of the first and last three 23-hour periods of salt spray exposure, and at the end of any two of the fourth through seventh 23-hour periods of salt-spray exposure.
 
@@ -1874,12 +1874,12 @@ S14.6.5.1 Procedure.
 
 S14.6.5.1.1 A sample headlamp, mounted on a headlamp test fixture, with all drain holes, breathing devices or other designed openings in their normal operating positions, is positioned within a cubical box, with inside measurements of 900 mm on each side or larger if required for adequate wall clearance (i.e., a distance of at least 150 mm between the headlamp and any wall of the box).
 
-S14.6.5.1.2 The box contains 4.5 kg of fine powdered cement which conforms to the ASTM C150-77 (incorporated by reference, see Â§ 571.5). Every 15 minutes, the cement is agitated by compressed air or fan blower(s) by projecting blasts of air for a two-second period in a downward direction so that the cement is diffused as uniformly as possible throughout the entire box.
+S14.6.5.1.2 The box contains 4.5 kg of fine powdered cement which conforms to the ASTM C150-77 (incorporated by reference, see § 571.5). Every 15 minutes, the cement is agitated by compressed air or fan blower(s) by projecting blasts of air for a two-second period in a downward direction so that the cement is diffused as uniformly as possible throughout the entire box.
 
 S14.6.5.1.3 This test is continued for five hours after which the exterior surfaces of the headlamp are wiped clean.
 
 S14.6.5.2 Performance requirements. After completion of the dust test, the sample headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° reaim is permitted in any direction at any test point.
+1/4° reaim is permitted in any direction at any test point.
 
 S14.6.6 Temperature cycle test and internal heat test.
 
@@ -1889,7 +1889,7 @@ S14.6.6.2 General procedure.
 
 S14.6.6.2.1 Tests are made with all filaments lighted at design voltage that are intended to be used simultaneously in the headlamp and which in combination draw the highest total wattage. These include but are not limited to filaments used for turn signal lamps, fog lamps, parking lamps, and headlamp lower beams lighted with upper beams when the wiring harness is so connected on the vehicle.
 
-S14.6.6.2.2 If a turn signal is included in the headlamp assembly, it is operated at 90 flashes a minute with a 75% Â±2% current âon time.â
+S14.6.6.2.2 If a turn signal is included in the headlamp assembly, it is operated at 90 flashes a minute with a 75% ±2% current “on time.”
 
 S14.6.6.2.3 If the lamp produces both the upper and lower beam, it is tested in both the upper beam mode and the lower beam mode under the conditions above described, except for a headlamp with a single type HB1 or type HB2 light source.
 
@@ -1899,7 +1899,7 @@ S14.6.6.3.1 Procedure.
 
 S14.6.6.3.1.1 A sample headlamp, mounted on a headlamp test fixture, is subjected to 10 complete consecutive cycles having the thermal cycle profile shown in Figure 6.
 
-S14.6.6.3.1.2 During the hot cycle, the lamp, is energized commencing at point âAâ of Figure 6 and de-energized at point âB.â
+S14.6.6.3.1.2 During the hot cycle, the lamp, is energized commencing at point “A” of Figure 6 and de-energized at point “B.”
 
 S14.6.6.3.1.3 Separate or single test chambers may be used to generate the environment of Figure 6.
 
@@ -1912,32 +1912,32 @@ S14.6.6.3.2 Performance requirements. After completion of the temperature cycle 
 (b) show no lens warpage greater than 3 mm when measured parallel to the optical axis at the point of intersection of the axis of each light source with the exterior surface of the lens; and
 
 (c) meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° reaim is permitted in any direction at any test point.
+1/4° reaim is permitted in any direction at any test point.
 
 S14.6.6.4 Internal heat test.
 
 S14.6.6.4.1 Procedure.
 
 S14.6.6.4.1.1 A sample headlamp lens surface that would normally be exposed to road dirt is uniformly sprayed with any appropriate mixture of dust and water or other materials to reduce the photometric output at the H-V test point of the upper beam (or the
-1/2Â°D-1
-1/2Â°R test point of the lower beam as applicable) to 25% Â±2% of the output originally measured in the applicable photometric compliance test.
+1/2°D-1
+1/2°R test point of the lower beam as applicable) to 25% ±2% of the output originally measured in the applicable photometric compliance test.
 
 S14.6.6.4.1.2 A headlamp with a single type HB1 or type HB2 light source is tested on the upper beam only.
 
 S14.6.6.4.1.3 Such reduction is determined under the same conditions as that of the original photometric measurement.
 
-S14.6.6.4.1.4 After the photometric output of the lamp has been reduced as specified above, the sample lamp and its mounting hardware must be mounted in an environmental chamber in a manner similar to that indicated in Figure 7 âDirt/Ambient Test Setup.â
+S14.6.6.4.1.4 After the photometric output of the lamp has been reduced as specified above, the sample lamp and its mounting hardware must be mounted in an environmental chamber in a manner similar to that indicated in Figure 7 “Dirt/Ambient Test Setup.”
 
-S14.6.6.4.1.5 The headlamp is soaked for one hour at a temperature of 35Â° + 4Â° â 0 Â°C) and then the lamp is energized according to the procedure of this section for one hour in a still air condition, allowing the temperature to rise from the soak temperature.
+S14.6.6.4.1.5 The headlamp is soaked for one hour at a temperature of 35° + 4° − 0 °C) and then the lamp is energized according to the procedure of this section for one hour in a still air condition, allowing the temperature to rise from the soak temperature.
 
-S14.6.6.4.1.6 At the end of one hour the sample lamp is returned to a room ambient temperature of 23Â° + 4Â° â 0 Â°C and a relative humidity of 30% Â±10% and allowed to stabilize to the room ambient temperature. The lens is then cleaned.
+S14.6.6.4.1.6 At the end of one hour the sample lamp is returned to a room ambient temperature of 23° + 4° − 0 °C and a relative humidity of 30% ±10% and allowed to stabilize to the room ambient temperature. The lens is then cleaned.
 
 S14.6.6.4.2 Performance requirements. After completion of the temperature cycle test and meeting its requirements, and completion of the internal heat test, the sample headlamp must:
 
 (a) have no lens warpage greater than 3 mm when measured parallel to the optical axis at the point of intersection of the axis of each light source with the exterior surface of the lens, and
 
 (b) meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° reaim is permitted in any direction at any test point.
+1/4° reaim is permitted in any direction at any test point.
 
 S14.6.7 Humidity test.
 
@@ -1948,15 +1948,15 @@ S14.6.7.1.1 The test fixture consists of a horizontal steel plate to which three
 
 S14.6.7.1.2 The sample headlamp assembly is clamped to the vertical rods, which are behind the headlamp. All attachments to the headlamp assembly are made behind the lens and vents or openings, and are not within 2 inches laterally of a vent inlet or outlet.
 
-S14.6.7.1.3 The mounted headlamp assembly is oriented in its design operating position, and is placed in a controlled environment at a temperature of 100Â° + 7Â°â0 Â°F (38Â° + 4Â°â0 Â°C) with a relative humidity of not less than 90%. All drain holes, breathing devices, and other openings are set in their normal operation positions for all phases of the humidity test.
+S14.6.7.1.3 The mounted headlamp assembly is oriented in its design operating position, and is placed in a controlled environment at a temperature of 100° + 7°−0 °F (38° + 4°−0 °C) with a relative humidity of not less than 90%. All drain holes, breathing devices, and other openings are set in their normal operation positions for all phases of the humidity test.
 
-S14.6.7.1.4 The headlamp is subjected to 24 consecutive 3-hour test cycles. In each cycle, the headlamp is energized for 1 hour at design voltage with the highest combination of filament wattages that are intended to be used, and then de-energized for 2 hours. If the headlamp incorporates a turn signal then the turn signal flashes at 90 flashes per minute with a 75% Â±2% current âon-time.â
+S14.6.7.1.4 The headlamp is subjected to 24 consecutive 3-hour test cycles. In each cycle, the headlamp is energized for 1 hour at design voltage with the highest combination of filament wattages that are intended to be used, and then de-energized for 2 hours. If the headlamp incorporates a turn signal then the turn signal flashes at 90 flashes per minute with a 75% ±2% current “on-time.”
 
-S14.6.7.1.5 Within 3 minutes after the completion of the 24th cycle, the air flow test will begin. The following procedure shall occur: the mounted assembly is removed, placed in an insulating box and covered with foam material so that there is no visible air space around the assembly; the box is closed, taken to the air flow test chamber, and placed within it. Inside the chamber, the assembly with respect to the air flow, is oriented in its design operating position. The assembly is positioned in the chamber so that the center of the lens is in the center of the opening of the air flow entry duct during the test. The headlamp has at least 3 inches clearance on all sides, and at least 4 inches to the entry and exit ducts at the closest points. If vent tubes are used which extend below the lamp body, the 3 inches are measured from the bottom of the vent tube or its protection. The temperature of the chamber is 73Â° + 7Â° â 0 Â°F (23Â° + 4Â° â 0 Â°C) with a relative humidity of 30% + 10% â 0%. The headlamp is not energized.
+S14.6.7.1.5 Within 3 minutes after the completion of the 24th cycle, the air flow test will begin. The following procedure shall occur: the mounted assembly is removed, placed in an insulating box and covered with foam material so that there is no visible air space around the assembly; the box is closed, taken to the air flow test chamber, and placed within it. Inside the chamber, the assembly with respect to the air flow, is oriented in its design operating position. The assembly is positioned in the chamber so that the center of the lens is in the center of the opening of the air flow entry duct during the test. The headlamp has at least 3 inches clearance on all sides, and at least 4 inches to the entry and exit ducts at the closest points. If vent tubes are used which extend below the lamp body, the 3 inches are measured from the bottom of the vent tube or its protection. The temperature of the chamber is 73° + 7° − 0 °F (23° + 4° − 0 °C) with a relative humidity of 30% + 10% − 0%. The headlamp is not energized.
 
-S14.6.7.1.6 Before the test specified in paragraph S14.6.7.1.7 of this section, the uniformity of the air flow in the empty test chamber at a plane 4 inches downstream of the air entry duct is measured over a 4 inch square grid. The uniformity of air flow at each grid point is Â±10% of the average air flow specified in paragraph S14.6.7.1.7 of this section.
+S14.6.7.1.6 Before the test specified in paragraph S14.6.7.1.7 of this section, the uniformity of the air flow in the empty test chamber at a plane 4 inches downstream of the air entry duct is measured over a 4 inch square grid. The uniformity of air flow at each grid point is ±10% of the average air flow specified in paragraph S14.6.7.1.7 of this section.
 
-S14.6.7.1.7 The mounted assembly in the chamber is exposed, for one hour, to an average air flow of 330 + 0 â30 ft/min as measured with an air velocity measuring probe having an accuracy of Â±3% in the 330 ft/min range. The average air flow is the average of the velocity recorded at six points around the perimeter of the lens. The six points are determined as follows: At the center of the lens, construct a horizontal plane. The first two points are located in the plane, 1 inch outward from the intersection of the plane and each edge of the lens. Then, trisect the distance between these two points and construct longitudinal vertical planes at the two intermediate locations formed by the trisection. The four remaining points are located in the vertical planes, one inch above the top edge of the lens, and one inch below the bottom edge of the lens.
+S14.6.7.1.7 The mounted assembly in the chamber is exposed, for one hour, to an average air flow of 330 + 0 −30 ft/min as measured with an air velocity measuring probe having an accuracy of ±3% in the 330 ft/min range. The average air flow is the average of the velocity recorded at six points around the perimeter of the lens. The six points are determined as follows: At the center of the lens, construct a horizontal plane. The first two points are located in the plane, 1 inch outward from the intersection of the plane and each edge of the lens. Then, trisect the distance between these two points and construct longitudinal vertical planes at the two intermediate locations formed by the trisection. The four remaining points are located in the vertical planes, one inch above the top edge of the lens, and one inch below the bottom edge of the lens.
 
 S14.6.7.1.8 After one hour, the headlamp is removed and inspected for moisture.
 
@@ -1975,9 +1975,9 @@ S14.6.9 Sealing test.
 
 S14.6.9.1 Procedure.
 
-S14.6.9.1.1 An unfixtured sample headlamp in its design mounting position is placed in water at a temperature of 176Â° Â±5 Â°F (80Â° Â±3 Â°C) for one hour. The headlamp is energized in its highest wattage mode, with the test voltage at 12.8 Â±0.1 V during immersion.
+S14.6.9.1.1 An unfixtured sample headlamp in its design mounting position is placed in water at a temperature of 176° ±5 °F (80° ±3 °C) for one hour. The headlamp is energized in its highest wattage mode, with the test voltage at 12.8 ±0.1 V during immersion.
 
-S14.6.9.1.2 The lamp is then de-energized and immediately submerged in its design mounting position into water at 32Â° + 5Â° â0 Â°F (0Â° + 3Â° â0 Â°C). The water is in a pressurized vessel, and the pressure is increased to 10 psi (70 kPa), upon placing the lamp in the water. The lamp must remain in the pressurized vessel for a period of thirty minutes.
+S14.6.9.1.2 The lamp is then de-energized and immediately submerged in its design mounting position into water at 32° + 5° −0 °F (0° + 3° −0 °C). The water is in a pressurized vessel, and the pressure is increased to 10 psi (70 kPa), upon placing the lamp in the water. The lamp must remain in the pressurized vessel for a period of thirty minutes.
 
 S14.6.9.1.3 This entire procedure is repeated for four cycles.
 
@@ -1999,10 +1999,10 @@ S14.6.10.1.1 Test fluids. The three test fluids used in the chemical resistance 
 
 S14.6.10.1.2 Fluid application. With a sample headlamp in the headlamp test fixture and the lens removed, the entire surface of the reflector that receives light from a headlamp light source is wiped once to the left and once to the right with a 6-inch square soft cotton cloth (with pressure equally applied) which has been saturated once in a container with 2 ounces of one of the test fluids listed in S14.6.10.1.1. The lamp is wiped within 5 seconds after removal of the cloth from the test fluid.
 
-S14.6.10.1.3 Test duration. After the headlamp has been wiped with the test fluid, it is stored in its designed operating attitude for 48 hours at a temperature of 73Â° Â±7 Â°F (23Â° Â±4 Â°C) and a relative humidity of 30% Â±10%. At the end of the 48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually inspected.
+S14.6.10.1.3 Test duration. After the headlamp has been wiped with the test fluid, it is stored in its designed operating attitude for 48 hours at a temperature of 73° ±7 °F (23° ±4 °C) and a relative humidity of 30% ±10%. At the end of the 48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually inspected.
 
 S14.6.10.2 Performance requirements. After completion of the chemical resistance test, the sample headlamp must have no surface deterioration, coating delamination, fractures, deterioration of bonding or sealing materials, color bleeding or color pickup visible without magnification and the headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° re-aim is permitted in any direction at any test point.
+1/4° re-aim is permitted in any direction at any test point.
 
 S14.6.11 Corrosion resistance test of reflectors of replaceable lens headlamps test.
 
@@ -2010,16 +2010,16 @@ S14.6.11.1 Procedure.
 
 S14.6.11.1.1 A sample headlamp with the lens removed, unfixtured and in its designed operating attitude with all drain holes, breathing devices or other designed openings in their normal operating positions, must be subjected to a salt spray (fog) test in accordance with ASTM B117-73, Method of Salt Spray (Fog) Testing (incorporated by reference, see 571.108 S5.2 of this title), for 24 hours, while mounted in the middle of the chamber.
 
-S14.6.11.1.2 Afterwards, the headlamp must be stored in its designed operating attitude for 48 hours at a temperature of 73Â° Â±7 Â°F (23Â° Â±4 Â°C) and a relative humidity of 30% Â±10% and allowed to dry by natural convection only. At the end of the 48-hour period, the reflector must be cleaned according to the instructions supplied with the headlamp manufacturer's replacement lens, and inspected. The lens and seal must then be attached according to these instructions and the headlamp tested for photometric performance.
+S14.6.11.1.2 Afterwards, the headlamp must be stored in its designed operating attitude for 48 hours at a temperature of 73° ±7 °F (23° ±4 °C) and a relative humidity of 30% ±10% and allowed to dry by natural convection only. At the end of the 48-hour period, the reflector must be cleaned according to the instructions supplied with the headlamp manufacturer's replacement lens, and inspected. The lens and seal must then be attached according to these instructions and the headlamp tested for photometric performance.
 
 S14.6.11.2 Performance requirements. After the completion of the corrosion test, the sample headlamp must show no evidence of corrosion or rust visible without magnification on any part of the headlamp reflector that receives light from a headlamp light source, on any metal light or heat shield assembly, or on a metal reflector of any other lamp. The sample headlamp with the replacement lens installed must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A
-1/4Â° re-aim is permitted in any direction at any test point.
+1/4° re-aim is permitted in any direction at any test point.
 
 S14.6.12 Inward force test.
 
 S14.6.12.1 Procedure. A sample headlamp mechanism, including the aiming adjusters, must be subjected to an inward force of 222 N directed normal to the headlamp aiming plane and symmetrically about the center of the headlamp lens face.
 
-S14.6.12.2 Performance requirements. After the completion of the inward force test, a sample headlamp must not permanently recede by more than 2.5 mm. The aim of the headlamp must not permanently deviate by more than 3.2 mm at a distance of 7.6 m. The aim of any headlamp that is capable of being mechanically aimed by externally applied aiming devices must not change by more than 0.30Â°.
+S14.6.12.2 Performance requirements. After the completion of the inward force test, a sample headlamp must not permanently recede by more than 2.5 mm. The aim of the headlamp must not permanently deviate by more than 3.2 mm at a distance of 7.6 m. The aim of any headlamp that is capable of being mechanically aimed by externally applied aiming devices must not change by more than 0.30°.
 
 S14.6.13 Torque deflection test.
 
@@ -2041,7 +2041,7 @@ S14.6.13.1.7 For headlamps using the aiming pad locations of Group II, the dista
 
 S14.6.13.1.8 For headlamps using the nonadjustable Headlamp Aiming Device Locating Plates for the 146 mm diameter, the 176 mm diameter, and the 92x150 mm sealed beam, the distance between the point of application of force and the aiming plane is not, respectively, less than 177.4 mm, 176.2 mm, and 193.7 mm.
 
-S14.6.13.2 Performance requirements. The aim of each sample headlamp must not deviate more than 0.30Â° when the downward torque is removed.
+S14.6.13.2 Performance requirements. The aim of each sample headlamp must not deviate more than 0.30° when the downward torque is removed.
 
 S14.6.14 Retaining ring test.
 
@@ -2057,7 +2057,7 @@ S14.6.15.2 Performance requirements. The voltage drop, as measured in the test c
 
 S14.6.16 Headlamp wattage test.
 
-S14.6.16.1 Procedure. A sample headlamp that has been seasoned is energized so as to have 12.8v Â±20 mv DC applied across each filament circuit and the current flowing in each circuit is measured.
+S14.6.16.1 Procedure. A sample headlamp that has been seasoned is energized so as to have 12.8v ±20 mv DC applied across each filament circuit and the current flowing in each circuit is measured.
 
 S14.6.16.2 Performance requirements. The wattage of each filament circuit of the sample headlamp must not exceed the applicable value for that type of headlamp as shown in Table II.
 
@@ -2067,11 +2067,11 @@ S14.6.17.1 Procedure. A sample headlamp is mounted in design position at nominal
 
 S14.6.17.2 Performance requirements. Visually aimed lower beam headlamps without a VHAD are required not to have a horizontal adjustment mechanism and horizontal aim range requirements do not apply.
 
-S14.6.17.2.1 A sample sealed beam headlamp, other than a Type F, tested per the procedure must provide a minimum of Â±4.0Â° adjustment range in both the vertical and horizontal planes and if equipped with independent vertical and horizontal aiming screws, the adjustment must be such that neither the vertical nor horizontal aim must deviate more than 100 mm from horizontal or vertical planes, respectively, at a distance of 7.6 m through an angle of Â±4.0Â°.
+S14.6.17.2.1 A sample sealed beam headlamp, other than a Type F, tested per the procedure must provide a minimum of ±4.0° adjustment range in both the vertical and horizontal planes and if equipped with independent vertical and horizontal aiming screws, the adjustment must be such that neither the vertical nor horizontal aim must deviate more than 100 mm from horizontal or vertical planes, respectively, at a distance of 7.6 m through an angle of ±4.0°.
 
-S14.6.17.2.2 A sample Type F sealed beam, integral beam, replaceable bulb, or combination headlamp tested per the procedure must provide a minimum of Â±4.0Â° adjustment range in the vertical plane and Â±2.5Â° in the horizontal plane and if equipped with independent vertical and horizontal aiming screws, the adjustment must be such that neither the vertical nor horizontal aim must deviate more than 100 mm from horizontal or vertical planes, respectively, at a distance of 7.6 m through an angle of Â±2.5Â° and Â±4.0Â°, respectively.
+S14.6.17.2.2 A sample Type F sealed beam, integral beam, replaceable bulb, or combination headlamp tested per the procedure must provide a minimum of ±4.0° adjustment range in the vertical plane and ±2.5° in the horizontal plane and if equipped with independent vertical and horizontal aiming screws, the adjustment must be such that neither the vertical nor horizontal aim must deviate more than 100 mm from horizontal or vertical planes, respectively, at a distance of 7.6 m through an angle of ±2.5° and ±4.0°, respectively.
 
-S14.6.17.2.3 A sample headlamp that is aimed by moving the reflector relative to the lens and headlamp housing, and vice versa must provide a minimum adjustment range in the vertical plane not less than the full range of the pitch on the vehicle on which it is installed and Â±2.5Â° in the horizontal plane.
+S14.6.17.2.3 A sample headlamp that is aimed by moving the reflector relative to the lens and headlamp housing, and vice versa must provide a minimum adjustment range in the vertical plane not less than the full range of the pitch on the vehicle on which it is installed and ±2.5° in the horizontal plane.
 
 S14.6.18 Aiming adjustment test-on vehicle.
 
@@ -2089,7 +2089,7 @@ S14.6.18.2.1 A sample headlamp tested per the procedure must provide a minimum v
 
 S14.6.18.2.2 The vertical aim mechanism must be continuously variable over the full range.
 
-S14.6.18.2.3 The adjustment of one aim axis through its full on-vehicle range must not cause the aim of the other axis to deviate more than Â±0.76Â°. If this performance is not achievable, the requirements of S10.18.3.1 apply, except that if the aiming mechanism is not a VHAD, the requirements specific to VHADs are not applicable, and the instruction must be specific to the aiming mechanism installed.
+S14.6.18.2.3 The adjustment of one aim axis through its full on-vehicle range must not cause the aim of the other axis to deviate more than ±0.76°. If this performance is not achievable, the requirements of S10.18.3.1 apply, except that if the aiming mechanism is not a VHAD, the requirements specific to VHADs are not applicable, and the instruction must be specific to the aiming mechanism installed.
 
 S14.7 Replaceable light source physical test procedures and performance requirements.
 
@@ -2097,11 +2097,11 @@ S14.7.1 Deflection test for replaceable light sources.
 
 S14.7.1.1 Procedure.
 
-S14.7.1.1.1 With the sample light source rigidly mounted in a fixture in a manner indicated in Figure 8, a force 4.0 Â±0.1 pounds (17.8 Â±0.4N) is applied at a distance âAâ from the reference plane perpendicular to the longitudinal axis of the glass capsule and parallel to the smallest dimension of the pressed glass capsule seal.
+S14.7.1.1.1 With the sample light source rigidly mounted in a fixture in a manner indicated in Figure 8, a force 4.0 ±0.1 pounds (17.8 ±0.4N) is applied at a distance “A” from the reference plane perpendicular to the longitudinal axis of the glass capsule and parallel to the smallest dimension of the pressed glass capsule seal.
 
-S14.7.1.1.2 The force is applied (using a rod with a hard rubber tip with a minimum spherical radius of .039 in [1 mm]) radially to the surface of the glass capsule in four locations in a plane parallel to the reference plane and spaced at a distance âAâ from that plane. These force applications are spaced 90Â° apart starting at the point perpendicular to the smallest dimension of the pressed seal of the glass capsule.
+S14.7.1.1.2 The force is applied (using a rod with a hard rubber tip with a minimum spherical radius of .039 in [1 mm]) radially to the surface of the glass capsule in four locations in a plane parallel to the reference plane and spaced at a distance “A” from that plane. These force applications are spaced 90° apart starting at the point perpendicular to the smallest dimension of the pressed seal of the glass capsule.
 
-S14.7.1.1.3. The bulb deflection is measured at the glass capsule surface at 180Â° opposite to the force application. Distance âAâ for a replaceable light source other than an HB Type is the dimension provided in accordance with appendix A of part 564 of this chapter, section I.A.1 if the light source has a lower beam filament, or as specified in section I.B.1 if the light source has only an upper beam filament.
+S14.7.1.1.3. The bulb deflection is measured at the glass capsule surface at 180° opposite to the force application. Distance “A” for a replaceable light source other than an HB Type is the dimension provided in accordance with appendix A of part 564 of this chapter, section I.A.1 if the light source has a lower beam filament, or as specified in section I.B.1 if the light source has only an upper beam filament.
 
 S14.7.1.2 Performance requirements. After completion of the deflection test, a sample light source must have no permanent deflection of the glass envelope exceeding 0.13 mm in the direction of applied force.
 
@@ -2121,11 +2121,11 @@ S14.7.3.1 Seasoning. The filament or discharge arc is seasoned before measuremen
 
 S14.7.3.1.1 Resistive filament source. Seasoning of a light source with a resistive element type filament is made in accordance with this S14.2.5.4 of this standard.
 
-S14.7.3.1.2 Discharge source. For a light source using excited gas mixtures as a filament or discharge arc, seasoning of the light source system, including any ballast required for its operation, is made in accordance with section 4.0 of SAE Recommended Practice J2009 (1993) (incorporated by reference, see Â§ 571.5).
+S14.7.3.1.2 Discharge source. For a light source using excited gas mixtures as a filament or discharge arc, seasoning of the light source system, including any ballast required for its operation, is made in accordance with section 4.0 of SAE Recommended Practice J2009 (1993) (incorporated by reference, see § 571.5).
 
 S14.7.3.2 Test voltage. Measurements are made with a direct current test voltage of 12.8 v regulated within one quarter of one percent.
 
-S14.7.3.3 Luminous flux measurement. The measurement of luminous flux is made in accordance with IES LM 45 (incorporated by reference, see Â§ 571.5).
+S14.7.3.3 Luminous flux measurement. The measurement of luminous flux is made in accordance with IES LM 45 (incorporated by reference, see § 571.5).
 
 S14.7.3.3.1 Resistive filament light source setup. Luminous flux measurements are made with the black cap installed on Type HB1, Type HB2, Type HB4, and Type HB5, and on any other replaceable light source so designed; and is with the electrical conductor and light source base shrouded with an opaque white cover, except for the portion normally located within the interior of the lamp housing. The measurement of luminous flux for the Types HB3 and HB4 is made with the base covered with a white cover as shown in the drawings for Types HB3 and HB4 filed in Docket No. NHTSA 98-3397. The white covers are used to eliminate the likelihood of incorrect lumen measurement that will occur should the reflectance of the light source base and electrical connector be low.
 
@@ -2139,25 +2139,25 @@ S14.8.2 Scale graduation test.
 
 S14.8.2.1 Procedure. Check each graduation on the horizontal and vertical aim scales.
 
-S14.8.2.2 Performance requirements. Scale graduation from correct aim must not exceed Â±0.2Â° horizontally and Â±0.1Â° vertically.
+S14.8.2.2 Performance requirements. Scale graduation from correct aim must not exceed ±0.2° horizontally and ±0.1° vertically.
 
 S14.8.3 Cold scale graduation test.
 
-S14.8.3.1 Procedure. The VHAD and an unlighted headlamp assembly must then be stabilized at â7Â° Â±3 Â°C in a circulating air environmental test chamber for a 30 minute temperature soak.
+S14.8.3.1 Procedure. The VHAD and an unlighted headlamp assembly must then be stabilized at −7° ±3 °C in a circulating air environmental test chamber for a 30 minute temperature soak.
 
-S14.8.3.2 Performance requirements. After completion of a 30 minute temperature soak the variation from correct aim shown by the sample VHAD must not exceed Â±0.2Â° horizontally and Â±0.1Â° vertically.
+S14.8.3.2 Performance requirements. After completion of a 30 minute temperature soak the variation from correct aim shown by the sample VHAD must not exceed ±0.2° horizontally and ±0.1° vertically.
 
 S14.8.4 Hot scale graduation test.
 
-S14.8.4.1 Procedure. The VHAD and the headlamp assembly with its highest wattage filament, or combination of filaments intended to be used simultaneously, energized at its design voltage, is then stabilized at 38Â° Â±3 Â°C in a circulating air environmental test chamber for a 30 minute temperature soak.
+S14.8.4.1 Procedure. The VHAD and the headlamp assembly with its highest wattage filament, or combination of filaments intended to be used simultaneously, energized at its design voltage, is then stabilized at 38° ±3 °C in a circulating air environmental test chamber for a 30 minute temperature soak.
 
-S14.8.4.2 Performance requirements. After completion of a 30 minute temperature soak the variation from correct aim shown by the sample VHAD must not exceed Â±0.2Â° horizontally and Â±0.1Â° vertically.
+S14.8.4.2 Performance requirements. After completion of a 30 minute temperature soak the variation from correct aim shown by the sample VHAD must not exceed ±0.2° horizontally and ±0.1° vertically.
 
 S14.8.5 Thermal cycle test.
 
-S14.8.5.1 Procedure. The VHAD and an unlighted headlamp assembly are then placed in a circulating air environmental test chamber and exposed to a temperature of 60Â° Â±3 Â°C for 24 hours, followed by a temperature of â40Â° Â±3 Â°C for 24 hours, and are then permitted to return to room temperature.
+S14.8.5.1 Procedure. The VHAD and an unlighted headlamp assembly are then placed in a circulating air environmental test chamber and exposed to a temperature of 60° ±3 °C for 24 hours, followed by a temperature of −40° ±3 °C for 24 hours, and are then permitted to return to room temperature.
 
-S14.8.5.2 Performance requirements. After completion of the thermal cycle test the variation from correct aim shown by the sample VHAD must not exceed Â±0.2Â° horizontally and Â±0.1Â° vertically and the VHAD and headlamp assembly must show no damage which would impair its ability to perform as specified in this standard.
+S14.8.5.2 Performance requirements. After completion of the thermal cycle test the variation from correct aim shown by the sample VHAD must not exceed ±0.2° horizontally and ±0.1° vertically and the VHAD and headlamp assembly must show no damage which would impair its ability to perform as specified in this standard.
 
 S14.8.6 Corrosion test.
 
@@ -2189,7 +2189,7 @@ S14.9.1.1 Power supply specifications. During the test, the unit is operated at 
 
 S14.9.1.2 Procedure.
 
-S14.9.1.2.1 The sample unit is operated with the maximum bulb load it will experience on the vehicle on which it will be installed. Bulbs that fail during the test are replaced. The turn signal flasher is not to be included in the test circuit. When the unit includes a self-canceling means, the test equipment is arranged so that the unit will be turned âoffâ in its normal operating manner.
+S14.9.1.2.1 The sample unit is operated with the maximum bulb load it will experience on the vehicle on which it will be installed. Bulbs that fail during the test are replaced. The turn signal flasher is not to be included in the test circuit. When the unit includes a self-canceling means, the test equipment is arranged so that the unit will be turned “off” in its normal operating manner.
 
 S14.9.1.2.2 The test is conducted at a rate not to exceed 15 complete cycles per minute. One complete cycle consists of the following sequence: Off, left turn, off, right turn, and return to off.
 
@@ -2209,11 +2209,11 @@ S14.9.2.1 Procedure.
 
 S14.9.2.1.1 The sample unit is operated at its rated voltage with the maximum bulb load it will experience on the vehicle on which it will be installed. Bulbs that fail during the test are replaced. The hazard warning signal flasher is not to be included in the test circuit.
 
-S14.9.2.1.2 The unit is turned âonâ and âoffâ in its normal operating manner at a rate not to exceed 15 complete cycles per minute. One complete cycle consists of the sequence: Off, on, and return to off. The test consists of 10,000 cycles at an ambient temperature of 75Â° Â±10 Â°F followed by 1 hour constant âonâ at the same temperature.
+S14.9.2.1.2 The unit is turned “on” and “off” in its normal operating manner at a rate not to exceed 15 complete cycles per minute. One complete cycle consists of the sequence: Off, on, and return to off. The test consists of 10,000 cycles at an ambient temperature of 75° ±10 °F followed by 1 hour constant “on” at the same temperature.
 
 S14.9.2.1.3 The voltage drop from the input terminal of the device to each lamp output terminal, including 3 in of 16 or 18 gage wire, is measured at the start of the test and at the completion of the test.
 
-S14.9.2.2 Performance requirements. A hazard warning signal operating unit is considered to have met the requirements of the durability test if it remains operational after completing 10,000 cycles and the 1 hour constant âonâ and the voltage drop between the input contact and any output contact, including required length of wire, does not exceed 0.3 volts for either 6.4 or 12.8 line voltage both at the start and completion of the test.
+S14.9.2.2 Performance requirements. A hazard warning signal operating unit is considered to have met the requirements of the durability test if it remains operational after completing 10,000 cycles and the 1 hour constant “on” and the voltage drop between the input contact and any output contact, including required length of wire, does not exceed 0.3 volts for either 6.4 or 12.8 line voltage both at the start and completion of the test.
 
 S14.9.3 Turn signal flasher and vehicular hazard warning signal flasher tests.
 
@@ -2221,7 +2221,7 @@ S14.9.3.1 Standard test circuit. All turn signal flasher and vehicular hazard wa
 
 S14.9.3.1.1 Test circuit setup.
 
-S14.9.3.1.1.1 The effective series resistance in the total circuit between the power supply and the bulb sockets (excluding the flasher and bulb load(s) using shorting bars) is 0.10 Â±0.01 ohm.
+S14.9.3.1.1.1 The effective series resistance in the total circuit between the power supply and the bulb sockets (excluding the flasher and bulb load(s) using shorting bars) is 0.10 ±0.01 ohm.
 
 S14.9.3.1.1.2 The circuit resistance at A-B of Figure 22 is measured with flasher and bulb load(s) each shorted out with an effective shunt resistance not to exceed 0.005 ohms.
 
@@ -2231,11 +2231,11 @@ S14.9.3.1.1.4 For testing fixed-load flashers at other required voltages, adjust
 
 S14.9.3.1.1.5 For variable-load flashers, the circuit is first adjusted for 12.8 volts (or 6.4 volts) at C-D of Figure 22, with the minimum required load, and the power supply is adjusted to provide other required test voltages, at required temperatures, at C-D of Figure 22, without readjustment of trimming resistors, R (each such required voltage being set with the minimum required load in place). The required voltage tests with the maximum load are conducted without readjusting each corresponding power supply voltage, previously set with minimum bulb load.
 
-S14.9.3.1.1.6 A suitable high impedance measuring device connected to points X-Y in Figure 22 is used for measuring flash rate, percent current âonâ time, and voltage drop across the flasher. The measurement of these quantities does not affect the circuit.
+S14.9.3.1.1.6 A suitable high impedance measuring device connected to points X-Y in Figure 22 is used for measuring flash rate, percent current “on” time, and voltage drop across the flasher. The measurement of these quantities does not affect the circuit.
 
 S14.9.3.2 Power supply specifications.
 
-S14.9.3.2.1 Starting time, voltage drop, and flash rate and percent current âonâ time tests. The power supply used in the standard test circuit for conducting the starting time, the voltage drop, and the flash rate and percent current âonâ time tests must comply with the following specifications:
+S14.9.3.2.1 Starting time, voltage drop, and flash rate and percent current “on” time tests. The power supply used in the standard test circuit for conducting the starting time, the voltage drop, and the flash rate and percent current “on” time tests must comply with the following specifications:
 
 (a) Must not generate any adverse transients not present in motor vehicles;
 
@@ -2245,7 +2245,7 @@ S14.9.3.2.1 Starting time, voltage drop, and flash rate and percent current â
 
 (d) Be capable of supplying an output voltage that does not deviate more than 2% with changes in the static load from 0 to maximum (not including inrush current) nor for static input line voltage variations;
 
-(e) Be capable of supplying an output voltage that does not deviate more than 1.0 vdc from 0 to maximum load (including inrush current) and must recover 63% of its maximum excursion within 100 Âµsec; and
+(e) Be capable of supplying an output voltage that does not deviate more than 1.0 vdc from 0 to maximum load (including inrush current) and must recover 63% of its maximum excursion within 100 µsec; and
 
 (f) Have a ripple voltage of 75mv, peak to peak.
 
@@ -2259,7 +2259,7 @@ S14.9.3.2.2 Durability tests. The power supply used in the standard test circuit
 
 (d) Be capable of supplying an output voltage that does not deviate more than 2% with changes in the static load from 0 to maximum (not including inrush current) and means must be provided to compensate for static input line voltage variations;
 
-(e) Be capable of supplying an output voltage that does not deviate more than 1.0 vdc from 0 to maximum load (including inrush current) and must recover 63% of its maximum excursion within 5 Âµsec; and
+(e) Be capable of supplying an output voltage that does not deviate more than 1.0 vdc from 0 to maximum load (including inrush current) and must recover 63% of its maximum excursion within 5 µsec; and
 
 (f) Have a ripple voltage of 300 mv, peak to peak.
 
@@ -2269,7 +2269,7 @@ S14.9.3.3.1 Samples. Twenty sample flashers chosen from random from fifty repres
 
 S14.9.3.3.2 Procedure.
 
-S14.9.3.3.2.1 The test is conducted in an ambient temperature of 75 Â±10 Â°F with the design load (variable load flashers are tested with their minimum and their maximum design load) connected and the power source for the test circuit adjusted to apply design voltage at the bulbs.
+S14.9.3.3.2.1 The test is conducted in an ambient temperature of 75 ±10 °F with the design load (variable load flashers are tested with their minimum and their maximum design load) connected and the power source for the test circuit adjusted to apply design voltage at the bulbs.
 
 S14.9.3.3.2.2 The time measurement starts when the voltage is initially applied. Compliance is based on an average of three starts for each sample separated by a cooling interval of 5 minutes.
 
@@ -2285,15 +2285,15 @@ S14.9.3.4.1 Samples. The same twenty sample flashers used in the starting time t
 
 S14.9.3.4.2 Procedure.
 
-S14.9.3.4.2.1 The test is conducted in an ambient temperature of 75 Â±10 Â°F with the design load (variable load flashers are tested with their maximum design load) connected and the power source for the standard test circuit adjusted to apply 12.8 volts or 6.4 volts at the bulbs according to the flasher rating.
+S14.9.3.4.2.1 The test is conducted in an ambient temperature of 75 ±10 °F with the design load (variable load flashers are tested with their maximum design load) connected and the power source for the standard test circuit adjusted to apply 12.8 volts or 6.4 volts at the bulbs according to the flasher rating.
 
-S14.9.3.4.2.2 The voltage drop is measured between the input and load terminals of the flasher during the âonâ period after the flashers have completed at least five consecutive cycles.
+S14.9.3.4.2.2 The voltage drop is measured between the input and load terminals of the flasher during the “on” period after the flashers have completed at least five consecutive cycles.
 
 S14.9.3.4.3 Performance requirements. The requirements of the voltage drop test are considered to have been met if 17 of 20 samples comply with the lowest voltage drop across any flasher not exceeding 0.80 volt.
 
-S14.9.3.5 Turn signal flasher flash rate and percent current âonâ time test.
+S14.9.3.5 Turn signal flasher flash rate and percent current “on” time test.
 
-S14.9.3.5.1 Samples. The same twenty sample flashers used in the voltage drop test are subjected to a flash rate and percent of current âonâ time test.
+S14.9.3.5.1 Samples. The same twenty sample flashers used in the voltage drop test are subjected to a flash rate and percent of current “on” time test.
 
 S14.9.3.5.2 Procedure.
 
@@ -2301,19 +2301,19 @@ S14.9.3.5.2.1 The test is conducted using the standard test circuit with the des
 
 S14.9.3.5.2.2 Compliance is determined using the following combinations of ambient temperature and bulb voltage:
 
-(a) 12.8 volts (or 6.4 volts) and 75Â° Â±10 Â°F,
+(a) 12.8 volts (or 6.4 volts) and 75° ±10 °F,
 
-(b) 12.0 volts (or 6.0 volts) and 0Â° Â±5 Â°F,
+(b) 12.0 volts (or 6.0 volts) and 0° ±5 °F,
 
-(c) 15.0 volts (or 7.5 volts) and 0Â° Â±5 Â°F,
+(c) 15.0 volts (or 7.5 volts) and 0° ±5 °F,
 
-(d) 11.0 volts (or 5.5 volts) and 125Â° Â±5 Â°F, and
+(d) 11.0 volts (or 5.5 volts) and 125° ±5 °F, and
 
-(e) 14.0 volts (or 7.0 volts) and 125Â° Â±5 Â°F.
+(e) 14.0 volts (or 7.0 volts) and 125° ±5 °F.
 
-S14.9.3.5.2.3 Flash rate and percent current âonâ time are measured after the flashers have completed five consecutive cycles and are determined by an average of at least three consecutive cycles.
+S14.9.3.5.2.3 Flash rate and percent current “on” time are measured after the flashers have completed five consecutive cycles and are determined by an average of at least three consecutive cycles.
 
-S14.9.3.5.3 Performance requirements. The requirements of the flash rate and percent current âonâ time test are considered to have been met if 17 of 20 samples comply with the following:
+S14.9.3.5.3 Performance requirements. The requirements of the flash rate and percent current “on” time test are considered to have been met if 17 of 20 samples comply with the following:
 
 (a) The performance of a normally closed type flasher must be within the unshaded portion of the polygon shown in Figure 2, or
 
@@ -2325,13 +2325,13 @@ S14.9.3.6.1 Samples. Twenty sample flashers chosen from random from the thirty s
 
 S14.9.3.6.2 Procedure.
 
-S14.9.3.6.2.1 Conformance of the samples to the starting time, voltage drop, and flash rate and percent of current âonâ time tests (limited to the 12.8 volts or 6.4 volts and 75Â° Â±10 Â°F test condition only) is established.
+S14.9.3.6.2.1 Conformance of the samples to the starting time, voltage drop, and flash rate and percent of current “on” time tests (limited to the 12.8 volts or 6.4 volts and 75° ±10 °F test condition only) is established.
 
 S14.9.3.6.2.2 The test is conducted on each sample with the design load (variable load flashers are tested with their maximum design load) connected and 14 volts or 7.0 volts, according to the flasher rating, applied to the input terminals of the standard test circuit.
 
-S14.9.3.6.2.3 The test cycle consists of 15 seconds on followed by 15 seconds off for a total time of 200 hours in an ambient temperature of 75Â° Â±10 Â°F.
+S14.9.3.6.2.3 The test cycle consists of 15 seconds on followed by 15 seconds off for a total time of 200 hours in an ambient temperature of 75° ±10 °F.
 
-S14.9.3.6.3 Performance requirements. The requirements of the durability test are considered to have been met if, after completion, 17 of 20 samples comply with the performance requirements of the starting time, voltage drop, and flash rate and percent of current âonâ time tests (limited to the 12.8 volts or 6.4 volts and 75Â° Â±10 Â°F test condition only) when tested in the standard test circuit with design load and 12.8 volts (or 6.4 volts) applied to the bulbs.
+S14.9.3.6.3 Performance requirements. The requirements of the durability test are considered to have been met if, after completion, 17 of 20 samples comply with the performance requirements of the starting time, voltage drop, and flash rate and percent of current “on” time tests (limited to the 12.8 volts or 6.4 volts and 75° ±10 °F test condition only) when tested in the standard test circuit with design load and 12.8 volts (or 6.4 volts) applied to the bulbs.
 
 S14.9.3.7 Vehicular hazard warning signal flasher starting time test.
 
@@ -2339,7 +2339,7 @@ S14.9.3.7.1 Samples. Twenty sample flashers chosen from random from fifty repres
 
 S14.9.3.7.2 Procedure.
 
-S14.9.3.7.2.1 The test is conducted test in an ambient temperature of 75Â° Â±10 Â°F with the minimum and maximum load connected and the power source for the test circuit adjusted to apply design voltage at the bulbs.
+S14.9.3.7.2.1 The test is conducted test in an ambient temperature of 75° ±10 °F with the minimum and maximum load connected and the power source for the test circuit adjusted to apply design voltage at the bulbs.
 
 S14.9.3.7.2.2 The time measurement starts when the voltage is initially applied.
 
@@ -2355,15 +2355,15 @@ S14.9.3.8.1 Samples. The same twenty sample flashers used in the starting time t
 
 S14.9.3.8.2 Procedure.
 
-S14.9.3.8.2.1 The test is conducted in an ambient temperature of 75Â° Â±10 Â°F with the maximum design load connected and the power source for the test circuit adjusted to apply design voltage at the bulbs.
+S14.9.3.8.2.1 The test is conducted in an ambient temperature of 75° ±10 °F with the maximum design load connected and the power source for the test circuit adjusted to apply design voltage at the bulbs.
 
-S14.9.3.8.2.2 The voltage drop is measured between the input and load terminals of the flasher during the âonâ period after the flashers have completed at least five consecutive cycles.
+S14.9.3.8.2.2 The voltage drop is measured between the input and load terminals of the flasher during the “on” period after the flashers have completed at least five consecutive cycles.
 
 S14.9.3.8.3 Performance requirements. The requirements of the voltage drop test are considered to have been met if 17 of 20 samples comply with the lowest voltage drop across any flasher must not exceed 0.8 volt.
 
-S14.9.3.9 Vehicular hazard warning signal flasher flash rate and percent âonâ time test.
+S14.9.3.9 Vehicular hazard warning signal flasher flash rate and percent “on” time test.
 
-S14.9.3.9.1 Samples. The same twenty sample flashers used in the voltage drop test are subjected to a flash rate and percent of current âonâ time test.
+S14.9.3.9.1 Samples. The same twenty sample flashers used in the voltage drop test are subjected to a flash rate and percent of current “on” time test.
 
 S14.9.3.9.2 Procedure.
 
@@ -2371,19 +2371,19 @@ S14.9.3.9.2.1 The test is conducted using the standard test circuit by and apply
 
 S14.9.3.9.2.2 Compliance is determined using the following combinations of ambient temperature and bulb voltage:
 
-(a) 12.8 volts (or 6.4 volts) and 75Â° Â±10 Â°F,
+(a) 12.8 volts (or 6.4 volts) and 75° ±10 °F,
 
-(b) 11.0 volts (or 5.5 volts) and 125Â° Â±5 Â°F,
+(b) 11.0 volts (or 5.5 volts) and 125° ±5 °F,
 
-(c) 11.0 volts (or 5.5 volts) and 0Â° Â±5 Â°F,
+(c) 11.0 volts (or 5.5 volts) and 0° ±5 °F,
 
-(d) 13.0 volts (or 6.5 volts) and 125Â° Â±5 Â°F, and
+(d) 13.0 volts (or 6.5 volts) and 125° ±5 °F, and
 
-(e) 13.0 volts (or 6.5 volts) and 0Â° Â±5 Â°F.
+(e) 13.0 volts (or 6.5 volts) and 0° ±5 °F.
 
-S14.9.3.9.2.3 Flash rate and percent current âonâ time are measured after the flashers have completed five consecutive cycles and are determined by an average of at least three consecutive cycles.
+S14.9.3.9.2.3 Flash rate and percent current “on” time are measured after the flashers have completed five consecutive cycles and are determined by an average of at least three consecutive cycles.
 
-S14.9.3.9.3 Performance requirements. The requirements of the flash rate and percent current âonâ time test are considered to have been met if 17 of 20 samples comply with the following:
+S14.9.3.9.3 Performance requirements. The requirements of the flash rate and percent current “on” time test are considered to have been met if 17 of 20 samples comply with the following:
 
 (a) The performance of a normally closed type flasher must be within the unshaded portion of the polygon shown in Figure 2, or
 
@@ -2395,13 +2395,13 @@ S14.9.3.10.1 Samples. Twenty sample flashers chosen from random from the thirty 
 
 S14.9.3.10.2 Procedure.
 
-S14.9.3.10.2.1 Conformance of the samples to the starting time, voltage drop, and flash rate and percent of current âonâ time tests (limited to the 12.8 volts or 6.4 volts and 75Â° Â±10 Â°F test condition only) is established.
+S14.9.3.10.2.1 Conformance of the samples to the starting time, voltage drop, and flash rate and percent of current “on” time tests (limited to the 12.8 volts or 6.4 volts and 75° ±10 °F test condition only) is established.
 
 S14.9.3.10.2.2 The test is conducted on each sample with the maximum design load connected and 13.0 volts (or 6.5 volts) applied to the input terminals of the standard test circuit.
 
-S14.9.3.10.2.3 The flasher is subjected to continuous flashing for a total time of 36 hours in an ambient temperature of 75Â° Â±10 Â°F.
+S14.9.3.10.2.3 The flasher is subjected to continuous flashing for a total time of 36 hours in an ambient temperature of 75° ±10 °F.
 
-S14.9.3.10.3 Performance requirements. The requirements of the durability test are considered to have been met if, after completion, 17 of 20 samples comply with the performance requirements of the starting time, voltage drop, and flash rate and percent of current âonâ time tests (limited to the 12.8 volts or 6.4 volts and 75Â° Â±10 Â°F test condition only) when tested in the standard test circuit with the power source adjusted to provide design voltage to the bulbs and with a minimum load of two signal lamp bulbs and the maximum design load, including pilot lamps, as specified by the manufacturer at an ambient temperature of 75Â° Â±10 Â°F.
+S14.9.3.10.3 Performance requirements. The requirements of the durability test are considered to have been met if, after completion, 17 of 20 samples comply with the performance requirements of the starting time, voltage drop, and flash rate and percent of current “on” time tests (limited to the 12.8 volts or 6.4 volts and 75° ±10 °F test condition only) when tested in the standard test circuit with the power source adjusted to provide design voltage to the bulbs and with a minimum load of two signal lamp bulbs and the maximum design load, including pilot lamps, as specified by the manufacturer at an ambient temperature of 75° ±10 °F.
 
 S14.9.3.11 Semiautomatic headlamp beam switching device tests.
 
@@ -2415,9 +2415,9 @@ S14.9.3.11.2.2 Procedure.
 
 S14.9.3.11.2.2.1 The sample device is adjusted for sensitivity in accordance with the manufacturer's instructions. It is exposed to a light source capable of providing a variable intensity of at least 1.5 cd to 150 cd at 100 feet from the sample device.
 
-S14.9.3.11.2.2.2 The device is switched to the lower beam mode in accordance with the âdimâ limits specified and switched back to the upper beam mode in accordance with the âholdâ limits specified for the specified test positions.
+S14.9.3.11.2.2.2 The device is switched to the lower beam mode in accordance with the “dim” limits specified and switched back to the upper beam mode in accordance with the “hold” limits specified for the specified test positions.
 
-S14.9.3.11.2.2.3 To provide more complete information on sensitivity throughout the required vertical and horizontal angles, a set of constant footcandle curves are made at âdimâ sensitivities of 17, 25, and 100 cd at 100 ft.
+S14.9.3.11.2.2.3 To provide more complete information on sensitivity throughout the required vertical and horizontal angles, a set of constant footcandle curves are made at “dim” sensitivities of 17, 25, and 100 cd at 100 ft.
 
 S14.9.3.11.2.3 Performance requirements.
 
@@ -2433,7 +2433,7 @@ S14.9.3.11.3.1 Procedure.
 
 S14.9.3.11.3.1.1 The sensitivity of the sample device is adjusted so that it complies with the sensitivity test.
 
-S14.9.3.11.3.1.2 The âdimâ sensitivity is measured at the H-V test position at 11 volts input to the device and at 15 volts input to the device.
+S14.9.3.11.3.1.2 The “dim” sensitivity is measured at the H-V test position at 11 volts input to the device and at 15 volts input to the device.
 
 S14.9.3.11.3.2 Performance requirements. The device must switch to the lower beam mode at between 8 (cd at 100 ft) and 25 (cd at 100 ft) with the input voltage at 11 volts and at 15 volts.
 
@@ -2469,11 +2469,11 @@ S14.9.3.11.6.1 Procedure.
 
 S14.9.3.11.6.1.1 The sample device is exposed for 1 hour in a temperature corresponding to that at the device mounting location.
 
-S14.9.3.11.6.1.2 For a device mounted in the passenger compartment or the engine compartment, the temperature is 210 Â°F, mounted elsewhere, the temperature is 150 Â°F.
+S14.9.3.11.6.1.2 For a device mounted in the passenger compartment or the engine compartment, the temperature is 210 °F, mounted elsewhere, the temperature is 150 °F.
 
-S14.9.3.11.6.1.3 After this exposure the H-V âdimâ sensitivity of the sample device is measured over the temperature range of â30 Â°F to + 100 Â°F.
+S14.9.3.11.6.1.3 After this exposure the H-V “dim” sensitivity of the sample device is measured over the temperature range of −30 °F to + 100 °F.
 
-S14.9.3.11.6.2 Performance requirements. The device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft) over the temperature range of â30 Â°F to + 100 Â°F.
+S14.9.3.11.6.2 Performance requirements. The device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft) over the temperature range of −30 °F to + 100 °F.
 
 S14.9.3.11.7 Dust test.
 
@@ -2483,7 +2483,7 @@ S14.9.3.11.7.1.1 The sensitivity of the sample device is adjusted so that it com
 
 S14.9.3.11.7.1.2 The device is then subjected to the dust test of S14.5.3.
 
-S14.9.3.11.7.1.3 At the conclusion of the dust exposure the lens of the device must be wiped clean and the H-V âdimâ sensitivity of the sample device is measured.
+S14.9.3.11.7.1.3 At the conclusion of the dust exposure the lens of the device must be wiped clean and the H-V “dim” sensitivity of the sample device is measured.
 
 S14.9.3.11.7.2 Performance requirements. The device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft).
 
@@ -2497,7 +2497,7 @@ S14.9.3.11.8.1.2 All system components located outside the passenger compartment
 
 S14.9.3.11.8.1.3 Water is not permitted to accumulate on any connector socket.
 
-S14.9.3.11.8.1.4 At the conclusion of the test the H-V âdimâ sensitivity of the sample device must be measured.
+S14.9.3.11.8.1.4 At the conclusion of the test the H-V “dim” sensitivity of the sample device must be measured.
 
 S14.9.3.11.8.2 Performance requirements. The sample device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft).
 
@@ -2514,13 +2514,13 @@ S14.9.3.11.9.1.3 The vibration frequency must be varied from 30 to 200 and back 
 
 S14.9.3.11.9.1.4 The device must be operating during the test.
 
-S14.9.3.11.9.1.5 At the conclusion of the test the H-V âdimâ sensitivity of the sample device and the mechanical aim of the photounit must be measured.
+S14.9.3.11.9.1.5 At the conclusion of the test the H-V “dim” sensitivity of the sample device and the mechanical aim of the photounit must be measured.
 
 S14.9.3.11.9.2 Performance requirements.
 
 S14.9.3.11.9.2.1 The sample device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft).
 
-S14.9.3.11.9.2.2 The mechanical aim of the device photounit must not have changed by more than 0.25Â° from the initial value.
+S14.9.3.11.9.2.2 The mechanical aim of the device photounit must not have changed by more than 0.25° from the initial value.
 
 S14.9.3.11.10 Sunlight test.
 
@@ -2528,7 +2528,7 @@ S14.9.3.11.10.1 Procedure.
 
 S14.9.3.11.10.1.1 The sample device must be exposed for 1 hour in bright noonday sunlight (5000 fc minimum illumination with a clear sky) with the photounit aimed as it would be in service and facing an unobstructed portion of the horizon in the direction of the sun.
 
-S14.9.3.11.10.1.2 The device must then be rested for 1 hour in normal room light at room temperature and the H-V âdimâ sensitivity of the sample device is measured.
+S14.9.3.11.10.1.2 The device must then be rested for 1 hour in normal room light at room temperature and the H-V “dim” sensitivity of the sample device is measured.
 
 S14.9.3.11.10.2 Performance requirements. The sample device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft).
 
@@ -2540,7 +2540,7 @@ S14.9.3.11.11.1.1 The sensitivity of the sample device is adjusted so that it co
 
 S14.9.3.11.11.1.2 The device photounit operated at a 13.0 input voltage on a cycle of 90 minutes on and 30 minutes off must be activated by a 60 cd light source at 100 ft, or equivalent, which is cycled on and off 4 times per minute for a period of 200 hours.
 
-S14.9.3.11.11.1.3 The device must then rest for 2 hours in a lighted area of 50 to 150 fc after which the H-V âdimâ sensitivity must be measured.
+S14.9.3.11.11.1.3 The device must then rest for 2 hours in a lighted area of 50 to 150 fc after which the H-V “dim” sensitivity must be measured.
 
 S14.9.3.11.11.2 Performance requirements. The sample device must switch to the lower beam mode between 8 (cd at 100 ft) and 25 (cd at 100 ft).
 
@@ -2560,9 +2560,9 @@ S14.9.3.12.1 Test scenarios.
 
 S14.9.3.12.1.1 Any of the scenarios specified in Table XXII and Figures 27, 28, 29, and 30 may be tested. Where a range of values is specified, the vehicle shall be able to meet the requirements at all values within the range.
 
-S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test scenario will be selected for the test vehicle. The vehicle will achieve and maintain this speed Â± 0.45 m/s (1 mph) prior to reaching, and then throughout, the measurement distance range specified for that scenario. Once the test speed is achieved and maintained, no sudden steering inputs, acceleration, braking, or anything that causes a change in vehicle pitch that affects the results of the test shall occur.
+S14.9.3.12.1.2 Any speed that conforms to the speeds specified for that test scenario will be selected for the test vehicle. The vehicle will achieve and maintain this speed ± 0.45 m/s (1 mph) prior to reaching, and then throughout, the measurement distance range specified for that scenario. Once the test speed is achieved and maintained, no sudden steering inputs, acceleration, braking, or anything that causes a change in vehicle pitch that affects the results of the test shall occur.
 
-S14.9.3.12.1.3 For test scenarios involving curves, any radius within the allowable range specified for that test scenario may be selected. The curve shall nominally consist of a constant radius path and be referenced to the headlighting system midpoint. The actual path of the test vehicle shall not deviate from the nominal path by more than Â± 0.5 m throughout the measurement distance range.
+S14.9.3.12.1.3 For test scenarios involving curves, any radius within the allowable range specified for that test scenario may be selected. The curve shall nominally consist of a constant radius path and be referenced to the headlighting system midpoint. The actual path of the test vehicle shall not deviate from the nominal path by more than ± 0.5 m throughout the measurement distance range.
 
 S14.9.3.12.1.4 The test vehicle shall be driven within the lane and will not change lanes.
 
@@ -2582,11 +2582,11 @@ S14.9.3.12.2.1 The maximum calculated illuminance for each measurement distance 
 
 S14.9.3.12.3 Stimulus test fixtures. Testing shall be conducted using the stimulus test fixtures specified in this section and Figures 23 through 26.
 
-S14.9.3.12.3.1 Headlamps. The headlamps specified in Fig. 23 (Opposite Direction Car/Truck) shall be a right- and left-hand 2018 Ford F-150 Halogen headlamp (part # KL3Z13008C KL3Z13008D) using any replaceable light source designated for use in the system and, separately, a right- and left-hand 2018 Toyota Camry LED headlamp (part # 8111006C40/8115006C40). The headlamps specified in Fig. 25 (Opposite Direction Motorcycle) shall be a 5.75-inch round headlamp kit from a 2018 Harley Davidson Sportster (part #68297-05B) using an HB2 replaceable light source. Each headlamp shall energize the lower beam only, powered at 12.8 volts DC Â± 500 mV when measured at the lamp terminals, and shall have been energized for a minimum of 5 minutes before each test trial. The measurement locations specified in Figures 23 and 25 shall be measured to the optical axis marking of the headlamps.
+S14.9.3.12.3.1 Headlamps. The headlamps specified in Fig. 23 (Opposite Direction Car/Truck) shall be a right- and left-hand 2018 Ford F-150 Halogen headlamp (part # KL3Z13008C KL3Z13008D) using any replaceable light source designated for use in the system and, separately, a right- and left-hand 2018 Toyota Camry LED headlamp (part # 8111006C40/8115006C40). The headlamps specified in Fig. 25 (Opposite Direction Motorcycle) shall be a 5.75-inch round headlamp kit from a 2018 Harley Davidson Sportster (part #68297-05B) using an HB2 replaceable light source. Each headlamp shall energize the lower beam only, powered at 12.8 volts DC ± 500 mV when measured at the lamp terminals, and shall have been energized for a minimum of 5 minutes before each test trial. The measurement locations specified in Figures 23 and 25 shall be measured to the optical axis marking of the headlamps.
 
-S14.9.3.12.3.2 Taillamps. The taillamps specified in Fig. 24 (Same Direction Car/Truck) shall be a right and left-hand 2018 Ford F-150 incandescent rear combination lamp (part # JL3Z13405H/JL3Z13404H) and, separately, a right and left-hand 2018 Toyota Camry rear combination lamp (part # 81550-06730/81560-06730). The taillamps specified in Fig. 26 (Same Direction Motorcycle) shall be a 2018 Harley Davidson Roadster layback LED taillamp assembly (part #67800355). The taillamps shall be powered at 12.8 volts DC Â± 500 mV when measured at the lamp terminals and shall have been energized for a minimum of 5 minutes before each test trial. The measurement locations specified in Figures 24 and 26 shall be measured to the center of the taillamp.
+S14.9.3.12.3.2 Taillamps. The taillamps specified in Fig. 24 (Same Direction Car/Truck) shall be a right and left-hand 2018 Ford F-150 incandescent rear combination lamp (part # JL3Z13405H/JL3Z13404H) and, separately, a right and left-hand 2018 Toyota Camry rear combination lamp (part # 81550-06730/81560-06730). The taillamps specified in Fig. 26 (Same Direction Motorcycle) shall be a 2018 Harley Davidson Roadster layback LED taillamp assembly (part #67800355). The taillamps shall be powered at 12.8 volts DC ± 500 mV when measured at the lamp terminals and shall have been energized for a minimum of 5 minutes before each test trial. The measurement locations specified in Figures 24 and 26 shall be measured to the center of the taillamp.
 
-S14.9.3.12.3.3 Photometers. Photometers must be capable of a minimum measurement unit of 0.01 lux. The color response of the photometer must be corrected to that of the 1931 CIE Standard Observer (2-degree) Photopic Response Curve, as shown in the CIE 1931 Chromaticity Diagram (incorporated by reference, see Â§ 571.5), with a cosine correction characteristic within 3%. The photometer lenses on the test fixture shall be clean and free from dirt and debris, and the photometers will be zero-calibrated for each test to account for ambient light. The illuminance values from the photometers shall be collected at a rate of at least 100 Hz and a maximum 25-degree angle of incidence.
+S14.9.3.12.3.3 Photometers. Photometers must be capable of a minimum measurement unit of 0.01 lux. The color response of the photometer must be corrected to that of the 1931 CIE Standard Observer (2-degree) Photopic Response Curve, as shown in the CIE 1931 Chromaticity Diagram (incorporated by reference, see § 571.5), with a cosine correction characteristic within 3%. The photometer lenses on the test fixture shall be clean and free from dirt and debris, and the photometers will be zero-calibrated for each test to account for ambient light. The illuminance values from the photometers shall be collected at a rate of at least 100 Hz and a maximum 25-degree angle of incidence.
 
 S14.9.3.12.3.4 The projection of the fixture lamp's optical axis onto the road surface shall be parallel to a tangent of the road edge at the location of the photometer.
 
@@ -2594,11 +2594,11 @@ S14.9.3.12.3.5 The test fixture shall be centered in the lane.
 
 S14.9.3.12.4 Test vehicle preparation.
 
-S14.9.3.12.4.1 Tires on the test vehicle shall be inflated to the manufacturer's recommended cold inflation pressure Â± 7 kPa (1 psi). If more than one recommendation is provided, the tires are inflated to the cold inflation pressure Â± 7 kPa (1 psi) that corresponds to the lowest loaded condition listed.
+S14.9.3.12.4.1 Tires on the test vehicle shall be inflated to the manufacturer's recommended cold inflation pressure ± 7 kPa (1 psi). If more than one recommendation is provided, the tires are inflated to the cold inflation pressure ± 7 kPa (1 psi) that corresponds to the lowest loaded condition listed.
 
 S14.9.3.12.4.2 Before initiating testing, if the test vehicle is equipped with a fuel tank it shall be filled to approximately 100% of capacity with the appropriate fuel and maintained to at least 75% capacity throughout the testing.
 
-S14.9.3.12.4.3 Headlamps on the test vehicle shall be aimed according to the vehicle manufacturer's instructions. The test vehicle shall be loaded within Â± 5 kg of the total vehicle weight during track testing prior to aiming the adaptive driving beam headlamps.
+S14.9.3.12.4.3 Headlamps on the test vehicle shall be aimed according to the vehicle manufacturer's instructions. The test vehicle shall be loaded within ± 5 kg of the total vehicle weight during track testing prior to aiming the adaptive driving beam headlamps.
 
 S14.9.3.12.4.4 The adaptive driving beam system shall be adjusted according to the manufacturer's instructions.
 

@@ -12,12 +12,12 @@ systems:
 - Pedestrian protection
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
-title: Â§ 571.131 Standard No. 131; School bus pedestrian safety devices.
+title: § 571.131 Standard No. 131; School bus pedestrian safety devices.
 vehicle_categories:
 - Bus
 ---
 
-## Â§ 571.131 Standard No. 131; School bus pedestrian safety devices.
+## § 571.131 Standard No. 131; School bus pedestrian safety devices.
 
 S1. Scope. This standard establishes requirements for devices that can be installed on school buses to improve the safety of pedestrians in the vicinity of stopped school buses.
 
@@ -31,13 +31,13 @@ Stop signal arm means a device that can be extended outward from the side of a s
 
 S5. Requirements. Each school bus shall be equipped with a stop signal arm meeting the requirements of S5.1 through S5.5 as depicted in Figure 1.
 
-S5.1 The stop signal arm shall be a regular octagon which is at least 450 mm Ã 450 mm (17.72 inches Ã 17.72 inches) in diameter.
+S5.1 The stop signal arm shall be a regular octagon which is at least 450 mm × 450 mm (17.72 inches × 17.72 inches) in diameter.
 
 S5.2 The stop signal arm shall be red on both sides, except as provided in S5.2.1 and S5.2.2, and S5.2.3.
 
 S5.2.1 The stop signal arm shall have a white border at least 12 mm (0.47 inches) wide on both sides, except as provided in S5.2.3. Mounting brackets, clips, bolts, or other components necessary to the mechanical or electrical operation of the stop signal arm may not obscure more than 15 percent of the border on each side of the stop arm. The portion of the border that may be obscured is in addition to that portion which may be obscured by the two red lamps specified in S5.3.2.
 
-S.5.2.2 The stop signal arm shall have the word âSTOPâ displayed in white upper-case letters on both sides, except as provided in S5.2.3. The letters shall be at least 150 mm (5.9 inches) in height. The letters shall have a stroke width of at least 20 mm (0.79 inches), except as provided in S.5.3.1.1.
+S.5.2.2 The stop signal arm shall have the word “STOP” displayed in white upper-case letters on both sides, except as provided in S5.2.3. The letters shall be at least 150 mm (5.9 inches) in height. The letters shall have a stroke width of at least 20 mm (0.79 inches), except as provided in S.5.3.1.1.
 
 S5.2.3 When two stop signal arms are installed on a school bus, the rearmost stop signal arm shall not contain any lettering, symbols, or markings on the forward side.
 
@@ -45,7 +45,7 @@ S5.3 Conspicuity. The stop signal arm shall comply with either S5.3.1 or S5.3.2,
 
 S5.3.1 Except as provided in S5.3.1.1, S5.3.1.2, or S5.3.1.3, the entire surface of both sides of each stop signal arm shall be reflectorized with Type III retroreflectorized material that meets the minimum specific intensity requirements of S6.1 and Table I.
 
-S.5.3.1.1 The legend of the retroreflective stop arm may be illuminated in a manner such that light is emitted from the surface of each letter or from the area immediately surrounding each letter. Only red lamps may be used. They shall form the complete shape of each letter of the legend, and shall be affixed to all letters (or to the areas immediately surrounding all letters) in the legend. The shape of each letter shall remain constant and, if the lamps are contained within each letter, the net stroke width (stroke width minus the width of the lamp(s)) of each letter of the legend, specified in S5.2.2, shall not be less than 15 mm (0.59 inch). When the stop arm is extended, the lamps shall flash at the rate specified in S6.2.2, with a current âonâ time specified in S6.2.2.1. All lamps shall be positioned in one of the two following ways:
+S.5.3.1.1 The legend of the retroreflective stop arm may be illuminated in a manner such that light is emitted from the surface of each letter or from the area immediately surrounding each letter. Only red lamps may be used. They shall form the complete shape of each letter of the legend, and shall be affixed to all letters (or to the areas immediately surrounding all letters) in the legend. The shape of each letter shall remain constant and, if the lamps are contained within each letter, the net stroke width (stroke width minus the width of the lamp(s)) of each letter of the legend, specified in S5.2.2, shall not be less than 15 mm (0.59 inch). When the stop arm is extended, the lamps shall flash at the rate specified in S6.2.2, with a current “on” time specified in S6.2.2.1. All lamps shall be positioned in one of the two following ways:
 
 (1) centered within the stroke of each letter of the legend, or
 
@@ -79,14 +79,14 @@ S6.1 Reflectivity Test. When tested under the conditions specified in S6.2 (b), 
 
 S6.2 Lighting Tests.
 
-S6.2.1 Color. The procedure shall be done in accordance with SAE Recommended Practice J578-1988 (incorporated by reference, see Â§ 571.5). When visually compared to the light emitted from a filter/source with a combination of chromaticity coordinates as explained in SAE Recommended Practice J578-1988 within specific boundaries [y = 0.33 (yellow boundary) and y = 0.98â Ã (purple boundary)] the color of light emitted from the test object shall not be less saturated (paler), yellower, or purpler. The test object shall be placed perpendicular to the light source to simulate lamps on stop signal arms. In making visual comparisons, the light from the test object shall light one portion of a comparison field and the light from the filter/source standard shall light an adjacent area. To make a valid visual comparison, the two fields to be viewed shall be of near equal luminance.
+S6.2.1 Color. The procedure shall be done in accordance with SAE Recommended Practice J578-1988 (incorporated by reference, see § 571.5). When visually compared to the light emitted from a filter/source with a combination of chromaticity coordinates as explained in SAE Recommended Practice J578-1988 within specific boundaries [y = 0.33 (yellow boundary) and y = 0.98— × (purple boundary)] the color of light emitted from the test object shall not be less saturated (paler), yellower, or purpler. The test object shall be placed perpendicular to the light source to simulate lamps on stop signal arms. In making visual comparisons, the light from the test object shall light one portion of a comparison field and the light from the filter/source standard shall light an adjacent area. To make a valid visual comparison, the two fields to be viewed shall be of near equal luminance.
 
 S6.2.2. Flash rate. The lamps on each side of the stop signal arm, when operated at the manufacturer's design load, shall flash alternately at a rate of 60 to 120 flashes per minute.
 
-S6.2.2.1 Lamps, except those subject to S6.2.2.2, shall have a current âonâ time of 30 to 75 percent of the total flash cycle. The total current âonâ time for the two terminals shall be between 90 and 110 percent of the total flash cycle.
+S6.2.2.1 Lamps, except those subject to S6.2.2.2, shall have a current “on” time of 30 to 75 percent of the total flash cycle. The total current “on” time for the two terminals shall be between 90 and 110 percent of the total flash cycle.
 
-S6.2.2.2 Xenon short-arc gaseous discharge lamps shall have an âoffâ time before each flash of at least 50 percent of the total flash cycle.
+S6.2.2.2 Xenon short-arc gaseous discharge lamps shall have an “off” time before each flash of at least 50 percent of the total flash cycle.
 
-S6.2.3 Vibration, Moisture, Dust, Corrosion, Photometry, and Warpage Tests. The procedure shall be done in accordance with SAE Recommended Practice J575-1983 (incorporated by reference, see Â§ 571.5) and SAE Recommended Practice J1133 (1984) (incorporated by reference, see Â§ 571.5). Lamps and lighting components shall meet the criteria for vibration, moisture, dust, corrosion, photometry, and warpage in SAE Recommended Practice J575-1983 and SAE Recommended Practice J1133 (1984) under the test conditions specified herein.
+S6.2.3 Vibration, Moisture, Dust, Corrosion, Photometry, and Warpage Tests. The procedure shall be done in accordance with SAE Recommended Practice J575-1983 (incorporated by reference, see § 571.5) and SAE Recommended Practice J1133 (1984) (incorporated by reference, see § 571.5). Lamps and lighting components shall meet the criteria for vibration, moisture, dust, corrosion, photometry, and warpage in SAE Recommended Practice J575-1983 and SAE Recommended Practice J1133 (1984) under the test conditions specified herein.
 
 *[56 FR 20370, May 3, 1991, as amended at 57 FR 40134, Sept. 2, 1992; 59 FR 26761, May 24, 1994; 63 FR 29143, May 28, 1998; 68 FR 44901, July 31, 2003; 77 FR 760, Jan. 6, 2012]*
