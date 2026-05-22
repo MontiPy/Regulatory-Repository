@@ -1,11 +1,1 @@
-Pull run: 2026-05-22T20:12:27+00:00
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art38.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art30.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art4.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art12.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art19.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art25.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art27.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art31.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art39.md
-OK C:\Users\v0409324\OneDrive - Honda\Documents\0) Reference\Regulatory Repository\regulations\kr-kmvss-art56.md
+Pull run: 2026-05-22T21:43:56+00:00
