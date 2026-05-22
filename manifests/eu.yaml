@@ -1,30 +1,49 @@
+region: EU
+connector: eurlex
+description: EU Regulations, Directives, and Implementing/Delegated Acts for motor vehicle type approval
+source: https://eur-lex.europa.eu/
+
 records:
-  # General Safety Regulation and implementing acts
-  - { celex: "32019R2144" }   # GSR2 — General Safety Regulation (vehicle type approval requirements)
-  - { celex: "32021R0535" }   # Implementing regulation for GSR2 (ALKS, ESC, etc.)
-  - { celex: "32022R1426" }   # Implementing regulation for intelligent speed assistance, etc.
+  # ── Framework and Type-Approval ─────────────────────────────────────────────
+  - { celex: "32018R0858" }   # Regulation (EU) 2018/858 — Type-approval and market surveillance framework
+  - { celex: "32019R2144" }   # Regulation (EU) 2019/2144 — General Safety Regulation (GSR2)
+  - { celex: "32021R0535" }   # Implementing Regulation (EU) 2021/535 — General construction and safety characteristics
+  - { celex: "32022R1426" }   # Regulation (EU) 2022/1426 — Type-approval of Automated Driving Systems for fully automated vehicles
+  - { celex: "32009R0661" }   # Regulation (EC) No 661/2009 — General Safety Regulation (first generation, superseded by GSR2)
 
-  # Lighting and signalling
-  - { celex: "32022R1426" }   # GSR2 implementing — lighting requirements
+  # ── ADAS and Driver Assistance Systems ───────────────────────────────────────
+  - { celex: "32021R0646" }   # Implementing Regulation (EU) 2021/646 — Emergency Lane-Keeping Systems (ELKS)
+  - { celex: "32021R1341" }   # Delegated Regulation (EU) 2021/1341 — Driver Drowsiness and Attention Warning (DDAW)
+  - { celex: "32021R1958" }   # Delegated Regulation (EU) 2021/1958 — Intelligent Speed Assistance (ISA)
+  - { celex: "32022R0545" }   # Delegated Regulation (EU) 2022/545 — Event Data Recorders (EDR) for motor vehicles
+  - { celex: "32023R2590" }   # Delegated Regulation (EU) 2023/2590 — Advanced Driver Distraction Warning (ADDW)
 
-  # Emissions (Euro standards)
-  - { celex: "32018R0858" }   # Type-approval framework regulation
-  - { celex: "32017R1151" }   # Euro 6 — emissions (cars and light commercial vehicles)
-  - { celex: "32018R0985" }   # Euro VI — emissions (heavy-duty vehicles)
+  # ── Emissions — Light Vehicles ───────────────────────────────────────────────
+  - { celex: "32007R0715" }   # Regulation (EC) 715/2007 — Euro 5 and Euro 6 type-approval emissions (light vehicles)
+  - { celex: "32017R1151" }   # Regulation (EU) 2017/1151 — Supplementing Euro 6 (WLTP, RDE, OBD)
+  - { celex: "32024R1257" }   # Regulation (EU) 2024/1257 — Euro 7 (light and heavy duty vehicles and battery durability)
 
-  # REACH and ELV
-  - { celex: "32006L0066" }   # Battery Directive
-  - { celex: "32000L0053" }   # End-of-Life Vehicles (ELV) Directive
-  - { celex: "32006R1907" }   # REACH Regulation
+  # ── Emissions — Heavy-Duty Vehicles ─────────────────────────────────────────
+  - { celex: "32018R0985" }   # Regulation (EU) 2018/985 — Heavy-duty vehicle CO2 monitoring
 
-  # Battery / EV
-  - { celex: "32023R1542" }   # EU Battery Regulation 2023
+  # ── CO₂ Performance Standards ────────────────────────────────────────────────
+  - { celex: "32019R0631" }   # Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and vans
 
-  # Noise
-  - { celex: "32014R0540" }   # Regulation on sound level of motor vehicles
+  # ── Noise ────────────────────────────────────────────────────────────────────
+  - { celex: "32014R0540" }   # Regulation (EU) No 540/2014 — Sound level of motor vehicles
 
-  # Pedestrian protection
-  - { celex: "32009R0078" }   # Pedestrian protection regulation
+  # ── Pedestrian Protection ────────────────────────────────────────────────────
+  - { celex: "32009R0078" }   # Regulation (EC) No 78/2009 — Pedestrian protection
 
-  # Tires
-  - { celex: "32009R0661" }   # Regulation on type-approval of motor vehicles (general safety)
+  # ── Electrification and Battery ─────────────────────────────────────────────
+  - { celex: "32023R1542" }   # Regulation (EU) 2023/1542 — Batteries and Waste Batteries Regulation
+  - { celex: "32006L0066" }   # Directive 2006/66/EC — Battery Directive (legacy, partially superseded)
+
+  # ── Environmental ────────────────────────────────────────────────────────────
+  - { celex: "32000L0053" }   # Directive 2000/53/EC — End-of-Life Vehicles (ELV)
+  - { celex: "32006R1907" }   # Regulation (EC) No 1907/2006 — REACH (chemical substances in vehicles)
+  - { celex: "32006L0040" }   # Directive 2006/40/EC — Mobile air-conditioning refrigerant emissions
+  - { celex: "32024R0573" }   # Regulation (EU) 2024/573 — Fluorinated greenhouse gases (F-gas, vehicle MAC systems)
+
+  # ── Radio Equipment and EMC ──────────────────────────────────────────────────
+  - { celex: "32014L0053" }   # Directive 2014/53/EU — Radio Equipment Directive (RED)

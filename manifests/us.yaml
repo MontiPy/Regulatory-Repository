@@ -1,22 +1,41 @@
 title: 49
 records:
-  # FMVSS Part 571
-  - { part: 571, section: 101 }     # Controls and displays
+  # FMVSS Part 571 — Federal Motor Vehicle Safety Standards
+  - { part: 571, section: 101 }     # Controls, tell-tales, indicators, and sources of illumination
+  - { part: 571, section: 102 }     # Transmission shift position sequence, starter interlock, and transmission braking effect
+  - { part: 571, section: 103 }     # Windshield defrosting and defogging systems
+  - { part: 571, section: 104 }     # Windshield wiping and washing systems
   - { part: 571, section: 105 }     # Hydraulic and electric brake systems
+  - { part: 571, section: 106 }     # Brake hoses
   - { part: 571, section: 108 }     # Lamps, reflective devices, and associated equipment
+  - { part: 571, section: 109 }     # New pneumatic and certain specialty tires
+  - { part: 571, section: 110 }     # Tire selection and rims for light vehicles
   - { part: 571, section: 111 }     # Rear visibility
+  - { part: 571, section: 113 }     # Hood latch system
   - { part: 571, section: 114 }     # Theft protection and rollaway prevention
   - { part: 571, section: 116 }     # Motor vehicle brake fluids
-  - { part: 571, section: 119 }     # New pneumatic tires for motor vehicles
-  - { part: 571, section: 120 }     # Tire selection and rims for motor vehicles with a GVWR of more than 4,536 kg
+  - { part: 571, section: 117 }     # Retreaded pneumatic tires
+  - { part: 571, section: 118 }     # Power-operated window, partition, and roof panel systems
+  - { part: 571, section: 119 }     # New pneumatic tires for motor vehicles with GVWR > 4,536 kg
+  - { part: 571, section: 120 }     # Tire selection and rims for motor vehicles with GVWR > 4,536 kg
   - { part: 571, section: 121 }     # Air brake systems
-  - { part: 571, section: 126 }     # Electronic stability control systems
+  - { part: 571, section: 122 }     # Motorcycle brake systems
+  - { part: 571, section: "122a" }  # Motorcycle brake systems (alternative)
+  - { part: 571, section: 123 }     # Motorcycle controls and displays
+  - { part: 571, section: 124 }     # Accelerator control systems
+  - { part: 571, section: 125 }     # Warning devices
+  - { part: 571, section: 126 }     # Electronic stability control systems for light vehicles
+  - { part: 571, section: 127 }     # Automatic emergency braking systems for light vehicles
+  - { part: 571, section: 129 }     # New non-pneumatic tires for passenger cars
   - { part: 571, section: 131 }     # School bus pedestrian safety devices
   - { part: 571, section: 135 }     # Light vehicle brake systems
+  - { part: 571, section: 136 }     # Electronic stability control systems for heavy vehicles
   - { part: 571, section: 138 }     # Tire pressure monitoring systems
   - { part: 571, section: 139 }     # New pneumatic radial tires for light vehicles
+  - { part: 571, section: 141 }     # Minimum sound requirements for hybrid and electric vehicles
   - { part: 571, section: 201 }     # Occupant protection in interior impact
-  - { part: 571, section: 202 }     # Head restraints; Applicable to passenger cars
+  - { part: 571, section: 202 }     # Head restraints (original)
+  - { part: 571, section: "202a" }  # Head restraints (revised)
   - { part: 571, section: 203 }     # Impact protection for the driver from the steering control system
   - { part: 571, section: 204 }     # Steering control rearward displacement
   - { part: 571, section: 205 }     # Glazing materials
@@ -25,12 +44,93 @@ records:
   - { part: 571, section: 208 }     # Occupant crash protection
   - { part: 571, section: 209 }     # Seat belt assemblies
   - { part: 571, section: 210 }     # Seat belt assembly anchorages
+  - { part: 571, section: 212 }     # Windshield mounting
   - { part: 571, section: 213 }     # Child restraint systems
+  - { part: 571, section: "213a" }  # Child restraint systems — side impact protection
+  - { part: 571, section: "213b" }  # Child restraint systems (updated)
   - { part: 571, section: 214 }     # Side impact protection
-  - { part: 571, section: 216 }     # Roof crush resistance
+  - { part: 571, section: 216 }     # Roof crush resistance (original)
+  - { part: 571, section: "216a" }  # Roof crush resistance (revised)
+  - { part: 571, section: 217 }     # Bus emergency exits and window retention/release
+  - { part: 571, section: "217a" }  # Anti-ejection glazing for bus portals
+  - { part: 571, section: 218 }     # Motorcycle helmets
+  - { part: 571, section: 219 }     # Windshield zone intrusion
+  - { part: 571, section: 220 }     # School bus rollover protection
+  - { part: 571, section: 221 }     # School bus body joint strength
+  - { part: 571, section: 222 }     # School bus passenger seating and crash protection
+  - { part: 571, section: 223 }     # Rear impact guards
+  - { part: 571, section: 224 }     # Rear impact protection
+  - { part: 571, section: 225 }     # Child restraint anchorage systems
+  - { part: 571, section: 226 }     # Ejection mitigation
+  - { part: 571, section: 227 }     # Bus rollover structural integrity
   - { part: 571, section: 301 }     # Fuel system integrity
+  - { part: 571, section: 302 }     # Flammability of interior materials
+  - { part: 571, section: 303 }     # Fuel system integrity of compressed natural gas vehicles
+  - { part: 571, section: 304 }     # Compressed natural gas fuel container integrity
   - { part: 571, section: 305 }     # Electric-powered vehicles: electrolyte spillage and electrical shock protection
-  # Other 49 CFR Parts
-  - { part: 565 }                   # Vehicle Identification Number (VIN) requirements
+  - { part: 571, section: "305a" }  # Electric powertrain integrity
+  - { part: 571, section: 307 }     # Fuel system integrity of hydrogen vehicles
+  - { part: 571, section: 308 }     # Compressed hydrogen storage system integrity
+  - { part: 571, section: 401 }     # Interior trunk release
+  - { part: 571, section: 403 }     # Platform lift systems for motor vehicles
+  - { part: 571, section: 404 }     # Platform lift installations in motor vehicles
+  - { part: 571, section: 500 }     # Low-speed vehicles
+
+  # 49 CFR Part 575 — Consumer Information Regulations (individual sections)
+  - { part: 575, section: 104 }     # Uniform tire quality grading standards
+  - { part: 575, section: 105 }     # Vehicle rollover
+  - { part: 575, section: 106 }     # Tire fuel efficiency consumer information program
+  - { part: 575, section: 301 }     # Vehicle labeling of safety rating information
+  - { part: 575, section: 302 }     # Vehicle labeling of safety rating information (additional)
+  - { part: 575, section: 401 }     # Fuel economy, greenhouse gas, and other pollutant emissions labeling
+
+  # Other 49 CFR Parts — NHTSA / FMCSA Administration and Compliance
+  - { part: 523 }                   # Vehicle classification
+  - { part: 525 }                   # Exemptions from average fuel economy standards
+  - { part: 526 }                   # Petitions and plans for relief under the Automobile Fuel Efficiency Act
+  - { part: 529 }                   # Manufacturers of multistage automobiles
+  - { part: 531 }                   # Passenger automobile average fuel economy standards
+  - { part: 533 }                   # Light truck fuel economy standards
+  - { part: 534 }                   # Rights and responsibilities of manufacturers in corporate relationship changes
+  - { part: 536 }                   # Transfer and trading of fuel economy credits
+  - { part: 537 }                   # Automotive fuel economy reports
+  - { part: 538 }                   # Manufacturing incentives for alternative fuel vehicles
+  - { part: 541 }                   # Federal motor vehicle theft prevention standard
+  - { part: 542 }                   # Procedures for selecting light duty truck lines for theft prevention standard
+  - { part: 543 }                   # Exemption from vehicle theft prevention standard
+  - { part: 545 }                   # Federal motor vehicle theft prevention standard phase-in and small-volume line reporting
+  - { part: 551 }                   # Service of process on foreign manufacturers and importers (Subpart D)
+  - { part: 554 }                   # Standards enforcement and defects investigation
+  - { part: 555 }                   # Temporary exemption from motor vehicle safety and bumper standards
+  - { part: 556 }                   # Exemption for inconsequential defect or noncompliance
+  - { part: 557 }                   # Petitions for hearings on notification and remedy of defects
+  - { part: 561 }                   # Documentation for electric-powered vehicles
+  - { part: 563 }                   # Event data recorders
+  - { part: 564 }                   # Replaceable light source information
+  - { part: 565 }                   # Vehicle identification number requirements
+  - { part: 566 }                   # Manufacturer identification
+  - { part: 567 }                   # Certification
+  - { part: 568 }                   # Vehicles manufactured in two or more stages
+  - { part: 569 }                   # Regrooved tires
+  - { part: 570 }                   # Vehicle in-use inspection standards
+  - { part: 572 }                   # Anthropomorphic test devices
   - { part: 573 }                   # Defect and noncompliance responsibility and reports
+  - { part: 574 }                   # Tire identification and recordkeeping
+  - { part: 576 }                   # Record retention
+  - { part: 577 }                   # Defect and noncompliance notification
+  - { part: 578 }                   # Civil and criminal penalties
   - { part: 579 }                   # Reporting of information and communications about potential defects
+  - { part: 580 }                   # Odometer disclosure requirements
+  - { part: 581 }                   # Bumper standard
+  - { part: 582 }                   # Insurance cost information regulation
+  - { part: 583 }                   # Automobile parts content labeling
+  - { part: 585 }                   # Phase-in reporting requirements
+  - { part: 586 }                   # Replica motor vehicles
+  - { part: 587 }                   # Deformable barriers
+  - { part: 588 }                   # Child restraint systems recordkeeping requirements
+  - { part: 591 }                   # Importation of vehicles and equipment subject to federal safety, bumper, and theft prevention standards
+  - { part: 592 }                   # Registered importers of vehicles not originally manufactured to conform to the FMVSS
+  - { part: 593 }                   # Determinations that a non-conforming vehicle is eligible for importation
+  - { part: 594 }                   # Fees authorized by 49 U.S.C. 30141
+  - { part: 595 }                   # Make inoperative exemptions
+  - { part: 596 }                   # Automatic emergency braking test devices

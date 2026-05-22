@@ -1,37 +1,112 @@
 region: CA
 connector: justice_ca
-description: Canada Motor Vehicle Safety Regulations (MVSR), C.R.C., c. 1038
+description: Canada Motor Vehicle Safety Regulations (MVSR), C.R.C., c. 1038 and related SOR instruments
 source: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 
 records:
-  # reg_id must match the Justice Laws XML filename (before .xml)
+  # All sections use reg_id matching the Justice Laws XML filename
+  # C.R.C., c. 1038 — Motor Vehicle Safety Regulations (CMVSS Technical Standards Documents)
   - reg_id: "C.R.C.,_c._1038"
-    section: "2"    # Interpretation and definitions
+    section: "2"       # Interpretation and definitions
   - reg_id: "C.R.C.,_c._1038"
-    section: "101"  # General requirements
+    section: "101"     # Controls, tell-tales, indicators and sources of illumination (TSD 101)
   - reg_id: "C.R.C.,_c._1038"
-    section: "108"  # Three-wheeled vehicles
+    section: "102"     # Transmission control functions (TSD 102)
   - reg_id: "C.R.C.,_c._1038"
-    section: "110"  # Windshield / glazing (TSD 110)
+    section: "103"     # Windshield defrosting and defogging (TSD 103)
   - reg_id: "C.R.C.,_c._1038"
-    section: "111"  # Lighting (TSD 111)
+    section: "104"     # Windshield wiping and washing system (TSD 104)
   - reg_id: "C.R.C.,_c._1038"
-    section: "114"  # Theft protection / immobilization
+    section: "105"     # Hydraulic and electric brake systems (TSD 105)
   - reg_id: "C.R.C.,_c._1038"
-    section: "116"  # Accelerator control systems
+    section: "106"     # Brake hoses (TSD 106)
   - reg_id: "C.R.C.,_c._1038"
-    section: "121"  # Antilock brake systems (TSD 121)
+    section: "108"     # Three-wheeled vehicles / lighting systems (TSD 108)
   - reg_id: "C.R.C.,_c._1038"
-    section: "126"  # Electronic stability control (TSD 126)
+    section: "108.1"   # Alternative requirements for headlamps (TSD 108.1)
   - reg_id: "C.R.C.,_c._1038"
-    section: "131"  # Stop signals
+    section: "110"     # Tire selection and rims for GVWR ≤ 4,536 kg (TSD 110)
   - reg_id: "C.R.C.,_c._1038"
-    section: "135"  # Brakes (TSD 135)
+    section: "111"     # Mirrors and visibility systems (TSD 111)
   - reg_id: "C.R.C.,_c._1038"
-    section: "201"  # Head restraints (TSD 201)
+    section: "113"     # Hood latch system (TSD 113)
   - reg_id: "C.R.C.,_c._1038"
-    section: "202"  # Head impact protection
+    section: "114"     # Theft protection and rollaway prevention (TSD 114)
   - reg_id: "C.R.C.,_c._1038"
-    section: "208"  # Seat belt fit requirements (TSD 208)
+    section: "115"     # Vehicle identification number (TSD 115)
   - reg_id: "C.R.C.,_c._1038"
-    section: "210"  # Seat belt assembly installation
+    section: "116"     # Accelerator control systems (TSD 116)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "118"     # Power-operated window, partition and roof panel systems (TSD 118)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "120"     # Tire selection and rims for GVWR > 4,536 kg (TSD 120)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "121"     # Antilock brake systems (TSD 121)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "124"     # Accelerator control systems (TSD 124)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "126"     # Electronic stability control (TSD 126)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "131"     # Stop signals (TSD 131)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "135"     # Brakes (TSD 135)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "141"     # Minimum sound requirements for hybrid and electric vehicles (TSD 141)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "201"     # Head restraints (TSD 201)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "202"     # Head impact protection (TSD 202)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "203"     # Driver impact protection and steering control system (TSD 203)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "204"     # Steering column rearward displacement (TSD 204)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "205"     # Glazing materials (TSD 205)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "206"     # Door locks and door retention components (TSD 206)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "207"     # Anchorage of seats (TSD 207)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "208"     # Occupant protection in frontal impacts (TSD 208)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "209"     # Seat belt assemblies (TSD 209)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "210"     # Seat belt assembly installation (TSD 210)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "210.1"   # User-ready tether anchorages for restraint systems and booster seats (TSD 210.1)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "210.2"   # Lower universal anchorage systems for restraint systems and booster seats (TSD 210.2)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "212"     # Windshield mounting (TSD 212)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "213.4"   # Built-in restraint systems and built-in booster seats (TSD 213.4)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "214"     # Side impact protection (TSD 214)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "215"     # Bumpers (TSD 215)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "216"     # Roof crush resistance (TSD 216)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "219"     # Windshield zone intrusion (TSD 219)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "226"     # Ejection mitigation (TSD 226)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "301"     # Fuel system integrity (TSD 301)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "301.1"   # LPG fuel system integrity (TSD 301.1)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "301.2"   # CNG fuel system integrity (TSD 301.2)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "302"     # Flammability of interior materials (TSD 302)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "305"     # Electrolyte spillage and electrical shock protection (TSD 305)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "401"     # Interior trunk release (TSD 401)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "1106"    # Noise emissions (TSD 1106)
+
+  # Related SOR instruments — pulled as full regulations (no section)
+  - reg_id: "SOR-2003-2"       # On-Road Vehicle and Engine Emission Regulations (ECCC)
+  - reg_id: "SOR-2010-90"      # Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
+  - reg_id: "SOR-2010-201"     # Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
+  - reg_id: "SOR-2013-198"     # Motor Vehicle Tire Safety Regulations

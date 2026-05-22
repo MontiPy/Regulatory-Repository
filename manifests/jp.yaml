@@ -4,36 +4,73 @@ description: Japan Safety Regulations for Road Vehicles (道路運送車両の�
 source: https://laws.e-gov.go.jp/law/326M50000800067
 
 records:
-  # JVSR law_id: 326M50000800067 (Showa 26, Ministry of Transport Ordinance No. 67)
-  # Chapter 1: General provisions
+  # JVSR law_id: 326M50000800067
+  # (Showa 26 Ministry of Transport Ordinance No. 67 — 道路運送車両の保安基準)
+  # Sub-article numbers use underscore notation to match e-Gov XML Num attributes
+  # (e.g., article 11の2 → "11_2")
+
+  # ── Chapter 1 — General Provisions ──────────────────────────────────────────
   - law_id: "326M50000800067"
-    article: "1"   # General scope and definitions
-  # Chapter 2: Safety standards for automobiles
+    article: "1"       # General scope and definitions
+
+  # ── Chapter 2 — Safety Standards for Automobiles ────────────────────────────
   - law_id: "326M50000800067"
-    article: "2"   # Dimensions and weight
+    article: "2"       # Dimensions and weight
   - law_id: "326M50000800067"
-    article: "5"   # Steering system
+    article: "5"       # Steering system
   - law_id: "326M50000800067"
-    article: "9"   # Engine and power train
+    article: "9"       # Running gear / passenger car pneumatic tires
   - law_id: "326M50000800067"
-    article: "11"  # Service brakes
+    article: "10"      # Control devices
   - law_id: "326M50000800067"
-    article: "12"  # Parking brakes
+    article: "11"      # Steering device / shock-absorbing steering
   - law_id: "326M50000800067"
-    article: "14"  # Fuel systems
+    article: "11_2"    # Locking devices / immobilizer (第11条の2)
   - law_id: "326M50000800067"
-    article: "17"  # Driver's view / mirrors
+    article: "12"      # Braking devices (service brakes)
   - law_id: "326M50000800067"
-    article: "18"  # Lighting — headlamps
+    article: "14"      # Fuel systems
   - law_id: "326M50000800067"
-    article: "20"  # Tail lamps, stop lamps
+    article: "15"      # Fuel device / fuel leakage prevention
   - law_id: "326M50000800067"
-    article: "22"  # Direction indicators
+    article: "17"      # Driver's view / mirrors
   - law_id: "326M50000800067"
-    article: "26"  # Windshield wipers / washers
+    article: "17_2"    # Electrical devices / high voltage protection (第17条の2)
   - law_id: "326M50000800067"
-    article: "28"  # Seats and restraints
+    article: "18"      # Frame and body / occupant protection (frontal impact, side impact, pedestrian)
   - law_id: "326M50000800067"
-    article: "44"  # Exhaust emissions
+    article: "20"      # Interior materials and instrument panel
   - law_id: "326M50000800067"
-    article: "48"  # Electric vehicles / high-voltage systems
+    article: "21"      # Driver seat / direct forward visibility
+  - law_id: "326M50000800067"
+    article: "22"      # Seats and seat anchorages
+  - law_id: "326M50000800067"
+    article: "22_3"    # Seat belts and seat belt reminder (第22条の3)
+  - law_id: "326M50000800067"
+    article: "22_4"    # Head restraints (第22条の4)
+  - law_id: "326M50000800067"
+    article: "22_5"    # Child restraints (第22条の5)
+  - law_id: "326M50000800067"
+    article: "26"      # Windshield wipers / washers
+  - law_id: "326M50000800067"
+    article: "28"      # Seats and restraints (additional)
+  - law_id: "326M50000800067"
+    article: "29"      # Window glass
+  - law_id: "326M50000800067"
+    article: "30"      # Noise prevention device
+  - law_id: "326M50000800067"
+    article: "31"      # Emissions prevention / OBD / evaporative measurement
+  - law_id: "326M50000800067"
+    article: "32"      # Headlamps and lighting devices
+  - law_id: "326M50000800067"
+    article: "43_7"    # Vehicle approach warning device / AVAS (第43条の7)
+  - law_id: "326M50000800067"
+    article: "44"      # Mirrors (rear-view)
+  - law_id: "326M50000800067"
+    article: "44_2"    # Rear-view / reversing visibility (第44条の2)
+  - law_id: "326M50000800067"
+    article: "45"      # Wipers, washers, defroster, and demister
+  - law_id: "326M50000800067"
+    article: "46_2"    # Event data recorder (第46条の2)
+  - law_id: "326M50000800067"
+    article: "48"      # Advanced / automated operation devices and EV high-voltage systems

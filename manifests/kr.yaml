@@ -1,15 +1,115 @@
+region: KR
+connector: law_go_kr
+description: Korean Motor Vehicle Safety Standards (KMVSS) — 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+source: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023
+
 records:
-  # Korean Motor Vehicle Safety Standards (KMVSS) — law.go.kr API
-  # law_id values are lsiSeq from law.go.kr
-  # KMVSS = 자동차 및 자동차부품의 성능과 기준에 관한 규칙 (lsiSeq=270023)
-  # Article numbers refer to articles in 자동차 및 자동차부품의 성능과 기준에 관한 규칙
-  - { law_id: "270023", article: "38" }    # Article 38 — Lighting devices
-  - { law_id: "270023", article: "30" }    # Article 30 — Brake systems
-  - { law_id: "270023", article: "4" }     # Article 4 — Safety criteria for engines
-  - { law_id: "270023", article: "12" }    # Article 12 — Steering systems
-  - { law_id: "270023", article: "19" }    # Article 19 — Glazing
-  - { law_id: "270023", article: "25" }    # Article 25 — Seating and restraints
-  - { law_id: "270023", article: "27" }    # Article 27 — Fuel systems
-  - { law_id: "270023", article: "31" }    # Article 31 — Tyres
-  - { law_id: "270023", article: "39" }    # Article 39 — Mirrors
-  - { law_id: "270023", article: "56" }    # Article 56 — Pedestrian protection
+  # KMVSS: 자동차 및 자동차부품의 성능과 기준에 관한 규칙 (lsiSeq=270023)
+  # Sub-article numbers use hyphen notation (e.g., 12의2 → "12-2")
+
+  # ── General / Structure ──────────────────────────────────────────────────────
+  - { law_id: "270023", article: "3" }      # Security of safety of structure and system
+  - { law_id: "270023", article: "4" }      # Safety criteria for engines (also covers dimensions chapter)
+  - { law_id: "270023", article: "5" }      # Dimensions and mass
+  - { law_id: "270023", article: "6" }      # Load distribution
+  - { law_id: "270023", article: "7" }      # Maximum speed
+  - { law_id: "270023", article: "8" }      # Stability and turning
+  - { law_id: "270023", article: "9" }      # Ground clearance
+  - { law_id: "270023", article: "10" }     # Turning radius
+  - { law_id: "270023", article: "11" }     # Engine and power train
+
+  # ── Steering ─────────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "12" }     # Steering systems (running gear / tires)
+  - { law_id: "270023", article: "12-2" }   # Tire pressure monitoring system (TPMS)
+  - { law_id: "270023", article: "13" }     # Controls, tell-tales and indicators
+  - { law_id: "270023", article: "14" }     # Steering system
+  - { law_id: "270023", article: "14-2" }   # Lane departure warning system
+
+  # ── Braking ──────────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "15" }     # Brake system
+  - { law_id: "270023", article: "15-2" }   # Electronic stability control (ESC)
+  - { law_id: "270023", article: "15-3" }   # Autonomous emergency braking system (AEBS)
+  - { law_id: "270023", article: "30" }     # Brake systems (performance standards)
+  - { law_id: "270023", article: "89-2" }   # Lane departure warning system (performance)
+  - { law_id: "270023", article: "90" }     # Braking system performance
+  - { law_id: "270023", article: "90-2" }   # Electronic stability control system performance
+  - { law_id: "270023", article: "90-3" }   # Autonomous emergency braking system performance
+
+  # ── Fuel, Propulsion, and Electrical ─────────────────────────────────────────
+  - { law_id: "270023", article: "17" }     # Fuel system
+  - { law_id: "270023", article: "18" }     # Electrical system
+  - { law_id: "270023", article: "18-2" }   # High voltage electric device
+  - { law_id: "270023", article: "18-3" }   # Traction battery
+  - { law_id: "270023", article: "18-4" }   # Cybersecurity
+  - { law_id: "270023", article: "18-5" }   # Software update
+  - { law_id: "270023", article: "27" }     # Fuel systems (additional requirements)
+  - { law_id: "270023", article: "87" }     # Accelerator control system
+  - { law_id: "270023", article: "91" }     # Fuel system safety in collision
+  - { law_id: "270023", article: "91-3" }   # High-power electrical system safety in collision
+
+  # ── Body Structure ────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "19" }     # Frame and body
+  - { law_id: "270023", article: "21" }     # Hood latch
+  - { law_id: "270023", article: "92" }     # Roof structure
+  - { law_id: "270023", article: "93" }     # Bumper
+
+  # ── Seating, Restraints, and Occupant Protection ─────────────────────────────
+  - { law_id: "270023", article: "22" }     # Anti-theft device
+  - { law_id: "270023", article: "24" }     # Driver's seat
+  - { law_id: "270023", article: "25" }     # Passenger seats
+  - { law_id: "270023", article: "26" }     # Head restraints
+  - { law_id: "270023", article: "27-2" }   # Child seat anchorage (ISOFIX/tether)
+  - { law_id: "270023", article: "97" }     # Seat installation performance
+  - { law_id: "270023", article: "99" }     # Head restraint performance
+  - { law_id: "270023", article: "102" }    # Occupant crash protection
+  - { law_id: "270023", article: "102-2" }  # Pedestrian protection
+  - { law_id: "270023", article: "102-3" }  # Frontal full-width crash protection
+  - { law_id: "270023", article: "102-4" }  # Pole side impact
+  - { law_id: "270023", article: "103" }    # Seat belt assembly
+  - { law_id: "270023", article: "103-2" }  # Child seat anchorage system
+  - { law_id: "270023", article: "56" }     # Pedestrian protection
+
+  # ── Glazing and Visibility ────────────────────────────────────────────────────
+  - { law_id: "270023", article: "34" }     # Safety glasses / glazing
+  - { law_id: "270023", article: "94" }     # Driver's vision
+  - { law_id: "270023", article: "104" }    # Side door latch and hinge / hatch
+  - { law_id: "270023", article: "105" }    # Windshield
+  - { law_id: "270023", article: "109" }    # Windshield wiping
+  - { law_id: "270023", article: "50" }     # Devices for indirect vision (mirrors)
+  - { law_id: "270023", article: "39" }     # Mirrors (rear-view)
+
+  # ── Noise and Emissions ───────────────────────────────────────────────────────
+  - { law_id: "270023", article: "35" }     # Noise prevention
+  - { law_id: "270023", article: "36" }     # Exhaust emission prevention
+
+  # ── Lighting ─────────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "38" }     # Headlamp and lighting devices
+  - { law_id: "270023", article: "112-4" }  # Lighting system components
+  - { law_id: "270023", article: "112-7" }  # Window glass (component standard)
+  - { law_id: "270023", article: "112-11" } # Wheel (component standard)
+  - { law_id: "270023", article: "112-14" } # Drive batteries (component standard)
+  - { law_id: "270023", article: "112-2" }  # Brake hose (component standard)
+
+  # ── Tyres ─────────────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "31" }     # Tyres
+
+  # ── Warnings and Driver Information ──────────────────────────────────────────
+  - { law_id: "270023", article: "53" }     # Horn / audible warning
+  - { law_id: "270023", article: "53-2" }   # Rear pedestrian safety device
+  - { law_id: "270023", article: "53-3" }   # AVAS for quiet road transport vehicles
+  - { law_id: "270023", article: "53-4" }   # Child check system
+  - { law_id: "270023", article: "54" }     # Speedometer
+  - { law_id: "270023", article: "110" }    # Odometer
+  - { law_id: "270023", article: "56-2" }   # Event data recorder
+
+  # ── Flammability ─────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "95" }     # Flammability of interior materials
+
+  # ── EMC ──────────────────────────────────────────────────────────────────────
+  - { law_id: "270023", article: "107" }    # Electromagnetic compatibility
+
+  # ── Fuel Economy and Automated Driving ───────────────────────────────────────
+  - { law_id: "270023", article: "108-2" }  # Fuel economy
+  - { law_id: "270023", article: "111" }    # Automated driving systems
+  - { law_id: "270023", article: "111-2" }  # Partially automated driving systems
+  - { law_id: "270023", article: "111-3" }  # Automated driving system performance
