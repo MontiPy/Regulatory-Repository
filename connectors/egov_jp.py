@@ -32,6 +32,21 @@ def _source_url(law_id: str) -> str:
     return f"https://laws.e-gov.go.jp/law/{law_id}"
 
 
+def _article_matches(xml_num: str, requested: str) -> bool:
+    """Match article numbers tolerating hyphen/underscore notation for sub-articles.
+
+    e-Gov XML stores sub-articles as "11_2" (underscore) for 第11条の2, but
+    manifests and references commonly use "11-2" (hyphen). Accept either form.
+    """
+    try:
+        return int(xml_num) == int(requested)
+    except ValueError:
+        pass
+    if xml_num == requested:
+        return True
+    return xml_num.replace("_", "-") == requested.replace("_", "-")
+
+
 def _law_xml_to_article(xml_text: str, article_num: str) -> tuple[str, str]:
     """Extract a specific article from e-Gov v1 XML and return (title, markdown)."""
     try:
@@ -46,15 +61,9 @@ def _law_xml_to_article(xml_text: str, article_num: str) -> tuple[str, str]:
     target_article = None
     for article_el in root.iter("Article"):
         num = article_el.get("Num", "").strip()
-        # Compare as integers where possible
-        try:
-            if int(num) == int(article_num):
-                target_article = article_el
-                break
-        except ValueError:
-            if num == article_num:
-                target_article = article_el
-                break
+        if _article_matches(num, article_num):
+            target_article = article_el
+            break
 
     if target_article is None:
         return "", ""

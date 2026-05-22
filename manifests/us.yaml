@@ -134,3 +134,10 @@ records:
   - { part: 594 }                   # Fees authorized by 49 U.S.C. 30141
   - { part: 595 }                   # Make inoperative exemptions
   - { part: 596 }                   # Automatic emergency braking test devices
+
+  # 40 CFR — EPA Emissions and Fuel Economy (requires title field; same eCFR connector)
+  - { title: 40, part: 86 }          # Control of air pollution from mobile sources (Tier 3)
+  - { title: 40, part: 600 }         # Fuel economy and greenhouse gas exhaust emissions of motor vehicles
+
+  # 47 CFR — FCC Radio Frequency Devices (requires title field; same eCFR connector)
+  - { title: 47, part: 15 }          # Radio frequency devices (Part 15 — unintentional/intentional radiators)
