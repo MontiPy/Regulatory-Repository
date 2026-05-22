@@ -1,0 +1,25 @@
+---
+citation: MVSR C.R.C.,_c._1038 s. 131
+commodities:
+- Lighting modules
+id: ca-mvsr-c-r-c---c--1038-s131
+last_pulled: '2026-05-22T19:53:18+00:00'
+region: CA
+source_api: justice_ca
+source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
+status: in-force
+systems:
+- Lighting & signaling
+tagged_at: '2026-05-22T20:20:08+00:00'
+tagging_status: llm-tagged
+title: MVSR s. 131 — Stop Signals
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+---
+
+131(0.1)This section applies to school buses other than multifunction school activity buses.Stop Signals(1)Every school bus must be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.(2)The word âARRÃTâ may appear instead of, or together with, the word âSTOPâ in the manner specified with respect to the word âSTOPâ in S5.2.2 of TSD 131.Image Recording System(3)If the school bus is equipped with a system that is intended to record images of a vehicle that is passing the school bus when the red signal warning lamps referred to in Table I-a of Technical Standards Document No. 108, Lamps, Reflective Devices, and Associated Equipment are activated, the system must(a)be placed in a manner that allows the system to record images of the vehicleâs rear licence plate;(b)record the images automatically; and(c)operate in temperatures from â40Â°C to 40Â°C.(4)Whether or not the school bus is equipped with the system referred to in subsection (3), a label, as shown in Figure 1, must be permanently affixed to the school bus so that the label is readily visible to a driver who is behind the school bus.Figure 1
+
+White rectangle with black border, text, lines and symbols. At the top of the rectangle above a horizontal line: a triangle with an exclamation mark centered in it and, to the right of the triangle, the word âATTENTIONâ. Below the horizontal line: a camera to the left of a vertical line and, to the right of the vertical line, in brackets, the words âBilingual statement warning that this school bus may be equipped with a cameraâ.Transitional Provision(5)Until November 1, 2027, a school bus referred to in subsection (0.1) may conform to the requirements of this section as it read on the day before the day on which this subsection comes into force.SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3; SOR/2014-307, s. 12; SOR/2015-23, s. 4SOR/2024-239, s. 6

@@ -1,0 +1,30 @@
+records:
+  # General Safety Regulation and implementing acts
+  - { celex: "32019R2144" }   # GSR2 — General Safety Regulation (vehicle type approval requirements)
+  - { celex: "32021R0535" }   # Implementing regulation for GSR2 (ALKS, ESC, etc.)
+  - { celex: "32022R1426" }   # Implementing regulation for intelligent speed assistance, etc.
+
+  # Lighting and signalling
+  - { celex: "32022R1426" }   # GSR2 implementing — lighting requirements
+
+  # Emissions (Euro standards)
+  - { celex: "32018R0858" }   # Type-approval framework regulation
+  - { celex: "32017R1151" }   # Euro 6 — emissions (cars and light commercial vehicles)
+  - { celex: "32018R0985" }   # Euro VI — emissions (heavy-duty vehicles)
+
+  # REACH and ELV
+  - { celex: "32006L0066" }   # Battery Directive
+  - { celex: "32000L0053" }   # End-of-Life Vehicles (ELV) Directive
+  - { celex: "32006R1907" }   # REACH Regulation
+
+  # Battery / EV
+  - { celex: "32023R1542" }   # EU Battery Regulation 2023
+
+  # Noise
+  - { celex: "32014R0540" }   # Regulation on sound level of motor vehicles
+
+  # Pedestrian protection
+  - { celex: "32009R0078" }   # Pedestrian protection regulation
+
+  # Tires
+  - { celex: "32009R0661" }   # Regulation on type-approval of motor vehicles (general safety)

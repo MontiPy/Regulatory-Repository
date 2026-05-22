@@ -1,0 +1,37 @@
+region: CA
+connector: justice_ca
+description: Canada Motor Vehicle Safety Regulations (MVSR), C.R.C., c. 1038
+source: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
+
+records:
+  # reg_id must match the Justice Laws XML filename (before .xml)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "2"    # Interpretation and definitions
+  - reg_id: "C.R.C.,_c._1038"
+    section: "101"  # General requirements
+  - reg_id: "C.R.C.,_c._1038"
+    section: "108"  # Three-wheeled vehicles
+  - reg_id: "C.R.C.,_c._1038"
+    section: "110"  # Windshield / glazing (TSD 110)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "111"  # Lighting (TSD 111)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "114"  # Theft protection / immobilization
+  - reg_id: "C.R.C.,_c._1038"
+    section: "116"  # Accelerator control systems
+  - reg_id: "C.R.C.,_c._1038"
+    section: "121"  # Antilock brake systems (TSD 121)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "126"  # Electronic stability control (TSD 126)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "131"  # Stop signals
+  - reg_id: "C.R.C.,_c._1038"
+    section: "135"  # Brakes (TSD 135)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "201"  # Head restraints (TSD 201)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "202"  # Head impact protection
+  - reg_id: "C.R.C.,_c._1038"
+    section: "208"  # Seat belt fit requirements (TSD 208)
+  - reg_id: "C.R.C.,_c._1038"
+    section: "210"  # Seat belt assembly installation

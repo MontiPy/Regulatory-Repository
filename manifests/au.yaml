@@ -1,0 +1,16 @@
+records:
+  # Australian Design Rules (ADR) — Federal Register of Legislation instrument IDs
+  # Verified via https://api.prod.legislation.gov.au/v1/Titles
+  - { instrument_id: "F2012L01123", title: "ADR - Definitions and Vehicle Categories" }
+  - { instrument_id: "F2017L01344", title: "ADR 3/04 - Seats and Seat Anchorages" }
+  - { instrument_id: "F2019L00026", title: "ADR 4/06 - Seatbelts" }
+  - { instrument_id: "F2005L03908", title: "ADR 8/01 - Safety Glazing Material" }
+  - { instrument_id: "F2005L03991", title: "ADR 13/00 - Installation of Lighting and Light Signalling Devices" }
+  - { instrument_id: "F2006L02663", title: "ADR 14/02 - Rear Vision Mirrors" }
+  - { instrument_id: "F2018L01518", title: "ADR 23/03 - Passenger Car Tyres" }
+  - { instrument_id: "F2006L01280", title: "ADR 30/01 - Smoke Emission Control for Diesel Vehicles" }
+  - { instrument_id: "F2012L00703", title: "ADR 34/02 - Child Restraint Anchorages and Child Restraint Anchor Fittings" }
+  - { instrument_id: "F2022L00213", title: "ADR 35/07 - Commercial Vehicle Brake Systems" }
+  - { instrument_id: "F2018L00692", title: "ADR 38/05 - Trailer Brake Systems" }
+  - { instrument_id: "F2005L03996", title: "ADR 42/04 - General Safety Requirements" }
+  - { instrument_id: "F2011L02016", title: "ADR 79/04 - Emission Control for Light Vehicles" }

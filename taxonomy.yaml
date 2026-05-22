@@ -1,0 +1,72 @@
+regions: [US, EU, KR, AU, JP, CA]
+
+statuses: [in-force, proposed, withdrawn, superseded]
+
+tagging_statuses: [untagged, llm-tagged]
+
+commodities:
+  - Seats
+  - Glass
+  - Lighting modules
+  - Tires
+  - Brakes
+  - Airbags
+  - Seatbelts
+  - Mirrors
+  - Wheels
+  - Wiring
+  - ECUs
+  - ADAS sensors
+  - Batteries
+  - Electric motors
+  - Fuel system
+  - Exhaust
+  - HVAC
+  - Infotainment
+  - Body structure
+  - Bumpers
+  - Door latches & hinges
+  - Steering column
+  - Suspension
+  - Fuel tanks
+  - Hoses & lines
+  - Connectors
+  - Charging inlet
+  - Power electronics
+  - Horn
+  - Wipers & washers
+  - Pedals
+
+systems:
+  - Lighting & signaling
+  - Braking
+  - Steering
+  - Tires & wheels
+  - Crashworthiness
+  - Restraints
+  - Visibility
+  - Emissions
+  - Fuel safety
+  - EMC
+  - EV charging
+  - Battery safety
+  - ADAS
+  - Cybersecurity
+  - Noise
+  - Glazing
+  - HVAC
+  - Vehicle identification
+  - Pedestrian protection
+  - Theft prevention
+  - Tell-tales & controls
+  - On-board diagnostics
+  - Software updates
+
+vehicle_categories:
+  - Passenger car
+  - Light truck
+  - Heavy truck
+  - Motorcycle
+  - Bus
+  - Trailer
+  - Off-road

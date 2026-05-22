@@ -1,0 +1,39 @@
+region: JP
+connector: egov_jp
+description: Japan Safety Regulations for Road Vehicles (道路運送車両の保安基準, JVSR)
+source: https://laws.e-gov.go.jp/law/326M50000800067
+
+records:
+  # JVSR law_id: 326M50000800067 (Showa 26, Ministry of Transport Ordinance No. 67)
+  # Chapter 1: General provisions
+  - law_id: "326M50000800067"
+    article: "1"   # General scope and definitions
+  # Chapter 2: Safety standards for automobiles
+  - law_id: "326M50000800067"
+    article: "2"   # Dimensions and weight
+  - law_id: "326M50000800067"
+    article: "5"   # Steering system
+  - law_id: "326M50000800067"
+    article: "9"   # Engine and power train
+  - law_id: "326M50000800067"
+    article: "11"  # Service brakes
+  - law_id: "326M50000800067"
+    article: "12"  # Parking brakes
+  - law_id: "326M50000800067"
+    article: "14"  # Fuel systems
+  - law_id: "326M50000800067"
+    article: "17"  # Driver's view / mirrors
+  - law_id: "326M50000800067"
+    article: "18"  # Lighting — headlamps
+  - law_id: "326M50000800067"
+    article: "20"  # Tail lamps, stop lamps
+  - law_id: "326M50000800067"
+    article: "22"  # Direction indicators
+  - law_id: "326M50000800067"
+    article: "26"  # Windshield wipers / washers
+  - law_id: "326M50000800067"
+    article: "28"  # Seats and restraints
+  - law_id: "326M50000800067"
+    article: "44"  # Exhaust emissions
+  - law_id: "326M50000800067"
+    article: "48"  # Electric vehicles / high-voltage systems

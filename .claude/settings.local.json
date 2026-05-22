@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\v0409324\\\\OneDrive - Honda\\\\Documents\\\\0\\) Reference\\\\Regulatory Repository\" -Recurse -Force)",
+      "Bash(Select-Object FullName)",
+      "Bash(Sort-Object FullName)",
+      "Skill(codex:rescue)"
+    ]
+  }
+}

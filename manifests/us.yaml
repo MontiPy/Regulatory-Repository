@@ -1,0 +1,36 @@
+title: 49
+records:
+  # FMVSS Part 571
+  - { part: 571, section: 101 }     # Controls and displays
+  - { part: 571, section: 105 }     # Hydraulic and electric brake systems
+  - { part: 571, section: 108 }     # Lamps, reflective devices, and associated equipment
+  - { part: 571, section: 111 }     # Rear visibility
+  - { part: 571, section: 114 }     # Theft protection and rollaway prevention
+  - { part: 571, section: 116 }     # Motor vehicle brake fluids
+  - { part: 571, section: 119 }     # New pneumatic tires for motor vehicles
+  - { part: 571, section: 120 }     # Tire selection and rims for motor vehicles with a GVWR of more than 4,536 kg
+  - { part: 571, section: 121 }     # Air brake systems
+  - { part: 571, section: 126 }     # Electronic stability control systems
+  - { part: 571, section: 131 }     # School bus pedestrian safety devices
+  - { part: 571, section: 135 }     # Light vehicle brake systems
+  - { part: 571, section: 138 }     # Tire pressure monitoring systems
+  - { part: 571, section: 139 }     # New pneumatic radial tires for light vehicles
+  - { part: 571, section: 201 }     # Occupant protection in interior impact
+  - { part: 571, section: 202 }     # Head restraints; Applicable to passenger cars
+  - { part: 571, section: 203 }     # Impact protection for the driver from the steering control system
+  - { part: 571, section: 204 }     # Steering control rearward displacement
+  - { part: 571, section: 205 }     # Glazing materials
+  - { part: 571, section: 206 }     # Door locks and door retention components
+  - { part: 571, section: 207 }     # Seating systems
+  - { part: 571, section: 208 }     # Occupant crash protection
+  - { part: 571, section: 209 }     # Seat belt assemblies
+  - { part: 571, section: 210 }     # Seat belt assembly anchorages
+  - { part: 571, section: 213 }     # Child restraint systems
+  - { part: 571, section: 214 }     # Side impact protection
+  - { part: 571, section: 216 }     # Roof crush resistance
+  - { part: 571, section: 301 }     # Fuel system integrity
+  - { part: 571, section: 305 }     # Electric-powered vehicles: electrolyte spillage and electrical shock protection
+  # Other 49 CFR Parts
+  - { part: 565 }                   # Vehicle Identification Number (VIN) requirements
+  - { part: 573 }                   # Defect and noncompliance responsibility and reports
+  - { part: 579 }                   # Reporting of information and communications about potential defects

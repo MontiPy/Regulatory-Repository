@@ -1,0 +1,15 @@
+records:
+  # Korean Motor Vehicle Safety Standards (KMVSS) — law.go.kr API
+  # law_id values are lsiSeq from law.go.kr
+  # KMVSS = 자동차 및 자동차부품의 성능과 기준에 관한 규칙 (lsiSeq=270023)
+  # Article numbers refer to articles in 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+  - { law_id: "270023", article: "38" }    # Article 38 — Lighting devices
+  - { law_id: "270023", article: "30" }    # Article 30 — Brake systems
+  - { law_id: "270023", article: "4" }     # Article 4 — Safety criteria for engines
+  - { law_id: "270023", article: "12" }    # Article 12 — Steering systems
+  - { law_id: "270023", article: "19" }    # Article 19 — Glazing
+  - { law_id: "270023", article: "25" }    # Article 25 — Seating and restraints
+  - { law_id: "270023", article: "27" }    # Article 27 — Fuel systems
+  - { law_id: "270023", article: "31" }    # Article 31 — Tyres
+  - { law_id: "270023", article: "39" }    # Article 39 — Mirrors
+  - { law_id: "270023", article: "56" }    # Article 56 — Pedestrian protection
