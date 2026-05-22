@@ -6,6 +6,55 @@
 
 ---
 
+## Manifest Expansion Follow-ups (from 99 → 329 entry expansion)
+
+### EU — UNECE/UN Regulations (~67 entries missing)
+The EU manifest (`manifests/eu.yaml`) covers EU Regulations and Directives via EUR-Lex CELEX
+numbers, but the spreadsheet lists 91 EU/UNECE entries. The ~67 UN Regulations (R10–R168) are
+adopted by the EU via OJ decisions and have non-standard CELEX IDs (prefix `4`, e.g.
+`42019X0224(01)`). These require per-regulation lookup.
+
+- [ ] Research CELEX IDs for the following UNECE/UN Regulations adopted by EU and add to `manifests/eu.yaml`:
+  - UNECE R3, R4, R6, R7, R10, R11, R12, R13-H, R14, R16, R17, R19, R21, R23, R25, R27
+  - UNECE R30, R34, R37, R38, R39, R43, R44, R45, R46, R48, R51, R55, R64, R77, R79
+  - UNECE R83, R85, R87, R91, R94, R95, R98, R99, R100, R101, R112, R114, R116, R117
+  - UNECE R119, R121, R123, R125, R127, R128, R129, R135, R137, R138, R139, R140, R141
+  - UNECE R142, R144, R145, R148, R149, R150, R152, R153, R154, R155, R156, R157, R158
+  - UNECE R159, R160, R161, R162, R163, R168
+- [ ] Alternatively, build a dedicated UNECE connector (`connectors/unece.py`) that fetches
+  directly from `https://unece.org/transport/vehicle-regulations-wp29` — this avoids the
+  EUR-Lex CELEX lookup entirely and gives first-class UNECE coverage (see *Regions Not Yet
+  Implemented → ECE* section below)
+
+### AU — Remaining ADR Instrument IDs (~51 entries missing)
+The AU manifest (`manifests/au.yaml`) has 13 verified instrument IDs. The spreadsheet lists
+64 ADRs, but the Federal Register of Legislation API (`api.prod.legislation.gov.au`) was
+inaccessible from the build environment (403 Forbidden). Once network access is available:
+
+- [ ] Write `scripts/lookup_au_instruments.py` — queries
+  `https://api.prod.legislation.gov.au/v1/Titles?text=Design+Rule` to retrieve all ADR
+  instrument IDs in bulk, then patches `manifests/au.yaml` with the results
+- [ ] Alternatively, look up instrument IDs manually from
+  `https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/InForce/0/0/Principal`
+  filtered to "Design Rule" and add entries for:
+  ADR 1, 2, 5, 6, 10, 18, 21, 22, 25, 29, 31, 42 (newer version), 43, 46, 47, 48, 49,
+  50, 52, 60, 61, 69, 72, 73, 81, 82, 83, 85, 88, 89, 90, 92, 93, 94, 95, 98, 107, 108,
+  109, 110, 111, 112, 113 and the Road Vehicle Standards framework instruments
+
+### US — EPA Emissions Regulations (excluded from current pull)
+The eCFR connector is hardcoded to Title 49. The spreadsheet includes 40 CFR regulations
+(EPA) which were intentionally excluded because the connector can't reach them.
+
+- [ ] Extend `connectors/ecfr.py` to accept an optional `title` field (default `49`) so
+  40 CFR entries can be pulled alongside 49 CFR entries
+- [ ] Add to `manifests/us.yaml` once connector supports it:
+  - `{ title: 40, part: 86 }` — Light-duty vehicle emission standards (Tier 3)
+  - `{ title: 40, part: 86, section: "1811-27" }` — Tier 4 criteria exhaust emission standards
+  - `{ title: 40, part: 600 }` — Fuel economy and GHG exhaust emissions
+- [ ] FCC entry: `{ title: 47, part: 15 }` — Radio Frequency Devices (Part 15) — same fix needed
+
+---
+
 ## Covered
 
 | Framework | Region | Connector | Source API |
