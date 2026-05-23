@@ -66,9 +66,9 @@ def _reg_title_from_xml(root: ET.Element) -> str:
 def _fetch_and_parse(session: RateLimitedSession, reg_id: str, section: str | None) -> tuple[str, str, ET.Element | None]:
     url = XML_BASE.format(reg_id=reg_id)
     resp = session.get(url, headers={"User-Agent": "Mozilla/5.0"})
-    xml_text = resp.text
+    xml_text = resp.content.decode("utf-8")
     try:
-        root = ET.fromstring(xml_text.encode("utf-8"))
+        root = ET.fromstring(xml_text)
     except ET.ParseError:
         root = None
 

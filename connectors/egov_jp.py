@@ -50,7 +50,7 @@ def _article_matches(xml_num: str, requested: str) -> bool:
 def _law_xml_to_article(xml_text: str, article_num: str) -> tuple[str, str]:
     """Extract a specific article from e-Gov v1 XML and return (title, markdown)."""
     try:
-        root = ET.fromstring(xml_text.encode("utf-8"))
+        root = ET.fromstring(xml_text)
     except ET.ParseError:
         return "", ""
 
@@ -86,7 +86,7 @@ def _fetch_law(session: RateLimitedSession, law_id: str) -> str:
     """Fetch full law XML via e-Gov v1 API."""
     url = f"{API_BASE}/{law_id}"
     resp = session.get(url, headers={"User-Agent": "Mozilla/5.0"})
-    return resp.text
+    return resp.content.decode("utf-8")
 
 
 def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:

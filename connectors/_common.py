@@ -51,7 +51,7 @@ def validate_pulled(record: dict[str, Any]) -> None:
     missing = REQUIRED_FIELDS - record.keys()
     if missing:
         raise ValueError(f"record missing required fields: {sorted(missing)}")
-    if record.get("region") not in {"US", "EU", "KR", "AU", "JP", "CA"}:
+    if record.get("region") not in {"US", "EU", "KR", "AU", "JP", "CA", "ECE"}:
         raise ValueError(f"unknown region: {record.get('region')!r}")
 
 

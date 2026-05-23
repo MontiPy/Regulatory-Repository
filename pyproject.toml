@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "regulatory-repository"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "PyYAML>=6.0",
+    "Jinja2>=3.1",
+    "Markdown>=3.5",
+    "python-frontmatter>=1.1",
+    "bleach>=6.1",
+    "requests>=2.31",
+    "markdownify>=0.11",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4", "mypy>=1.8"]
+tag = ["anthropic>=0.25"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "ANN"]
+ignore = [
+    "ANN001", "ANN002", "ANN003", "ANN201", "ANN202",  # annotation coverage
+    "B904",   # raise-without-from (common in CLI scripts)
+    "SIM108", # ternary-over-if (readability preference)
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["ANN", "S101"]
+"scripts/*" = ["ANN"]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+warn_return_any = false
+warn_unused_ignores = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v"

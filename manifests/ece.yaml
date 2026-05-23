@@ -1,0 +1,107 @@
+region: ECE
+connector: unece
+description: UNECE WP.29 UN Regulations for wheeled vehicles, equipment, and parts
+source: https://unece.org/transport/vehicle-regulations-wp29/Regulations
+
+records:
+  # ── Lighting & Signalling ────────────────────────────────────────────────────
+  - { regulation: 3,   title: "Retro-Reflecting Devices" }
+  - { regulation: 4,   title: "Illumination of Rear Registration Plates" }
+  - { regulation: 6,   title: "Direction Indicators" }
+  - { regulation: 7,   title: "Front and Rear Position Lamps, Stop Lamps and End-Outline Marker Lamps" }
+  - { regulation: 19,  title: "Front Fog Lamps" }
+  - { regulation: 23,  title: "Reversing Lamps" }
+  - { regulation: 38,  title: "Rear Fog Lamps" }
+  - { regulation: 48,  title: "Installation of Lighting and Light-Signalling Devices" }
+  - { regulation: 77,  title: "Parking Lamps" }
+  - { regulation: 87,  title: "Daytime Running Lamps (DRL)" }
+  - { regulation: 91,  title: "Side-Marker Lamps" }
+  - { regulation: 98,  title: "Headlamps with Gas-Discharge Light Sources" }
+  - { regulation: 99,  title: "Gas-Discharge Light Sources" }
+  - { regulation: 112, title: "Headlamps Emitting an Asymmetrical Low-Beam" }
+  - { regulation: 113, title: "Headlamps Emitting a Symmetrical Low-Beam or a Driving Beam" }
+  - { regulation: 119, title: "Cornering Lamps" }
+  - { regulation: 123, title: "Adaptive Front-Lighting Systems (AFS)" }
+  - { regulation: 128, title: "Light-Emitting Diode (LED) Light Sources" }
+  - { regulation: 148, title: "Light-Signalling Devices (except headlamps)" }
+  - { regulation: 149, title: "Road Illumination Devices (except headlamps)" }
+  - { regulation: 150, title: "Retro-Reflecting Devices (updated)" }
+
+  # ── Braking ──────────────────────────────────────────────────────────────────
+  - { regulation: 13,    title: "Braking of M, N and O Category Vehicles" }
+  - { regulation: "13-H", title: "Braking of Passenger Cars" }
+  - { regulation: 90,    title: "Replacement Brake Lining Assemblies and Drum Brake Linings" }
+  - { regulation: 139,   title: "Brake Assist Systems (BAS)" }
+  - { regulation: 140,   title: "Electronic Stability Control (ESC)" }
+  - { regulation: 152,   title: "Advanced Emergency Braking (AEB) for Light-Duty Vehicles" }
+  - { regulation: 168,   title: "Advanced Emergency Braking — Pedestrian and Cyclist Protection" }
+
+  # ── Crashworthiness & Restraints ─────────────────────────────────────────────
+  - { regulation: 11,  title: "Door Latches and Door Retention Components" }
+  - { regulation: 14,  title: "Safety Belt Anchorages, ISOFIX and Top Tether Anchorages" }
+  - { regulation: 16,  title: "Safety Belts and Restraint Systems" }
+  - { regulation: 17,  title: "Seats, their Anchorages and Head Restraints" }
+  - { regulation: 21,  title: "Interior Fittings" }
+  - { regulation: 25,  title: "Head Restraints (Headrests)" }
+  - { regulation: 44,  title: "Child Restraint Systems" }
+  - { regulation: 94,  title: "Frontal Collision Protection" }
+  - { regulation: 95,  title: "Side Collision Protection" }
+  - { regulation: 114, title: "Airbag Systems" }
+  - { regulation: 127, title: "Pedestrian Safety" }
+  - { regulation: 129, title: "Enhanced Child Restraint Systems (i-Size)" }
+  - { regulation: 135, title: "Pole Side Impact" }
+  - { regulation: 137, title: "Frontal Impact — Focus on Restraint Systems" }
+  - { regulation: 145, title: "ISOFIX Anchorage Systems and Top Tether Anchorages" }
+
+  # ── Tyres & Wheels ───────────────────────────────────────────────────────────
+  - { regulation: 30,  title: "Pneumatic Tyres for Motor Vehicles and their Trailers (passenger cars)" }
+  - { regulation: 54,  title: "Pneumatic Tyres for Commercial Vehicles and their Trailers" }
+  - { regulation: 64,  title: "Temporary-Use Spare Units, Run-Flat Tyres and Run-Flat Systems" }
+  - { regulation: 117, title: "Tyre Rolling Sound Emission, Wet Adhesion and Rolling Resistance" }
+  - { regulation: 141, title: "Tyre Pressure Monitoring Systems (TPMS)" }
+  - { regulation: 142, title: "Tyre Installation" }
+
+  # ── Emissions & Environment ──────────────────────────────────────────────────
+  - { regulation: 83,  title: "Emissions from M1 and N1 Category Vehicles (Euro 5/6)" }
+  - { regulation: 85,  title: "Measurement of Net Power and Maximum 30-Minutes Power" }
+  - { regulation: 101, title: "CO2 Emissions, Fuel and Electric Energy Consumption" }
+  - { regulation: 154, title: "Worldwide Light-Duty Test Procedure (WLTP)" }
+
+  # ── Noise ────────────────────────────────────────────────────────────────────
+  - { regulation: 51,  title: "Noise of M and N Category Motor Vehicles" }
+  - { regulation: 138, title: "Quiet Road Transport Vehicles (QRTV)" }
+
+  # ── Steering & Visibility ────────────────────────────────────────────────────
+  - { regulation: 12,  title: "Protection of the Driver against the Steering Mechanism in Case of Impact" }
+  - { regulation: 43,  title: "Safety Glazing Materials and their Installation" }
+  - { regulation: 46,  title: "Rear-View Devices and their Installation" }
+  - { regulation: 79,  title: "Steering Equipment" }
+  - { regulation: 121, title: "Hand Controls, Tell-Tales and Indicators" }
+  - { regulation: 125, title: "Forward Field of Vision of Motor Vehicle Drivers" }
+
+  # ── Electric Vehicles ────────────────────────────────────────────────────────
+  - { regulation: 100, title: "Electric Power Trained Vehicles — Construction and Functional Safety" }
+
+  # ── Fuel Safety ──────────────────────────────────────────────────────────────
+  - { regulation: 34,  title: "Prevention of Fire Risk (Fuel Tanks)" }
+  - { regulation: 153, title: "Fuel System Integrity in a Frontal Collision" }
+
+  # ── Theft Prevention ─────────────────────────────────────────────────────────
+  - { regulation: 116, title: "Protection of Motor Vehicles against Unauthorized Use" }
+  - { regulation: 162, title: "Immobilisers" }
+
+  # ── ADAS & Automation ────────────────────────────────────────────────────────
+  - { regulation: 89,  title: "Speed Limitation Devices" }
+  - { regulation: 157, title: "Automated Lane Keeping Systems (ALKS)" }
+  - { regulation: 158, title: "Reversing Detection Technology" }
+  - { regulation: 159, title: "Moving-Off Information Systems (MOIS)" }
+  - { regulation: 160, title: "Event Data Recorders (EDR)" }
+  - { regulation: 161, title: "Pedal Misapplication Mitigation Systems" }
+
+  # ── Cybersecurity & Software ─────────────────────────────────────────────────
+  - { regulation: 155, title: "Cybersecurity and Cybersecurity Management Systems" }
+  - { regulation: 156, title: "Software Update and Software Update Management Systems" }
+
+  # ── Miscellaneous ────────────────────────────────────────────────────────────
+  - { regulation: 10,  title: "Electromagnetic Compatibility (EMC)" }
+  - { regulation: 27,  title: "Warning Triangles" }
