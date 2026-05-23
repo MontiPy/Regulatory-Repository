@@ -7,25 +7,29 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 110 — 제110조(속도계)
-translation_status: untranslated
+title: KMVSS Article 110 — Speedometer
+translation_status: translated
 ---
 
-제110조(속도계)   ①자동차에 설치한 속도계의 속도표시부는 다음 각 호의 기준에 적합하여야 한다. <개정 2008. 12. 8.>
+## Article 110 — Speedometer
 
-1. 속도표시부는 운전자의 직접시계의 범위내에 위치하고, 주ㆍ야간에 속도값을 명확히 읽을 수 있을 것
+① The speed indicator display of speedometers installed in motor vehicles shall meet the following standards. [Amended 2008-12-08]
 
-2. 속도표시범위는 자동차의 최고속도가 포함되도록 할 것
+1. The speed indicator display shall be located within the driver's direct field of view and shall allow the speed value to be read clearly during both day and night.
 
-3. 눈금은 시속 1킬로미터ㆍ2킬로미터ㆍ5킬로미터 또는 10킬로미터 단위로 구분되고, 다음 각목의 값들이 숫자로 표시될 것. 다만, 속도표시값의 간격은 균등하지 아니하여도 된다.
+2. The speed display range shall encompass the vehicle's maximum speed.
 
-가. 속도표시부의 최고속도값이 시속 200킬로미터 이하인 경우 시속 20킬로미터 이하 간격의 속도값
+3. The scale shall be graduated in units of 1 km/h, 2 km/h, 5 km/h, or 10 km/h, with the following values indicated numerically. However, the intervals between indicated values need not be equal:
 
-나. 속도표시부의 최고속도값이 시속 200킬로미터를 초과하는 경우 시속 30킬로미터 이하 간격의 속도값
+a. Where the maximum indicated speed is 200 km/h or less: speed values at intervals of 20 km/h or less.
 
-②자동차에 설치한 속도계의 지시오차는 평탄한 노면에서의 속도가 시속 25킬로미터 이상에서 다음 계산식에 적합하여야 한다. <개정 2008. 12. 8.>   
- O ≤ V₁-V₂≤ V₂/10 + 6(킬로미터/시간)  
- V₁: 지시속도(킬로미터/시간)  
- V₂: 실제속도(킬로미터/시간)
+b. Where the maximum indicated speed exceeds 200 km/h: speed values at intervals of 30 km/h or less.
 
-[전문개정 2003. 2. 25.]
+② The indication error of speedometers installed in motor vehicles shall, at speeds of 25 km/h or more on flat road surfaces, conform to the following formula. [Amended 2008-12-08]
+
+0 ≤ V₁ − V₂ ≤ V₂/10 + 6 (km/h)
+
+V₁: Indicated speed (km/h)
+V₂: Actual speed (km/h)
+
+[Fully amended 2003-02-25]

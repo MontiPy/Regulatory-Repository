@@ -7,20 +7,22 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 15-3 — 제15조의3(비상자동제동장치)
-translation_status: untranslated
+title: KMVSS Article 15-3 — Autonomous Emergency Braking
+translation_status: translated
 ---
 
-제15조의3(비상자동제동장치)   자동차(경형승합자동차 및 초소형자동차는 제외한다)에는 비상자동제동장치를 설치해야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 자동차의 경우에는 그렇지 않다. <개정 2018. 7. 11., 2022. 10. 26.>
+## Article 15-3 — Autonomous Emergency Braking
 
-1. 삭제 <2018. 7. 11.>
+Motor vehicles (excluding light-class vans and ultra-compact vehicles) shall be equipped with an autonomous emergency braking (AEB) system. However, the following vehicles are exempt: [Amended 2018-07-11, 2022-10-26]
 
-2. 피견인자동차
+1. (Deleted) [2018-07-11]
 
-3. 「자동차관리법 시행규칙」 별표 1에 따른 덤프형 화물자동차
+2. Towed vehicles
 
-4.「자동차관리법 시행규칙」 별지 제25호 서식에 따른 자동차제원표에 입석정원이 기재된 자동차
+3. Dump-type trucks as defined in Attached Table 1 of the Enforcement Rules of the Motor Vehicle Management Act
 
-5. 그 밖에 국토교통부장관이 자동차의 구조나 운행여건 등으로 비상자동제동장치를 설치하기가 곤란하거나 불필요하다고 인정한 자동차
+4. Vehicles with a standing passenger capacity recorded in the vehicle specification sheet under Attached Form 25 of the Enforcement Rules of the Motor Vehicle Management Act
 
-[본조신설 2017. 1. 9.]
+5. Other vehicles that the Minister of Land, Infrastructure and Transport recognises as impractical or unnecessary to equip with an AEB system due to vehicle structure or operating conditions
+
+[Added 2017-01-09]

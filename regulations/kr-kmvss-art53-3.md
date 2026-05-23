@@ -7,10 +7,12 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 53-3 — 제53조의3(저소음자동차 경고음발생장치)
-translation_status: untranslated
+title: KMVSS Article 53-3 — Acoustic Vehicle Alerting System
+translation_status: translated
 ---
 
-제53조의3(저소음자동차 경고음발생장치)   하이브리드자동차, 전기자동차, 연료전지자동차 등 동력발생장치가 전동기인 자동차(이하 “저소음자동차”라 한다)에는 별표 6의33의 기준에 따른 경고음발생장치를 설치하여야 한다.
+## Article 53-3 — Acoustic Vehicle Alerting System
 
-[본조신설 2018. 7. 11.]
+Hybrid vehicles, electric vehicles, fuel cell vehicles, and other vehicles whose propulsion unit is an electric motor (hereinafter “low-noise vehicles”) shall be equipped with an acoustic vehicle alerting system (AVAS) meeting the standards in Attached Table 6-33.
+
+[Added 2018-07-11]

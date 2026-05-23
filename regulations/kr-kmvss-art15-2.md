@@ -7,40 +7,42 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 15-2 — 제15조의2(자동차안정성제어장치)
-translation_status: untranslated
+title: KMVSS Article 15-2 — Electronic Stability Control
+translation_status: translated
 ---
 
-제15조의2(자동차안정성제어장치)   ① 자동차에는 자동차안정성제어장치를 설치하여야 한다. 다만, 다음 각 호의 자동차는 제외한다. <개정 2017. 11. 14., 2018. 7. 11., 2019. 12. 31., 2023. 11. 23.>
+## Article 15-2 — Electronic Stability Control
 
-1. 4축 이상 자동차
+① Motor vehicles shall be equipped with an electronic stability control (ESC) system. However, the following vehicles are excluded: [Amended 2017-11-14, 2018-07-11, 2019-12-31, 2023-11-23]
 
-2. 피견인자동차
+1. Vehicles with four or more axles
 
-3. 「자동차관리법 시행규칙」 별표 1에 따른 덤프형 화물자동차, 특수용도형 화물자동차, 구난형 특수자동차 및 특수용도형 특수자동차
+2. Towed vehicles
 
-4. 초소형자동차
+3. Dump-type trucks, special-purpose trucks, wrecker-type special-purpose vehicles, and special-purpose-use special-purpose vehicles as defined in Attached Table 1 of the Enforcement Rules of the Motor Vehicle Management Act
 
-5. 굴절버스
+4. Ultra-compact vehicles
 
-6. 그 밖에 국토교통부장관이 자동차의 구조나 운행여건 등을 고려하여 자동차안정성제어장치의 설치가 곤란하거나 필요하지 않다고 인정한 자동차
+5. Articulated buses
 
-② 자동차안정성제어장치는 다음 각 호의 기준에 적합하여야 한다.
+6. Other vehicles that the Minister of Land, Infrastructure and Transport recognises as impractical or unnecessary to equip with ESC given the vehicle's structure or operating conditions
 
-1. 4개 바퀴(앞 차축 및 뒤 차축의 좌우 각각 한 개의 바퀴를 말한다)에 개별적으로 회전제동력(braking torque)을 발생시킬 수 있고, 이를 이용하여 제어하는 방식을 갖출 것
+② The ESC system shall comply with the following standards:
 
-2. 주행 중 다음 각 목의 어느 하나에 해당하는 경우 외에는 항상 작동할 수 있을 것
+1. It shall be capable of individually generating rotational braking torque on four wheels (one wheel each on the left and right of the front and rear axles) and controlling the vehicle using this braking torque.
 
-가. 운전자가 자동차안정성제어장치의 기능을 정지시킨 경우
+2. It shall be operational at all times during driving except in the following cases:
 
-나. 자동차의 속도가 시속 20킬로미터 미만인 경우
+a. When the driver has deactivated the ESC function
 
-다. 시동 시 자가 진단하는 경우
+b. When the vehicle speed is below 20 km/h
 
-라. 자동차를 후진하는 경우
+c. During self-diagnosis at startup
 
-3. 바퀴잠김방지식 제동장치 또는 구동력 제어장치가 작동되더라도 지속적으로 작동될 것
+d. When the vehicle is reversing
 
-4. 고장 발생 시 점등되는 경고등(警告燈)을 갖출 것
+3. It shall continue to operate even when the anti-lock braking system or traction control system is activated.
 
-[본조신설 2010. 11. 10.]
+4. It shall be equipped with a warning lamp that illuminates when a fault occurs.
+
+[Added 2010-11-10]

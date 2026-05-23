@@ -7,15 +7,17 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 94 — 제94조(운전자의 시계범위 등)
-translation_status: untranslated
+title: KMVSS Article 94 — Driver's Field of View
+translation_status: translated
 ---
 
-제94조(운전자의 시계범위 등)   ①승용자동차와 경형승합자동차는 별표 12의 운전자의 전방시계범위와 제50조에 따른 운전자의 후방시계범위를 확보하는 구조이어야 한다. 다만, 초소형승용자동차의 경우 별표 12의 기준을 적용하지 아니한다. <개정 2008. 1. 14., 2018. 7. 11.>
+## Article 94 — Driver's Field of View
 
-②자동차의 앞면창유리[승용자동차(컨버터블자동차 등 특수한 구조의 승용자동차를 포함한다)의 경우에는 뒷면창유리 또는 창을 포함함다] 및 운전자좌석 좌우의 창유리 또는 창은 가시광선 투과율이 70퍼센트 이상이어야 한다. 다만, 운전자의 시계범위외의 차광을 위한 부분은 그러하지 아니하다. <신설 1999. 2. 19.>
+① Passenger cars and light-class vans shall be constructed to secure the driver's forward field of view as specified in Attached Table 12 and the driver's rearward field of view as specified in Article 50. However, the standards in Attached Table 12 do not apply to ultra-compact passenger cars. [Amended 2008-01-14, 2018-07-11]
 
-③ 어린이운송용 승합자동차의 모든 창유리 또는 창은 가시광선 투과율이 70퍼센트 이상이어야 한다. <신설 2017. 11. 14.>
+② The windshield [including the rear windscreen or window in the case of passenger cars (including convertibles and other specially constructed passenger cars)] and the window glass or windows to the left and right of the driver's seat shall have a visible light transmittance of 70% or more. However, this does not apply to sun-shading areas outside the driver's field of view. [Added 1999-02-19]
 
-[전문개정 1995. 7. 21.]  
-[제목개정 2017. 11. 14.]
+③ All window glass or windows in school vans for children shall have a visible light transmittance of 70% or more. [Added 2017-11-14]
+
+[Fully amended 1995-07-21]
+[Title amended 2017-11-14]

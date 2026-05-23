@@ -13,13 +13,15 @@ systems:
 - Pedestrian protection
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 56 — 제56조(운행기록장치)
-translation_status: untranslated
+title: KMVSS Article 56 — Digital Tachograph
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-제56조(운행기록장치)   운행기록장치를 장착하여야 하는 운송사업용 자동차의 범위와 운행기록장치의 장착기준은 「교통안전법」 제55조제1항에 따른다.
+## Article 56 — Digital Tachograph
 
-[전문개정 2014. 2. 21.]
+The scope of commercial vehicles required to be equipped with a digital tachograph and the installation standards for digital tachographs shall be governed by Article 55(1) of the Traffic Safety Act.
+
+[Fully amended 2014-02-21]

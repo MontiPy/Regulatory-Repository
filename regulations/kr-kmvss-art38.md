@@ -13,8 +13,8 @@ systems:
 - Lighting & signaling
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 38 — 제38조(전조등)
-translation_status: untranslated
+title: KMVSS Article 38 — Headlamps
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -23,34 +23,36 @@ vehicle_categories:
 - Motorcycle
 ---
 
-제38조(전조등)   ① 자동차(피견인자동차를 제외한다)의 앞면에는 전방을 비출 수 있는 주행빔 전조등을 다음 각 호의 기준에 적합하게 설치하여야 한다. <개정 2018. 7. 11.>
+## Article 38 — Headlamps
 
-1. 좌ㆍ우에 각각 1개 또는 2개를 설치할 것. 다만, 너비가 130센티미터 이하인 초소형자동차에는 1개를 설치할 수 있다.
+① The front of motor vehicles (excluding towed vehicles) shall be equipped with main-beam headlamps capable of illuminating the road ahead, meeting the following standards: [Amended 2018-07-11]
 
-2. 등광색은 백색일 것
+1. One or two lamps shall be installed on each side (left and right). However, one lamp may be installed on ultra-compact vehicles with a width of 130 cm or less.
 
-3. 주행빔 전조등의 설치 및 광도기준은 별표 6의3에 적합할 것. 다만, 초소형자동차는 별표 35의 기준을 적용할 수 있다.
+2. The light colour shall be white.
 
-② 자동차(피견인자동차는 제외한다)의 앞면에는 마주오는 자동차 운전자의 눈부심을 감소시킬 수 있는 변환빔 전조등을 다음 각 호의 기준에 적합하게 설치하여야 한다. <개정 2018. 7. 11.>
+3. The installation and luminous intensity standards for main-beam headlamps shall meet Attached Table 6-3. However, ultra-compact vehicles may apply the standards in Attached Table 35.
 
-1. 좌ㆍ우에 각각 1개를 설치할 것. 다만, 너비가 130센티미터 이하인 초소형자동차에는 1개를 설치할 수 있다.
+② The front of motor vehicles (excluding towed vehicles) shall be equipped with dipped-beam headlamps capable of reducing glare to oncoming drivers, meeting the following standards: [Amended 2018-07-11]
 
-2. 등광색은 백색일 것
+1. One lamp shall be installed on each side (left and right). However, one lamp may be installed on ultra-compact vehicles with a width of 130 cm or less.
 
-3. 변환빔 전조등의 설치 및 광도기준은 별표 6의4에 적합할 것. 다만, 초소형자동차는 별표 36의 기준을 적용할 수 있다.
+2. The light colour shall be white.
 
-③ 자동차(피견인자동차는 제외한다)의 앞면에 전조등의 주행빔과 변환빔이 다양한 환경조건에 따라 자동으로 변환되는 적응형 전조등을 설치하는 경우에는 다음 각 호의 기준에 적합하게 설치하여야 한다.
+3. The installation and luminous intensity standards for dipped-beam headlamps shall meet Attached Table 6-4. However, ultra-compact vehicles may apply the standards in Attached Table 36.
 
-1. 좌ㆍ우에 각각 1개를 설치할 것
+③ Where adaptive headlamps that automatically switch between main beam and dipped beam according to various environmental conditions are installed on the front of motor vehicles (excluding towed vehicles), the following standards shall be met:
 
-2. 등광색은 백색일 것
+1. One lamp shall be installed on each side (left and right).
 
-3. 적응형 전조등의 설치 및 광도기준은 별표 6의5에 적합할 것
+2. The light colour shall be white.
 
-④ 주변환빔 전조등의 광속(光束)이 2천루멘을 초과하는 전조등에는 다음 각 호의 기준에 적합한 전조등 닦이기를 설치하여야 한다. <신설 2018. 7. 11.>
+3. The installation and luminous intensity standards for adaptive headlamps shall meet Attached Table 6-5.
 
-1. 매시 130킬로미터 이하의 속도에서 작동될 것
+④ Headlamps with a luminous flux of the primary dipped-beam headlamp exceeding 2,000 lumens shall be equipped with a headlamp washing device meeting the following standards: [Added 2018-07-11]
 
-2. 전조등 닦이기 작동 후 광도는 최초 광도값의 70퍼센트 이상일 것
+1. It shall operate at speeds of 130 km/h or less.
 
-[전문개정 2014. 6. 10.]
+2. After operation of the headlamp washing device, the luminous intensity shall be at least 70% of the initial luminous intensity value.
+
+[Fully amended 2014-06-10]

@@ -7,29 +7,31 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 102 — 제102조(충돌 시의 승객보호)
-translation_status: untranslated
+title: KMVSS Article 102 — Occupant Protection in Collisions
+translation_status: translated
 ---
 
-제102조(충돌 시의 승객보호)   ① 승용자동차는 다음 각 호의 구분에 따른 충돌 시 승객보호 기준에 적합해야 한다. <개정 2022. 10. 26.>
+## Article 102 — Occupant Protection in Collisions
 
-1. 차량총중량 3.5톤 이하의 승용자동차(저속전기자동차 및 초소형승용자동차는 제외한다): 별표 14의 변형구조물 부분정면 충돌 시 승객보호 기준 및 별표 14의2의 측면충돌 시 승객보호 기준
+① Passenger cars shall meet the occupant protection standards in collisions as specified below. [Amended 2022-10-26]
 
-2. 차량총중량 3.5톤을 초과하는 승용자동차(저속전기자동차는 제외한다): 별표 14의2의 측면충돌 시 승객보호 기준
+1. Passenger cars with a gross vehicle weight of 3.5 tonnes or less (excluding low-speed electric vehicles and ultra-compact passenger cars): the occupant protection standards for offset deformable barrier frontal collisions in Attached Table 14 and the occupant protection standards for side collisions in Attached Table 14-2.
 
-② 화물자동차는 다음 각 호의 구분에 따른 충돌 시 승객보호 기준에 적합해야 한다. 다만, 제1호의 화물자동차 중 전방착석자동차가 별표 14의7의 고정벽정면충돌 기준에 적합한 경우에는 별표 14의 변형구조물 부분정면 충돌 시 승객보호 기준에 적합한 것으로 본다. <개정 2022. 10. 26.>
+2. Passenger cars with a gross vehicle weight exceeding 3.5 tonnes (excluding low-speed electric vehicles): the occupant protection standards for side collisions in Attached Table 14-2.
 
-1. 차량총중량 2.5톤 이하의 화물자동차(저속전기자동차 및 초소형화물자동차는 제외한다): 별표 14의 변형구조물 부분정면 충돌 시 승객보호 기준 및 별표 14의2의 측면충돌 시 승객보호 기준
+② Trucks shall meet the occupant protection standards in collisions as specified below. However, for forward-cab trucks in item 1 that meet the full frontal rigid barrier collision standards in Attached Table 14-7, those trucks shall be deemed to meet the occupant protection standards for offset deformable barrier frontal collisions in Attached Table 14. [Amended 2022-10-26]
 
-2. 차량총중량 2.5톤 초과 3.5톤 이하의 화물자동차(저속전기자동차는 제외한다): 별표 14의2의 측면충돌 시 승객보호 기준
+1. Trucks with a gross vehicle weight of 2.5 tonnes or less (excluding low-speed electric vehicles and ultra-compact trucks): the occupant protection standards for offset deformable barrier frontal collisions in Attached Table 14 and the occupant protection standards for side collisions in Attached Table 14-2.
 
-③ 승합자동차는 다음 각 호의 구분에 따른 충돌 시 승객보호 기준에 적합해야 한다. 다만, 제1호의 자동차가 별표 14의7의 고정벽정면충돌 기준에 적합한 경우에는 별표 14의3에 따른 고정벽면정면 수직 충돌 기준에 적합한 것으로 본다. <신설 2022. 10. 26.>
+2. Trucks with a gross vehicle weight exceeding 2.5 tonnes but not exceeding 3.5 tonnes (excluding low-speed electric vehicles): the occupant protection standards for side collisions in Attached Table 14-2.
 
-1. 차량총중량 4.5톤 이하의 승합자동차(피견인자동차는 제외한다): 별표 14의3의 충돌 시 차체구조기준
+③ Vans shall meet the occupant protection standards in collisions as specified below. However, vehicles in item 1 that meet the full frontal rigid barrier collision standards in Attached Table 14-7 shall be deemed to meet the full frontal rigid wall vertical collision standards in Attached Table 14-3. [Added 2022-10-26]
 
-2. 차량총중량 4.5톤을 초과하는 승합자동차(2층대형승합자동차는 제외한다): 별표 14의4의 승합자동차의 차체강도기준
+1. Vans with a gross vehicle weight of 4.5 tonnes or less (excluding towed vehicles): the body structure standards for collisions in Attached Table 14-3.
 
-④앞좌석 승객석에 에어백을 설치한 자동차는 별표 14의5의 기준에 적합한 자동차에어백 경고문구를 표기해야 한다. <개정 2019. 12. 31., 2022. 10. 26.>
+2. Vans with a gross vehicle weight exceeding 4.5 tonnes (excluding double-deck large buses): the body strength standards for vans in Attached Table 14-4.
 
-[전문개정 2001. 4. 28.]  
-[제목개정 2018. 12. 31.]
+④ Vehicles equipped with a frontal passenger airbag shall display an airbag warning label meeting the standards in Attached Table 14-5. [Amended 2019-12-31, 2022-10-26]
+
+[Fully amended 2001-04-28]
+[Title amended 2018-12-31]

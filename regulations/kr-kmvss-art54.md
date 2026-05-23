@@ -7,28 +7,30 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 54 — 제54조(속도계 및 주행거리계)
-translation_status: untranslated
+title: KMVSS Article 54 — Speedometer and Odometer
+translation_status: translated
 ---
 
-제54조(속도계 및 주행거리계)   ① 자동차에는 제110조에 따른 속도계와 통산 운행거리를 표시할 수 있는 구조의 주행거리계를 설치하여야 한다. <개정 2014. 6. 10.>
+## Article 54 — Speedometer and Odometer
 
-②다음 각 호의 자동차(「도로교통법」 제2조제22호에 따른 긴급자동차와 당해 자동차의 최고속도가 제3항의 규정에서 정한 속도를 초과하지 아니하는 구조의 자동차를 제외한다)에는 최고속도제한장치를 설치하여야 한다. <개정 1995. 7. 21., 1995. 12. 30., 1997. 1. 17., 2003. 2. 25., 2005. 8. 10., 2010. 3. 29., 2012. 2. 15., 2017. 11. 14.>
+① Motor vehicles shall be equipped with a speedometer meeting the standards under Article 110 and an odometer capable of displaying total distance travelled. [Amended 2014-06-10]
 
-1. 승합자동차(제2조제32호에 따른 어린이운송용 승합자동차를 포함한다)
+② The following vehicles (excluding emergency vehicles under Article 2(22) of the Road Traffic Act and vehicles whose maximum speed does not exceed the speeds specified in paragraph ③) shall be equipped with a speed limiter: [Amended 1995-07-21, 1995-12-30, 1997-01-17, 2003-02-25, 2005-08-10, 2010-03-29, 2012-02-15, 2017-11-14]
 
-2. 차량총중량이 3.5톤을 초과하는 화물자동차ㆍ특수자동차(피견인자동차를 연결하는 견인자동차를 포함한다)
+1. Vans (including school vans for children under Article 2(32))
 
-3. 「고압가스 안전관리법 시행령」 제2조의 규정에 의한 고압가스를 운송하기 위하여 필요한 탱크를 설치한 화물자동차(피견인자동차를 연결한 경우에는 이를 연결한 견인자동차를 포함한다)
+2. Trucks and special-purpose vehicles with a gross vehicle weight exceeding 3.5 tonnes (including towing vehicles connected to towed vehicles)
 
-4. 저속전기자동차
+3. Trucks equipped with tanks for transporting high-pressure gas under Article 2 of the Enforcement Decree of the High-Pressure Gas Safety Management Act (including towing vehicles when connected to towed vehicles)
 
-③제2항의 규정에 의한 최고속도제한장치는 자동차의 최고속도가 다음 각호의 기준을 초과하지 아니하는 구조이어야 한다. <신설 1995. 7. 21., 1995. 12. 30., 2003. 2. 25., 2005. 8. 10., 2010. 3. 29.>
+4. Low-speed electric vehicles
 
-1. 제2항제1호의 규정에 의한 자동차 : 매시 110킬로미터
+③ The speed limiter required under paragraph ② shall be structured so that the maximum speed of the vehicle does not exceed the following standards: [Added 1995-07-21, 1995-12-30, 2003-02-25, 2005-08-10, 2010-03-29]
 
-2. 제2항제2호 및 제3호의 규정에 의한 자동차 : 매시 90킬로미터
+1. Vehicles under paragraph ② item 1: 110 km/h
 
-3. 제2항제4호에 따른 저속전기자동차: 매시 60킬로미터
+2. Vehicles under paragraph ② items 2 and 3: 90 km/h
 
-④ 삭제 <2012. 2. 15.>
+3. Low-speed electric vehicles under paragraph ② item 4: 60 km/h
+
+④ (Deleted) [2012-02-15]

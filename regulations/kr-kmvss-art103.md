@@ -7,28 +7,30 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 103 — 제103조(좌석안전띠장치 등)
-translation_status: untranslated
+title: KMVSS Article 103 — Seat Belt Anchorage System
+translation_status: translated
 ---
 
-제103조(좌석안전띠장치 등)   ① 자동차에 설치하는 안전띠는 별표 15의 좌석안전띠의 조절기준 및 별표 16의 좌석안전띠의 정적강도기준에 적합하여야 한다. <개정 2014. 6. 10.>
+## Article 103 — Seat Belt Anchorage System
 
-② 삭제 <2014. 6. 10.>
+① Seat belts installed in motor vehicles shall meet the adjustment standards for seat belts in Attached Table 15 and the static strength standards for seat belts in Attached Table 16. [Amended 2014-06-10]
 
-③자동차의 안전띠부착장치는 다음 각호의 기준에 적합해야 한다. <개정 1995. 7. 21., 1995. 12. 30., 1997. 8. 25., 2005. 8. 10., 2020. 12. 24.>
+② (Deleted) [2014-06-10]
 
-1. 2점식 또는 어깨부분과 골반부분이 분리되는 3점식 안전띠의 골반부분부착장치는 2천270킬로그램의 하중에 10초이상 견딜 것. 다만, 경형자동차에 설치된 경우에는 1천820킬로그램, 승합자동차의 제1열좌석(운전자석을 포함한다) 외의 좌석에 설치된 경우에는 300킬로그램(차량총중량 4.5톤 이하의 승합자동차의 경우에는 1천130킬로그램)의 하중에 0.2초이상 견디어야 한다.
+③ Seat belt anchorage systems in motor vehicles shall meet the following standards. [Amended 1995-07-21, 1995-12-30, 1997-08-25, 2005-08-10, 2020-12-24]
 
-2. 3점식 안전띠의 어깨부분 및 골반부분에 동시에 1천360킬로그램의 하중을 가할 때에 10초이상 견딜 것. 다만, 경형자동차에 설치된 경우에는 1천100킬로그램, 승합자동차의 제1열좌석(운전자석을 포함한다) 외의 좌석에 설치된 경우에는 300킬로그램(차량총중량 4.5톤 이하의 승합자동차의 경우에는 690킬로그램)의 하중에 0.2초이상 견디어야 한다.
+1. The lap anchorage of a two-point type or a three-point type seat belt with a separate shoulder and lap portion shall withstand a load of 2,270 kilograms for 10 seconds or more. However, for light-class vehicles it is 1,820 kilograms; for seats other than the first row (including the driver's seat) in vans, the load is 300 kilograms (1,130 kilograms for vans with a gross vehicle weight of 4.5 tonnes or less) for 0.2 seconds or more.
 
-3. 2점식 또는 3점식 안전띠의 골반부분부착장치는 착석기준점과 골반부분부착장치의 설치지점을 동시에 지나고 차량중심면(차량중심면을 포함하며 지면에 수직인 평면을 말한다. 이하 같다)에 수직인 평면이 지면과 이루는 각도가 30도이상 75도이하이어야 하고, 부착장치의 설치지점을 지나고 차량중심면에 평행한 두 평면사이의 거리가 165밀리미터이상일 것
+2. The shoulder and lap portions of a three-point seat belt shall simultaneously withstand a load of 1,360 kilograms for 10 seconds or more. However, for light-class vehicles it is 1,100 kilograms; for seats other than the first row (including the driver's seat) in vans, the load is 300 kilograms (690 kilograms for vans with a gross vehicle weight of 4.5 tonnes or less) for 0.2 seconds or more.
 
-4. 3점식 안전띠의 어깨부분 부착장치는 별표 17에 표시된 범위 안에 설치할 것. 다만, 어린이운송용 승합자동차 제1열 좌석 외의 좌석에 설치되는 어깨부분부착장치가 다음 각 목의 기준을 모두 만족하는 경우에는 별표 17에 표시된 범위보다 낮은 범위로 높이 조절이 가능한 어깨부분부착장치를 설치할 수 있다.
+3. The lap anchorage of a two-point or three-point seat belt shall be positioned so that the plane simultaneously passing through the seating reference point and the lap anchorage installation point, perpendicular to the vehicle centre plane (the plane passing through the vehicle centre line and perpendicular to the ground; same hereafter), forms an angle of 30 degrees or more and 75 degrees or less with the ground; and the distance between two planes passing through the anchorage installation point and parallel to the vehicle centre plane shall be 165 millimetres or more.
 
-가. 높이조절장치 등으로 어깨부분 안전띠의 높이를 조절할 수 있을 것
+4. The shoulder anchorage of a three-point seat belt shall be installed within the range shown in Attached Table 17. However, for shoulder anchorages installed in seats other than the first row in school vans for children, a height-adjustable shoulder anchorage that allows adjustment to a range lower than that shown in Attached Table 17 may be installed if both of the following conditions are met:
 
-나. 높이조절장치 등이 탑승자의 의도와 무관하게 위쪽으로 이동하지 않을 것
+a. The height of the shoulder belt can be adjusted using a height adjustment device or similar.
 
-④ 삭제 <2008. 1. 14.>
+b. The height adjustment device or similar shall not move upward independently of the occupant's intention.
 
-[제목개정 1997. 1. 17.]
+④ (Deleted) [2008-01-14]
+
+[Title amended 1997-01-17]

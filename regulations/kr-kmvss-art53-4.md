@@ -7,20 +7,22 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 53-4 — 제53조의4(어린이 하차확인장치)
-translation_status: untranslated
+title: KMVSS Article 53-4 — Child Presence Detection System
+translation_status: translated
 ---
 
-제53조의4(어린이 하차확인장치)   어린이운송용 승합자동차에는 다음 각 호의 기준에 적합한 어린이 하차확인장치를 설치해야 한다.
+## Article 53-4 — Child Presence Detection System
 
-1. 승합자동차의 원동기를 정지시키거나 시동장치의 열쇠를 작동 위치에서 제거한 후 3분 이내에 차실 가장 뒷열에 있는 좌석 부근에 설치된 확인버튼(근거리 무선통신 접촉을 포함한다)을 누르지 않으면 경고음 발생장치와 표시등(제45조에 따른 비상점멸표시등 또는 제48조제4항에 따른 표시등을 말한다)이 작동하는 구조일 것
+School vans for children shall be equipped with a child presence detection system meeting the following standards:
 
-2. 제1호에 따른 경고음 발생장치와 표시등이 작동되면 확인버튼(근거리 무선통신 접촉을 포함한다)을 누르거나 승합자동차의 원동기를 다시 시동(제13조제6항에 따른 보조시동장치에 의한 시동은 제외한다)하여 작동을 정지시킬 수 있는 구조일 것
+1. The system shall be structured so that if the confirmation button (including NFC contact) installed near the seats in the rearmost row is not pressed within 3 minutes after the engine is stopped or the ignition key is removed from the operating position, a warning sound device and indicator lamp (the hazard warning flasher under Article 45 or the indicator lamp under Article 48(4)) shall activate.
 
-3. 제1호에 따른 경고음 발생장치는 다음 각 목의 기준에 적합한 구조일 것
+2. The system shall be structured so that when the warning sound device and indicator lamp under item 1 are activated, they can be deactivated by pressing the confirmation button (including NFC contact) or by restarting the van's engine (excluding starting by auxiliary starting device under Article 13(6)).
 
-가. 경고음은 발생과 정지가 반복되도록 하고, 같은 음색의 경보음 또는 음성 메시지를 일정한 간격으로 발생시킬 것
+3. The warning sound device under item 1 shall comply with the following standards:
 
-나. 경고음은 자동차 전방 또는 후방 끝으로부터 2미터 떨어진 위치에서 측정하였을 때 60데시벨(A) 이상일 것
+a. The warning sound shall alternate between sounding and stopping, and shall produce an alarm sound or voice message of uniform tone at regular intervals.
 
-[본조신설 2019. 3. 21.]
+b. The warning sound level shall be at least 60 dB(A) measured at 2 metres from the front or rear end of the vehicle.
+
+[Added 2019-03-21]

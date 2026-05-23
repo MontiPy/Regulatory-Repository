@@ -7,26 +7,28 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 105 — 제105조(창유리의 안전성 등)
-translation_status: untranslated
+title: KMVSS Article 105 — Windshield Safety
+translation_status: translated
 ---
 
-제105조(창유리의 안전성 등)   ① 제34조제1항의 창유리는 국토교통부장관이 정하는 기계적 강성 등의 성능을 갖추어야 한다. <신설 2010. 3. 29., 2013. 3. 23.>
+## Article 105 — Windshield Safety
 
-②승용자동차의 앞면창유리는 자동차를 매시 48.3킬로미터의 속도로 고정벽에 정면충돌시킬 때에 다음 각호의 기준에 적합하여야 한다. <개정 2010. 3. 29.>
+① The glazing referred to in Article 34, paragraph ①, shall have mechanical strength and other performance requirements prescribed by the Minister of Land, Infrastructure and Transport. [Added 2010-03-29, 2013-03-23]
 
-1. 에어백 또는 자동안전띠등과 같은 승객자동보호장치가 설치된 자동차는 창유리가 붙어 있는 창유리지지틀의 길이가 차량중심선을 기준으로 좌우 각각 창유리지지틀 둘레의 50퍼센트이상일 것
+② The windshield of passenger cars shall, when the vehicle is frontally impacted against a fixed wall at 48.3 km/h, meet the following standards. [Amended 2010-03-29]
 
-2. 승객자동보호장치가 설치되지 아니한 자동차는 창유리가 붙어 있는 창유리지지틀의 길이가 전체 창유리지지틀 둘레의 75퍼센트이상일 것
+1. For vehicles equipped with an automatic occupant protection device such as an airbag or automatic seat belt: the length of the glazing retention frame to which the windshield remains attached shall be 50% or more of the total perimeter of the retention frame on each side of the vehicle centre line.
 
-3. 창유리지지틀 및 창유리와 접하여 설치된 장치를 제외한 차실밖에 있는 부품이 별표 18의 앞면창유리보호구역에 설치된 보호형판의 내부로 6.3밀리미터를 초과하여 들어오지 아니하여야 하고, 보호구역 아래의 창유리부분을 관통하여 차실안으로 들어오지 아니하는 구조일 것
+2. For vehicles not equipped with an automatic occupant protection device: the length of the glazing retention frame to which the windshield remains attached shall be 75% or more of the total perimeter of the retention frame.
 
-③다음 각호의 자동차는 제2항의 규정을 적용하지 아니한다. <개정 1995. 7. 21., 1995. 12. 30., 2010. 3. 29.>
+3. Exterior components (excluding the glazing retention frame and devices in contact with the glazing) shall not intrude more than 6.3 millimetres into the protective template placed within the windshield protection zone in Attached Table 18, and shall not penetrate through the lower portion of the protection zone into the passenger compartment.
 
-1. 앞면창유리를 뗄 수 있거나 접을 수 있도록 제작된 무개자동차
+③ The following vehicles are not subject to paragraph ②. [Amended 1995-07-21, 1995-12-30, 2010-03-29]
 
-2. 전방조종자동차
+1. Open-top vehicles manufactured with a detachable or foldable windshield.
 
-3. 경형자동차
+2. Forward control vehicles.
 
-[제목개정 2010. 3. 29.]
+3. Light-class vehicles.
+
+[Title amended 2010-03-29]

@@ -13,8 +13,8 @@ systems:
 - Fuel safety
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 27 — 제27조(좌석안전띠장치등)
-translation_status: untranslated
+title: KMVSS Article 27 — Seat Belt System
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -23,26 +23,28 @@ vehicle_categories:
 - Motorcycle
 ---
 
-제27조(좌석안전띠장치등)   ①자동차의 좌석에는 안전띠를 설치하여야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 좌석에는 이를 설치하지 아니할 수 있다. <개정 2005. 8. 10., 2008. 3. 14., 2011. 12. 23., 2013. 3. 23.>
+## Article 27 — Seat Belt System
 
-1. 환자수송용 좌석 또는 특수구조자동차의 좌석 등 국토교통부장관이 안전띠의 설치가 필요하지 아니하다고 인정하는 좌석
+① Seat belts shall be installed at all vehicle seats. However, seat belts need not be installed in the following seats: [Amended 2005-08-10, 2008-03-14, 2011-12-23, 2013-03-23]
 
-2. 「여객자동차 운수사업법 시행령」제3조제1호의 규정에 의한 노선여객자동차운송사업에 사용되는 자동차로서 자동차전용도로 또는 고속국도를 운행하지 아니하는 시내버스ㆍ농어촌버스 및 마을버스의 승객용 좌석
+1. Patient transport seats, seats in specially structured vehicles, and other seats that the Minister of Land, Infrastructure and Transport recognises as not requiring seat belt installation.
 
-3. 삭제 <2011. 12. 23.>
+2. Passenger seats in city buses, rural buses, and village buses (used for scheduled passenger transport services under Article 3(1) of the Enforcement Decree of the Passenger Transport Service Act) that do not operate on expressways or national motorways.
 
-②승용자동차의 모든 좌석과 그 외의 자동차의 운전자좌석 및 운전자좌석 옆으로 나란히 되어있는 좌석에는 3점식 이상의 안전띠를 설치하여야 한다. 다만, 승용자동차 외의 자동차의 중간좌석과 좌석의 구조상 3점식 이상의 안전띠 설치가 곤란한 좌석의 경우에는 2점식 안전띠를 설치할 수 있다. <개정 1995. 7. 21., 2010. 3. 29., 2011. 12. 23.>
+3. (Deleted) [2011-12-23]
 
-③ 제1항에 따른 안전띠는 제112조의3에 따른 기준에 적합하여야 한다. <개정 2011. 12. 23.>
+② All seats in passenger cars and the driver's seat and seats arranged side by side with the driver's seat in other vehicles shall be equipped with three-point or higher seat belts. However, middle seats in vehicles other than passenger cars and seats where it is structurally impractical to install three-point or higher seat belts may be equipped with two-point seat belts. [Amended 1995-07-21, 2010-03-29, 2011-12-23]
 
-④ 제1항에 따라 좌석안전띠를 설치한 자동차(초소형자동차는 제외한다)에는 다음 각 호에 따른 자동차의 좌석에 착석한 운전자 또는 승객이 좌석안전띠를 착용하지 아니하고 시동하거나 주행할 경우 운전자석에서 그 사실을 알 수 있도록 별표 5의24의 기준에 따른 경고장치를 설치하여야 한다. 다만, 접이식 좌석 등 국토교통부 장관이 정하여 고시하는 좌석은 그러하지 아니하다. <개정 2017. 11. 14., 2018. 7. 11.>
+③ The seat belts required under paragraph ① shall meet the standards under Article 112-3. [Amended 2011-12-23]
 
-1. 승용자동차와 차량총중량 3.5톤 이하의 화물ㆍ특수자동차: 모든 좌석
+④ Vehicles equipped with seat belts under paragraph ① (excluding ultra-compact vehicles) shall be equipped with a warning device meeting the standards in Attached Table 5-24, to alert the driver from the driver's seat when the driver or passengers seated in the following seats start the vehicle or drive without wearing a seat belt. However, this does not apply to seats such as fold-down seats as specified by the Minister of Land, Infrastructure and Transport: [Amended 2017-11-14, 2018-07-11]
 
-2. 승합자동차와 차량총중량 3.5톤 초과의 화물ㆍ특수자동차: 운전자 및 운전자석과 옆으로 나란한 좌석
+1. Passenger cars and trucks and special-purpose vehicles with a gross vehicle weight of 3.5 tonnes or less: all seats
 
-⑤ 삭제 <2008. 1. 14.>
+2. Vans and trucks and special-purpose vehicles with a gross vehicle weight exceeding 3.5 tonnes: driver's seat and seats arranged side by side with the driver's seat
 
-⑥어린이운송용 승합자동차의 승객석에 설치된 좌석안전띠의 구조는 어린이의 신체구조에 적합하게 조절될 수 있어야 한다. <신설 1997. 8. 25.>
+⑤ (Deleted) [2008-01-14]
 
-[제목개정 1997. 1. 17.]
+⑥ The seat belts installed at passenger seats in school vans for children shall be structured to be adjustable to suit children's body dimensions. [Added 1997-08-25]
+
+[Title amended 1997-01-17]

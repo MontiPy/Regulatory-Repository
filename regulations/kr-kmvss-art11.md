@@ -7,22 +7,24 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 11 — 제11조(원동기 및 동력전달장치)
-translation_status: untranslated
+title: KMVSS Article 11 — Engine and Drivetrain
+translation_status: translated
 ---
 
-제11조(원동기 및 동력전달장치)   ①자동차의 원동기는 다음 각 호의 기준에 적합하여야 한다. <개정 1995. 7. 21., 1997. 8. 25., 2009. 1. 23.>
+## Article 11 — Engine and Drivetrain
 
-1. 원동기 각부의 작동에 이상이 없어야 하며, 주시동장치 및 정지장치는 운전자의 좌석에서 원동기를 시동 또는 정지시킬 수 있는 구조일 것
+① The engine of a motor vehicle shall comply with the following standards. [Amended 1995-07-21, 1997-08-25, 2009-01-23]
 
-2. 삭제 <2011. 10. 6.>
+1. All parts of the engine shall operate properly, and the main starting and stopping devices shall be structured so that the engine can be started or stopped from the driver's seat
 
-3. 삭제 <1997. 8. 25.>
+2. (Deleted) [2011-10-06]
 
-4. 삭제 <1997. 8. 25.>
+3. (Deleted) [1997-08-25]
 
-②자동차의 동력전달장치는 안전운행에 지장을 줄 수 있는 연결부의 손상 또는 오일의 누출등이 없어야 한다. <개정 2009. 6. 18.>
+4. (Deleted) [1997-08-25]
 
-③경유를 연료로 사용하는 자동차의 조속기(연료 분사량 조정기를 말한다)는 연료의 분사량을 임의로 조작할 수 없도록 봉인을 해야 하며, 봉인을 임의로 제거하거나 조작 또는 훼손해서는 안 된다. <신설 1995. 7. 21., 2021. 8. 27.>
+② The drivetrain of a motor vehicle shall be free from damage to joints or oil leaks that could impair safe operation. [Amended 2009-06-18]
 
-④ 초소형자동차의 최고속도가 매시 80킬로미터를 초과하지 않도록 원동기 및 동력전달장치를 설계ㆍ제작하여야 한다. <신설 2018. 7. 11.>
+③ The governor (fuel injection quantity regulator) of diesel-powered vehicles shall be sealed so that the fuel injection quantity cannot be arbitrarily adjusted; the seal shall not be arbitrarily removed, manipulated, or damaged. [Added 1995-07-21, 2021-08-27]
+
+④ The engine and drivetrain of ultra-compact vehicles shall be designed and manufactured so that the maximum speed does not exceed 80 km/h. [Added 2018-07-11]

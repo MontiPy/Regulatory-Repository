@@ -7,48 +7,50 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 109 — 제109조(창닦이기장치등)
-translation_status: untranslated
+title: KMVSS Article 109 — Windshield Wiper and Washer System
+translation_status: translated
 ---
 
-제109조(창닦이기장치등)   ① 승용자동차(초소형승용자동차는 제외한다)와 경형승합자동차에 설치하는 창닦이기ㆍ서리제거장치ㆍ안개제거장치 및 세정액분사장치는 다음 각 호의 기준에 적합하여야 한다. <개정 2008. 1. 14., 2018. 7. 11., 2019. 12. 31.>
+## Article 109 — Windshield Wiper and Washer System
 
-1. 창닦이기는 제51조제2항 및 다음 각목의 기준에 적합할 것
+① Windshield wipers, defrosters, demisters, and washer fluid spray systems installed in passenger cars (excluding ultra-compact passenger cars) and light-class vans shall meet the following standards. [Amended 2008-01-14, 2018-07-11, 2019-12-31]
 
-가. 별표 25의 구분에 따른 “가”부분 면적의 98퍼센트이상을, 동 “나”부분 면적의 80퍼센트이상을 각각 세척할 수 있을 것
+1. The windshield wiper shall meet the standards in Article 51, paragraph ②, and the following:
 
-나. 섭씨 영하 18도의 주변온도에서 4시간동안 안정화시킨후 2분이상 정상작동을 할 수 있을 것
+a. Shall be capable of cleaning 98% or more of the “A” zone area and 80% or more of the “B” zone area as designated in Attached Table 25.
 
-다. 최고속도의 80퍼센트 또는 매시 120킬로미터의 속도에 해당하는 상대공기속도를 가하였을 때 별표 25의 구분에 따른 “가”부분 면적의 98퍼센트이상을 세척할 수 있을 것
+b. Shall be capable of operating normally for 2 minutes or more after being stabilized for 4 hours at an ambient temperature of minus 18 degrees Celsius.
 
-2. 서리제거장치는 섭씨 영하 18도의 주변온도에서 10시간동안 안정화시킨후 작동시켰을 때 다음 각목의 기준에 적합할 것
+c. Shall be capable of cleaning 98% or more of the “A” zone area as designated in Attached Table 25 when a relative air speed equivalent to 80% of the maximum speed or 120 km/h is applied.
 
-가. 작동후 20분이내에 별표 25의 구분에 따른 “가”부분 면적의 80퍼센트이상의 서리를 제거할 수 있을 것
+2. The defroster shall, when activated after being stabilized for 10 hours at an ambient temperature of minus 18 degrees Celsius, meet the following standards:
 
-나. 작동후 25분이내에 별표 25의 구분에 따른 “가”부분과 자동차길이방향으로 대칭되는 앞면창유리 면적의 80퍼센트이상의 서리를 제거할 수 있을 것
+a. Capable of removing frost from 80% or more of the “A” zone area as designated in Attached Table 25 within 20 minutes of activation.
 
-다. 작동후 40분이내에 별표 25의 구분에 따른 “나”부분 면적의 95퍼센트이상의 서리를 제거할 수 있을 것
+b. Capable of removing frost from 80% or more of the windshield area symmetrical to the “A” zone in the longitudinal direction within 25 minutes of activation.
 
-3. 안개제거장치는 섭씨 영하 3도의 주변온도에서 10시간동안 안정화시킨후 작동시켰을 때 10분이내에 별표 25의 구분에 따른 “가”부분 면적의 90퍼센트이상, 동 “나”부분 면적의 80퍼센트이상의 안개를 제거할 수 있을 것
+c. Capable of removing frost from 95% or more of the “B” zone area as designated in Attached Table 25 within 40 minutes of activation.
 
-4. 세정액분사장치는 다음 각목의 기준에 적합할 것
+3. The demister shall, when activated after being stabilized for 10 hours at an ambient temperature of minus 3 degrees Celsius, be capable of removing fog from 90% or more of the “A” zone area and 80% or more of the “B” zone area as designated in Attached Table 25 within 10 minutes.
 
-가. 창닦이기를 최대속도로 10회 작동시키는 동안 별표 25의 구분에 따른 “가”부분의 60퍼센트이상의 면적을 세척하는데 필요한 양의 세정액을 분사할 수 있을 것
+4. The washer fluid spray system shall meet the following standards:
 
-나. 섭씨 영하 18도의 주변온도에서 4시간동안 안정화시킨후 정상작동을 할 수 있을 것
+a. Shall be capable of spraying sufficient washer fluid to clean 60% or more of the “A” zone area as designated in Attached Table 25 during 10 wiper strokes at maximum speed.
 
-다. 섭씨 영상 60도의 주변온도에서 8시간동안 안정화시킨후 정상작동을 할 수 있을 것
+b. Shall operate normally after being stabilized for 4 hours at an ambient temperature of minus 18 degrees Celsius.
 
-② 초소형자동차에 설치하는 창닦이기 및 세정액분사장치는 다음 각 호의 기준에 적합하여야 한다. <신설 2018. 7. 11., 2019. 12. 31.>
+c. Shall operate normally after being stabilized for 8 hours at an ambient temperature of plus 60 degrees Celsius.
 
-1. 별표 25 제1호의 구분에 따른 “가”부분 면적의 90퍼센트 이상을 세척할 수 있을 것
+② Windshield wipers and washer fluid spray systems installed in ultra-compact vehicles shall meet the following standards. [Added 2018-07-11, 2019-12-31]
 
-2. 세정액분사장치는 다음 각 목의 기준에 적합할 것
+1. Shall be capable of cleaning 90% or more of the “A” zone area as designated in item 1 of Attached Table 25.
 
-가. 창닦이기를 최대속도 10회 작동시키는 동안 별표 25 제1호의 구분에 따른 “가”부분의 60퍼센트 이상의 면적을 세척하는데 필요한 양의 세정액을 분사할 수 있을 것
+2. The washer fluid spray system shall meet the following standards:
 
-나. 섭씨 영하 18도의 주변온도에서 4시간 동안 안정화시킨 후에도 정상작동할 것
+a. Shall be capable of spraying sufficient washer fluid to clean 60% or more of the “A” zone area as designated in item 1 of Attached Table 25 during 10 wiper strokes at maximum speed.
 
-다. 섭씨 영상 60도의 주변온도에서 8시간 동안 안정화시킨 후에도 정상작동할 것
+b. Shall operate normally after being stabilized for 4 hours at an ambient temperature of minus 18 degrees Celsius.
 
-[전문개정 1997. 1. 17.]
+c. Shall operate normally after being stabilized for 8 hours at an ambient temperature of plus 60 degrees Celsius.
+
+[Fully amended 1997-01-17]

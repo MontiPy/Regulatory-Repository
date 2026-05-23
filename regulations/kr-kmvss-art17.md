@@ -7,24 +7,26 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 17 — 제17조(연료장치)
-translation_status: untranslated
+title: KMVSS Article 17 — Fuel System
+translation_status: translated
 ---
 
-제17조(연료장치)   ①자동차의 연료탱크ㆍ주입구 및 가스배출구는 다음 각호의 기준에 적합하여야 한다. <개정 1997. 1. 17., 1997. 8. 25.>
+## Article 17 — Fuel System
 
-1. 연료장치는 자동차의 움직임에 의하여 연료가 새지 아니하는 구조일 것
+① The fuel tank, filler port, and gas outlet of a motor vehicle shall comply with the following standards: [Amended 1997-01-17, 1997-08-25]
 
-2. 배기관의 끝으로부터 30센티미터 이상 떨어져 있을 것(연료탱크를 제외한다)
+1. The fuel system shall be structured so that fuel does not leak due to vehicle movement.
 
-3. 노출된 전기단자 및 전기개폐기로부터 20센티미터 이상 떨어져 있을 것(연료탱크를 제외한다)
+2. The filler port and gas outlet shall be located at least 30 cm from the end of the exhaust pipe (excluding the fuel tank).
 
-4. 차실안에 설치하지 아니하여야 하며, 연료탱크는 차실과 벽 또는 보호판 등으로 격리되는 구조일 것
+3. The filler port and gas outlet shall be located at least 20 cm from exposed electrical terminals and electrical switches (excluding the fuel tank).
 
-② 수소가스를 연료로 사용하는 자동차는 다음 각 호의 기준에 적합하여야 한다. <개정 2014. 6. 10.>
+4. The fuel system shall not be installed inside the passenger compartment, and the fuel tank shall be separated from the passenger compartment by a wall or protective panel.
 
-1. 자동차의 배기구에서 배출되는 가스의 수소농도는 평균 4%, 순간 최대 8%를 초과하지 아니할 것
+② Vehicles using hydrogen gas as fuel shall comply with the following standards: [Amended 2014-06-10]
 
-2. 차단밸브(내압용기의 연료공급 자동 차단장치를 말한다. 이하 이 조에서 같다) 이후의 연료장치에서 수소가스 누출 시 승객거주 공간의 공기 중 수소농도는 1% 이하일 것
+1. The hydrogen concentration in the gas discharged from the vehicle's exhaust outlet shall not exceed an average of 4% or an instantaneous maximum of 8%.
 
-3. 차단밸브 이후의 연료장치에서 수소가스 누출 시 승객거주 공간, 수하물 공간, 후드 하부 등 밀폐 또는 반밀폐 공간의 공기 중 수소농도가 2±1% 초과 시 적색경고등이 점등되고, 3±1% 초과 시 차단밸브가 작동할 것
+2. Where hydrogen gas leaks from the fuel system downstream of the shutoff valve (the automatic fuel supply shutoff device of the pressurised container; hereinafter referred to as "shutoff valve" in this article), the hydrogen concentration in the air of the passenger compartment shall be 1% or less.
+
+3. Where hydrogen gas leaks from the fuel system downstream of the shutoff valve, a red warning lamp shall illuminate when the hydrogen concentration in the air of enclosed or semi-enclosed spaces such as the passenger compartment, luggage compartment, and beneath the hood exceeds 2±1%, and the shutoff valve shall activate when the concentration exceeds 3±1%.

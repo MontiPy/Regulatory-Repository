@@ -7,16 +7,18 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 95 — 제95조(차실내장재의 내인화성)
-translation_status: untranslated
+title: KMVSS Article 95 — Flame Resistance of Interior Materials
+translation_status: translated
 ---
 
-제95조(차실내장재의 내인화성)   자동차의 차실안에 설치되어 있는 다음 각호의 내장재는 매분당 102밀리미터 이상의 속도로 연소가 진행되지 아니하여야 한다. <개정 2003. 2. 25.>
+## Article 95 — Flame Resistance of Interior Materials
 
-1. 좌석ㆍ좌석등받이 및 안전띠
+The following interior materials installed inside the passenger compartment of a motor vehicle shall not burn at a rate of 102 millimetres per minute or more. [Amended 2003-02-25]
 
-2. 팔걸이ㆍ머리지지대 및 햇빛가리개
+1. Seats, seat backs, and seat belts
 
-3. 차실천정ㆍ차실바닥 및 깔판
+2. Armrests, head restraints, and sun visors
 
-4. 내부판넬
+3. Passenger compartment ceiling, floor, and floor mats
+
+4. Interior panels

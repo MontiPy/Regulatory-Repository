@@ -7,20 +7,22 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 8 — 제8조(최대안전경사각도)
-translation_status: untranslated
+title: KMVSS Article 8 — Maximum Safe Tilt Angle
+translation_status: translated
 ---
 
-제8조(최대안전경사각도)   ① 자동차(연결자동차를 포함한다)는 다음 각 호에 따라 좌우로 기울인 상태에서 전복되지 아니하여야 한다. <개정 2023. 11. 23.>
+## Article 8 — Maximum Safe Tilt Angle
 
-1. 승용자동차, 화물자동차, 특수자동차 및 승차정원 10명 이하인 승합자동차: 공차상태에서 35도(차량총중량이 차량중량의 1.2배 이하인 경우에는 30도)
+① A motor vehicle (including articulated vehicles) shall not overturn when tilted laterally in accordance with the following standards. [Amended 2023-11-23]
 
-2. 승차정원 11명 이상인 승합자동차: 적차상태에서 28도
+1. Passenger cars, trucks, special-purpose vehicles, and buses with a seating capacity of 10 or fewer persons: 35 degrees in an unloaded condition (30 degrees where the gross vehicle weight is 1.2 times or less the curb weight)
 
-② 다음 각 호의 자동차에 대해서는 제1항에 따른 최대안전경사각도 기준을 적용하지 않는다. <신설 2023. 11. 23.>
+2. Buses with a seating capacity of 11 or more persons: 28 degrees in a loaded condition
 
-1. 진공흡입청소를 위한 구조ㆍ장치를 갖춘 특수용도형 화물자동차
+② The maximum safe tilt angle standards in paragraph ① shall not apply to the following vehicles. [Added 2023-11-23]
 
-2. 고소작업ㆍ방송중계ㆍ교량점검ㆍ이삿짐운반을 위한 구조ㆍ장치를 갖춘 특수용도형 특수자동차 및 구난형 특수자동차
+1. Special-purpose trucks equipped with structures and devices for vacuum suction cleaning
 
-[전문개정 2008. 12. 8.]
+2. Special-purpose vehicles equipped with structures and devices for aerial work, broadcast relay, bridge inspection, or moving services; and rescue-type special-purpose vehicles
+
+[Fully amended 2008-12-08]

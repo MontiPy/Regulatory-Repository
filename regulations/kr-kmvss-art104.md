@@ -7,62 +7,64 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 104 — 제104조(승강구)
-translation_status: untranslated
+title: KMVSS Article 104 — Door System
+translation_status: translated
 ---
 
-제104조(승강구)   ①승용자동차(초소형승용자동차는 제외한다)의 옆문은 지름 305밀리미터의 강철제 원형 또는 반원형기둥의 시험장치를 이용하여 매초 12.7밀리미터 이하의 속도로 하중을 가할 때에 다음 각 호의 어느 하나에 해당하는 기준에 적합한 구조여야 한다. <개정 1995. 7. 21., 2001. 4. 28., 2018. 7. 11., 2022. 10. 26.>
+## Article 104 — Door System
 
-1. 승강구의 옆좌석을 떼어내고 시험할 경우
+① The side doors of passenger cars (excluding ultra-compact passenger cars) shall, when a load is applied at a rate of no more than 12.7 millimetres per second using a steel circular or semi-circular cylindrical test device of 305 millimetres diameter, meet one of the following standards. [Amended 1995-07-21, 2001-04-28, 2018-07-11, 2022-10-26]
 
-가. 152밀리미터의 변위량에 도달할 때까지의 평균저항하중값이 차량중량의 0.83배 또는 10,000뉴턴 중 작은 값 이상일 것
+1. When tested with the adjacent seat removed:
 
-나. 305밀리미터의 변위량에 도달할 때까지의 평균저항하중값이 차량중량의 1.3배 또는 15,569뉴턴 중 작은 값 이상일 것
+a. The average resistance load up to a displacement of 152 millimetres shall be the lesser of 0.83 times the vehicle weight or 10,000 newtons or more.
 
-다. 457밀리미터의 변위량에 도달할 때까지의 최대저항하중값이 차량중량의 2배 또는 31,138뉴턴 중 작은 값 이상일 것
+b. The average resistance load up to a displacement of 305 millimetres shall be the lesser of 1.3 times the vehicle weight or 15,569 newtons or more.
 
-2. 승강구의 옆좌석을 떼어내지 않고 시험할 경우
+c. The maximum resistance load up to a displacement of 457 millimetres shall be the lesser of 2 times the vehicle weight or 31,138 newtons or more.
 
-가. 152밀리미터의 변위량에 도달할 때까지의 평균저항하중값이 차량중량의 0.83배 또는 10,000뉴턴 중 작은 값 이상일 것
+2. When tested with the adjacent seat in place:
 
-나. 305밀리미터의 변위량에 도달할 때까지의 평균저항하중값이 차량중량의 1.63배 또는 19,460뉴턴 중 작은 값 이상일 것
+a. The average resistance load up to a displacement of 152 millimetres shall be the lesser of 0.83 times the vehicle weight or 10,000 newtons or more.
 
-다. 457밀리미터의 변위량에 도달할 때까지의 최대저항하중값이 차량중량의 3.5배 또는 53,378뉴턴 중 작은 값 이상일 것
+b. The average resistance load up to a displacement of 305 millimetres shall be the lesser of 1.63 times the vehicle weight or 19,460 newtons or more.
 
-②초소형자동차, 중형 및 대형승합자동차를 제외한 자동차의 옆문 승강구와 탑승자의 승하차가 가능하거나 수화물을 싣고 내릴 수 있는 뒷문 승강구(이하 “뒷문”이라 한다)의 문걸쇠장치 및 문경첩장치는 다음 각 호의 구분에 따른 기준에 적합한 구조여야 한다. 다만, 휠체어승강기가 설치된 승강구, 접이식승강구, 말려올라가는 구조의 승강구, 탈착식 승강구의 경우에는 그렇지 않다. <개정 1995. 7. 21., 1995. 12. 30., 2006. 4. 14., 2018. 7. 11., 2022. 10. 26.>
+c. The maximum resistance load up to a displacement of 457 millimetres shall be the lesser of 3.5 times the vehicle weight or 53,378 newtons or more.
 
-1. 여닫이식 승강구의 경우
+② The door latch and hinge systems of side doors and rear doors that allow occupant boarding/alighting or luggage loading/unloading (hereafter “rear doors”) in vehicles other than ultra-compact vehicles, medium-size vans, and large vans shall meet the standards below. However, this does not apply to doors equipped with a wheelchair lift, folding doors, roll-up doors, or detachable doors. [Amended 1995-07-21, 1995-12-30, 2006-04-14, 2018-07-11, 2022-10-26]
 
-가. 문걸쇠장치는 완전닫힘위치와 중간닫힘위치로 구분되는 구조일 것
+1. For hinged (swing-open) doors:
 
-나. 문걸쇠장치는 완전닫힘위치에서 문걸쇠장치면에 수직인 방향으로 11,000뉴턴의 하중과 문걸쇠장치면에 나란하면서 열리는 방향으로 9,000뉴턴의 하중에 각각 견디는 구조여야 하고, 뒷문은 문걸쇠장치면에 수직인 방향과 문걸쇠장치면에 나란하면서 열리는 방향에 모두 수직인 방향으로 9,000뉴턴의 하중에도 견디는 구조여야 한다. 다만, 경형자동차의 경우에는 문걸쇠장치에 수직인 방향으로 8,800뉴턴의 하중과 문걸쇠장치면에 나란하면서 열리는 방향으로 7,200뉴턴의 하중에 각각 견디는 구조여야 하고, 뒷문은 문걸쇠장치면에 수직인 방향과 문걸쇠장치면에 나란하면서 열리는 방향에 모두 수직인 방향으로 7,200뉴턴의 하중에도 견디는 구조여야 한다.
+a. The door latch shall have a fully latched position and a secondary latched position.
 
-다. 문걸쇠장치는 완전닫힘위치에서 자동차길이방향과 자동차너비방향으로 중력가속도의 30배에 해당하는 관성하중을 가할 때에 완전닫힘위치를 유지할 수 있는 구조이고, 뒷문은 자동차수직방향으로 중력가속도의 30배에 해당하는 관성하중을 가할 때에도 완전닫힘위치를 유지할 수 있는 구조일 것
+b. The door latch shall, in the fully latched position, withstand 11,000 newtons perpendicular to the latch face and 9,000 newtons parallel to the latch face in the opening direction; rear doors shall additionally withstand 9,000 newtons in the direction perpendicular to both of the above. For light-class vehicles: 8,800 newtons perpendicular and 7,200 newtons in the opening direction; rear doors shall additionally withstand 7,200 newtons in the perpendicular direction.
 
-라. 문걸쇠장치는 중간닫힘위치에서 4,500뉴턴의 자동차길이방향의 하중과 자동차너비방향의 하중에 각각 견디는 구조일 것. 다만, 경형자동차의 경우에는 3,600뉴턴의 자동차길이방향의 하중과 자동차너비방향의 하중에 각각 견뎌야 한다.
+c. The door latch shall, in the fully latched position, maintain the fully latched position when an inertial load of 30 times the gravitational acceleration is applied in both the longitudinal and lateral directions; rear doors shall additionally maintain the fully latched position under such a load in the vertical direction.
 
-마. 문경첩장치는 11,000뉴턴의 자동차길이방향의 하중과 9,000뉴턴의 자동차너비방향의 하중에 각각 견디는 구조이고, 뒷문은 9,000뉴턴의 자동차수직방향의 하중에도 견디는 구조일 것. 다만, 경형자동차의 경우에는 8,800뉴턴의 자동차길이방향의 하중과 7,200뉴턴의 자동차너비방향의 하중에 각각 견디는 구조이고, 뒷문은 7,200뉴턴의 자동차수직방향의 하중에도 견디는 구조여야 한다.
+d. The door latch shall, in the secondary latched position, withstand 4,500 newtons each in the longitudinal and lateral directions. For light-class vehicles: 3,600 newtons.
 
-2. 미닫이식 승강구(경형자동차의 승강구를 제외한다)의 경우
+e. The door hinge shall withstand 11,000 newtons longitudinally and 9,000 newtons laterally; rear doors shall additionally withstand 9,000 newtons vertically. For light-class vehicles: 8,800 newtons longitudinally and 7,200 newtons laterally; rear doors shall additionally withstand 7,200 newtons vertically.
 
-가. 문걸쇠장치는 완전닫힘위치와 중간닫힘위치로 구분되는 구조일 것
+2. For sliding doors (excluding light-class vehicle doors):
 
-나. 문걸쇠장치는 완전닫힘위치에서 문걸쇠장치면에 수직인 방향으로 11,000뉴턴의 하중과 문걸쇠장치면에 나란하면서 열리는 방향으로 9,000뉴턴의 하중에 각각 견디는 구조일 것
+a. The door latch shall have a fully latched position and a secondary latched position.
 
-다. 문걸쇠장치는 완전닫힘위치에서 자동차길이방향과 자동차너비방향으로 중력가속도의 30배에 해당하는 관성하중을 가할 때에 완전닫힘위치를 유지할 수 있는 구조일 것
+b. The door latch shall, in the fully latched position, withstand 11,000 newtons perpendicular to the latch face and 9,000 newtons parallel to the latch face in the opening direction.
 
-라. 문걸쇠장치는 중간닫힘위치에서 문걸쇠장치면에 수직인 방향으로, 문걸쇠장치면에 나란하면서 열리는 방향으로 각각 4,500뉴턴의 하중에 견디는 구조일 것
+c. The door latch shall, in the fully latched position, maintain the fully latched position when an inertial load of 30 times the gravitational acceleration is applied in both the longitudinal and lateral directions.
 
-마. 문이 닫힌 상태에서 문의 양쪽 끝에 있는 승강구의 지지부분에 자동차너비방향으로 각각 9,000뉴턴의 하중을 동시에 가할 때 승강구의 지지부분과 문 사이의 간격이 100밀리미터 이하이고, 각각의 하중부과장치의 너비방향 최종변위가 300밀리미터 이하일 것
+d. The door latch shall, in the secondary latched position, withstand 4,500 newtons each perpendicular to the latch face and parallel to the latch face in the opening direction.
 
-③ 초소형자동차의 옆문 승강구와 뒷문의 문걸쇠장치 및 문경첩장치는 다음 각 호의 기준에 적합해야 한다. <신설 2018. 7. 11., 2022. 10. 26.>
+e. When a lateral load of 9,000 newtons is applied simultaneously to the door support points at both ends of the door while closed, the gap between the door support structure and the door shall be 100 millimetres or less, and the final lateral displacement of each load application device shall be 300 millimetres or less.
 
-1. 문걸쇠장치는 완전닫힘위치를 갖출 것
+③ The door latch and hinge systems of side doors and rear doors in ultra-compact vehicles shall meet the following standards. [Added 2018-07-11, 2022-10-26]
 
-2. 문걸쇠장치는 완전닫힘위치에서 문걸쇠장치면에 수직인 방향으로 8,800뉴턴의 하중과 문걸쇠장치면에 나란하면서 문이 열리는 방향으로 7,200뉴턴의 하중을 각각 견딜 것. 이 경우 뒷문의 문걸쇠장치는 문걸쇠장치면에 수직인 방향과 문걸쇠장치면에 나란하면서 문이 열리는 방향에 수직인 방향으로 7,200뉴턴의 하중에도 견딜 것
+1. The door latch shall have a fully latched position.
 
-3. 문걸쇠장치는 완전닫힘위치에서 자동차길이방향과 자동차너비방향으로 중력가속도의 30배에 해당하는 관성하중을 가할 때에 완전닫힘위치를 유지할 것. 이 경우 뒷문의 문걸쇠장치는 자동차수직방향으로 중력가속도의 30배에 해당하는 관성하중을 가할 때에도 완전닫힘위치를 유지할 것
+2. The door latch shall, in the fully latched position, withstand 8,800 newtons perpendicular to the latch face and 7,200 newtons parallel to the latch face in the opening direction. For rear doors, the latch shall additionally withstand 7,200 newtons in the direction perpendicular to both the above.
 
-4. 문경첩장치는 8,800뉴턴의 자동차길이방향의 하중과 7,200뉴턴의 자동차너비방향의 하중에 견딜 것. 이 경우 뒷문의 문경첩장치는 7,200뉴턴의 자동차수직방향의 하중에도 견딜 것
+3. The door latch shall, in the fully latched position, maintain the fully latched position when an inertial load of 30 times the gravitational acceleration is applied in both the longitudinal and lateral directions. For rear doors, the latch shall additionally maintain the fully latched position under such a load in the vertical direction.
 
-5. 문이 완전닫힘위치에서 문의 중심 또는 착석기준점과 같은 높이 지점이거나 수직으로 500밀리미터 이하의 지점에 2,000뉴턴의 자동차너비방향 하중에도 견딜 것. 이 경우 자동차 바같쪽 변형은 허용된다.
+4. The door hinge shall withstand 8,800 newtons longitudinally and 7,200 newtons laterally. For rear doors, hinges shall additionally withstand 7,200 newtons vertically.
+
+5. The door shall, in the fully latched position, withstand a lateral load of 2,000 newtons applied at the centre of the door or at the height of the seating reference point or at a point up to 500 millimetres vertically from that height. Exterior deformation of the vehicle is permitted in this case.

@@ -7,22 +7,24 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 90 — 제90조(제동장치)
-translation_status: untranslated
+title: KMVSS Article 90 — Braking Performance
+translation_status: translated
 ---
 
-제90조(제동장치)   자동차의 제동능력은 다음 각 호의 기준에 적합하여야 한다. 다만, 피견인자동차는 공기식(공기배력유압식을 포함한다) 주제동장치를 설치한 경우에 한한다. <개정 2006. 4. 14., 2018. 7. 11., 2019. 12. 31., 2024. 11. 29.>
+## Article 90 — Braking Performance
 
-1. 승용자동차의 제동능력은 별표 7의 기준에 적합할 것. 다만, 초소형승용자동차의 제동능력은 별표 51의 기준에 적합할 것
+The braking performance of motor vehicles shall meet the following standards. However, this applies to towed vehicles only where an air-type service brake (including air-over-hydraulic type) is installed: [Amended 2006-04-14, 2018-07-11, 2019-12-31, 2024-11-29]
 
-2. 승합자동차ㆍ화물자동차(피견인자동차를 제외한다) 및 특수자동차의 제동능력은 별표 7의2의 기준에 적합할 것. 다만, 초소형화물자동차 및 초소형특수자동차의 제동능력은 별표 51의 기준에 적합할 것
+1. The braking performance of passenger cars shall meet the standards in Attached Table 7. However, the braking performance of ultra-compact passenger cars shall meet the standards in Attached Table 51.
 
-3. 피견인자동차의 제동능력은 별표 7의3의 기준에 적합할 것
+2. The braking performance of vans, trucks (excluding towed vehicles), and special-purpose vehicles shall meet the standards in Attached Table 7-2. However, the braking performance of ultra-compact trucks and ultra-compact special-purpose vehicles shall meet the standards in Attached Table 51.
 
-4. 바퀴잠김방지식 주제동장치를 설치한 자동차(피견인자동차를 제외한다)의 제동능력은 별표 7의4의 기준에 적합할 것. 다만, 초소형자동차의 제동능력은 별표 51의 기준에 적합해야 한다.
+3. The braking performance of towed vehicles shall meet the standards in Attached Table 7-3.
 
-5. 바퀴잠김방지식 주제동장치를 설치한 피견인자동차의 제동능력은 별표 7의5의 기준에 적합할 것
+4. The braking performance of vehicles equipped with ABS (excluding towed vehicles) shall meet the standards in Attached Table 7-4. However, the braking performance of ultra-compact vehicles shall meet the standards in Attached Table 51.
 
-6. 공기식(공기배력유압식을 포함한다) 주제동장치를 설치한 연결자동차의 선회시 제동능력은 별표 7의6의 기준에 적합할 것. 다만, 최고속도가 시속 60킬로미터 이하인 풀트레일러 형식의 연결자동차와 제2호 또는 제3호의 기준에 적합한 자동차를 제외한다.
+5. The braking performance of towed vehicles equipped with ABS shall meet the standards in Attached Table 7-5.
 
-[전문개정 2003. 2. 25.]
+6. The cornering braking performance of articulated vehicles equipped with air-type service brakes (including air-over-hydraulic type) shall meet the standards in Attached Table 7-6. However, this excludes full-trailer type articulated vehicles with a maximum speed of 60 km/h or less and vehicles meeting the standards in items 2 or 3.
+
+[Fully amended 2003-02-25]

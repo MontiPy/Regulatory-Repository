@@ -7,24 +7,26 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 27-2 — 제27조의2(어린이보호용 좌석부착장치)
-translation_status: untranslated
+title: KMVSS Article 27-2 — Child Restraint System Anchorages
+translation_status: translated
 ---
 
-제27조의2(어린이보호용 좌석부착장치)   승용자동차(초소형승용자동차는 제외한다)에는 다음 각 호의 기준에 적합하게 어린이보호용 좌석부착장치를 설치해야 한다. 다만, 승객좌석이 1열뿐인 경우에는 그렇지 않다. <개정 2008. 12. 8., 2018. 7. 11., 2021. 8. 27.>
+## Article 27-2 — Child Restraint System Anchorages
 
-1. 어린이보호용 좌석부착장치는 2곳 이상의 좌석에 설치하되, 최소한 1곳은 제2열 좌석에 설치하여야 한다.
+Passenger cars (excluding ultra-compact passenger cars) shall be equipped with child restraint system anchorages meeting the following standards. However, this does not apply where there is only one row of passenger seats: [Amended 2008-12-08, 2018-07-11, 2021-08-27]
 
-2. 어린이보호용 좌석부착장치는 다른 도구가 없이도 사용이 가능한 구조이어야 한다.
+1. Child restraint system anchorages shall be installed at two or more seats, with at least one installed in the second row.
 
-3. 어린이보호용 좌석부착장치의 설치 여부 및 설치위치를 쉽게 알아볼 수 있는 곳에 이를 표시해야 한다. 다만, 설치 여부를 맨눈으로 확인할 수 있는 상부부착구 및 부착구의 중심을 통과하는 자동차길이방향의 수평선으로부터 위로 30도의 방향에서 설치 여부를 확인할 수 있는 하부부착구의 경우에는 그렇지 않다.
+2. The child restraint system anchorages shall be usable without additional tools.
 
-4. 부착구를 통하여 차실 안으로 배기가스가 유입되지 아니하도록 하여야 한다.
+3. The presence and location of child restraint system anchorages shall be marked in a location that is easily visible. However, this does not apply to upper anchorages that can be verified visually with the naked eye, or to lower anchorages whose presence can be verified at an angle of 30 degrees above the horizontal line through the centre of the anchorage in the vehicle's longitudinal direction.
 
-5. 하부의 부착장치는 착석기준점으로부터 뒤쪽으로 120밀리미터 이상 떨어진 위치에 설치하여야 한다.
+4. Exhaust gases shall not be able to enter the passenger compartment through the anchorages.
 
-6. 좌석부착장치가 제1열에 설치되고 그 전면에 에어백이 장착된 경우에는 에어백 작동을 중지할 수 있는 장치를 설치하여야 한다.
+5. The lower anchorages shall be installed at least 120 mm rearward from the seating reference point.
 
-7. 별표 5의4의 설치기준에 적합하게 상부부착구 1개와 하부부착구 2개를 설치하여야 한다. 다만, 컨버터블자동차의 경우에는 상부부착구를 설치하지 아니할 수 있으나, 상부부착구를 설치하는 경우에는 설치기준에 적합하게 설치하여야 한다.
+6. Where the anchorage is installed in the first row and an airbag is installed in front of it, a device to deactivate the airbag shall be provided.
 
-[본조신설 2008. 1. 14.]
+7. One upper anchorage and two lower anchorages shall be installed in accordance with the installation standards in Attached Table 5-4. However, for convertible vehicles, the upper anchorage need not be installed; where an upper anchorage is installed, it shall comply with the installation standards.
+
+[Added 2008-01-14]

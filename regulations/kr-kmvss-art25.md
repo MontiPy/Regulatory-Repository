@@ -13,8 +13,8 @@ systems:
 - Restraints
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 25 — 제25조(승객좌석의 규격 등)
-translation_status: untranslated
+title: KMVSS Article 25 — Passenger Seat Dimensions
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,30 +22,32 @@ vehicle_categories:
 - Bus
 ---
 
-제25조(승객좌석의 규격 등)   ① 자동차(어린이운송용 승합자동차는 제외한다)의 승객좌석 규격은 다음 각 호의 기준에 적합하여야 한다. 다만, 구급자동차ㆍ소방자동차 및 특수구조의 자동차등 국토교통부장관이 해당 자동차의 제작목적상 좌석의 설치가 곤란하다고 인정하는 자동차의 경우에는 그러하지 아니하다. <개정 1995. 7. 21., 2008. 3. 14., 2012. 8. 31., 2013. 3. 23., 2017. 1. 9., 2017. 11. 14., 2019. 3. 21.>
+## Article 25 — Passenger Seat Dimensions
 
-1. 승용자동차의 경우에는 별표 5의32 제2호에 따른 5퍼센트 성인여자 인체모형이 착석 가능할 것
+① The dimensions of passenger seats in motor vehicles (excluding school vans for children) shall comply with the following standards. However, this does not apply to vehicles such as ambulances, fire trucks, and specially structured vehicles that the Minister of Land, Infrastructure and Transport recognises as making seat installation impractical due to the vehicle's purpose of manufacture: [Amended 1995-07-21, 2008-03-14, 2012-08-31, 2013-03-23, 2017-01-09, 2017-11-14, 2019-03-21]
 
-2. 승합ㆍ화물ㆍ특수자동차의 경우에는 가로ㆍ세로 각각 40센티미터(23인승 이하의 승합자동차와 좌석의 수 보다 입석의 수가 많은 23인승을 초과하는 승합자동차의 좌석의 세로는 35센티미터) 이상일 것
+1. For passenger cars: a 5th percentile adult female anthropomorphic test device as specified in Attached Table 5-32, item 2, shall be capable of sitting.
 
-3. 승합ㆍ화물ㆍ특수자동차의 경우에는 앞좌석등받이의 뒷면과 뒷좌석등받이의 앞면간의 거리는 65센티미터(승합자동차에 설치되는 마주보는 좌석등받이의 앞면 간의 거리는 130센티미터) 이상일 것
+2. For vans, trucks, and special-purpose vehicles: each seat shall be at least 40 cm wide and 40 cm deep (for vans with 23 or fewer passengers and for vans with more than 23 passengers where the number of standing passengers exceeds the number of seated passengers, the seat depth shall be at least 35 cm).
 
-② 어린이운송용 승합자동차의 좌석 규격 및 좌석간 거리는 다음 각 호의 기준에 적합해야 한다. <개정 2019. 3. 21.>
+3. For vans, trucks, and special-purpose vehicles: the distance between the rear face of the front seatback and the front face of the rear seatback shall be at least 65 cm (for face-to-face seats in vans, the distance between the front faces of the opposing seatbacks shall be at least 130 cm).
 
-1. 좌석 규격: 별표 5의32 제2호에 따른 5퍼센트 성인여자 인체모형이 착석할 수 있도록 하되, 좌석 등받이(머리지지대를 포함한다)의 높이는 71센티미터 이상일 것
+② The seat dimensions and seat spacing in school vans for children shall comply with the following standards: [Amended 2019-03-21]
 
-2. 좌석간 거리: 앞좌석등받이의 뒷면으로부터 뒷좌석등받이의 앞면까지의 거리는 별표 5의32 제2호에 따른 5퍼센트 성인여자 인체모형이 착석할 수 있는 거리 이상일 것
+1. Seat dimensions: a 5th percentile adult female anthropomorphic test device as specified in Attached Table 5-32, item 2, shall be capable of sitting, and the height of the seatback (including the head restraint) shall be at least 71 cm.
 
-③승합자동차(15인승 이하의 승합자동차 및 어린이운송용 승합자동차를 제외한다)의 승객좌석의 높이는 40센티미터 이상 50센티미터 이하이어야 한다. 다만, 자동차의 원동기부분 및 바퀴부분의 좌석등 그 구조상 40센티미터 이상 50센티미터 이하로 좌석을 설치하기가 곤란한 부분의 좌석을 제외한다. <개정 2012. 8. 31., 2019. 3. 21.>
+2. Seat spacing: the distance from the rear face of the front seatback to the front face of the rear seatback shall be sufficient for a 5th percentile adult female anthropomorphic test device as specified in Attached Table 5-32, item 2, to sit.
 
-④승용자동차의 경우에는 제1열좌석(운전석을 포함한다) 외의 좌석에는 공구를 사용하지 아니하고도 탈부착이 가능한 좌석을 설치할 수 있다. 다만, 탈부착으로 인하여 「자동차관리법」 제3조의 규정에 의한 자동차의 종별 구분이 변경되어서는 아니된다. <신설 2005. 8. 10.>
+③ The height of passenger seats in vans (excluding vans with 15 or fewer passengers and school vans for children) shall be at least 40 cm and no more than 50 cm. However, this does not apply to seats where it is structurally impractical to install seats at a height of 40 to 50 cm, such as seats over the engine or wheel housing. [Amended 2012-08-31, 2019-03-21]
 
-⑤ 자동차에는 옆면을 향한 좌석을 설치해서는 안 된다. 다만, 다음 각 호의 자동차는 제외한다. <개정 2020. 12. 24.>
+④ For passenger cars, seats other than the first row (including the driver's seat) may be removable and reattachable without tools. However, removal and reattachment shall not change the vehicle category classification under Article 3 of the Motor Vehicle Management Act. [Added 2005-08-10]
 
-1. 승차정원이 16인 이상인 승합자동차
+⑤ Sideways-facing seats shall not be installed in motor vehicles. However, the following vehicles are exempt: [Amended 2020-12-24]
 
-2. 긴급자동차
+1. Vans with a passenger capacity of 16 or more
 
-3. 제27조제1항 단서에 따라 좌석안전띠를 설치하지 않는 자동차
+2. Emergency vehicles
 
-[제목개정 2019. 3. 21.]
+3. Vehicles not required to install seat belts under the proviso to Article 27(1)
+
+[Title amended 2019-03-21]

@@ -12,8 +12,8 @@ systems:
 - Braking
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 30 — 제30조(비상탈출장치)
-translation_status: untranslated
+title: KMVSS Article 30 — Emergency Exits
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,6 +22,8 @@ vehicle_categories:
 - Motorcycle
 ---
 
-제30조(비상탈출장치)   승차정원 16인 이상의 승합자동차에는 별표 5의31에 적합한 비상탈출장치를 설치해야 한다. <개정 2020. 12. 24.>
+## Article 30 — Emergency Exits
 
-[전문개정 2017. 1. 9.]
+Vans with a passenger capacity of 16 or more shall be equipped with emergency exits meeting the standards in Attached Table 5-31. [Amended 2020-12-24]
+
+[Fully amended 2017-01-09]

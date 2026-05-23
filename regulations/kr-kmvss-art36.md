@@ -7,8 +7,10 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 36 — 제36조(배기가스발산방지장치)
-translation_status: untranslated
+title: KMVSS Article 36 — Exhaust Emission Control
+translation_status: translated
 ---
 
-제36조(배기가스발산방지장치)   자동차의 배기가스발산방지장치는 「대기환경보전법」 제46조에 따른 배출허용기준에 적합하여야 한다. <개정 2005. 8. 10., 2010. 3. 29.>
+## Article 36 — Exhaust Emission Control
+
+The exhaust emission control equipment of a motor vehicle shall meet the emission limits specified under Article 46 of the Clean Air Conservation Act. [Amended 2005-08-10, 2010-03-29]

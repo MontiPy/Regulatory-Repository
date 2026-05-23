@@ -7,10 +7,12 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 91 — 제91조(충돌 시의 인화성액체연료장치 안전성)
-translation_status: untranslated
+title: KMVSS Article 91 — Fuel System Crash Safety for Flammable Liquid Fuel Vehicles
+translation_status: translated
 ---
 
-제91조(충돌 시의 인화성액체연료장치 안전성)   인화성액체를 연료로 사용하는 승용자동차, 차량총중량 4.5톤 이하인 승합자동차 및 차량총중량 3.5톤 이하인 화물자동차의 연료장치는 별표 10의 인화성액체자동차의 연료장치 충돌시험기준에 적합해야 한다.
+## Article 91 — Fuel System Crash Safety for Flammable Liquid Fuel Vehicles
 
-[전문개정 2022. 10. 26.]
+The fuel systems of passenger cars, vans with a gross vehicle weight of 4.5 tonnes or less, and trucks with a gross vehicle weight of 3.5 tonnes or less that use flammable liquid fuel shall meet the fuel system crash test standards for flammable liquid fuel vehicles in Attached Table 10.
+
+[Fully amended 2022-10-26]

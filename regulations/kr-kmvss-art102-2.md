@@ -7,20 +7,22 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 102-2 — 제102조의2(보행자 보호)
-translation_status: untranslated
+title: KMVSS Article 102-2 — Pedestrian Protection
+translation_status: translated
 ---
 
-제102조의2(보행자 보호)   승용자동차, 차량총중량 4.5톤 이하의 승합자동차, 화물자동차 및 특수자동차는 다음 각 호에 적합한 구조이어야 한다. 다만, 초소형자동차와 자동차의 앞바퀴 중심축에서 운전자 좌석의 착석기준점까지의 거리가 1천1백밀리미터 이하인 승합자동차, 화물자동차 및 특수자동차는 제외한다. <개정 2011. 10. 6., 2018. 7. 11.>
+## Article 102-2 — Pedestrian Protection
 
-1. 보행자머리모형을 자동차길이방향의 수평선으로부터 아래방향(성인머리모형의 경우 65도, 어린이머리모형의 경우 50도의 각도를 말한다)으로 시속 35킬로미터의 속도로 보행자머리모형충격부위에 충돌시킬 때 별표 14의6의 보행자머리모형 상해기준에 적합할 것
+Passenger cars, vans with a gross vehicle weight of 4.5 tonnes or less, trucks, and special-purpose vehicles shall be constructed to meet the following requirements. However, ultra-compact vehicles and vans, trucks, and special-purpose vehicles in which the distance from the front axle centre to the driver's seating reference point is 1,100 millimetres or less are excluded. [Amended 2011-10-06, 2018-07-11]
 
-2. 보행자다리모형을 다음 각 목의 구분에 따라 보행자다리충격부위에 충돌시킬 때 별표 14의6의 보행자다리모형 상해기준에 적합할 것
+1. When a pedestrian head form is impacted against the pedestrian head impact zone at a speed of 35 km/h downward from the horizontal line along the vehicle's longitudinal axis (at an angle of 65 degrees for the adult head form and 50 degrees for the child head form), the result shall meet the pedestrian head form injury criteria in Attached Table 14-6.
 
-가. 범퍼하부기준선높이가 지면에서 425밀리미터 미만인 경우: 보행자하부다리모형을 시속 40킬로미터의 속도로 보행자다리충격부위에 충돌
+2. When a pedestrian leg form is impacted against the pedestrian leg impact zone as specified below, the result shall meet the pedestrian leg form injury criteria in Attached Table 14-6:
 
-나. 범퍼하부기준선높이가 지면에서 425밀리미터 이상 500밀리미터 미만인 경우: 보행자하부다리모형 또는 보행자상부다리모형을 시속 40킬로미터의 속도로 보행자다리충격부위에 충돌
+a. Where the bumper lower reference line height from the ground is less than 425 millimetres: impact with a pedestrian lower leg form at 40 km/h.
 
-다. 범퍼하부기준선높이가 지면에서 500밀리미터 이상인 경우: 보행자상부다리모형을 시속 40킬로미터의 속도로 보행자다리충격부위에 충돌
+b. Where the bumper lower reference line height from the ground is 425 millimetres or more but less than 500 millimetres: impact with either a pedestrian lower leg form or pedestrian upper leg form at 40 km/h.
 
-[본조신설 2008. 12. 8.]
+c. Where the bumper lower reference line height from the ground is 500 millimetres or more: impact with a pedestrian upper leg form at 40 km/h.
+
+[Added 2008-12-08]

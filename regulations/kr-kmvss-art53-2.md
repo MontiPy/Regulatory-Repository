@@ -7,40 +7,42 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 53-2 — 제53조의2(후방보행자 안전장치)
-translation_status: untranslated
+title: KMVSS Article 53-2 — Rear Pedestrian Safety System
+translation_status: translated
 ---
 
-제53조의2(후방보행자 안전장치)   ① 자동차에는 다음 각 호의 어느 하나 이상의 장치를 설치하여야 한다. 다만, 어린이운송용 승합자동차에는 제1호 및 제3호의 장치를 모두 설치해야 한다. <개정 2020. 12. 24., 2021. 10. 25.>
+## Article 53-2 — Rear Pedestrian Safety System
 
-1. 변속장치 조종레버(버튼식을 포함한다)가 후진위치인 경우 자동차의 차량중심선으로부터 ±y 방향으로 각각 1,000밀리미터인 지점에서 x축과 평행한 선을 각각 좌ㆍ우 한 변으로 하고, 자동차 후방 끝에서 차량중심선을 따라 300밀리미터부터 2,300밀리미터까지인 지점에서 y축과 평행한 선을 각각 다른 한 변으로 하는 수평면 상의 사각형 영역에 설치된 직경이 89밀리미터이고 높이가 500밀리미터인 관측봉을 볼 수 있는 후방영상장치
+① Motor vehicles shall be equipped with at least one of the following devices. However, school vans for children shall be equipped with both the devices in items 1 and 3: [Amended 2020-12-24, 2021-10-25]
 
-2. 자동차를 후진하는 경우 운전자에게 자동차의 후방에 있는 보행자의 접근상황을 알리는 접근경고음 발생장치
+1. A rear-view image system capable of displaying, when the gear selector lever (including button type) is in the reverse position, an observation rod of 89 mm diameter and 500 mm height placed in the rectangular area on the horizontal plane bounded on the left and right by lines parallel to the x-axis at ±1,000 mm from the vehicle centreline, and on the other two sides by lines parallel to the y-axis at 300 mm to 2,300 mm from the vehicle rear end along the centreline.
 
-3. 보행자에게 자동차가 후진 중임을 알리는 후진경고음 발생장치
+2. An approach warning sound system that alerts the driver to the approach of pedestrians at the rear of the vehicle when reversing.
 
-② 제1항제2호에 따른 접근경고음 발생장치는 다음 각 호의 기준에 적합해야 한다. <신설 2021. 10. 25.>
+3. A reversing warning sound system that alerts pedestrians that the vehicle is reversing.
 
-1. 변속장치 조종레버(버튼식을 포함한다)가 후진위치인 경우 자동차 좌ㆍ우 최외측에서 x축과 평행한 선을 각각 좌ㆍ우 한 변으로 하고, 자동차 후방 끝에서 차량중심선을 따라 250밀리미터부터 1,000밀리미터까지인 지점에서 y축과 평행한 선을 각각 다른 한 변으로 하는 수평면상의 사각형 영역에 있는 직경이 76밀리미터이고 높이가 1,000밀리미터인 감지봉을 감지하여 운전자에게 경고음을 발생시킬 것
+② The approach warning sound system under paragraph ① item 2 shall comply with the following standards: [Added 2021-10-25]
 
-2. 제1호에 따른 경고음은 다음 각 목의 기준에 적합할 것
+1. When the gear selector lever (including button type) is in the reverse position, the system shall detect a sensing rod of 76 mm diameter and 1,000 mm height placed in the rectangular area on the horizontal plane bounded on the left and right by lines parallel to the x-axis at the outermost left and right extremities of the vehicle, and on the other two sides by lines parallel to the y-axis at 250 mm to 1,000 mm from the vehicle rear end along the centreline, and shall generate a warning sound to the driver.
 
-가. 경고음의 발생과 정지가 반복되도록 할 것. 다만, 보행자와 가장 근접한 위치에서는 경고음을 연속하여 발생시킬 수 있다.
+2. The warning sound under item 1 shall comply with the following standards:
 
-나. 차실 안에서 경고음의 크기는 55데시벨(A) 이상으로 하되, 원동기 소음보다 클 것
+a. The warning sound shall alternate between sounding and stopping. However, the warning sound may be continuous when closest to the pedestrian.
 
-③ 제1항제3호에 따른 후진경고음 발생장치는 다음 각 호의 기준에 적합해야 한다. <개정 2020. 12. 24., 2021. 10. 25.>
+b. The warning sound level inside the passenger compartment shall be at least 55 dB(A) and greater than the engine noise.
 
-1. 경고음은 발생과 정지가 반복되도록 하고, 같은 음색의 소리를 일정한 간격으로 발생시킬 것
+③ The reversing warning sound system under paragraph ① item 3 shall comply with the following standards: [Amended 2020-12-24, 2021-10-25]
 
-2. 경고음의 크기는 자동차 후방 끝으로부터 2미터 떨어진 위치에서 측정하였을 때 다음 각 목의 기준에 적합할 것
+1. The warning sound shall alternate between sounding and stopping, and shall produce sounds of uniform tone at regular intervals.
 
-가. 승용자동차와 승합자동차 및 경형ㆍ소형의 화물ㆍ특수자동차는 60데시벨(A) 이상 85데시벨(A) 이하일 것
+2. The warning sound level measured at 2 metres from the vehicle rear end shall meet the following standards:
 
-나. 가목 외의 자동차는 65데시벨(A) 이상 90데시벨(A) 이하일 것
+a. Passenger cars, vans, and light-class and small trucks and special-purpose vehicles: 60 dB(A) or more and 85 dB(A) or less.
 
-3. 경고음의 음색은 1/3옥타브 중심주파수대역이 500헤르츠 이상 4,000헤르츠 이하인 구간에서 가장 큰 소리를 낼 것
+b. Other vehicles: 65 dB(A) or more and 90 dB(A) or less.
 
-4. 경고음의 발생 횟수는 매분 40회 이상 100회 이하일 것
+3. The warning sound shall be loudest in the 1/3-octave centre frequency band between 500 Hz and 4,000 Hz.
 
-[전문개정 2018. 7. 11.]
+4. The frequency of the warning sound shall be 40 to 100 times per minute.
+
+[Fully amended 2018-07-11]

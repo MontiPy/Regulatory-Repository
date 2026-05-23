@@ -7,10 +7,12 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 21 — 제21조(후드걸쇠장치)
-translation_status: untranslated
+title: KMVSS Article 21 — Hood Latch
+translation_status: translated
 ---
 
-제21조(후드걸쇠장치)   자동차의 후드에는 견고한 후드걸쇠장치를 설치하여야 하며, 앞 방향으로 개폐되는 후드가 운행 중에 열릴 경우 운전자의 시야를 방해할 수 있는 구조의 자동차는 2차 잠금 또는 2개소 잠금이 가능한 구조이어야 한다.
+## Article 21 — Hood Latch
 
-[전문개정 2010. 3. 29.]
+Motor vehicles shall be equipped with a secure hood latch. Where a forward-opening hood could obstruct the driver's view if it opens while driving, the latch shall be capable of secondary locking or locking at two points.
+
+[Fully amended 2010-03-29]

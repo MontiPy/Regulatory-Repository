@@ -7,14 +7,16 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 53 — 제53조(경음기)
-translation_status: untranslated
+title: KMVSS Article 53 — Horn
+translation_status: translated
 ---
 
-제53조(경음기)   자동차의 경음기는 다음 각 호의 기준에 적합해야 한다.
+## Article 53 — Horn
 
-1. 일정한 크기의 경적음을 동일한 음색으로 연속하여 낼 것
+The horn of a motor vehicle shall comply with the following standards:
 
-2. 자동차 전방으로 2미터 떨어진 지점으로서 지상높이가 1.2±0.05미터인 지점에서 측정한 경적음의 최소크기가 최소 90데시벨(C) 이상일 것
+1. It shall produce a steady sound of constant volume with a uniform tone continuously.
 
-[전문개정 2020. 12. 24.]
+2. The minimum sound level measured at a point 2 metres in front of the vehicle at a height of 1.2 ± 0.05 metres from the ground shall be at least 90 dB(C).
+
+[Fully amended 2020-12-24]

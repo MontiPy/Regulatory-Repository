@@ -7,44 +7,46 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 14 — 제14조(조향장치)
-translation_status: untranslated
+title: KMVSS Article 14 — Steering System
+translation_status: translated
 ---
 
-제14조(조향장치)   ①자동차의 조향장치의 구조는 다음 각 호의 기준에 적합해야 한다. <개정 2003. 2. 25., 2010. 11. 10., 2021. 8. 27.>
+## Article 14 — Steering System
 
-1. 조향장치의 각부는 조작시에 차대 및 차체등 자동차의 다른 부분과 접촉되지 아니하고, 갈라지거나 금이 가고 파손되는 등의 손상이 없으며, 작동에 이상이 없을 것
+① The structure of a motor vehicle's steering system shall comply with the following standards: [Amended 2003-02-25, 2010-11-10, 2021-08-27]
 
-2. 조향장치는 조작시에 운전자의 옷이나 장신구등에 걸리지 아니할 것
+1. All parts of the steering system shall not come into contact with the frame, body, or other parts of the vehicle during operation, and shall be free from damage such as cracking, splitting, or breakage, and shall operate without abnormality.
 
-3. 다음 각 목의 자동차 구분에 따른 해당 속도로 반지름 50미터의 곡선에 접하여 주행할 때 자동차의 선회원(旋回圓)이 동일하거나 더 커지는 구조일 것
+2. The steering system shall not catch on the driver's clothing or accessories during operation.
 
-가. 승용자동차: 시속 50킬로미터
+3. The structure shall be such that the turning circle of the vehicle does not decrease (i.e., remains the same or becomes larger) when travelling tangentially along a curve of radius 50 metres at the following speeds according to vehicle category:
 
-나. 승용자동차 외의 자동차: 시속 40킬로미터(최고속도가 시속 40킬로미터 미만인 경우에는 해당 자동차의 최고속도)
+a. Passenger cars: 50 km/h
 
-4. 자동차를 최고속도(연결자동차의 경우에는 견인자동차의 최고속도를 말한다)까지 주행하는 동안 조향핸들이 비정상적으로 조작되거나 조향장치가 비정상적으로 진동되지 아니하고 직진 주행이 가능할 것. 다만, 제10호가목에 따른 조향장치에 의한 진동은 제외한다.
+b. Other vehicles: 40 km/h (or the vehicle's maximum speed if less than 40 km/h)
 
-5. 자동차(연결자동차를 포함한다)가 정상적인 주행을 하는 동안 발생되는 응력(변형력)에 견딜 것
+4. During travel up to maximum speed (the towing vehicle's maximum speed in the case of articulated vehicles), straight-line travel shall be possible without abnormal steering wheel operation or abnormal steering system vibration. However, vibration intentionally induced by the steering system under item 10(a) is excluded.
 
-6. 조향장치(피견인자동차를 조향하는 제어장치를 포함한다)는 자기장이나 전기장에 의하여 작동에 영향을 받지 아니할 것
+5. The system shall withstand the stresses (deformation forces) generated during normal vehicle operation (including articulated vehicles).
 
-7. 조향장치의 결합구조를 조절하는 장치는 잠금장치에 의하여 고정되도록 할 것
+6. The steering system (including any device controlling the steering of a towed vehicle) shall not be affected in its operation by magnetic or electric fields.
 
-8. 조향바퀴는 뒷바퀴에만 있어서는 아니 될 것. 다만, 세미트레일러는 그러하지 아니하다.
+7. Devices that adjust the coupling structure of the steering system shall be secured by a locking device.
 
-9. 조향장치 중 기계적인 강성이 필요한 모든 관련 부품은 제동장치 등과 같은 필수부품과 동등한 안전특성으로 충분한 크기를 갖추어야 하고, 그 부품의 고장으로 자동차를 조종하지 못할 것으로 우려되는 부품은 금속 또는 이와 동등한 특성을 갖는 재질로 제작되어야 하며, 정상적인 작동 중일 때에는 해당 부품에 심각한 변형이 발생하지 아니할 것
+8. Steering wheels shall not be fitted only at the rear wheels. However, this does not apply to semi-trailers.
 
-10. 조향장치의 기능을 저해시키는 고장(기계적인 부품의 고장은 제외한다)이 발생한 경우에는 운전자가 고장을 명백하게 확인할 수 있는 경고장치를 갖출 것. 다만, 다음 각 목의 어느 하나에 해당하는 경우에는 경고장치를 갖춘 것으로 본다.
+9. All mechanical components of the steering system requiring structural rigidity shall be of sufficient size with safety characteristics equivalent to essential components such as the braking system. Components whose failure would raise concern about loss of steering control shall be made of metal or a material with equivalent characteristics, and no significant deformation shall occur in these components during normal operation.
 
-가. 고장 시 조향장치에 의도적으로 진동을 발생시키도록 하는 구조인 경우
+10. Where a failure that impairs steering function (excluding mechanical component failure) occurs, a warning device shall be provided to allow the driver to clearly identify the failure. However, the following are deemed to satisfy this requirement:
 
-나. 고장 시 자동차(피견인자동차는 제외한다)의 조향조종력이 증가되는 구조인 경우
+a. A structure that intentionally causes vibration in the steering system upon failure
 
-다. 피견인자동차의 경우 고장 시 기계적인 표시기를 갖춘 구조인 경우
+b. A structure that increases the steering force of the vehicle (excluding towed vehicles) upon failure
 
-② 삭제 <2003. 2. 25.>
+c. In the case of towed vehicles, a structure that provides a mechanical indicator upon failure
 
-③조향핸들의 유격(조향바퀴가 움직이기 직전까지 조향핸들이 움직인 거리를 말한다)은 당해 자동차의 조향핸들지름의 12.5퍼센트이내이어야 한다.
+② (Deleted) [2003-02-25]
 
-④조향바퀴의 옆으로 미끄러짐이 1미터 주행에 좌우방향으로 각각 5밀리미터 이내이어야 하며, 각 바퀴의 정렬상태가 안전운행에 지장이 없어야 한다.
+③ The free play of the steering wheel (the distance the steering wheel moves before the steering wheels begin to move) shall be within 12.5% of the steering wheel diameter.
+
+④ The lateral slip of the steering wheels shall be within 5 mm per metre of travel in each direction (left and right), and the alignment of each wheel shall not adversely affect safe operation.

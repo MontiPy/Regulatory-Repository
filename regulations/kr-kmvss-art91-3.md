@@ -7,16 +7,18 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 91-3 — 제91조의3(충돌 시의 고전원전기장치 안전성)
-translation_status: untranslated
+title: KMVSS Article 91-3 — High-Voltage Electrical System Crash Safety
+translation_status: translated
 ---
 
-제91조의3(충돌 시의 고전원전기장치 안전성)   하이브리드자동차, 전기자동차 및 연료전지자동차로서 다음 각 호의 어느 하나에 해당하는 자동차는 별표 11의4의 고전원전기장치의 충돌시험기준에 적합해야 한다.
+## Article 91-3 — High-Voltage Electrical System Crash Safety
 
-1. 승용자동차
+Hybrid vehicles, electric vehicles, and fuel cell vehicles that fall into any of the following categories shall meet the crash test standards for high-voltage electrical systems in Attached Table 11-4:
 
-2. 차량총중량 4.5톤 이하인 승합자동차
+1. Passenger cars
 
-3. 차량총중량 3.5톤 이하인 화물자동차
+2. Vans with a gross vehicle weight of 4.5 tonnes or less
 
-[본조신설 2022. 10. 26.]
+3. Trucks with a gross vehicle weight of 3.5 tonnes or less
+
+[Added 2022-10-26]

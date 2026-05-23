@@ -10,8 +10,8 @@ status: in-force
 systems: []
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 4 — 제4조(길이ㆍ너비 및 높이)
-translation_status: untranslated
+title: KMVSS Article 4 — Length, Width, and Height
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -20,20 +20,22 @@ vehicle_categories:
 - Motorcycle
 ---
 
-제4조(길이ㆍ너비 및 높이)   ①자동차의 길이ㆍ너비 및 높이는 다음의 기준을 초과하여서는 아니된다. <개정 1997. 1. 17., 2017. 1. 9., 2020. 12. 1.>
+## Article 4 — Length, Width, and Height
 
-1. 길이 : 13미터(연결자동차의 경우에는 16.7미터를 말한다)
+① The length, width, and height of a motor vehicle shall not exceed the following standards. [Amended 1997-01-17, 2017-01-09, 2020-12-01]
 
-2. 너비 : 2.5미터[간접시계장치ㆍ환기장치 또는 밖으로 열리는 창의 경우 이들 장치의 너비는 「자동차관리법」 제3조제1항제1호에 따른 승용자동차(이하 “승용자동차”라 한다)에 있어서는 25센티미터, 기타의 자동차에 있어서는 30센티미터. 다만, 피견인자동차의 너비가 견인자동차의 너비보다 넓은 경우 그 견인자동차의 간접시계장치에 한하여 피견인자동차의 가장 바깥쪽으로 10센티미터를 초과할 수 없다]
+1. Length: 13 meters (16.7 meters for articulated vehicles)
 
-3. 높이 : 4미터
+2. Width: 2.5 meters [For indirect vision devices, ventilation systems, or outward-opening windows, the width of such devices shall not exceed 25 centimeters for passenger cars as defined under Article 3(1)(1) of the Motor Vehicle Management Act (hereinafter “passenger car”), and 30 centimeters for other vehicles. However, where the width of a towed vehicle exceeds that of the towing vehicle, the indirect vision device of the towing vehicle shall not extend more than 10 centimeters beyond the outermost edge of the towed vehicle]
 
-② 제1항에 따라 자동차의 길이ㆍ너비 및 높이를 측정할 때 다음 각 호의 기준에 따라야 한다. <개정 2018. 12. 31.>
+3. Height: 4 meters
 
-1. 공차상태일 것
+② When measuring the length, width, and height of a motor vehicle pursuant to paragraph ①, the following standards shall apply. [Amended 2018-12-31]
 
-2. 직진상태에서 수평면에 있는 상태일 것
+1. The vehicle shall be in an unloaded condition
 
-3. 차체 밖에 부착하는 간접시계장치, 안테나, 밖으로 열리는 창, 긴급자동차의 경광등 및 환기장치 등의 바깥 돌출부분은 이를 제거하거나 닫은 상태일 것
+2. The vehicle shall be in a straight-ahead position on a horizontal surface
 
-4. 적재 물품을 고정하기 위한 장치 등 국토교통부장관이 고시하는 항목은 측정대상에서 제외할 것
+3. Projecting exterior attachments including indirect vision devices, antennas, outward-opening windows, emergency vehicle warning lights, and ventilation systems shall be removed or folded
+
+4. Items designated by the Minister of Land, Infrastructure and Transport for exclusion from measurement, such as cargo securing devices, shall be excluded from the measurement

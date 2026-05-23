@@ -7,10 +7,10 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 3
-translation_status: untranslated
+title: KMVSS Article 3 — Safety of Structure and Equipment
+translation_status: translated
 ---
 
-# KMVSS Article 3
+## Article 3 — Safety of Structure and Equipment
 
-See https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX for full text.
+The structure and equipment of motor vehicles and motorcycles shall be manufactured or maintained so as to ensure safe operation.

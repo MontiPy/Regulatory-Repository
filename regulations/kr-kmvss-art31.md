@@ -13,8 +13,8 @@ systems:
 - Tires & wheels
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: KMVSS Article 31 — 제31조(통로)
-translation_status: untranslated
+title: KMVSS Article 31 — Aisles
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -23,6 +23,8 @@ vehicle_categories:
 - Motorcycle
 ---
 
-제31조(통로)   승차정원 16인승 이상의 승합자동차에는 별표 5의29에 따른 통로 측정장치가 통과할 수 있는 통로를 갖추어야 한다. 다만, 승강구를 열고 바로 탑승하도록 좌석이 설치된 구조의 자동차는 제외한다.
+## Article 31 — Aisles
 
-[전문개정 2017. 1. 9.]
+Vans with a passenger capacity of 16 or more shall have an aisle through which the aisle measurement device specified in Attached Table 5-29 can pass. However, this does not apply to vehicles with a structure where seats are arranged so that passengers board directly upon opening the door.
+
+[Fully amended 2017-01-09]

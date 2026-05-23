@@ -7,10 +7,12 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 89-2 — 제89조의2(차로이탈경고장치)
-translation_status: untranslated
+title: KMVSS Article 89-2 — Lane Departure Warning System Standards
+translation_status: translated
 ---
 
-제89조의2(차로이탈경고장치)   제14조의2에 따라 설치되는 차로이탈경고장치는 국토교통부장관이 정하여 고시하는 기준에 적합해야 한다.
+## Article 89-2 — Lane Departure Warning System Standards
 
-[전문개정 2023. 11. 23.]
+Lane departure warning systems installed under Article 14-2 shall meet the standards determined and published by the Minister of Land, Infrastructure and Transport.
+
+[Fully amended 2023-11-23]

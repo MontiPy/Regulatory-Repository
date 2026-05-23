@@ -7,24 +7,26 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 97 — 제97조(운전자 및 승객좌석의 설치)
-translation_status: untranslated
+title: KMVSS Article 97 — Installation of Driver and Passenger Seats
+translation_status: translated
 ---
 
-제97조(운전자 및 승객좌석의 설치)   ①자동차의 좌석(옆면을 향한 좌석, 접이식보조좌석 및 승합자동차의 승객용 좌석을 제외한다)은 조절이 가능한 어느 위치에 있을 경우에도 제1호 또는 제2호의 힘을 가할 때와 좌석을 가장 뒤쪽에 위치시키고 제3호의 힘을 가할 때에 이에 견디는 견고한 구조이어야 하며, 힘을 가하기 이전의 위치에서 이탈하지 아니하여야 한다. <개정 1995. 7. 21.>
+## Article 97 — Installation of Driver and Passenger Seats
 
-1. 안전띠가 좌석에 부착되지 아니한 경우에는 좌석무게의 20배에 해당하는 앞과 뒤로 가하여지는 자동차길이방향의 힘
+① Seats in motor vehicles (excluding side-facing seats, folding auxiliary seats, and passenger seats in vans) shall be constructed to be sturdy enough to withstand, at any adjustable position, the forces in items 1 or 2 below, and with the seat in its rearmost position, the force in item 3 below; they shall not move from their pre-force position. [Amended 1995-07-21]
 
-2. 안전띠가 좌석에 부착된 경우에는 제1호의 규정에 의한 힘과 제103조제3항의 규정에 의하여 안전띠에 가하여지는 힘을 합산한 힘
+1. Where seat belts are not attached to the seat: a longitudinal force of 20 times the seat weight, applied both forward and rearward.
 
-3. 전방을 향한 좌석의 경우에는 착석기준점에 대한 38킬로그램ㆍ미터의 후방모멘트, 후방을 향한 좌석의 경우에는 착석기준점에 대한 38킬로그램ㆍ미터의 전방모멘트
+2. Where seat belts are attached to the seat: the combined force of the force under item 1 and the force applied to the seat belt under Article 103, paragraph ③.
 
-②경첩식좌석과 접이식좌석(화물 및 특수자동차의 좌석과 승합자동차의 승객용 좌석을 제외한다)에는 좌석과 좌석등받이의 움직임을 방지할 수 있는 잠금장치와 잠금상태를 풀 수 있는 장치를 설치하여야 한다.
+3. For forward-facing seats: a rearward moment of 38 kilogram-metres about the seating reference point; for rearward-facing seats: a forward moment of 38 kilogram-metres about the seating reference point.
 
-③제2항의 규정에 의한 잠금장치는 다음 각호의 힘을 잠금장치에 가할 때에 풀어지지 아니하여야 한다.
+② Hinged seats and folding seats (excluding seats in trucks and special-purpose vehicles and passenger seats in vans) shall be equipped with a locking device that prevents movement of the seat and seat back and a device to release the locked state.
 
-1. 앞쪽을 향한 좌석에 있어서는 좌석이 젖혀지거나 접히는 부분의 중량의 20배에 상당하는 앞으로 가하여지는 자동차길이방향의 힘
+③ The locking devices under paragraph ② shall not release when the following forces are applied to the locking device:
 
-2. 뒷쪽을 향한 좌석에 있어서는 좌석이 젖혀지거나 접히는 부분의 중량의 8배에 상당하는 뒤로 가하여지는 자동차길이방향의 힘
+1. For forward-facing seats: a longitudinal forward force of 20 times the weight of the seat folding or reclining section.
 
-3. 좌석이 젖혀지거나 접히는 방향의 반대쪽으로 가하여지는 중력가속도의 20배에 상당하는 자동차길이방향의 관성하중
+2. For rearward-facing seats: a longitudinal rearward force of 8 times the weight of the seat folding or reclining section.
+
+3. A longitudinal inertial load equal to 20 times the gravitational acceleration applied in the opposite direction of the seat fold or recline direction.

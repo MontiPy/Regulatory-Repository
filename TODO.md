@@ -1,24 +1,8 @@
 # Regulatory Repository — TODO
 
-## ⚠ Pending: Pull + Rebuild Required
-
-The following regions have manifest changes that have **not yet been pulled or reflected in `dist/index.html`**:
-
-- **AU** — manifest expanded from 13 → 90 entries; only 13 `.md` files exist in `regulations/`
-- **US** — 3 new EPA entries added (40 CFR Parts 82, 85, 1066); 0 `.md` files exist for these
-
-To update the HTML:
-1. `python scripts/pull.py --region AU`
-2. `python scripts/pull.py --region US`
-3. `python scripts/build.py`
-
-Or pull all regions at once: `python scripts/pull.py --all && python scripts/build.py`
-
----
-
 ## General TODOs
 
-- [ ] Translate Korean-language content (KMVSS) to English — all regulatory text must be in English for this tool to function correctly
+- [x] Translate Korean-language content (KMVSS) to English — 78 of 79 articles translated (art18-5 skipped: failed connector pull)
 
 ---
 
@@ -40,14 +24,21 @@ adopted by the EU via OJ decisions and have non-standard CELEX IDs (prefix `4`, 
 - [x] **DONE** — `manifests/au.yaml` expanded from 13 to **90 entries** covering all in-force
   ADRs found via the Federal Register of Legislation OData API. The API uses OData filter syntax
   (`$filter=contains(name,'Design Rule')`) — `scripts/lookup_au_instruments.py` has been updated
-  accordingly. ADRs 1–114 (where in-force versions exist) are now included.
+  accordingly. ADRs 1–114 (where in-force versions exist) are now included. 94 `.md` files pulled.
 
 ### US — EPA Emissions Regulations
 - [x] **DONE** — `connectors/ecfr.py` supports an optional `title` field (default `49`).
-  `manifests/us.yaml` already includes:
-  - `{ title: 40, part: 86 }` — EPA light-duty vehicle emission standards (Tier 3)
+  `manifests/us.yaml` includes and all entries have been pulled:
+  - `{ title: 40, part: 82 }` — Protection of stratospheric ozone (SNAP / refrigerant requirements)
+  - `{ title: 40, part: 85 }` — Control of air pollution from mobile sources — emission controls
+  - `{ title: 40, part: 86 }` — Control of air pollution from mobile sources (Tier 3)
   - `{ title: 40, part: 600 }` — Fuel economy and GHG exhaust emissions
+  - `{ title: 40, part: 1066 }` — Vehicle-testing procedures (emission and fuel economy lab testing)
   - `{ title: 47, part: 15 }` — FCC Radio Frequency Devices (Part 15)
+
+### Brazil — CONTRAN / DENATRAN Resolutions
+- [x] **DONE** — Built `connectors/brazil.py` pulling from LexML Brazil. `manifests/br.yaml`
+  covers 32 CONTRAN resolutions. 32 `.md` files pulled.
 
 ---
 
@@ -59,14 +50,17 @@ adopted by the EU via OJ decisions and have non-standard CELEX IDs (prefix `4`, 
 | CMVSS | Canada | `connectors/justice_ca.py` | Justice Laws XML (laws-lois.justice.gc.ca) |
 | KMVSS | Korea | `connectors/law_go_kr.py` | law.go.kr public HTML (API key optional) |
 | ECE/EU | European Union | `connectors/eurlex.py` | EUR-Lex HTML (eur-lex.europa.eu) |
+| UN Regulations | ECE/UNECE | `connectors/unece.py` | UNECE WP.29 (unece.org) |
 | JVSR | Japan | `connectors/egov_jp.py` | e-Gov Law API v1 (laws.e-gov.go.jp) |
 | ADR | Australia | `connectors/au_legislation.py` | Federal Register of Legislation API (legislation.gov.au) |
+| CONTRAN | Brazil | `connectors/brazil.py` | LexML Brazil (lexml.gov.br) |
 
 ---
 
 ## Gap Analysis — vs. `reference/passenger_vehicle_regulatory_reference_repository_v3_cleaned.xlsx`
 
 The reference spreadsheet contains **652 regulations** across 19 market families.
+The repository currently contains **671 regulations** across 12 markets (dist/index.html).
 Counts below are from the *Regulation Index* sheet.
 
 ### Fully covered (connector exists)
@@ -76,11 +70,12 @@ Counts below are from the *Regulation Index* sheet.
 | United States (FMVSS) | FMVSS / United States | 132 | `connectors/ecfr.py` |
 | Canada | CMVSS / Canada | 51 | `connectors/justice_ca.py` |
 | South Korea | KMVSS / South Korea | 69 | `connectors/law_go_kr.py` |
-| Europe / UNECE | ECE / UNECE and EU | 94 | `connectors/eurlex.py` |
+| Europe / UNECE | ECE / UNECE and EU | 94 | `connectors/eurlex.py` + `connectors/unece.py` |
 | Japan | Japan MLIT / Safety Regulations | 52 | `connectors/egov_jp.py` |
 | Australia | ADR / Australia | 64 | `connectors/au_legislation.py` |
+| Brazil | CONTRAN / Brazil | 32 | `connectors/brazil.py` |
 
-**Subtotal covered: ~462 of 652 regulations (~71%)**
+**Subtotal covered: ~494 of 652 regulations (~76%)**
 
 ---
 
@@ -90,10 +85,6 @@ These regulations fall under a covered Market Family but are **not reachable** b
 
 | Regulation ID | Standard Body | Title | Action |
 |---|---|---|---|
-| ~~47 CFR Part 15~~ | United States / FCC | FCC Part 15 — Radio Frequency Devices | ✅ Added to `manifests/us.yaml` |
-| ~~40 CFR Part 85~~ | US EPA | Control of Air Pollution from Mobile Sources | ✅ Added to `manifests/us.yaml` |
-| ~~40 CFR Part 1066~~ | US EPA | Vehicle-Testing Procedures | ✅ Added to `manifests/us.yaml` |
-| ~~40 CFR Part 82~~ | FMVSS / United States / EPA | SNAP Program / Ozone Protection | ✅ Added to `manifests/us.yaml` |
 | Title 13 CCR 1961.4+ | US / California CARB | Advanced Clean Cars II / LEV IV / ZEV | California Code of Regulations — separate source, no connector |
 | California Prop 65 | United States / California | Toxic enforcement warnings | HTML source; no connector |
 | MA Ch. 93K / Acts 2020 | United States / Massachusetts | Right-to-repair telematics | State law; no connector |
@@ -105,7 +96,7 @@ These regulations fall under a covered Market Family but are **not reachable** b
 
 ---
 
-### Fully uncovered regions (no connector, ~190 regulations)
+### Fully uncovered regions (no connector, ~158 regulations)
 
 | Market Family | Standard Body | Count | Notes |
 |---|---|---|---|
@@ -113,8 +104,6 @@ These regulations fall under a covered Market Family but are **not reachable** b
 | GCC / Middle East | GCC member overlay / Saudi Arabia SASO | 1 | |
 | GCC / Middle East | GCC member overlay / UAE MOIAT | 1 | |
 | China | GB / China | 49 | See implementation note below |
-| Brazil | CONTRAN / Brazil | 32 | See implementation note below |
-| Brazil | CONTRAN / Brazil / MOVER | 1 | |
 | ASEAN | Vietnam / VR / BGTVT | 1 | See VSTD note below |
 | ASEAN | Thailand / TISI / DLT | 1 | |
 | ASEAN | Malaysia / JPJ / DOE | 1 | |
@@ -159,20 +148,14 @@ Each item below requires a new manifest (`manifests/<region>.yaml`), a connector
 - Relevant standard: GSSO Technical Regulation for Motor Vehicles
 - Public access: https://www.gso.org.sa — limited free access; some standards require purchase
 - Notes: GCC member states (SA, AE, KW, QA, BH, OM) largely adopt UN/ECE regulations by reference; a thin connector pointing to GSO Circular references may be feasible
-
-### ECE — UNECE World Forum (UN Regulations)
-- Standards body: United Nations Economic Commission for Europe
-- Source: https://unece.org/transport/vehicle-regulations-wp29
-- Public access: Full regulation texts available as HTML/PDF on UNECE site
-- Notes: EU connector pulls EU regulations that *cite* UN Rs, but a dedicated connector
-  targeting UNECE directly (e.g., UN R48, UN R13, UN R94, UN R100) would give proper
-  first-class ECE coverage independent of the EU implementation
+- Current state: 63 stub `.md` files exist in `regulations/`
 
 ### CCC — China Compulsory Certification (GB Standards)
 - Standards body: CNCA / SAC
 - Relevant standards: GB 7258 (motor vehicles), GB/T series
 - Public access: https://openstd.samr.gov.cn — free for some GB standards; many require purchase
 - Notes: Machine-readable API not publicly known; HTML scraping of samr.gov.cn may be needed
+- Current state: 49 stub `.md` files exist in `regulations/`
 
 ### VSTD — Vietnam (QCVN Standards)
 - Standards body: Vietnam Register (VR) / Ministry of Transport
@@ -186,20 +169,13 @@ Each item below requires a new manifest (`manifests/<region>.yaml`), a connector
 - Public access: https://morth.nic.in; https://www.araiindia.com
 - Notes: No public machine-readable API; PDFs available for purchase; CMVR text available
   at https://legislative.gov.in
-
-### INMETRO — Brazil (CONTRAN / DENATRAN)
-- Standards body: DENATRAN / SENATRAN; INMETRO for certification
-- Relevant standards: CONTRAN resolutions (e.g., Resolução 792 on tires, 886 on lighting)
-- Public access: https://www.gov.br/senatran or https://www.lexml.gov.br
-- Notes: LexML Brazil provides structured legal XML; CONTRAN resolutions are accessible
-  at https://www.denatran.gov.br/resolucoes
+- Current state: 3 stub `.md` files exist in `regulations/`
 
 ### Radio Wave / EMC
 - This is a cross-cutting topic, not a single regional framework
 - Key regulations by region:
-  - US: FCC Part 15 (47 CFR §15) — https://www.ecfr.gov (same connector as FMVSS)
+  - US: FCC Part 15 (47 CFR §15) — ✅ pulled via `connectors/ecfr.py`
   - EU: Directive 2014/30/EU (EMC) + UN R10 (vehicle-level EMC)
   - Japan: Radio Law (電波法) via e-Gov — same connector as JVSR
   - KR: Radio Waves Act (전파법) — same connector as KMVSS
-- Notes: US FCC entries can be added to `manifests/us.yaml` using the existing eCFR
-  connector (47 CFR §15); no new connector needed for US EMC
+- Notes: US FCC entries already covered; EU/JP/KR EMC entries can be added to existing manifests

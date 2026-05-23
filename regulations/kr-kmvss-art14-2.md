@@ -7,20 +7,22 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 14-2 — 제14조의2(차로이탈경고장치)
-translation_status: untranslated
+title: KMVSS Article 14-2 — Lane Departure Warning System
+translation_status: translated
 ---
 
-제14조의2(차로이탈경고장치)   승합자동차(경형승합자동차는 제외한다) 및 차량총중량 3.5톤을 초과하는 화물ㆍ특수자동차에는 차로이탈경고장치를 설치하여야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 자동차는 그러하지 아니하다. <개정 2018. 7. 11.>
+## Article 14-2 — Lane Departure Warning System
 
-1. 삭제 <2018. 7. 11.>
+Passenger vehicles (excluding light-class vans) and trucks and special-purpose vehicles with a gross vehicle weight exceeding 3.5 tonnes shall be equipped with a lane departure warning system. However, the following vehicles are exempt: [Amended 2018-07-11]
 
-2. 피견인자동차
+1. (Deleted) [2018-07-11]
 
-3. 「자동차관리법 시행규칙」 별표 1에 따른 덤프형 화물자동차
+2. Towed vehicles
 
-4. 「자동차관리법 시행규칙」 별지 제25호 서식에 따른 자동차제원표에 입석정원이 기재된 자동차
+3. Dump-type trucks as defined in Attached Table 1 of the Enforcement Rules of the Motor Vehicle Management Act
 
-5. 그 밖에 국토교통부장관이 자동차의 구조나 운행여건 등으로 차로이탈경고장치를 설치하기가 곤란하거나 불필요하다고 인정하는 자동차
+4. Vehicles with a standing passenger capacity recorded in the vehicle specification sheet under Attached Form 25 of the Enforcement Rules of the Motor Vehicle Management Act
 
-[본조신설 2017. 1. 9.]
+5. Other vehicles that the Minister of Land, Infrastructure and Transport recognises as impractical or unnecessary to equip with a lane departure warning system due to vehicle structure or operating conditions
+
+[Added 2017-01-09]

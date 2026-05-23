@@ -7,10 +7,12 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 18-2 — 제18조의2(고전원전기장치)
-translation_status: untranslated
+title: KMVSS Article 18-2 — High-Voltage Electrical System
+translation_status: translated
 ---
 
-제18조의2(고전원전기장치)   자동차의 고전원전기장치는 별표 5의 고전원전기장치 절연 안전성 등에 관한 기준에 적합하여야 한다.
+## Article 18-2 — High-Voltage Electrical System
 
-[전문개정 2014. 6. 10.]
+The high-voltage electrical system of a motor vehicle shall comply with the standards for insulation safety of high-voltage electrical systems set out in Attached Table 5.
+
+[Fully amended 2014-06-10]

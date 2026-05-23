@@ -7,24 +7,26 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 24 — 제24조(운전자의 좌석)
-translation_status: untranslated
+title: KMVSS Article 24 — Driver's Seat
+translation_status: translated
 ---
 
-제24조(운전자의 좌석)   ① 운전자의 좌석은 다음 각 호의 기준에 적합하여야 한다.
+## Article 24 — Driver's Seat
 
-1. 운전에 필요한 시야가 확보되고 승객 또는 화물 등에 의하여 운전조작에 방해가 되지 아니하는 구조일 것
+① The driver's seat shall comply with the following standards:
 
-2. 운전자가 제13조제1항에 따른 조종장치의 원활한 조작을 할 수 있는 공간이 확보될 것
+1. The seat shall be structured to ensure the field of view required for driving and shall not be obstructed by passengers or cargo in a way that impairs driving operation.
 
-3. 운전자의 좌석과 조향핸들의 중심과의 과도한 편차로 인하여 운전조작에 불편이 없을 것
+2. Sufficient space shall be provided for the driver to smoothly operate the controls specified in Article 13(1).
 
-② 운전자의 좌석 규격은 다음 각 호의 기준에 적합하여야 한다.
+3. Excessive offset between the driver's seat and the centre of the steering wheel shall not cause inconvenience in driving operation.
 
-1. 승용자동차의 경우에는 별표 5의32 제1호에 따른 50퍼센트 성인남자 인체모형이 착석 가능할 것
+② The dimensions of the driver's seat shall comply with the following standards:
 
-2. 승합ㆍ화물ㆍ특수자동차의 경우에는 가로ㆍ세로 각각 40센터미터(23인승 이하의 승합자동차와 좌석의 수보다 입석의 수가 많은 23인승을 초과하는 승합자동차의 좌석의 세로는 35센터미터) 이상일 것
+1. For passenger cars: a 50th percentile adult male anthropomorphic test device as specified in Attached Table 5-32, item 1, shall be capable of sitting.
 
-③ 승차정원 16인 이상의 승합자동차에 설치하는 운전자의 좌석은 별표 5의28의 기준에 적합하여야 한다.
+2. For vans, trucks, and special-purpose vehicles: the seat shall be at least 40 cm wide and 40 cm deep (for vans with 23 or fewer passengers and for vans with more than 23 passengers where the number of standing passengers exceeds the number of seated passengers, the seat depth shall be at least 35 cm).
 
-[전문개정 2017. 11. 14.]
+③ The driver's seat installed in vans with a passenger capacity of 16 or more shall comply with the standards in Attached Table 5-28.
+
+[Fully amended 2017-11-14]

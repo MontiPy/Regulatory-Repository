@@ -7,22 +7,24 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 22 — 제22조(도난방지장치)
-translation_status: untranslated
+title: KMVSS Article 22 — Anti-Theft Device
+translation_status: translated
 ---
 
-제22조(도난방지장치)   ① 승용자동차와 차량총중량 4.5톤 이하의 승합ㆍ화물ㆍ특수자동차에는 다음 각 호의 어느 하나 이상의 기능을 갖춘 도난방지장치를 설치하여야 한다.
+## Article 22 — Anti-Theft Device
 
-1. 자동차의 조향기능을 억제하는 기능
+① Passenger cars and vans, trucks, and special-purpose vehicles with a gross vehicle weight of 4.5 tonnes or less shall be equipped with an anti-theft device having at least one of the following functions:
 
-2. 자동차의 변속기능을 억제하는 기능
+1. A function to inhibit the vehicle's steering function
 
-3. 자동차 변속장치의 위치조작을 억제하는 기능
+2. A function to inhibit the vehicle's gear-shifting function
 
-4. 자동차 차축 또는 바퀴에 제동력이 작동하여 자동차의 움직임을 억제하는 기능
+3. A function to inhibit gear selector position operation
 
-5. 전자적으로 동력원의 시동을 방지하는 기능
+4. A function to apply braking force to the vehicle's axles or wheels to inhibit vehicle movement
 
-② 제1항 각 호에 따른 기능이 갖추어야 하는 세부기능 및 그에 대한 확인방법은 국토교통부장관이 정하여 고시한다.
+5. A function to electronically prevent the power source from starting
 
-[전문개정 2017. 1. 9.]
+② The detailed functions required under the items in paragraph ① and the methods of verifying them shall be determined and published by the Minister of Land, Infrastructure and Transport.
+
+[Fully amended 2017-01-09]

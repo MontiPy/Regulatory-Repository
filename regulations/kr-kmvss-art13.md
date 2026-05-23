@@ -7,58 +7,60 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 13 — 제13조(조종장치등)
-translation_status: untranslated
+title: KMVSS Article 13 — Controls and Indicators
+translation_status: translated
 ---
 
-제13조(조종장치등)   ①자동차에 설치된 다음 각호의 조종장치 및 표시장치는 운전자가 좌석안전띠(이하 “안전띠”라 한다)를 착용한 상태에서 쉽게 조작 및 식별할 수 있도록 배치하여야 한다. <개정 1995. 7. 21., 1997. 1. 17., 2003. 2. 25., 2010. 3. 29.>
+## Article 13 — Controls and Indicators
 
-1. 주시동장치ㆍ정지장치ㆍ가속제어장치 및 기타 원동기의 조작장치
+① The following controls and indicators installed in a motor vehicle shall be arranged so that the driver can easily operate and identify them while wearing a seat belt (hereinafter referred to as “seat belt”): [Amended 1995-07-21, 1997-01-17, 2003-02-25, 2010-03-29]
 
-2. 제동장치 및 동력전달장치의 조작장치
+1. The main starting device, stopping device, acceleration control device, and other engine operating devices
 
-3. 변속장치ㆍ창닦이기ㆍ세정액분사장치ㆍ서리제거장치ㆍ안개제거장치ㆍ전조등ㆍ등화점등장치ㆍ비상경고신호등ㆍ방향지시등 및 경음기의 조작장치
+2. Operating devices for the braking system and power transmission system
 
-4. 속도계ㆍ방향지시등ㆍ주행빔ㆍ연료장치ㆍ원동기냉각수ㆍ윤활유ㆍ제동경고등ㆍ충전장치 및 경제운전의 표시장치
+3. Operating devices for the transmission, windscreen wiper, washer fluid sprayer, defrost system, demist system, headlamps, lamp switch, hazard warning lights, direction indicators, and horn
 
-②가속제어장치의 복귀장치는 가속페달에서 작용력을 제거할 때에 원동기의 가속제어장치를 가속위치에서 공회전위치로 복귀시킬 수 있는 장치가 최소한 2개 이상이어야 하며, 변속장치의 조종레버(변속레버에 표시가 곤란한 경우에는 운전자가 식별하기 쉬운 위치)에는 변속단수별 조작위치를 표시하여야 한다.
+4. Indicators for the speedometer, direction indicators, main beam, fuel system, engine coolant, lubricating oil, brake warning lamp, charging system, and fuel-efficiency display
 
-③자동변속장치는 다음 각 호의 기준에 적합하여야 한다. <개정 1997. 1. 17., 2005. 8. 10., 2009. 6. 18., 2010. 11. 10., 2018. 7. 11., 2019. 12. 31.>
+② The accelerator return device shall have at least two devices capable of returning the engine's acceleration control device from the acceleration position to the idle position when the operating force is removed from the accelerator pedal. The gear selector lever of the transmission (or a location easily identifiable by the driver if it is difficult to mark on the gear lever) shall show the operating position for each gear.
 
-1. 중립위치는 전진위치와 후진위치 사이에 있을 것
+③ Automatic transmissions shall comply with the following standards: [Amended 1997-01-17, 2005-08-10, 2009-06-18, 2010-11-10, 2018-07-11, 2019-12-31]
 
-2. 조종레버가 조향기둥에 설치된 경우 조종레버의 조작방향은 중립위치에서 전진위치로 조작되는 방향이 시계방향일 것
+1. The neutral position shall be between the forward and reverse positions.
 
-3. 주차위치가 있는 경우에는 후진위치에 가까운 끝부분에 있을 것. 다만, 순서대로 조작되지 아니하는 조종레버를 갖춘 경우에는 그러하지 아니하다.
+2. Where the selector lever is mounted on the steering column, the direction of operation from neutral to forward shall be clockwise.
 
-4. 조종레버가 전진 또는 후진위치에 있는 경우 원동기가 시동되지 아니할 것. 다만, 다음 각 목의 어느 하나에 해당하는 자동차의 경우에는 그러하지 아니하다.
+3. Where a park position is provided, it shall be located at the end closest to the reverse position. However, this does not apply where the selector lever is not operated in sequence.
 
-가. 하이브리드자동차
+4. The engine shall not start when the selector lever is in the forward or reverse position. However, this does not apply to the following vehicles:
 
-나. 전기자동차
+a. Hybrid vehicles
 
-다. 원동기의 구동이 모두 정지될 경우 변속기가 자동으로 중립위치로 변환되는 구조를 갖춘 자동차
+b. Electric vehicles
 
-라. 주행하다가 정지하면 원동기의 시동을 자동으로 제어하는 장치를 갖춘 자동차
+c. Vehicles with a structure in which the transmission automatically shifts to neutral when all engine drive ceases
 
-5. 전진변속단수가 2단계 이상일 경우 매시 40킬로미터 이하의 속도에서 어느 하나의 변속단수의 원동기제동효과는 최고속변속단수에서의 원동기제동효과보다 클 것
+d. Vehicles equipped with a device that automatically controls engine start-stop when the vehicle stops after driving
 
-④자동차에 별표 2에서 정하고 있는 손조작식 조종장치를 설치하는 경우에는 동표에서 정하는 조종장치의 식별단어ㆍ약어 또는 식별부호(이하 “식별표시”라 한다)를 표시하여야 하며, 조명기준에 적합하여야 한다. 다만, 조향기둥 좌우측에 위치한 방향지시등ㆍ비상점멸표시등ㆍ창닦이기 및 세정액분사장치등의 레버식조종장치의 경우에는 그러하지 아니하다. <개정 2014. 1. 2., 2017. 1. 9.>
+5. Where there are two or more forward gear ratios, the engine braking effect of any one gear ratio at speeds of 40 km/h or less shall be greater than the engine braking effect at the highest gear ratio.
 
-⑤자동차의 차실안에 별표 2에서 정하고 있는 표시장치를 설치하는 경우에는 동표에서 정하는 식별표시를 표시하여야 하며, 조명 및 색상기준에 적합하여야 한다. 다만, 자동차장치의 작동여부 및 상태의 정상여부를 나타내 주는 표시장치(이하 “자동표시기”라 한다)가 자동표시기외의 표시장치와 함께 사용되는 경우 당해자동표시기에 대하여는 그러하지 아니하다.
+④ Where hand-operated controls listed in Attached Table 2 are installed in a motor vehicle, the identification words, abbreviations, or symbols (hereinafter “identification marks”) specified in that table shall be displayed and shall meet the lighting standards. However, this does not apply to lever-type controls such as direction indicators, hazard flashers, wipers, and washer fluid sprayers located on the left and right sides of the steering column. [Amended 2014-01-02, 2017-01-09]
 
-⑥자동차에 보조시동장치(전파등을 이용한 원격시동장치를 말한다)를 설치할 경우에는 조종레버가 전진 또는 후진위치에 있는 경우 원동기가 시동(크랭킹의 경우를 제외한다)되지 아니하는 구조로 설치하여야 한다. <신설 1995. 7. 21.>
+⑤ Where indicators listed in Attached Table 2 are installed inside the vehicle, the identification marks specified in that table shall be displayed and shall meet the lighting and colour standards. However, this does not apply to automatic indicators (hereinafter “automatic indicators”) used together with non-automatic indicators to show whether a vehicle system is operating and whether its condition is normal.
 
-⑦ 화물자동차 및 특수자동차에 상하로 움직일 수 있는 가변축을 설치하는 경우에는 가변축 인접축에 다음 각 호의 하중 중 작은 하중을 초과하는 하중이 가해지면 자동으로 가변축을 하향시키고 상승조작이 불가능하며 총중량의 하중을 받아 하향된 가변축이 받는 하중은 인접축이 받는 하중의 30퍼센트부터 100퍼센트까지의 하중을 분담하는 구조로 설치해야 한다. <개정 2020. 12. 24., 2021. 8. 27.>
+⑥ Where an auxiliary starting device (remote starting device using radio waves, etc.) is installed, the engine shall not start (excluding cranking) when the selector lever is in the forward or reverse position. [Added 1995-07-21]
 
-1. 제6조에 따른 축하중
+⑦ Where trucks and special-purpose vehicles are fitted with a lift axle capable of moving vertically, it shall be structured so that when a load exceeding the lesser of the following loads is applied to an adjacent axle, the lift axle is automatically lowered, upward operation becomes impossible, and the lift axle shares between 30% and 100% of the load borne by the adjacent axle: [Amended 2020-12-24, 2021-08-27]
 
-2. 「자동차관리법 시행규칙」 별지 제25호서식에 따른 자동차제원표에 적힌 축별설계허용하중(이하 “축별설계허용하중”이라 한다)
+1. The axle load specified under Article 6
 
-⑧ 험로(險路) 탈출 등을 위해 가변축의 일시적 조작이 필요한 경우에는 제7항에도 불구하고 다음 각 호의 기준에 적합한 가변축 수동조작장치를 설치할 수 있다. <신설 2020. 12. 24.>
+2. The design allowable load per axle recorded in the vehicle specification sheet under Attached Form 25 of the Enforcement Rules of the Motor Vehicle Management Act (hereinafter “design allowable load per axle”)
 
-1. 각 축이 분담하는 하중은 15톤의 범위에서 축별설계허용하중의 130퍼센트를 초과하지 않을 것
+⑧ Where temporary manual operation of a lift axle is required for off-road escape or similar purposes, a manual lift axle control device meeting the following standards may be installed notwithstanding paragraph ⑦: [Added 2020-12-24]
 
-2. 수동조작장치를 사용하여 가변축을 상승조작할 때 자동차의 전방방향으로 가변축보다 앞쪽에 설치된 차축 중 최소 1개 이상의 차축은 지면에서 들리지 않을 것
+1. The load borne by each axle shall not exceed 130% of the design allowable load per axle within 15 tonnes.
 
-3. 자동차가 험로를 탈출한 후 매시 30킬로미터를 초과하기 전에 하중을 분담하기 위해 가변축이 자동으로 하강하기 시작하는 구조일 것
+2. When raising the lift axle using the manual control device, at least one axle located ahead of the lift axle in the vehicle's forward direction shall not be lifted off the ground.
+
+3. After the vehicle escapes from the off-road terrain, the lift axle shall automatically begin to descend before the vehicle speed exceeds 30 km/h in order to share the load.

@@ -7,10 +7,12 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 102-3 — 제102조의3(고정벽정면충돌 안전성)
-translation_status: untranslated
+title: KMVSS Article 102-3 — Full Frontal Rigid Barrier Crash Safety
+translation_status: translated
 ---
 
-제102조의3(고정벽정면충돌 안전성)   차량총중량 3.5톤 이하인 승용ㆍ화물자동차(초소형자동차는 제외한다)는 별표 14의7의 고정벽정면충돌 기준에 적합해야 한다. <개정 2022. 10. 26.>
+## Article 102-3 — Full Frontal Rigid Barrier Crash Safety
 
-[본조신설 2018. 12. 31.]
+Passenger cars and trucks with a gross vehicle weight of 3.5 tonnes or less (excluding ultra-compact vehicles) shall meet the full frontal rigid barrier collision standards in Attached Table 14-7. [Amended 2022-10-26]
+
+[Added 2018-12-31]

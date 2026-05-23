@@ -7,44 +7,46 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 34 — 제34조(창유리 등)
-translation_status: untranslated
+title: KMVSS Article 34 — Glazing
+translation_status: translated
 ---
 
-제34조(창유리 등)   ① 자동차의 앞면창유리는 접합유리 또는 유리ㆍ플라스틱 조합유리로, 그 밖의 창유리는 강화유리, 접합유리, 복층유리, 플라스틱유리 또는 유리ㆍ플라스틱 조합유리 중 하나로 하여야 한다. 다만, 컨버터블자동차 및 캠핑용자동차 등 특수한 구조의 자동차의 앞면 외의 창유리와 피견인자동차의 창유리는 그러하지 아니하다. <개정 2010. 3. 29., 2018. 12. 31.>
+## Article 34 — Glazing
 
-② 삭제 <2010. 3. 29.>
+① The windscreen of a motor vehicle shall be laminated glass or glass-plastic composite glass. All other windows shall be one of the following: toughened glass, laminated glass, double-glazed glass, plastic glass, or glass-plastic composite glass. However, this does not apply to windows other than the windscreen of specially structured vehicles such as convertibles and camper vehicles, or to windows of towed vehicles. [Amended 2010-03-29, 2018-12-31]
 
-③ 삭제 <2010. 3. 29.>
+② (Deleted) [2010-03-29]
 
-④승용자동차와 차량총중량이 4.5톤 이하인 승합자동차의 창유리ㆍ선루프 또는 격실문(이하 “창유리등”이라 한다)이 전동식장치에 의해 닫혀지는 창유리등의 경우에는 제5항의 기준에 적합하여야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 방식으로 닫히는 창유리등의 경우는 제외한다. <신설 2005. 8. 10., 2008. 12. 8., 2014. 6. 10.>
+③ (Deleted) [2010-03-29]
 
-1. 시동장치의 열쇠가 원동기 작동 위치 또는 라디오 등 편의장치를 작동할 수 있는 위치에 있는 상태(기계식 외의 시동장치로서 위와 동등한 상태인 경우를 포함한다)에서 닫히는 경우
+④ Where windows, sunroofs, or partition doors (hereinafter “windows etc.”) in passenger cars and vans with a gross vehicle weight of 4.5 tonnes or less are closed by an electrically operated device, the requirements in paragraph ⑤ shall be met. However, this does not apply to windows etc. that are closed in any of the following ways: [Added 2005-08-10, 2008-12-08, 2014-06-10]
 
-2. 자동차로부터 전원공급이 없이 완력에 의하여 닫히는 경우
+1. Closing while the ignition key is in the engine-running position or in a position that allows operation of convenience equipment such as the radio (including equivalent conditions for non-mechanical ignition devices)
 
-3. 자동차 외부에서 창유리등을 자동으로 닫을 수 있는 장치(작동버튼을 계속 누르는 등 연속작동이 있어야 닫힘이 완료되는 것에 한한다)를 작동하여 닫히는 경우
+2. Closing by manual force without electrical power from the vehicle
 
-4. 시동장치의 열쇠를 원동기 작동 위치에서 제거한 후 자동차 앞문(조수석 쪽의 앞문을 포함한다)을 열 때까지 닫히는 경우
+3. Closing by operating a device external to the vehicle that automatically closes the window etc. (limited to devices that require continuous operation of the button to complete closing)
 
-5. 창유리등이 4밀리미터 이하로 열린 상태에서 닫히는 경우
+4. Closing from when the ignition key is removed from the engine-running position until the front door (including the passenger-side front door) is opened
 
-6. 창문틀이 없는 문의 경우 창유리가 12밀리미터 이하로 열려있는 상태에서 자동차의 문을 닫을 때 자동으로 닫히는 경우
+5. Closing when the window etc. is open 4 mm or less
 
-7. 원격조종장치에 의하여 창유리등을 닫을 수 있는 경우에는 자동차와 원격조종장치간의 거리가 11미터(장애물이 있는 경우 6미터) 이하에서 원격조종장치를 연속적으로 작동하여 닫히는 경우
+6. For frameless doors, automatically closing when the vehicle door is closed while the window is open 12 mm or less
 
-8. 운전석 창유리 및 선루프가 다음 각 목의 경우에 1회의 조작으로 닫히는 경우
+7. Closing by remote control where the window etc. is closed by continuously operating the remote control at a distance of 11 metres or less (6 metres or less where there are obstacles) between the vehicle and the remote control
 
-가. 시동장치의 열쇠가 원동기 작동 위치에 있는 경우
+8. The driver's window and sunroof closing in a single operation in the following cases:
 
-나. 1열 승강구가 승차인이 내릴 수 있을 정도로 충분히 열리지 아니한 상태로서 시동장치의 열쇠가 원동기 작동 위치에서 벗어나거나 제거된 경우(기계식 외의 시동장치로서 위와 동등한 조건의 경우를 포함한다)
+a. When the ignition key is in the engine-running position
 
-⑤창유리등이 닫힐 때 창유리등의 윗면에 지름 4밀리미터부터 200밀리미터까지의 반강체(半剛體) 원통(탄성계수가 밀리미터당 1킬로그램인 것을 말한다)이 닿거나 100뉴턴 이상의 하중을 가하였을 때에 다음 각 호의 어느 하나에 해당하는 기능을 갖추어야 한다. <신설 1999. 2. 19., 2005. 8. 10., 2014. 6. 10., 2022. 10. 26.>
+b. When the first-row door is not sufficiently open for an occupant to exit and the ignition key has been moved from or removed from the engine-running position (including equivalent conditions for non-mechanical ignition devices)
 
-1. 창유리등이 닫히기 시작하기 전의 위치로 돌아갈 것
+⑤ When a semi-rigid cylinder (with an elastic modulus of 1 kg/mm) of 4 mm to 200 mm diameter touches the top surface of the window etc. while it is closing, or when a load of 100 N or more is applied, one of the following functions shall be provided: [Added 1999-02-19, 2005-08-10, 2014-06-10, 2022-10-26]
 
-2. 창유리등이 반강체원통에 닿거나 하중을 가한 위치로부터 50밀리미터이상 열릴 것
+1. The window etc. shall return to the position it was in before it began closing.
 
-3. 창유리등이 200밀리미터이상 열릴 것
+2. The window etc. shall open at least 50 mm from the position where the semi-rigid cylinder touched or the load was applied.
 
-4. 사선방향의 여닫이 방식으로 열리는 기능만 갖춘 선루프의 경우에는 최대 개방 가능한 상태로 열릴 것
+3. The window etc. shall open at least 200 mm.
+
+4. For sunroofs that only have a tilting opening function, the sunroof shall open to its maximum extent.

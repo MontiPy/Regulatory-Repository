@@ -7,14 +7,16 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 90-3 — 제90조의3(비상자동제동장치)
-translation_status: untranslated
+title: KMVSS Article 90-3 — Emergency Autonomous Braking System Performance Standards
+translation_status: translated
 ---
 
-제90조의3(비상자동제동장치)   자동차(경형승합자동차 및 초소형자동차는 제외한다)에 설치되는 비상자동제동장치는 다음 각 호의 구분에 따른 기준에 적합해야 한다.
+## Article 90-3 — Emergency Autonomous Braking System Performance Standards
 
-1. 승합자동차 및 차량총중량 3.5톤 초과 화물ㆍ특수자동차에 설치되는 비상자동제동장치: 별표 7의8의 기준
+Emergency autonomous braking systems installed in motor vehicles (excluding light-class vans and ultra-compact vehicles) shall meet the standards specified below:
 
-2. 승용자동차 및 차량총중량 3.5톤 이하 화물ㆍ특수자동차에 설치되는 비상자동제동장치: 별표 7의9의 기준
+1. Emergency autonomous braking systems installed in vans and trucks or special-purpose vehicles with a gross vehicle weight exceeding 3.5 tonnes: the standards in Attached Table 7-8.
 
-[전문개정 2022. 10. 26.]
+2. Emergency autonomous braking systems installed in passenger cars and trucks or special-purpose vehicles with a gross vehicle weight of 3.5 tonnes or less: the standards in Attached Table 7-9.
+
+[Fully amended 2022-10-26]

@@ -7,8 +7,10 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 5 — 제5조(최저지상고)
-translation_status: untranslated
+title: KMVSS Article 5 — Minimum Ground Clearance
+translation_status: translated
 ---
 
-제5조(최저지상고)   공차상태의 자동차에 있어서 접지부분외의 부분은 지면과의 사이에 10센티미터 이상의 간격이 있어야 한다. 다만, 특수작업용자동차, 경주용자동차등 국토교통부장관이 당해 자동차의 제작목적상 필요하다고 인정하는 자동차의 경우에는 그러하지 아니하다. <개정 1995. 7. 21., 2008. 3. 14., 2013. 3. 23., 2018. 12. 31.>
+## Article 5 — Minimum Ground Clearance
+
+In an unloaded condition, the clearance between the ground and the non-contact parts of the vehicle shall be at least 10 centimeters. However, this requirement shall not apply to special-purpose work vehicles, racing cars, or other vehicles that the Minister of Land, Infrastructure and Transport recognizes as requiring an exception due to the purpose of manufacture. [Amended 1995-07-21, 2008-03-14, 2013-03-23, 2018-12-31]

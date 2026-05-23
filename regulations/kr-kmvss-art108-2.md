@@ -7,18 +7,20 @@ source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 108-2 — 제108조의2(에너지소비효율)
-translation_status: untranslated
+title: KMVSS Article 108-2 — Fuel Economy
+translation_status: translated
 ---
 
-제108조의2(에너지소비효율)   소비자에게 판매된 자동차의 에너지소비효율은 다음 각 호의 구분에 따른 기준에 적합해야 한다.
+## Article 108-2 — Fuel Economy
 
-1. 승용자동차, 승차정원 15인 이하이며 차량총중량 3.5톤 이하인 승합자동차(특수형은 제외한다) 및 경형ㆍ소형화물자동차(특수용도형은 제외한다): 제작자등이 제시한 값과 비교하여 다음 각 목의 범위에 해당할 것
+The fuel economy of motor vehicles sold to consumers shall meet the standards specified below:
 
-가. 시가지 주행 에너지소비효율: -5퍼센트 이내
+1. Passenger cars, vans with a seating capacity of 15 persons or fewer and a gross vehicle weight of 3.5 tonnes or less (excluding special-purpose type), and light-class and small trucks (excluding special-purpose type): the values shall be within the following ranges compared with the values declared by the manufacturer:
 
-나. 고속도로 주행 에너지소비효율: -5퍼센트 이내
+a. Urban driving fuel economy: within -5%.
 
-2. 제1호에 따른 자동차 외의 자동차: 정속 주행 에너지소비효율이 제작자등이 제시한 값과 비교하여 -5퍼센트 이내일 것
+b. Highway driving fuel economy: within -5%.
 
-[전문개정 2025. 3. 14.]
+2. Motor vehicles other than those in item 1: constant-speed driving fuel economy shall be within -5% of the values declared by the manufacturer.
+
+[Fully amended 2025-03-14]
