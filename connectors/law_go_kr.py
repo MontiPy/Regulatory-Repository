@@ -18,6 +18,8 @@ from connectors._common import RateLimitedSession, markdownify, write_md
 
 API_BASE = "https://open.law.go.kr/LSO/openApi/lawService.do"
 PUBLIC_BASE = "https://law.go.kr"
+BODY_URL = f"{PUBLIC_BASE}/LSW/lsInfoR.do"
+_law_html_cache: dict[str, str] = {}
 
 
 def _kr_slug(law_id: str, article: str) -> str:
@@ -30,6 +32,80 @@ def _citation(law_id: str, article: str) -> str:
 
 def _source_url(law_id: str, article: str) -> str:
     return f"https://law.go.kr/LSW/lsInfoP.do?lsiSeq={law_id}#AJAX"
+
+
+def _article_label_pattern(article: str) -> re.Pattern[str]:
+    if "-" in article:
+        base, sub = article.split("-", 1)
+        pat = rf"제\s*{re.escape(base)}\s*조의\s*{re.escape(sub)}"
+    else:
+        pat = rf"제\s*{re.escape(article)}\s*조\b"
+    return re.compile(pat)
+
+
+def _parse_article(full_html: str, article: str) -> tuple[str, str]:
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(full_html, "html.parser")
+    pattern = _article_label_pattern(article)
+
+    label = None
+    for lbl in soup.find_all("label"):
+        if pattern.search(lbl.get_text()):
+            label = lbl
+            break
+
+    if label is None:
+        return f"KMVSS Article {article}", f"# KMVSS Article {article}\n\nSee source for full text."
+
+    title_text = label.get_text(strip=True)
+    container = label.find_parent("p")
+    if container is None:
+        return title_text, f"# {title_text}\n\nSee source for full text."
+
+    fragments: list[str] = [str(container)]
+    for sib in container.next_siblings:
+        if hasattr(sib, "get") and "pty1_p4" in (sib.get("class") or []):
+            break
+        fragments.append(str(sib))
+
+    body_md = markdownify("".join(fragments))
+    body_md = re.sub(r"\n{3,}", "\n\n", body_md).strip()
+    return title_text, body_md or f"# {title_text}\n\nSee source for full text."
+
+
+def _discover_params(session: RateLimitedSession, law_id: str) -> dict[str, str]:
+    url = f"{PUBLIC_BASE}/LSW/lsInfoP.do?lsiSeq={law_id}"
+    resp = session.get(url)
+    html = resp.text
+    params: dict[str, str] = {
+        "lsiSeq": law_id,
+        "efYn": "Y",
+        "nwJoYnInfo": "Y",
+        "ancYnChk": "0",
+        "netPrivateYn": "N",
+    }
+    m = re.search(r"efYd['\"]?\s*[=:,]\s*['\"]?(\d{8})", html)
+    if m:
+        params["efYd"] = m.group(1)
+    m = re.search(r"chrClsCd['\"]?\s*[=:,]\s*['\"]?(\d+)", html)
+    if m:
+        params["chrClsCd"] = m.group(1)
+    return params
+
+
+def _fetch_full_law(session: RateLimitedSession, law_id: str) -> str:
+    if law_id in _law_html_cache:
+        return _law_html_cache[law_id]
+    params = _discover_params(session, law_id)
+    resp = session.get(BODY_URL, params=params)
+    html = resp.text
+    if 'class="pty1_p4"' not in html and "pty1_p4" not in html:
+        raise RuntimeError(
+            f"lsInfoR.do response for lsiSeq={law_id} contains no article blocks. "
+            f"Params used: {params}. First 500 chars: {html[:500]}"
+        )
+    _law_html_cache[law_id] = html
+    return html
 
 
 def _fetch_with_api(session: RateLimitedSession, api_key: str, law_id: str, article: str) -> tuple[str, str]:
