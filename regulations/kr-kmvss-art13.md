@@ -1,418 +1,64 @@
 ---
 citation: KMVSS Article 13
 id: kr-kmvss-art13
-last_pulled: '2026-05-23T03:14:18+00:00'
+last_pulled: '2026-05-23T15:30:39+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 13
+title: KMVSS Article 13 — 제13조(조종장치등)
 translation_status: untranslated
 ---
 
-법령 > 본문 > 자동차 및 자동차부품의 성능과 기준에 관한 규칙 | 국가법령정보센터
+제13조(조종장치등)   ①자동차에 설치된 다음 각호의 조종장치 및 표시장치는 운전자가 좌석안전띠(이하 “안전띠”라 한다)를 착용한 상태에서 쉽게 조작 및 식별할 수 있도록 배치하여야 한다. <개정 1995. 7. 21., 1997. 1. 17., 2003. 2. 25., 2010. 3. 29.>
 
-자바스크립트를 지원하지 않아 일부 기능을 사용할 수 없습니다.
+1. 주시동장치ㆍ정지장치ㆍ가속제어장치 및 기타 원동기의 조작장치
 
-## 법령
+2. 제동장치 및 동력전달장치의 조작장치
 
-## - 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+3. 변속장치ㆍ창닦이기ㆍ세정액분사장치ㆍ서리제거장치ㆍ안개제거장치ㆍ전조등ㆍ등화점등장치ㆍ비상경고신호등ㆍ방향지시등 및 경음기의 조작장치
 
-## (신구법 비교는 공포단위 서비스입니다)
+4. 속도계ㆍ방향지시등ㆍ주행빔ㆍ연료장치ㆍ원동기냉각수ㆍ윤활유ㆍ제동경고등ㆍ충전장치 및 경제운전의 표시장치
 
-![법제처 국가법령정보센터 - 새창열림](/LSW/images/common/poplogo.gif)
+②가속제어장치의 복귀장치는 가속페달에서 작용력을 제거할 때에 원동기의 가속제어장치를 가속위치에서 공회전위치로 복귀시킬 수 있는 장치가 최소한 2개 이상이어야 하며, 변속장치의 조종레버(변속레버에 표시가 곤란한 경우에는 운전자가 식별하기 쉬운 위치)에는 변속단수별 조작위치를 표시하여야 한다.
 
-**신구법비교**
-국가법령정보센터에서 제공하는 신구법  
-비교는 시스템으로 자동 생성한 것으로  
-참고용으로만 이용하시기 바라며, 정확한  
-개정내용의 확인은 제·개정이유(제·개정문)  
-또는 관보를 확인해 주세요.
+③자동변속장치는 다음 각 호의 기준에 적합하여야 한다. <개정 1997. 1. 17., 2005. 8. 10., 2009. 6. 18., 2010. 11. 10., 2018. 7. 11., 2019. 12. 31.>
 
-- [자동차 및 자동차부품의 성능과 기준에 관한 규칙  [시행 2026. 3. 20.] [국토교통부령 제1464호, 2025. 3. 14., 일부개정]](javascript:;) 
+1. 중립위치는 전진위치와 후진위치 사이에 있을 것
 
-  - [본문목록열림본문](javascript:;)
-  - [부칙목록열림부칙](javascript:;)
-  - [별표목록열림별표](javascript:;)
+2. 조종레버가 조향기둥에 설치된 경우 조종레버의 조작방향은 중립위치에서 전진위치로 조작되는 방향이 시계방향일 것
 
-[본문](javascript:; "본문 새 창 열림")
-[제정·개정이유](javascript:; "제정개정이유 새 창 열림")
-[별표·서식](javascript:; "별표서식")
-[연혁](javascript:; "연혁")
-[3단비교](javascript:; "3단비교 새 창 열림")
-[신구법비교](javascript:; "신구법비교 새 창 열림")
-[법령체계도](javascript:; "법령체계도 새 창 열림")
+3. 주차위치가 있는 경우에는 후진위치에 가까운 끝부분에 있을 것. 다만, 순서대로 조작되지 아니하는 조종레버를 갖춘 경우에는 그러하지 아니하다.
 
-[법령비교](javascript:; "법령비교 새 창 열림")
-[생활법령정보](javascript:; "생활법령정보")
-[조례위임조문](javascript:; "조례위임조문")
-[위임조례](javascript:; "위임조례")
-[한눈보기](javascript:void(0); "한눈보기")
-[원문다운로드](javascript:; "원문다운로드")
-[음성지원](javascript:; "음성지원 레이어")
-[점자뷰어](javascript:; "점자뷰어")
+4. 조종레버가 전진 또는 후진위치에 있는 경우 원동기가 시동되지 아니할 것. 다만, 다음 각 목의 어느 하나에 해당하는 자동차의 경우에는 그러하지 아니하다.
 
-[![메뉴영역 접기](/LSW/images/button/btn_v13slcl.gif)   ![메뉴영역 펼치기](/LSW/images/button/btn_v13slop.gif)](javascript:; "본문바로가기")
+가. 하이브리드자동차
 
-조문 선택  조문선택  
-[화면내검색](javascript:;)
-새창 선택
+나. 전기자동차
 
- [![공유하기](/LSW/images/common/btn_share_1.png)](javascript:; "공유하기") 
+다. 원동기의 구동이 모두 정지될 경우 변속기가 자동으로 중립위치로 변환되는 구조를 갖춘 자동차
 
-- [![카카오톡](images/onelook/share_kakao.png)카카오톡](javascript:shareOnKakao(); "카카오톡 새 창 열림")
-- [![페이스북](images/onelook/share_facebook.png)페이스북](javascript:shareOnFacebook(); "페이스북 새 창 열림")
-- [![트위터](images/onelook/share_twitter_tobe.png)트위터](javascript:shareOnTwitter(); "트위터 새 창 열림")
-- [![라인](images/onelook/share_line.png)라인](javascript:shareOnLine(); "라인 새 창 열림")
-- [![주소복사](images/onelook/share_url.png)주소복사](javascript: shareUrl();)
+라. 주행하다가 정지하면 원동기의 시동을 자동으로 제어하는 장치를 갖춘 자동차
 
- [![관심법령추가](/LSW/images/common/btn_v13fn8_1.png)](javascript:; "관심법령추가") 
- [![한자](/LSW/images/common/btn_v13fn5_1.png)](javascript:; "한자") 
- [![저장](/LSW/images/common/btn_v13fn6_1.png)](javascript:; "저장") 
- [![인쇄](/LSW/images/common/btn_v13fn7_1.png)](javascript:; "인쇄(새창팝업)")
+5. 전진변속단수가 2단계 이상일 경우 매시 40킬로미터 이하의 속도에서 어느 하나의 변속단수의 원동기제동효과는 최고속변속단수에서의 원동기제동효과보다 클 것
 
-**조례위임조문**
-법령에서 자치법규로 위임한 사항이 있는  
- 조문의 목록을 제공하고 바로가기 기능을  
- 제공합니다.
+④자동차에 별표 2에서 정하고 있는 손조작식 조종장치를 설치하는 경우에는 동표에서 정하는 조종장치의 식별단어ㆍ약어 또는 식별부호(이하 “식별표시”라 한다)를 표시하여야 하며, 조명기준에 적합하여야 한다. 다만, 조향기둥 좌우측에 위치한 방향지시등ㆍ비상점멸표시등ㆍ창닦이기 및 세정액분사장치등의 레버식조종장치의 경우에는 그러하지 아니하다. <개정 2014. 1. 2., 2017. 1. 9.>
 
-**위임조례**
-현재 보고있는 법에서 위임한 사항이 있는 자치법규에 대한 자치법규를 검색하여 목록을 제공합니다.
+⑤자동차의 차실안에 별표 2에서 정하고 있는 표시장치를 설치하는 경우에는 동표에서 정하는 식별표시를 표시하여야 하며, 조명 및 색상기준에 적합하여야 한다. 다만, 자동차장치의 작동여부 및 상태의 정상여부를 나타내 주는 표시장치(이하 “자동표시기”라 한다)가 자동표시기외의 표시장치와 함께 사용되는 경우 당해자동표시기에 대하여는 그러하지 아니하다.
 
-**한눈에 이해되는 법령정보**
-법령 속 어려운 내용을 그림이나 표로 표현하여 알기 쉽게 제공합니다. 한눈보기는 법제처에서 제공하는 가공된 법령정보로 법령 그 자체는 아닙니다.
+⑥자동차에 보조시동장치(전파등을 이용한 원격시동장치를 말한다)를 설치할 경우에는 조종레버가 전진 또는 후진위치에 있는 경우 원동기가 시동(크랭킹의 경우를 제외한다)되지 아니하는 구조로 설치하여야 한다. <신설 1995. 7. 21.>
 
-### 법령정보
+⑦ 화물자동차 및 특수자동차에 상하로 움직일 수 있는 가변축을 설치하는 경우에는 가변축 인접축에 다음 각 호의 하중 중 작은 하중을 초과하는 하중이 가해지면 자동으로 가변축을 하향시키고 상승조작이 불가능하며 총중량의 하중을 받아 하향된 가변축이 받는 하중은 인접축이 받는 하중의 30퍼센트부터 100퍼센트까지의 하중을 분담하는 구조로 설치해야 한다. <개정 2020. 12. 24., 2021. 8. 27.>
 
-![이 곳에서는 현재 시행되고 있는 헌법, 법률, 대통령, 총리령, 부령과 국회규칙, 대법원규칙, 헌법재판소규칙, 선거관리위원회규칙, 감사원규칙을 찾아 볼 수 있습니다. 법령내용이나 법령명에 포함된 용어를 입력하거나, 공포번호 및 공포일자를 입력하십시오.](/LSW/images/common/txt_subdef1.gif)
+1. 제6조에 따른 축하중
 
-![ 위 검색창에 검색어를 입력하십시오](/LSW/images/common/txt_subdef9.gif)
+2. 「자동차관리법 시행규칙」 별지 제25호서식에 따른 자동차제원표에 적힌 축별설계허용하중(이하 “축별설계허용하중”이라 한다)
 
-### 법령정보
+⑧ 험로(險路) 탈출 등을 위해 가변축의 일시적 조작이 필요한 경우에는 제7항에도 불구하고 다음 각 호의 기준에 적합한 가변축 수동조작장치를 설치할 수 있다. <신설 2020. 12. 24.>
 
-![이 곳에서는 현재 시행되고 있는 헌법, 법률, 대통령, 총리령, 부령과 국회규칙, 대법원규칙, 헌법재판소규칙, 선거관리위원회규칙, 감사원규칙을 찾아 볼 수 있습니다. 법령내용이나 법령명에 포함된 용어를 입력하거나, 공포번호 및 공포일자를 입력하십시오.](/LSW/images/common/txt_subdef1.gif)
+1. 각 축이 분담하는 하중은 15톤의 범위에서 축별설계허용하중의 130퍼센트를 초과하지 않을 것
 
-![ 위 검색창에 검색어를 입력하십시오](/LSW/images/common/txt_subdef9.gif)
+2. 수동조작장치를 사용하여 가변축을 상승조작할 때 자동차의 전방방향으로 가변축보다 앞쪽에 설치된 차축 중 최소 1개 이상의 차축은 지면에서 들리지 않을 것
 
-### 법령정보
-
-![이 곳에서는 현재 시행되고 있는 헌법, 법률, 대통령, 총리령, 부령과 국회규칙, 대법원규칙, 헌법재판소규칙, 선거관리위원회규칙, 감사원규칙을 찾아 볼 수 있습니다. 법령내용이나 법령명에 포함된 용어를 입력하거나, 공포번호 및 공포일자를 입력하십시오.](/LSW/images/common/txt_subdef1.gif)
-
-![ 위 검색창에 검색어를 입력하십시오](/LSW/images/common/txt_subdef9.gif)
-
-[![나의조문](/LSW/images/button/btn_caop.gif)](javascript:;)
-[![저장](/LSW/images/button/btn_ssav.gif)](javascript:;)
-[![인쇄](/LSW/images/button/btn_spri.gif)](javascript:;)
- [![공유하기](/LSW/images/common/btn_share.png)](javascript:; "공유하기") 
-
-- [![카카오톡](images/onelook/share_kakao.png)카카오톡](javascript:shareOnKakao(); "카카오톡 새 창 열림")
-- [![페이스북](images/onelook/share_facebook.png)페이스북](javascript:shareOnFacebook(); "페이스북 새 창 열림")
-- [![트위터](images/onelook/share_twitter_tobe.png)트위터](javascript:shareOnTwitter(); "트위터 새 창 열림")
-- [![라인](images/onelook/share_line.png)라인](javascript:shareOnLine(); "라인 새 창 열림")
-- [![주소복사](images/onelook/share_url.png)주소복사](javascript: shareUrl();)
-
-[복사](javascript:;) |
-[돋보기](#AJAX)
-
-|
-
-[생활법령정보](javascript:;)
-
-|
-
-[![닫기](/LSW/images/button/btn_del2.gif)](javascript:;)
-
-위로
-
-아래로
-
-검색조문선택
-
-화면내검색 입력 폼
-
-검색어 입력
-[![검색](/LSW/images/button/btn_seh4.gif)](javascript:;)
-
-모드
-
-전체저장
-
-목록저장
-
- 닫기 
-
-파일형식
-
-XLS(엑셀)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-모드
-
-전체저장
-
-목록저장
-
- 닫기 
-
-파일형식
-
-XLS(엑셀)
-
-TXT(텍스트)
-
-한글(본문)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-파일형식 선택
-
-- 파일형식
-- HTML XLS(엑셀)
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-PDF
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록저장
-
- 닫기 
-
-파일형식
-
-HWP(한글)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록저장
-
- 닫기 
-
-파일형식
-
-HWP(한글)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록 저장
-
- 닫기 
-
-파일형식
-
-HWP(한글)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-본문저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-파일형식 선택
-
-법령용어명
-
-- 파일형식
-- 한글(HWP) PDF
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-법령용어명
-
-목록저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-TXT(텍스트)
-
-파일형식 선택
-
-- 파일형식
-- HTML HWP(한글) XLS(엑셀)
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-PDF
-
-DOC
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-파일형식 선택
-
-- 파일형식
-- HTML XLS(엑셀) HWP(한글)
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-용지/폰트설정
-
-[범위설정](#AJAX)
-
-- ![일부저장](images/pop/stit_save2.gif)  일부범위입력
-- ![선택저장](images/pop/stit_save3.gif)
-- 시행령 연계 데이터를 보려면 전체를 선택해주세요
-
-[법령본문](#AJAX)
-
-- 전체
-
-HTML파일
-
-HWP파일
-
-EXCEL파일
-
-PDF파일
-
-DOC파일
-
-HTML파일
-
-[![저장](/LSW/images/button/btn_save3.gif)](#AJAX)
-
-[![인쇄](/LSW/images/button/btn_print4.gif)](#AJAX)
-
-[![취소](images/button/btn_can.gif)](#AJAX)
-
-![아래한글 사용자는 최신버전을 업그레이드하십시오.](images/pop/stit_save4.gif)
-
-[![프로그램 내려받기(한글 버전별 링크)](images/pop/btn_down.gif)](#AJAX)
-
-**위임행정규칙**
-법률·대통령령·총리령·부령 등 상위법령에서 위임한 사항을  
- 훈령·예규·고시·공고 등의 형식으로 정하고 있는 행정규칙을 말합니다.
-
-닫기
+3. 자동차가 험로를 탈출한 후 매시 30킬로미터를 초과하기 전에 하중을 분담하기 위해 가변축이 자동으로 하강하기 시작하는 구조일 것

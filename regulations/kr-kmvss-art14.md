@@ -1,418 +1,50 @@
 ---
 citation: KMVSS Article 14
 id: kr-kmvss-art14
-last_pulled: '2026-05-23T03:14:21+00:00'
+last_pulled: '2026-05-23T15:30:40+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
-title: KMVSS Article 14
+title: KMVSS Article 14 — 제14조(조향장치)
 translation_status: untranslated
 ---
 
-법령 > 본문 > 자동차 및 자동차부품의 성능과 기준에 관한 규칙 | 국가법령정보센터
+제14조(조향장치)   ①자동차의 조향장치의 구조는 다음 각 호의 기준에 적합해야 한다. <개정 2003. 2. 25., 2010. 11. 10., 2021. 8. 27.>
 
-자바스크립트를 지원하지 않아 일부 기능을 사용할 수 없습니다.
+1. 조향장치의 각부는 조작시에 차대 및 차체등 자동차의 다른 부분과 접촉되지 아니하고, 갈라지거나 금이 가고 파손되는 등의 손상이 없으며, 작동에 이상이 없을 것
 
-## 법령
+2. 조향장치는 조작시에 운전자의 옷이나 장신구등에 걸리지 아니할 것
 
-## - 자동차 및 자동차부품의 성능과 기준에 관한 규칙
+3. 다음 각 목의 자동차 구분에 따른 해당 속도로 반지름 50미터의 곡선에 접하여 주행할 때 자동차의 선회원(旋回圓)이 동일하거나 더 커지는 구조일 것
 
-## (신구법 비교는 공포단위 서비스입니다)
+가. 승용자동차: 시속 50킬로미터
 
-![법제처 국가법령정보센터 - 새창열림](/LSW/images/common/poplogo.gif)
+나. 승용자동차 외의 자동차: 시속 40킬로미터(최고속도가 시속 40킬로미터 미만인 경우에는 해당 자동차의 최고속도)
 
-**신구법비교**
-국가법령정보센터에서 제공하는 신구법  
-비교는 시스템으로 자동 생성한 것으로  
-참고용으로만 이용하시기 바라며, 정확한  
-개정내용의 확인은 제·개정이유(제·개정문)  
-또는 관보를 확인해 주세요.
+4. 자동차를 최고속도(연결자동차의 경우에는 견인자동차의 최고속도를 말한다)까지 주행하는 동안 조향핸들이 비정상적으로 조작되거나 조향장치가 비정상적으로 진동되지 아니하고 직진 주행이 가능할 것. 다만, 제10호가목에 따른 조향장치에 의한 진동은 제외한다.
 
-- [자동차 및 자동차부품의 성능과 기준에 관한 규칙  [시행 2026. 3. 20.] [국토교통부령 제1464호, 2025. 3. 14., 일부개정]](javascript:;) 
+5. 자동차(연결자동차를 포함한다)가 정상적인 주행을 하는 동안 발생되는 응력(변형력)에 견딜 것
 
-  - [본문목록열림본문](javascript:;)
-  - [부칙목록열림부칙](javascript:;)
-  - [별표목록열림별표](javascript:;)
+6. 조향장치(피견인자동차를 조향하는 제어장치를 포함한다)는 자기장이나 전기장에 의하여 작동에 영향을 받지 아니할 것
 
-[본문](javascript:; "본문 새 창 열림")
-[제정·개정이유](javascript:; "제정개정이유 새 창 열림")
-[별표·서식](javascript:; "별표서식")
-[연혁](javascript:; "연혁")
-[3단비교](javascript:; "3단비교 새 창 열림")
-[신구법비교](javascript:; "신구법비교 새 창 열림")
-[법령체계도](javascript:; "법령체계도 새 창 열림")
+7. 조향장치의 결합구조를 조절하는 장치는 잠금장치에 의하여 고정되도록 할 것
 
-[법령비교](javascript:; "법령비교 새 창 열림")
-[생활법령정보](javascript:; "생활법령정보")
-[조례위임조문](javascript:; "조례위임조문")
-[위임조례](javascript:; "위임조례")
-[한눈보기](javascript:void(0); "한눈보기")
-[원문다운로드](javascript:; "원문다운로드")
-[음성지원](javascript:; "음성지원 레이어")
-[점자뷰어](javascript:; "점자뷰어")
+8. 조향바퀴는 뒷바퀴에만 있어서는 아니 될 것. 다만, 세미트레일러는 그러하지 아니하다.
 
-[![메뉴영역 접기](/LSW/images/button/btn_v13slcl.gif)   ![메뉴영역 펼치기](/LSW/images/button/btn_v13slop.gif)](javascript:; "본문바로가기")
+9. 조향장치 중 기계적인 강성이 필요한 모든 관련 부품은 제동장치 등과 같은 필수부품과 동등한 안전특성으로 충분한 크기를 갖추어야 하고, 그 부품의 고장으로 자동차를 조종하지 못할 것으로 우려되는 부품은 금속 또는 이와 동등한 특성을 갖는 재질로 제작되어야 하며, 정상적인 작동 중일 때에는 해당 부품에 심각한 변형이 발생하지 아니할 것
 
-조문 선택  조문선택  
-[화면내검색](javascript:;)
-새창 선택
+10. 조향장치의 기능을 저해시키는 고장(기계적인 부품의 고장은 제외한다)이 발생한 경우에는 운전자가 고장을 명백하게 확인할 수 있는 경고장치를 갖출 것. 다만, 다음 각 목의 어느 하나에 해당하는 경우에는 경고장치를 갖춘 것으로 본다.
 
- [![공유하기](/LSW/images/common/btn_share_1.png)](javascript:; "공유하기") 
+가. 고장 시 조향장치에 의도적으로 진동을 발생시키도록 하는 구조인 경우
 
-- [![카카오톡](images/onelook/share_kakao.png)카카오톡](javascript:shareOnKakao(); "카카오톡 새 창 열림")
-- [![페이스북](images/onelook/share_facebook.png)페이스북](javascript:shareOnFacebook(); "페이스북 새 창 열림")
-- [![트위터](images/onelook/share_twitter_tobe.png)트위터](javascript:shareOnTwitter(); "트위터 새 창 열림")
-- [![라인](images/onelook/share_line.png)라인](javascript:shareOnLine(); "라인 새 창 열림")
-- [![주소복사](images/onelook/share_url.png)주소복사](javascript: shareUrl();)
+나. 고장 시 자동차(피견인자동차는 제외한다)의 조향조종력이 증가되는 구조인 경우
 
- [![관심법령추가](/LSW/images/common/btn_v13fn8_1.png)](javascript:; "관심법령추가") 
- [![한자](/LSW/images/common/btn_v13fn5_1.png)](javascript:; "한자") 
- [![저장](/LSW/images/common/btn_v13fn6_1.png)](javascript:; "저장") 
- [![인쇄](/LSW/images/common/btn_v13fn7_1.png)](javascript:; "인쇄(새창팝업)")
+다. 피견인자동차의 경우 고장 시 기계적인 표시기를 갖춘 구조인 경우
 
-**조례위임조문**
-법령에서 자치법규로 위임한 사항이 있는  
- 조문의 목록을 제공하고 바로가기 기능을  
- 제공합니다.
+② 삭제 <2003. 2. 25.>
 
-**위임조례**
-현재 보고있는 법에서 위임한 사항이 있는 자치법규에 대한 자치법규를 검색하여 목록을 제공합니다.
+③조향핸들의 유격(조향바퀴가 움직이기 직전까지 조향핸들이 움직인 거리를 말한다)은 당해 자동차의 조향핸들지름의 12.5퍼센트이내이어야 한다.
 
-**한눈에 이해되는 법령정보**
-법령 속 어려운 내용을 그림이나 표로 표현하여 알기 쉽게 제공합니다. 한눈보기는 법제처에서 제공하는 가공된 법령정보로 법령 그 자체는 아닙니다.
-
-### 법령정보
-
-![이 곳에서는 현재 시행되고 있는 헌법, 법률, 대통령, 총리령, 부령과 국회규칙, 대법원규칙, 헌법재판소규칙, 선거관리위원회규칙, 감사원규칙을 찾아 볼 수 있습니다. 법령내용이나 법령명에 포함된 용어를 입력하거나, 공포번호 및 공포일자를 입력하십시오.](/LSW/images/common/txt_subdef1.gif)
-
-![ 위 검색창에 검색어를 입력하십시오](/LSW/images/common/txt_subdef9.gif)
-
-### 법령정보
-
-![이 곳에서는 현재 시행되고 있는 헌법, 법률, 대통령, 총리령, 부령과 국회규칙, 대법원규칙, 헌법재판소규칙, 선거관리위원회규칙, 감사원규칙을 찾아 볼 수 있습니다. 법령내용이나 법령명에 포함된 용어를 입력하거나, 공포번호 및 공포일자를 입력하십시오.](/LSW/images/common/txt_subdef1.gif)
-
-![ 위 검색창에 검색어를 입력하십시오](/LSW/images/common/txt_subdef9.gif)
-
-### 법령정보
-
-![이 곳에서는 현재 시행되고 있는 헌법, 법률, 대통령, 총리령, 부령과 국회규칙, 대법원규칙, 헌법재판소규칙, 선거관리위원회규칙, 감사원규칙을 찾아 볼 수 있습니다. 법령내용이나 법령명에 포함된 용어를 입력하거나, 공포번호 및 공포일자를 입력하십시오.](/LSW/images/common/txt_subdef1.gif)
-
-![ 위 검색창에 검색어를 입력하십시오](/LSW/images/common/txt_subdef9.gif)
-
-[![나의조문](/LSW/images/button/btn_caop.gif)](javascript:;)
-[![저장](/LSW/images/button/btn_ssav.gif)](javascript:;)
-[![인쇄](/LSW/images/button/btn_spri.gif)](javascript:;)
- [![공유하기](/LSW/images/common/btn_share.png)](javascript:; "공유하기") 
-
-- [![카카오톡](images/onelook/share_kakao.png)카카오톡](javascript:shareOnKakao(); "카카오톡 새 창 열림")
-- [![페이스북](images/onelook/share_facebook.png)페이스북](javascript:shareOnFacebook(); "페이스북 새 창 열림")
-- [![트위터](images/onelook/share_twitter_tobe.png)트위터](javascript:shareOnTwitter(); "트위터 새 창 열림")
-- [![라인](images/onelook/share_line.png)라인](javascript:shareOnLine(); "라인 새 창 열림")
-- [![주소복사](images/onelook/share_url.png)주소복사](javascript: shareUrl();)
-
-[복사](javascript:;) |
-[돋보기](#AJAX)
-
-|
-
-[생활법령정보](javascript:;)
-
-|
-
-[![닫기](/LSW/images/button/btn_del2.gif)](javascript:;)
-
-위로
-
-아래로
-
-검색조문선택
-
-화면내검색 입력 폼
-
-검색어 입력
-[![검색](/LSW/images/button/btn_seh4.gif)](javascript:;)
-
-모드
-
-전체저장
-
-목록저장
-
- 닫기 
-
-파일형식
-
-XLS(엑셀)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-모드
-
-전체저장
-
-목록저장
-
- 닫기 
-
-파일형식
-
-XLS(엑셀)
-
-TXT(텍스트)
-
-한글(본문)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-파일형식 선택
-
-- 파일형식
-- HTML XLS(엑셀)
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-PDF
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록저장
-
- 닫기 
-
-파일형식
-
-HWP(한글)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록저장
-
- 닫기 
-
-파일형식
-
-HWP(한글)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록 저장
-
- 닫기 
-
-파일형식
-
-HWP(한글)
-
-TXT(텍스트)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-목록저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-본문저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-PDF
-
-오피스(DOC)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-파일형식 선택
-
-법령용어명
-
-- 파일형식
-- 한글(HWP) PDF
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-법령용어명
-
-목록저장
-
- 닫기 
-
-파일형식
-
-한글(HWP)
-
-TXT(텍스트)
-
-파일형식 선택
-
-- 파일형식
-- HTML HWP(한글) XLS(엑셀)
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-PDF
-
-DOC
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-파일형식 선택
-
-- 파일형식
-- HTML XLS(엑셀) HWP(한글)
-
-[![닫기](/LSW/images/button/btn_close2.gif)](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-내용저장
-
- 닫기 
-
-파일형식
-
-HTML
-
-HWP(한글)
-
-XLS(엑셀)
-
-[저장](javascript:;)
-[닫기](javascript:;)
-
-용지/폰트설정
-
-[범위설정](#AJAX)
-
-- ![일부저장](images/pop/stit_save2.gif)  일부범위입력
-- ![선택저장](images/pop/stit_save3.gif)
-- 시행령 연계 데이터를 보려면 전체를 선택해주세요
-
-[법령본문](#AJAX)
-
-- 전체
-
-HTML파일
-
-HWP파일
-
-EXCEL파일
-
-PDF파일
-
-DOC파일
-
-HTML파일
-
-[![저장](/LSW/images/button/btn_save3.gif)](#AJAX)
-
-[![인쇄](/LSW/images/button/btn_print4.gif)](#AJAX)
-
-[![취소](images/button/btn_can.gif)](#AJAX)
-
-![아래한글 사용자는 최신버전을 업그레이드하십시오.](images/pop/stit_save4.gif)
-
-[![프로그램 내려받기(한글 버전별 링크)](images/pop/btn_down.gif)](#AJAX)
-
-**위임행정규칙**
-법률·대통령령·총리령·부령 등 상위법령에서 위임한 사항을  
- 훈령·예규·고시·공고 등의 형식으로 정하고 있는 행정규칙을 말합니다.
-
-닫기
+④조향바퀴의 옆으로 미끄러짐이 1미터 주행에 좌우방향으로 각각 5밀리미터 이내이어야 하며, 각 바퀴의 정렬상태가 안전운행에 지장이 없어야 한다.
