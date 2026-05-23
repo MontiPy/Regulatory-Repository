@@ -137,23 +137,8 @@ def _fetch_with_api(session: RateLimitedSession, api_key: str, law_id: str, arti
 
 
 def _fetch_public_html(session: RateLimitedSession, law_id: str, article: str) -> tuple[str, str]:
-    url = f"{PUBLIC_BASE}/LSW/lsInfoP.do?lsiSeq={law_id}"
-    try:
-        resp = session.get(url)
-        html = resp.text
-        title = f"KMVSS Article {article}"
-        match = re.search(rf"<span[^>]*>\s*제\s*{article}\s*조\s*</span>\s*<span[^>]*>(.*?)</span>", html, re.DOTALL)
-        if match:
-            title_raw = re.sub(r"<[^>]+>", "", match.group(1))
-            title = f"KMVSS Article {article} — {title_raw.strip()}"
-        md_body = markdownify(html)
-        md_body = re.sub(r"\n{3,}", "\n\n", md_body).strip()
-        if not md_body:
-            md_body = f"# {title}\n\nSee {_source_url(law_id, article)} for full text."
-    except Exception:
-        title = f"KMVSS Article {article}"
-        md_body = f"# {title}\n\nSee {_source_url(law_id, article)} for full text."
-    return title, md_body
+    full_html = _fetch_full_law(session, law_id)
+    return _parse_article(full_html, article)
 
 
 def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
@@ -198,6 +183,7 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
                 "source_url": src_url,
                 "source_api": "law_go_kr",
                 "tagging_status": "untagged",
+                "translation_status": "untranslated",
             }
             path = write_md(record, md_body, dest_dir)
             pulled.append(path)
