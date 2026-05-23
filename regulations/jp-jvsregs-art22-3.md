@@ -8,6 +8,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
 title: JVSR Article 22_3 — （座席ベルト等）
+translation_status: untranslated
 ---
 
 （座席ベルト等）

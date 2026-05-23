@@ -8,6 +8,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
 title: JVSR Article 31 — （ばい煙、悪臭のあるガス、有害なガス等の発散防止装置）
+translation_status: untranslated
 ---
 
 （ばい煙、悪臭のあるガス、有害なガス等の発散防止装置）

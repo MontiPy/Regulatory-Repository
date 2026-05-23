@@ -1,0 +1,215 @@
+region: BR
+connector: brazil
+description: Brazilian Vehicle Safety and Emissions Regulations (CONTRAN, CONAMA, IBAMA, SENATRAN, ANATEL, MOVER)
+source: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran
+
+records:
+  # ── Occupant Protection ──────────────────────────────────────────────────────
+  - id: br-contran-910
+    title: Occupant Protection and Fuel System Integrity from Impact
+    citation: "CONTRAN 910/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-910-de-28-de-marco-de-2022"
+    url_type: html
+
+  - id: br-contran-949
+    title: Side Impact Occupant Protection Against Deformable Barrier and Pole
+    citation: "CONTRAN 949/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9492022.pdf/@@download/file"
+    url_type: pdf
+
+  - id: br-contran-951
+    title: Seat Belts, Anchorages and Head Restraints
+    citation: "CONTRAN 951/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9512022.pdf/view"
+    url_type: pdf
+
+  - id: br-contran-964
+    title: Driver and Front Passenger Frontal Airbag
+    citation: "CONTRAN 964/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-885
+    title: Door Retention Systems, Latches and Hinges
+    citation: "CONTRAN 885/2021"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-936
+    title: Seat Belt Reminder
+    citation: "CONTRAN 936/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  # ── Braking ───────────────────────────────────────────────────────────────────
+  - id: br-contran-915
+    title: Braking Systems and ABS/CBS Procedures
+    citation: "CONTRAN 915/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-954
+    title: Mandatory Electronic Stability Control
+    citation: "CONTRAN 954/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9542022.pdf/@@download/file"
+    url_type: pdf
+
+  # ── Tyres ─────────────────────────────────────────────────────────────────────
+  - id: br-contran-913
+    title: Use of Tires
+    citation: "CONTRAN 913/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  # ── Lighting and Signalling ───────────────────────────────────────────────────
+  - id: br-contran-970
+    title: Lighting, Signalling Systems and Devices
+    citation: "CONTRAN 970/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9702022.pdf"
+    url_type: pdf
+
+  # ── Visibility ────────────────────────────────────────────────────────────────
+  - id: br-contran-966
+    title: Rear-view Mirrors
+    citation: "CONTRAN 966/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-960
+    title: Safety Glass, Visibility and Light Transmittance
+    citation: "CONTRAN 960/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-224
+    title: Windshield Wiper and Washer
+    citation: "CONTRAN 224/2007"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-924
+    title: Interior and Exterior Mirrors
+    citation: "CONTRAN 924/2022"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Controls and Instruments ──────────────────────────────────────────────────
+  - id: br-contran-758
+    title: Controls, Tell-tales and Indicators
+    citation: "CONTRAN 758/2018"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-37
+    title: Identification and Lighting of Controls
+    citation: "CONTRAN 37/1998"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Doors and Windows ─────────────────────────────────────────────────────────
+  - id: br-contran-908
+    title: Powered Windows, Sunroof and Partition Controls
+    citation: "CONTRAN 908/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-498
+    title: Cover / Hood Latch
+    citation: "CONTRAN 498/2014"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Anti-theft ────────────────────────────────────────────────────────────────
+  - id: br-contran-215
+    title: Burglar Alarm / Anti-theft Equipment
+    citation: "CONTRAN 215/2006"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  - id: br-contran-245-330
+    title: Anti-theft Equipment / Immobilizer Schedule
+    citation: "CONTRAN 245/2007 and 330/2009"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  # ── Warning Devices ───────────────────────────────────────────────────────────
+  - id: br-contran-827
+    title: Horn / Audible Warning Device
+    citation: "CONTRAN 827/1998"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── EV / Alternative Powertrains ─────────────────────────────────────────────
+  - id: br-contran-749
+    title: Specific Requirements for Hybrid, Plug-in Hybrid and Electric Vehicles
+    citation: "CONTRAN 749/2018"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  # ── Driver Assistance ─────────────────────────────────────────────────────────
+  - id: br-contran-759
+    title: Rear Alert / Monitoring System
+    citation: "CONTRAN 759/2018"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  - id: br-contran-764
+    title: Multimedia and Navigation Device
+    citation: "CONTRAN 764/2018"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Mandatory Equipment ───────────────────────────────────────────────────────
+  - id: br-contran-912
+    title: Mandatory Equipment
+    citation: "CONTRAN 912/2022"
+    source_url: "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran"
+    url_type: stub
+
+  # ── Consumer Information / Labeling ──────────────────────────────────────────
+  - id: br-contran-safety-labeling
+    title: Vehicle Safety Label and Consumer Information
+    citation: "CONTRAN Safety Labeling / ENSV"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Noise ─────────────────────────────────────────────────────────────────────
+  - id: br-abnt-nbr-15145
+    title: Vehicle Noise (ABNT NBR 15145 / 9714)
+    citation: "ABNT NBR 15145 / 9714"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Emissions ─────────────────────────────────────────────────────────────────
+  - id: br-conama-492
+    title: PROCONVE L7/L8 Emission Requirements for New Light Road Vehicles
+    citation: "CONAMA 492/2018"
+    source_url: "https://conama.mma.gov.br/?id=765&option=com_sisconama&task=arquivo.download"
+    url_type: pdf
+
+  - id: br-ibama-in-3
+    title: RDE Requirements for PROCONVE L7/L8 Light Passenger and Commercial Vehicles
+    citation: "IBAMA IN 3/2021"
+    source_url: "https://www.ibama.gov.br/component/legislacao/?legislacao=138776&view=legislacao"
+    url_type: html
+
+  # ── Homologation / Type Approval ─────────────────────────────────────────────
+  - id: br-senatran-990
+    title: Vehicle Homologation, CAT and RENAVAM Procedure
+    citation: "SENATRAN Ordinance 990/2022"
+    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
+    url_type: atic
+
+  # ── Telecommunications ────────────────────────────────────────────────────────
+  - id: br-anatel-cert
+    title: Brazil Telecommunications Product Certification and Homologation
+    citation: "ANATEL Certification and Homologation"
+    source_url: "https://www.gov.br/anatel/pt-br/regulado/certificacao"
+    url_type: html
+
+  # ── Green Mobility / Fuel Economy ────────────────────────────────────────────
+  - id: br-mover-rota-2030
+    title: Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework
+    citation: "MOVER / Rota 2030"
+    source_url: "https://www.gov.br/planalto/en/latest-news/2025/04/president-lula-signs-decree-that-regulates-green-mobility-and-innovation-program"
+    url_type: html

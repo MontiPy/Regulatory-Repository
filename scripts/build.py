@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import argparse
 import json
+import platform
 import re
+import subprocess
 import sys
 from collections import Counter
 from datetime import datetime, timezone
@@ -45,6 +47,8 @@ OPTIONAL_KEYS = {
     "tagged_at",
     "effective_date",
     "last_amended",
+    "paywall",
+    "translation_status",
 }
 
 ALLOWED_KEYS = REQUIRED_KEYS | OPTIONAL_KEYS
@@ -53,6 +57,7 @@ TAXONOMY_FIELDS = {
     "region": "regions",
     "status": "statuses",
     "tagging_status": "tagging_statuses",
+    "translation_status": "translation_statuses",
     "commodities": "commodities",
     "systems": "systems",
     "vehicle_categories": "vehicle_categories",
@@ -237,6 +242,8 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "un_equivalent": as_list(metadata.get("un_equivalent"), "un_equivalent", []),
         "related": as_list(metadata.get("related"), "related", []),
         "tags": as_list(metadata.get("tags"), "tags", []),
+        "paywall": bool(metadata.get("paywall", False)),
+        "translation_status": stringify(metadata.get("translation_status", "")),
         "body_html": body_html,
         "summary_text": summarize(body_html),
     }
@@ -289,11 +296,34 @@ def render_index(records: list[dict[str, Any]], taxonomy: dict[str, list[str]]) 
     (DIST_DIR / "index.html").write_text(html, encoding="utf-8")
 
 
+def _list_md_files(directory: Path) -> list[Path]:
+    """Return sorted .md files from directory.
+
+    Falls back to PowerShell enumeration on Windows where OneDrive reparse
+    points cause Path.glob to silently return nothing.
+    """
+    files = list(directory.glob("*.md"))
+    if not files and platform.system() == "Windows":
+        try:
+            result = subprocess.run(
+                [
+                    "powershell", "-NoProfile", "-Command",
+                    f'Get-ChildItem -LiteralPath "{directory}" -Filter "*.md" | '
+                    f'Select-Object -ExpandProperty FullName',
+                ],
+                capture_output=True, text=True, timeout=60,
+            )
+            files = [Path(p.strip()) for p in result.stdout.splitlines() if p.strip()]
+        except Exception:
+            pass
+    return sorted(files)
+
+
 def build(draft: bool) -> int:
     taxonomy, taxonomy_sets = load_taxonomy()
     entries: list[tuple[dict[str, Any], list[BuildIssue]]] = []
 
-    for path in sorted(REGULATIONS_DIR.glob("*.md")):
+    for path in _list_md_files(REGULATIONS_DIR):
         record, issues = build_record(path, taxonomy_sets, draft)
         entries.append((record, issues))
 

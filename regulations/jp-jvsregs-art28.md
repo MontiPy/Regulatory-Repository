@@ -14,6 +14,7 @@ systems:
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 28 — （高圧ガス運送装置）
+translation_status: untranslated
 vehicle_categories:
 - Heavy truck
 ---

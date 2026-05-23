@@ -13,6 +13,7 @@ systems:
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 5 — （安定性）
+translation_status: untranslated
 vehicle_categories:
 - Passenger car
 - Light truck

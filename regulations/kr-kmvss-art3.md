@@ -8,6 +8,7 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
 title: KMVSS Article 3
+translation_status: untranslated
 ---
 
 # KMVSS Article 3

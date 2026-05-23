@@ -8,6 +8,7 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 tagging_status: untagged
 title: KMVSS Article 5
+translation_status: untranslated
 ---
 
 법령 > 본문 > 자동차 및 자동차부품의 성능과 기준에 관한 규칙 | 국가법령정보센터

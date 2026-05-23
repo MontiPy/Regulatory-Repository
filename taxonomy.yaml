@@ -1,8 +1,10 @@
-regions: [US, EU, KR, AU, JP, CA, ECE]
+regions: [US, EU, KR, AU, JP, CA, ECE, BR, GCC, CN, TW, IN]
 
 statuses: [in-force, proposed, withdrawn, superseded]
 
 tagging_statuses: [untagged, llm-tagged]
+
+translation_statuses: [untranslated, machine-translated, human-reviewed]
 
 commodities:
   - Seats

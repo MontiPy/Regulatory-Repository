@@ -8,6 +8,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
 title: JVSR Article 45 — （窓ふき器等）
+translation_status: untranslated
 ---
 
 （窓ふき器等）

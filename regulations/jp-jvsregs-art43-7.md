@@ -8,6 +8,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
 title: JVSR Article 43_7 — （車両接近通報装置）
+translation_status: untranslated
 ---
 
 （車両接近通報装置）

@@ -8,6 +8,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
 title: JVSR Article 46_2 — （事故情報計測・記録装置）
+translation_status: untranslated
 ---
 
 （事故情報計測・記録装置）

@@ -8,6 +8,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
 title: JVSR Article 15 — （燃料装置）
+translation_status: untranslated
 ---
 
 （燃料装置）

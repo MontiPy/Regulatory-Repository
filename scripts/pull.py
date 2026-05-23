@@ -29,6 +29,7 @@ REGION_CONNECTOR = {
     "JP": ("connectors.egov_jp", "manifests/jp.yaml"),
     "CA": ("connectors.justice_ca", "manifests/ca.yaml"),
     "ECE": ("connectors.unece", "manifests/ece.yaml"),
+    "BR": ("connectors.brazil", "manifests/br.yaml"),
 }
 
 
