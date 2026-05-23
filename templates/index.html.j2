@@ -634,6 +634,45 @@
     html[data-theme="light"] .site-footer { background: var(--gray-9); }
     html[data-theme="dark"] .site-footer  { background: #17181C; }
 
+    /* ── Filter info icon ─────────────────────────────────────── */
+    .filter-info {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 14px;
+      height: 14px;
+      border: 1px solid var(--gray-4);
+      border-radius: 50%;
+      font-size: 9px;
+      font-weight: 700;
+      font-style: italic;
+      color: var(--fg-3);
+      cursor: default;
+      flex-shrink: 0;
+      line-height: 1;
+      transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease);
+    }
+    .filter-info:hover { border-color: var(--honda-red); color: var(--honda-red); }
+
+    /* ── Global tooltip ────────────────────────────────────────── */
+    #tip {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      background: var(--gray-9);
+      color: var(--white);
+      font-size: 12px;
+      font-weight: 400;
+      letter-spacing: 0;
+      text-transform: none;
+      line-height: 1.5;
+      padding: 8px 12px;
+      max-width: 220px;
+      pointer-events: none;
+      border-left: 3px solid var(--honda-red);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+    }
+
     .hidden { display: none !important; }
 
     /* ── Responsive ────────────────────────────────────────────── */
@@ -699,6 +738,8 @@
     </main>
   </div>
 
+  <div id="tip" role="tooltip" aria-hidden="true"></div>
+
   <footer class="site-footer">
     <span>Built {{ build_meta.timestamp }} &nbsp;&bull;&nbsp; {{ build_meta.count }} regulations &nbsp;&bull;&nbsp; {{ build_meta.region_counts|length }} regions</span>
   </footer>
@@ -709,12 +750,12 @@
 
     const PAGE_SIZE = 50;
     const FILTERS = [
-      { key: "region",            label: "Region",           taxonomyKey: "regions" },
-      { key: "status",            label: "Status",           taxonomyKey: "statuses" },
-      { key: "tagging_status",    label: "Tagging Status",   taxonomyKey: "tagging_statuses" },
-      { key: "vehicle_categories",label: "Vehicle Category", taxonomyKey: "vehicle_categories" },
-      { key: "systems",           label: "System",           taxonomyKey: "systems" },
-      { key: "commodities",       label: "Commodity",        taxonomyKey: "commodities" },
+      { key: "region",            label: "Region",           taxonomyKey: "regions",           tooltip: "The jurisdiction that issued the regulation — US, EU, JP, KR, AU, CA, or ECE (UN Economic Commission for Europe, whose regulations are adopted by many countries globally)." },
+      { key: "systems",           label: "System",           taxonomyKey: "systems",            tooltip: "The functional vehicle system the regulation governs, e.g. braking, ADAS, or emissions. Higher-level grouping than Commodity." },
+      { key: "commodities",       label: "Commodity",        taxonomyKey: "commodities",        tooltip: "The specific physical part or component targeted, e.g. airbags, tires, or charging inlet. More granular than System — a single regulation may cover several commodities." },
+      { key: "vehicle_categories",label: "Vehicle Category", taxonomyKey: "vehicle_categories", tooltip: "The type of vehicle the regulation applies to." },
+      { key: "status",            label: "Status",           taxonomyKey: "statuses",           tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Proposed (open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
+      { key: "tagging_status",    label: "Tagging Status",   taxonomyKey: "tagging_statuses",   tooltip: "Whether the regulation has been classified with metadata (systems, commodities, vehicle categories). Untagged = not yet processed; LLM-tagged = classified automatically." },
     ];
 
     const searchInput   = document.querySelector("#search");
@@ -728,6 +769,9 @@
     const recordById    = new Map(REGS.map((r) => [r.id, r]));
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
+
+    const DISPLAY_LABELS = { "in-force": "Active" };
+    function displayLabel(value) { return DISPLAY_LABELS[String(value ?? "")] ?? value; }
 
     function escapeHtml(value) {
       return String(value ?? "")
@@ -880,7 +924,7 @@
               <div class="badges">
                 <span class="badge region">${escapeHtml(record.region)}</span>
                 <span class="badge">${escapeHtml(record.citation)}</span>
-                <span class="badge ${statusClass(record.status)}">${escapeHtml(record.status)}</span>
+                <span class="badge ${statusClass(record.status)}">${escapeHtml(displayLabel(record.status))}</span>
                 ${untagged}
               </div>
               <p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>
@@ -914,14 +958,17 @@
           return `
             <label class="facet-option" for="${escapeHtml(id)}">
               <input type="checkbox" id="${escapeHtml(id)}" name="${escapeHtml(filter.key)}" value="${escapeHtml(value)}">
-              <span>${escapeHtml(value)}</span>
+              <span>${escapeHtml(displayLabel(value))}</span>
               <span class="facet-count" data-facet="${escapeHtml(filter.key)}" data-value="${escapeHtml(value)}" aria-hidden="true">0</span>
             </label>
           `;
         }).join("");
+        const infoIcon = filter.tooltip
+          ? `<span class="filter-info" data-tooltip="${escapeHtml(filter.tooltip)}">i</span>`
+          : "";
         return `
           <details${DEFAULT_OPEN.has(filter.key) ? " open" : ""}>
-            <summary>${escapeHtml(filter.label)}</summary>
+            <summary>${escapeHtml(filter.label)}${infoIcon}</summary>
             <div class="facet-options">${controls}</div>
           </details>
         `;
@@ -1026,6 +1073,26 @@
     applyUrlParams();
     render();
     updateClearButton();
+
+    (function () {
+      const tip = document.getElementById("tip");
+      document.addEventListener("mouseover", function (e) {
+        const el = e.target.closest("[data-tooltip]");
+        if (!el) { tip.style.display = "none"; return; }
+        tip.textContent = el.dataset.tooltip;
+        tip.style.display = "block";
+        const r = el.getBoundingClientRect();
+        const tw = tip.offsetWidth;
+        const left = (r.right + 10 + tw > window.innerWidth) ? r.left - tw - 10 : r.right + 10;
+        tip.style.left = left + "px";
+        tip.style.top  = Math.max(8, r.top - 2) + "px";
+      });
+      document.addEventListener("mouseout", function (e) {
+        if (!e.relatedTarget || !e.relatedTarget.closest("[data-tooltip]")) {
+          tip.style.display = "none";
+        }
+      });
+    })();
 
     (function () {
       const root = document.documentElement;
