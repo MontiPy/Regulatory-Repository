@@ -770,8 +770,12 @@
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
 
-    const DISPLAY_LABELS = { "in-force": "Active" };
-    function displayLabel(value) { return DISPLAY_LABELS[String(value ?? "")] ?? value; }
+    const DISPLAY_LABELS = { "in-force": "Active", "llm-tagged": "LLM-tagged" };
+    function displayLabel(value) {
+      const str = String(value ?? "");
+      if (DISPLAY_LABELS[str] !== undefined) return DISPLAY_LABELS[str];
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    }
 
     function escapeHtml(value) {
       return String(value ?? "")
