@@ -37,7 +37,7 @@ def _source_url(law_id: str, article: str) -> str:
 def _article_label_pattern(article: str) -> re.Pattern[str]:
     if "-" in article:
         base, sub = article.split("-", 1)
-        pat = rf"제\s*{re.escape(base)}\s*조의\s*{re.escape(sub)}"
+        pat = rf"제\s*{re.escape(base)}\s*조의\s*{re.escape(sub)}(?!\d)"
     else:
         pat = rf"제\s*{re.escape(article)}\s*조\b"
     return re.compile(pat)
@@ -57,14 +57,18 @@ def _parse_article(full_html: str, article: str) -> tuple[str, str]:
     if label is None:
         return f"KMVSS Article {article}", f"# KMVSS Article {article}\n\nSee source for full text."
 
-    title_text = label.get_text(strip=True)
+    title_text = f"KMVSS Article {article} — {label.get_text(strip=True)}"
     container = label.find_parent("p")
     if container is None:
         return title_text, f"# {title_text}\n\nSee source for full text."
 
     fragments: list[str] = [str(container)]
     for sib in container.next_siblings:
-        if hasattr(sib, "get") and "pty1_p4" in (sib.get("class") or []):
+        tag = getattr(sib, "name", None)
+        cls = (sib.get("class") or []) if hasattr(sib, "get") else []
+        if "pty1_p4" in cls:
+            break
+        if tag in ("div", "table", "footer", "script", "style"):
             break
         fragments.append(str(sib))
 
