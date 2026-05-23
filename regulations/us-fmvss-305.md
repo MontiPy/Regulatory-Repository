@@ -6,7 +6,7 @@ commodities:
 - Connectors
 - Charging inlet
 id: us-fmvss-305
-last_pulled: '2026-05-22T19:25:29+00:00'
+last_pulled: '2026-05-23T03:09:06+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305
@@ -18,8 +18,7 @@ systems:
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: '§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage
-  and electrical shock protection; applicable unless a vehicle is certified to §
-  571.305a.'
+  and electrical shock protection; applicable unless a vehicle is certified to § 571.305a.'
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -4,7 +4,7 @@ commodities:
 - Fuel system
 - Fuel tanks
 id: kr-kmvss-art27
-last_pulled: '2026-05-22T20:12:44+00:00'
+last_pulled: '2026-05-23T03:15:08+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX

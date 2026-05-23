@@ -1,5 +1,21 @@
 # Regulatory Repository — TODO
 
+## ⚠ Pending: Pull + Rebuild Required
+
+The following regions have manifest changes that have **not yet been pulled or reflected in `dist/index.html`**:
+
+- **AU** — manifest expanded from 13 → 90 entries; only 13 `.md` files exist in `regulations/`
+- **US** — 3 new EPA entries added (40 CFR Parts 82, 85, 1066); 0 `.md` files exist for these
+
+To update the HTML:
+1. `python scripts/pull.py --region AU`
+2. `python scripts/pull.py --region US`
+3. `python scripts/build.py`
+
+Or pull all regions at once: `python scripts/pull.py --all && python scripts/build.py`
+
+---
+
 ## General TODOs
 
 - [ ] Translate Korean-language content (KMVSS) to English — all regulatory text must be in English for this tool to function correctly
@@ -14,44 +30,24 @@ numbers, but the spreadsheet lists 91 EU/UNECE entries. The ~67 UN Regulations (
 adopted by the EU via OJ decisions and have non-standard CELEX IDs (prefix `4`, e.g.
 `42019X0224(01)`). These require per-regulation lookup.
 
-- [ ] Research CELEX IDs for the following UNECE/UN Regulations adopted by EU and add to `manifests/eu.yaml`:
-  - UNECE R3, R4, R6, R7, R10, R11, R12, R13-H, R14, R16, R17, R19, R21, R23, R25, R27
-  - UNECE R30, R34, R37, R38, R39, R43, R44, R45, R46, R48, R51, R55, R64, R77, R79
-  - UNECE R83, R85, R87, R91, R94, R95, R98, R99, R100, R101, R112, R114, R116, R117
-  - UNECE R119, R121, R123, R125, R127, R128, R129, R135, R137, R138, R139, R140, R141
-  - UNECE R142, R144, R145, R148, R149, R150, R152, R153, R154, R155, R156, R157, R158
-  - UNECE R159, R160, R161, R162, R163, R168
-- [ ] Alternatively, build a dedicated UNECE connector (`connectors/unece.py`) that fetches
-  directly from `https://unece.org/transport/vehicle-regulations-wp29` — this avoids the
-  EUR-Lex CELEX lookup entirely and gives first-class UNECE coverage (see *Regions Not Yet
-  Implemented → ECE* section below)
+- [x] **DONE** — Built dedicated UNECE connector (`connectors/unece.py`) pulling directly from
+  `https://unece.org/transport/vehicle-regulations-wp29`. All major UN Regulations are now in
+  `manifests/ece.yaml` under the `ECE` region. This supersedes the EUR-Lex CELEX approach.
+- [ ] Optional: Research CELEX IDs for UNECE regulations adopted by EU if EUR-Lex versions are
+  needed in addition to the UNECE originals (lower priority given ECE coverage exists).
 
-### AU — Remaining ADR Instrument IDs (~51 entries missing)
-The AU manifest (`manifests/au.yaml`) has 13 verified instrument IDs. The spreadsheet lists
-64 ADRs, but the Federal Register of Legislation API (`api.prod.legislation.gov.au`) was
-inaccessible from the build environment (403 Forbidden). Once network access is available:
+### AU — Remaining ADR Instrument IDs
+- [x] **DONE** — `manifests/au.yaml` expanded from 13 to **90 entries** covering all in-force
+  ADRs found via the Federal Register of Legislation OData API. The API uses OData filter syntax
+  (`$filter=contains(name,'Design Rule')`) — `scripts/lookup_au_instruments.py` has been updated
+  accordingly. ADRs 1–114 (where in-force versions exist) are now included.
 
-- [ ] Write `scripts/lookup_au_instruments.py` — queries
-  `https://api.prod.legislation.gov.au/v1/Titles?text=Design+Rule` to retrieve all ADR
-  instrument IDs in bulk, then patches `manifests/au.yaml` with the results
-- [ ] Alternatively, look up instrument IDs manually from
-  `https://www.legislation.gov.au/Browse/ByTitle/LegislativeInstruments/InForce/0/0/Principal`
-  filtered to "Design Rule" and add entries for:
-  ADR 1, 2, 5, 6, 10, 18, 21, 22, 25, 29, 31, 42 (newer version), 43, 46, 47, 48, 49,
-  50, 52, 60, 61, 69, 72, 73, 81, 82, 83, 85, 88, 89, 90, 92, 93, 94, 95, 98, 107, 108,
-  109, 110, 111, 112, 113 and the Road Vehicle Standards framework instruments
-
-### US — EPA Emissions Regulations (excluded from current pull)
-The eCFR connector is hardcoded to Title 49. The spreadsheet includes 40 CFR regulations
-(EPA) which were intentionally excluded because the connector can't reach them.
-
-- [ ] Extend `connectors/ecfr.py` to accept an optional `title` field (default `49`) so
-  40 CFR entries can be pulled alongside 49 CFR entries
-- [ ] Add to `manifests/us.yaml` once connector supports it:
-  - `{ title: 40, part: 86 }` — Light-duty vehicle emission standards (Tier 3)
-  - `{ title: 40, part: 86, section: "1811-27" }` — Tier 4 criteria exhaust emission standards
+### US — EPA Emissions Regulations
+- [x] **DONE** — `connectors/ecfr.py` supports an optional `title` field (default `49`).
+  `manifests/us.yaml` already includes:
+  - `{ title: 40, part: 86 }` — EPA light-duty vehicle emission standards (Tier 3)
   - `{ title: 40, part: 600 }` — Fuel economy and GHG exhaust emissions
-- [ ] FCC entry: `{ title: 47, part: 15 }` — Radio Frequency Devices (Part 15) — same fix needed
+  - `{ title: 47, part: 15 }` — FCC Radio Frequency Devices (Part 15)
 
 ---
 
@@ -94,10 +90,10 @@ These regulations fall under a covered Market Family but are **not reachable** b
 
 | Regulation ID | Standard Body | Title | Action |
 |---|---|---|---|
-| 47 CFR Part 15 | United States / FCC | FCC Part 15 — Radio Frequency Devices | Add to `manifests/us.yaml`; eCFR connector can pull this |
-| 40 CFR Part 85 | US EPA | Control of Air Pollution from Mobile Sources | New manifest entry; eCFR connector can pull this |
-| 40 CFR Part 1066 | US EPA | Vehicle-Testing Procedures | New manifest entry; eCFR connector can pull this |
-| 40 CFR Part 82 | FMVSS / United States / EPA | SNAP Program / Ozone Protection | New manifest entry; eCFR connector can pull this |
+| ~~47 CFR Part 15~~ | United States / FCC | FCC Part 15 — Radio Frequency Devices | ✅ Added to `manifests/us.yaml` |
+| ~~40 CFR Part 85~~ | US EPA | Control of Air Pollution from Mobile Sources | ✅ Added to `manifests/us.yaml` |
+| ~~40 CFR Part 1066~~ | US EPA | Vehicle-Testing Procedures | ✅ Added to `manifests/us.yaml` |
+| ~~40 CFR Part 82~~ | FMVSS / United States / EPA | SNAP Program / Ozone Protection | ✅ Added to `manifests/us.yaml` |
 | Title 13 CCR 1961.4+ | US / California CARB | Advanced Clean Cars II / LEV IV / ZEV | California Code of Regulations — separate source, no connector |
 | California Prop 65 | United States / California | Toxic enforcement warnings | HTML source; no connector |
 | MA Ch. 93K / Acts 2020 | United States / Massachusetts | Right-to-repair telematics | State law; no connector |

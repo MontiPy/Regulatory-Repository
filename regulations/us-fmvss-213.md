@@ -3,7 +3,7 @@ citation: 49 CFR §571.213
 commodities:
 - Seats
 id: us-fmvss-213
-last_pulled: '2026-05-22T19:25:14+00:00'
+last_pulled: '2026-05-23T03:08:00+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213

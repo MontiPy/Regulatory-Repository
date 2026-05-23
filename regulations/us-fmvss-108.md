@@ -4,7 +4,7 @@ commodities:
 - Lighting modules
 - Wiring
 id: us-fmvss-108
-last_pulled: '2026-05-22T19:23:57+00:00'
+last_pulled: '2026-05-23T03:05:46+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.108

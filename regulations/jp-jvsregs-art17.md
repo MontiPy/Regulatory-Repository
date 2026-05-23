@@ -5,7 +5,7 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 id: jp-jvsregs-art17
-last_pulled: '2026-05-22T19:53:16+00:00'
+last_pulled: '2026-05-23T03:22:35+00:00'
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067

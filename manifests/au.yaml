@@ -4,37 +4,158 @@ description: Australian Design Rules (ADR) — Federal Register of Legislation i
 source: https://www.legislation.gov.au/
 
 records:
-  # instrument_id values are verified F-numbers from the Federal Register of Legislation.
-  # Additional ADR instrument IDs require a query to api.prod.legislation.gov.au/v1/Titles
-  # — run scripts/lookup_au_instruments.py to populate the remainder.
-
   # ── Framework ────────────────────────────────────────────────────────────────
-  - { instrument_id: "F2012L01123", title: "ADR 00 - Approval Procedures and Administrative Requirements / Definitions and Vehicle Categories" }
+  - { instrument_id: "F2012L01123", title: "ADR 00/00 - Approval Procedures and Administrative Requirements / Definitions and Vehicle Categories" }
 
-  # ── Occupant Restraints ───────────────────────────────────────────────────────
+  # ── Occupant Restraints ──────────────────────────────────────────────────────
   - { instrument_id: "F2017L01344", title: "ADR 3/04 - Seats and Seat Anchorages" }
   - { instrument_id: "F2019L00026", title: "ADR 4/06 - Seatbelts" }
-  - { instrument_id: "F2012L00703", title: "ADR 34/02 - Child Restraint Anchorages and Child Restraint Anchor Fittings" }
+  - { instrument_id: "F2019L00029", title: "ADR 5/06 - Anchorages for Seatbelts" }
+  - { instrument_id: "F2017L01351", title: "ADR 34/03 - Child Restraint Anchorages and Child Restraint Anchor Fittings" }
+  - { instrument_id: "F2006L02312", title: "ADR 66/00 - Seat Strength, Seat Anchorage Strength and Padding in Omnibuses" }
+  - { instrument_id: "F2024L01742", title: "ADR 68/01 - Occupant Protection in Buses" }
+
+  # ── Head Restraints ──────────────────────────────────────────────────────────
+  - { instrument_id: "F2006L01410", title: "ADR 22/00 - Head Restraints" }
 
   # ── Glazing ───────────────────────────────────────────────────────────────────
   - { instrument_id: "F2005L03908", title: "ADR 8/01 - Safety Glazing Material" }
 
-  # ── Lighting and Signalling ───────────────────────────────────────────────────
-  - { instrument_id: "F2005L03991", title: "ADR 13/00 - Installation of Lighting and Light Signalling Devices" }
+  # ── Visibility & Mirrors ──────────────────────────────────────────────────────
+  - { instrument_id: "F2023L01319", title: "ADR 14/03 - Devices for Indirect Vision" }
+  - { instrument_id: "F2018L01521", title: "ADR 93/00 - Forward Field of View" }
 
-  # ── Visibility ────────────────────────────────────────────────────────────────
-  - { instrument_id: "F2006L02663", title: "ADR 14/02 - Rear Vision Mirrors" }
+  # ── Lighting & Signalling — Passenger Vehicles ───────────────────────────────
+  - { instrument_id: "F2005L03907", title: "ADR 6/00 - Direction Indicators" }
+  - { instrument_id: "F2005L03991", title: "ADR 13/00 - Installation of Lighting and Light Signalling Devices on other than L-Group Vehicles" }
+  - { instrument_id: "F2006L01442", title: "ADR 48/00 - Devices for Illumination of Rear Registration Plates" }
+  - { instrument_id: "F2006L02745", title: "ADR 49/00 - Front and Rear Position (Side) Lamps, Stop Lamps and End Outline Marker Lamps" }
+  - { instrument_id: "F2006L02296", title: "ADR 50/00 - Front Fog Lamps" }
+  - { instrument_id: "F2006L03254", title: "ADR 51/00 - Filament Lamps" }
+  - { instrument_id: "F2006L02304", title: "ADR 52/00 - Rear Fog Lamps" }
+  - { instrument_id: "F2006L02300", title: "ADR 60/00 - Centre High Mounted Stop Lamp" }
+  - { instrument_id: "F2006L02308", title: "ADR 74/00 - Side Marker Lamps" }
+  - { instrument_id: "F2006L02307", title: "ADR 75/00 - Headlamp Cleaners" }
+  - { instrument_id: "F2006L02306", title: "ADR 76/00 - Daytime Running Lamps" }
+  - { instrument_id: "F2017L01497", title: "ADR 86/00 - Parking Lamps" }
+  - { instrument_id: "F2017L01484", title: "ADR 87/00 - Cornering Lamps" }
+
+  # ── Headlamps ─────────────────────────────────────────────────────────────────
+  - { instrument_id: "F2006L02294", title: "ADR 46/00 - Headlamps" }
+  - { instrument_id: "F2006L02305", title: "ADR 77/00 - Gas Discharge Headlamps" }
+  - { instrument_id: "F2006L02732", title: "ADR 78/00 - Gas Discharge Light Sources" }
+
+  # ── Retroreflectors ───────────────────────────────────────────────────────────
+  - { instrument_id: "F2006L01440", title: "ADR 47/00 - Retroreflectors" }
+
+  # ── Lighting — L-Group Vehicles (Motorcycles / Mopeds) ──────────────────────
+  - { instrument_id: "F2005L04012", title: "ADR 19/02 - Installation of Lighting and Light Signalling Devices on L-Group Vehicles" }
+  - { instrument_id: "F2006L01433", title: "ADR 45/01 - Lighting and Light Signalling Devices not Covered by ECE Regulations" }
+  - { instrument_id: "F2006L02303", title: "ADR 53/00 - Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles" }
+  - { instrument_id: "F2006L02729", title: "ADR 54/00 - Headlamps for Mopeds" }
+  - { instrument_id: "F2006L02302", title: "ADR 55/00 - Headlamps for Motor Cycles" }
+  - { instrument_id: "F2006L02301", title: "ADR 57/00 - Special Requirements for L-Group Vehicles" }
+
+  # ── Lighting — Commercial & Heavy Vehicles ────────────────────────────────────
+  - { instrument_id: "F2006L02310", title: "ADR 67/00 - Installation of Lighting and Light Signalling Devices on Three-Wheeled Vehicles" }
+  - { instrument_id: "F2006L02299", title: "ADR 63/00 - Trailers Designed for Use in Road Trains" }
+  - { instrument_id: "F2006L02298", title: "ADR 64/00 - Heavy Goods Vehicles Designed for Use in Road Trains and B-Doubles" }
 
   # ── Tyres ─────────────────────────────────────────────────────────────────────
   - { instrument_id: "F2018L01518", title: "ADR 23/03 - Passenger Car Tyres" }
+  - { instrument_id: "F2018L01516", title: "ADR 95/00 - Installation of Tyres" }
+  - { instrument_id: "F2018L01517", title: "ADR 96/00 - Commercial Vehicle Tyres" }
 
-  # ── Brakes ────────────────────────────────────────────────────────────────────
+  # ── Brakes — Passenger Vehicles ──────────────────────────────────────────────
+  - { instrument_id: "F2017L01214", title: "ADR 31/04 - Brake Systems for Passenger Cars" }
+  - { instrument_id: "F2017L01221", title: "ADR 89/00 - Brake Assist Systems (BAS)" }
+
+  # ── Brakes — Motorcycles ─────────────────────────────────────────────────────
+  - { instrument_id: "F2017L01554", title: "ADR 33/01 - Brake Systems for Motorcycles and Mopeds" }
+
+  # ── Brakes — Commercial Vehicles ─────────────────────────────────────────────
   - { instrument_id: "F2022L00213", title: "ADR 35/07 - Commercial Vehicle Brake Systems" }
   - { instrument_id: "F2018L00692", title: "ADR 38/05 - Trailer Brake Systems" }
 
-  # ── General Safety ────────────────────────────────────────────────────────────
-  - { instrument_id: "F2005L03996", title: "ADR 42/04 - General Safety Requirements" }
+  # ── Advanced Emergency Braking ────────────────────────────────────────────────
+  - { instrument_id: "F2026L00284", title: "ADR 98/02 - Advanced Emergency Braking for Passenger Vehicles and Light Goods Vehicles" }
+  - { instrument_id: "F2022L00211", title: "ADR 97/00 - Advanced Emergency Braking for Omnibuses, and Medium and Heavy Goods Vehicles" }
 
-  # ── Emissions ─────────────────────────────────────────────────────────────────
+  # ── Steering ──────────────────────────────────────────────────────────────────
+  - { instrument_id: "F2008L02387", title: "ADR 10/02 - Steering Column" }
+  - { instrument_id: "F2018L01515", title: "ADR 90/00 - Steering System" }
+
+  # ── Doors & Body ─────────────────────────────────────────────────────────────
+  - { instrument_id: "F2006L01362", title: "ADR 2/01 - Side Door Latches and Hinges" }
+  - { instrument_id: "F2006L01429", title: "ADR 29/00 - Side Door Strength" }
+
+  # ── Crashworthiness ───────────────────────────────────────────────────────────
+  - { instrument_id: "F2006L01455", title: "ADR 69/00 - Full Frontal Impact Occupant Protection" }
+  - { instrument_id: "F2005L03990", title: "ADR 73/00 - Offset Frontal Impact Occupant Protection" }
+  - { instrument_id: "F2025L00028", title: "ADR 72/01 - Dynamic Side Impact Occupant Protection" }
+  - { instrument_id: "F2015L02109", title: "ADR 85/00 - Pole Side Impact Performance" }
+
+  # ── Rollover ──────────────────────────────────────────────────────────────────
+  - { instrument_id: "F2007L04077", title: "ADR 59/00 - Standards For Omnibus Rollover Strength" }
+
+  # ── Underrun Protection ───────────────────────────────────────────────────────
+  - { instrument_id: "F2009L03609", title: "ADR 84/00 - Front Underrun Impact Protection" }
+  - { instrument_id: "F2018L01519", title: "ADR 91/00 - Rear Underrun Impact Protection" }
+  - { instrument_id: "F2023L01317", title: "ADR 106/00 - Side Underrun Protection" }
+
+  # ── External Projections & Configuration ─────────────────────────────────────
+  - { instrument_id: "F2018L01520", title: "ADR 92/00 - External Projections" }
+  - { instrument_id: "F2006L01430", title: "ADR 43/04 - Vehicle Configuration and Dimensions" }
+
+  # ── Instruments & Controls ────────────────────────────────────────────────────
+  - { instrument_id: "F2006L01785", title: "ADR 11/00 - Internal Sun Visors" }
+  - { instrument_id: "F2006L01392", title: "ADR 18/03 - Instrumentation" }
+  - { instrument_id: "F2006L01786", title: "ADR 21/00 - Instrument Panel" }
+
+  # ── Reversing ─────────────────────────────────────────────────────────────────
+  - { instrument_id: "F2005L03873", title: "ADR 1/00 - Reversing Lamps" }
+  - { instrument_id: "F2023L01006", title: "ADR 108/00 - Reversing Technologies" }
+
+  # ── Anti-Theft ────────────────────────────────────────────────────────────────
+  - { instrument_id: "F2006L02664", title: "ADR 25/02 - Anti-Theft Lock" }
+  - { instrument_id: "F2006L02665", title: "ADR 82/00 - Engine Immobilisers" }
+
+  # ── Vehicle Marking ───────────────────────────────────────────────────────────
+  - { instrument_id: "F2020L01254", title: "ADR 61/03 - Vehicle Marking" }
+
+  # ── Audible Warning ───────────────────────────────────────────────────────────
+  - { instrument_id: "F2018L01513", title: "ADR 94/00 - Audible Warning" }
+
+  # ── Mechanical Connections & Road Trains ─────────────────────────────────────
+  - { instrument_id: "F2007L02226", title: "ADR 62/02 - Mechanical Connections Between Vehicles" }
+  - { instrument_id: "F2006L02297", title: "ADR 65/00 - Maximum Road Speed Limiting for Heavy Goods Vehicles and Heavy Omnibuses" }
+
+  # ── Specific Purpose Vehicles ─────────────────────────────────────────────────
+  - { instrument_id: "F2006L01431", title: "ADR 44/02 - Specific Purpose Vehicle Requirements" }
+  - { instrument_id: "F2006L01450", title: "ADR 58/00 - Requirements for Omnibuses Designed for Hire and Reward" }
+
+  # ── Emissions — Light Vehicles ────────────────────────────────────────────────
+  - { instrument_id: "F2024L00443", title: "ADR 79/05 - Emission Control for Light Vehicles" }
+  - { instrument_id: "F2024L00446", title: "ADR 111/00 - Advanced Emission Control for Light Vehicles" }
+  - { instrument_id: "F2024L00447", title: "ADR 112/00 - Control of Real Driving Emissions for Light Vehicles" }
+  - { instrument_id: "F2025L01402", title: "ADR 81/03 - Energy Consumption Labelling for Light Vehicles" }
+  - { instrument_id: "F2026L00512", title: "ADR 114/00 - Carbon Dioxide Emissions Measurement" }
+
+  # ── Emissions — Heavy Vehicles ────────────────────────────────────────────────
   - { instrument_id: "F2006L01280", title: "ADR 30/01 - Smoke Emission Control for Diesel Vehicles" }
-  - { instrument_id: "F2024L00443", title: "ADR 79 - Emission Control for Light Vehicles (current)" }
+  - { instrument_id: "F2023L00129", title: "ADR 80/04 - Emission Control for Heavy Vehicles" }
+
+  # ── Noise ─────────────────────────────────────────────────────────────────────
+  - { instrument_id: "F2005L03523", title: "ADR 83/00 - External Noise" }
+  - { instrument_id: "F2006L01279", title: "ADR 28/01 - External Noise of Motor Vehicles" }
+
+  # ── Electric & Hydrogen Vehicles ──────────────────────────────────────────────
+  - { instrument_id: "F2023L01526", title: "ADR 109/01 - Electric Power Train Safety Requirements" }
+  - { instrument_id: "F2023L01530", title: "ADR 110/00 - Hydrogen-Fuelled Vehicles Safety Related Performance" }
+  - { instrument_id: "F2024L00089", title: "ADR 113/00 - Acoustic Vehicle Alerting Systems for Quiet Road Transport Vehicles" }
+
+  # ── ADAS & Electronic Safety Systems ─────────────────────────────────────────
+  - { instrument_id: "F2017L01229", title: "ADR 88/00 - Electronic Stability Control (ESC) Systems" }
+  - { instrument_id: "F2024L00161", title: "ADR 99/01 - Lane Departure Warning Systems" }
+  - { instrument_id: "F2023L01321", title: "ADR 105/00 - Blind Spot Information Systems" }
+  - { instrument_id: "F2026L00278", title: "ADR 107/00 - Emergency Lane Keeping Systems for Passenger Vehicles and Light Goods Vehicles" }

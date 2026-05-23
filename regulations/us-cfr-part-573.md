@@ -2,7 +2,7 @@
 citation: 49 CFR Part 573
 commodities: []
 id: us-cfr-part-573
-last_pulled: '2026-05-22T19:25:34+00:00'
+last_pulled: '2026-05-23T03:11:23+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-573

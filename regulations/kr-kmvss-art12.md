@@ -3,7 +3,7 @@ citation: KMVSS Article 12
 commodities:
 - Steering column
 id: kr-kmvss-art12
-last_pulled: '2026-05-22T20:12:34+00:00'
+last_pulled: '2026-05-23T03:14:13+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX

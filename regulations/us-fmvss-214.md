@@ -4,7 +4,7 @@ commodities:
 - Door latches & hinges
 - Airbags
 id: us-fmvss-214
-last_pulled: '2026-05-22T19:25:19+00:00'
+last_pulled: '2026-05-23T03:08:10+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.214

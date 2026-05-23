@@ -136,8 +136,11 @@ records:
   - { part: 596 }                   # Automatic emergency braking test devices
 
   # 40 CFR — EPA Emissions and Fuel Economy (requires title field; same eCFR connector)
+  - { title: 40, part: 82 }          # Protection of stratospheric ozone — SNAP program and refrigerant requirements
+  - { title: 40, part: 85 }          # Control of air pollution from mobile sources — emission controls
   - { title: 40, part: 86 }          # Control of air pollution from mobile sources (Tier 3)
   - { title: 40, part: 600 }         # Fuel economy and greenhouse gas exhaust emissions of motor vehicles
+  - { title: 40, part: 1066 }        # Vehicle-testing procedures (emission and fuel economy lab testing)
 
   # 47 CFR — FCC Radio Frequency Devices (requires title field; same eCFR connector)
   - { title: 47, part: 15 }          # Radio frequency devices (Part 15 — unintentional/intentional radiators)

@@ -3,7 +3,7 @@ citation: 49 CFR §571.210
 commodities:
 - Seatbelts
 id: us-fmvss-210
-last_pulled: '2026-05-22T19:25:13+00:00'
+last_pulled: '2026-05-23T03:07:55+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.210

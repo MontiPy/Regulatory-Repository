@@ -3,7 +3,7 @@ citation: KMVSS Article 19
 commodities:
 - Glass
 id: kr-kmvss-art19
-last_pulled: '2026-05-22T20:12:37+00:00'
+last_pulled: '2026-05-23T03:15:20+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX

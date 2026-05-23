@@ -4,7 +4,7 @@ commodities:
 - ECUs
 - Brakes
 id: us-fmvss-126
-last_pulled: '2026-05-22T19:24:22+00:00'
+last_pulled: '2026-05-23T03:06:48+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.126
