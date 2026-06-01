@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -23,6 +24,22 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 SPREADSHEET = ROOT / "reference" / "passenger_vehicle_regulatory_reference_repository_v3_cleaned.xlsx"
 REGULATIONS_DIR = ROOT / "regulations"
+SPREADSHEET_MANIFEST = ROOT / "manifests" / "spreadsheet.yaml"
+
+
+@dataclass(frozen=True)
+class StubTarget:
+    file_id: str
+    workbook_id: str
+    market_family: str
+    region_body: str
+    title: str
+    region: str
+    citation: str
+    source_url: str
+    paywall: bool
+    translation_status: str
+    body: str
 
 
 def _now_iso() -> str:
@@ -101,6 +118,11 @@ def _jp_srrv_id(row: pd.Series) -> str:
     return "jp-srrv-" + _slugify(title)
 
 
+def _workbook_id(row: pd.Series, region: str) -> str:
+    repo_id = _safe(row.get("Repo ID", "workbook")).lower()
+    return f"{region.lower()}-workbook-{repo_id}-{_slugify(str(row['Regulation ID']))}"
+
+
 # Paywall overrides per India entry
 _IN_PAYWALL = {
     "AIS-038 Rev.2 / AIS-156": True,
@@ -114,6 +136,92 @@ _JP_TRANSLATION = "untranslated"   # Japanese
 _GCC_TRANSLATION = "untranslated"  # Arabic/English bilingual but paywalled
 _CN_TRANSLATION = "untranslated"   # Chinese
 
+_EXTRA_WORKBOOK_STUB_IDS = {
+    # Workbook rows that are not covered as row-level Markdown by live connectors.
+    "REG-0145",
+    "REG-0358",
+    "REG-0359",
+    "REG-0360",
+    "REG-0370",
+    "REG-0371",
+    "REG-0372",
+    "REG-0451",
+    "REG-0546",
+    "REG-0568",
+    "REG-0569",
+    "REG-0596",
+    "REG-0597",
+    "REG-0598",
+    "REG-0599",
+    "REG-0604",
+    "REG-0605",
+    "REG-0610",
+    "REG-0612",
+    "REG-0613",
+    "REG-0614",
+    "REG-0615",
+    "REG-0616",
+    "REG-0617",
+    "REG-0618",
+    "REG-0619",
+    "REG-0620",
+    "REG-0622",
+    "REG-0623",
+    "REG-0624",
+    "REG-0627",
+    "REG-0628",
+    "REG-0629",
+    "REG-0630",
+    "REG-0637",
+    "REG-0639",
+    "REG-0641",
+    "REG-0642",
+    "REG-0643",
+    "REG-0644",
+    "REG-0645",
+    "REG-0646",
+    "REG-0647",
+    "REG-0648",
+    "REG-0649",
+    "REG-0650",
+    "REG-0651",
+    "REG-0652",
+}
+
+_REGION_BY_MARKET = {
+    "Argentina / Mercosur": "AR",
+    "ASEAN": "ASEAN",
+    "Australia": "AU",
+    "Brazil": "BR",
+    "Canada": "CA",
+    "China": "CN",
+    "GCC / Middle East": "GCC",
+    "India": "IN",
+    "Israel": "IL",
+    "Japan": "JP",
+    "Mexico": "MX",
+    "New Zealand": "NZ",
+    "Other / Cross-Market": "OTHER",
+    "South Africa": "ZA",
+    "South Korea": "KR",
+    "Taiwan": "TW",
+    "Turkey": "TR",
+    "United States": "US",
+}
+
+_TRANSLATION_BY_REGION = {
+    "AR": "untranslated",
+    "ASEAN": "untranslated",
+    "CN": _CN_TRANSLATION,
+    "EAEU": "untranslated",
+    "GCC": _GCC_TRANSLATION,
+    "IL": "untranslated",
+    "JP": _JP_TRANSLATION,
+    "KR": "untranslated",
+    "MX": "untranslated",
+    "TR": "untranslated",
+}
+
 
 def load_spreadsheet() -> pd.DataFrame:
     df_idx = pd.read_excel(SPREADSHEET, sheet_name="Regulation Index")
@@ -126,6 +234,154 @@ def load_spreadsheet() -> pd.DataFrame:
         if col in df_guide.columns and col not in df_idx.columns:
             df_idx[col] = df_guide[col].values
     return df_idx
+
+
+def _region_for_row(row: pd.Series) -> str:
+    market_family = _safe(row.get("Market Family", ""))
+    region_body = _safe(row.get("Region / Standard Body", ""))
+
+    if market_family == "Europe / UNECE":
+        if any(token in region_body for token in ("EAEU", "Russia", "Customs Union")):
+            return "EAEU"
+        if "EU" in region_body and "UNECE / 1958" not in region_body:
+            return "EU"
+        return "ECE"
+
+    return _REGION_BY_MARKET.get(market_family, "OTHER")
+
+
+def _is_legacy_stub_row(row: pd.Series) -> bool:
+    market_family = _safe(row.get("Market Family", ""))
+    reg_id = _safe(row.get("Regulation ID", ""))
+
+    if market_family in {"GCC / Middle East", "China", "Taiwan", "India"}:
+        return True
+
+    if market_family == "United States":
+        cfr_prefixes = ("FMVSS", "49 CFR", "40 CFR", "47 CFR")
+        return not any(reg_id.startswith(prefix) for prefix in cfr_prefixes)
+
+    if market_family == "Japan":
+        return not reg_id.startswith("Article")
+
+    return False
+
+
+def _should_generate_stub(row: pd.Series) -> bool:
+    return _is_legacy_stub_row(row) or _safe(row.get("Repo ID", "")) in _EXTRA_WORKBOOK_STUB_IDS
+
+
+def _base_file_id(row: pd.Series, region: str) -> str:
+    market_family = _safe(row.get("Market Family", ""))
+    repo_id = _safe(row.get("Repo ID", ""))
+
+    if _is_legacy_stub_row(row) and repo_id not in _EXTRA_WORKBOOK_STUB_IDS:
+        if market_family == "GCC / Middle East":
+            return _gcc_id(row)
+        if market_family == "China":
+            return _cn_id(row)
+        if market_family == "Taiwan":
+            return _tw_id(row)
+        if market_family == "India":
+            return _in_id(row)
+        if market_family == "United States":
+            return _us_stub_id(row)
+        if market_family == "Japan":
+            return _jp_srrv_id(row)
+
+    return _workbook_id(row, region)
+
+
+def _paywall_for_row(row: pd.Series, region: str) -> bool:
+    reg_id = _safe(row.get("Regulation ID", ""))
+    if region in {"CN", "GCC", "OTHER"}:
+        return True
+    if region == "IN":
+        return _IN_PAYWALL.get(reg_id, False)
+    return False
+
+
+def _translation_for_row(region: str) -> str:
+    return _TRANSLATION_BY_REGION.get(region, "")
+
+
+def _source_url_for_row(row: pd.Series) -> str:
+    return _safe(row.get("Source URL(s)", "")).split(";")[0].strip()
+
+
+def plan_stub_targets(df: pd.DataFrame | None = None) -> list[StubTarget]:
+    df = load_spreadsheet() if df is None else df
+    targets: list[StubTarget] = []
+    assigned_ids: set[str] = set()
+
+    for _, row in df.iterrows():
+        if not _should_generate_stub(row):
+            continue
+
+        region = _region_for_row(row)
+        reg_id = _safe(row.get("Regulation ID", ""))
+        title = _safe(row.get("Regulation Title", "")) or reg_id
+        base_id = _base_file_id(row, region)
+        file_id = base_id
+        counter = 2
+        while file_id in assigned_ids:
+            file_id = f"{base_id}-{counter}"
+            counter += 1
+        assigned_ids.add(file_id)
+
+        targets.append(
+            StubTarget(
+                file_id=file_id,
+                workbook_id=_safe(row.get("Repo ID", "")),
+                market_family=_safe(row.get("Market Family", "")),
+                region_body=_safe(row.get("Region / Standard Body", "")),
+                title=title,
+                region=region,
+                citation=reg_id,
+                source_url=_source_url_for_row(row),
+                paywall=_paywall_for_row(row, region),
+                translation_status=_translation_for_row(region),
+                body=_build_body(row, title),
+            )
+        )
+
+    return targets
+
+
+def _manifest_record(target: StubTarget) -> dict[str, Any]:
+    return {
+        "id": target.file_id,
+        "workbook_id": target.workbook_id,
+        "market_family": target.market_family,
+        "region_body": target.region_body,
+        "region": target.region,
+        "citation": target.citation,
+        "title": target.title,
+        "source_url": target.source_url,
+    }
+
+
+def _write_spreadsheet_manifest(targets: list[StubTarget], dry_run: bool) -> None:
+    manifest = {
+        "region": "SPREADSHEET",
+        "connector": "gen_stubs",
+        "description": (
+            "Workbook-derived fallback records generated from the regulatory reference "
+            "spreadsheet."
+        ),
+        "source": str(SPREADSHEET.relative_to(ROOT)).replace("\\", "/"),
+        "records": [_manifest_record(target) for target in targets],
+    }
+
+    if dry_run:
+        print(f"  [dry-run] would write {SPREADSHEET_MANIFEST.relative_to(ROOT)}")
+        return
+
+    SPREADSHEET_MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+    SPREADSHEET_MANIFEST.write_text(
+        yaml.safe_dump(manifest, sort_keys=False, allow_unicode=True),
+        encoding="utf-8",
+    )
 
 
 def _write_stub(
@@ -181,105 +437,27 @@ def _write_stub(
 
 
 def generate_stubs(dry_run: bool = False) -> list[Path]:
-    df = load_spreadsheet()
+    targets = plan_stub_targets()
     written: list[Path] = []
 
-    # --- GCC ---
-    print("\nGenerating GCC stubs ...")
-    for _, row in df[df["Market Family"] == "GCC / Middle East"].iterrows():
-        reg_id = _safe(row["Regulation ID"])
-        title = _safe(row["Regulation Title"]) or reg_id
-        file_id = _gcc_id(row)
-        source_url = _safe(row["Source URL(s)"]).split(";")[0].strip()
-        body = _build_body(row, title)
-        path = _write_stub(file_id, title, "GCC", reg_id, source_url, True,
-                           _GCC_TRANSLATION, body, REGULATIONS_DIR, dry_run)
+    print("\nGenerating spreadsheet-backed stubs ...")
+    for target in targets:
+        path = _write_stub(
+            target.file_id,
+            target.title,
+            target.region,
+            target.citation,
+            target.source_url,
+            target.paywall,
+            target.translation_status,
+            target.body,
+            REGULATIONS_DIR,
+            dry_run,
+        )
         written.append(path)
         print(f"  {'[dry-run] ' if dry_run else ''}OK -> {path.name}")
 
-    # --- China ---
-    print("\nGenerating China (CN) stubs ...")
-    for _, row in df[df["Market Family"] == "China"].iterrows():
-        reg_id = _safe(row["Regulation ID"])
-        title = _safe(row["Regulation Title"]) or reg_id
-        file_id = _cn_id(row)
-        source_url = _safe(row["Source URL(s)"]).split(";")[0].strip()
-        body = _build_body(row, title)
-        path = _write_stub(file_id, title, "CN", reg_id, source_url, True,
-                           _CN_TRANSLATION, body, REGULATIONS_DIR, dry_run)
-        written.append(path)
-        print(f"  {'[dry-run] ' if dry_run else ''}OK -> {path.name}")
-
-    # --- Taiwan ---
-    print("\nGenerating Taiwan (TW) stubs ...")
-    for _, row in df[df["Market Family"] == "Taiwan"].iterrows():
-        reg_id = _safe(row["Regulation ID"])
-        title = _safe(row["Regulation Title"]) or reg_id
-        file_id = _tw_id(row)
-        source_url = _safe(row["Source URL(s)"]).split(";")[0].strip()
-        body = _build_body(row, title)
-        path = _write_stub(file_id, title, "TW", reg_id, source_url, False,
-                           _TW_TRANSLATION, body, REGULATIONS_DIR, dry_run)
-        written.append(path)
-        print(f"  {'[dry-run] ' if dry_run else ''}OK -> {path.name}")
-
-    # --- India ---
-    print("\nGenerating India (IN) stubs ...")
-    for _, row in df[df["Market Family"] == "India"].iterrows():
-        reg_id = _safe(row["Regulation ID"])
-        title = _safe(row["Regulation Title"]) or reg_id
-        file_id = _in_id(row)
-        source_url = _safe(row["Source URL(s)"]).split(";")[0].strip()
-        paywall = _IN_PAYWALL.get(reg_id, False)
-        body = _build_body(row, title)
-        path = _write_stub(file_id, title, "IN", reg_id, source_url, paywall,
-                           _IN_TRANSLATION, body, REGULATIONS_DIR, dry_run)
-        written.append(path)
-        print(f"  {'[dry-run] ' if dry_run else ''}OK -> {path.name}")
-
-    # --- US state laws / cross-market (missing from eCFR manifest) ---
-    print("\nGenerating US stub entries ...")
-    # Filter to only entries not reachable via eCFR (don't start with standard CFR prefixes)
-    us_all = df[df["Market Family"] == "United States"]
-    cfr_prefixes = ("FMVSS", "49 CFR", "40 CFR", "47 CFR")
-    us_stubs = us_all[~us_all["Regulation ID"].astype(str).apply(
-        lambda x: any(x.startswith(p) for p in cfr_prefixes)
-    )]
-    # Also skip entries already on disk (e.g. us-40cfr-part-86 covers EPA Tier 3)
-    for _, row in us_stubs.iterrows():
-        reg_id = _safe(row["Regulation ID"])
-        title = _safe(row["Regulation Title"]) or reg_id
-        file_id = _us_stub_id(row)
-        if (REGULATIONS_DIR / f"{file_id}.md").exists() and not dry_run:
-            print(f"  skip (exists) {file_id}.md")
-            continue
-        source_url = _safe(row["Source URL(s)"]).split(";")[0].strip()
-        body = _build_body(row, title)
-        path = _write_stub(file_id, title, "US", reg_id, source_url, False,
-                           _US_TRANSLATION, body, REGULATIONS_DIR, dry_run)
-        written.append(path)
-        print(f"  {'[dry-run] ' if dry_run else ''}OK -> {path.name}")
-
-    # --- Japan non-JVSR (SRRV/TRIAS, Emissions, Noise, Fuel Economy, Recall, Radio, ELV) ---
-    print("\nGenerating Japan non-JVSR stubs ...")
-    jp_all = df[df["Market Family"] == "Japan"]
-    jp_non_jvsr = jp_all[~jp_all["Regulation ID"].astype(str).str.startswith("Article")]
-    for _, row in jp_non_jvsr.iterrows():
-        reg_id = _safe(row["Regulation ID"])
-        title = _safe(row["Regulation Title"]) or reg_id
-        file_id = _jp_srrv_id(row)
-        # Deduplicate: if same file_id already written, append index
-        base_id = file_id
-        counter = 2
-        while (REGULATIONS_DIR / f"{file_id}.md").exists() or file_id in {p.stem for p in written}:
-            file_id = f"{base_id}-{counter}"
-            counter += 1
-        source_url = _safe(row["Source URL(s)"]).split(";")[0].strip()
-        body = _build_body(row, title)
-        path = _write_stub(file_id, title, "JP", reg_id, source_url, False,
-                           _JP_TRANSLATION, body, REGULATIONS_DIR, dry_run)
-        written.append(path)
-        print(f"  {'[dry-run] ' if dry_run else ''}OK -> {path.name}")
+    _write_spreadsheet_manifest(targets, dry_run)
 
     print(f"\nDone. {len(written)} stub(s) {'would be ' if dry_run else ''}written.")
     return written

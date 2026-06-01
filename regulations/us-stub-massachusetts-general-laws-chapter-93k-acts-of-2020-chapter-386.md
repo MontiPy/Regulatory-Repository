@@ -1,7 +1,7 @@
 ---
 citation: Massachusetts General Laws Chapter 93K / Acts of 2020 Chapter 386
 id: us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:42+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://malegislature.gov/Laws/SessionLaws/Acts/2020/Chapter386

@@ -1,4 +1,4 @@
-regions: [US, EU, KR, AU, JP, CA, ECE, BR, GCC, CN, TW, IN]
+regions: [US, EU, KR, AU, JP, CA, ECE, BR, GCC, CN, TW, IN, MX, EAEU, ASEAN, ZA, AR, IL, NZ, TR, OTHER]
 
 statuses: [in-force, proposed, withdrawn, superseded]
 

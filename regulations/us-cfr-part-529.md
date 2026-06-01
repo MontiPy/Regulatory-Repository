@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 529
 id: us-cfr-part-529
-last_pulled: '2026-05-23T03:10:04+00:00'
+last_pulled: '2026-06-01T18:43:08+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-529

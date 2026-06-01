@@ -1,7 +1,7 @@
 ---
 citation: ABNT NBR 15145 / 9714
 id: br-abnt-nbr-15145
-last_pulled: '2026-05-23T04:19:22+00:00'
+last_pulled: '2026-06-01T18:53:17+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/

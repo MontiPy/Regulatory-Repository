@@ -1,7 +1,7 @@
 ---
 citation: ANATEL Certification and Homologation
 id: br-anatel-cert
-last_pulled: '2026-05-23T04:19:33+00:00'
+last_pulled: '2026-06-01T18:53:28+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/anatel/pt-br/regulado/certificacao

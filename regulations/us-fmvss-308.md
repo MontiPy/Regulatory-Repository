@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR §571.308
 id: us-fmvss-308
-last_pulled: '2026-05-23T03:09:17+00:00'
+last_pulled: '2026-06-01T18:42:20+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.308

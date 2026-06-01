@@ -1,7 +1,7 @@
 ---
 citation: CONAMA 492/2018
 id: br-conama-492
-last_pulled: '2026-05-23T04:19:28+00:00'
+last_pulled: '2026-06-01T18:53:23+00:00'
 region: BR
 source_api: brazil
 source_url: https://conama.mma.gov.br/?id=765&option=com_sisconama&task=arquivo.download
@@ -1052,11 +1052,11 @@ IPM = Índice potência massa = (Pn/mro) * 1000 kg/kW, onde:
 - mro é a massa em ordem de marcha do veículo definida pela Res. CONAMA 15/95, expressa em 
 kg 
 
-78 
+75 
 
 76 
 
-75 
+78 
 
   
   

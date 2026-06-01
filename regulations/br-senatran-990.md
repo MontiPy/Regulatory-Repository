@@ -1,7 +1,7 @@
 ---
 citation: SENATRAN Ordinance 990/2022
 id: br-senatran-990
-last_pulled: '2026-05-23T04:19:31+00:00'
+last_pulled: '2026-06-01T18:53:26+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/

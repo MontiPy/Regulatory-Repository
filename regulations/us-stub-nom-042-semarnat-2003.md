@@ -1,7 +1,7 @@
 ---
 citation: NOM-042-SEMARNAT-2003
 id: us-stub-nom-042-semarnat-2003
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/

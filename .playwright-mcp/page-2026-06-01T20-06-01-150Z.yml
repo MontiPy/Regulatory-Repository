@@ -1,0 +1,579 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]: Regulatory Repository
+      - searchbox "Search" [ref=e7]
+      - generic [ref=e8]:
+        - generic "Hide catalog stubs and paywalled standards that have no full text" [ref=e9] [cursor=pointer]:
+          - checkbox "Full text only" [checked] [ref=e10]
+          - text: Full text only
+        - button "Copy link" [ref=e11] [cursor=pointer]
+        - button "Dark" [ref=e12] [cursor=pointer]
+  - generic [ref=e13]:
+    - complementary "Filters" [ref=e14]:
+      - generic [ref=e16]:
+        - group [ref=e17]:
+          - generic "Region i" [ref=e18] [cursor=pointer]:
+            - text: Region
+            - generic [ref=e19]: i
+          - generic [ref=e20]:
+            - generic [ref=e21] [cursor=pointer]:
+              - checkbox "US" [ref=e22]
+              - generic [ref=e23]: US
+              - generic [ref=e24]: "135"
+            - generic [ref=e25] [cursor=pointer]:
+              - checkbox "EU" [ref=e26]
+              - generic [ref=e27]: EU
+              - generic [ref=e28]: "24"
+            - generic [ref=e29] [cursor=pointer]:
+              - checkbox "KR" [ref=e30]
+              - generic [ref=e31]: KR
+              - generic [ref=e32]: "79"
+            - generic [ref=e33] [cursor=pointer]:
+              - checkbox "AU" [ref=e34]
+              - generic [ref=e35]: AU
+              - generic [ref=e36]: "94"
+            - generic [ref=e37] [cursor=pointer]:
+              - checkbox "JP" [ref=e38]
+              - generic [ref=e39]: JP
+              - generic [ref=e40]: "31"
+            - generic [ref=e41] [cursor=pointer]:
+              - checkbox "CA" [ref=e42]
+              - generic [ref=e43]: CA
+              - generic [ref=e44]: "53"
+            - generic [ref=e45] [cursor=pointer]:
+              - checkbox "ECE" [ref=e46]
+              - generic [ref=e47]: ECE
+              - generic [ref=e48]: "85"
+            - generic [ref=e49] [cursor=pointer]:
+              - checkbox "BR" [ref=e50]
+              - generic [ref=e51]: BR
+              - generic [ref=e52]: "32"
+            - generic [ref=e53] [cursor=pointer]:
+              - checkbox "GCC" [ref=e54]
+              - generic [ref=e55]: GCC
+              - generic [ref=e56]: "0"
+            - generic [ref=e57] [cursor=pointer]:
+              - checkbox "CN" [ref=e58]
+              - generic [ref=e59]: CN
+              - generic [ref=e60]: "0"
+            - generic [ref=e61] [cursor=pointer]:
+              - checkbox "TW" [ref=e62]
+              - generic [ref=e63]: TW
+              - generic [ref=e64]: "0"
+            - generic [ref=e65] [cursor=pointer]:
+              - checkbox "IN" [ref=e66]
+              - generic [ref=e67]: IN
+              - generic [ref=e68]: "0"
+            - generic [ref=e69] [cursor=pointer]:
+              - checkbox "MX" [ref=e70]
+              - generic [ref=e71]: MX
+              - generic [ref=e72]: "0"
+            - generic [ref=e73] [cursor=pointer]:
+              - checkbox "EAEU" [ref=e74]
+              - generic [ref=e75]: EAEU
+              - generic [ref=e76]: "0"
+            - generic [ref=e77] [cursor=pointer]:
+              - checkbox "ASEAN" [ref=e78]
+              - generic [ref=e79]: ASEAN
+              - generic [ref=e80]: "0"
+            - generic [ref=e81] [cursor=pointer]:
+              - checkbox "ZA" [ref=e82]
+              - generic [ref=e83]: ZA
+              - generic [ref=e84]: "0"
+            - generic [ref=e85] [cursor=pointer]:
+              - checkbox "AR" [ref=e86]
+              - generic [ref=e87]: AR
+              - generic [ref=e88]: "0"
+            - generic [ref=e89] [cursor=pointer]:
+              - checkbox "IL" [ref=e90]
+              - generic [ref=e91]: IL
+              - generic [ref=e92]: "0"
+            - generic [ref=e93] [cursor=pointer]:
+              - checkbox "NZ" [ref=e94]
+              - generic [ref=e95]: NZ
+              - generic [ref=e96]: "0"
+            - generic [ref=e97] [cursor=pointer]:
+              - checkbox "TR" [ref=e98]
+              - generic [ref=e99]: TR
+              - generic [ref=e100]: "0"
+            - generic [ref=e101] [cursor=pointer]:
+              - checkbox "OTHER" [ref=e102]
+              - generic [ref=e103]: OTHER
+              - generic [ref=e104]: "0"
+        - group [ref=e105]:
+          - generic "System i" [ref=e106] [cursor=pointer]:
+            - text: System
+            - generic [ref=e107]: i
+        - group [ref=e108]:
+          - generic "Commodity i" [ref=e109] [cursor=pointer]:
+            - text: Commodity
+            - generic [ref=e110]: i
+        - group [ref=e111]:
+          - generic "Vehicle Category i" [ref=e112] [cursor=pointer]:
+            - text: Vehicle Category
+            - generic [ref=e113]: i
+        - group [ref=e114]:
+          - generic "Tagging Status i" [ref=e115] [cursor=pointer]:
+            - text: Tagging Status
+            - generic [ref=e116]: i
+        - group [ref=e117]:
+          - generic "Translation i" [ref=e118] [cursor=pointer]:
+            - text: Translation
+            - generic [ref=e119]: i
+    - main [ref=e120]:
+      - paragraph [ref=e121]: Showing 50 of 533
+      - region "Regulations" [ref=e122]:
+        - article [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - heading "ADR 00/00 - Approval Procedures and Administrative Requirements / Definitions and Vehicle Categories" [level=2] [ref=e126]
+              - generic [ref=e127]:
+                - generic [ref=e128]: AU
+                - generic [ref=e129]: ADR 00/00
+              - paragraph [ref=e130]: "Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories) 2005 Amendment 6 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e131] [cursor=pointer]
+        - article [ref=e132]:
+          - generic [ref=e133]:
+            - generic [ref=e134]:
+              - heading "ADR 1/00 - Reversing Lamps" [level=2] [ref=e135]
+              - generic [ref=e136]:
+                - generic [ref=e137]: AU
+                - generic [ref=e138]: ADR 1/00
+              - paragraph [ref=e139]: "Vehicle Standard (Australian Design Rule 1/00 – Reversing Lamps) 2005 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation Site..."
+            - button "Details" [ref=e140] [cursor=pointer]
+        - article [ref=e141]:
+          - generic [ref=e142]:
+            - generic [ref=e143]:
+              - heading "ADR 10/02 - Steering Column" [level=2] [ref=e144]
+              - generic [ref=e145]:
+                - generic [ref=e146]: AU
+                - generic [ref=e147]: ADR 10/02
+              - paragraph [ref=e148]: "Vehicle Standard (Australian Design Rule 10/02 – Steering Column) 2008 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e149] [cursor=pointer]
+        - article [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - heading "ADR 105/00 - Blind Spot Information Systems" [level=2] [ref=e153]
+              - generic [ref=e154]:
+                - generic [ref=e155]: AU
+                - generic [ref=e156]: ADR 105/00
+              - paragraph [ref=e157]: "Vehicle Standard (Australian Design Rule 105/00 – Blind Spot Information Systems) 2023 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e158] [cursor=pointer]
+        - article [ref=e159]:
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - heading "ADR 106/00 - Side Underrun Protection" [level=2] [ref=e162]
+              - generic [ref=e163]:
+                - generic [ref=e164]: AU
+                - generic [ref=e165]: ADR 106/00
+              - paragraph [ref=e166]: "Vehicle Standard (Australian Design Rule 106/00 – Side Underrun Protection) 2023 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e167] [cursor=pointer]
+        - article [ref=e168]:
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - heading "ADR 107/00 - Emergency Lane Keeping Systems for Passenger Vehicles and Light Goods Vehicles" [level=2] [ref=e171]
+              - generic [ref=e172]:
+                - generic [ref=e173]: AU
+                - generic [ref=e174]: ADR 107/00
+              - paragraph [ref=e175]: Vehicle Standard (Australian Design Rule 107/00 – Emergency Lane Keeping Systems for Passenger Vehicles and Light Goods Vehicles) 2026 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account...
+            - button "Details" [ref=e176] [cursor=pointer]
+        - article [ref=e177]:
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - heading "ADR 108/00 - Reversing Technologies" [level=2] [ref=e180]
+              - generic [ref=e181]:
+                - generic [ref=e182]: AU
+                - generic [ref=e183]: ADR 108/00
+              - paragraph [ref=e184]: "Vehicle Standard (Australian Design Rule 108/00 – Reversing Technologies) 2023 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e185] [cursor=pointer]
+        - article [ref=e186]:
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - heading "ADR 109/01 - Electric Power Train Safety Requirements" [level=2] [ref=e189]
+              - generic [ref=e190]:
+                - generic [ref=e191]: AU
+                - generic [ref=e192]: ADR 109/01
+              - paragraph [ref=e193]: "Vehicle Standard (Australian Design Rule 109/01 – Electric Power Train Safety Requirements) 2023 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e194] [cursor=pointer]
+        - article [ref=e195]:
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - heading "ADR 11/00 - Internal Sun Visors" [level=2] [ref=e198]
+              - generic [ref=e199]:
+                - generic [ref=e200]: AU
+                - generic [ref=e201]: ADR 11/00
+              - paragraph [ref=e202]: "Vehicle Standard (Australian Design Rule 11/00 – Internal Sun Visors) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e203] [cursor=pointer]
+        - article [ref=e204]:
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - heading "ADR 110/00 - Hydrogen-Fuelled Vehicles Safety Related Performance" [level=2] [ref=e207]
+              - generic [ref=e208]:
+                - generic [ref=e209]: AU
+                - generic [ref=e210]: ADR 110/00
+              - paragraph [ref=e211]: Vehicle Standard (Australian Design Rule 110/00 – Hydrogen-Fuelled Vehicles Safety Related Performance) 2023 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government...
+            - button "Details" [ref=e212] [cursor=pointer]
+        - article [ref=e213]:
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - heading "ADR 111/00 - Advanced Emission Control for Light Vehicles" [level=2] [ref=e216]
+              - generic [ref=e217]:
+                - generic [ref=e218]: AU
+                - generic [ref=e219]: ADR 111/00
+              - paragraph [ref=e220]: "Vehicle Standard (Australian Design Rule 111/00 – Advanced Emission Control for Light Vehicles) 2024 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government #..."
+            - button "Details" [ref=e221] [cursor=pointer]
+        - article [ref=e222]:
+          - generic [ref=e223]:
+            - generic [ref=e224]:
+              - heading "ADR 112/00 - Control of Real Driving Emissions for Light Vehicles" [level=2] [ref=e225]
+              - generic [ref=e226]:
+                - generic [ref=e227]: AU
+                - generic [ref=e228]: ADR 112/00
+              - paragraph [ref=e229]: Vehicle Standard (Australian Design Rule 112/00 – Control of Real Driving Emissions for Light Vehicles) 2024 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government...
+            - button "Details" [ref=e230] [cursor=pointer]
+        - article [ref=e231]:
+          - generic [ref=e232]:
+            - generic [ref=e233]:
+              - heading "ADR 113/00 - Acoustic Vehicle Alerting Systems for Quiet Road Transport Vehicles" [level=2] [ref=e234]
+              - generic [ref=e235]:
+                - generic [ref=e236]: AU
+                - generic [ref=e237]: ADR 113/00
+              - paragraph [ref=e238]: Vehicle Standard (Australian Design Rule 113/00 – Acoustic Vehicle Alerting Systems for Quiet Road Transport Vehicles) 2024 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search...
+            - button "Details" [ref=e239] [cursor=pointer]
+        - article [ref=e240]:
+          - generic [ref=e241]:
+            - generic [ref=e242]:
+              - heading "ADR 114/00 - Carbon Dioxide Emissions Measurement" [level=2] [ref=e243]
+              - generic [ref=e244]:
+                - generic [ref=e245]: AU
+                - generic [ref=e246]: ADR 114/00
+              - paragraph [ref=e247]: "Vehicle Standard (Australian Design Rule 114/00 – Carbon Dioxide Emissions Measurement) 2026 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e248] [cursor=pointer]
+        - article [ref=e249]:
+          - generic [ref=e250]:
+            - generic [ref=e251]:
+              - heading "ADR 13/00 - Installation of Lighting and Light Signalling Devices on other than L-Group Vehicles" [level=2] [ref=e252]
+              - generic [ref=e253]:
+                - generic [ref=e254]: AU
+                - generic [ref=e255]: ADR 13/00
+              - paragraph [ref=e256]: Vehicle Standard (Australian Design Rule 13/00 – Installation of Lighting and Light Signalling Devices on other than L-Group Vehicles) 2005 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My...
+            - button "Details" [ref=e257] [cursor=pointer]
+        - article [ref=e258]:
+          - generic [ref=e259]:
+            - generic [ref=e260]:
+              - heading "ADR 14/02 - Rear Vision Mirrors" [level=2] [ref=e261]
+              - generic [ref=e262]:
+                - generic [ref=e263]: AU
+                - generic [ref=e264]: ADR 14/02
+              - paragraph [ref=e265]: "Vehicle Standard (Australian Design Rule 14/02 – Rear Vision Mirrors) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e266] [cursor=pointer]
+        - article [ref=e267]:
+          - generic [ref=e268]:
+            - generic [ref=e269]:
+              - heading "ADR 14/03 - Devices for Indirect Vision" [level=2] [ref=e270]
+              - generic [ref=e271]:
+                - generic [ref=e272]: AU
+                - generic [ref=e273]: ADR 14/03
+              - paragraph [ref=e274]: "Vehicle Standard (Australian Design Rule 14/03 – Devices for Indirect Vision) 2023 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e275] [cursor=pointer]
+        - article [ref=e276]:
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - heading "ADR 18/03 - Instrumentation" [level=2] [ref=e279]
+              - generic [ref=e280]:
+                - generic [ref=e281]: AU
+                - generic [ref=e282]: ADR 18/03
+              - paragraph [ref=e283]: "Vehicle Standard (Australian Design Rule 18/03 – Instrumentation) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e284] [cursor=pointer]
+        - article [ref=e285]:
+          - generic [ref=e286]:
+            - generic [ref=e287]:
+              - heading "ADR 19/02 - Installation of Lighting and Light Signalling Devices on L-Group Vehicles" [level=2] [ref=e288]
+              - generic [ref=e289]:
+                - generic [ref=e290]: AU
+                - generic [ref=e291]: ADR 19/02
+              - paragraph [ref=e292]: Vehicle Standard (Australian Design Rule 19/02 – Installation of Lighting and Light Signalling Devices on L-Group Vehicles) 2005 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search...
+            - button "Details" [ref=e293] [cursor=pointer]
+        - article [ref=e294]:
+          - generic [ref=e295]:
+            - generic [ref=e296]:
+              - heading "ADR 2/01 - Side Door Latches and Hinges" [level=2] [ref=e297]
+              - generic [ref=e298]:
+                - generic [ref=e299]: AU
+                - generic [ref=e300]: ADR 2/01
+              - paragraph [ref=e301]: "Vehicle Standard (Australian Design Rule 2/01 – Side Door Latches and Hinges) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e302] [cursor=pointer]
+        - article [ref=e303]:
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - heading "ADR 21/00 - Instrument Panel" [level=2] [ref=e306]
+              - generic [ref=e307]:
+                - generic [ref=e308]: AU
+                - generic [ref=e309]: ADR 21/00
+              - paragraph [ref=e310]: "Vehicle Standard (Australian Design Rule 21/00 – Instrument Panel) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e311] [cursor=pointer]
+        - article [ref=e312]:
+          - generic [ref=e313]:
+            - generic [ref=e314]:
+              - heading "ADR 22/00 - Head Restraints" [level=2] [ref=e315]
+              - generic [ref=e316]:
+                - generic [ref=e317]: AU
+                - generic [ref=e318]: ADR 22/00
+              - paragraph [ref=e319]: "Vehicle Standard (Australian Design Rule 22/00 – Head Restraints) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e320] [cursor=pointer]
+        - article [ref=e321]:
+          - generic [ref=e322]:
+            - generic [ref=e323]:
+              - heading "ADR 23/03 - Passenger Car Tyres" [level=2] [ref=e324]
+              - generic [ref=e325]:
+                - generic [ref=e326]: AU
+                - generic [ref=e327]: ADR 23/03
+              - paragraph [ref=e328]: "Vehicle Standard (Australian Design Rule 23/03 – Passenger Car Tyres) 2018 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e329] [cursor=pointer]
+        - article [ref=e330]:
+          - generic [ref=e331]:
+            - generic [ref=e332]:
+              - heading "ADR 25/02 - Anti-Theft Lock" [level=2] [ref=e333]
+              - generic [ref=e334]:
+                - generic [ref=e335]: AU
+                - generic [ref=e336]: ADR 25/02
+              - paragraph [ref=e337]: "Vehicle Standard (Australian Design Rule 25/02 – Anti-Theft Lock) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e338] [cursor=pointer]
+        - article [ref=e339]:
+          - generic [ref=e340]:
+            - generic [ref=e341]:
+              - heading "ADR 28/01 - External Noise of Motor Vehicles" [level=2] [ref=e342]
+              - generic [ref=e343]:
+                - generic [ref=e344]: AU
+                - generic [ref=e345]: ADR 28/01
+              - paragraph [ref=e346]: "Vehicle Standard (Australian Design Rule 28/01 – External Noise of Motor Vehicles) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register..."
+            - button "Details" [ref=e347] [cursor=pointer]
+        - article [ref=e348]:
+          - generic [ref=e349]:
+            - generic [ref=e350]:
+              - heading "ADR 29/00 - Side Door Strength" [level=2] [ref=e351]
+              - generic [ref=e352]:
+                - generic [ref=e353]: AU
+                - generic [ref=e354]: ADR 29/00
+              - paragraph [ref=e355]: "Vehicle Standard (Australian Design Rule 29/00 – Side Door Strength) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e356] [cursor=pointer]
+        - article [ref=e357]:
+          - generic [ref=e358]:
+            - generic [ref=e359]:
+              - heading "ADR 3/04 - Seats and Seat Anchorages" [level=2] [ref=e360]
+              - generic [ref=e361]:
+                - generic [ref=e362]: AU
+                - generic [ref=e363]: ADR 3/04
+              - paragraph [ref=e364]: "Vehicle Standard (Australian Design Rule 3/04 – Seats and Seat Anchorages) 2017 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e365] [cursor=pointer]
+        - article [ref=e366]:
+          - generic [ref=e367]:
+            - generic [ref=e368]:
+              - heading "ADR 30/01 - Smoke Emission Control for Diesel Vehicles" [level=2] [ref=e369]
+              - generic [ref=e370]:
+                - generic [ref=e371]: AU
+                - generic [ref=e372]: ADR 30/01
+              - paragraph [ref=e373]: "Vehicle Standard (Australian Design Rule 30/01 – Smoke Emission Control for Diesel Vehicles) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e374] [cursor=pointer]
+        - article [ref=e375]:
+          - generic [ref=e376]:
+            - generic [ref=e377]:
+              - heading "ADR 31/04 - Brake Systems for Passenger Cars" [level=2] [ref=e378]
+              - generic [ref=e379]:
+                - generic [ref=e380]: AU
+                - generic [ref=e381]: ADR 31/04
+              - paragraph [ref=e382]: "Vehicle Standard (Australian Design Rule 31/04 – Brake Systems for Passenger Cars) 2017 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register..."
+            - button "Details" [ref=e383] [cursor=pointer]
+        - article [ref=e384]:
+          - generic [ref=e385]:
+            - generic [ref=e386]:
+              - heading "ADR 33/01 - Brake Systems for Motorcycles and Mopeds" [level=2] [ref=e387]
+              - generic [ref=e388]:
+                - generic [ref=e389]: AU
+                - generic [ref=e390]: ADR 33/01
+              - paragraph [ref=e391]: "Vehicle Standard (Australian Design Rule 33/01 – Brake Systems for Motorcycles and Mopeds) 2017 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e392] [cursor=pointer]
+        - article [ref=e393]:
+          - generic [ref=e394]:
+            - generic [ref=e395]:
+              - heading "ADR 34/02 - Child Restraint Anchorages and Child Restraint Anchor Fittings" [level=2] [ref=e396]
+              - generic [ref=e397]:
+                - generic [ref=e398]: AU
+                - generic [ref=e399]: ADR 34/02
+              - paragraph [ref=e400]: Vehicle Standard (Australian Design Rule 34/02 – Child Restraint Anchorages and Child Restraint Anchor Fittings) 2012 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian...
+            - button "Details" [ref=e401] [cursor=pointer]
+        - article [ref=e402]:
+          - generic [ref=e403]:
+            - generic [ref=e404]:
+              - heading "ADR 34/03 - Child Restraint Anchorages and Child Restraint Anchor Fittings" [level=2] [ref=e405]
+              - generic [ref=e406]:
+                - generic [ref=e407]: AU
+                - generic [ref=e408]: ADR 34/03
+              - paragraph [ref=e409]: Vehicle Standard (Australian Design Rule 34/03 – Child Restraint Anchorages and Child Restraint Anchor Fittings) 2017 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian...
+            - button "Details" [ref=e410] [cursor=pointer]
+        - article [ref=e411]:
+          - generic [ref=e412]:
+            - generic [ref=e413]:
+              - heading "ADR 35/07 - Commercial Vehicle Brake Systems" [level=2] [ref=e414]
+              - generic [ref=e415]:
+                - generic [ref=e416]: AU
+                - generic [ref=e417]: ADR 35/07
+              - paragraph [ref=e418]: "Vehicle Standard (Australian Design Rule 35/07 – Commercial Vehicle Brake Systems) 2022 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register..."
+            - button "Details" [ref=e419] [cursor=pointer]
+        - article [ref=e420]:
+          - generic [ref=e421]:
+            - generic [ref=e422]:
+              - heading "ADR 38/05 - Trailer Brake Systems" [level=2] [ref=e423]
+              - generic [ref=e424]:
+                - generic [ref=e425]: AU
+                - generic [ref=e426]: ADR 38/05
+              - paragraph [ref=e427]: "Vehicle Standard (Australian Design Rule 38/05 – Trailer Brake Systems) 2018 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e428] [cursor=pointer]
+        - article [ref=e429]:
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - heading "ADR 4/06 - Seatbelts" [level=2] [ref=e432]
+              - generic [ref=e433]:
+                - generic [ref=e434]: AU
+                - generic [ref=e435]: ADR 4/06
+              - paragraph [ref=e436]: "Vehicle Standard (Australian Design Rule 4/06 – Seatbelts) 2018 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation Site..."
+            - button "Details" [ref=e437] [cursor=pointer]
+        - article [ref=e438]:
+          - generic [ref=e439]:
+            - generic [ref=e440]:
+              - heading "ADR 42/04 - General Safety Requirements" [level=2] [ref=e441]
+              - generic [ref=e442]:
+                - generic [ref=e443]: AU
+                - generic [ref=e444]: ADR 42/04
+              - paragraph [ref=e445]: "Vehicle Standard (Australian Design Rule 42/04 – General Safety Requirements) 2005 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e446] [cursor=pointer]
+        - article [ref=e447]:
+          - generic [ref=e448]:
+            - generic [ref=e449]:
+              - heading "ADR 43/04 - Vehicle Configuration and Dimensions" [level=2] [ref=e450]
+              - generic [ref=e451]:
+                - generic [ref=e452]: AU
+                - generic [ref=e453]: ADR 43/04
+              - paragraph [ref=e454]: "Vehicle Standard (Australian Design Rule 43/04 – Vehicle Configuration and Dimensions) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e455] [cursor=pointer]
+        - article [ref=e456]:
+          - generic [ref=e457]:
+            - generic [ref=e458]:
+              - heading "ADR 44/02 - Specific Purpose Vehicle Requirements" [level=2] [ref=e459]
+              - generic [ref=e460]:
+                - generic [ref=e461]: AU
+                - generic [ref=e462]: ADR 44/02
+              - paragraph [ref=e463]: "Vehicle Standard (Australian Design Rule 44/02 – Specific Purpose Vehicle Requirements) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal..."
+            - button "Details" [ref=e464] [cursor=pointer]
+        - article [ref=e465]:
+          - generic [ref=e466]:
+            - generic [ref=e467]:
+              - heading "ADR 45/01 - Lighting and Light Signalling Devices not Covered by ECE Regulations" [level=2] [ref=e468]
+              - generic [ref=e469]:
+                - generic [ref=e470]: AU
+                - generic [ref=e471]: ADR 45/01
+              - paragraph [ref=e472]: Vehicle Standard (Australian Design Rule 45/01 – Lighting and Light Signalling Devices not Covered by ECE Regulations) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search...
+            - button "Details" [ref=e473] [cursor=pointer]
+        - article [ref=e474]:
+          - generic [ref=e475]:
+            - generic [ref=e476]:
+              - heading "ADR 46/00 - Headlamps" [level=2] [ref=e477]
+              - generic [ref=e478]:
+                - generic [ref=e479]: AU
+                - generic [ref=e480]: ADR 46/00
+              - paragraph [ref=e481]: "Vehicle Standard (Australian Design Rule 46/00 - Headlamps) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation Site..."
+            - button "Details" [ref=e482] [cursor=pointer]
+        - article [ref=e483]:
+          - generic [ref=e484]:
+            - generic [ref=e485]:
+              - heading "ADR 47/00 - Retroreflectors" [level=2] [ref=e486]
+              - generic [ref=e487]:
+                - generic [ref=e488]: AU
+                - generic [ref=e489]: ADR 47/00
+              - paragraph [ref=e490]: "Vehicle Standard (Australian Design Rule 47/00 – Retroreflectors) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e491] [cursor=pointer]
+        - article [ref=e492]:
+          - generic [ref=e493]:
+            - generic [ref=e494]:
+              - heading "ADR 48/00 - Devices for Illumination of Rear Registration Plates" [level=2] [ref=e495]
+              - generic [ref=e496]:
+                - generic [ref=e497]: AU
+                - generic [ref=e498]: ADR 48/00
+              - paragraph [ref=e499]: Vehicle Standard (Australian Design Rule 48/00 – Devices for Illumination of Rear Registration Plates) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government...
+            - button "Details" [ref=e500] [cursor=pointer]
+        - article [ref=e501]:
+          - generic [ref=e502]:
+            - generic [ref=e503]:
+              - heading "ADR 49/00 - Front and Rear Position (Side) Lamps, Stop Lamps and End Outline Marker Lamps" [level=2] [ref=e504]
+              - generic [ref=e505]:
+                - generic [ref=e506]: AU
+                - generic [ref=e507]: ADR 49/00
+              - paragraph [ref=e508]: Vehicle Standard (Australian Design Rule 49/00 – Front and Rear Position (Side) Lamps, Stop Lamps and End Outline Marker Lamps) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account...
+            - button "Details" [ref=e509] [cursor=pointer]
+        - article [ref=e510]:
+          - generic [ref=e511]:
+            - generic [ref=e512]:
+              - heading "ADR 5/06 - Anchorages for Seatbelts" [level=2] [ref=e513]
+              - generic [ref=e514]:
+                - generic [ref=e515]: AU
+                - generic [ref=e516]: ADR 5/06
+              - paragraph [ref=e517]: "Vehicle Standard (Australian Design Rule 5/06 – Anchorages for Seatbelts) 2018 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e518] [cursor=pointer]
+        - article [ref=e519]:
+          - generic [ref=e520]:
+            - generic [ref=e521]:
+              - heading "ADR 50/00 - Front Fog Lamps" [level=2] [ref=e522]
+              - generic [ref=e523]:
+                - generic [ref=e524]: AU
+                - generic [ref=e525]: ADR 50/00
+              - paragraph [ref=e526]: "Vehicle Standard (Australian Design Rule 50/00 – Front Fog Lamps) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation..."
+            - button "Details" [ref=e527] [cursor=pointer]
+        - article [ref=e528]:
+          - generic [ref=e529]:
+            - generic [ref=e530]:
+              - heading "ADR 51/00 - Filament Lamps" [level=2] [ref=e531]
+              - generic [ref=e532]:
+                - generic [ref=e533]: AU
+                - generic [ref=e534]: ADR 51/00
+              - paragraph [ref=e535]: "Vehicle Standard (Australian Design Rule 51/00 – Filament Lamps) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation Site..."
+            - button "Details" [ref=e536] [cursor=pointer]
+        - article [ref=e537]:
+          - generic [ref=e538]:
+            - generic [ref=e539]:
+              - heading "ADR 52/00 - Rear Fog Lamps" [level=2] [ref=e540]
+              - generic [ref=e541]:
+                - generic [ref=e542]: AU
+                - generic [ref=e543]: ADR 52/00
+              - paragraph [ref=e544]: "Vehicle Standard (Australian Design Rule 52/00 – Rear Fog Lamps) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of Legislation Site..."
+            - button "Details" [ref=e545] [cursor=pointer]
+        - article [ref=e546]:
+          - generic [ref=e547]:
+            - generic [ref=e548]:
+              - heading "ADR 53/00 - Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles" [level=2] [ref=e549]
+              - generic [ref=e550]:
+                - generic [ref=e551]: AU
+                - generic [ref=e552]: ADR 53/00
+              - paragraph [ref=e553]: Vehicle Standard (Australian Design Rule 53/00 – Front and Rear Position Lamps, Stop Lamps, Direction Indicators and Rear Registration Plate Lamps for L-Group Vehicles) 2006 - Federal Register of Legislation Skip to main Help and resources Register...
+            - button "Details" [ref=e554] [cursor=pointer]
+        - article [ref=e555]:
+          - generic [ref=e556]:
+            - generic [ref=e557]:
+              - heading "ADR 54/00 - Headlamps for Mopeds" [level=2] [ref=e558]
+              - generic [ref=e559]:
+                - generic [ref=e560]: AU
+                - generic [ref=e561]: ADR 54/00
+              - paragraph [ref=e562]: "Vehicle Standard (Australian Design Rule 54/00 – Headlamps for Mopeds) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e563] [cursor=pointer]
+        - article [ref=e564]:
+          - generic [ref=e565]:
+            - generic [ref=e566]:
+              - heading "ADR 55/00 - Headlamps for Motor Cycles" [level=2] [ref=e567]
+              - generic [ref=e568]:
+                - generic [ref=e569]: AU
+                - generic [ref=e570]: ADR 55/00
+              - paragraph [ref=e571]: "Vehicle Standard (Australian Design Rule 55/00 – Headlamps for Motor Cycles) 2006 - Federal Register of Legislation Skip to main Help and resources Register for My Account Sign in to My Account Search Australian Government # Federal Register of..."
+            - button "Details" [ref=e572] [cursor=pointer]
+      - button "Load more" [ref=e573] [cursor=pointer]
+  - contentinfo [ref=e574]:
+    - generic [ref=e575]: Built 2026-06-01T20:05:15+00:00 • 728 regulations • 21 regions

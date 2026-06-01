@@ -1,7 +1,7 @@
 ---
 citation: US EPA 40 CFR Part 86 / Tier 3
 id: us-stub-us-epa-40-cfr-part-86-tier-3
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3

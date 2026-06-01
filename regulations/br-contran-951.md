@@ -1,7 +1,7 @@
 ---
 citation: CONTRAN 951/2022
 id: br-contran-951
-last_pulled: '2026-05-23T04:19:17+00:00'
+last_pulled: '2026-06-01T18:53:12+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9512022.pdf/view

@@ -1,0 +1,38 @@
+---
+citation: Land Transport (Clean Vehicle Standard) Regulations 2022
+id: nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022
+last_pulled: '2026-06-01T18:54:42+00:00'
+region: NZ
+source_api: spreadsheet
+source_url: https://www.legislation.govt.nz/regulation/public/2022/0285/latest/whole.html
+status: in-force
+tagging_status: untagged
+title: New Zealand Clean Car Standard / Clean Vehicle Standard
+---
+
+# New Zealand Clean Car Standard / Clean Vehicle Standard
+
+**Regulated Area:** Emissions / CO2 / fleet compliance
+
+**Applicability:** Applies to importers/suppliers of covered vehicles in New Zealand; passenger vehicle relevance for CO2 target, credit/debit and portfolio planning.
+
+
+## Key Compliance Intent
+
+Limit environmental impact and ensure passenger vehicles and fleets meet certified emissions, fuel economy and reporting obligations.
+
+## Primary Vehicle Systems and Components
+
+Engine, aftertreatment, evaporative system, OBD, calibration, fuel/energy consumption data, hybrid/EV powertrain data, road-load data, fleet compliance ledger.
+
+## Failure Modes and Symptoms
+
+Excess NOx/CO/HC/PM/PN or CO2, evaporative leak, OBD monitor gap, inaccurate road-load data, fleet credit shortfall, late report, certificate or market-access hold.
+
+## Related Regulations
+
+EU Regulation 2019/631; Australia NVES; US CAFE/GHG; Mexico NOM-163.
+
+## Engineering Considerations
+
+Add as New Zealand fleet CO2 compliance row separate from safety standards.

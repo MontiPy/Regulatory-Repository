@@ -1,7 +1,7 @@
 ---
 citation: MVSR SOR-2003-2
 id: ca-mvsr-sor-2003-2
-last_pulled: '2026-05-23T03:22:45+00:00'
+last_pulled: '2026-06-01T18:52:51+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html

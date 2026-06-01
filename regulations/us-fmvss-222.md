@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR §571.222
 id: us-fmvss-222
-last_pulled: '2026-05-23T03:08:36+00:00'
+last_pulled: '2026-06-01T18:41:34+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.222

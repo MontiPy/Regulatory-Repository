@@ -1,7 +1,7 @@
 ---
 citation: SASO SABER / Fuel Economy Label for New Light Vehicles
 id: gcc-saso-saber-fuel-economy-label-for-new-light-vehicles
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
 region: GCC
 source_api: spreadsheet

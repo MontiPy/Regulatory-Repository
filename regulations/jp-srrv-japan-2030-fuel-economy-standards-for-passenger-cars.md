@@ -1,7 +1,7 @@
 ---
 citation: FY2030 Passenger Car Fuel Economy Standards
 id: jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.mlit.go.jp/report/press/jidosha10_hh_000230.html

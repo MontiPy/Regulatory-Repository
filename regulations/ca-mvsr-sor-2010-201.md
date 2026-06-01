@@ -1,7 +1,7 @@
 ---
 citation: MVSR SOR-2010-201
 id: ca-mvsr-sor-2010-201
-last_pulled: '2026-05-23T03:22:52+00:00'
+last_pulled: '2026-06-01T18:53:01+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html

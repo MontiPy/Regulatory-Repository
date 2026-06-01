@@ -1,0 +1,39 @@
+---
+citation: ISO 22628
+id: other-workbook-reg-0650-iso-22628
+last_pulled: '2026-06-01T18:54:42+00:00'
+paywall: true
+region: OTHER
+source_api: spreadsheet
+source_url: https://www.iso.org/standard/35061.html
+status: in-force
+tagging_status: untagged
+title: Road vehicles - Recyclability and recoverability calculation method
+---
+
+# Road vehicles - Recyclability and recoverability calculation method
+
+**Regulated Area:** Materials / recycling / recyclability evidence
+
+**Applicability:** Not a regulation by itself, but used as a method to demonstrate recyclability/recoverability for passenger vehicles under ELV-related obligations.
+
+
+## Key Compliance Intent
+
+Provide a recognized calculation method to show end-of-life recyclability and recoverability.
+
+## Primary Vehicle Systems and Components
+
+Materials, coatings, electronics, batteries, plastics, rubber, interior/exterior trim, service parts, supplier BOM/IMDS records and purchasing controls. Dismantling information and recyclability calculation files.
+
+## Failure Modes and Symptoms
+
+Incorrect recyclability rate, missing material data, approval delay, supplier data gap, ELV evidence issue.
+
+## Related Regulations
+
+EU ELV; Directive 2005/64/EC; Japan/Korea recycling laws; Brazil MOVER.
+
+## Engineering Considerations
+
+Added as supporting evidence; link to ELV and recyclability rows.

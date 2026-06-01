@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 533
 id: us-cfr-part-533
-last_pulled: '2026-05-23T03:10:09+00:00'
+last_pulled: '2026-06-01T18:43:18+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-533

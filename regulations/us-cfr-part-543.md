@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 543
 id: us-cfr-part-543
-last_pulled: '2026-05-23T03:10:36+00:00'
+last_pulled: '2026-06-01T18:43:40+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-543

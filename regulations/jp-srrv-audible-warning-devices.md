@@ -1,7 +1,7 @@
 ---
 citation: SRRV / TRIAS / UN R28
 id: jp-srrv-audible-warning-devices
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm

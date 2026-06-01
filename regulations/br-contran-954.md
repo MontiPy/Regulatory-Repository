@@ -1,7 +1,7 @@
 ---
 citation: CONTRAN 954/2022
 id: br-contran-954
-last_pulled: '2026-05-23T04:19:20+00:00'
+last_pulled: '2026-06-01T18:53:14+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9542022.pdf/@@download/file

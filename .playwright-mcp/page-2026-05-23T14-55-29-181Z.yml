@@ -1,0 +1,198 @@
+- generic [active] [ref=e1]:
+  - link "본문 바로가기" [ref=e2] [cursor=pointer]:
+    - /url: "#navi"
+  - generic [ref=e4]:
+    - heading "국가법령정보 공동활용 LAW OPEN DATA" [level=1] [ref=e5]:
+      - link "국가법령정보 공동활용 LAW OPEN DATA" [ref=e6] [cursor=pointer]:
+        - /url: /LSO/main.do
+    - list [ref=e7]:
+      - listitem [ref=e8]:
+        - link "이용안내" [ref=e9] [cursor=pointer]:
+          - /url: /LSO/information/service.do
+      - listitem [ref=e10]:
+        - link "OPEN API" [ref=e11] [cursor=pointer]:
+          - /url: /LSO/openApi/guideList.do
+      - listitem [ref=e12]:
+        - link "맞춤형서비스" [ref=e13] [cursor=pointer]:
+          - /url: /LSO/cuCtgr/cuCategoryGuide.do
+      - listitem [ref=e14]:
+        - link "개발자LAB" [ref=e15] [cursor=pointer]:
+          - /url: /LSO/lab/hangulAddr.do
+      - listitem [ref=e16]:
+        - link "활용사례" [ref=e17] [cursor=pointer]:
+          - /url: /LSO/openState/hpGallery.do
+    - paragraph [ref=e18]:
+      - link "마이페이지" [ref=e19] [cursor=pointer]:
+        - /url: /LSO/usr/usrInfoMod.do
+      - link "로그인" [ref=e20] [cursor=pointer]:
+        - /url: /LSO/login.do
+  - generic [ref=e24]:
+    - generic [ref=e25]:
+      - heading "회원정보안내" [level=2] [ref=e26]
+      - list [ref=e27]:
+        - listitem [ref=e28]:
+          - link "로그인" [ref=e29] [cursor=pointer]:
+            - /url: /LSO/login.do
+        - listitem [ref=e30]: 회원가입
+        - listitem [ref=e31]:
+          - link "아이디/비밀번호 찾기" [ref=e32] [cursor=pointer]:
+            - /url: /LSO/idPwSearch.do?flag=3
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - list [ref=e35]:
+          - listitem [ref=e36]:
+            - link "홈 >" [ref=e37] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e38]:
+            - link "회원정보안내 >" [ref=e39] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e40]:
+            - link "회원가입" [ref=e41] [cursor=pointer]:
+              - /url: "#"
+        - heading "회원가입" [level=3] [ref=e43]
+      - generic [ref=e45]:
+        - heading "국가법령정보 공동활용에 따른 주의사항" [level=4] [ref=e46]
+        - generic [ref=e47]:
+          - text: 각급 행정기관의 행정규칙, 자치법규, 판례, 헌재결정례 등에 대한 정확성을 확인하기 위해서는 해당 기관의 홈페이지를 참고하거나 소관부서에 문의하여 주시기 바랍니다.
+          - text: 법제처가 제공하는 다양한 법령정보는 국민생활의 편의를 위하여 법제처가 수집, 가공, 편찬한 것이므로 참고자료로 활용하시기 바랍니다.
+          - text: 다만, 공공데이터 정책에 따라 이용권과 자유로운 활용이 보장되니 참고하시기 바랍니다.
+          - text: 국가법령정보센터를 비롯한 법제처에서 제공하는 모든 법령정보에 대한 저작권은 「저작권법」의 보호를 받는 범위 내에서 법제처에 있습니다.
+          - text: 국가법령정보센터에서 제공하는 다양한 법령정보를 누구나 자유롭게 검색/활용할 수 있으며, 개인이나 기관의 홈페이지 등에서 국가법령정보센터 법령콘텐츠를 연결할 수 있습니다.
+          - text: 국가법령정보센터에서는 아래와 같은 경우에 임의로 법령정보 제공을 중단할 수 있습니다.
+          - text: "- 이용자가 이용조건을 위반해서 국가법령정보센터 본래의 기능 수행에 지장을 초래할 우려가 있는 경우"
+          - text: "- 법령정보의 이용이 제3자의 권리를 현저하게 침해하는 경우"
+          - text: "- 법령정보를 범죄 등의 불법행위에 악용하는 경우"
+          - text: "- 그밖에 법령정보의 효과적인 제공을 위해 다음의 조치가 필요한 경우"
+          - text: ◈ 법령정보 업데이트 지연 및 착오, 입력오류 등으로 인한 국민 불편 예방
+          - text: ◈ 위조·변조와 악의적인 변경 등으로 인한 혼란과 피해 등을 사전에 예방
+          - text: ◈ 정부 및 정부가 공인하는 기관에서 법령정보에 대한 통제 및 관리
+          - text: 법령정보를 위조·변조하여 제공하거나 근거자료로 제출하는 행위, 법제처 법령정보를 활용 및 제공하면서 자료의 출처를 표기하지 않거나 법제처 이외의 기관으로 명기하여 제공하는 행위 등에 대해서는 형사처벌을 받을 수 있으니 유의하여 주시기 바랍니다.
+          - text: 국가법령정보에 대한 Open API 등 법령정보 보급 수단이나 방법 등이 변경될 수 있으므로 공동활용 기관은 수시로 변경 여부를 확인하여야 하며, 확인하지 않아서 발생하는 모든 문제점에 대한 책임은 공동활용 기관에 있습니다.
+        - paragraph [ref=e48]:
+          - checkbox "위 내용에 동의합니다." [ref=e49]
+          - text: 위 내용에 동의합니다.
+        - heading "개인정보 수집 및 이용에 대한 안내" [level=4] [ref=e50]
+        - generic [ref=e51]:
+          - text: 1. 개인정보의 수집항목 및 수집방법
+          - text: 법제처에서는 기본적인 회원 서비스 제공을 위한 필수정보와 정보주체 각각의 기호와 필요에 맞는 서비스를 제공하기 위한 선택정보로 구분하여 다음의 정보를 수집하고 있습니다.
+          - text: "[개인정보 수집항목]"
+          - text: 가. 국가법령정보 공동활용에서는 법령의 규정과 정보주체의 동의에 의해서만 개인정보를 수집, 보유합니다.
+          - text: "- 필수항목 : 사용자아이디(이메일주소), 성명, 비밀번호, 연락처, 소속기관명"
+          - text: 나. 컴퓨터에 의해 자동으로 수집되는 정보
+          - text: 홈페이지를 이용할 경우 다음의 정보는 로그인 기록을 통하여 자동적으로 수집·저장됩니다.
+          - text: "- 브라우저 종류, 접속로그, IP 주소, 서비스 이용기록, 불량 이용 기록"
+          - text: "[개인정보 수집·이용목적]"
+          - text: 가. 회원관리
+          - generic [ref=e52]:
+            - text: "- 회원제 서비스 및 제한적 본인 확인제에 따른 본인확인"
+            - text: "- 불량회원의 부정 이용방지와 비인가 사용방지"
+            - text: "- 가입의사 확인, 가입 및 가입횟수 제한"
+            - text: "- 분쟁 조정을 위한 기록보존, 불만처리 등 민원처리, 고지사항 전달"
+          - text: 나. 신규 서비스 개발 통계에의 활용
+          - text: "- 신규 서비스 개발 및 맞춤 서비스 제공, 통계학적 특성에 따른 서비스 제공, 접속빈도 파악 등에 대한 통계"
+          - text: "[개인정보 보유·이용기간]"
+          - text: 가. 정보주체 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기합니다.
+          - text: 단, 다음의 정보에 대해서는 아래의 이유로 명시한 기간 동안 보존합니다.
+          - text: 나. 국가법령정보 공동활용 내부 방침에 의한 정보보유 사유
+          - text: "- 부정이용기록"
+          - text: "보존 이유 : 부정 이용 방지"
+          - text: "보존 기간 : 2년"
+          - text: 다. 개인정보의 파기
+          - text: "- 2년간 서비스를 이용하지 않은 회원의 개인정보 삭제"
+          - text: 다만, 다음의 사유에 해당하는 경우에는 해당 사유 종료시까지
+          - text: "- 관계 법령 위반에 따른 수사 조사 등이 진행중인 경우에는 해당 수사 조사 종료시까지"
+          - text: ※ 이용자는 위의 개인정보 수집 및 이용에 동의를 거부할 권리가 있습니다. 그러나 동의를 거부할 경우에는 서비스 이용이 제한됨을 알려드립니다.
+        - paragraph [ref=e53]:
+          - checkbox "위 내용에 동의합니다." [ref=e54]
+          - text: 위 내용에 동의합니다.
+        - heading "개인정보의 제3자 제공에 관한 사항" [level=4] [ref=e55]
+        - generic [ref=e56]:
+          - text: ◈ 법제처는 정보주체의 개인정보를 개인정보의 처리 목적에서 명시한 범위 내에서만 처리하며, 정보주체의 동의, 법률의 특별한 규정 등 「개인정보 보호법」제17조 및 제18조에 해당하는 경우에만 개인정보를 제3자에게 제공하고 그 이외에는 정보주체의 개인정보를 제3자에게 제공하지 않습니다.
+          - text: ◈ 법제처는 원활한 서비스 제공을 위해 다음의 경우 개인정보보호법 제17조 제1항 제1호에 따라 정보주체의 동의를 얻어 필요 최소한의 범위로만 제공합니다.
+          - text: ※ 이용자는 위의 개인정보 수집 및 이용에 동의를 거부할 권리가 있습니다. 그러나 동의를 거부할 경우에는 서비스 이용이 제한됨을 알려드립니다.
+        - generic [ref=e57]:
+          - paragraph [ref=e58]:
+            - checkbox "위 내용에 동의합니다." [ref=e59]
+            - text: 위 내용에 동의합니다.
+          - paragraph [ref=e60]:
+            - checkbox "위 내용에 동의하지 않습니다." [ref=e61]
+            - text: 위 내용에 동의하지 않습니다.
+        - generic [ref=e62]:
+          - link "휴대전화 본인 인증" [ref=e63] [cursor=pointer]:
+            - /url: "#AJAX"
+          - link "아이핀 본인 인증" [ref=e64] [cursor=pointer]:
+            - /url: "#AJAX"
+        - generic [ref=e65]: 사용자의 원활한 서비스 이용과 온라인 상에서 익명 사용자로 인한 피해를 방지하기 위하여 실명확인 절차가 필요합니다.
+        - table [ref=e67]:
+          - rowgroup [ref=e73]:
+            - row "성명 이메일주소 @ 인증" [ref=e74]:
+              - rowheader "성명" [ref=e75]
+              - cell [ref=e76]:
+                - textbox [ref=e78]
+              - rowheader "이메일주소" [ref=e79]
+              - cell "@ 인증" [ref=e80]:
+                - textbox "메일주소 앞" [ref=e81]
+                - text: "@"
+                - textbox "메일주소 뒤" [ref=e82]
+                - link "인증" [ref=e83] [cursor=pointer]:
+                  - /url: "#"
+                  - img "인증" [ref=e84]
+            - row "비밀번호 비밀번호확인" [ref=e85]:
+              - rowheader "비밀번호" [ref=e86]
+              - cell [ref=e87]:
+                - textbox [ref=e89]
+                - paragraph
+              - rowheader "비밀번호확인" [ref=e90]
+              - cell [ref=e91]:
+                - textbox [ref=e93]
+            - row "사용자구분 개인 기업 전화번호 - -" [ref=e94]:
+              - rowheader "사용자구분" [ref=e95]
+              - cell "개인 기업" [ref=e96]:
+                - generic [ref=e97]:
+                  - text: 개인
+                  - radio "개인" [checked] [ref=e98]
+                - generic [ref=e99]:
+                  - text: 기업
+                  - radio "기업" [ref=e100]
+              - rowheader "전화번호" [ref=e101]
+              - cell "- -" [ref=e102]:
+                - textbox "전화번호 국번" [ref=e103]
+                - text: "-"
+                - textbox "전화번호 중간" [ref=e104]
+                - text: "-"
+                - textbox "전화번호 뒤" [ref=e105]
+        - paragraph [ref=e106]:
+          - checkbox "openAPI를 신청합니다." [ref=e107]
+          - text: openAPI를 신청합니다.
+        - link "사용자 가입하기" [ref=e109] [cursor=pointer]:
+          - /url: "#AJAX"
+  - generic [ref=e111]:
+    - link "법제처" [ref=e113] [cursor=pointer]:
+      - /url: javascript:;
+      - img "법제처" [ref=e114]
+    - list [ref=e115]:
+      - listitem [ref=e116]:
+        - link "법적효력/저작권" [ref=e117] [cursor=pointer]:
+          - /url: http://www.law.go.kr/lawPetitionForm.do?menuId=13&subMenuId=79
+          - img "법적효력/저작권" [ref=e118]
+      - listitem [ref=e119]:
+        - link "개인정보처리방침" [ref=e120] [cursor=pointer]:
+          - /url: http://www.law.go.kr/LSW/privacyPolicy.do
+          - img "개인정보처리방침" [ref=e121]
+      - listitem [ref=e122]:
+        - link "통합 오류신고" [ref=e123] [cursor=pointer]:
+          - /url: /LSO/usr/combineErrorBrdForm.do
+          - img "통합 오류신고" [ref=e124]
+    - list [ref=e125]:
+      - listitem [ref=e126]:
+        - link "법제처" [ref=e127] [cursor=pointer]:
+          - /url: http://www.moleg.go.kr
+          - img "법제처" [ref=e128]
+      - listitem [ref=e129]:
+        - link "국가법령정보센터" [ref=e130] [cursor=pointer]:
+          - /url: http://www.law.go.kr
+          - img "국가법령정보센터" [ref=e131]
+    - paragraph [ref=e132]:
+      - text: (30102) 세종특별자치시 도움5로 20, 정부세종청사 법제처
+      - text: "[사용신청 및 이용문의 : 02-2109-6446]"
+      - text: Copyright(c) 법제처 All rights reserved.

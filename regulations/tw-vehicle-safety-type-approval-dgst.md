@@ -1,7 +1,7 @@
 ---
 citation: Vehicle Safety Type Approval / DGST
 id: tw-vehicle-safety-type-approval-dgst
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:42+00:00'
 region: TW
 source_api: spreadsheet
 source_url: https://www.vscc.org.tw/Home/Content/509

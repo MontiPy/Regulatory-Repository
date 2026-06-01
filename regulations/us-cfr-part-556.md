@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 556
 id: us-cfr-part-556
-last_pulled: '2026-05-23T03:10:51+00:00'
+last_pulled: '2026-06-01T18:44:00+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-556

@@ -1,0 +1,1590 @@
+region: SPREADSHEET
+connector: gen_stubs
+description: Workbook-derived fallback records generated from the regulatory reference
+  spreadsheet.
+source: reference/passenger_vehicle_regulatory_reference_repository_v3_cleaned.xlsx
+records:
+- id: us-stub-us-epa-40-cfr-part-86-tier-3
+  workbook_id: REG-0039
+  market_family: United States
+  region_body: FMVSS / United States
+  region: US
+  citation: US EPA 40 CFR Part 86 / Tier 3
+  title: Light-duty Vehicle and Fuel Emission Standards
+  source_url: https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3
+- id: gcc-gso-36-2005
+  workbook_id: REG-0076
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 36:2005
+  title: 'Motor Vehicles - Methods of Test for Impact Strength - Part 1: Frontal Impact'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-37-2012
+  workbook_id: REG-0077
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 37:2012
+  title: 'Motor Vehicles - Methods of Test for Impact Strength - Part 2: Rear Impact'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-38-2005
+  workbook_id: REG-0078
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 38:2005
+  title: 'Motor Vehicles - Methods of Test for Impact Strength - Part 3A: Side Impact'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-39-2005
+  workbook_id: REG-0079
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 39:2005
+  title: 'Motor Vehicles - Methods of Test for Impact Strength - Part 4: Roof Strength'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-40-2011
+  workbook_id: REG-0080
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 40:2011
+  title: Motor Vehicles - Impact Strength
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-41-2007
+  workbook_id: REG-0081
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 41:2007
+  title: Front and Rear Exterior Protection Devices for Passenger Cars and Methods
+    of Test
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-42-2015
+  workbook_id: REG-0082
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 42:2015
+  title: Motor Vehicles - General Requirements
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A674566/GSO%2042%3A2015?lang=en
+- id: gcc-gso-51-2007
+  workbook_id: REG-0083
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 51:2007
+  title: 'Passenger Car Tyres - Part 1: Nomenclature, Designation, Dimensions, Load
+    Capacities and Inflation Pressures'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-52-2007
+  workbook_id: REG-0084
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 52:2007
+  title: 'Passenger Car Tyres - Part 2: General Requirements'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-53-2007
+  workbook_id: REG-0085
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 53:2007
+  title: 'Passenger Car Tyres - Part 3: Methods of Test'
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-96-1988
+  workbook_id: REG-0086
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 96:1988
+  title: Motor Vehicles - Methods of Testing of Safety Belt
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-97-1988
+  workbook_id: REG-0087
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 97:1988
+  title: Motor Vehicles - Safety Belts
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A472656/GSO%2097%3A1988?lang=en
+- id: gcc-gso-98-1988
+  workbook_id: REG-0088
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 98:1988
+  title: Motor Vehicles - Flammability of Interior Materials and Testing Methods
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1053-2002
+  workbook_id: REG-0089
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1053:2002
+  title: Motor Vehicles - Protection Against Unauthorized Use
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1503-2002
+  workbook_id: REG-0090
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1503:2002
+  title: Motor Vehicles - Head Lamps
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1598-2002
+  workbook_id: REG-0091
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1598:2002
+  title: Head Restraints for Vehicles
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1624-2002
+  workbook_id: REG-0092
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1624:2002
+  title: Motor Vehicles - Noise Emitted by Motor Vehicles
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1677-2002
+  workbook_id: REG-0093
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1677:2002
+  title: Motor Vehicles - Laminated Safety Glass
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1680-1685-2003
+  workbook_id: REG-0094
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1680-1685:2003
+  title: Methods of Test for Gaseous Pollutants Emitted from Unleaded Gasoline Engined
+    Vehicles
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1707-2005
+  workbook_id: REG-0095
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1707:2005
+  title: Moving Barrier Side Impact - US Standards
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1708-2005
+  workbook_id: REG-0096
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1708:2005
+  title: Moving Barrier Side Impact - European Standards
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1709-2005
+  workbook_id: REG-0097
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1709:2005
+  title: Motor Vehicles - Child Restraint Systems
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-ece-13h-2012
+  workbook_id: REG-0098
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 13H:2012
+  title: Braking System of Passenger Cars and Multi Purpose Vehicles
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A476247/?lang=en
+- id: gcc-mc-250905-2025
+  workbook_id: REG-0099
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: MC-250905:2025
+  title: Technical Regulation for Electric Vehicles
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-my2027-emission-limit-implementation
+  workbook_id: REG-0100
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO MY2027 emission limit implementation
+  title: GCC Member State Euro-level Emission Limits
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3004-2022
+  workbook_id: REG-0101
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: SASO 3004:2022
+  title: Road Vehicles - Controls, Tell-tales and Indicators
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3005-2022
+  workbook_id: REG-0102
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: SASO 3005:2022
+  title: Road Vehicles - Windshield Defrosting and Defogging Systems
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3006-2022
+  workbook_id: REG-0103
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: SASO 3006:2022
+  title: Road Vehicles - Accelerator Control Systems
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3007-2022
+  workbook_id: REG-0104
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: SASO 3007:2022
+  title: Road Vehicles - Windshield Wiping and Washing Systems
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: ca-workbook-reg-0145-eccc-sor-2003-2
+  workbook_id: REG-0145
+  market_family: Canada
+  region_body: CMVSS / Canada
+  region: CA
+  citation: ECCC SOR/2003-2
+  title: On-Road Vehicle and Engine Emission Regulations
+  source_url: https://laws-lois.justice.gc.ca/eng/regulations/sor-2003-2/index.html
+- id: cn-gb-11551-2014
+  workbook_id: REG-0146
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 11551-2014
+  title: The Protection of the Occupants in the Event of a Frontal Collision for Motor
+    Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2011551-2014
+- id: cn-gb-t-20913-2007
+  workbook_id: REG-0147
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB/T 20913-2007
+  title: The Protection of the Occupants in the Event of an Offset Frontal Collision
+    for Passenger Car
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB/T%2020913-2007
+- id: cn-gb-20071-2025
+  workbook_id: REG-0148
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 20071-2025
+  title: The Protection of the Occupants in the Event of a Lateral Collision
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2020071-2025
+- id: cn-gb-20072-2024
+  workbook_id: REG-0149
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 20072-2024
+  title: The Requirements of Fuel System Integrity in the Event of Rear-end Collision
+    for Passenger Car
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2020072-2024
+- id: cn-gb-24550-2024
+  workbook_id: REG-0150
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 24550-2024
+  title: The Protection of Motor Vehicle for Pedestrians in the Event of a Collision
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2024550-2024
+- id: cn-gb-14166-2024
+  workbook_id: REG-0151
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 14166-2024
+  title: Safety-belts and Restraint Systems for Occupants of Power-driven Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2014166-2024
+- id: cn-gb-14167-2024
+  workbook_id: REG-0152
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 14167-2024
+  title: Safety-belt Anchorages and Restraint System Anchorages for Motor Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2014167-2024
+- id: cn-gb-15083-2019
+  workbook_id: REG-0153
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 15083-2019
+  title: Strength Requirement and Test Method of Automobile Seats, Their Anchorages
+    and Any Head Restraints
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015083-2019
+- id: cn-gb-27887-2024
+  workbook_id: REG-0154
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 27887-2024
+  title: Child Restraint Systems for Motor Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2027887-2024
+- id: cn-gb-4094-2016
+  workbook_id: REG-0155
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 4094-2016
+  title: Symbols for Controls, Indicators and Tell-tales of Motor Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%204094-2016
+- id: cn-gb-7258-2017
+  workbook_id: REG-0156
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 7258-2017
+  title: Technical Specifications for Safety of Power-driven Vehicles Operating on
+    Roads
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%207258-2017
+- id: cn-gb-21670-2025
+  workbook_id: REG-0157
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 21670-2025
+  title: Technical Requirements and Testing Methods for Passenger Car Braking Systems
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=5CC330073FDA2E395D2554FEFC1256DF
+- id: cn-gb-t-30677-2014
+  workbook_id: REG-0158
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB/T 30677-2014
+  title: Performance Requirements and Test Methods of Electronic Stability Control
+    System for Light Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB/T%2030677-2014
+- id: cn-gb-9743-2024
+  workbook_id: REG-0159
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 9743-2024
+  title: Passenger Car Tyres
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%209743-2024
+- id: cn-gb-4785-2019
+  workbook_id: REG-0160
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 4785-2019
+  title: Prescription for Installation of External Lighting and Light-signalling Devices
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=65438E7234326343883F762A52E24CFA
+- id: cn-gb-4599-2024
+  workbook_id: REG-0161
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 4599-2024
+  title: Road Illumination Devices and Systems for Motor Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=D88797E512723F8CBF170A20E81F27AD
+- id: cn-gb-5920-2024
+  workbook_id: REG-0162
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 5920-2024
+  title: Light-signalling Devices and Systems for Motor Vehicles and Their Trailers
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=EBF484FE4E40D0281C9C4174E6F00F89
+- id: cn-gb-15084-2022
+  workbook_id: REG-0163
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 15084-2022
+  title: Performance and Installation Requirements of Devices for Indirect Vision
+    of Motor Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015084-2022
+- id: cn-gb-9656-2021
+  workbook_id: REG-0164
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 9656-2021
+  title: Safety Technical Specification for Glazing Materials Used in Power-driven
+    Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=9D70607A5C909E556DC2D140CE56FE3A
+- id: cn-gb-15085-2013
+  workbook_id: REG-0165
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 15085-2013
+  title: Performance Requirements and Test Methods for Windshield Wiping and Washing
+    Systems
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015085-2013
+- id: cn-gb-11555-2025
+  workbook_id: REG-0166
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 11555-2025
+  title: Motor Vehicles - Windshield Demisting and Defrosting Systems
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2011555-2025
+- id: cn-gb-15086-2013
+  workbook_id: REG-0167
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 15086-2013
+  title: Motor Vehicles - Door Locks and Door Retention Components
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015086-2013
+- id: cn-gb-18296-2019
+  workbook_id: REG-0168
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 18296-2019
+  title: Safety Property Requirements and Test Methods for Automobile Fuel Tank and
+    Its Installation
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2018296-2019
+- id: cn-gb-18384-2020-gb-18384-2025
+  workbook_id: REG-0169
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 18384-2020 / GB 18384-2025
+  title: Electric Vehicles Safety Requirements
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2018384-2020
+- id: cn-gb-38031-2025
+  workbook_id: REG-0170
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 38031-2025
+  title: Electric Vehicles Traction Battery Safety Requirements
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2038031-2025
+- id: cn-gb-44495-2024
+  workbook_id: REG-0171
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 44495-2024
+  title: Technical Requirements for Vehicle Cybersecurity
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=2DB552CAA58F589705C3DC7AD47AC2AB
+- id: cn-gb-44496-2024
+  workbook_id: REG-0172
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 44496-2024
+  title: Technical Requirements for Software Update of Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2044496-2024
+- id: cn-gb-18352-6-2016
+  workbook_id: REG-0173
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 18352.6-2016
+  title: Limits and Measurement Methods for Emissions from Light-duty Vehicles (China
+    6)
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2018352.6-2016
+- id: cn-gb-1495-2002
+  workbook_id: REG-0174
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 1495-2002
+  title: Limits and Measurement Methods for Noise Emitted by Accelerating Motor Vehicles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%201495-2002
+- id: ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038
+  workbook_id: REG-0358
+  market_family: Canada
+  region_body: CMVSS / Canada
+  region: CA
+  citation: Motor Vehicle Safety Regulations (C.R.C., c. 1038)
+  title: Motor Vehicle Safety Regulations - Certification, Records, Importation and
+    Defect/Non-compliance Provisions
+  source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/
+- id: ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198
+  workbook_id: REG-0359
+  market_family: Canada
+  region_body: CMVSS / Canada
+  region: CA
+  citation: Motor Vehicle Tire Safety Regulations (SOR/2013-198)
+  title: Motor Vehicle Tire Safety Regulations
+  source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-198/
+- id: ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201
+  workbook_id: REG-0360
+  market_family: Canada
+  region_body: CMVSS / Canada
+  region: CA
+  citation: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
+    (SOR/2010-201)
+  title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
+  source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/
+- id: au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019
+  workbook_id: REG-0370
+  market_family: Australia
+  region_body: ADR / Australia
+  region: AU
+  citation: Road Vehicle Standards Act 2018 / Road Vehicle Standards Rules 2019
+  title: Road Vehicle Standards - Supply, Type Approval and Compliance Framework
+  source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/road-vehicle-standards-laws
+- id: au-workbook-reg-0371-register-of-approved-vehicles-rav
+  workbook_id: REG-0371
+  market_family: Australia
+  region_body: ADR / Australia
+  region: AU
+  citation: Register of Approved Vehicles (RAV)
+  title: Register of Approved Vehicles Entry Requirements
+  source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/register-approved-vehicles
+- id: au-workbook-reg-0372-australian-road-vehicle-recall-framework
+  workbook_id: REG-0372
+  market_family: Australia
+  region_body: ADR / Australia
+  region: AU
+  citation: Australian Road Vehicle Recall Framework
+  title: Vehicle Recalls Under Road Vehicle Standards and Consumer Product Safety
+    Framework
+  source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/vehicle-recalls
+- id: jp-srrv-japanese-vehicle-type-approval-type-designation-framework
+  workbook_id: REG-0373
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Road Transport Vehicle Act / Type Designation System
+  title: Japanese Vehicle Type Approval / Type Designation Framework
+  source_url: https://www.ntsel.go.jp/e/kansa/
+- id: jp-srrv-mlit-vehicle-recall-and-improvement-measures
+  workbook_id: REG-0374
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Japan Vehicle Recall System
+  title: MLIT Vehicle Recall and Improvement Measures
+  source_url: https://www.mlit.go.jp/jidosha/recall.html
+- id: jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars
+  workbook_id: REG-0375
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: FY2030 Passenger Car Fuel Economy Standards
+  title: Japan 2030 Fuel Economy Standards for Passenger Cars
+  source_url: https://www.mlit.go.jp/report/press/jidosha10_hh_000230.html
+- id: cn-gb-16735-2019
+  workbook_id: REG-0376
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 16735-2019
+  title: Road Vehicle - Vehicle Identification Number (VIN)
+  source_url: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5F40F2F995A26D3E96BF97F6B8E9CB74
+- id: cn-gb-t-18411-2018
+  workbook_id: REG-0377
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB/T 18411-2018
+  title: Power-Driven Vehicles Manufacturer's Plate
+  source_url: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4CB39D94D2D5E9D3576E7C9E83205A60
+- id: gcc-gso-ece-13h-1-2-3
+  workbook_id: REG-0407
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 13H-1/2/3
+  title: Brake System Test Methods and Energy Storage Tests
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-10
+  workbook_id: REG-0408
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 10
+  title: Electromagnetic Compatibility
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-48
+  workbook_id: REG-0409
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 48
+  title: Installation of Lighting and Light-Signalling Devices
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-43-gso-3538
+  workbook_id: REG-0410
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 43 / GSO 3538
+  title: Safety Glazing and Optical Test Methods
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-46
+  workbook_id: REG-0411
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 46
+  title: Devices for Indirect Vision
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-14
+  workbook_id: REG-0412
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 14
+  title: Safety-Belt Anchorages
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-16
+  workbook_id: REG-0413
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 16
+  title: Safety Belts and Restraint Systems
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-21
+  workbook_id: REG-0414
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 21
+  title: Interior Fittings
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-26
+  workbook_id: REG-0415
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 26
+  title: External Projections
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-30
+  workbook_id: REG-0416
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 30
+  title: Pneumatic Tyres for Passenger Cars
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-645-646-647
+  workbook_id: REG-0417
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 645/646/647
+  title: Tyres for MPV, Trucks, Buses and Trailers
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-1052-2000
+  workbook_id: REG-0418
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1052:2000
+  title: Temporary Use Spare Wheels/Tyres and Test Methods
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-117
+  workbook_id: REG-0419
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 117
+  title: Tyre Rolling Resistance, Wet Grip and Rolling Sound
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-141
+  workbook_id: REG-0420
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 141
+  title: Tyre Pressure Monitoring Systems
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-94
+  workbook_id: REG-0421
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 94
+  title: Protection of Occupants in Frontal Collision
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-95
+  workbook_id: REG-0422
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 95
+  title: Protection of Occupants in Lateral Collision
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-100
+  workbook_id: REG-0423
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 100
+  title: Electric Powertrain Safety
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-83-gso-ece-154
+  workbook_id: REG-0424
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 83 / GSO-ECE 154
+  title: Pollutant Emissions / WLTP
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-1040-1041-1042
+  workbook_id: REG-0425
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 1040/1041/1042
+  title: Light Duty Diesel Pollutant Limits and Test Methods
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-51
+  workbook_id: REG-0426
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 51
+  title: External Noise Emissions
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-79
+  workbook_id: REG-0427
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 79
+  title: Steering Equipment
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-121
+  workbook_id: REG-0428
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 121
+  title: Identification of Controls, Telltales and Indicators
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-125
+  workbook_id: REG-0429
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 125
+  title: Forward Field of Vision
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-127
+  workbook_id: REG-0430
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 127
+  title: Pedestrian Safety Performance
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-155
+  workbook_id: REG-0431
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 155
+  title: Cyber Security Management System
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-156
+  workbook_id: REG-0432
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO-ECE 156
+  title: Software Update Management System
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gcc-ev-technical-regulation-draft
+  workbook_id: REG-0433
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GCC EV Technical Regulation Draft
+  title: Technical Requirements for Battery Electric Vehicles
+  source_url: https://www.tuv.com/regulations-and-standards/en/gso-technical-requirements-for-electric-vehicle.html
+- id: us-workbook-reg-0451-49-cfr-part-575
+  workbook_id: REG-0451
+  market_family: United States
+  region_body: FMVSS / United States
+  region: US
+  citation: 49 CFR Part 575
+  title: Consumer Information / Labels and Ratings
+  source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-575
+- id: gcc-gso-290-1994
+  workbook_id: REG-0454
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO 290:1994
+  title: Instruction Manuals / Owner Information
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A482379?lang=en
+- id: gcc-uae-s-5019-2024
+  workbook_id: REG-0455
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: UAE.S 5019:2024
+  title: UAE eCall Emergency Call System
+  source_url: https://uaelegislation.gov.ae/en/legislations/2548
+- id: gcc-saso-2847-saso-2864-2022
+  workbook_id: REG-0456
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: SASO 2847 / SASO 2864:2022
+  title: Saudi Fuel Economy Labeling and CAFE
+  source_url: https://www.saso.gov.sa/ar/sectors/certificates/efficiency_card/Documents/FINAL_REPORT_2024.pdf
+- id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
+  workbook_id: REG-0457
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
+  title: UAE Fuel Economy Program / Labeling
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: cn-cnca-c11-01-2020
+  workbook_id: REG-0463
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: CNCA-C11-01:2020
+  title: CCC Implementation Rules – Automobiles
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-1589
+  workbook_id: REG-0464
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 1589
+  title: Limits of Dimensions, Axle Load and Masses
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-11562
+  workbook_id: REG-0465
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 11562
+  title: Driver Forward Field of View
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-15740
+  workbook_id: REG-0466
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 15740
+  title: Protection of Motor Vehicles Against Unauthorized Use
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-17675
+  workbook_id: REG-0467
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 17675
+  title: Steering System of Motor Vehicles
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-26149
+  workbook_id: REG-0468
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 26149
+  title: Tire Pressure Monitoring Systems for Passenger Cars
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-13057
+  workbook_id: REG-0469
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 13057
+  title: Strength of Passenger Car Seats and Seat Fasteners
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-11552
+  workbook_id: REG-0470
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 11552
+  title: Interior Fittings of Passenger Cars
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-11566
+  workbook_id: REG-0471
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 11566
+  title: External Projections for Passenger Cars
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-8410
+  workbook_id: REG-0472
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 8410
+  title: Flammability of Automotive Interior Materials
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-34660
+  workbook_id: REG-0473
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 34660
+  title: Road Vehicles Electromagnetic Compatibility Requirements and Test Methods
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-19578
+  workbook_id: REG-0474
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 19578
+  title: Fuel Consumption Limits for Passenger Cars
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-27999
+  workbook_id: REG-0475
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 27999
+  title: Corporate Average Fuel Consumption Evaluation Methods
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-t-34590
+  workbook_id: REG-0476
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB/T 34590
+  title: Road Vehicles Functional Safety
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-44497
+  workbook_id: REG-0477
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 44497
+  title: Automated Driving Data Storage System for Intelligent Connected Vehicles
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity
+  workbook_id: REG-0495
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Road Vehicles Act / SRRV
+  title: Whole Vehicle Type Designation and Safety Regulation Conformity
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-engine-power-train-and-pedal-lever
+  workbook_id: REG-0496
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV Art. 8
+  title: Engine, Power Train and Pedal Lever
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-controls-tell-tales-indicators-and-driver-information
+  workbook_id: REG-0497
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Controls, Tell-tales, Indicators and Driver Information
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-steering-equipment-and-steering-effort
+  workbook_id: REG-0498
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Steering Equipment and Steering Effort
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-brake-assist-systems
+  workbook_id: REG-0499
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS / UN R139
+  title: Brake Assist Systems
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-tires-wheels-and-tpms
+  workbook_id: REG-0500
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Tires, Wheels and TPMS
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-fuel-system-and-fire-prevention
+  workbook_id: REG-0501
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Fuel System and Fire Prevention
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-electric-vehicle-rechargeable-energy-storage-system
+  workbook_id: REG-0502
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS / UN R136
+  title: Electric Vehicle Rechargeable Energy Storage System
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-body-structure-and-load-path
+  workbook_id: REG-0503
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Body Structure and Load Path
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-isofix-and-child-restraint-anchorages
+  workbook_id: REG-0504
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS / UN R145
+  title: ISOFIX and Child Restraint Anchorages
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-exhaust-emissions-and-obd
+  workbook_id: REG-0505
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Exhaust Emissions and OBD
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps
+  workbook_id: REG-0506
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS / UN R6/R7/R23/R38
+  title: Signal Lamps, Position Lamps, Stop Lamps and Reverse Lamps
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-windshield-wiping-washing-defrosting-and-defogging
+  workbook_id: REG-0507
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Windshield Wiping, Washing, Defrosting and Defogging
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-audible-warning-devices
+  workbook_id: REG-0508
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS / UN R28
+  title: Audible Warning Devices
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-speedometer-and-odometer
+  workbook_id: REG-0509
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Speedometer and Odometer
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-accelerator-control
+  workbook_id: REG-0510
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Accelerator Control
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-bumper-and-low-speed-impact-external-projections
+  workbook_id: REG-0511
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS
+  title: Bumper and Low-speed Impact / External Projections
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: jp-srrv-automated-lane-keeping-automated-driving-systems
+  workbook_id: REG-0512
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: SRRV / TRIAS / UN R157
+  title: Automated Lane Keeping / Automated Driving Systems
+  source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
+- id: cn-china-srrc-miit-radio-transmission-equipment-type-approval
+  workbook_id: REG-0543
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: China SRRC / MIIT Radio Transmission Equipment Type Approval
+  title: China Telecom/RF - SRRC radio transmission equipment approval
+  source_url: https://www.srrc.org.cn/
+- id: other-workbook-reg-0546-directive-2011-65-eu-rohs
+  workbook_id: REG-0546
+  market_family: Other / Cross-Market
+  region_body: Materials / Recycling Horizontal
+  region: OTHER
+  citation: Directive 2011/65/EU / RoHS
+  title: Materials / Electronics - RoHS
+  source_url: https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en
+- id: us-stub-title-13-ccr-1961-4-1962-4-1962-8
+  workbook_id: REG-0567
+  market_family: United States
+  region_body: US / California CARB
+  region: US
+  citation: Title 13 CCR 1961.4 / 1962.4-1962.8
+  title: Advanced Clean Cars II / LEV IV and ZEV Requirements
+  source_url: https://ww2.arb.ca.gov/our-work/programs/advanced-clean-cars-program/advanced-clean-cars-ii
+- id: ca-workbook-reg-0568-sor-2010-90
+  workbook_id: REG-0568
+  market_family: Canada
+  region_body: CMVSS / Canada
+  region: CA
+  citation: SOR/2010-90
+  title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
+  source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/
+- id: ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices
+  workbook_id: REG-0569
+  market_family: Canada
+  region_body: CMVSS / Canada
+  region: CA
+  citation: ISED Radio Equipment Certification / RSS-Gen / ICES
+  title: Canada Radiofrequency and EMC Equipment Approval
+  source_url: https://ised-isde.canada.ca/site/certification-engineering-bureau/en
+- id: gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3
+  workbook_id: REG-0593
+  market_family: GCC / Middle East
+  region_body: GCC / GSO
+  region: GCC
+  citation: GSO Technical Regulations for Motor Vehicles MY2027-D3
+  title: GCC/GSO Motor Vehicle Technical Regulation Framework
+  source_url: https://www.gso.org.sa/wp-content/uploads/2025/10/GSO-Technical-Regulations-MV-2027-MY-D3.pdf
+- id: cn-gb-t-30512-2014
+  workbook_id: REG-0594
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB/T 30512-2014
+  title: Requirements for Prohibited Substances on Automobiles
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=4BEFC13C210FD77470C530F676879C6B&refer=outter
+- id: cn-gb-26572-2025
+  workbook_id: REG-0595
+  market_family: China
+  region_body: GB / China
+  region: CN
+  citation: GB 26572-2025
+  title: Requirements for Restricted Use of Hazardous Substances in Electrical and
+    Electronic Products
+  source_url: https://chinarohs.miit.gov.cn/
+- id: kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification
+  workbook_id: REG-0596
+  market_family: South Korea
+  region_body: KMVSS / South Korea
+  region: KR
+  citation: Clean Air Conservation Act / Motor Vehicle Emissions Certification
+  title: Korea Motor Vehicle Emissions Certification and Permissible Emission Standards
+  source_url: https://law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=5001&urlMode=engLsInfoR&viewCls=engLsInfoR
+- id: kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise
+  workbook_id: REG-0597
+  market_family: South Korea
+  region_body: KMVSS / South Korea
+  region: KR
+  citation: Noise and Vibration Control Act / Vehicle Noise
+  title: Korea Motor Vehicle Noise Authentication and Standards
+  source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=228119&urlMode=engLsInfoR&viewCls=engLsInfoR
+- id: kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment
+  workbook_id: REG-0598
+  market_family: South Korea
+  region_body: KMVSS / South Korea
+  region: KR
+  citation: Radio Waves Act / RRA-KC Conformity Assessment
+  title: Korea RF and EMC Conformity Assessment for Radio Equipment
+  source_url: https://www.law.go.kr/LSW/lsInfoP.do?efYd=20240724&lsiSeq=262501#0000
+- id: kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles
+  workbook_id: REG-0599
+  market_family: South Korea
+  region_body: KMVSS / South Korea
+  region: KR
+  citation: Act on Resource Circulation of Electrical and Electronic Equipment and
+    Vehicles
+  title: Korea Vehicle Resource Circulation / Recycling Requirements
+  source_url: https://elaw.klri.re.kr/eng_service/lawView.do?hseq=55946&lang=ENG
+- id: jp-srrv-japan-passenger-vehicle-exhaust-emission-standards
+  workbook_id: REG-0600
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Japan Motor Vehicle Exhaust Emission Standards
+  title: Japan Passenger Vehicle Exhaust Emission Standards
+  source_url: https://www.env.go.jp/en/air/aq/mv/standards.html
+- id: jp-srrv-japan-motor-vehicle-noise-requirements
+  workbook_id: REG-0601
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Noise Regulation Law / Motor Vehicle Noise
+  title: Japan Motor Vehicle Noise Requirements
+  source_url: https://www.env.go.jp/en/laws/air/noise/ch.html
+- id: jp-srrv-japan-radio-equipment-technical-conformity-certification
+  workbook_id: REG-0602
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Radio Act / MIC-TELEC Technical Conformity
+  title: Japan Radio Equipment Technical Conformity Certification
+  source_url: https://www.telec.or.jp/eng/services/tech/tech_02.html
+- id: jp-srrv-japan-automobile-recycling-law
+  workbook_id: REG-0603
+  market_family: Japan
+  region_body: Japan MLIT / Safety Regulations
+  region: JP
+  citation: Act on Recycling of End-of-Life Automobiles
+  title: Japan Automobile Recycling Law
+  source_url: https://www.japaneselawtranslation.go.jp/en/laws/view/3829
+- id: au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024
+  workbook_id: REG-0604
+  market_family: Australia
+  region_body: ADR / Australia
+  region: AU
+  citation: New Vehicle Efficiency Standard Act 2024
+  title: New Vehicle Efficiency Standard (NVES)
+  source_url: https://www.nvesregulator.gov.au/what-new-vehicle-efficiency-standard
+- id: au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma
+  workbook_id: REG-0605
+  market_family: Australia
+  region_body: ADR / Australia
+  region: AU
+  citation: Radiocommunications Equipment (General) Rules 2021 / ACMA
+  title: Australia RF Equipment Compliance for In-vehicle Radio Devices
+  source_url: https://www.legislation.gov.au/F2021L00286/latest
+- id: in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework
+  workbook_id: REG-0607
+  market_family: India
+  region_body: India / MoRTH / ARAI / BIS
+  region: IN
+  citation: Central Motor Vehicles Rules (CMVR) / AIS Type Approval Framework
+  title: India passenger-vehicle type approval and AIS safety framework
+  source_url: https://www.araiindia.com/certification/certification/vehicle
+- id: in-ais-038-rev-2-ais-156
+  workbook_id: REG-0608
+  market_family: India
+  region_body: India / MoRTH / ARAI
+  region: IN
+  citation: AIS-038 Rev.2 / AIS-156
+  title: India electric powertrain / traction battery safety standards
+  source_url: https://morth.nic.in/sites/default/files/ASI/AIS-156.pdf
+- id: in-bs-vi-india-cafe-fuel-consumption
+  workbook_id: REG-0609
+  market_family: India
+  region_body: India / MoRTH / CPCB / BEE
+  region: IN
+  citation: BS-VI / India CAFE / Fuel Consumption
+  title: India emission and fuel-consumption compliance framework
+  source_url: https://morth.nic.in
+- id: mx-workbook-reg-0610-nom-194-se-2021
+  workbook_id: REG-0610
+  market_family: Mexico
+  region_body: Mexico / Secretaria de Economia / SICT
+  region: MX
+  citation: NOM-194-SE-2021
+  title: Safety devices for new light vehicles - requirements and specifications
+  source_url: https://sidof.segob.gob.mx/notas/docFuente/5666804
+- id: us-stub-nom-042-semarnat-2003
+  workbook_id: REG-0611
+  market_family: United States
+  region_body: Mexico / SEMARNAT / PROFEPA
+  region: US
+  citation: NOM-042-SEMARNAT-2003
+  title: Maximum permissible exhaust and evaporative emissions for new vehicles up
+    to 3,857 kg GVWR
+  source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/
+- id: mx-workbook-reg-0612-nom-163-semarnat-scfi-2023
+  workbook_id: REG-0612
+  market_family: Mexico
+  region_body: Mexico / SEMARNAT / Secretaria de Economia
+  region: MX
+  citation: NOM-163-SEMARNAT-SCFI-2023
+  title: CO2 emissions from new vehicles up to 3,857 kg GVWR
+  source_url: https://platiica.economia.gob.mx/normalizacion/nom-163-semarnat-scfi-2023/
+- id: eaeu-workbook-reg-0613-tr-cu-018-2011
+  workbook_id: REG-0613
+  market_family: Europe / UNECE
+  region_body: EAEU / Eurasian Economic Commission
+  region: EAEU
+  citation: TR CU 018/2011
+  title: Technical Regulation on Safety of Wheeled Vehicles
+  source_url: https://docs.eaeunion.org/en/documents/306/2419/
+- id: eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements
+  workbook_id: REG-0614
+  market_family: Europe / UNECE
+  region_body: EAEU / Russia / Customs Union
+  region: EAEU
+  citation: ERA-GLONASS emergency call requirements
+  title: Automatic emergency call equipment requirements linked to EAEU/Russia vehicle
+    approval
+  source_url: https://en.glonassunion.ru/era-glonass/info
+- id: asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra
+  workbook_id: REG-0615
+  market_family: ASEAN
+  region_body: ASEAN / Member State Authorities
+  region: ASEAN
+  citation: ASEAN Automotive Products Mutual Recognition Arrangement (APMRA)
+  title: ASEAN framework for mutual recognition of automotive product approvals
+  source_url: https://www.tisi.go.th/data/pdf/mra/MRA006.pdf
+- id: asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework
+  workbook_id: REG-0616
+  market_family: ASEAN
+  region_body: Thailand / TISI / DLT
+  region: ASEAN
+  citation: Thailand TIS / DLT vehicle type approval framework
+  title: Thailand national vehicle and component conformity framework
+  source_url: https://www.tisi.go.th/
+- id: asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework
+  workbook_id: REG-0617
+  market_family: ASEAN
+  region_body: Indonesia / Ministry of Industry / Ministry of Transportation
+  region: ASEAN
+  citation: Indonesia SNI / Vehicle Type Approval Framework
+  title: Indonesia national vehicle type approval and SNI conformity framework
+  source_url: https://www.gaikindo.or.id/wp-content/uploads/2025/07/03.-Sandro-Mihradi-Vehicle-Type-Approval-System-in-Indonesia.pdf
+- id: asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval
+  workbook_id: REG-0618
+  market_family: ASEAN
+  region_body: Malaysia / JPJ / DOE
+  region: ASEAN
+  citation: JPJ Vehicle Type Approval / Malaysia emissions approval
+  title: Malaysia vehicle type approval and environmental approval framework
+  source_url: https://www.jpj.gov.my/en/vta-guidelines/
+- id: asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt
+  workbook_id: REG-0619
+  market_family: ASEAN
+  region_body: Vietnam / VR / BGTVT
+  region: ASEAN
+  citation: QCVN 09:2024/BGTVT / Circular 48/2024/TT-BGTVT
+  title: Vietnam technical and environmental safety requirements for vehicles
+  source_url: https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/circular-48-2024-tt-bgtvt-technical-regulations-on-technical-environmental-protection-consumption-of-648713.html
+- id: asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework
+  workbook_id: REG-0620
+  market_family: ASEAN
+  region_body: Philippines / LTO / DTI-BPS / DENR-EMB
+  region: ASEAN
+  citation: Philippines motor vehicle/component conformity and emissions approval
+    framework
+  title: Philippines vehicle and component certification, COC and emissions/environmental
+    framework
+  source_url: https://bps.dti.gov.ph/
+- id: tw-vehicle-safety-type-approval-dgst
+  workbook_id: REG-0621
+  market_family: Taiwan
+  region_body: Taiwan / VSCC / MOTC
+  region: TW
+  citation: Vehicle Safety Type Approval / DGST
+  title: Taiwan vehicle safety type approval and DGST safety test framework
+  source_url: https://www.vscc.org.tw/Home/Content/509
+- id: za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series
+  workbook_id: REG-0622
+  market_family: South Africa
+  region_body: South Africa / NRCS / SABS
+  region: ZA
+  citation: NRCS Compulsory Specifications / VC Series
+  title: South Africa compulsory specifications for motor vehicles and components
+  source_url: https://www.nrcs.org.za/compulsory-specifications/compulsory-specifications
+- id: za-workbook-reg-0623-vc-8056
+  workbook_id: REG-0623
+  market_family: South Africa
+  region_body: South Africa / NRCS
+  region: ZA
+  citation: VC 8056
+  title: Pneumatic tyres for passenger cars and trailers
+  source_url: https://www.nrcs.org.za/CompulsarySpecExtended/VC%208056.pdf
+- id: ar-workbook-reg-0624-lcm-lca
+  workbook_id: REG-0624
+  market_family: Argentina / Mercosur
+  region_body: Argentina / INTI / Transport Authorities
+  region: AR
+  citation: LCM / LCA
+  title: Argentina model configuration and environmental configuration licenses
+  source_url: https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo
+- id: gcc-saso-saber-fuel-economy-label-for-new-light-vehicles
+  workbook_id: REG-0625
+  market_family: GCC / Middle East
+  region_body: GCC member overlay / Saudi Arabia SASO
+  region: GCC
+  citation: SASO SABER / Fuel Economy Label for New Light Vehicles
+  title: Saudi conformity platform and fuel economy label overlay
+  source_url: https://saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?serviceid=419
+- id: gcc-ecas-moiat-conformity-certificates
+  workbook_id: REG-0626
+  market_family: GCC / Middle East
+  region_body: GCC member overlay / UAE MOIAT
+  region: GCC
+  citation: ECAS / MOIAT Conformity Certificates
+  title: UAE conformity certificate overlay for regulated products
+  source_url: https://moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
+- id: il-workbook-reg-0627-israel-vehicle-import-type-approval-framework
+  workbook_id: REG-0627
+  market_family: Israel
+  region_body: Israel / Ministry of Transport and Road Safety
+  region: IL
+  citation: Israel vehicle import/type approval framework
+  title: Israel import, registration and standards-recognition framework
+  source_url: https://www.gov.il/en/departments/ministry_of_transport_and_road_safety/govil-landing-page
+- id: nz-workbook-reg-0628-land-transport-rules-approved-standards
+  workbook_id: REG-0628
+  market_family: New Zealand
+  region_body: New Zealand / Waka Kotahi NZTA
+  region: NZ
+  citation: Land Transport Rules / Approved Standards
+  title: New Zealand vehicle standards and recognized standards framework
+  source_url: https://www.nzta.govt.nz/vehicles/vehicle-types/vehicle-classes-and-standards/standards-that-apply-to-your-vehicle
+- id: nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022
+  workbook_id: REG-0629
+  market_family: New Zealand
+  region_body: New Zealand / Waka Kotahi NZTA
+  region: NZ
+  citation: Land Transport (Clean Vehicle Standard) Regulations 2022
+  title: New Zealand Clean Car Standard / Clean Vehicle Standard
+  source_url: https://www.legislation.govt.nz/regulation/public/2022/0285/latest/whole.html
+- id: tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework
+  workbook_id: REG-0630
+  market_family: Turkey
+  region_body: Turkey / Ministry of Industry and Technology
+  region: TR
+  citation: Turkey motor vehicle type approval framework
+  title: Turkey vehicle type approval aligned with EU framework
+  source_url: https://urunkurallari.ticaret.gov.tr/en/sectoral-guide/motor-vehicles
+- id: us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386
+  workbook_id: REG-0634
+  market_family: United States
+  region_body: United States / Massachusetts
+  region: US
+  citation: Massachusetts General Laws Chapter 93K / Acts of 2020 Chapter 386
+  title: Motor vehicle right-to-repair telematics data access
+  source_url: https://malegislature.gov/Laws/SessionLaws/Acts/2020/Chapter386
+- id: us-stub-california-proposition-65
+  workbook_id: REG-0635
+  market_family: United States
+  region_body: United States / California
+  region: US
+  citation: California Proposition 65
+  title: Safe Drinking Water and Toxic Enforcement Act warning requirements
+  source_url: https://oehha.ca.gov/proposition-65
+- id: us-stub-dodd-frank-section-1502-regulation-eu-2017-821
+  workbook_id: REG-0636
+  market_family: United States
+  region_body: United States / EU / Global supply chain
+  region: US
+  citation: Dodd-Frank Section 1502 / Regulation (EU) 2017/821
+  title: Conflict minerals and responsible sourcing due-diligence frameworks
+  source_url: https://eur-lex.europa.eu/eli/reg/2017/821/oj
+- id: eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956
+  workbook_id: REG-0637
+  market_family: Europe / UNECE
+  region_body: ECE / UNECE and EU / Global supply chain
+  region: EU
+  citation: Directive (EU) 2022/2464 / Directive (EU) 2024/1760 / Regulation (EU)
+    2023/956
+  title: CSRD, CSDDD and CBAM sustainability/due-diligence overlays
+  source_url: https://eur-lex.europa.eu/eli/dir/2022/2464/oj
+- id: ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles
+  workbook_id: REG-0639
+  market_family: Europe / UNECE
+  region_body: UNECE / 1958 Agreement
+  region: ECE
+  citation: UNECE 1958 Agreement / Schedule 1 CoP principles
+  title: UNECE type approval and conformity-of-production framework
+  source_url: https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations
+- id: other-workbook-reg-0641-iatf-16949
+  workbook_id: REG-0641
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Quality
+  region: OTHER
+  citation: IATF 16949
+  title: Automotive quality management system
+  source_url: https://www.iatfglobaloversight.org/iatf-169492016/about/
+- id: other-workbook-reg-0642-iso-9001
+  workbook_id: REG-0642
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Quality
+  region: OTHER
+  citation: ISO 9001
+  title: Quality management systems - Requirements
+  source_url: https://www.iso.org/standard/62085.html
+- id: other-workbook-reg-0643-iso-26262
+  workbook_id: REG-0643
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Functional Safety
+  region: OTHER
+  citation: ISO 26262
+  title: Road vehicles - Functional safety
+  source_url: https://www.iso.org/standard/68383.html
+- id: other-workbook-reg-0644-iso-21448
+  workbook_id: REG-0644
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / SOTIF
+  region: OTHER
+  citation: ISO 21448
+  title: Road vehicles - Safety of the intended functionality
+  source_url: https://www.iso.org/standard/77490.html
+- id: other-workbook-reg-0645-iso-sae-21434
+  workbook_id: REG-0645
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Cybersecurity
+  region: OTHER
+  citation: ISO/SAE 21434
+  title: Road vehicles - Cybersecurity engineering
+  source_url: https://www.iso.org/standard/70918.html
+- id: other-workbook-reg-0646-iso-24089
+  workbook_id: REG-0646
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Software Update
+  region: OTHER
+  citation: ISO 24089
+  title: Road vehicles - Software update engineering
+  source_url: https://www.iso.org/standard/77796.html
+- id: other-workbook-reg-0647-automotive-spice-aspice
+  workbook_id: REG-0647
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Software Process
+  region: OTHER
+  citation: Automotive SPICE (ASPICE)
+  title: Automotive software process assessment model
+  source_url: https://vda-qmc.de/en/publications/automotive-spice/
+- id: other-workbook-reg-0648-iso-6469-series
+  workbook_id: REG-0648
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / EV Safety
+  region: OTHER
+  citation: ISO 6469 series
+  title: Electrically propelled road vehicles - Safety specifications
+  source_url: https://www.iso.org/standard/68665.html
+- id: other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3
+  workbook_id: REG-0649
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Dangerous Goods Transport
+  region: OTHER
+  citation: UN Manual of Tests and Criteria, Section 38.3
+  title: Lithium battery transport tests
+  source_url: https://unece.org/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023
+- id: other-workbook-reg-0650-iso-22628
+  workbook_id: REG-0650
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Recyclability
+  region: OTHER
+  citation: ISO 22628
+  title: Road vehicles - Recyclability and recoverability calculation method
+  source_url: https://www.iso.org/standard/35061.html
+- id: other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp
+  workbook_id: REG-0651
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Core Quality Tools
+  region: OTHER
+  citation: AIAG-VDA FMEA / MSA / SPC / PPAP / APQP
+  title: Automotive core quality tools
+  source_url: https://www.aiag.org/quality/automotive-core-tools
+- id: other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800
+  workbook_id: REG-0652
+  market_family: Other / Cross-Market
+  region_body: Supporting Standards / Automated Driving
+  region: OTHER
+  citation: ISO 34502 / ISO/TR 4804 / ISO/PAS 8800
+  title: Automated-driving scenario, safety and AI guidance standards
+  source_url: https://www.iso.org/standard/78951.html

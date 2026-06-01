@@ -1,7 +1,7 @@
 ---
 citation: 47 CFR Part 15
 id: us-47cfr-part-15
-last_pulled: '2026-05-23T03:12:51+00:00'
+last_pulled: '2026-06-01T18:46:01+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-47/part-15

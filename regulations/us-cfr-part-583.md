@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 583
 id: us-cfr-part-583
-last_pulled: '2026-05-23T03:11:58+00:00'
+last_pulled: '2026-06-01T18:45:09+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-583

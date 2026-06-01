@@ -1,7 +1,7 @@
 ---
 citation: 40 CFR Part 82
 id: us-40cfr-part-82
-last_pulled: '2026-05-23T03:12:33+00:00'
+last_pulled: '2026-06-01T18:45:44+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-82

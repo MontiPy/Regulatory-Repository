@@ -1,7 +1,7 @@
 ---
 citation: Central Motor Vehicles Rules (CMVR) / AIS Type Approval Framework
 id: in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: IN
 source_api: spreadsheet
 source_url: https://www.araiindia.com/certification/certification/vehicle

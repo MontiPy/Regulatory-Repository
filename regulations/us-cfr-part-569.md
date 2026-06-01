@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 569
 id: us-cfr-part-569
-last_pulled: '2026-05-23T03:11:13+00:00'
+last_pulled: '2026-06-01T18:44:32+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-569

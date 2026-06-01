@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 581
 id: us-cfr-part-581
-last_pulled: '2026-05-23T03:11:48+00:00'
+last_pulled: '2026-06-01T18:45:04+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-581

@@ -1,7 +1,7 @@
 ---
 citation: California Proposition 65
 id: us-stub-california-proposition-65
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:42+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://oehha.ca.gov/proposition-65

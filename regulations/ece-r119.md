@@ -1,7 +1,7 @@
 ---
 citation: UN R119
 id: ece-r119
-last_pulled: '2026-05-23T03:22:56+00:00'
+last_pulled: '2026-06-01T18:53:04+00:00'
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations

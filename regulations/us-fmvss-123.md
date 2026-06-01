@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR §571.123
 id: us-fmvss-123
-last_pulled: '2026-05-23T03:06:38+00:00'
+last_pulled: '2026-06-01T18:39:38+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.123

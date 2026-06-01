@@ -1,7 +1,7 @@
 ---
 citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
 id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
 region: GCC
 source_api: spreadsheet

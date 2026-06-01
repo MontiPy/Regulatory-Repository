@@ -4,7 +4,7 @@ commodities:
 - Seats
 - Body structure
 id: jp-jvsregs-art20
-last_pulled: '2026-05-23T03:22:36+00:00'
+last_pulled: '2026-06-01T18:52:41+00:00'
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067

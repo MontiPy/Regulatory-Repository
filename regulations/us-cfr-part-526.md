@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 526
 id: us-cfr-part-526
-last_pulled: '2026-05-23T03:09:59+00:00'
+last_pulled: '2026-06-01T18:43:07+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-526

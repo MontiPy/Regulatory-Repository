@@ -1,7 +1,7 @@
 ---
 citation: Noise Regulation Law / Motor Vehicle Noise
 id: jp-srrv-japan-motor-vehicle-noise-requirements
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/laws/air/noise/ch.html

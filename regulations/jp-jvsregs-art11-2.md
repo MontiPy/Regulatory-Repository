@@ -1,7 +1,7 @@
 ---
 citation: JVSR Article 11_2
 id: jp-jvsregs-art11-2
-last_pulled: '2026-05-23T03:22:35+00:00'
+last_pulled: '2026-06-01T18:52:40+00:00'
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067

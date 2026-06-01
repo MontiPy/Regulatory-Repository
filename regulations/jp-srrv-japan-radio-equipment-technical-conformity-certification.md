@@ -1,7 +1,7 @@
 ---
 citation: Radio Act / MIC-TELEC Technical Conformity
 id: jp-srrv-japan-radio-equipment-technical-conformity-certification
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.telec.or.jp/eng/services/tech/tech_02.html

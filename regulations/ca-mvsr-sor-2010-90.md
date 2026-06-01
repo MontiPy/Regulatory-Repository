@@ -1,7 +1,7 @@
 ---
 citation: MVSR SOR-2010-90
 id: ca-mvsr-sor-2010-90
-last_pulled: '2026-05-23T03:22:49+00:00'
+last_pulled: '2026-06-01T18:52:57+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/FullText.html

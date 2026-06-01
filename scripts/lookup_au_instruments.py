@@ -81,60 +81,71 @@ def _session() -> requests.Session:
     return s
 
 
-def _fetch_page(sess: requests.Session, offset: int, page_size: int = 100) -> dict:
-    url = f"{API_BASE}/Titles"
-    params = {
-        "text": "Design Rule",
-        "pageSize": page_size,
-        "pageNumber": offset // page_size + 1,
-    }
-    resp = sess.get(url, params=params, timeout=30)
-    resp.raise_for_status()
-    return resp.json()
-
-
-def _extract_adr_number(title_str: str) -> str | None:
-    """Return 'ADR N' or 'ADR NN' from a title string, or None if not an ADR."""
-    m = re.search(r"\bADR\s+(\d+)", title_str, re.IGNORECASE)
+def _extract_adr_number(name: str) -> str | None:
+    """Return 'ADR N' from a name like 'Vehicle Standard (Australian Design Rule N/M - ...)'.
+    Returns None if not an ADR instrument."""
+    m = re.search(r"Design Rule\s+(\d+)[/](\d+)", name, re.IGNORECASE)
     if m:
         return f"ADR {m.group(1)}"
     return None
 
 
+def _clean_title(adr_num_str: str, adr_ver: int, raw_name: str) -> str:
+    """Extract 'ADR X/Y - Title' from the raw instrument name."""
+    m = re.search(r"Design Rule\s+\d+/\d+\s*[–—\-]+\s*(.+?)\)\s*\d{4}", raw_name)
+    if m:
+        return f"ADR {adr_num_str}/{adr_ver:02d} - {m.group(1).strip()}"
+    return f"ADR {adr_num_str}/{adr_ver:02d}"
+
+
 def fetch_all_adr_instruments(sess: requests.Session) -> dict[str, tuple[str, str]]:
-    """Return {adr_key: (instrument_id, full_title)} for all found ADRs."""
-    found: dict[str, tuple[str, str]] = {}
-    page_size = 100
-    offset = 0
+    """Return {adr_key: (instrument_id, clean_title)} for all found ADR instruments.
+
+    Uses the OData Titles endpoint with a contains() filter on the name field.
+    Pagination follows @odata.nextLink.  Only F-number instrument IDs are kept;
+    for each ADR number the latest (highest version) in-force instrument wins.
+    """
+    found: dict[str, tuple[str, str, int, bool]] = {}  # key → (id, title, ver, in_force)
+
+    url = f"{API_BASE}/Titles"
+    params = {"$filter": "contains(name, 'Design Rule')", "pageSize": 100}
 
     print("Querying legislation.gov.au for ADR instruments...", file=sys.stderr)
-    while True:
-        data = _fetch_page(sess, offset, page_size)
-        items = data.get("titles", data.get("items", data.get("results", [])))
-        if not items:
-            # Try alternate response shape
-            if isinstance(data, list):
-                items = data
-            else:
-                break
+    while url:
+        resp = sess.get(url, params=params, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+        items = data.get("value", [])
 
         for item in items:
-            title_str = item.get("title", "") or item.get("name", "") or str(item)
-            instrument_id = item.get("id", "") or item.get("registerId", "")
-            adr_key = _extract_adr_number(title_str)
-            if adr_key and instrument_id:
-                # Keep the most recent version (highest F-number or latest date)
-                if adr_key not in found or instrument_id > found[adr_key][0]:
-                    found[adr_key] = (instrument_id, title_str)
-                    print(f"  Found {adr_key}: {instrument_id} — {title_str[:60]}", file=sys.stderr)
+            name = item.get("name", "")
+            instrument_id = item.get("id", "")
+            if not instrument_id.startswith("F"):
+                continue
+            m = re.search(r"Design Rule\s+(\d+)[/](\d+)", name, re.IGNORECASE)
+            if not m:
+                continue
+            adr_num_str = m.group(1)
+            adr_ver = int(m.group(2))
+            adr_key = f"ADR {adr_num_str}"
+            in_force = item.get("isInForce", False)
+            title = _clean_title(adr_num_str, adr_ver, name)
 
-        total = data.get("total", data.get("count", len(items)))
-        offset += page_size
-        if offset >= total or not items:
-            break
-        time.sleep(0.5)
+            existing = found.get(adr_key)
+            if existing is None:
+                found[adr_key] = (instrument_id, title, adr_ver, in_force)
+                print(f"  Found {adr_key}: {instrument_id} — {title[:60]}", file=sys.stderr)
+            else:
+                _, _, ex_ver, ex_force = existing
+                if (in_force and not ex_force) or (in_force == ex_force and adr_ver > ex_ver):
+                    found[adr_key] = (instrument_id, title, adr_ver, in_force)
+                    print(f"  Updated {adr_key}: {instrument_id} — {title[:60]}", file=sys.stderr)
 
-    return found
+        url = data.get("@odata.nextLink")
+        params = {}
+        time.sleep(0.3)
+
+    return {k: (v[0], v[1]) for k, v in found.items()}
 
 
 def load_existing_ids(manifest_path: Path) -> set[str]:
@@ -152,11 +163,11 @@ def build_new_entries(
     new_entries = []
     for adr_key, hint_title in sorted(targets.items(), key=lambda kv: int(re.search(r"\d+", kv[0]).group())):
         if adr_key in found:
-            instrument_id, full_title = found[adr_key]
+            instrument_id, clean_title = found[adr_key]
             if instrument_id not in existing_ids:
                 new_entries.append({
                     "instrument_id": instrument_id,
-                    "title": hint_title,
+                    "title": clean_title or hint_title,
                 })
         else:
             print(f"  NOT FOUND: {adr_key} ({hint_title})", file=sys.stderr)

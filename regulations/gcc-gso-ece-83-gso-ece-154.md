@@ -1,7 +1,7 @@
 ---
 citation: GSO-ECE 83 / GSO-ECE 154
 id: gcc-gso-ece-83-gso-ece-154
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
 region: GCC
 source_api: spreadsheet

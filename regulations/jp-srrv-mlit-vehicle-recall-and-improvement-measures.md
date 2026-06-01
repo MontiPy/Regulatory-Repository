@@ -1,7 +1,7 @@
 ---
 citation: Japan Vehicle Recall System
 id: jp-srrv-mlit-vehicle-recall-and-improvement-measures
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.mlit.go.jp/jidosha/recall.html

@@ -11,7 +11,9 @@ records:
   - { regulation: 7,   title: "Front and Rear Position Lamps, Stop Lamps and End-Outline Marker Lamps" }
   - { regulation: 19,  title: "Front Fog Lamps" }
   - { regulation: 23,  title: "Reversing Lamps" }
+  - { regulation: 37,  title: "Filament Light Sources" }
   - { regulation: 38,  title: "Rear Fog Lamps" }
+  - { regulation: 45,  title: "Headlamp Cleaners" }
   - { regulation: 48,  title: "Installation of Lighting and Light-Signalling Devices" }
   - { regulation: 77,  title: "Parking Lamps" }
   - { regulation: 87,  title: "Daytime Running Lamps (DRL)" }
@@ -34,7 +36,7 @@ records:
   - { regulation: 139,   title: "Brake Assist Systems (BAS)" }
   - { regulation: 140,   title: "Electronic Stability Control (ESC)" }
   - { regulation: 152,   title: "Advanced Emergency Braking (AEB) for Light-Duty Vehicles" }
-  - { regulation: 168,   title: "Advanced Emergency Braking — Pedestrian and Cyclist Protection" }
+  - { regulation: 168,   title: "Real Driving Emissions (RDE)" }
 
   # ── Crashworthiness & Restraints ─────────────────────────────────────────────
   - { regulation: 11,  title: "Door Latches and Door Retention Components" }
@@ -43,6 +45,7 @@ records:
   - { regulation: 17,  title: "Seats, their Anchorages and Head Restraints" }
   - { regulation: 21,  title: "Interior Fittings" }
   - { regulation: 25,  title: "Head Restraints (Headrests)" }
+  - { regulation: 26,  title: "External Projections" }
   - { regulation: 44,  title: "Child Restraint Systems" }
   - { regulation: 94,  title: "Frontal Collision Protection" }
   - { regulation: 95,  title: "Side Collision Protection" }
@@ -89,9 +92,11 @@ records:
   # ── Theft Prevention ─────────────────────────────────────────────────────────
   - { regulation: 116, title: "Protection of Motor Vehicles against Unauthorized Use" }
   - { regulation: 162, title: "Immobilisers" }
+  - { regulation: 163, title: "Vehicle Alarm Systems" }
 
   # ── ADAS & Automation ────────────────────────────────────────────────────────
   - { regulation: 89,  title: "Speed Limitation Devices" }
+  - { regulation: 144, title: "Accident Emergency Call Systems" }
   - { regulation: 157, title: "Automated Lane Keeping Systems (ALKS)" }
   - { regulation: 158, title: "Reversing Detection Technology" }
   - { regulation: 159, title: "Moving-Off Information Systems (MOIS)" }
@@ -103,5 +108,9 @@ records:
   - { regulation: 156, title: "Software Update and Software Update Management Systems" }
 
   # ── Miscellaneous ────────────────────────────────────────────────────────────
+  - { regulation: 0,   title: "International Whole Vehicle Type Approval (IWVTA)" }
   - { regulation: 10,  title: "Electromagnetic Compatibility (EMC)" }
   - { regulation: 27,  title: "Warning Triangles" }
+  - { regulation: 28,  title: "Audible Warning Devices" }
+  - { regulation: 39,  title: "Speedometer Equipment" }
+  - { regulation: 55,  title: "Mechanical Coupling Components" }

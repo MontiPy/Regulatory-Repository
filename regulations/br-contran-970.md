@@ -1,7 +1,7 @@
 ---
 citation: CONTRAN 970/2022
 id: br-contran-970
-last_pulled: '2026-05-23T04:19:22+00:00'
+last_pulled: '2026-06-01T18:53:17+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9702022.pdf

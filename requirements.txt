@@ -6,3 +6,5 @@ bleach>=6.1
 requests>=2.31
 markdownify>=0.11
 pdfminer.six>=20221105
+pandas>=2.2
+openpyxl>=3.1

@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR §571.202a
 id: us-fmvss-202a
-last_pulled: '2026-05-23T03:07:29+00:00'
+last_pulled: '2026-06-01T18:40:21+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202a

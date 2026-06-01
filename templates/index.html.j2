@@ -56,6 +56,8 @@
       --shadow-1: 0 1px 2px rgba(35,36,41,0.06), 0 1px 1px rgba(35,36,41,0.04);
       --shadow-2: 0 4px 12px rgba(35,36,41,0.08), 0 2px 4px rgba(35,36,41,0.04);
 
+      --filter-active-bg: var(--red-0);
+
       --dur: 0.25s;
       --ease: cubic-bezier(0.4, 0.0, 0.2, 1);
     }
@@ -63,6 +65,7 @@
     /* ── Dark mode ─────────────────────────────────────────────── */
     @media (prefers-color-scheme: dark) {
       :root {
+        --filter-active-bg: rgba(204,0,0,0.08);
         --fg-1: #E8E9EA;
         --fg-2: var(--gray-3);
         --fg-3: var(--gray-5);
@@ -86,6 +89,7 @@
     }
 
     html[data-theme="dark"] {
+      --filter-active-bg: rgba(204,0,0,0.08);
       --fg-1: #E8E9EA; --fg-2: #C8C9CC; --fg-3: #8C8D91;
       --bg-1: #232429; --bg-2: #35363B; --bg-3: #2A2B30;
       --surface: #2A2B30; --sidebar: #232429;
@@ -94,6 +98,7 @@
       --ok: #55C98A; --warn: #F0B340; --danger: #F07065;
     }
     html[data-theme="light"] {
+      --filter-active-bg: var(--red-0);
       --fg-1: #232429; --fg-2: #505156; --fg-3: #8C8D91;
       --bg-1: #FFFFFF; --bg-2: #F7F7F8; --bg-3: #EAEBEC;
       --surface: #FFFFFF; --sidebar: #FAFAFA;
@@ -173,41 +178,28 @@
       display: flex;
       align-items: center;
       gap: 14px;
+      border-left: 3px solid var(--honda-red);
+      padding-left: 12px;
     }
 
     .header-title {
-      font-size: 11px;
-      font-weight: 700;
+      font-size: 14px;
+      font-weight: 900;
       letter-spacing: 0.16em;
       text-transform: uppercase;
-      color: var(--fg-2);
+      color: var(--fg-1);
       white-space: nowrap;
     }
 
-    .search-wrap { display: grid; gap: 6px; }
-
-    .search-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .search-label {
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--fg-3);
-      white-space: nowrap;
-    }
+    .search-wrap { display: block; }
 
     .header-actions { display: flex; gap: 8px; align-items: center; flex-shrink: 0; }
 
     #search {
       width: 100%;
-      height: 40px;
+      height: 44px;
       padding: 9px 12px;
-      border: 1px solid var(--line-1);
+      border: 1.5px solid var(--line-1);
       border-radius: 0;
       background: var(--bg-2);
       color: var(--fg-1);
@@ -238,6 +230,39 @@
       transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease);
     }
     .btn-util:hover { border-color: var(--honda-red); color: var(--honda-red); }
+
+    /* ── Content-availability bar (its own header strip) ───────── */
+    .view-bar {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 18px;
+      padding: 9px 28px;
+      border-top: 1px solid var(--line-1);
+      background: var(--bg-2);
+    }
+    .view-bar-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--fg-3);
+    }
+    .avail-option {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--fg-1);
+      user-select: none;
+    }
+    .avail-option input {
+      width: 14px; height: 14px;
+      accent-color: var(--honda-red);
+      cursor: pointer;
+      margin: 0;
+    }
 
     /* ── Layout ────────────────────────────────────────────────── */
     .layout {
@@ -306,7 +331,7 @@
     /* Red-tick motif on every filter section header */
     summary::before {
       content: "";
-      width: 3px;
+      width: 4px;
       height: 14px;
       background: var(--honda-red);
       flex-shrink: 0;
@@ -323,6 +348,7 @@
       transform: rotate(45deg) translateY(-2px);
       transition: transform var(--dur) var(--ease);
     }
+    details[open] { background: var(--filter-active-bg); }
     details[open] summary::after { transform: rotate(-135deg) translateY(-2px); }
 
     .facet-options {
@@ -401,10 +427,14 @@
       border-radius: 0;
       background: var(--surface);
       padding: 18px 20px;
-      transition: border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
+      transition: border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease), transform var(--dur) var(--ease);
       position: relative;
     }
-    .reg-card:hover { border-color: var(--gray-4); box-shadow: var(--shadow-1); }
+    .reg-card:hover {
+      border-color: var(--gray-4);
+      box-shadow: 0 4px 16px rgba(35,36,41,0.10), 0 2px 4px rgba(35,36,41,0.06);
+      transform: translateY(-1px);
+    }
 
     /* Red left accent on expanded cards */
     .reg-card.is-expanded {
@@ -422,7 +452,7 @@
     .reg-title {
       margin: 0 0 10px;
       font-size: 16px;
-      font-weight: 700;
+      font-weight: 900;
       line-height: 1.3;
       color: var(--fg-1);
     }
@@ -493,6 +523,29 @@
       background: var(--honda-red);
       color: var(--white);
     }
+
+    /* ── Stub / paywall banner ─────────────────────────────────── */
+    .stub-banner {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      padding: 10px 14px;
+      border-radius: 4px;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .stub-banner.no-paywall {
+      background: var(--warn-bg);
+      color: var(--warn);
+      border-left: 3px solid var(--warn);
+    }
+    .stub-banner.paywalled {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border-left: 3px solid var(--danger);
+    }
+    .stub-banner-icon { font-size: 15px; flex-shrink: 0; margin-top: 1px; }
+    .stub-banner a { color: inherit; text-decoration: underline; }
 
     /* ── Expanded detail ───────────────────────────────────────── */
     .expanded {
@@ -621,18 +674,20 @@
 
     /* ── Footer ────────────────────────────────────────────────── */
     .site-footer {
-      background: var(--gray-9);
-      color: var(--gray-5);
+      background: var(--bg-3);
+      color: var(--fg-2);
       font-size: 12px;
       letter-spacing: 0.06em;
       padding: 18px 28px;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      border-top: 1px solid var(--line-1);
     }
 
-    html[data-theme="light"] .site-footer { background: var(--gray-9); }
-    html[data-theme="dark"] .site-footer  { background: #17181C; }
+    html[data-theme="light"] .site-footer { background: var(--bg-3); color: var(--fg-2); }
+    html[data-theme="dark"] .site-footer  { background: #17181C; color: var(--gray-5); }
+    @media (prefers-color-scheme: dark) { .site-footer { background: #17181C; color: var(--gray-5); } }
 
     /* ── Filter info icon ─────────────────────────────────────── */
     .filter-info {
@@ -686,6 +741,8 @@
       .header-actions { grid-column: 2; grid-row: 1; }
       .search-wrap    { grid-column: 1 / -1; grid-row: 2; }
 
+      .view-bar { padding: 9px 16px; gap: 14px; }
+
       .layout { grid-template-columns: 1fr; }
       .filters {
         border-right: none;
@@ -709,17 +766,30 @@
       </div>
 
       <div class="search-wrap">
-        <div class="search-row">
-          <label class="search-label" for="search">Search</label>
-        </div>
-        <input id="search" type="search" autocomplete="off"
-               placeholder="Title, citation, UN equivalent, tags, or body text…">
+        <input id="search" type="search" autocomplete="off" aria-label="Search"
+               placeholder="Title, citation, tags, or body text…">
       </div>
 
       <div class="header-actions">
         <button type="button" class="btn-util" id="copy-link">Copy link</button>
         <button type="button" class="btn-util" id="theme-toggle">Dark</button>
       </div>
+    </div>
+
+    <div class="view-bar" role="group" aria-label="Content availability">
+      <span class="view-bar-label">Show</span>
+      <label class="avail-option" title="Records with full regulation text from a live source">
+        <input type="checkbox" id="avail-full" data-avail="full" checked>
+        Full text
+      </label>
+      <label class="avail-option" title="Standards requiring purchase or institutional access">
+        <input type="checkbox" id="avail-paywall" data-avail="paywall">
+        Paywall
+      </label>
+      <label class="avail-option" title="Catalog stubs with no live connector yet">
+        <input type="checkbox" id="avail-noconn" data-avail="noconn">
+        No live connection
+      </label>
     </div>
   </header>
 
@@ -750,12 +820,13 @@
 
     const PAGE_SIZE = 50;
     const FILTERS = [
-      { key: "region",            label: "Region",           taxonomyKey: "regions",           tooltip: "The jurisdiction that issued the regulation — US, EU, JP, KR, AU, CA, or ECE (UN Economic Commission for Europe, whose regulations are adopted by many countries globally)." },
-      { key: "systems",           label: "System",           taxonomyKey: "systems",            tooltip: "The functional vehicle system the regulation governs, e.g. braking, ADAS, or emissions. Higher-level grouping than Commodity." },
-      { key: "commodities",       label: "Commodity",        taxonomyKey: "commodities",        tooltip: "The specific physical part or component targeted, e.g. airbags, tires, or charging inlet. More granular than System — a single regulation may cover several commodities." },
-      { key: "vehicle_categories",label: "Vehicle Category", taxonomyKey: "vehicle_categories", tooltip: "The type of vehicle the regulation applies to." },
-      { key: "status",            label: "Status",           taxonomyKey: "statuses",           tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Proposed (open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
-      { key: "tagging_status",    label: "Tagging Status",   taxonomyKey: "tagging_statuses",   tooltip: "Whether the regulation has been classified with metadata (systems, commodities, vehicle categories). Untagged = not yet processed; LLM-tagged = classified automatically." },
+      { key: "region",             label: "Region",           taxonomyKey: "regions",              tooltip: "The jurisdiction that issued the regulation — US, EU, JP, KR, AU, CA, ECE (UN), BR, GCC, CN, TW, or IN." },
+      { key: "systems",            label: "System",           taxonomyKey: "systems",              tooltip: "The functional vehicle system the regulation governs, e.g. braking, ADAS, or emissions. Higher-level grouping than Commodity." },
+      { key: "commodities",        label: "Commodity",        taxonomyKey: "commodities",          tooltip: "The specific physical part or component targeted, e.g. airbags, tires, or charging inlet. More granular than System — a single regulation may cover several commodities." },
+      { key: "vehicle_categories", label: "Vehicle Category", taxonomyKey: "vehicle_categories",   tooltip: "The type of vehicle the regulation applies to." },
+      { key: "status",             label: "Status",           taxonomyKey: "statuses",             tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Proposed (open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
+      { key: "tagging_status",     label: "Tagging Status",   taxonomyKey: "tagging_statuses",     tooltip: "Whether the regulation has been classified with metadata (systems, commodities, vehicle categories). Untagged = not yet processed; LLM-tagged = classified automatically." },
+      { key: "translation_status", label: "Translation",      taxonomyKey: "translation_statuses", tooltip: "Whether the regulation text has been translated to English. Untranslated = original language only." },
     ];
 
     const searchInput   = document.querySelector("#search");
@@ -765,10 +836,40 @@
     const loadMore      = document.querySelector("#load-more");
     const clearFilters  = document.querySelector("#clear-filters");
     const copyLink      = document.querySelector("#copy-link");
+    const availBoxes    = Array.from(document.querySelectorAll("[data-avail]"));
     const expanded      = new Set();
     const recordById    = new Map(REGS.map((r) => [r.id, r]));
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
+
+    // Corpus-wide value counts (over ALL records, independent of filters) used to
+    // decide which facet options/sections are worth rendering.
+    const CORPUS_COUNTS = (() => {
+      const counts = {};
+      FILTERS.forEach((f) => { counts[f.key] = {}; });
+      REGS.forEach((r) => {
+        FILTERS.forEach((f) => {
+          const raw = r[f.key];
+          const vals = Array.isArray(raw) ? raw : (raw != null && raw !== "" ? [raw] : []);
+          vals.forEach((v) => { counts[f.key][v] = (counts[f.key][v] || 0) + 1; });
+        });
+      });
+      return counts;
+    })();
+
+    // Content-availability category for the header "Show" bar.
+    //   full    — full regulation text from a live source
+    //   paywall — requires purchase / institutional access
+    //   noconn  — catalog stub, no live connector yet
+    const AVAIL_CATEGORIES = ["full", "paywall", "noconn"];
+    function availabilityCategory(record) {
+      if (record.paywall === true) return "paywall";
+      if (record.source_api === "spreadsheet") return "noconn";
+      return "full";
+    }
+    function selectedAvailability() {
+      return new Set(availBoxes.filter((b) => b.checked).map((b) => b.dataset.avail));
+    }
 
     const DISPLAY_LABELS = { "in-force": "Active", "llm-tagged": "LLM-tagged" };
     function displayLabel(value) {
@@ -841,7 +942,9 @@
     function getVisibleRecords() {
       const q = searchInput.value;
       const sel = readSelections();
+      const avail = selectedAvailability();
       return REGS.filter((r) =>
+        avail.has(availabilityCategory(r)) &&
         matchesText(r, q) &&
         matchesFacet([r.region], sel.region) &&
         matchesFacet([r.status], sel.status) &&
@@ -891,12 +994,30 @@
       return `<div class="meta-item"><strong>Related</strong><div class="chips">${links}</div></div>`;
     }
 
+    function stubBanner(record) {
+      if (record.source_api !== "spreadsheet") return "";
+      const srcLink = record.source_url
+        ? ` <a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">Visit official source.</a>`
+        : "";
+      if (record.paywall) {
+        return `<div class="stub-banner paywalled">
+          <span class="stub-banner-icon">&#x1F512;</span>
+          <span>Full text not available — this standard requires purchase or institutional access. Content below is derived from the reference repository.${srcLink}</span>
+        </div>`;
+      }
+      return `<div class="stub-banner no-paywall">
+        <span class="stub-banner-icon">&#x26A0;&#xFE0F;</span>
+        <span>Full text not available — no live connector yet. Content below is derived from the reference repository.${srcLink}</span>
+      </div>`;
+    }
+
     function expandedContent(record) {
       const sourceHtml = record.source_url
         ? `<a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">${escapeHtml(record.source_url)}</a>`
         : "";
       return `
         <div class="expanded">
+          ${stubBanner(record)}
           <div class="body-html">${record.body_html || ""}</div>
           <div>
             <p class="meta-section-label">Details</p>
@@ -918,8 +1039,11 @@
     function cardTemplate(record) {
       const isExpanded = expanded.has(record.id);
       const q = searchInput.value;
-      const untagged = record.tagging_status === "untagged"
-        ? '<span class="badge untagged">Untagged</span>' : "";
+      // Show a status badge only for exception states — "in-force" is the norm
+      // for every record, so badging it conveys nothing.
+      const statusBadge = record.status && record.status !== "in-force"
+        ? `<span class="badge ${statusClass(record.status)}">${escapeHtml(displayLabel(record.status))}</span>`
+        : "";
       return `
         <article class="reg-card${isExpanded ? " is-expanded" : ""}" id="reg-${slug(record.id)}">
           <div class="card-top">
@@ -928,8 +1052,7 @@
               <div class="badges">
                 <span class="badge region">${escapeHtml(record.region)}</span>
                 <span class="badge">${escapeHtml(record.citation)}</span>
-                <span class="badge ${statusClass(record.status)}">${escapeHtml(displayLabel(record.status))}</span>
-                ${untagged}
+                ${statusBadge}
               </div>
               <p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>
             </div>
@@ -954,9 +1077,14 @@
     }
 
     function buildFilters() {
-      const DEFAULT_OPEN = new Set(["region", "status"]);
+      const DEFAULT_OPEN = new Set(["region"]);
       filtersForm.innerHTML = FILTERS.map((filter) => {
-        const options = TAXONOMY[filter.taxonomyKey] || [];
+        // Only offer options that at least one record actually uses, and skip a
+        // facet entirely if it can't narrow anything (fewer than 2 used values —
+        // e.g. Status, where every record is currently "in-force").
+        const options = (TAXONOMY[filter.taxonomyKey] || [])
+          .filter((value) => (CORPUS_COUNTS[filter.key]?.[value] || 0) > 0);
+        if (options.length < 2) return "";
         const controls = options.map((value) => {
           const id = `${filter.key}-${slug(value)}`;
           return `
@@ -986,6 +1114,13 @@
     function applyUrlParams() {
       const params = new URLSearchParams(window.location.search);
       searchInput.value = params.get("q") || "";
+      // Content-availability bar. Default (no param) = full text only.
+      // "avail=full,paywall" lists shown categories; "avail=none" = nothing shown.
+      const availParam = params.get("avail");
+      const shown = availParam === null
+        ? new Set(["full"])
+        : new Set(availParam.split(",").filter(Boolean));
+      availBoxes.forEach((b) => { b.checked = shown.has(b.dataset.avail); });
       FILTERS.forEach((f) => {
         const selected = new Set(valuesFromParams(params, f.key));
         filtersForm.querySelectorAll(`input[name="${f.key}"]`).forEach((el) => {
@@ -1000,6 +1135,11 @@
         const params = new URLSearchParams();
         const q = searchInput.value.trim();
         if (q) params.set("q", q);
+        // Only record availability in the URL when it differs from the default
+        // (full text only). "none" round-trips the all-unchecked state.
+        const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
+        const isDefault = shown.length === 1 && shown[0] === "full";
+        if (!isDefault) params.set("avail", shown.length ? shown.join(",") : "none");
         const sel = readSelections();
         FILTERS.forEach((f) => {
           Array.from(sel[f.key]).forEach((v) => params.append(f.key, v));
@@ -1022,6 +1162,12 @@
       syncUrl();
       updateClearButton();
     });
+
+    availBoxes.forEach((box) => box.addEventListener("change", () => {
+      visibleLimit = PAGE_SIZE;
+      render();
+      syncUrl();
+    }));
 
     cards.addEventListener("click", (event) => {
       const btn = event.target.closest("[data-expand]");

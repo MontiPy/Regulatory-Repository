@@ -1,0 +1,91 @@
+- generic [active] [ref=e1]:
+  - link "본문 바로가기" [ref=e2] [cursor=pointer]:
+    - /url: "#main-container"
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "국가법령정보 공동활용 LAW OPEN DATA" [level=1] [ref=e6]:
+        - link "국가법령정보 공동활용 LAW OPEN DATA" [ref=e7] [cursor=pointer]:
+          - /url: main.do
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "이용안내" [ref=e10] [cursor=pointer]:
+            - /url: /LSO/information/service.do
+        - listitem [ref=e11]:
+          - link "OPEN API" [ref=e12] [cursor=pointer]:
+            - /url: /LSO/openApi/guideList.do
+        - listitem [ref=e13]:
+          - link "맞춤형서비스" [ref=e14] [cursor=pointer]:
+            - /url: /LSO/cuCtgr/cuCategoryGuide.do
+        - listitem [ref=e15]:
+          - link "개발자LAB" [ref=e16] [cursor=pointer]:
+            - /url: /LSO/lab/hangulAddr.do
+        - listitem [ref=e17]:
+          - link "활용사례" [ref=e18] [cursor=pointer]:
+            - /url: /LSO/openState/hpGallery.do
+      - paragraph [ref=e19]:
+        - link "마이페이지" [ref=e20] [cursor=pointer]:
+          - /url: /LSO/usr/usrInfoMod.do
+        - link "로그인" [ref=e21] [cursor=pointer]:
+          - /url: /LSO/login.do
+    - generic [ref=e22]:
+      - paragraph [ref=e23]:
+        - img "공동활용 서비스란 국가법령 공동활용 센터에서는 Open API 서비스를 통해 국가법령정보센터의 모든 법령정보를 원하는 유형으로 활용하실 수 있도록 제공하고 있습니다. 국가법령정보센터는 효과적 운영업무를 기반으로 법령정보의 활용을 통해 어디서나 원하는 서비스를 할 수 있도록 서비스를 제공합니다." [ref=e24]
+      - paragraph [ref=e25]:
+        - 'img "OPEN API 서비스 및 기술지원 : 정보의 실시간 제공으로 추가 관리 불필요, 법령정보의 검색과 목록의 제공, 법령과 행정규칙, 자치법규 등 자체 법규의 실시간 연계, 관련법령들의 연계 서비스 제공" [ref=e26]'
+      - generic:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - 'link "Open API 신청 : 모든 법령정보를 원하는 유형으로 활용하실 수 있도록 제공하고 있습니다." [ref=e29] [cursor=pointer]':
+              - /url: /LSO/openApi/guideList.do
+              - 'img "Open API 신청 : 모든 법령정보를 원하는 유형으로 활용하실 수 있도록 제공하고 있습니다." [ref=e30]'
+          - listitem [ref=e31]:
+            - 'link "맞춤형 서비스 : 공동활용 사용자가 자신에게 맞는 공동활용서비스를 만들어 이용할 수 있는 서비스 입니다." [ref=e32] [cursor=pointer]':
+              - /url: /LSO/cuCtgr/cuCategoryGuide.do
+              - 'img "맞춤형 서비스 : 공동활용 사용자가 자신에게 맞는 공동활용서비스를 만들어 이용할 수 있는 서비스 입니다." [ref=e33]'
+          - listitem [ref=e34]:
+            - 'link "개발자 LAB : 법령한글주소, 법령목록지원 등 여러가지 공동활용서비스를 제공합니다." [ref=e35] [cursor=pointer]':
+              - /url: /LSO/lab/hangulAddr.do
+              - 'img "개발자 LAB : 법령한글주소, 법령목록지원 등 여러가지 공동활용서비스를 제공합니다." [ref=e36]'
+          - listitem [ref=e37]:
+            - generic [ref=e38]:
+              - list:
+                - listitem [ref=e39]:
+                  - link "개방현황" [ref=e40] [cursor=pointer]:
+                    - /url: /LSO/openState/orgList.do
+                - listitem [ref=e41]:
+                  - link "APP갤러리" [ref=e42] [cursor=pointer]:
+                    - /url: /LSO/openState/gallery.do
+                - listitem [ref=e43]:
+                  - link "홈페이지갤러리" [ref=e44] [cursor=pointer]:
+                    - /url: /LSO/openState/hpGallery.do
+                - listitem [ref=e45]:
+                  - link "통합 오류신고" [ref=e46] [cursor=pointer]:
+                    - /url: /LSO/usr/combineErrorBrdForm.do
+        - paragraph [ref=e47]:
+          - 'link "공공데이터 현황(2013.10개방) : 법령 5천1백여건, 정부입법 정보 2만5천여건, 법령해석례 3천7백여건, 행정규칙 1만8천여건, 조약 3천4백여건, 생활법령정보 703건, 세계법제정보 2만5천여건, 중문번역 법령 32건, 법령용어 7만3백여건, 별표, 별지서식 32만여건, 공공기관규정 2천여건, 행정심판례 2만1천여건, 헌재결정례 2만6천여건, 법원판례 8만3천여건, 자치법규 12만4백여건, 영문번역 법령 1만4천여건" [ref=e48] [cursor=pointer]':
+            - /url: /LSO/openState/orgList.do
+            - 'img "공공데이터 현황(2013.10개방) : 법령 5천1백여건, 정부입법 정보 2만5천여건, 법령해석례 3천7백여건, 행정규칙 1만8천여건, 조약 3천4백여건, 생활법령정보 703건, 세계법제정보 2만5천여건, 중문번역 법령 32건, 법령용어 7만3백여건, 별표, 별지서식 32만여건, 공공기관규정 2천여건, 행정심판례 2만1천여건, 헌재결정례 2만6천여건, 법원판례 8만3천여건, 자치법규 12만4백여건, 영문번역 법령 1만4천여건" [ref=e49]'
+    - generic [ref=e51]:
+      - paragraph [ref=e52]:
+        - img "법제처" [ref=e53]
+      - generic [ref=e54]:
+        - paragraph [ref=e55]:
+          - link "법정효력/저작권" [ref=e56] [cursor=pointer]:
+            - /url: http://www.law.go.kr/lawPetitionForm.do?menuId=13&subMenuId=79
+          - text: "|"
+          - link "개인정보처리방침" [ref=e57] [cursor=pointer]:
+            - /url: http://www.law.go.kr/LSW/privacyPolicy.do
+          - text: "|"
+          - link "통합 오류신고" [ref=e58] [cursor=pointer]:
+            - /url: /LSO/usr/combineErrorBrdForm.do
+        - paragraph [ref=e59]:
+          - text: (30102) 세종특별자치시 도움5로 20, 정부세종청사 법제처
+          - text: "[사용신청 및 이용문의 : 02-2109-6446]"
+        - paragraph [ref=e60]: Copyright(c) 법제처 All rights reserved.
+      - generic [ref=e61]:
+        - combobox "관련사이트 바로가기" [ref=e63]:
+          - option "법제처 바로가기" [selected]
+          - option "국가법령정보센터 바로가기"
+        - link "이동" [ref=e64] [cursor=pointer]:
+          - /url: javascript:;
+          - img "이동" [ref=e65]

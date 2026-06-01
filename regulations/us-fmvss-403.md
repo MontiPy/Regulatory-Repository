@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR §571.403
 id: us-fmvss-403
-last_pulled: '2026-05-23T03:09:23+00:00'
+last_pulled: '2026-06-01T18:42:25+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.403

@@ -3,7 +3,7 @@ citation: 49 CFR §571.206
 commodities:
 - Door latches & hinges
 id: us-fmvss-206
-last_pulled: '2026-05-23T03:07:45+00:00'
+last_pulled: '2026-06-01T18:40:32+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.206

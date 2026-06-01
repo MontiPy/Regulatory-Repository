@@ -3,7 +3,7 @@ citation: 49 CFR §571.205
 commodities:
 - Glass
 id: us-fmvss-205
-last_pulled: '2026-05-23T03:07:40+00:00'
+last_pulled: '2026-06-01T18:40:31+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.205

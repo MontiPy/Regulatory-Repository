@@ -1,7 +1,7 @@
 ---
 citation: BS-VI / India CAFE / Fuel Consumption
 id: in-bs-vi-india-cafe-fuel-consumption
-last_pulled: '2026-05-23T04:10:18+00:00'
+last_pulled: '2026-06-01T18:54:41+00:00'
 region: IN
 source_api: spreadsheet
 source_url: https://morth.nic.in

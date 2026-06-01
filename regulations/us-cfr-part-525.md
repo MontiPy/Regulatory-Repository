@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR Part 525
 id: us-cfr-part-525
-last_pulled: '2026-05-23T03:09:58+00:00'
+last_pulled: '2026-06-01T18:43:02+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-525

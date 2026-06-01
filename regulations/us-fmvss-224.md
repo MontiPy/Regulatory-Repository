@@ -1,7 +1,7 @@
 ---
 citation: 49 CFR §571.224
 id: us-fmvss-224
-last_pulled: '2026-05-23T03:08:46+00:00'
+last_pulled: '2026-06-01T18:41:39+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.224
