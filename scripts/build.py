@@ -187,6 +187,38 @@ def validate_list_fields(metadata: dict[str, Any], issues: list[BuildIssue]) -> 
             as_list(metadata[field], field, issues)
 
 
+# Sources whose scraped markdown carries site chrome (nav menus, breadcrumbs,
+# legal notices) ahead of the document's first real heading.
+CHROME_BEFORE_HEADING_SOURCES = {"au_legislation", "eurlex"}
+
+# Universally-junk lines that can appear in any scraped body.
+JUNK_LINE_RE = re.compile(
+    r"^\s*(?:"
+    r"\[Skip to main\]\([^)]*\)"          # "Skip to main" anchor
+    r"|\[!\[[^\]]*Coat of Arms[^\]]*\]"   # government coat-of-arms image link
+    r"|Site navigation\s*"                # nav section label
+    r"|\*\|\*\s*"                          # eurlex "*|*" separator
+    r")\s*$",
+    re.IGNORECASE,
+)
+
+_HEADING_RE = re.compile(r"^#{1,6}\s", re.MULTILINE)
+
+
+def clean_body(content: str, source_api: str) -> str:
+    """Strip scraped site chrome so the body (and its summary) start at the
+    actual regulation text. Conservative: only known-noisy sources have their
+    pre-heading preamble removed; all sources get obvious junk lines dropped.
+    """
+    text = content
+    if source_api in CHROME_BEFORE_HEADING_SOURCES:
+        match = _HEADING_RE.search(text)
+        if match:
+            text = text[match.start():]
+    lines = [line for line in text.splitlines() if not JUNK_LINE_RE.match(line)]
+    return "\n".join(lines).strip()
+
+
 def render_markdown(body: str) -> str:
     import markdown
 
@@ -223,7 +255,7 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
     validate_taxonomy(metadata, taxonomy_sets, issues, draft)
     validate_un_equivalent(metadata, issues)
 
-    body_html = render_markdown(post.content)
+    body_html = render_markdown(clean_body(post.content, stringify(metadata.get("source_api"))))
     record = {
         "id": stringify(metadata.get("id")),
         "title": stringify(metadata.get("title")),

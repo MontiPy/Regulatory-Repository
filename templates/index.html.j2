@@ -370,6 +370,25 @@
     }
     .facet-option:hover { background: var(--bg-3); }
     .facet-option.empty { opacity: 0.38; }
+    /* When collapsed, options with no matches in the current view are hidden. */
+    .facet-options.collapsed .facet-option.empty { display: none; }
+
+    .facet-more {
+      display: none;
+      margin: -4px 16px 12px;
+      padding: 0;
+      border: none;
+      background: none;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      text-align: left;
+    }
+    .facet-more.visible { display: block; }
+    .facet-more:hover { text-decoration: underline; }
 
     /* custom checkbox */
     .facet-option input[type="checkbox"] {
@@ -556,12 +575,25 @@
       padding-top: 18px;
     }
 
+    /* Body text + metadata sit side by side on wide screens. */
+    .expanded-cols { display: grid; gap: 24px; grid-template-columns: minmax(0, 1fr); }
+    @media (min-width: 1100px) {
+      .expanded-cols { grid-template-columns: minmax(0, 1.9fr) minmax(260px, 1fr); align-items: start; }
+    }
+    .meta-panel {
+      background: var(--bg-2);
+      border: 1px solid var(--line-1);
+      padding: 16px;
+    }
+    .meta-panel .meta-grid { grid-template-columns: 1fr; }
+
     .body-html {
-      max-height: 480px;
+      max-height: 560px;
       overflow-y: auto;
       overflow-x: auto;
       font-size: 14px;
       color: var(--fg-1);
+      min-width: 0;
     }
     .body-html table { width: 100%; border-collapse: collapse; }
     .body-html th,
@@ -610,7 +642,10 @@
       display: flex;
       flex-direction: column;
       gap: 4px;
+      min-width: 0;
     }
+    .meta-item span,
+    .meta-item a { overflow-wrap: anywhere; }
 
     .meta-item strong {
       font-size: 11px;
@@ -730,6 +765,24 @@
 
     .hidden { display: none !important; }
 
+    /* ── Filters toggle (mobile only) ──────────────────────────── */
+    .filters-toggle {
+      display: none;
+      height: 38px;
+      margin: 0 0 16px;
+      padding: 0 16px;
+      border: 1px solid var(--honda-red);
+      border-radius: 0;
+      background: transparent;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .filters-toggle:hover { background: var(--honda-red); color: var(--white); }
+
     /* ── Responsive ────────────────────────────────────────────── */
     @media (max-width: 860px) {
       .header-inner {
@@ -740,16 +793,18 @@
       }
       .header-actions { grid-column: 2; grid-row: 1; }
       .search-wrap    { grid-column: 1 / -1; grid-row: 2; }
+      /* keep the brand from crowding the action buttons off-screen */
+      .header-title { font-size: 12px; letter-spacing: 0.08em; overflow: hidden; text-overflow: ellipsis; }
+      .header-brand { min-width: 0; }
 
       .view-bar { padding: 9px 16px; gap: 14px; }
 
       .layout { grid-template-columns: 1fr; }
-      .filters {
-        border-right: none;
-        border-bottom: 1px solid var(--line-1);
-        padding: 12px 0;
-      }
-      .filters-inner { position: static; max-height: 260px; }
+      .filters-toggle { display: block; }
+      /* Filters live behind the toggle on mobile instead of stacking above results. */
+      .filters { display: none; border-right: none; border-bottom: 1px solid var(--line-1); padding: 12px 0; }
+      .filters.is-open { display: block; }
+      .filters-inner { position: static; max-height: none; }
       .card-top { grid-template-columns: 1fr; }
       .expand-button { justify-self: start; }
 
@@ -802,6 +857,7 @@
     </aside>
 
     <main>
+      <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="false">Filters</button>
       <p id="result-count" aria-live="polite">Showing 0 of 0</p>
       <section class="cards" id="cards" aria-label="Regulations"></section>
       <button type="button" class="load-more hidden" id="load-more">Load more</button>
@@ -974,8 +1030,12 @@
       filtersForm.querySelectorAll(".facet-count[data-facet]").forEach((el) => {
         const n = counts[el.dataset.facet]?.[el.dataset.value] || 0;
         el.textContent = n;
-        el.closest(".facet-option").classList.toggle("empty", n === 0);
+        const option = el.closest(".facet-option");
+        const checked = option.querySelector("input")?.checked;
+        // A checked option stays visible even at zero so it can be unchecked.
+        option.classList.toggle("empty", n === 0 && !checked);
       });
+      updateFacetCollapse();
     }
 
     function facetChips(label, values) {
@@ -1011,26 +1071,33 @@
       </div>`;
     }
 
+    function hostLabel(url) {
+      try { return new URL(url).hostname.replace(/^www\./, ""); }
+      catch { return url; }
+    }
+
     function expandedContent(record) {
       const sourceHtml = record.source_url
-        ? `<a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">${escapeHtml(record.source_url)}</a>`
+        ? `<a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">${escapeHtml(hostLabel(record.source_url))} ↗</a>`
         : "";
       return `
         <div class="expanded">
           ${stubBanner(record)}
-          <div class="body-html">${record.body_html || ""}</div>
-          <div>
-            <p class="meta-section-label">Details</p>
-            <div class="meta-grid">
-              ${facetChips("Commodities", record.commodities)}
-              ${facetChips("Systems", record.systems)}
-              ${facetChips("Vehicle Categories", record.vehicle_categories)}
-              ${facetChips("UN Equivalent", record.un_equivalent)}
-              ${relatedLinks(record.related)}
-              ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
-              ${record.last_pulled ? `<div class="meta-item"><strong>Last Pulled</strong><span>${escapeHtml(record.last_pulled)}</span></div>` : ""}
-              ${record.tagged_at  ? `<div class="meta-item"><strong>Tagged At</strong><span>${escapeHtml(record.tagged_at)}</span></div>`  : ""}
-            </div>
+          <div class="expanded-cols">
+            <div class="body-html">${record.body_html || ""}</div>
+            <aside class="meta-panel">
+              <p class="meta-section-label">Details</p>
+              <div class="meta-grid">
+                ${facetChips("Commodities", record.commodities)}
+                ${facetChips("Systems", record.systems)}
+                ${facetChips("Vehicle Categories", record.vehicle_categories)}
+                ${facetChips("UN Equivalent", record.un_equivalent)}
+                ${relatedLinks(record.related)}
+                ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
+                ${record.last_pulled ? `<div class="meta-item"><strong>Last Pulled</strong><span>${escapeHtml(record.last_pulled)}</span></div>` : ""}
+                ${record.tagged_at  ? `<div class="meta-item"><strong>Tagged At</strong><span>${escapeHtml(record.tagged_at)}</span></div>`  : ""}
+              </div>
+            </aside>
           </div>
         </div>
       `;
@@ -1054,7 +1121,7 @@
                 <span class="badge">${escapeHtml(record.citation)}</span>
                 ${statusBadge}
               </div>
-              <p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>
+              ${isExpanded ? "" : `<p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>`}
             </div>
             <button type="button" class="expand-button" data-expand="${escapeHtml(record.id)}" aria-expanded="${isExpanded}">
               ${isExpanded ? "Collapse" : "Details"}
@@ -1082,8 +1149,10 @@
         // Only offer options that at least one record actually uses, and skip a
         // facet entirely if it can't narrow anything (fewer than 2 used values —
         // e.g. Status, where every record is currently "in-force").
+        // Offer only used values, most-populated first.
         const options = (TAXONOMY[filter.taxonomyKey] || [])
-          .filter((value) => (CORPUS_COUNTS[filter.key]?.[value] || 0) > 0);
+          .filter((value) => (CORPUS_COUNTS[filter.key]?.[value] || 0) > 0)
+          .sort((a, b) => (CORPUS_COUNTS[filter.key][b] || 0) - (CORPUS_COUNTS[filter.key][a] || 0));
         if (options.length < 2) return "";
         const controls = options.map((value) => {
           const id = `${filter.key}-${slug(value)}`;
@@ -1101,10 +1170,31 @@
         return `
           <details${DEFAULT_OPEN.has(filter.key) ? " open" : ""}>
             <summary>${escapeHtml(filter.label)}${infoIcon}</summary>
-            <div class="facet-options">${controls}</div>
+            <div class="facet-options collapsed" data-facet="${escapeHtml(filter.key)}">${controls}</div>
+            <button type="button" class="facet-more" data-more="${escapeHtml(filter.key)}"></button>
           </details>
         `;
       }).join("");
+    }
+
+    // Per-facet "show all" state — facets start collapsed, hiding options with
+    // no matches in the current view (e.g. all-stub regions under "Full text").
+    const facetShowAll = new Set();
+    function updateFacetCollapse() {
+      filtersForm.querySelectorAll(".facet-options[data-facet]").forEach((box) => {
+        const key = box.dataset.facet;
+        const hiddenCount = box.querySelectorAll(".facet-option.empty").length;
+        const expanded = facetShowAll.has(key);
+        box.classList.toggle("collapsed", !expanded);
+        const btn = filtersForm.querySelector(`.facet-more[data-more="${key}"]`);
+        if (!btn) return;
+        if (hiddenCount === 0 && !expanded) {
+          btn.classList.remove("visible");
+        } else {
+          btn.classList.add("visible");
+          btn.textContent = expanded ? "Show fewer" : `Show all (${hiddenCount} hidden)`;
+        }
+      });
     }
 
     function valuesFromParams(params, key) {
@@ -1161,6 +1251,21 @@
       render();
       syncUrl();
       updateClearButton();
+    });
+
+    // "Show all / Show fewer" toggles per-facet reveal of zero-match options.
+    filtersForm.addEventListener("click", (event) => {
+      const more = event.target.closest(".facet-more");
+      if (!more) return;
+      const key = more.dataset.more;
+      facetShowAll.has(key) ? facetShowAll.delete(key) : facetShowAll.add(key);
+      updateFacetCollapse();
+    });
+
+    const filtersRail   = document.querySelector(".filters");
+    document.querySelector("#filters-toggle").addEventListener("click", (event) => {
+      const open = filtersRail.classList.toggle("is-open");
+      event.currentTarget.setAttribute("aria-expanded", String(open));
     });
 
     availBoxes.forEach((box) => box.addEventListener("change", () => {

@@ -29,3 +29,6 @@ Thumbs.db
 .pull_report.txt
 .build_report.txt
 .tag_report.txt
+
+# Playwright MCP scratch (screenshots, snapshots, console logs)
+.playwright-mcp/
