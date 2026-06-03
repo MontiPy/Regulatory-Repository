@@ -8,7 +8,7 @@ source_url: https://www.ntsel.go.jp/e/kansa/
 status: in-force
 tagging_status: untagged
 title: Japanese Vehicle Type Approval / Type Designation Framework
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Japanese Vehicle Type Approval / Type Designation Framework

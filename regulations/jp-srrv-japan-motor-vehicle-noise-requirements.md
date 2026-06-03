@@ -8,7 +8,7 @@ source_url: https://www.env.go.jp/en/laws/air/noise/ch.html
 status: in-force
 tagging_status: untagged
 title: Japan Motor Vehicle Noise Requirements
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Japan Motor Vehicle Noise Requirements

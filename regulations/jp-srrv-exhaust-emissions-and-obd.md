@@ -8,7 +8,7 @@ source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 tagging_status: untagged
 title: Exhaust Emissions and OBD
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Exhaust Emissions and OBD

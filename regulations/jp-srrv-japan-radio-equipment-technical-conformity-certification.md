@@ -8,7 +8,7 @@ source_url: https://www.telec.or.jp/eng/services/tech/tech_02.html
 status: in-force
 tagging_status: untagged
 title: Japan Radio Equipment Technical Conformity Certification
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Japan Radio Equipment Technical Conformity Certification

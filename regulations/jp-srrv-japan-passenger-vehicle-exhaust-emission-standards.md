@@ -8,7 +8,7 @@ source_url: https://www.env.go.jp/en/air/aq/mv/standards.html
 status: in-force
 tagging_status: untagged
 title: Japan Passenger Vehicle Exhaust Emission Standards
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Japan Passenger Vehicle Exhaust Emission Standards

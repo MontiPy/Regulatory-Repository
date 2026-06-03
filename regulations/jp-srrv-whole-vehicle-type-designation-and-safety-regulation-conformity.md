@@ -8,7 +8,7 @@ source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 tagging_status: untagged
 title: Whole Vehicle Type Designation and Safety Regulation Conformity
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Whole Vehicle Type Designation and Safety Regulation Conformity

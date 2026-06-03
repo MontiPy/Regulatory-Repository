@@ -8,7 +8,7 @@ source_url: https://www.japaneselawtranslation.go.jp/en/laws/view/3829
 status: in-force
 tagging_status: untagged
 title: Japan Automobile Recycling Law
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Japan Automobile Recycling Law

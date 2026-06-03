@@ -8,7 +8,7 @@ source_url: https://www.mlit.go.jp/report/press/jidosha10_hh_000230.html
 status: in-force
 tagging_status: untagged
 title: Japan 2030 Fuel Economy Standards for Passenger Cars
-translation_status: untranslated
+translation_status: translated
 ---
 
 # Japan 2030 Fuel Economy Standards for Passenger Cars

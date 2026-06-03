@@ -8,7 +8,7 @@ source_url: https://www.mlit.go.jp/jidosha/recall.html
 status: in-force
 tagging_status: untagged
 title: MLIT Vehicle Recall and Improvement Measures
-translation_status: untranslated
+translation_status: translated
 ---
 
 # MLIT Vehicle Recall and Improvement Measures
