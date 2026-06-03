@@ -7,20 +7,14 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 22_5 — （年少者用補助乗車装置等）
-translation_status: untranslated
+title: JVSR Article 22_5 — Child Restraint Anchorages
+translation_status: translated
 ---
 
-（年少者用補助乗車装置等）
-第二十二条の五
+## Article 22-5 — Child Restraint Anchorages
 
-専ら乗用の用に供する自動車（乗車定員十人以上の自動車、運転者席及びこれと並列の座席以外の座席を有しない自動車、二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、被牽けん引自動車並びに最高速度二十キロメートル毎時未満の自動車を除く。）には、年少者用補助乗車装置取付具を備えなければならない。
-ただし、高齢者、障害者等（高齢者、障害者等の移動等の円滑化の促進に関する法律（平成十八年法律第九十一号）第二条第一号に規定する高齢者、障害者等をいう。以下この項において同じ。）が移動のための車いすその他の用具を使用したまま車両に乗り込むことが可能な自動車及び運転者席より後方に備えられた座席が回転することにより高齢者、障害者等が円滑に車内に乗り込むことが可能な自動車にあつては、この限りでない。
+① Motor vehicles used exclusively for passenger transport (excluding vehicles with a seating capacity of 10 or more passengers, vehicles that have no seats other than the driver's seat and seats parallel to it, two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, towed vehicles, and vehicles with a maximum speed of less than 20 km/h) shall be equipped with child restraint system anchorages. However, this does not apply to vehicles that allow elderly persons, persons with disabilities, and others (meaning elderly persons, persons with disabilities, and others as defined in Article 2, item 1 of the Act for Promoting Easy Movement of Elderly Persons, Persons with Disabilities, and Others (Act No. 91 of 2006); the same applies in this paragraph) to board the vehicle while using a wheelchair or other mobility device, and to vehicles in which seats located behind the driver's seat can rotate to allow such persons to board smoothly.
 
-２
+② Child restraint system anchorages shall comply with the standards for strength, mounting position, etc. prescribed by ministerial notice, so as to sufficiently withstand loads from child restraint systems, to allow installed child restraint systems to function effectively, and not to obstruct boarding and alighting.
 
-年少者用補助乗車装置取付具は、年少者用補助乗車装置から受ける荷重等に十分耐え、かつ、取り付けられる年少者用補助乗車装置が有効に作用し、かつ、乗降の支障とならないものとして、強度、取付位置等に関し告示で定める基準に適合するものでなければならない。
-
-３
-
-年少者用補助乗車装置は、座席ベルト等を損傷しないものであり、かつ、当該自動車が衝突等による衝撃を受けた場合において、当該年少者用補助乗車装置を装着した者に傷害を与えるおそれが少なく、かつ、容易に着脱することができるものとして、構造、操作性能等に関し告示で定める基準に適合するものでなければならない。
+③ Child restraint systems shall comply with the standards for structure, operational performance, etc. prescribed by ministerial notice, so as not to damage seat belts and other equipment, and to minimize the risk of injury to the occupant of the child restraint system and to allow easy installation and removal when the vehicle is subjected to a collision or similar impact.

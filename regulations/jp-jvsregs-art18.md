@@ -12,8 +12,8 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 18 — （車枠及び車体）
-translation_status: untranslated
+title: JVSR Article 18 — Frame and Body
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,321 +22,162 @@ vehicle_categories:
 - Motorcycle
 ---
 
-（車枠及び車体）
-第十八条
+## Article 18 — Frame and Body
 
-自動車の車枠及び車体は、次の基準に適合するものでなければならない。
+① The frame and body of motor vehicles shall comply with the following standards:
 
-一
+1. The frame and body shall be robust and sufficiently durable for operation, complying with the standards for strength, mounting method, etc. prescribed by ministerial notice.
 
-車枠及び車体は、堅ろうで運行に十分耐えるものとして、強度、取付方法等に関し告示で定める基準に適合するものであること。
+2. The external shape and overall form of the vehicle body shall comply with the standards prescribed by ministerial notice so as not to pose a hazard to other traffic — no sharp protrusions, no protruding rotating parts, etc. However, this does not apply to large special vehicles and small special vehicles.
 
-二
+3. The horizontal distance from the center of the rear axle to the rear of the vehicle body shall not exceed the distance prescribed by ministerial notice. However, this does not apply to large special vehicles whose frame necessarily articulates during steering or whose maximum speed is less than 35 km/h, or to small special vehicles.
 
-車体の外形その他自動車の形状は、鋭い突起がないこと、回転部分が突出していないこと等他の交通の安全を妨げるおそれがないものとして、告示で定める基準に適合するものであること。
-ただし、大型特殊自動車及び小型特殊自動車にあつては、この限りでない。
+② The frame and body of motor vehicles (excluding those listed below) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of excessive injury to occupants of the driver's seat and the seat adjacent to the vehicle's side that is parallel to it, when the front of the vehicle is subjected to a collision or similar impact:
 
-三
+1. Passenger vehicles with a seating capacity of 11 or more passengers
 
-最後部の車軸中心から車体の後面までの水平距離は、告示で定める距離以下であること。
-ただし、大型特殊自動車であつて、操向する場合に必ず車台が屈折するもの又は最高速度三十五キロメートル毎時未満のもの及び小型特殊自動車にあつては、この限りでない。
+2. Freight vehicles with a gross vehicle weight exceeding 3.5 tonnes
 
-２
+3. Vehicles similar in shape to those in the preceding two items, as designated by ministerial notice
 
-自動車（次の各号に掲げるものを除く。）の車枠及び車体は、当該自動車の前面が衝突等による衝撃を受けた場合において、運転者席及びこれと並列の座席のうち自動車の側面に隣接するものの乗車人員に過度の傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
+4. Two-wheeled vehicles
 
-一
+5. Sidecar-equipped two-wheeled vehicles
 
-専ら乗用の用に供する自動車であつて乗車定員十一人以上のもの
+6. Light vehicles with crawler tracks and sleds
 
-二
+7. Large special vehicles
 
-貨物の運送の用に供する自動車であつて車両総重量三・五トンを超えるもの
+8. Small special vehicles
 
-三
+9. Vehicles with a maximum speed of less than 20 km/h
 
-前二号の自動車の形状に類する自動車として告示で定めるもの
+10. Towed vehicles
 
-四
+③ The frame and body of motor vehicles (excluding those listed below) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of excessive injury to occupants of the driver's seat and the adjacent side seat, when part of the front of the vehicle on the driver's side is deformed by a collision or similar impact:
 
-二輪自動車
+1. Passenger vehicles including:
 
-五
+a. Vehicles with a seating capacity of 10 or more passengers
 
-側車付二輪自動車
+b. Vehicles with a seating capacity of fewer than 10 passengers whose gross vehicle weight exceeds 3.5 tonnes
 
-六
+2. Freight vehicles with a gross vehicle weight exceeding 2.5 tonnes
 
-カタピラ及びそりを有する軽自動車
+3. Vehicles similar in shape to those in the preceding two items, as designated by ministerial notice
 
-七
+4. Two-wheeled vehicles
 
-大型特殊自動車
+5. Sidecar-equipped two-wheeled vehicles
 
-八
+6. Light vehicles with crawler tracks and sleds
 
-小型特殊自動車
+7. Large special vehicles
 
-九
+8. Small special vehicles
 
-最高速度二十キロメートル毎時未満の自動車
+9. Towed vehicles
 
-十
+④ The frame and body of motor vehicles (excluding those listed below) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of excessive injury to the occupant of the driver's seat or the adjacent side seat nearest the impacted side, when the side of the vehicle is subjected to a collision or similar impact:
 
-被牽けん引自動車
+1. Passenger vehicles including:
 
-３
+a. Vehicles with a seating capacity of 10 or more passengers
 
-自動車（次の各号に掲げるものを除く。）の車枠及び車体は、当該自動車の前面のうち運転者席側の一部が衝突等により変形を生じた場合において、運転者席及びこれと並列の座席のうち自動車の側面に隣接するものの乗車人員に過度の傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
+b. Vehicles with a seating capacity of fewer than 10 passengers whose gross vehicle weight exceeds 3.5 tonnes and whose seating reference point (the reference point used when determining the seating position, as designated by ministerial notice; the same applies below) is at a height exceeding 700 millimeters from the ground
 
-一
+2. Freight vehicles with a gross vehicle weight exceeding 3.5 tonnes
 
-専ら乗用の用に供する自動車であつて次に掲げるもの
+3. Vehicles similar in shape to those in the preceding two items, as designated by ministerial notice
 
-イ
+4. Two-wheeled vehicles
 
-乗車定員十人以上の自動車
+5. Sidecar-equipped two-wheeled vehicles
 
-ロ
+6. Three-wheeled vehicles
 
-乗車定員十人未満の自動車であつて車両総重量三・五トンを超えるもの
+7. Light vehicles with crawler tracks and sleds
 
-二
+8. Large special vehicles
 
-貨物の運送の用に供する自動車であつて車両総重量二・五トンを超えるもの
+9. Small special vehicles
 
-三
+10. Towed vehicles
 
-前二号の自動車の形状に類する自動車として告示で定めるもの
+⑤ The frame and body of motor vehicles (excluding those listed below) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of excessive injury to the occupant of the driver's seat or the adjacent side seat nearest the deformed side, when part of the side of the vehicle is deformed by a collision or similar impact:
 
-四
+1. Passenger vehicles with a seating capacity of 10 or more passengers
 
-二輪自動車
+2. Freight vehicles where the angle between the plane containing the driver's seat seating reference point and the front axle centerline and the horizontal plane containing the front axle centerline is 22.0 degrees or more, and the ratio of the horizontal distance from the seating reference point to the vertical plane containing the rear axle centerline to the horizontal distance from the seating reference point to the vertical plane containing the front axle centerline is 1.30 or more
 
-五
+3. Vehicles with a gross vehicle weight exceeding 3.5 tonnes
 
-側車付二輪自動車
+4. Vehicles similar in shape to those in the preceding three items
 
-六
+5. Two-wheeled vehicles
 
-カタピラ及びそりを有する軽自動車
+6. Sidecar-equipped two-wheeled vehicles
 
-七
+7. Three-wheeled vehicles
 
-大型特殊自動車
+8. Light vehicles with crawler tracks and sleds
 
-八
+9. Large special vehicles
 
-小型特殊自動車
+10. Small special vehicles
 
-九
+11. Towed vehicles
 
-被牽けん引自動車
+⑥ The frame and body of motor vehicles (excluding those listed below) shall comply with the standards for pedestrian protection performance prescribed by ministerial notice, so as to minimize the risk of excessive injury to the head and legs of pedestrians when the front of the vehicle collides with a pedestrian:
 
-４
+1. Passenger vehicles with a seating capacity of 10 or more passengers
 
-自動車（次の各号に掲げるものを除く。）の車枠及び車体は、当該自動車の側面が衝突等による衝撃を受けた場合において、運転者席又はこれと並列の座席のうち衝突等による衝撃を受けた側面に隣接するものの乗車人員に過度の傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
+2. Vehicles similar in shape to those in the preceding item
 
-一
+3. Freight vehicles (excluding those with a gross vehicle weight of 3.5 tonnes or less whose driver's seat seating reference point is located behind a line 1.1 meters to the rear of the front axle centerline)
 
-専ら乗用の用に供する自動車であつて次に掲げるもの
+4. Vehicles similar in shape to those in the preceding item
 
-イ
+5. Two-wheeled vehicles
 
-乗車定員十人以上の自動車
+6. Sidecar-equipped two-wheeled vehicles
 
-ロ
+7. Light vehicles with crawler tracks and sleds
 
-乗車定員十人未満の自動車であつて車両総重量が三・五トンを超え、かつ、座席の着席基準点（着座位置を設定する際に基準とされる点であって告示で定めるものをいう。以下同じ。）の地面からの高さが七百ミリメートルを超えるもの
+8. Large special vehicles
 
-二
+9. Small special vehicles
 
-貨物の運送の用に供する自動車であつて車両総重量三・五トンを超えるもの
+10. Vehicles with a maximum speed of less than 20 km/h
 
-三
+11. Towed vehicles
 
-前二号の自動車の形状に類する自動車として告示で定めるもの
+⑦ The frame and body of motor vehicles (excluding those listed below) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of excessive injury to vehicle occupants when the upper part of the vehicle body is deformed by a rollover or similar event:
 
-四
+1. Vehicles with a seating capacity of 17 or fewer passengers
 
-二輪自動車
+2. Vehicles with a gross vehicle weight of 12 tonnes or less
 
-五
+3. Vehicles with standing spaces
 
-側車付二輪自動車
+4. Double-decker vehicles
 
-六
+5. Vehicles used for freight transport
 
-三輪自動車
+6. Vehicles similar in shape to those in the preceding items
 
-七
+7. Two-wheeled vehicles
 
-カタピラ及びそりを有する軽自動車
+8. Sidecar-equipped two-wheeled vehicles
 
-八
+9. Three-wheeled vehicles
 
-大型特殊自動車
+10. Light vehicles with crawler tracks and sleds
 
-九
+11. Large special vehicles
 
-小型特殊自動車
+12. Small special vehicles
 
-十
+⑧ The rear of the vehicle body of motor vehicles shall display the maximum payload (for tanker vehicles: maximum payload, maximum tank capacity, and cargo name).
 
-被牽けん引自動車
-
-５
-
-自動車（次の各号に掲げるものを除く。）の車枠及び車体は、当該自動車の側面の一部が衝突等により変形を生じた場合において、運転者席又はこれと並列の座席のうち変形を生じた側面に隣接するものの乗車人員に過度の傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
-
-一
-
-専ら乗用の用に供する自動車であつて乗車定員十人以上のもの
-
-二
-
-貨物の運送の用に供する自動車であつて、運転者席の着席基準点と前車軸中心線を含む平面と前車軸中心線を含む水平面とのなす角度が二十二・〇度以上であり、かつ、運転者席の着席基準点から後車軸中心線を含む鉛直面までの水平距離の運転者席の着席基準点から前車軸中心線を含む鉛直面までの水平距離に対する比が一・三〇以上のもの
-
-三
-
-車両総重量三・五トンを超える自動車
-
-四
-
-前三号の自動車の形状に類する自動車
-
-五
-
-二輪自動車
-
-六
-
-側車付二輪自動車
-
-七
-
-三輪自動車
-
-八
-
-カタピラ及びそりを有する軽自動車
-
-九
-
-大型特殊自動車
-
-十
-
-小型特殊自動車
-
-十一
-
-被牽けん引自動車
-
-６
-
-自動車（次の各号に掲げるものを除く。）の車枠及び車体は、当該自動車の前面が歩行者に衝突した場合において、当該歩行者の頭部及び脚部に過度の傷害を与えるおそれの少ないものとして、当該歩行者の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
-
-一
-
-専ら乗用の用に供する自動車であつて乗車定員十人以上のもの
-
-二
-
-前号の自動車の形状に類する自動車
-
-三
-
-貨物の運送の用に供する自動車（車両総重量三・五トン以下であり、かつ、運転者席の着席基準点が前車軸中心線から後方に一・一メートルの線より後方に位置するものを除く。）
-
-四
-
-前号の自動車の形状に類する自動車
-
-五
-
-二輪自動車
-
-六
-
-側車付二輪自動車
-
-七
-
-カタピラ及びそりを有する軽自動車
-
-八
-
-大型特殊自動車
-
-九
-
-小型特殊自動車
-
-十
-
-最高速度二十キロメートル毎時未満の自動車
-
-十一
-
-被牽けん引自動車
-
-７
-
-自動車（次の各号に掲げるものを除く。）の車枠及び車体は、当該自動車の車体の上部が転覆等により変形を生じた場合において、乗車人員に過度の傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
-
-一
-
-乗車定員十七人以下の自動車
-
-二
-
-車両総重量十二トン以下の自動車
-
-三
-
-立席を有する自動車
-
-四
-
-二階建ての自動車
-
-五
-
-貨物の運送の用に供する自動車
-
-六
-
-前各号の自動車の形状に類する自動車
-
-七
-
-二輪自動車
-
-八
-
-側車付二輪自動車
-
-九
-
-三輪自動車
-
-十
-
-カタピラ及びそりを有する軽自動車
-
-十一
-
-大型特殊自動車
-
-十二
-
-小型特殊自動車
-
-８
-
-自動車の車体の後面には、最大積載量（タンク自動車にあつては、最大積載量、最大積載容積及び積載物品名）を表示しなければならない。
-
-９
-
-専ら小学校、中学校、義務教育学校、特別支援学校、幼稚園、幼保連携型認定こども園、保育所又は児童福祉法（昭和二十二年法律第百六十四号）第六条の三第十項に規定する小規模保育事業若しくは同条第十二項に規定する事業所内保育事業を行う施設に通う児童、生徒又は幼児の運送を目的とする自動車（乗車定員十一人以上のものに限る。）の車体の前面、後面及び両側面には、告示で定めるところにより、これらの者の運送を目的とする自動車である旨の表示をしなければならない。
+⑨ Motor vehicles used exclusively to transport students, pupils, or young children attending elementary schools, middle schools, compulsory education schools, special support schools, kindergartens, combined kindergarten-daycare centers, daycare centers, or facilities providing small-scale childcare or workplace childcare as specified in Article 6-3, paragraph 10 or paragraph 12 of the Child Welfare Act (Act No. 164 of 1947), and with a seating capacity of 11 or more passengers, shall display markings on the front, rear, and both sides of the vehicle body indicating that it is a vehicle for transporting such persons, as prescribed by ministerial notice.

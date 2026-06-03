@@ -12,8 +12,8 @@ systems:
 - Restraints
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 22
-translation_status: untranslated
+title: JVSR Article 22 — Seats
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -21,65 +21,34 @@ vehicle_categories:
 - Bus
 ---
 
-第二十二条
+## Article 22 — Seats
 
-座席は、安全に着席できるものとして、着席するに必要な空間（運転者席にあつては、運転するに必要な空間）及び当該座席の向きに関し告示で定める基準に適合するように設けられていなければならない。
+① Seats shall be arranged to comply with the standards for space necessary for seating (in the case of the driver's seat, space necessary for driving) and the orientation of the seat prescribed by ministerial notice, so as to allow safe seating.
 
-２
+② Seats (excluding straddle-type seats) used by persons other than the driver in motor vehicles shall comply with the standards for dimensions prescribed by ministerial notice, so as to allow safe seating. However, this does not apply to seats in vehicles used for passenger motor vehicle transport business (limited to vehicles with a seating capacity of 11 or more passengers) and seats other than infant seats in vehicles exclusively for transporting young children that are equipped with seat belts and seat belt anchorages as specified in Article 22-3, paragraph 1.
 
-自動車の運転者席以外の用に供する座席（またがり式の座席を除く。）は、安全に着席できるものとして、その寸法に関し告示で定める基準に適合するものでなければならない。
-ただし、旅客自動車運送事業用自動車（乗車定員十一人以上の自動車に限る。）の座席及び幼児専用車の幼児用座席以外の座席であつて第二十二条の三第一項に規定する座席ベルト及び当該座席ベルトの取付装置を備えるものにあつては、この限りでない。
+③ Seats (including their mounting devices) in motor vehicles used exclusively for passenger transport (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, and vehicles with a maximum speed of less than 20 km/h) and motor vehicles used for freight transport (excluding those with a maximum speed of less than 20 km/h) shall comply with the standards for structure prescribed by ministerial notice, so as to sufficiently withstand loads from vehicle occupants when the vehicle is subjected to a collision or similar impact. However, this does not apply to the following seats:
 
-３
+1. Straddle-type seats
 
-専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車及び最高速度二十キロメートル毎時未満の自動車を除く。）及び貨物の運送の用に供する自動車（最高速度二十キロメートル毎時未満の自動車を除く。）の座席（当該座席の取付装置を含む。）は、当該自動車が衝突等による衝撃を受けた場合において、乗車人員等から受ける荷重に十分耐えるものとして、構造等に関し告示で定める基準に適合するものでなければならない。
-ただし、次の各号に掲げる座席にあつては、この限りでない。
+2. Easily foldable seats placed on a floor surface other than that used exclusively for seating, such as in aisles
 
-一
+3. Single-person seats installed to the side of the driver's seat of three-wheeled vehicles where the steering wheel rotation angle is less than seven times the rotation angle of the steered wheels
 
-またがり式の座席
+4. Laterally facing seats
 
-二
+5. Rearward-facing seats
 
-容易に折り畳むことができる座席で通路その他専ら座席の用に供する床面以外の床面に設けられるもの
+6. Seats located near emergency exits
 
-三
+7. Seats that must be removed when inspecting the vehicle under Article 47-2 of the Road Vehicles Act
 
-かじ取ハンドルの回転角度がかじ取車輪の回転角度の七倍未満である三輪自動車の運転者席の側方に設けられる一人用の座席
+④ The rear portion of seats in the motor vehicles under the preceding paragraph (excluding those listed below) shall comply with the standards for structure prescribed by ministerial notice, so as to protect vehicle occupants when the vehicle is subjected to a collision or similar impact. However, this does not apply to the seats listed in items 1 through 7 of the preceding paragraph.
 
-四
+1. Vehicles with a seating capacity of 11 or more passengers (limited to those not operating on expressways)
 
-横向きに備えられた座席
+2. Vehicles used for freight transport
 
-五
+⑤ Vehicles with a seating capacity of 11 or more passengers may have auxiliary seats installed in the aisles only where the opening of most windows has an effective width of 500 mm or more and an effective height of 300 mm or more.
 
-後向きに備えられた座席
-
-六
-
-非常口付近に備えられた座席
-
-七
-
-法第四十七条の二の規定により自動車を点検する場合に取り外しを必要とする座席
-
-４
-
-前項の自動車（次に掲げる自動車を除く。）の座席の後面部分は、当該自動車が衝突等による衝撃を受けた場合において、乗車人員を保護するものとして、構造等に関し告示で定める基準に適合するものでなければならない。
-ただし、前項各号に掲げる座席にあつては、この限りでない。
-
-一
-
-乗車定員が十一人以上の自動車（高速道路等において運行しないものに限る。）
-
-二
-
-貨物の運送の用に供する自動車
-
-５
-
-乗車定員十一人以上の自動車には、大部分の窓の開放部が有効幅五百ミリメートル以上、有効高さ三百ミリメートル以上である場合に限り、その通路に補助座席を設けることができる。
-
-６
-
-幼児専用車には、補助座席を幼児用座席として設けることができない。
+⑥ Auxiliary seats shall not be installed as infant seats in vehicles exclusively for transporting young children.

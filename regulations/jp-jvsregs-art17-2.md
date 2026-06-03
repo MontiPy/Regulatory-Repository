@@ -7,31 +7,20 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 17_2 — （電気装置）
-translation_status: untranslated
+title: JVSR Article 17_2 — Electrical Devices
+translation_status: translated
 ---
 
-（電気装置）
-第十七条の二
+## Article 17-2 — Electrical Devices
 
-自動車の電気装置は、火花による乗車人員への傷害等を生ずるおそれがなく、かつ、その発する電波が無線設備の機能に継続的かつ重大な障害を与えるおそれのないものとして、取付位置、取付方法、性能等に関し告示で定める基準に適合するものでなければならない。
+① The electrical devices of motor vehicles shall comply with the standards for mounting position, mounting method, performance, etc. prescribed by ministerial notice, so as not to cause injury to vehicle occupants from electrical sparks and so as not to continuously and significantly interfere with the functioning of wireless equipment through emitted radio waves.
 
-２
+② The electrical devices of motor vehicles (excluding large special vehicles and small special vehicles) shall comply with the standards for performance prescribed by ministerial notice, so as not to cause significant interference to the control of the vehicle equipped with such devices through the effects of radio waves.
 
-自動車（大型特殊自動車及び小型特殊自動車を除く。）の電気装置は、電波による影響により当該装置を備える自動車の制御に重大な障害を生ずるおそれのないものとして、性能に関し告示で定める基準に適合するものでなければならない。
+③ The electrical devices of motor vehicles (excluding light vehicles with crawler tracks and sleds) shall comply with the standards for performance prescribed by ministerial notice, so as to ensure cybersecurity (meaning cybersecurity as defined in Article 2 of the Basic Act on Cybersecurity (Act No. 104 of 2014); the same applies below).
 
-３
+④ The electrical devices of motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, and light vehicles with crawler tracks and sleds) shall comply with the standards for function and performance prescribed by ministerial notice, so as to enable reliable modification of programs and other software incorporated in such devices.
 
-自動車（カタピラ及びそりを有する軽自動車を除く。）の電気装置は、サイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。以下同じ。）を確保できるものとして、性能に関し告示で定める基準に適合するものでなければならない。
+⑤ The electrical devices of motor vehicles equipped with an electrically powered engine (excluding light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles) or towed vehicles equipped with electrical devices designated by ministerial notice shall comply with the standards for performance and structure relating to the protection of vehicle occupants prescribed by ministerial notice, so as to prevent injury to occupants from high voltage.
 
-４
-
-自動車（二輪自動車、側車付二輪自動車、三輪自動車並びにカタピラ及びそりを有する軽自動車を除く。）の電気装置は、当該装置に組み込まれたプログラム等を確実に改変できるものとして、機能及び性能に関し告示で定める基準に適合するものでなければならない。
-
-５
-
-電力により作動する原動機を有する自動車（カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）又は告示で定める電気装置を有する被牽けん引自動車の電気装置は、高電圧による乗車人員への傷害等を生ずるおそれがないものとして、乗車人員の保護に係る性能及び構造に関し告示で定める基準に適合するものでなければならない。
-
-６
-
-電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）又は告示で定める電気装置を有する被牽けん引自動車の電気装置は、当該自動車が衝突、他の自動車の追突等による衝撃を受けた場合において、高電圧による乗車人員への傷害等を生ずるおそれが少ないものとして、乗車人員の保護に係る性能及び構造に関し告示で定める基準に適合するものでなければならない。
+⑥ The electrical devices of motor vehicles equipped with an electrically powered engine (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles) or towed vehicles equipped with electrical devices designated by ministerial notice shall comply with the standards for performance and structure relating to the protection of vehicle occupants prescribed by ministerial notice, so as to minimize the risk of injury to occupants from high voltage when the vehicle is subjected to a collision or rear-end impact.

@@ -13,8 +13,8 @@ systems:
 - Fuel safety
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 12 — （燃料の規格）
-translation_status: untranslated
+title: JVSR Article 12 — Fuel Standards
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,7 +22,6 @@ vehicle_categories:
 - Bus
 ---
 
-（燃料の規格）
-第一条の二
+## Article 12 — Fuel Standards
 
-この省令の燃料の性状又は燃料に含まれる物質と密接な関係を有する技術基準は、告示で定める燃料が使用される場合に自動車又は原動機付自転車の安全性の確保及び公害の防止が図られるよう定めるものである。
+① The technical standards in these ministerial regulations that are closely related to the properties of fuels or substances contained in fuels shall be established so as to ensure the safety of motor vehicles or mopeds and to prevent pollution when the fuels prescribed by ministerial notice are used.

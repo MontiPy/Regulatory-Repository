@@ -7,19 +7,14 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 30 — （騒音防止装置）
-translation_status: untranslated
+title: JVSR Article 30 — Noise Suppression Devices
+translation_status: translated
 ---
 
-（騒音防止装置）
-第三十条
+## Article 30 — Noise Suppression Devices
 
-自動車（被牽けん引自動車を除く。以下この条において同じ。）は、騒音を著しく発しないものとして、構造、騒音の大きさ等に関し告示で定める基準に適合するものでなければならない。
+① Motor vehicles (excluding towed vehicles; the same applies in this article) shall comply with the standards for structure, noise levels, etc. prescribed by ministerial notice, so as not to generate excessive noise.
 
-２
+② Motor vehicles with an internal combustion engine shall be equipped with a muffler that complies with the standards for structure, noise suppression performance, etc. prescribed by ministerial notice, so as to effectively suppress noise generation.
 
-内燃機関を原動機とする自動車には、騒音の発生を有効に抑止することができるものとして、構造、騒音防止性能等に関し告示で定める基準に適合する消音器を備えなければならない。
-
-３
-
-法第七十五条の三第一項の規定によりその型式について指定を受ける騒音防止装置は、当該装置を備える自動車を第一項の基準に適合させるものでなければならない。
+③ Noise suppression devices that receive type designation under Article 75-3, paragraph 1 of the Road Vehicles Act shall enable the motor vehicles in which they are installed to comply with the standards under paragraph ①.

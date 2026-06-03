@@ -11,8 +11,8 @@ status: in-force
 systems: []
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 14 — （緩衝装置）
-translation_status: untranslated
+title: JVSR Article 14 — Suspension
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -20,8 +20,6 @@ vehicle_categories:
 - Bus
 ---
 
-（緩衝装置）
-第十四条
+## Article 14 — Suspension
 
-自動車には、地面からの衝撃に対し十分な容量を有し、かつ、安全な運行を確保できるものとして、強度、緩衝性能等に関し告示で定める基準に適合するばねその他の緩衝装置を備えなければならない。
-ただし、大型特殊自動車、農耕作業用小型特殊自動車、車両総重量二トン未満の被牽けん引自動車及び最高速度二十キロメートル毎時未満の自動車のうち、危険物を運送する自動車として告示で定めるもの以外のものにあつては、これを省略することができる。
+① Motor vehicles shall be equipped with springs or other suspension components that have sufficient capacity to absorb ground impacts and comply with the standards for strength, cushioning performance, etc. prescribed by ministerial notice, as necessary to ensure safe operation. However, this requirement may be omitted for large special vehicles, small special vehicles for agricultural work, towed vehicles with a gross vehicle weight of less than 2 tonnes, and vehicles with a maximum speed of less than 20 km/h, except for those designated by ministerial notice as vehicles transporting hazardous materials.

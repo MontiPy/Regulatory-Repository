@@ -7,60 +7,34 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 29 — （窓ガラス）
-translation_status: untranslated
+title: JVSR Article 29 — Glazing
+translation_status: translated
 ---
 
-（窓ガラス）
-第二十九条
+## Article 29 — Glazing
 
-自動車（最高速度二十五キロメートル毎時以下の自動車を除く。）の窓ガラスは、告示で定める基準に適合する安全ガラスでなければならない。
-ただし、衝突等により窓ガラスが損傷した場合において、当該ガラスの破片により乗車人員が傷害を受けるおそれの少ないものとして告示で定める場所に備えられたものにあつては、この限りでない。
+① The windows of motor vehicles (excluding vehicles with a maximum speed of 25 km/h or less) shall be made of safety glass that complies with the standards prescribed by ministerial notice. However, this does not apply to windows installed in locations designated by ministerial notice as posing minimal risk of injury to vehicle occupants from glass fragments in the event of damage from a collision.
 
-２
+② The windshield of motor vehicles (excluding vehicles with a maximum speed of less than 40 km/h) shall comply with the standards for strength, etc. prescribed by ministerial notice, so as to maintain the driver's field of vision even when damaged and not to be easily penetrated.
 
-自動車（最高速度四十キロメートル毎時未満の自動車を除く。）の前面ガラスは、損傷した場合においても運転者の視野を確保できるものであり、かつ、容易に貫通されないものとして、強度等に関し告示で定める基準に適合するものでなければならない。
+③ The windshield and side windows (excluding portions designated by ministerial notice) of motor vehicles (excluding towed vehicles) shall comply with the standards for distortion, visible light transmittance, etc. prescribed by ministerial notice, so as not to impair the driver's field of vision.
 
-３
+④ The windows specified in the preceding paragraph shall not have anything affixed, pasted, painted, or engraved on them other than the following:
 
-自動車（被牽けん引自動車を除く。）の前面ガラス及び側面ガラス（告示で定める部分を除く。）は、運転者の視野を妨げないものとして、ひずみ、可視光線の透過率等に関し告示で定める基準に適合するものでなければならない。
+1. Maintenance order markings
 
-４
+1-2. Temporary inspection approval markings
 
-前項に規定する窓ガラスには、次に掲げるもの以外のものが装着され、貼り付けられ、塗装され、又は刻印されていてはならない。
+2. Inspection markings
 
-一
+2-2. Safety standard conformity markings (limited to those folded in half at the center dotted line)
 
-整備命令標章
+3. Insurance markings, mutual aid markings, or insurance/mutual aid exemption markings under Article 9-2, paragraph 1 (including cases applied mutatis mutandis under Article 9-4 of the same Act) or Article 10-2, paragraph 1 of the Automobile Liability Security Act (Act No. 97 of 1955)
 
-一の二
+4. Markings under Article 63, paragraph 4 of the Road Traffic Act
 
-臨時検査合格標章
+5. (Deleted)
 
-二
+6. Other items designated by ministerial notice as not impeding the driver's field of vision
 
-検査標章
-
-二の二
-
-保安基準適合標章（中央点線のところから二つ折りとしたものに限る。）
-
-三
-
-自動車損害賠償保障法（昭和三十年法律第九十七号）第九条の二第一項（同法第九条の四において準用する場合を含む。）又は第十条の二第一項の保険標章、共済標章又は保険・共済除外標章
-
-四
-
-道路交通法第六十三条第四項の標章
-
-五
-
-削除
-
-六
-
-前各号に掲げるもののほか、運転者の視野の確保に支障がないものとして告示で定めるもの
-
-七
-
-前各号に掲げるもののほか、国土交通大臣又は地方運輸局長が指定したもの
+7. Other items designated by the Minister of Land, Infrastructure and Transport or the Director General of a Regional Transport Bureau

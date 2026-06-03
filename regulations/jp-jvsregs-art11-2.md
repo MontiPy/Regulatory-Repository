@@ -7,19 +7,14 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 11_2 — （施錠装置等）
-translation_status: untranslated
+title: JVSR Article 11_2 — Locking Devices
+translation_status: translated
 ---
 
-（施錠装置等）
-第十一条の二
+## Article 11-2 — Locking Devices
 
-専ら乗用の用に供する自動車（乗車定員十一人以上の自動車及び被牽けん引自動車を除く。）及び貨物の運送の用に供する自動車（車両総重量が三・五トンを超える自動車及び被牽けん引自動車を除く。）の原動機、動力伝達装置、走行装置、変速装置、かじ取装置又は制動装置（二輪自動車、側車付二輪自動車、三輪自動車並びにカタピラ及びそりを有する軽自動車に備える制動装置を除く。）には、施錠装置を備えなければならない。
+① The engine, power transmission, running gear, transmission, steering, or braking system (excluding braking systems installed on two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, and light vehicles with crawler tracks and sleds) of motor vehicles used exclusively for passenger transport (excluding vehicles with a seating capacity of 11 or more passengers and towed vehicles) and motor vehicles used for freight transport (excluding vehicles with a gross vehicle weight exceeding 3.5 tonnes and towed vehicles) shall be equipped with locking devices.
 
-２
+② Locking devices installed on the engine, power transmission, running gear, transmission, steering, or braking system of a motor vehicle shall comply with the standards for structure, locking performance, etc. prescribed by ministerial notice, so as to reliably stop the function of the device on which the locking device is installed when activated and not to impair safe operation.
 
-自動車の原動機、動力伝達装置、走行装置、変速装置、かじ取装置又は制動装置に備える施錠装置は、その作動により施錠装置を備えた装置の機能を確実に停止させ、かつ、安全な運行を妨げないものとして、構造、施錠性能等に関し告示で定める基準に適合するものでなければならない。
-
-３
-
-専ら乗用の用に供する自動車（乗車定員十人以上の自動車、二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車並びに被牽けん引自動車を除く。）及び貨物の運送の用に供する自動車（車両総重量が二トンを超える自動車、三輪自動車及び被牽けん引自動車を除く。）に備えるイモビライザ（原動機その他運行に必要な装置の機能を電子的方法により停止させる装置をいう。）は、その作動により原動機その他運行に必要な装置の機能を確実に停止させ、かつ、安全な運行を妨げないものとして、構造、施錠性能等に関し告示で定める基準に適合するものでなければならない。
+③ Immobilizers (devices that electronically stop the function of the engine and other devices necessary for operation) installed on motor vehicles used exclusively for passenger transport (excluding vehicles with a seating capacity of 10 or more passengers, two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, and towed vehicles) and motor vehicles used for freight transport (excluding vehicles with a gross vehicle weight exceeding 2 tonnes, three-wheeled vehicles, and towed vehicles) shall comply with the standards for structure, locking performance, etc. prescribed by ministerial notice, so as to reliably stop the function of the engine and other devices necessary for operation when activated and not to impair safe operation.

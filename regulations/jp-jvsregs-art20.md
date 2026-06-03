@@ -13,8 +13,8 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 20 — （乗車装置）
-translation_status: untranslated
+title: JVSR Article 20 — Passenger Accommodation
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,28 +22,16 @@ vehicle_categories:
 - Bus
 ---
 
-（乗車装置）
-第二十条
+## Article 20 — Passenger Accommodation
 
-自動車の乗車装置は、乗車人員が動揺、衝撃等により転落又は転倒することなく安全な乗車を確保できるものとして、構造に関し告示で定める基準に適合するものでなければならない。
+① The passenger accommodation of motor vehicles shall comply with the standards for structure prescribed by ministerial notice, as necessary to ensure safe seating without vehicle occupants falling or being thrown about by vibration, impact, or similar forces.
 
-２
+② Motor vehicles equipped with passenger accommodation for persons other than the driver and driver's assistant shall have a passenger compartment (hereinafter "passenger cabin") for those persons. However, this does not apply to two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, light vehicles with crawler tracks and sleds, and emergency vehicles.
 
-運転者及び運転者助手以外の者の用に供する乗車装置を備えた自動車には、これらの者の用に供する車室（以下「客室」という。）を備えなければならない。
-ただし、二輪自動車、側車付二輪自動車、カタピラ及びそりを有する軽自動車並びに緊急自動車にあつては、この限りでない。
+③ The driver's cab and passenger cabin of motor vehicles shall have a structure capable of providing adequate ventilation.
 
-３
+④ The seats, seat belts, head restraints, child restraint anchorages, ceiling liners, interior panels, and other interior components of the driver's cab and passenger cabin (hereinafter simply "interior components" in the next paragraph) of motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, and small special vehicles) shall be made of flame-retardant materials that comply with the standards prescribed by ministerial notice.
 
-自動車の運転者室及び客室は、必要な換気を得られる構造でなければならない。
+⑤ Designated interior components of motor vehicles used exclusively for passenger transport (excluding vehicles with a seating capacity of 11 or more passengers, two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, light vehicles with crawler tracks and sleds, and vehicles with a maximum speed of less than 20 km/h) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of injury to vehicle occupants.
 
-４
-
-自動車（二輪自動車、側車付二輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車並びに小型特殊自動車を除く。）の座席、座席ベルト、頭部後傾抑止装置、年少者用補助乗車装置、天井張り、内張りその他の運転者室及び客室の内装（次項において単に「内装」という。）には、告示で定める基準に適合する難燃性の材料を使用しなければならない。
-
-５
-
-専ら乗用の用に供する自動車（乗車定員十一人以上の自動車、二輪自動車、側車付二輪自動車、カタピラ及びそりを有する軽自動車並びに最高速度二十キロメートル毎時未満の自動車を除く。）の内装のうち告示で定めるものは、乗車人員に傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能等に関し告示で定める基準に適合するものでなければならない。
-
-６
-
-自動車（乗車定員十一人以上の自動車、大型特殊自動車、農耕作業用小型特殊自動車及び最高速度二十キロメートル毎時未満の自動車を除く。）のサンバイザ（車室内に備える太陽光線の直射による乗車人員のげん惑を防止するための装置をいう。）は、当該自動車が衝突等による衝撃を受けた場合において、乗車人員の頭部等に傷害を与えるおそれの少ないものとして、乗車人員の保護に係る性能等に関し告示で定める基準に適合するものでなければならない。
+⑥ Sun visors (devices installed inside the passenger cabin to prevent glare to vehicle occupants from direct sunlight) of motor vehicles (excluding vehicles with a seating capacity of 11 or more passengers, large special vehicles, small special vehicles for agricultural work, and vehicles with a maximum speed of less than 20 km/h) shall comply with the standards for occupant protection performance prescribed by ministerial notice, so as to minimize the risk of injury to the heads and other parts of vehicle occupants when the vehicle is subjected to a collision or similar impact.

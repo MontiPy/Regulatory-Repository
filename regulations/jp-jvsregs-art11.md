@@ -13,8 +13,8 @@ systems:
 - Crashworthiness
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 11
-translation_status: untranslated
+title: JVSR Article 11 — Steering System
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -23,50 +23,28 @@ vehicle_categories:
 - Motorcycle
 ---
 
-第十一条
+## Article 11 — Steering System
 
-自動車のかじ取装置は、堅ろうで、安全な運行を確保できるものとして、強度、操作性能等に関し告示で定める基準に適合するものでなければならない。
+① The steering system of motor vehicles shall comply with the standards for strength, steering performance, etc. prescribed by ministerial notice, as necessary to ensure robust and safe operation.
 
-２
+② The steering system of motor vehicles (excluding those listed below) shall comply with the standards for performance relating to driver protection prescribed by ministerial notice, so as to minimize the risk of injury to the driver when the vehicle is subjected to a collision or similar impact:
 
-自動車（次の各号に掲げるものを除く。）のかじ取装置は、当該自動車が衝突等による衝撃を受けた場合において、運転者に傷害を与えるおそれの少ないものとして、運転者の保護に係る性能に関し告示で定める基準に適合するものでなければならない。
+1. Vehicles used exclusively for passenger transport with a seating capacity of 11 or more passengers
 
-一
+2. Vehicles of a shape similar to those in the preceding item
 
-専ら乗用の用に供する自動車であつて乗車定員十一人以上のもの
+3. Vehicles used for freight transport with a gross vehicle weight of 1.5 tonnes or more
 
-二
+4. Vehicles of a shape similar to those in the preceding item
 
-前号の自動車の形状に類する自動車
+5. Two-wheeled vehicles
 
-三
+6. Sidecar-equipped two-wheeled vehicles
 
-貨物の運送の用に供する自動車であつて車両総重量一・五トン以上のもの
+7. Light vehicles with crawler tracks and sleds
 
-四
+8. Large special vehicles
 
-前号の自動車の形状に類する自動車
+9. Small special vehicles
 
-五
-
-二輪自動車
-
-六
-
-側車付二輪自動車
-
-七
-
-カタピラ及びそりを有する軽自動車
-
-八
-
-大型特殊自動車
-
-九
-
-小型特殊自動車
-
-十
-
-被牽けん引自動車
+10. Towed vehicles

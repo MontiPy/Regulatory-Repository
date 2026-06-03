@@ -10,8 +10,8 @@ status: in-force
 systems: []
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 2 — （長さ、幅及び高さ）
-translation_status: untranslated
+title: JVSR Article 2 — Length, Width, and Height
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -21,29 +21,14 @@ vehicle_categories:
 - Trailer
 ---
 
-（長さ、幅及び高さ）
-第二条
+## Article 2 — Length, Width, and Height
 
-自動車は、告示で定める方法により測定した場合において、長さ（セミトレーラにあつては、連結装置中心から当該セミトレーラの後端までの水平距離）十二メートル（セミトレーラのうち告示で定めるものにあつては、十三メートル）、幅二・五メートル、高さ三・八メートルを超えてはならない。
+① When measured using the method prescribed by ministerial notice, motor vehicles shall not exceed: length of 12 meters (for semi-trailers designated by ministerial notice, 13 meters; for semi-trailers, length is measured as the horizontal distance from the center of the coupling device to the rear end of the semi-trailer), width of 2.5 meters, and height of 3.8 meters.
 
-２
+② The following items shall not protrude beyond the protrusion limits set out for each respective item when measured using the method prescribed by ministerial notice:
 
-次の各号に掲げるものは、告示で定める方法により測定した場合において、それぞれ当該各号に定める突出量の範囲を超えて突出していてはならない。
+1. Outward-opening windows, ventilation devices, and devices under Article 44, paragraph 5 — less than 250 millimeters from the outermost edge of the vehicle or less than 300 millimeters from the height of the vehicle
 
-一
+2. Rear-view mirrors and rear-view confirmation devices (devices that capture images of the area near the outer edge of the vehicle and the area to the rear, and display those images at a position visible from the driver's seat; the same applies below) — less than 250 millimeters from the outermost edge of the vehicle (or, in the case of a towing vehicle towing a towed vehicle wider than the towing vehicle, from the outermost edge of the towed vehicle) or less than 300 millimeters from the height of the vehicle
 
-外開き式の窓及び換気装置並びに第四十四条第五項の装置
-
-その自動車の最外側から二百五十ミリメートル未満又はその自動車の高さから三百ミリメートル未満
-
-二
-
-後写鏡及び後方等確認装置（自動車の外側線付近及び後方の状況の画像を撮影し、運転者席において確認できる位置に備えられた当該画像を表示する装置をいう。以下同じ。）
-
-その自動車の最外側（その自動車より幅の広い被牽けん引自動車を牽けん引する牽けん引自動車に備える場合にあつては、その被牽けん引自動車の最外側）から二百五十ミリメートル未満又はその自動車の高さから三百ミリメートル未満
-
-三
-
-自動車の周囲の状況の検知又は監視を行い、運転者に対し当該状況に係る情報の提供又は当該自動車の制御を行う装置その他の告示で定める装置
-
-その自動車の最外側から二百五十ミリメートル未満かつその自動車の高さから三百ミリメートル未満であつて告示で定める突出量の範囲
+3. Devices that detect or monitor the surrounding conditions of the vehicle, provide the driver with information about those conditions, or control the vehicle, and other devices designated by ministerial notice — less than 250 millimeters from the outermost edge of the vehicle and less than 300 millimeters from the height of the vehicle, within the protrusion limits prescribed by ministerial notice

@@ -7,12 +7,10 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 44_2 — （後退時車両直後確認装置）
-translation_status: untranslated
+title: JVSR Article 44_2 — Rear Proximity Detection Device
+translation_status: translated
 ---
 
-（後退時車両直後確認装置）
-第四十四条の二
+## Article 44-2 — Rear Proximity Detection Device
 
-自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車、被牽けん引自動車並びに後退時車両直後確認装置を備えることができないものとして告示で定める自動車を除く。）には、後退時に運転者が運転者席において当該自動車の直後の状況を確認できるものとして、運転者の視野に係る性能等に関し告示で定める基準に適合する後退時車両直後確認装置を備えなければならない。
-ただし、後退時に運転者が運転者席において当該自動車の直後の状況を直接確認できる構造を有するものとして告示で定める自動車にあつては、この限りでない。
+① Motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, towed vehicles, and those designated by ministerial notice as vehicles for which a rear proximity detection device cannot be equipped) shall be equipped with a rear proximity detection device that complies with the standards for driver visibility performance prescribed by ministerial notice, enabling the driver to confirm conditions directly behind the vehicle from the driver's seat while reversing. However, this does not apply to vehicles designated by ministerial notice as having a structure allowing the driver to directly confirm conditions directly behind the vehicle from the driver's seat while reversing.

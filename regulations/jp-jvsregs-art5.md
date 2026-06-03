@@ -12,8 +12,8 @@ systems:
 - Steering
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 5 — （安定性）
-translation_status: untranslated
+title: JVSR Article 5 — Stability
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,7 +22,6 @@ vehicle_categories:
 - Motorcycle
 ---
 
-（安定性）
-第五条
+## Article 5 — Stability
 
-自動車は、安定した走行を確保できるものとして、安定性に関し告示で定める基準に適合しなければならない。
+① Motor vehicles shall comply with the standards for stability prescribed by ministerial notice, as necessary to ensure stable travel.

@@ -7,16 +7,12 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 22_4 — （頭部後傾抑止装置等）
-translation_status: untranslated
+title: JVSR Article 22_4 — Head Restraints
+translation_status: translated
 ---
 
-（頭部後傾抑止装置等）
-第二十二条の四
+## Article 22-4 — Head Restraints
 
-自動車（車両総重量が三・五トンを超える自動車（専ら乗用の用に供する自動車であつて乗車定員十人以下のものを除く。）、二輪自動車、側車付二輪自動車、大型特殊自動車、農耕作業用小型特殊自動車及び最高速度二十キロメートル毎時未満の自動車を除く。）の座席（第二十二条第三項第一号から第四号までに掲げる座席及び自動車の側面に隣接しない座席を除く。）のうち運転者席及びこれと並列の座席には、頭部後傾抑止装置を備えなければならない。
+① The driver's seat and seats parallel to it in motor vehicles (excluding vehicles with a gross vehicle weight exceeding 3.5 tonnes other than passenger vehicles with a seating capacity of 10 or fewer, two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, large special vehicles, small special vehicles for agricultural work, and vehicles with a maximum speed of less than 20 km/h), excluding the seats listed in Article 22, paragraph 3, items 1 through 4 and seats not adjacent to the side of the vehicle, shall be equipped with head restraints.
 
-２
-
-自動車（二輪自動車、側車付二輪自動車、大型特殊自動車、農耕作業用小型特殊自動車及び最高速度二十キロメートル毎時未満の自動車を除く。）の座席（第二十二条第三項第一号から第四号までに掲げる座席を除く。）に備える頭部後傾抑止装置は、他の自動車の追突等による衝撃を受けた場合において、乗車人員の頭部の過度の後傾を有効に抑止し、かつ、乗車人員の頭部等に傷害を与えるおそれの少ないものとして、構造等に関し告示で定める基準に適合するものでなければならない。
-ただし、当該座席自体が当該装置と同等の性能を有するものであるときは、この限りでない。
+② Head restraints installed on seats in motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, large special vehicles, small special vehicles for agricultural work, and vehicles with a maximum speed of less than 20 km/h), excluding the seats listed in Article 22, paragraph 3, items 1 through 4, shall comply with the standards for structure, etc. prescribed by ministerial notice, so as to effectively prevent excessive rearward inclination of the vehicle occupant's head and to minimize the risk of injury to the occupant's head in the event of a rear-end collision or similar impact. However, this does not apply when the seat itself has equivalent performance to such a device.

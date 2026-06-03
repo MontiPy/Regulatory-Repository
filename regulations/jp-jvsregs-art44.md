@@ -12,8 +12,8 @@ systems:
 - Visibility
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 44 — （後写鏡等）
-translation_status: untranslated
+title: JVSR Article 44 — Rear-View Mirrors
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -22,33 +22,18 @@ vehicle_categories:
 - Motorcycle
 ---
 
-（後写鏡等）
-第四十四条
+## Article 44 — Rear-View Mirrors
 
-自動車（被牽けん引自動車を除く。）には、後写鏡を備えなければならない。
-ただし、運転者の視野、乗車人員等の保護に係る性能等に関し告示で定める基準に適合する後方等確認装置を備える自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）にあつては、この限りでない。
+① Motor vehicles (excluding towed vehicles) shall be equipped with rear-view mirrors. However, this does not apply to motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles) equipped with a rear-view confirmation device that complies with the standards for the driver's field of vision, protection of vehicle occupants, and related performance prescribed by ministerial notice.
 
-２
+② Rear-view mirrors installed on motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, and three-wheeled vehicles with a handlebar-type steering system that do not have an enclosed cab — excluding those from which the driver can confirm traffic conditions near the outer edge of the vehicle from the driver's seat; the same applies in the next paragraph and Article 65) shall comply with the standards for the driver's field of vision provided by the mirror, protection of vehicle occupants, and related performance prescribed by ministerial notice, so as to enable the driver to confirm traffic conditions near the vehicle's outer edge and to the rear from the driver's seat and to minimize the risk of injury to vehicle occupants, pedestrians, and others.
 
-自動車（ハンドルバー方式のかじ取装置を備える二輪自動車、側車付二輪自動車及び三輪自動車であつて車室（運転者が運転者席において自動車の外側線付近の交通状況を確認できるものを除く。次項及び第六十五条において同じ。）を有しないものを除く。）に備える後写鏡は、運転者が運転者席において自動車の外側線付近及び後方の交通状況を確認でき、かつ、乗車人員、歩行者等に傷害を与えるおそれの少ないものとして、当該後写鏡による運転者の視野、乗車人員等の保護に係る性能等に関し告示で定める基準に適合するものでなければならない。
+③ Rear-view mirrors installed on two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, and three-wheeled vehicles with a handlebar-type steering system that do not have an enclosed cab shall comply with the standards for the driver's field of vision and protection of pedestrians and others prescribed by ministerial notice, so as to enable the driver to confirm traffic conditions to the rear and to eliminate the risk of injury to pedestrians and others.
 
-３
+④ The rear-view confirmation device under paragraph ① and the rear-view mirrors under paragraphs ② and ③ shall each be installed so as not to impair the performance specified in those provisions and in compliance with the standards for mounting position, mounting method, etc. prescribed by ministerial notice.
 
-ハンドルバー方式のかじ取装置を備える二輪自動車、側車付二輪自動車及び三輪自動車であつて車室を有しないものに備える後写鏡は、運転者が後方の交通状況を確認でき、かつ、歩行者等に傷害を与えるおそれのないものとして、当該後写鏡による運転者の視野、歩行者等の保護に係る性能等に関し告示で定める基準に適合するものでなければならない。
+⑤ Motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles) shall be equipped with mirrors or other devices enabling the driver to confirm obstacles designated by ministerial notice from the driver's seat. However, this does not apply to vehicles with a structure that allows the driver to directly confirm such obstacles from the driver's seat or to do so via a rear-view mirror or rear-view confirmation device.
 
-４
+⑥ The mirrors or other devices under the preceding paragraph shall comply with the standards for the driver's field of vision and protection of pedestrians and others prescribed by ministerial notice, so as to enable confirmation of the obstacles specified in that paragraph and to minimize the risk of injury to pedestrians and others.
 
-第一項の後方等確認装置並びに第二項及び前項の後写鏡は、それぞれ、これらの規定に掲げる性能を損なわないように、かつ、取付位置、取付方法等に関し告示で定める基準に適合するように取り付けられなければならない。
-
-５
-
-自動車（二輪自動車、側車付二輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）には、運転者が運転者席において告示で定める障害物を確認できる鏡その他の装置を備えなければならない。
-ただし、運転者が運転者席において当該障害物を直接又は後写鏡若しくは後方等確認装置により確認できる構造の自動車にあつては、この限りでない。
-
-６
-
-前項の鏡その他の装置は、同項の障害物を確認でき、かつ、歩行者等に傷害を与えるおそれの少ないものとして、当該鏡その他の装置による運転者の視野、歩行者等の保護に係る性能等に関し告示で定める基準に適合するものでなければならない。
-
-７
-
-第五項の鏡その他の装置は、その性能を損なわないように、かつ、取付位置、取付方法等に関し告示で定める基準に適合するように取り付けられなければならない。
+⑦ The mirrors or other devices under paragraph ⑤ shall be installed so as not to impair their performance and in compliance with the standards for mounting position, mounting method, etc. prescribed by ministerial notice.

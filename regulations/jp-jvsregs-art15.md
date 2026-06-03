@@ -7,15 +7,12 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 15 — （燃料装置）
-translation_status: untranslated
+title: JVSR Article 15 — Fuel System
+translation_status: translated
 ---
 
-（燃料装置）
-第十五条
+## Article 15 — Fuel System
 
-ガソリン、灯油、軽油、アルコールその他の引火しやすい液体を燃料とする自動車の燃料装置は、燃料への引火等のおそれのないものとして、強度、構造、取付方法等に関し告示で定める基準に適合するものでなければならない。
+① The fuel system of motor vehicles using flammable liquid fuels such as gasoline, kerosene, light oil, alcohol, or other combustible liquids shall comply with the standards for strength, structure, mounting method, etc. prescribed by ministerial notice, so as to prevent the risk of fuel ignition and fire.
 
-２
-
-ガソリン、灯油、軽油、アルコールその他の引火しやすい液体を燃料とする自動車（乗車定員十一人以上の自動車、貨物の運送の用に供する自動車であつて車両総重量が三・五トンを超える自動車、二輪自動車、側車付二輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）の燃料タンク及び配管は、当該自動車が衝突、他の自動車の追突等による衝撃を受けた場合において、燃料が著しく漏れるおそれの少ないものとして、燃料漏れ防止に係る性能等に関し告示で定める基準に適合するものでなければならない。
+② The fuel tank and piping of motor vehicles using flammable liquid fuels such as gasoline, kerosene, light oil, alcohol, or other combustible liquids (excluding vehicles with a seating capacity of 11 or more passengers, freight vehicles with a gross vehicle weight exceeding 3.5 tonnes, two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles) shall comply with the standards for fuel leak prevention performance prescribed by ministerial notice, so as to minimize the risk of significant fuel leakage when the vehicle is subjected to a collision or rear-end impact.

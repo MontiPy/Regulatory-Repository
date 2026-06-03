@@ -15,22 +15,17 @@ systems:
 - Software updates
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 48 — （自動運行装置）
-translation_status: untranslated
+title: JVSR Article 48 — Automated Driving Devices
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-（自動運行装置）
-第四十八条
+## Article 48 — Automated Driving Devices
 
-自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車並びに被牽けん引自動車を除く。）には、自動運行装置を備えることができる。
+① Motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, and towed vehicles) may be equipped with automated driving devices.
 
-２
+② Motor vehicles equipped with automated driving devices shall comply with the standards for function, performance, etc. prescribed by ministerial notice, so as to ensure the safety of automated vehicle operation by program.
 
-自動運行装置を備える自動車は、プログラムによる当該自動車の自動的な運行の安全性を確保できるものとして、機能、性能等に関し告示で定める基準に適合しなければならない。
-
-３
-
-法第七十五条の三第一項の規定によりその型式について指定を受ける自動運行装置は、当該装置を備える自動車を前項の基準に適合させるものでなければならない。
+③ Automated driving devices that receive type designation under Article 75-3, paragraph 1 of the Road Vehicles Act shall enable the motor vehicles in which they are installed to comply with the standards under the preceding paragraph.

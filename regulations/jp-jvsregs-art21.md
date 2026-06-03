@@ -7,15 +7,12 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 21 — （座席）
-translation_status: untranslated
+title: JVSR Article 21 — Driver's Seat
+translation_status: translated
 ---
 
-（座席）
-第二十一条
+## Article 21 — Driver's Seat
 
-自動車の運転者席は、運転に必要な視野を有し、かつ、乗車人員、積載物品等により運転操作を妨げられないものとして、運転者の視野、物品積載装置等との隔壁の構造等に関し告示で定める基準に適合するものでなければならない。
+① The driver's seat of a motor vehicle shall comply with the standards for the driver's field of vision, structure of partitions from cargo loading areas, etc. prescribed by ministerial notice, so as to provide the field of vision necessary for driving and not to be obstructed in driving operation by vehicle occupants, cargo, or other items.
 
-２
-
-自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）の運転者席に備える視界内表示投影装置（文字、図形、記号その他の表示を運転者が視認できるように前面ガラス又はコンバイナーその他これに類するものに投影する装置をいう。）は、運転に必要な視野を確保でき、かつ、運転操作を妨げないものとして、構造、表示等に関し告示で定める基準に適合するものでなければならない。
+② The head-up display device (a device that projects characters, figures, symbols, and other displays onto the windshield, combiner, or similar device so as to be visible to the driver) installed in the driver's seat of motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles) shall comply with the standards for structure, display content, etc. prescribed by ministerial notice, so as to secure the field of vision necessary for driving and not to impede driving operation.

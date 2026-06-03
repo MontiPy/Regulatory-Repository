@@ -7,62 +7,34 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 32 — （前照灯等）
-translation_status: untranslated
+title: JVSR Article 32 — Headlights
+translation_status: translated
 ---
 
-（前照灯等）
-第三十二条
+## Article 32 — Headlights
 
-自動車（被牽けん引自動車を除く。第四項において同じ。）の前面には、走行用前照灯を備えなければならない。
-ただし、当該装置と同等の性能を有する配光可変型前照灯（夜間の走行状態に応じて、自動的に照射光線の光度及びその方向の空間的な分布を調整できる前照灯をいう。以下同じ。）を備える自動車として告示で定めるものにあつては、この限りでない。
+① The front of motor vehicles (excluding towed vehicles; the same applies in paragraph ④) shall be equipped with driving beam headlights. However, this does not apply to motor vehicles designated by ministerial notice that are equipped with adaptive driving beam headlights (headlights that can automatically adjust the luminous intensity and spatial distribution of the illumination beam according to nighttime driving conditions; the same applies below) having equivalent performance.
 
-２
+② Driving beam headlights shall comply with the standards for light color, brightness, etc. prescribed by ministerial notice, so as to confirm traffic obstacles ahead of the vehicle at night.
 
-走行用前照灯は、夜間に自動車の前方にある交通上の障害物を確認できるものとして、灯光の色、明るさ等に関し告示で定める基準に適合するものでなければならない。
+③ Driving beam headlights shall be installed so as not to impair their performance and in compliance with the standards for mounting position, mounting method, etc. prescribed by ministerial notice.
 
-３
+④ The front of motor vehicles shall be equipped with passing beam headlights. However, this does not apply to vehicles equipped with adaptive driving beam headlights or vehicles with a maximum speed of less than 20 km/h whose driving beam headlights have luminous intensity below the standards prescribed by ministerial notice.
 
-走行用前照灯は、その性能を損なわないように、かつ、取付位置、取付方法等に関し告示で定める基準に適合するように取り付けられなければならない。
+⑤ Passing beam headlights shall comply with the standards for light color, brightness, etc. prescribed by ministerial notice, so as to confirm traffic obstacles ahead of the vehicle at night while not obstructing other traffic with their illumination beam.
 
-４
+⑥ Passing beam headlights shall be installed so as not to impair their performance and in compliance with the standards for mounting position, mounting method, etc. prescribed by ministerial notice.
 
-自動車の前面には、すれ違い用前照灯を備えなければならない。
-ただし、配光可変型前照灯又は最高速度二十キロメートル毎時未満の自動車であつて光度が告示で定める基準未満である走行用前照灯を備えるものにあつては、この限りでない。
+⑦ Adaptive driving beam headlights may be equipped at the front of motor vehicles (excluding sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, large special vehicles, small special vehicles, and towed vehicles).
 
-５
+⑧ Adaptive driving beam headlights shall comply with the standards for light color, brightness, etc. prescribed by ministerial notice, so as to confirm traffic obstacles ahead of the vehicle while not obstructing other traffic with their illumination beam when required.
 
-すれ違い用前照灯は、夜間に自動車の前方にある交通上の障害物を確認でき、かつ、その照射光線が他の交通を妨げないものとして、灯光の色、明るさ等に関し告示で定める基準に適合するものでなければならない。
+⑨ Adaptive driving beam headlights shall be installed so as not to impair their performance and in compliance with the standards for mounting position, mounting method, etc. prescribed by ministerial notice.
 
-６
+⑩ Motor vehicles may be equipped with a headlight leveling device (a device for adjusting the illumination direction of headlights — including driving beam headlights, passing beam headlights, and adaptive driving beam headlights; the same applies below in this chapter — in the vertical direction according to the occupancy and loading condition of the vehicle) that complies with the standards for headlight leveling performance prescribed by ministerial notice.
 
-すれ違い用前照灯は、その性能を損なわないように、かつ、取付位置、取付方法等に関し告示で定める基準に適合するように取り付けられなければならない。
+⑪ Adaptive driving beam headlights (limited to those whose light sources have total luminous output meeting the performance standards prescribed by ministerial notice) shall be equipped with a headlight cleaning device. However, this does not apply to those installed on two-wheeled vehicles.
 
-７
+⑫ Headlight cleaning devices shall comply with the standards for cleaning performance prescribed by ministerial notice, so as to restore headlight luminous intensity by cleaning contaminated areas on the outer surface of the headlight lens.
 
-自動車（側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車、大型特殊自動車、小型特殊自動車並びに被牽けん引自動車を除く。）の前面には、配光可変型前照灯を備えることができる。
-
-８
-
-配光可変型前照灯は、自動車の前方にある交通上の障害物を確認でき、かつ、必要な場合にあつてはその照射光線が他の交通を妨げないものとして、灯光の色、明るさ等に関し告示で定める基準に適合するものでなければならない。
-
-９
-
-配光可変型前照灯は、その性能を損なわないように、かつ、取付位置、取付方法等に関し告示で定める基準に適合するように取り付けられなければならない。
-
-１０
-
-自動車には、前照灯の照射方向の調節に係る性能等に関し告示で定める基準に適合する前照灯照射方向調節装置（前照灯（走行用前照灯、すれ違い用前照灯及び配光可変型前照灯をいう。以下この章において同じ。）の照射方向を自動車の乗車又は積載の状態に応じて鉛直方向に調節するための装置をいう。）を備えることができる。
-
-１１
-
-配光可変型前照灯（当該灯火装置の光源から出される光の総量等が告示で定める性能を有するものに限る。）には、前照灯洗浄器を備えなければならない。
-ただし、二輪自動車に備えるものにあつては、この限りではない。
-
-１２
-
-前照灯洗浄器は、前照灯のレンズ面の外側が汚染された場合において、当該部分を洗浄することにより前照灯の光度を回復できるものとして、洗浄性能等に関し告示で定める基準に適合するものでなければならない。
-
-１３
-
-前照灯洗浄器は、その性能を損なわないように、かつ、取付位置、取付方法等に関し告示で定める基準に適合するように取り付けられなければならない。
+⑬ Headlight cleaning devices shall be installed so as not to impair their performance and in compliance with the standards for mounting position, mounting method, etc. prescribed by ministerial notice.

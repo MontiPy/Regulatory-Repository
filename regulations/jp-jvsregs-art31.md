@@ -7,39 +7,24 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 31 — （ばい煙、悪臭のあるガス、有害なガス等の発散防止装置）
-translation_status: untranslated
+title: JVSR Article 31 — Emission Control Devices
+translation_status: translated
 ---
 
-（ばい煙、悪臭のあるガス、有害なガス等の発散防止装置）
-第三十一条
+## Article 31 — Emission Control Devices
 
-自動車は、運行中ばい煙、悪臭のあるガス又は有害なガスを多量に発散しないものでなければならない。
+① Motor vehicles shall not emit excessive amounts of smoke, malodorous gas, or harmful gas while in operation.
 
-２
+② Motor vehicles shall comply with the standards for performance prescribed by ministerial notice according to fuel type, so as not to emit excessive amounts of carbon monoxide, hydrocarbons, nitrogen oxides, particulate matter, and black smoke contained in exhaust emissions discharged into the atmosphere through the exhaust pipe.
 
-自動車は、排気管から大気中に排出される排出物に含まれる一酸化炭素、炭化水素、窒素酸化物、粒子状物質及び黒煙を多量に発散しないものとして、燃料の種別等に応じ、性能に関し告示で定める基準に適合するものでなければならない。
+③ Emission control devices installed on motor vehicles to comply with the preceding paragraph shall comply with the standards for structure, function, performance, etc. prescribed by ministerial notice, so as not to impair the function of those devices or other devices.
 
-３
+④ Motor vehicles with an internal combustion engine shall be equipped with a blowby gas recirculation device (a device for recirculating gas that leaks from the engine combustion chamber into the crankcase; the same applies below) that complies with the standards for function, performance, etc. prescribed by ministerial notice, so as to effectively prevent the emission of hydrocarbons and other substances.
 
-前項の規定に適合させるために自動車に備えるばい煙、悪臭のあるガス、有害なガス等の発散防止装置は、当該装置及び他の装置の機能を損なわないものとして、構造、機能、性能等に関し告示で定める基準に適合するものでなければならない。
+⑤ Standard automobiles, small automobiles, and light automobiles using gasoline as fuel shall comply with the standards for the amount of hydrocarbons evaporating from the vehicle and its fuel prescribed by ministerial notice, so as to effectively prevent the emission of hydrocarbons.
 
-４
+⑥ The conduits and safety devices of air conditioning systems for cooling the passenger compartment of motor vehicles shall comply with the standards for mounting position, mounting method, etc. prescribed by ministerial notice, so as to minimize the risk of injury to vehicle occupants.
 
-内燃機関を原動機とする自動車には、炭化水素等の発散を防止することができるものとして、機能、性能等に関し告示で定める基準に適合するブローバイ・ガス還元装置（原動機の燃焼室からクランクケースに漏れるガスを還元させる装置をいう。以下同じ。）を備えなければならない。
+⑦ The exhaust pipe of a motor vehicle shall comply with the standards for mounting position, mounting method, etc. prescribed by ministerial notice, so as to minimize the risk of injury to vehicle occupants and others from discharged exhaust gas, and not to inhibit the function of braking devices and other systems.
 
-５
-
-普通自動車、小型自動車及び軽自動車であつて、ガソリンを燃料とするものは、炭化水素の発散を有効に防止することができるものとして、当該自動車及びその燃料から蒸発する炭化水素の排出量に関し告示で定める基準に適合するものでなければならない。
-
-６
-
-自動車の客室内の冷房を行うための装置の導管及び安全装置は、乗車人員に傷害を与えるおそれの少ないものとして、取付位置、取付方法等に関し告示で定める基準に適合するものでなければならない。
-
-７
-
-自動車の排気管は、発散する排気ガス等により、乗車人員等に傷害を与えるおそれが少なく、かつ、制動装置等の機能を阻害しないものとして、取付位置、取付方法等に関し告示で定める基準に適合するものでなければならない。
-
-８
-
-法第七十五条の三第一項の規定によりその型式について指定を受ける一酸化炭素等発散防止装置は、当該装置を備える自動車を第二項から第四項までの基準に適合させるものでなければならない。
+⑧ Carbon monoxide and other emission control devices that receive type designation under Article 75-3, paragraph 1 of the Road Vehicles Act shall enable the motor vehicles in which they are installed to comply with the standards under paragraphs ② through ④.

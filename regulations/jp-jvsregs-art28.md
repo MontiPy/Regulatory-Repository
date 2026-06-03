@@ -13,13 +13,12 @@ systems:
 - Fuel safety
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 28 — （高圧ガス運送装置）
-translation_status: untranslated
+title: JVSR Article 28 — High-Pressure Gas Transport Equipment
+translation_status: translated
 vehicle_categories:
 - Heavy truck
 ---
 
-（高圧ガス運送装置）
-第二十八条
+## Article 28 — High-Pressure Gas Transport Equipment
 
-高圧ガスを運送する自動車のガス運送装置は、爆発等のおそれのないものとして、強度、取付方法等に関し告示で定める基準に適合するものでなければならない。
+① Motor vehicles transporting high-pressure gas shall have gas transport equipment that complies with the standards for strength, mounting method, etc. prescribed by ministerial notice, so as to prevent the risk of explosion.

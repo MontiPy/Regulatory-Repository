@@ -7,100 +7,54 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 22_3 — （座席ベルト等）
-translation_status: untranslated
+title: JVSR Article 22_3 — Seat Belts
+translation_status: translated
 ---
 
-（座席ベルト等）
-第二十二条の三
+## Article 22-3 — Seat Belts
 
-次の表の上欄に掲げる自動車（二輪自動車、側車付二輪自動車及び最高速度二十キロメートル毎時未満の自動車（大型特殊自動車及び小型特殊自動車を除く。）を除く。）には、当該自動車が衝突等による衝撃を受けた場合において、同表の中欄に掲げるその自動車の座席（第二十二条第三項第一号から第三号まで及び第六号に掲げる座席（第二号に掲げる座席にあつては、座席の後面部分のみが折り畳むことができるもの及び通路に設けられるものを除く。）並びに幼児専用車の幼児用座席を除く。）の乗車人員が、座席の前方に移動することを防止し、又は上半身を過度に前傾することを防止するため、それぞれ同表の下欄に掲げる座席ベルト及び当該座席ベルトの取付装置を備えなければならない。
+① Motor vehicles listed in the left column of the following table (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, and vehicles with a maximum speed of less than 20 km/h, other than large special vehicles and small special vehicles) shall be equipped with seat belts and seat belt anchorages listed in the right column for the seat categories in the center column, so as to prevent vehicle occupants in those seats from moving forward or excessively inclining the upper body forward when subjected to a collision or similar impact. Excluded are seats listed in Article 22, paragraph 3, items 1 through 3 and item 6 (for item 2, excluding those where only the rear portion of the seat can fold and those installed in aisles) and infant seats in vehicles exclusively for transporting young children.
 
-自動車の種別
+**Category 1 — Passenger vehicles (seating capacity under 10, or seating capacity 10 or more with GVW ≤ 3.5 tonnes, excluding Category 3 below)**
 
-座席の種別
+- Front-facing seats (excluding easily foldable seats in aisles): Type 2 seat belt (a belt that prevents both forward movement and excessive forward lean of the upper body; hereinafter "Type 2 belt")
+- All other seats: Type 1 seat belt (a belt that prevents forward movement only, excluding Type 2; hereinafter "Type 1 belt") or Type 2 belt
 
-座席ベルトの種別
+**Category 2 — Passenger vehicles with seating capacity of 10 or more (excluding Category 1-b and Category 3)**
 
-一　専ら乗用の用に供する自動車であつて、次に掲げるもの
-イ　乗車定員十人未満の自動車
-ロ　乗車定員十人以上の自動車であつて、車両総重量が三・五トン以下のもの（第三号に掲げるものを除く。）
+- Front-facing seats not meeting the standards prescribed by ministerial notice: Type 2 belt
+- All other seats: Type 1 or Type 2 belt
 
-運転者席その他の座席であつて、前向きのもの（以下この表において「前向き座席」という。）（容易に折り畳むことができる座席で通路に設けられるものを除く。）
+**Category 3 — Passenger vehicles with seating capacity of 10 or more (limited to those not operating on expressways)**
 
-当該座席の乗車人員が、座席の前方に移動することを防止し、かつ、上半身を過度に前傾することを防止するための座席ベルト（以下「第二種座席ベルト」という。）
+- Driver's seat and seats parallel to it: Type 1 or Type 2 belt
 
-前欄に掲げる座席以外の座席
+**Category 4 — Freight vehicles with GVW ≤ 3.5 tonnes**
 
-当該座席の乗車人員が、座席の前方に移動することを防止するための座席ベルト（第二種座席ベルトを除く。以下「第一種座席ベルト」という。）又は第二種座席ベルト
+- Driver's seat and seats parallel to it, and seats adjacent to the side of the vehicle, among front-facing seats (excluding those meeting ministerial standards): Type 2 belt
+- All other front-facing seats: Type 1 or Type 2 belt
 
-二　専ら乗用の用に供する自動車であつて、乗車定員十人以上のもの（前号ロ及び次号に掲げるものを除く。）
+**Category 5 — Freight vehicles with GVW > 3.5 tonnes**
 
-前向き座席（告示で定める基準に適合するものを除く。）
+- Driver's seat and seats parallel to it among front-facing seats (excluding those meeting ministerial standards): Type 2 belt
+- All other seats: Type 1 or Type 2 belt
 
-第二種座席ベルト
+**Category 6 — Large special vehicles (agricultural tractors only) and small special vehicles (agricultural tractors only)**
 
-前欄に掲げる座席以外の座席
+- Driver's seat and seats parallel to it: Type 1 or Type 2 belt
 
-第一種座席ベルト又は第二種座席ベルト
+② Seat belt anchorages under paragraph ① shall comply with the standards for strength, mounting position, etc. prescribed by ministerial notice, so as to sufficiently withstand loads from seat belts, to allow installed seat belts to function effectively, and not to obstruct boarding and alighting.
 
-三　専ら乗用の用に供する自動車であつて、乗車定員十人以上のもの（高速道路等において運行しないものに限る。）
+③ Seat belts under paragraph ① shall comply with the standards for structure, operational performance, etc. prescribed by ministerial notice, so as to minimize the risk of injury to the wearer when the vehicle is subjected to a collision or similar impact and to allow easy operation.
 
-運転者席及びこれと並列の座席
+④ The provisions of the preceding two paragraphs apply mutatis mutandis to seat belts and seat belt anchorages installed in motor vehicles listed in the upper column of the table in paragraph ① (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, and vehicles with a maximum speed of less than 20 km/h, other than large special vehicles and small special vehicles) to prevent vehicle occupants in seats to which paragraph ① does not apply (excluding straddle-type seats under Article 22, paragraph 3, item 1 and infant seats in vehicles exclusively for transporting young children) from moving forward or excessively inclining the upper body forward when subjected to a collision or similar impact. In this case, "paragraph ①" in paragraph ② shall be read as "paragraph ④", and "paragraph ①" in the preceding paragraph shall be read as "the next paragraph".
 
-第一種座席ベルト又は第二種座席ベルト
+⑤ Motor vehicles listed in the upper column of the following table (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, and vehicles with a maximum speed of less than 20 km/h) shall be equipped with a device that complies with the standards for warning performance prescribed by ministerial notice to warn the driver when a seat belt listed in the lower column for the seat category in the table is not fastened.
 
-四　貨物の運送の用に供する自動車であつて、車両総重量が三・五トン以下のもの
+**Category 1 — Passenger vehicles with seating capacity under 10, and freight vehicles with GVW ≤ 3.5 tonnes**
 
-前向き座席のうち、運転者席及びこれと並列の座席並びに自動車の側面に隣接する座席（告示で定める基準に適合するものを除く。）
+- Seat covered: Driver's seat and all other seats
 
-第二種座席ベルト
+**Category 2 — Passenger vehicles with seating capacity of 10 or more, and freight vehicles with GVW > 3.5 tonnes**
 
-前欄に掲げる座席以外の座席
-
-第一種座席ベルト又は第二種座席ベルト
-
-五　貨物の運送の用に供する自動車であつて、車両総重量が三・五トンを超えるもの
-
-前向き座席のうち、運転者席及びこれと並列の座席（告示で定める基準に適合するものを除く。）
-
-第二種座席ベルト
-
-前欄に掲げる座席以外の座席
-
-第一種座席ベルト又は第二種座席ベルト
-
-六　大型特殊自動車（農耕トラクタ（道路運送車両法施行規則別表第一大型特殊自動車の項第一号ロに規定する農耕トラクタをいう。以下この号において同じ。）に限る。）及び小型特殊自動車（農耕トラクタに限る。）
-
-運転者席及びこれと並列の座席
-
-第一種座席ベルト又は第二種座席ベルト
-
-２
-
-前項の座席ベルトの取付装置は、座席ベルトから受ける荷重等に十分耐え、かつ、取り付けられる座席ベルトが有効に作用し、かつ、乗降の支障とならないものとして、強度、取付位置等に関し告示で定める基準に適合するものでなければならない。
-
-３
-
-第一項の座席ベルトは、当該自動車が衝突等による衝撃を受けた場合において、当該座席ベルトを装着した者に傷害を与えるおそれが少なく、かつ、容易に操作等を行うことができるものとして、構造、操作性能等に関し告示で定める基準に適合するものでなければならない。
-
-４
-
-前二項の規定は、第一項の表の上欄に掲げる自動車（二輪自動車、側車付二輪自動車及び最高速度二十キロメートル毎時未満の自動車（大型特殊自動車及び小型特殊自動車を除く。）を除く。）が衝突等による衝撃を受けた場合において、同項の規定の適用を受けない座席（第二十二条第三項第一号に掲げる座席及び幼児専用車の幼児用座席を除く。）の乗車人員が座席の前方に移動することを防止し、又は上半身を過度に前傾することを防止するために当該自動車に備える座席ベルト及び当該座席ベルトの取付装置について準用する。
-この場合において、第二項中「前項」とあるのは「第四項」と、前項中「第一項」とあるのは「次項」と読み替えるものとする。
-
-５
-
-次の表の上欄に掲げる自動車（二輪自動車、側車付二輪自動車及び最高速度二十キロメートル毎時未満の自動車を除く。）には、同表の下欄に掲げるその自動車の座席の座席ベルト（告示で定めるものを除く。）が装着されていない場合に、その旨を運転者席の運転者に警報するものとして、警報性能等に関し告示で定める基準に適合する装置を備えなければならない。
-
-自動車の種別
-
-座席の種別
-
-一　専ら乗用の用に供する自動車であつて乗車定員十人未満のもの及び貨物の運送の用に供する自動車であつて車両総重量が三・五トン以下のもの
-
-運転者席その他の座席
-
-二　専ら乗用の用に供する自動車であつて乗車定員十人以上のもの及び貨物の運送の用に供する自動車であつて車両総重量が三・五トンを超えるもの
-
-運転者席及びこれと並列の座席
+- Seat covered: Driver's seat and seats parallel to it

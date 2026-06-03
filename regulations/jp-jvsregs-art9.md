@@ -14,8 +14,8 @@ systems:
 - Noise
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 9 — （走行装置等）
-translation_status: untranslated
+title: JVSR Article 9 — Running Gear and Tires
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -24,19 +24,12 @@ vehicle_categories:
 - Motorcycle
 ---
 
-（走行装置等）
-第九条
+## Article 9 — Running Gear and Tires
 
-自動車の走行装置（空気入ゴムタイヤを除く。）は、堅ろヽうヽで、安全な運行を確保できるものとして、強度等に関し告示で定める基準に適合するものでなければならない。
+① The running gear of motor vehicles (excluding pneumatic rubber tires) shall comply with the standards for strength, etc. prescribed by ministerial notice, as necessary to ensure robust and safe operation.
 
-２
+② The pneumatic rubber tires of motor vehicles shall comply with the standards for strength, anti-skid performance, etc. prescribed by ministerial notice, as necessary to ensure robust and safe operation.
 
-自動車の空気入ゴムタイヤは、堅ろうで、安全な運行を確保できるものとして、強度、滑り止めに係る性能等に関し告示で定める基準に適合するものでなければならない。
+③ The pneumatic rubber tires of motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, large special vehicles, and small special vehicles) shall comply with the standards for noise levels prescribed by ministerial notice, so as not to generate excessive noise.
 
-３
-
-自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び小型特殊自動車を除く。）の空気入ゴムタイヤは、騒音を著しく発しないものとして、騒音の大きさに関し告示で定める基準に適合するものでなければならない。
-
-４
-
-タイヤ・チエン等は走行装置に確実に取り付けることができ、かつ、安全な運行を確保することができるものでなければならない。
+④ Tire chains and other accessories shall be securely attachable to the running gear and shall not impair safe operation.

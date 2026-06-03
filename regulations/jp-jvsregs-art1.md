@@ -10,8 +10,8 @@ status: in-force
 systems: []
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
-title: JVSR Article 1 — （用語の定義）
-translation_status: untranslated
+title: JVSR Article 1 — Definitions of Terms
+translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -21,131 +21,68 @@ vehicle_categories:
 - Trailer
 ---
 
-（用語の定義）
-第一条
+## Article 1 — Definitions of Terms
 
-この省令における用語の定義は、道路運送車両法（以下「法」という。）第二条に定めるもののほか、次の各号の定めるところによる。
+① The definitions of terms in these ministerial regulations shall, in addition to those established in Article 2 of the Road Vehicles Act (hereinafter "the Act"), be governed by the following items:
 
-一
+1. "Towing vehicle" means a motor vehicle having structure and devices suited to the purpose of towing towed vehicles, regardless of whether its exclusive purpose is towing towed vehicles.
 
-「けん引自動車」とは、専ら被けん引自動車をけん引することを目的とすると否とにかかわらず、被けん引自動車をけん引する目的に適合した構造及び装置を有する自動車をいう。
+2. "Towed vehicle" means a motor vehicle intended to be towed by another motor vehicle and having structure and devices suited to that purpose.
 
-二
+2-2. "Pole trailer" means a towed vehicle intended and structured to be towed by another vehicle by means of poles, pipes, bridge girders, or other long articles.
 
-「被けん引自動車」とは、自動車によりけん引されることを目的とし、その目的に適合した構造及び装置を有する自動車をいう。
+2-3. "Semi-trailer" means a towed vehicle without a front axle, in which part of the vehicle is carried on the towing vehicle and a substantial portion of the weight of the towed vehicle and its cargo is supported by the towing vehicle.
 
-二の二
+3. (Deleted)
 
-「ポール・トレーラ」とは、柱、パイプ、橋げたその他長大な物品を運搬することを目的とし、これらの物品により他の自動車にけん引される構造の被けん引自動車をいう。
+4. "Passenger motor vehicle transport business vehicle" means a motor vehicle used in the passenger motor vehicle transport business as defined in Article 2, paragraph 3 of the Road Transport Act.
 
-二の三
+5. "Vehicle exclusively for young children" means a motor vehicle used exclusively for transporting infants and young children.
 
-「セミトレーラ」とは、前車軸を有しない被牽けん引自動車であつて、その一部が牽けん引自動車に載せられ、かつ、当該被牽けん引自動車及びその積載物の重量の相当部分が牽けん引自動車によつて支えられる構造のものをいう。
+6. "Unladen condition" means the condition in which a road vehicle is fully loaded with fuel, lubricating oil, cooling water, and other substances in the engine and fuel system, and is equipped with the fixed equipment necessary for the vehicle's intended use and other equipment necessary for operation.
 
-三
+7. "High-pressure gas" means high-pressure gas as defined in Article 2 of the High Pressure Gas Safety Act (Act No. 204 of 1951).
 
-削除
+8. "Gas container" means a container for storing the high-pressure gas described in the preceding item.
 
-四
+9. "Gas transport container" means a gas container fixed to a chassis for transporting the high-pressure gas described in item 7.
 
-「旅客自動車運送事業用自動車」とは、道路運送法第二条第三項の旅客自動車運送事業の用に供する自動車をいう。
+10. "Pressure vessel" means a container for storing compressed gas (other than high-pressure gas) at a pressure of 0.2 megapascals or more (gauge pressure; the same applies below) at normal operating temperature — excluding containers other than braking device containers with an internal diameter of less than 200 millimeters, a length of less than 1,000 millimeters, or a volume of less than 40 liters.
 
-五
+11. "Explosives" means explosives as defined in Article 2 of the Explosives Control Act (Act No. 149 of 1950).
 
-「幼児専用車」とは、専ら幼児の運送の用に供する自動車をいう。
+12. "Hazardous materials" means the articles listed in the item column of the Annexure to the Fire Services Act (Act No. 186 of 1948) that have the properties described in the nature column of the Annexure for the relevant classification.
 
-六
+13. "Emergency vehicle" means any of the following: fire trucks; police vehicles; vehicles used by prosecutors' offices for criminal investigation; Ministry of Defense vehicles used for emergency deployment; vehicles used at prisons or other correctional facilities for emergency security; vehicles used at immigration detention centers or regional immigration bureaus for detaining suspects or guarding detainees; vehicles used by pharmaceutical retailers selling stored blood for emergency transport of stored blood; vehicles used by medical institutions for emergency transport of organs extracted from cadavers under the Act on Organ Transplants (Act No. 104 of 1997), surgeons performing or attempting to perform organ extractions under that Act, or equipment necessary for such extractions; ambulances; public emergency work vehicles; vehicles used by the Ministry of Internal Affairs and Communications for detecting illegally operated radio stations; and other emergency vehicles designated by the Minister of Land, Infrastructure and Transport.
 
-「空車状態」とは、道路運送車両が、原動機及び燃料装置に燃料、潤滑油、冷却水等の全量を搭載し及び当該車両の目的とする用途に必要な固定的な設備を設ける等運行に必要な装備をした状態をいう。
+13-2. "Road maintenance vehicle" means a road maintenance vehicle as defined in Article 41, paragraph 4 of the Road Traffic Act (Act No. 105 of 1960).
 
-七
+13-3. "Contracting state registered vehicle" means a contracting state registered vehicle as defined in Article 2, paragraph 2 of the Act on Special Provisions of the Road Vehicles Act and Other Measures Related to Implementation of the Convention on Road Traffic (Act No. 109 of 1964; hereinafter "Special Provisions Act").
 
-「高圧ガス」とは、高圧ガス保安法（昭和二十六年法律第二百四号）第二条の高圧ガスをいう。
+13-4. "Contracting state registered moped" means a moped (excluding sidecars) registered by a contracting state or its sub-state entity under the laws of that state as provided in Article 2, paragraph 2 of the Special Provisions Act, meeting all of the following requirements, or a sidecar towed by such a moped and meeting all of the following requirements:
 
-八
+a. It has been imported under the provisions of Article 2(1) of the Customs Convention on the Temporary Importation of Private Road Vehicles, Article 10 of the Act on Special Customs Measures Relating to Implementation of the Customs Convention on the Temporary Importation of Private Road Vehicles (Act No. 101 of 1964), or Article 14 (limited to the portion pertaining to item 7) or Article 17, paragraph 1 (limited to the portion pertaining to item 10) of the Customs Tariff Act (Act No. 54 of 1910).
 
-「ガス容器」とは、前号の高圧ガスを蓄積するための容器をいう。
+b. It is used by the person who imported the moped.
 
-九
+c. Not more than one year has elapsed since the import permit date under Article 67 of the Customs Act (Act No. 61 of 1954).
 
-「ガス運送容器」とは、第七号の高圧ガスを運送するため車台に固定されたガス容器をいう。
+13-5. "General moped" means a moped that is not a specified small moped as defined in the following item.
 
-十
+13-6. "Specified small moped" means a moped powered by electricity supplied from an external source that meets all of the following requirements:
 
-「内圧容器」とは、常用の温度における圧力（ゲージ圧力をいう。以下同じ。）が〇・二メガパスカル以上の圧縮ガスで高圧ガス以外のものを蓄積するための容器（制動装置用容器以外の容器で、内径二百ミリメートル未満、長さ千ミリメートル未満のもの又は容積四十リットル未満のものを除く。）をいう。
+a. When measured using the method prescribed by ministerial notice, the length is 1.9 meters or less and the width is 0.6 meters or less.
 
-十一
+b. It complies with the standards listed in Article 1-2-2, paragraph 2, items a through d of the Road Traffic Act Enforcement Regulations (Prime Minister's Office Ordinance No. 60 of 1960).
 
-「火薬類」とは、火薬類取締法（昭和二十五年法律第百四十九号）第二条の火薬類をいう。
+14. "Sidecar" means a road vehicle intended to be towed by a moped and having structure and devices suited to that purpose.
 
-十二
+15. "Axle load" means the sum of the wheel loads of all wheels whose centers are located within two parallel vertical planes 1 meter apart, perpendicular to the longitudinal centerline of the vehicle.
 
-「危険物」とは、消防法（昭和二十三年法律第百八十六号）別表の品名欄に掲げる物品で、同表に定める区分に応じ同表の性質欄に掲げる性状を有するものをいう。
+16. "Maximum axle distance" means the horizontal distance from the center of the foremost axle of a motor vehicle (for semi-trailers, from the center of the coupling device) to the center of the rearmost axle.
 
-十三
+17. "Wheel load" means the vertical load applied to the road surface through a single wheel of a motor vehicle.
 
-「緊急自動車」とは、消防自動車、警察自動車、検察庁において犯罪捜査のため使用する自動車又は防衛省用自動車であつて緊急の出動の用に供するもの、刑務所その他の矯正施設において緊急警備のため使用する自動車、入国者収容所又は地方入国管理局において容疑者の収容又は被収容者の警備のため使用する自動車、保存血液を販売する医薬品販売業者が保存血液の緊急輸送のため使用する自動車、医療機関が臓器の移植に関する法律（平成九年法律第百四号）の規定により死体（脳死した者の身体を含む。）から摘出された臓器、同法の規定により臓器の摘出をしようとする医師又はその摘出に必要な器材の緊急輸送のため使用する自動車、救急自動車、公共用応急作業自動車、不法に開設された無線局の探査のため総務省において使用する自動車及び国土交通大臣が定めるその他の緊急の用に供する自動車をいう。
+18. "Expressways and high-speed roads" means roads on which the maximum speed of motor vehicles, as set under Article 22, paragraph 1 of the Road Traffic Act (Act No. 105 of 1960), exceeds 60 kilometers per hour.
 
-十三の二
-
-「道路維持作業用自動車」とは、道路交通法（昭和三十五年法律第百五号）第四十一条第四項の道路維持作業用自動車をいう。
-
-十三の三
-
-「締約国登録自動車」とは、道路交通に関する条約の実施に伴う道路運送車両法の特例等に関する法律（昭和三十九年法律第百九号。以下「特例法」という。）第二条第二項の締約国登録自動車をいう。
-
-十三の四
-
-「締約国登録原動機付自転車」とは、特例法第二条第二項の締約国若しくはその下部機構によりその法令に定める方法で登録されている原動機付自転車（付随車を除く。）であつて次に掲げる要件に該当するもの又はこれによりけん引される付随車であつて次に掲げる要件に該当するものをいう。
-
-イ
-
-自家用自動車の一時輸入に関する通関条約第二条１、自家用自動車の一時輸入に関する通関条約の実施に伴う関税法等の特例に関する法律（昭和三十九年法律第百一号）第十条又は関税定率法（明治四十三年法律第五十四号）第十四条（第七号に係る部分に限る。）若しくは第十七条第一項（第十号に係る部分に限る。）の規定の適用を受けて輸入されたものであること。
-
-ロ
-
-当該原動機付自転車を輸入した者の使用に供されるものであること。
-
-ハ
-
-関税法（昭和二十九年法律第六十一号）第六十七条の輸入の許可を受けた日から一年を経過しないものであること。
-
-十三の五
-
-「一般原動機付自転車」とは、原動機付自転車であつて、次号に規定する特定小型原動機付自転車以外のものをいう。
-
-十三の六
-
-「特定小型原動機付自転車」とは、原動機付自転車のうち、外部電源により供給される電気を動力源とするものであつて、次に掲げる要件の全てに該当するものをいう。
-
-イ
-
-告示で定める方法により測定した場合において、長さ一・九メートル以下、幅〇・六メートル以下であること。
-
-ロ
-
-道路交通法施行規則（昭和三十五年総理府令第六十号）第一条の二の二第二号イからニまでに掲げる基準に適合するものであること。
-
-十四
-
-「付随車」とは、原動機付自転車によつてけん引されることを目的とし、その目的に適合した構造及び装置を有する道路運送車両をいう。
-
-十五
-
-「軸重」とは、自動車の車両中心線に垂直な一メートルの間隔を有する二平行鉛直面間に中心のあるすべての車輪の輪荷重の総和をいう。
-
-十六
-
-「最遠軸距」とは、自動車の最前部の車軸中心（セミトレーラにあつては、連結装置中心）から最後部の車軸中心までの水平距離をいう。
-
-十七
-
-「輪荷重」とは、自動車の一個の車輪を通じて路面に加わる鉛直荷重をいう。
-
-十八
-
-「高速道路等」とは、道路交通法（昭和三十五年法律第百五号）第二十二条第一項の規定により当該道路において定められている自動車の最高速度が六十キロメートル毎時を超える道路をいう。
-
-２
-
-法第四十条第五号の運行に必要な装備をした状態とは、前項第六号に規定する状態をいう。
+② The condition "equipped for operation" under Article 40, item 5 of the Act refers to the condition defined in item 6 of paragraph ①.

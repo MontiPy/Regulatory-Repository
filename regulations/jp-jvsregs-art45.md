@@ -7,16 +7,12 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 45 — （窓ふき器等）
-translation_status: untranslated
+title: JVSR Article 45 — Windshield Wipers and Washers
+translation_status: translated
 ---
 
-（窓ふき器等）
-第四十五条
+## Article 45 — Windshield Wipers and Washers
 
-自動車（二輪自動車、側車付二輪自動車、カタピラ及びそりを有する軽自動車並びに被牽けん引自動車を除く。）の前面ガラスには、前面ガラスの直前の視野を確保できるものとして、視野の確保に係る性能等に関し告示で定める基準に適合する自動式の窓ふき器を備えなければならない。
+① The windshield of motor vehicles (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, light vehicles with crawler tracks and sleds, and towed vehicles) shall be equipped with an automatic windshield wiper that complies with the standards for field-of-vision performance prescribed by ministerial notice, so as to secure the field of vision directly in front of the windshield.
 
-２
-
-前項の規定により窓ふき器を備えなければならない自動車（大型特殊自動車、農耕作業用小型特殊自動車及び最高速度二十キロメートル毎時未満の自動車を除く。）には、前面ガラスの外側が汚染された場合又は前面ガラスに水滴等により著しい曇りが生じた場合において、前面ガラスの直前の視野を確保でき、かつ、安全な運行を妨げないものとして、視野の確保に係る性能等に関し告示で定める基準に適合する洗浄液噴射装置及びデフロスタを備えなければならない。
-ただし、車室と車体外とを屋根、窓ガラス等の隔壁により仕切ることのできない自動車にあつては、デフロスタは備えることを要しない。
+② Motor vehicles required to be equipped with windshield wipers under the preceding paragraph (excluding large special vehicles, small special vehicles for agricultural work, and vehicles with a maximum speed of less than 20 km/h) shall also be equipped with a washer fluid spray device and a defroster that comply with the standards for field-of-vision performance prescribed by ministerial notice, so as to secure the field of vision directly in front of the windshield and not to impair safe operation when the outside of the windshield is contaminated or when significant fogging from moisture accumulates on the windshield. However, a defroster is not required for vehicles where the cab and the vehicle exterior cannot be separated by a partition such as a roof or windows.

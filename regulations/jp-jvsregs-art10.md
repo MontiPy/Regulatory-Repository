@@ -7,23 +7,16 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 10 — （操縦装置）
-translation_status: untranslated
+title: JVSR Article 10 — Control Devices
+translation_status: translated
 ---
 
-（操縦装置）
-第十条
+## Article 10 — Control Devices
 
-自動車の運転に際して操作を必要とする次に掲げる装置は、運転者が定位置において容易に識別でき、かつ、操作できるものとして、配置、識別表示等に関し告示で定める基準に適合するものでなければならない。
+① The following devices that require operation when driving a motor vehicle shall comply with the standards for layout, identification markings, etc. prescribed by ministerial notice, so that the driver can easily identify and operate them from the normal seating position:
 
-一
+1. Operation devices for the starting system, accelerator, ignition timing adjustment device, injection timing adjustment device, clutch, transmission, and other engine and power transmission components
 
-始動装置、加速装置、点火時期調節装置、噴射時期調節装置、クラッチ、変速装置その他の原動機及び動力伝達装置の操作装置
+2. Operation devices for the braking system
 
-二
-
-制動装置の操作装置
-
-三
-
-前照灯、警音器、方向指示器、窓ふき器、洗浄液噴射装置及びデフロスタ（前面ガラスの水滴等の曇りを除去するための装置をいう。以下同じ。）の操作装置
+3. Operation devices for headlights, horn, direction indicators, windshield wipers, washer fluid spray devices, and defrosters (devices for removing moisture and fogging from the windshield; the same applies below)

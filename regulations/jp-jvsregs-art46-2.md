@@ -7,11 +7,10 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 tagging_status: untagged
-title: JVSR Article 46_2 — （事故情報計測・記録装置）
-translation_status: untranslated
+title: JVSR Article 46_2 — Accident Data Recorder
+translation_status: translated
 ---
 
-（事故情報計測・記録装置）
-第四十六条の二
+## Article 46-2 — Accident Data Recorder
 
-専ら乗用の用に供する自動車（二輪自動車、側車付二輪自動車、三輪自動車、カタピラ及びそりを有する軽自動車並びに被牽けん引自動車を除く。）及び貨物の運送の用に供する自動車（三輪自動車及び被牽けん引自動車を除く。）には、当該自動車が衝突等による衝撃を受ける事故が発生した場合において、当該自動車の瞬間速度その他の情報を計測し、及びその結果を記録するものとして、記録性能等に関し告示で定める基準に適合する事故情報計測・記録装置を備えなければならない。
+① Motor vehicles used exclusively for passenger transport (excluding two-wheeled vehicles, sidecar-equipped two-wheeled vehicles, three-wheeled vehicles, light vehicles with crawler tracks and sleds, and towed vehicles) and motor vehicles used for freight transport (excluding three-wheeled vehicles and towed vehicles) shall be equipped with an accident data recorder that complies with the standards for recording performance prescribed by ministerial notice, so as to measure and record instantaneous speed and other information in the event of a collision or similar impact.
