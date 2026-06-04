@@ -28,7 +28,7 @@
     const homeView      = document.querySelector("#home");
     const workspaceEls  = [document.querySelector(".layout")];
     const homeLink      = document.querySelector("#home-link");
-    const expanded      = new Set();
+    let openReaderId    = null;
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
 
@@ -246,7 +246,7 @@
       catch { return url; }
     }
 
-    function expandedContent(record) {
+    function readerBodyHtml(record) {
       const sourceHtml = record.source_url
         ? `<a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">${escapeHtml(hostLabel(record.source_url))} ↗</a>`
         : "";
@@ -273,16 +273,39 @@
       `;
     }
 
+    async function openReader(id) {
+      const record = recordById.get(id);
+      if (!record) return;
+      openReaderId = id;
+      if (!bodyCache.has(id)) {
+        try {
+          const data = await fetch(`data/records/${encodeURIComponent(id)}.json`).then((r) => r.json());
+          bodyCache.set(id, data.body_html || "");
+        } catch { bodyCache.set(id, "<p>Failed to load regulation text.</p>"); }
+      }
+      document.querySelector("#reader-title").textContent = record.title || record.id;
+      document.querySelector("#reader-body").innerHTML = readerBodyHtml(record);
+      document.querySelector("#reader").classList.remove("hidden");
+      document.querySelector(".layout").classList.add("reading");
+      render();
+      syncUrl();
+    }
+
+    function closeReader() {
+      openReaderId = null;
+      document.querySelector("#reader").classList.add("hidden");
+      document.querySelector(".layout").classList.remove("reading");
+      render();
+      syncUrl();
+    }
+
     function cardTemplate(record) {
-      const isExpanded = expanded.has(record.id);
       const q = searchInput.value;
-      // Show a status badge only for exception states — "in-force" is the norm
-      // for every record, so badging it conveys nothing.
+      const isActive = record.id === openReaderId;
       const statusBadge = record.status && record.status !== "in-force"
-        ? `<span class="badge ${statusClass(record.status)}">${escapeHtml(displayLabel(record.status))}</span>`
-        : "";
+        ? `<span class="badge ${statusClass(record.status)}">${escapeHtml(displayLabel(record.status))}</span>` : "";
       return `
-        <article class="reg-card${isExpanded ? " is-expanded" : ""}" id="reg-${slug(record.id)}">
+        <article class="reg-card${isActive ? " is-reading" : ""}" id="reg-${slug(record.id)}">
           <div class="card-top">
             <div>
               <h2 class="reg-title">${highlight(record.title || record.id, q)}</h2>
@@ -291,15 +314,13 @@
                 <span class="badge">${escapeHtml(record.citation)}</span>
                 ${statusBadge}
               </div>
-              ${isExpanded ? "" : `<p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>`}
+              <p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>
             </div>
-            <button type="button" class="expand-button" data-expand="${escapeHtml(record.id)}" aria-expanded="${isExpanded}">
-              ${isExpanded ? "Collapse" : "Details"}
+            <button type="button" class="expand-button" data-read="${escapeHtml(record.id)}" aria-expanded="${isActive}">
+              ${isActive ? "Reading" : "Read"}
             </button>
           </div>
-          ${isExpanded ? expandedContent(record) : ""}
-        </article>
-      `;
+        </article>`;
     }
 
     const AVAIL_LABELS = { full: "Full text", paywall: "Paywall", noconn: "No live connection" };
@@ -426,6 +447,7 @@
       const view = new URLSearchParams(window.location.search).get("view");
       if (view === "home") return false;
       if (view === "results") return true;
+      if (new URLSearchParams(window.location.search).get("id")) return true;
       // Otherwise decide from LIVE state — the URL lags behind because syncUrl()
       // is debounced, so reading it here would miss the just-typed query/facet.
       if (searchInput.value.trim()) return true;
@@ -516,6 +538,9 @@
           el.checked = selected.has(el.value);
         });
       });
+      const idParam = params.get("id");
+      if (idParam && recordById.get(idParam)) { openReader(idParam); }
+      else if (!idParam && openReaderId) { closeReader(); }
     }
 
     function syncUrl() {
@@ -533,6 +558,7 @@
         FILTERS.forEach((f) => {
           Array.from(sel[f.key]).forEach((v) => params.append(f.key, v));
         });
+        if (openReaderId) params.set("id", openReaderId);
         const qs = params.toString();
         history.replaceState(null, "", qs ? `${window.location.pathname}?${qs}` : window.location.pathname);
       }, 150);
@@ -576,26 +602,14 @@
       route();
     }));
 
-    cards.addEventListener("click", async (event) => {
-      const btn = event.target.closest("[data-expand]");
+    cards.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-read]");
       if (!btn) return;
-      const id = btn.getAttribute("data-expand");
-      if (expanded.has(id)) {
-        expanded.delete(id);
-      } else {
-        expanded.add(id);
-        if (!bodyCache.has(id)) {
-          try {
-            const data = await fetch(`data/records/${encodeURIComponent(id)}.json`).then((r) => r.json());
-            bodyCache.set(id, data.body_html || "");
-          } catch {
-            bodyCache.set(id, "<p>Failed to load regulation text.</p>");
-          }
-        }
-      }
-      render();
-      document.querySelector(`#reg-${CSS.escape(slug(id))}`)?.scrollIntoView({ block: "nearest" });
+      const id = btn.getAttribute("data-read");
+      if (id === openReaderId) closeReader(); else openReader(id);
     });
+
+    document.querySelector("#reader-close").addEventListener("click", closeReader);
 
     loadMore.addEventListener("click", () => {
       visibleLimit += PAGE_SIZE;

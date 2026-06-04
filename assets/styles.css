@@ -863,3 +863,4 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
   .layout.reading .filters { display: none; }
   .reader { position: fixed; inset: 75px 0 0 0; z-index: 30; border-left: none; }
 }
+.reg-card.is-reading { border-left: 3px solid var(--honda-red); padding-left: 17px; }
