@@ -261,9 +261,11 @@ def summarize(body_html: str) -> str:
 
 SEARCH_BODY_CAP = 20000
 
+
 def _plain_text(body_html: str) -> str:
     plain = bleach.clean(body_html or "", tags=[], strip=True)
     return unescape(re.sub(r"\s+", " ", plain)).strip()
+
 
 def search_text_for(record: dict[str, Any]) -> dict[str, str]:
     parts = [
