@@ -432,6 +432,18 @@
       }
     }
 
+    function goToWorkspace(paramKey, paramValue) {
+      const params = new URLSearchParams();
+      if (paramKey) params.append(paramKey, paramValue);
+      history.replaceState(null, "", `${window.location.pathname}?${params.toString()}`);
+      applyUrlParams();   // sets the facet checkboxes / search box from the URL
+      visibleLimit = PAGE_SIZE;
+      route();            // workspaceActiveFromUrl() is now true -> shows Workspace
+      render();
+      updateClearButton();
+      window.scrollTo(0, 0);
+    }
+
     function applyUrlParams() {
       const params = new URLSearchParams(window.location.search);
       searchInput.value = params.get("q") || "";
@@ -573,6 +585,24 @@
     });
 
     homeView.addEventListener("click", (event) => {
+      const tile = event.target.closest(".dir-tile");
+      if (tile) {
+        goToWorkspace(tile.dataset.dirKey, tile.dataset.dirValue);
+        return;
+      }
+      const browseAll = event.target.closest("[data-browse-all]");
+      if (browseAll) {
+        event.preventDefault();
+        // Mark the workspace in the URL FIRST, then route, so workspaceActiveFromUrl() is true.
+        history.replaceState(null, "", `${window.location.pathname}?view=results`);
+        applyUrlParams();
+        visibleLimit = PAGE_SIZE;
+        route();
+        render();
+        updateClearButton();
+        window.scrollTo(0, 0);
+        return;
+      }
       const sortBtn = event.target.closest("[data-set-sort]");
       if (sortBtn) {
         homeSort[sortBtn.dataset.setSort] = sortBtn.dataset.sort;
