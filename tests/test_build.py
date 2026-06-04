@@ -13,6 +13,7 @@ from scripts.build import (
     load_region_series,
     render_markdown,
     report_line,
+    split_record,
     stringify,
     summarize,
     validate_required,
@@ -188,3 +189,32 @@ class TestLoadRegionSeries:
         mapping = load_region_series()
         for region, entry in mapping.items():
             assert set(entry) == {"series", "name"}, region
+
+
+class TestSplitRecord:
+    FULL = {
+        "id": "us-fmvss-208", "title": "Occupant crash protection",
+        "region": "US", "citation": "49 CFR §571.208", "status": "in-force",
+        "source_url": "https://example.com", "source_api": "ecfr",
+        "last_pulled": "2026-01-01T00:00:00+00:00", "tagging_status": "llm-tagged",
+        "tagged_at": "", "aliases": [], "commodities": ["Airbags"],
+        "systems": ["Crashworthiness"], "vehicle_categories": ["Passenger car"],
+        "un_equivalent": [], "related": [], "tags": [], "paywall": False,
+        "translation_status": "", "summary_text": "A summary.",
+        "body_html": "<p>Long body…</p>",
+    }
+
+    def test_light_omits_body(self):
+        light, body = split_record(self.FULL)
+        assert "body_html" not in light
+        assert body == "<p>Long body…</p>"
+
+    def test_light_keeps_summary_and_tags(self):
+        light, _ = split_record(self.FULL)
+        assert light["summary_text"] == "A summary."
+        assert light["commodities"] == ["Airbags"]
+
+    def test_body_defaults_empty(self):
+        full = dict(self.FULL); del full["body_html"]
+        _, body = split_record(full)
+        assert body == ""

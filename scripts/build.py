@@ -298,6 +298,12 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
     return record, issues
 
 
+def split_record(record: dict[str, Any]) -> tuple[dict[str, Any], str]:
+    """Return (light_entry_without_body, body_html)."""
+    light = {key: value for key, value in record.items() if key != "body_html"}
+    return light, record.get("body_html", "")
+
+
 def warn_for_missing_related(records: list[dict[str, Any]], issues_by_id: dict[str, list[BuildIssue]]) -> None:
     known_ids = {record["id"] for record in records if record.get("id")}
     for record in records:
