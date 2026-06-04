@@ -32,3 +32,6 @@ Thumbs.db
 
 # Playwright MCP scratch (screenshots, snapshots, console logs)
 .playwright-mcp/
+
+# Superpowers brainstorming companion (mockups, server state)
+.superpowers/

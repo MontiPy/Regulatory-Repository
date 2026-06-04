@@ -6,6 +6,50 @@
 
 ---
 
+## UI Redesign — Region → Series Label Mapping
+
+For the Home "Browse by Market" tiles, formatted as `Series (Region)` with long region names.
+Mapping to be stored in `taxonomy.yaml` so it is editable without code changes.
+
+Confirmed from existing connectors/manifests:
+
+| Region | Series | Long name |
+|--------|--------|-----------|
+| US | FMVSS | United States |
+| CA | CMVSS | Canada |
+| KR | KMVSS | South Korea |
+| AU | ADR | Australia |
+| ECE | UN R | UNECE |
+| JP | JVSR | Japan |
+| BR | CONTRAN | Brazil |
+| CN | GB | China |
+| GCC | GSO | Gulf Cooperation Council |
+| IN | AIS | India |
+
+- [ ] **EU series label — DECIDE.** EUR-Lex pulls a mix of EU Regulations and Directives; no single
+  acronym. Candidate labels: `EU` / `EC` / `EU Reg`. Pick one.
+- [ ] **Long-tail region series labels — TBD.** Provide `Series (Region)` for: OTHER, ASEAN, ZA
+  (South Africa), NZ (New Zealand), MX (Mexico), EAEU (Eurasian Economic Union), TW (Taiwan),
+  TR (Türkiye), IL (Israel), AR (Argentina). Many are stubs today; label as the standards body
+  where known (e.g. ZA → NRCS, IN already AIS).
+
+---
+
+## UI Redesign — Data Coverage Tracks (enablers for the new front door)
+
+The redesign is coverage-aware and works at any fill level, but these data tracks make it shine:
+
+- [ ] **Tag the backlog.** 630 of 728 records are `tagging_status: untagged` (only 98 classified
+  by commodity/system). Run the backlog through `scripts/auto_tag.py` so the "Browse by part/system"
+  directory is well-populated. Parallel track — gets its own spec/plan. (Path 1 of the agreed
+  "Path 1 + Path 2 together" approach.)
+- [ ] **Populate `un_equivalent` / `related`.** Currently EMPTY across all 728 records, so the
+  reading pane's "Equivalents & Related" panel renders only when data exists. Building cross-market
+  equivalence mappings (e.g. FMVSS 208 ↔ UN R94 ↔ CMVSS 208) would unlock journey C ("find the
+  equivalent in another market"). Schema + validation already exist in `build.py`. Future data track.
+
+---
+
 ## Manifest Expansion Follow-ups (from 99 → 329 entry expansion)
 
 ### EU — UNECE/UN Regulations (~67 entries missing)
