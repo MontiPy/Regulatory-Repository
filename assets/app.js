@@ -485,6 +485,12 @@
     document.addEventListener("keydown", (event) => {
       const target = event.target;
       const isTyping = target instanceof HTMLInputElement || target instanceof HTMLTextAreaElement || target.isContentEditable;
+      if ((event.key === "k" || event.key === "K") && (event.ctrlKey || event.metaKey)) {
+        event.preventDefault();
+        searchInput.focus();
+        searchInput.select();
+        return;
+      }
       if (event.key === "/" && !isTyping) {
         event.preventDefault();
         searchInput.focus();
@@ -542,7 +548,7 @@
         root.setAttribute("data-theme", t);
         btn.textContent = t === "dark" ? "Light" : "Dark";
       }
-      applyTheme(localStorage.getItem("theme") || systemTheme());
+      applyTheme(localStorage.getItem("theme") || "light");
       btn.addEventListener("click", function () {
         const next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
         localStorage.setItem("theme", next);
