@@ -842,3 +842,8 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
 .more-filters[open] > summary { color: var(--fg-1); }
 .more-filters > div { border-top: 1px solid var(--line-1); }
 .chip-clear-all:hover { color: var(--honda-red); }
+
+.market-group { margin-bottom: 8px; }
+.market-group-head { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--fg-2); margin: 14px 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--line-1); }
+.market-group-count { color: var(--fg-3); font-weight: 400; }
+.market-group .reg-card { margin-bottom: 12px; }

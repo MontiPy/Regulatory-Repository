@@ -328,12 +328,37 @@
       ).join("") + `<button type="button" class="chip-clear-all" id="chip-clear-all">Clear all</button>`;
     }
 
+    function regionGroupLabel(region) {
+      const meta = (TAXONOMY.region_series || {})[region];
+      if (meta && meta.series) return `${meta.name || region} · ${meta.series}`;
+      return (meta && meta.name) || region;
+    }
+
+    function areaSelected() {
+      const sel = readSelections();
+      return sel.systems.size > 0 || sel.commodities.size > 0;
+    }
+
+    function renderGrouped(renderable) {
+      const groups = new Map();
+      renderable.forEach((r) => {
+        if (!groups.has(r.region)) groups.set(r.region, []);
+        groups.get(r.region).push(r);
+      });
+      const order = Array.from(groups.keys()).sort((a, b) => groups.get(b).length - groups.get(a).length);
+      return order.map((region) => {
+        const recs = groups.get(region);
+        return `<div class="market-group"><h3 class="market-group-head">${escapeHtml(regionGroupLabel(region))} <span class="market-group-count">(${recs.length})</span></h3>`
+          + recs.map(cardTemplate).join("") + `</div>`;
+      }).join("");
+    }
+
     function render() {
       const visible    = getVisibleRecords();
       const renderable = visible.slice(0, visibleLimit);
       resultCount.textContent = `Showing ${renderable.length} of ${visible.length}`;
       cards.innerHTML = renderable.length
-        ? renderable.map(cardTemplate).join("")
+        ? (areaSelected() ? renderGrouped(renderable) : renderable.map(cardTemplate).join(""))
         : '<div class="empty-state">No regulations match the current filters.</div>';
       loadMore.classList.toggle("hidden", visible.length <= visibleLimit);
       updateFacetCounts(visible);
