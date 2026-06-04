@@ -849,7 +849,9 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
 .market-group .reg-card { margin-bottom: 12px; }
 
 /* ── Reading pane ──────────────────────────────────────────── */
-.layout.reading { grid-template-columns: 264px minmax(0, 1.3fr) minmax(360px, 1.1fr); }
+/* Filters are display:none while reading, so only main + reader remain as grid
+   items — use TWO columns (a 3rd track would shift main into the narrow slot). */
+.layout.reading { grid-template-columns: minmax(0, 1.5fr) minmax(360px, 1fr); }
 .layout.reading .filters { display: none; }
 .reader { border-left: 1px solid var(--line-1); background: var(--surface); display: flex; flex-direction: column; min-height: calc(100vh - 75px); }
 .reader.hidden { display: none; }
