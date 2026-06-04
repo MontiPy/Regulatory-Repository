@@ -836,4 +836,5 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
 .active-chip .chip-x { display: inline-flex; align-items: center; justify-content: center; width: 16px; height: 16px; border: none; background: none; color: inherit; cursor: pointer; font-size: 14px; line-height: 1; padding: 0; }
 .active-chip .chip-x:hover { color: var(--red-7); }
 .chip-clear-all { background: none; border: none; color: var(--fg-3); cursor: pointer; font-size: 12px; text-decoration: underline; padding: 0 4px; }
+.avail-section { border-bottom: 1px solid var(--line-1); }
 .chip-clear-all:hover { color: var(--honda-red); }

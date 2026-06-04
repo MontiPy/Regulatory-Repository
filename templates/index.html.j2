@@ -28,21 +28,6 @@
       </div>
     </div>
 
-    <div class="view-bar" role="group" aria-label="Content availability">
-      <span class="view-bar-label">Show</span>
-      <label class="avail-option" title="Records with full regulation text from a live source">
-        <input type="checkbox" id="avail-full" data-avail="full" checked>
-        Full text
-      </label>
-      <label class="avail-option" title="Standards requiring purchase or institutional access">
-        <input type="checkbox" id="avail-paywall" data-avail="paywall">
-        Paywall
-      </label>
-      <label class="avail-option" title="Catalog stubs with no live connector yet">
-        <input type="checkbox" id="avail-noconn" data-avail="noconn">
-        No live connection
-      </label>
-    </div>
   </header>
 
   <section id="home" class="home hidden" aria-label="Home">
@@ -73,6 +58,14 @@
     <aside class="filters" aria-label="Filters">
       <div class="filters-inner">
         <button type="button" class="clear-button hidden" id="clear-filters">Clear all filters</button>
+        <details class="avail-section" open>
+          <summary>Availability</summary>
+          <div class="facet-options" id="avail-options">
+            <label class="facet-option"><input type="checkbox" id="avail-full" data-avail="full" checked><span>Full text</span></label>
+            <label class="facet-option"><input type="checkbox" id="avail-paywall" data-avail="paywall"><span>Paywall</span></label>
+            <label class="facet-option"><input type="checkbox" id="avail-noconn" data-avail="noconn"><span>No live connection</span></label>
+          </div>
+        </details>
         <form id="filters-form"></form>
       </div>
     </aside>

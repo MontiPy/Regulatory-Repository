@@ -25,7 +25,7 @@
     const copyLink      = document.querySelector("#copy-link");
     const availBoxes    = Array.from(document.querySelectorAll("[data-avail]"));
     const homeView      = document.querySelector("#home");
-    const workspaceEls  = [document.querySelector(".layout"), document.querySelector(".view-bar")];
+    const workspaceEls  = [document.querySelector(".layout")];
     const homeLink      = document.querySelector("#home-link");
     const expanded      = new Set();
     let visibleLimit    = PAGE_SIZE;
