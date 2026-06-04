@@ -1,0 +1,802 @@
+    /* ── Honda Design Tokens ───────────────────────────────────── */
+    :root {
+      --honda-red:   #CC0000;
+      --red-7:       #960000;
+      --red-0:       #FFF0F0;
+
+      --gray-0:  #EAEBEC;
+      --gray-1:  #E4E5E6;
+      --gray-2:  #D7D8DA;
+      --gray-3:  #C8C9CC;
+      --gray-4:  #AAABAE;
+      --gray-5:  #8C8D91;
+      --gray-6:  #6E6F74;
+      --gray-7:  #505156;
+      --gray-8:  #35363B;
+      --gray-9:  #232429;
+
+      --white: #FFFFFF;
+
+      /* Semantic — light mode */
+      --fg-1: var(--gray-9);
+      --fg-2: var(--gray-7);
+      --fg-3: var(--gray-5);
+      --fg-inv: var(--white);
+
+      --bg-1: var(--white);
+      --bg-2: #F7F7F8;
+      --bg-3: var(--gray-0);
+      --surface: var(--white);
+      --sidebar: #FAFAFA;
+
+      --line-1: var(--gray-2);
+      --line-2: var(--gray-4);
+
+      /* Status semantics — muted, Honda-appropriate */
+      --ok:     #24724D;
+      --ok-bg:  #E4F2EC;
+      --warn:   #7A5200;
+      --warn-bg:#FFF0D0;
+      --danger: #9F2D20;
+      --danger-bg: #FAEAE8;
+
+      --font-sans: 'Noto Sans JP', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      --font-mono: 'SFMono-Regular', Menlo, Consolas, monospace;
+
+      --shadow-1: 0 1px 2px rgba(35,36,41,0.06), 0 1px 1px rgba(35,36,41,0.04);
+      --shadow-2: 0 4px 12px rgba(35,36,41,0.08), 0 2px 4px rgba(35,36,41,0.04);
+
+      --filter-active-bg: var(--red-0);
+
+      --dur: 0.25s;
+      --ease: cubic-bezier(0.4, 0.0, 0.2, 1);
+    }
+
+    /* ── Dark mode ─────────────────────────────────────────────── */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --filter-active-bg: rgba(204,0,0,0.08);
+        --fg-1: #E8E9EA;
+        --fg-2: var(--gray-3);
+        --fg-3: var(--gray-5);
+
+        --bg-1: var(--gray-9);
+        --bg-2: var(--gray-8);
+        --bg-3: #2A2B30;
+        --surface: #2A2B30;
+        --sidebar: var(--gray-9);
+
+        --line-1: var(--gray-8);
+        --line-2: var(--gray-7);
+
+        --ok-bg:     rgba(36,114,77,0.25);
+        --warn-bg:   rgba(122,82,0,0.25);
+        --danger-bg: rgba(159,45,32,0.25);
+        --ok:        #55C98A;
+        --warn:      #F0B340;
+        --danger:    #F07065;
+      }
+    }
+
+    html[data-theme="dark"] {
+      --filter-active-bg: rgba(204,0,0,0.08);
+      --fg-1: #E8E9EA; --fg-2: #C8C9CC; --fg-3: #8C8D91;
+      --bg-1: #232429; --bg-2: #35363B; --bg-3: #2A2B30;
+      --surface: #2A2B30; --sidebar: #232429;
+      --line-1: #35363B; --line-2: #505156;
+      --ok-bg: rgba(36,114,77,0.25); --warn-bg: rgba(122,82,0,0.25); --danger-bg: rgba(159,45,32,0.25);
+      --ok: #55C98A; --warn: #F0B340; --danger: #F07065;
+    }
+    html[data-theme="light"] {
+      --filter-active-bg: var(--red-0);
+      --fg-1: #232429; --fg-2: #505156; --fg-3: #8C8D91;
+      --bg-1: #FFFFFF; --bg-2: #F7F7F8; --bg-3: #EAEBEC;
+      --surface: #FFFFFF; --sidebar: #FAFAFA;
+      --line-1: #D7D8DA; --line-2: #AAABAE;
+      --ok: #24724D; --ok-bg: #E4F2EC; --warn: #7A5200; --warn-bg: #FFF0D0;
+      --danger: #9F2D20; --danger-bg: #FAEAE8;
+    }
+
+    /* ── Reset ─────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      background: var(--bg-1);
+      color: var(--fg-1);
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    a {
+      color: var(--honda-red);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color var(--dur) var(--ease);
+    }
+    a:hover { border-bottom-color: var(--honda-red); }
+
+    mark {
+      background: #FFF3CD;
+      color: inherit;
+      padding: 0 1px;
+    }
+    @media (prefers-color-scheme: dark) { mark { background: #4A3800; } }
+    html[data-theme="dark"] mark { background: #4A3800; }
+    html[data-theme="light"] mark { background: #FFF3CD; }
+
+    button, input[type="search"], input[type="checkbox"] { font: inherit; }
+
+    button:focus-visible,
+    input:focus-visible,
+    summary:focus-visible,
+    a:focus-visible {
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(204,0,0,0.30);
+    }
+
+    /* ── Site Header ───────────────────────────────────────────── */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: var(--bg-1);
+      border-bottom: 1px solid var(--line-1);
+      box-shadow: var(--shadow-1);
+    }
+
+    /* Honda signature: 3px red top bar */
+    .site-header::before {
+      content: "";
+      display: block;
+      height: 3px;
+      background: var(--honda-red);
+    }
+
+    .header-inner {
+      display: grid;
+      grid-template-columns: minmax(200px, auto) minmax(280px, 540px) auto;
+      gap: 24px;
+      align-items: center;
+      padding: 14px 28px;
+    }
+
+    .header-brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      border-left: 3px solid var(--honda-red);
+      padding-left: 12px;
+    }
+
+    .header-title {
+      font-size: 14px;
+      font-weight: 900;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--fg-1);
+      white-space: nowrap;
+    }
+
+    .search-wrap { display: block; }
+
+    .header-actions { display: flex; gap: 8px; align-items: center; flex-shrink: 0; }
+
+    #search {
+      width: 100%;
+      height: 44px;
+      padding: 9px 12px;
+      border: 1.5px solid var(--line-1);
+      border-radius: 0;
+      background: var(--bg-2);
+      color: var(--fg-1);
+      font-size: 14px;
+      transition: border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
+    }
+    #search:hover { border-color: var(--gray-4); }
+    #search:focus {
+      outline: none;
+      border-color: var(--honda-red);
+      box-shadow: 0 0 0 3px rgba(204,0,0,0.15);
+      background: var(--surface);
+    }
+
+    /* header utility buttons — ghost style */
+    .btn-util {
+      height: 32px;
+      padding: 0 12px;
+      border: 1px solid var(--line-1);
+      border-radius: 0;
+      background: transparent;
+      color: var(--fg-3);
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease);
+    }
+    .btn-util:hover { border-color: var(--honda-red); color: var(--honda-red); }
+
+    /* ── Content-availability bar (its own header strip) ───────── */
+    .view-bar {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 18px;
+      padding: 9px 28px;
+      border-top: 1px solid var(--line-1);
+      background: var(--bg-2);
+    }
+    .view-bar-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--fg-3);
+    }
+    .avail-option {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--fg-1);
+      user-select: none;
+    }
+    .avail-option input {
+      width: 14px; height: 14px;
+      accent-color: var(--honda-red);
+      cursor: pointer;
+      margin: 0;
+    }
+
+    /* ── Layout ────────────────────────────────────────────────── */
+    .layout {
+      display: grid;
+      grid-template-columns: 264px minmax(0, 1fr);
+      min-height: calc(100vh - 75px);
+    }
+
+    /* ── Filter sidebar ────────────────────────────────────────── */
+    .filters {
+      border-right: 1px solid var(--line-1);
+      background: var(--sidebar);
+      padding: 20px 0 32px;
+    }
+
+    .filters-inner {
+      position: sticky;
+      top: 78px;
+      display: grid;
+      gap: 0;
+      max-height: calc(100vh - 100px);
+      overflow: auto;
+    }
+
+    .clear-button {
+      height: 36px;
+      margin: 0 16px 8px;
+      border: 1px solid var(--honda-red);
+      border-radius: 0;
+      background: transparent;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+    }
+    .clear-button:hover { background: var(--honda-red); color: var(--white); }
+
+    /* filter section — borderless details */
+    details {
+      border: none;
+      border-bottom: 1px solid var(--line-1);
+      background: transparent;
+    }
+
+    summary {
+      cursor: pointer;
+      padding: 12px 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--fg-2);
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      user-select: none;
+      transition: color var(--dur) var(--ease);
+    }
+    summary::-webkit-details-marker { display: none; }
+    summary:hover { color: var(--fg-1); }
+
+    /* Red-tick motif on every filter section header */
+    summary::before {
+      content: "";
+      width: 4px;
+      height: 14px;
+      background: var(--honda-red);
+      flex-shrink: 0;
+    }
+
+    /* chevron */
+    summary::after {
+      content: "";
+      margin-left: auto;
+      width: 7px;
+      height: 7px;
+      border-right: 1.5px solid var(--fg-3);
+      border-bottom: 1.5px solid var(--fg-3);
+      transform: rotate(45deg) translateY(-2px);
+      transition: transform var(--dur) var(--ease);
+    }
+    details[open] { background: var(--filter-active-bg); }
+    details[open] summary::after { transform: rotate(-135deg) translateY(-2px); }
+
+    .facet-options {
+      display: grid;
+      gap: 1px;
+      padding: 4px 0 12px;
+    }
+
+    .facet-option {
+      display: grid;
+      grid-template-columns: 16px minmax(0, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+      padding: 5px 16px;
+      color: var(--fg-1);
+      font-size: 13px;
+      cursor: pointer;
+      transition: background var(--dur) var(--ease);
+    }
+    .facet-option:hover { background: var(--bg-3); }
+    .facet-option.empty { opacity: 0.38; }
+    /* When collapsed, options with no matches in the current view are hidden. */
+    .facet-options.collapsed .facet-option.empty { display: none; }
+
+    .facet-more {
+      display: none;
+      margin: -4px 16px 12px;
+      padding: 0;
+      border: none;
+      background: none;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      text-align: left;
+    }
+    .facet-more.visible { display: block; }
+    .facet-more:hover { text-decoration: underline; }
+
+    /* custom checkbox */
+    .facet-option input[type="checkbox"] {
+      appearance: none;
+      -webkit-appearance: none;
+      width: 14px;
+      height: 14px;
+      border: 1.5px solid var(--gray-4);
+      border-radius: 0;
+      background: var(--surface);
+      cursor: pointer;
+      position: relative;
+      flex-shrink: 0;
+      transition: border-color var(--dur) var(--ease), background var(--dur) var(--ease);
+    }
+    .facet-option input[type="checkbox"]:checked {
+      background: var(--honda-red);
+      border-color: var(--honda-red);
+    }
+    .facet-option input[type="checkbox"]:checked::after {
+      content: "";
+      position: absolute;
+      left: 3px; top: 0px;
+      width: 5px; height: 9px;
+      border-right: 2px solid var(--white);
+      border-bottom: 2px solid var(--white);
+      transform: rotate(40deg);
+    }
+
+    .facet-count {
+      color: var(--fg-3);
+      font-size: 11px;
+      font-variant-numeric: tabular-nums;
+      min-width: 1.8em;
+      text-align: right;
+    }
+
+    /* ── Main content ──────────────────────────────────────────── */
+    main { padding: 24px 28px 48px; }
+
+    #result-count {
+      margin: 0 0 16px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--fg-3);
+    }
+
+    .cards { display: grid; gap: 12px; }
+
+    /* ── Regulation card ───────────────────────────────────────── */
+    .reg-card {
+      border: 1px solid var(--line-1);
+      border-radius: 0;
+      background: var(--surface);
+      padding: 18px 20px;
+      transition: border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease), transform var(--dur) var(--ease);
+      position: relative;
+    }
+    .reg-card:hover {
+      border-color: var(--gray-4);
+      box-shadow: 0 4px 16px rgba(35,36,41,0.10), 0 2px 4px rgba(35,36,41,0.06);
+      transform: translateY(-1px);
+    }
+
+    /* Red left accent on expanded cards */
+    .reg-card.is-expanded {
+      border-left: 3px solid var(--honda-red);
+      padding-left: 17px;
+    }
+
+    .card-top {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 16px;
+      align-items: start;
+    }
+
+    .reg-title {
+      margin: 0 0 10px;
+      font-size: 16px;
+      font-weight: 900;
+      line-height: 1.3;
+      color: var(--fg-1);
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-bottom: 10px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      height: 20px;
+      padding: 0 7px;
+      border-radius: 0;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      background: var(--bg-3);
+      color: var(--fg-2);
+      line-height: 1;
+    }
+
+    .badge.region {
+      background: transparent;
+      color: var(--honda-red);
+      border: 1px solid rgba(204,0,0,0.30);
+    }
+    .badge.status-in-force   { background: var(--ok-bg);     color: var(--ok);     }
+    .badge.status-proposed   { background: var(--warn-bg);   color: var(--warn);   }
+    .badge.status-withdrawn,
+    .badge.status-superseded { background: var(--danger-bg); color: var(--danger); }
+    .badge.untagged {
+      background: transparent;
+      color: var(--fg-3);
+      border: 1px solid var(--line-1);
+    }
+
+    .summary {
+      margin: 0;
+      font-size: 14px;
+      color: var(--fg-2);
+      line-height: 1.55;
+    }
+
+    /* Expand button — Honda square primary style */
+    .expand-button {
+      flex-shrink: 0;
+      height: 30px;
+      padding: 0 14px;
+      border: 1px solid var(--honda-red);
+      border-radius: 0;
+      background: transparent;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      white-space: nowrap;
+      transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+    }
+    .expand-button:hover,
+    .expand-button[aria-expanded="true"] {
+      background: var(--honda-red);
+      color: var(--white);
+    }
+
+    /* ── Stub / paywall banner ─────────────────────────────────── */
+    .stub-banner {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      padding: 10px 14px;
+      border-radius: 4px;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .stub-banner.no-paywall {
+      background: var(--warn-bg);
+      color: var(--warn);
+      border-left: 3px solid var(--warn);
+    }
+    .stub-banner.paywalled {
+      background: var(--danger-bg);
+      color: var(--danger);
+      border-left: 3px solid var(--danger);
+    }
+    .stub-banner-icon { font-size: 15px; flex-shrink: 0; margin-top: 1px; }
+    .stub-banner a { color: inherit; text-decoration: underline; }
+
+    /* ── Expanded detail ───────────────────────────────────────── */
+    .expanded {
+      display: grid;
+      gap: 16px;
+      margin-top: 18px;
+      border-top: 1px solid var(--line-1);
+      padding-top: 18px;
+    }
+
+    /* Body text + metadata sit side by side on wide screens. */
+    .expanded-cols { display: grid; gap: 24px; grid-template-columns: minmax(0, 1fr); }
+    @media (min-width: 1100px) {
+      .expanded-cols { grid-template-columns: minmax(0, 1.9fr) minmax(260px, 1fr); align-items: start; }
+    }
+    .meta-panel {
+      background: var(--bg-2);
+      border: 1px solid var(--line-1);
+      padding: 16px;
+    }
+    .meta-panel .meta-grid { grid-template-columns: 1fr; }
+
+    .body-html {
+      max-height: 560px;
+      overflow-y: auto;
+      overflow-x: auto;
+      font-size: 14px;
+      color: var(--fg-1);
+      min-width: 0;
+    }
+    .body-html table { width: 100%; border-collapse: collapse; }
+    .body-html th,
+    .body-html td {
+      border: 1px solid var(--line-1);
+      padding: 8px 10px;
+      text-align: left;
+      vertical-align: top;
+      font-size: 13px;
+    }
+    .body-html th {
+      background: var(--bg-2);
+      font-weight: 700;
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--fg-2);
+    }
+
+    .meta-section-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--fg-3);
+      margin: 0 0 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .meta-section-label::before {
+      content: "";
+      width: 3px;
+      height: 12px;
+      background: var(--honda-red);
+      flex-shrink: 0;
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px 16px;
+    }
+
+    .meta-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      min-width: 0;
+    }
+    .meta-item span,
+    .meta-item a { overflow-wrap: anywhere; }
+
+    .meta-item strong {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      color: var(--fg-3);
+    }
+
+    .meta-item span,
+    .meta-item a {
+      font-size: 13px;
+      color: var(--fg-1);
+    }
+
+    .chips { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 2px; }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      height: 22px;
+      padding: 0 8px;
+      border-radius: 0;
+      background: var(--bg-3);
+      color: var(--fg-2);
+      font-size: 12px;
+      font-weight: 500;
+      border: 1px solid var(--line-1);
+    }
+    a.chip { color: var(--honda-red); }
+    a.chip:hover { background: var(--red-0); border-color: rgba(204,0,0,0.30); }
+
+    /* ── Load more ─────────────────────────────────────────────── */
+    .load-more {
+      display: block;
+      height: 38px;
+      margin: 20px auto 0;
+      padding: 0 24px;
+      border: 1px solid var(--honda-red);
+      border-radius: 0;
+      background: transparent;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+    }
+    .load-more:hover { background: var(--honda-red); color: var(--white); }
+
+    /* ── Empty state ───────────────────────────────────────────── */
+    .empty-state {
+      border: 1px dashed var(--line-2);
+      background: var(--bg-2);
+      color: var(--fg-3);
+      padding: 36px 24px;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    /* ── Footer ────────────────────────────────────────────────── */
+    .site-footer {
+      background: var(--bg-3);
+      color: var(--fg-2);
+      font-size: 12px;
+      letter-spacing: 0.06em;
+      padding: 18px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid var(--line-1);
+    }
+
+    html[data-theme="light"] .site-footer { background: var(--bg-3); color: var(--fg-2); }
+    html[data-theme="dark"] .site-footer  { background: #17181C; color: var(--gray-5); }
+    @media (prefers-color-scheme: dark) { .site-footer { background: #17181C; color: var(--gray-5); } }
+
+    /* ── Filter info icon ─────────────────────────────────────── */
+    .filter-info {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 14px;
+      height: 14px;
+      border: 1px solid var(--gray-4);
+      border-radius: 50%;
+      font-size: 9px;
+      font-weight: 700;
+      font-style: italic;
+      color: var(--fg-3);
+      cursor: default;
+      flex-shrink: 0;
+      line-height: 1;
+      transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease);
+    }
+    .filter-info:hover { border-color: var(--honda-red); color: var(--honda-red); }
+
+    /* ── Global tooltip ────────────────────────────────────────── */
+    #tip {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      background: var(--gray-9);
+      color: var(--white);
+      font-size: 12px;
+      font-weight: 400;
+      letter-spacing: 0;
+      text-transform: none;
+      line-height: 1.5;
+      padding: 8px 12px;
+      max-width: 220px;
+      pointer-events: none;
+      border-left: 3px solid var(--honda-red);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+    }
+
+    .hidden { display: none !important; }
+
+    /* ── Filters toggle (mobile only) ──────────────────────────── */
+    .filters-toggle {
+      display: none;
+      height: 38px;
+      margin: 0 0 16px;
+      padding: 0 16px;
+      border: 1px solid var(--honda-red);
+      border-radius: 0;
+      background: transparent;
+      color: var(--honda-red);
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .filters-toggle:hover { background: var(--honda-red); color: var(--white); }
+
+    /* ── Responsive ────────────────────────────────────────────── */
+    @media (max-width: 860px) {
+      .header-inner {
+        grid-template-columns: 1fr auto;
+        grid-template-rows: auto auto;
+        gap: 10px;
+        padding: 12px 16px;
+      }
+      .header-actions { grid-column: 2; grid-row: 1; }
+      .search-wrap    { grid-column: 1 / -1; grid-row: 2; }
+      /* keep the brand from crowding the action buttons off-screen */
+      .header-title { font-size: 12px; letter-spacing: 0.08em; overflow: hidden; text-overflow: ellipsis; }
+      .header-brand { min-width: 0; }
+
+      .view-bar { padding: 9px 16px; gap: 14px; }
+
+      .layout { grid-template-columns: 1fr; }
+      .filters-toggle { display: block; }
+      /* Filters live behind the toggle on mobile instead of stacking above results. */
+      .filters { display: none; border-right: none; border-bottom: 1px solid var(--line-1); padding: 12px 0; }
+      .filters.is-open { display: block; }
+      .filters-inner { position: static; max-height: none; }
+      .card-top { grid-template-columns: 1fr; }
+      .expand-button { justify-self: start; }
+
+      main { padding: 16px; }
+    }

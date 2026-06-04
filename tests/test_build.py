@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.build import (
     BuildIssue,
     as_list,
+    copy_static_assets,
     load_region_series,
     render_markdown,
     report_line,
@@ -280,3 +281,12 @@ class TestBundleWriters:
         data = json.loads((tmp_path / "data" / "search-text.json").read_text(encoding="utf-8"))
         assert data[0]["id"] == "a"
         assert "body a" in data[0]["text"]
+
+
+class TestCopyAssets:
+    @pytest.mark.xfail(reason="assets app.js and vendor land in later tasks")
+    def test_copies_css_and_js(self, tmp_path):
+        copy_static_assets(tmp_path)
+        assert (tmp_path / "assets" / "styles.css").exists()
+        assert (tmp_path / "assets" / "app.js").exists()
+        assert (tmp_path / "assets" / "vendor" / "minisearch.min.js").exists()

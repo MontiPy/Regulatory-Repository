@@ -4,6 +4,7 @@ import argparse
 import json
 import platform
 import re
+import shutil
 import subprocess
 import sys
 from collections import Counter
@@ -18,6 +19,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 
 ROOT = Path(__file__).resolve().parents[1]
+ASSETS_DIR = ROOT / "assets"
 REGULATIONS_DIR = ROOT / "regulations"
 TEMPLATES_DIR = ROOT / "templates"
 DIST_DIR = ROOT / "dist"
@@ -286,6 +288,13 @@ def _ensure_data_dir(dist_dir: Path) -> Path:
     data_dir = dist_dir / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
     return data_dir
+
+
+def copy_static_assets(dist_dir: Path) -> None:
+    dest = dist_dir / "assets"
+    if dest.exists():
+        shutil.rmtree(dest)
+    shutil.copytree(ASSETS_DIR, dest)
 
 
 def write_index_json(records: list[dict[str, Any]], dist_dir: Path) -> None:
