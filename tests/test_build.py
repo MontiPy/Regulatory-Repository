@@ -1,6 +1,7 @@
 """Tests for scripts/build.py — markdown rendering, summarization, and validation."""
 from __future__ import annotations
 
+import json
 import sys
 from pathlib import Path
 
@@ -19,6 +20,10 @@ from scripts.build import (
     summarize,
     validate_required,
     validate_un_equivalent,
+    write_index_json,
+    write_record_bodies,
+    write_taxonomy_json,
+    write_search_text,
 )
 
 
@@ -239,3 +244,39 @@ class TestSearchTextFor:
                "summary_text": "", "body_html": "<p>" + "x" * 50000 + "</p>"}
         blob = search_text_for(rec)
         assert len(blob["text"]) <= 20100  # 20k body cap + small header fields
+
+
+class TestBundleWriters:
+    RECORDS = [
+        {"id": "a", "title": "A", "region": "US", "citation": "c", "status": "in-force",
+         "source_url": "", "source_api": "ecfr", "last_pulled": "", "tagging_status": "untagged",
+         "tagged_at": "", "aliases": [], "commodities": [], "systems": [],
+         "vehicle_categories": [], "un_equivalent": [], "related": [], "tags": [],
+         "paywall": False, "translation_status": "", "summary_text": "sa",
+         "body_html": "<p>body a</p>"},
+    ]
+
+    def test_index_json_has_no_bodies(self, tmp_path):
+        write_index_json(self.RECORDS, tmp_path)
+        data = json.loads((tmp_path / "data" / "index.json").read_text(encoding="utf-8"))
+        assert data[0]["id"] == "a"
+        assert "body_html" not in data[0]
+        assert data[0]["summary_text"] == "sa"
+
+    def test_record_bodies_one_file_each(self, tmp_path):
+        write_record_bodies(self.RECORDS, tmp_path)
+        body = json.loads((tmp_path / "data" / "records" / "a.json").read_text(encoding="utf-8"))
+        assert body["id"] == "a"
+        assert body["body_html"] == "<p>body a</p>"
+
+    def test_taxonomy_json_includes_region_series(self, tmp_path):
+        write_taxonomy_json({"regions": ["US"]}, {"US": {"series": "FMVSS", "name": "United States"}}, tmp_path)
+        data = json.loads((tmp_path / "data" / "taxonomy.json").read_text(encoding="utf-8"))
+        assert data["regions"] == ["US"]
+        assert data["region_series"]["US"]["series"] == "FMVSS"
+
+    def test_search_text_one_entry_each(self, tmp_path):
+        write_search_text(self.RECORDS, tmp_path)
+        data = json.loads((tmp_path / "data" / "search-text.json").read_text(encoding="utf-8"))
+        assert data[0]["id"] == "a"
+        assert "body a" in data[0]["text"]

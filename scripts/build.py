@@ -282,6 +282,55 @@ def search_text_for(record: dict[str, Any]) -> dict[str, str]:
     return {"id": stringify(record.get("id")), "text": " ".join(p for p in parts if p)}
 
 
+def _ensure_data_dir(dist_dir: Path) -> Path:
+    data_dir = dist_dir / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    return data_dir
+
+
+def write_index_json(records: list[dict[str, Any]], dist_dir: Path) -> None:
+    light = [split_record(r)[0] for r in records]
+    data_dir = _ensure_data_dir(dist_dir)
+    (data_dir / "index.json").write_text(
+        json.dumps(light, ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def write_record_bodies(records: list[dict[str, Any]], dist_dir: Path) -> None:
+    records_dir = _ensure_data_dir(dist_dir) / "records"
+    records_dir.mkdir(parents=True, exist_ok=True)
+    for record in records:
+        rec_id = stringify(record.get("id"))
+        if not rec_id:
+            continue
+        _light, body = split_record(record)
+        (records_dir / f"{rec_id}.json").write_text(
+            json.dumps({"id": rec_id, "body_html": body}, ensure_ascii=False),
+            encoding="utf-8",
+        )
+
+
+def write_taxonomy_json(
+    taxonomy: dict[str, list[str]],
+    region_series: dict[str, dict[str, str]],
+    dist_dir: Path,
+) -> None:
+    payload = dict(taxonomy)
+    payload["region_series"] = region_series
+    data_dir = _ensure_data_dir(dist_dir)
+    (data_dir / "taxonomy.json").write_text(
+        json.dumps(payload, ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def write_search_text(records: list[dict[str, Any]], dist_dir: Path) -> None:
+    blobs = [search_text_for(r) for r in records]
+    data_dir = _ensure_data_dir(dist_dir)
+    (data_dir / "search-text.json").write_text(
+        json.dumps(blobs, ensure_ascii=False), encoding="utf-8"
+    )
+
+
 def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) -> tuple[dict[str, Any], list[BuildIssue]]:
     import frontmatter
 
