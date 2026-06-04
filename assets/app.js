@@ -512,8 +512,9 @@
       filtersForm.querySelectorAll("input[type='checkbox']").forEach((el) => { el.checked = false; });
       availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
       visibleLimit = PAGE_SIZE;
-      route();
+      render();
       updateClearButton();
+      route();
     });
 
     document.addEventListener("keydown", (event) => {
