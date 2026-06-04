@@ -31,6 +31,17 @@
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
 
+    const homeSort    = { systems: "az", commodities: "az", region: "count" };
+    const homeShowAll = { systems: false, commodities: false, region: false };
+    const HOME_TOP_N  = 14;
+
+    function marketTileLabel(region) {
+      const meta = (TAXONOMY.region_series || {})[region];
+      if (meta && meta.series) return `${meta.series} (${meta.name || region})`;
+      if (meta && meta.name) return meta.name;
+      return region;
+    }
+
     // Corpus-wide value counts (over ALL records, independent of filters) used to
     // decide which facet options/sections are worth rendering.
     let CORPUS_COUNTS = {};
@@ -375,7 +386,51 @@
       if (!onWorkspace) renderHome();
     }
 
-    function renderHome() { /* populated in Phase 2 Task 4 */ }
+    function renderHome() {
+      const total = REGS.length;
+      const tagged = (CORPUS_COUNTS.tagging_status && CORPUS_COUNTS.tagging_status["llm-tagged"]) || 0;
+      const untagged = (CORPUS_COUNTS.tagging_status && CORPUS_COUNTS.tagging_status["untagged"]) || 0;
+      const cov = document.querySelector("#coverage-line");
+      cov.innerHTML = `${tagged} of ${total} classified by part &amp; system · `
+        + `<a href="?view=results" data-browse-all>browse all ${total} by market</a>`
+        + (untagged ? ` · ${untagged} untagged` : "");
+
+      renderDirPanel("systems", (v) => displayLabel(v));
+      renderDirPanel("commodities", (v) => displayLabel(v));
+      renderDirPanel("region", (v) => marketTileLabel(v));
+    }
+
+    function renderDirPanel(key, labelFn) {
+      const counts = CORPUS_COUNTS[key] || {};
+      let values = Object.keys(counts).filter((v) => counts[v] > 0);
+      if (homeSort[key] === "az") {
+        values.sort((a, b) => labelFn(a).localeCompare(labelFn(b)));
+      } else {
+        values.sort((a, b) => counts[b] - counts[a]);
+      }
+      const showAll = homeShowAll[key];
+      const shown = showAll ? values : values.slice(0, HOME_TOP_N);
+      const tiles = shown.map((v) =>
+        `<button type="button" class="dir-tile" data-dir-key="${escapeHtml(key)}" data-dir-value="${escapeHtml(v)}">`
+        + `<span>${escapeHtml(labelFn(v))}</span><span class="dir-count">${counts[v]}</span></button>`
+      ).join("");
+      document.querySelector(`[data-tiles="${key}"]`).innerHTML = tiles;
+
+      const sortEl = document.querySelector(`[data-sort-for="${key}"]`);
+      const az = homeSort[key] === "az";
+      sortEl.innerHTML = `Sort: `
+        + `<button data-set-sort="${key}" data-sort="az" class="${az ? "active" : ""}">A–Z</button> | `
+        + `<button data-set-sort="${key}" data-sort="count" class="${az ? "" : "active"}">Count</button>`;
+
+      const moreBtn = document.querySelector(`[data-more-for="${key}"]`);
+      const hidden = values.length - shown.length;
+      if (hidden > 0 || showAll) {
+        moreBtn.classList.remove("hidden");
+        moreBtn.textContent = showAll ? "Show fewer" : `Show all (${hidden} more)`;
+      } else {
+        moreBtn.classList.add("hidden");
+      }
+    }
 
     function applyUrlParams() {
       const params = new URLSearchParams(window.location.search);
