@@ -14,6 +14,7 @@ from scripts.build import (
     copy_static_assets,
     load_region_series,
     render_markdown,
+    render_shell,
     report_line,
     search_text_for,
     split_record,
@@ -284,9 +285,19 @@ class TestBundleWriters:
 
 
 class TestCopyAssets:
-    @pytest.mark.xfail(reason="assets app.js and vendor land in later tasks")
     def test_copies_css_and_js(self, tmp_path):
         copy_static_assets(tmp_path)
         assert (tmp_path / "assets" / "styles.css").exists()
         assert (tmp_path / "assets" / "app.js").exists()
         assert (tmp_path / "assets" / "vendor" / "minisearch.min.js").exists()
+
+
+class TestRenderShell:
+    def test_shell_has_no_embedded_records(self, tmp_path):
+        meta = {"timestamp": "t", "count": 1, "region_counts": {"US": 1}, "tagging_status_counts": {}}
+        render_shell(meta, tmp_path)
+        html = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert "records_json" not in html
+        assert 'src="assets/app.js"' in html
+        assert 'href="assets/styles.css"' in html
+        assert "1 regulations" in html

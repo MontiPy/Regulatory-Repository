@@ -405,30 +405,15 @@ def report_line(record: dict[str, Any], issues: list[BuildIssue]) -> str:
     return f"{status} {label} - {detail}"
 
 
-def render_index(records: list[dict[str, Any]], taxonomy: dict[str, list[str]]) -> None:
-    records_json = json.dumps(records, ensure_ascii=False).replace("</", "<\\/")
-    taxonomy_json = json.dumps(taxonomy, ensure_ascii=False).replace("</", "<\\/")
-    region_counts = dict(Counter(record["region"] for record in records if record.get("region")))
-    tagging_status_counts = dict(Counter(record["tagging_status"] for record in records if record.get("tagging_status")))
-    build_meta = {
-        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "count": len(records),
-        "region_counts": region_counts,
-        "tagging_status_counts": tagging_status_counts,
-    }
-
+def render_shell(build_meta: dict[str, Any], dist_dir: Path) -> None:
     env = Environment(
         loader=FileSystemLoader(TEMPLATES_DIR),
         autoescape=select_autoescape(["html", "xml"]),
     )
     template = env.get_template("index.html.j2")
-    html = template.render(
-        records_json=records_json,
-        taxonomy=taxonomy_json,
-        build_meta=build_meta,
-    )
-    DIST_DIR.mkdir(parents=True, exist_ok=True)
-    (DIST_DIR / "index.html").write_text(html, encoding="utf-8")
+    html = template.render(build_meta=build_meta)
+    dist_dir.mkdir(parents=True, exist_ok=True)
+    (dist_dir / "index.html").write_text(html, encoding="utf-8")
 
 
 def _list_md_files(directory: Path) -> list[Path]:
