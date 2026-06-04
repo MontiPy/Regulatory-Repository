@@ -627,11 +627,12 @@
     clearFilters.addEventListener("click", () => {
       searchInput.value = "";
       filtersForm.querySelectorAll("input[type='checkbox']").forEach((el) => { el.checked = false; });
+      availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
       visibleLimit = PAGE_SIZE;
       render();
       syncUrl();
       updateClearButton();
-      route();
+      route();   // all cleared -> Home, which also dismisses any open reader
       searchInput.focus();
     });
 
