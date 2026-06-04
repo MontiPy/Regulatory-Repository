@@ -1,13 +1,18 @@
 ---
 citation: 49 CFR Part 533
+commodities: []
 id: us-cfr-part-533
 last_pulled: '2026-06-01T18:43:18+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-533
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: PART 533—LIGHT TRUCK FUEL ECONOMY STANDARDS
+vehicle_categories:
+- Light truck
 ---
 
 ## PART 533—LIGHT TRUCK FUEL ECONOMY STANDARDS

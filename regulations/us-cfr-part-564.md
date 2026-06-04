@@ -1,13 +1,19 @@
 ---
 citation: 49 CFR Part 564
+commodities:
+- Lighting modules
 id: us-cfr-part-564
 last_pulled: '2026-06-01T18:44:11+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-564
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 564—REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION
+vehicle_categories: []
 ---
 
 ## PART 564—REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION

@@ -1,14 +1,31 @@
 ---
 citation: SRRV / TRIAS / UN R136
+commodities:
+- Batteries
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Connectors
+- Charging inlet
+- Power electronics
+- Wiring
 id: jp-srrv-electric-vehicle-rechargeable-energy-storage-system
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+- Fuel safety
+- EV charging
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Electric Vehicle Rechargeable Energy Storage System
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Electric Vehicle Rechargeable Energy Storage System

@@ -1,14 +1,27 @@
 ---
 citation: 49 CFR §571.303
+commodities:
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Connectors
 id: us-fmvss-303
 last_pulled: '2026-06-01T18:41:59+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.303
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.303 Standard No. 303; Fuel system integrity of compressed natural gas
   vehicles.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## § 571.303 Standard No. 303; Fuel system integrity of compressed natural gas vehicles.

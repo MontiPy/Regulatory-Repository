@@ -1,14 +1,27 @@
 ---
 citation: JVSR Article 17_2
+commodities:
+- ECUs
+- Wiring
+- Connectors
+- Power electronics
+- Batteries
 id: jp-jvsregs-art17-2
 last_pulled: '2026-06-01T18:52:41+00:00'
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- Cybersecurity
+- Battery safety
+- Software updates
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: JVSR Article 17_2 — Electrical Devices
 translation_status: translated
+vehicle_categories: []
 ---
 
 ## Article 17-2 — Electrical Devices

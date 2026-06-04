@@ -1,14 +1,18 @@
 ---
 citation: MOVER / Rota 2030
+commodities: []
 id: br-mover-rota-2030
 last_pulled: '2026-06-01T18:53:32+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/planalto/en/latest-news/2025/04/president-lula-signs-decree-that-regulates-green-mobility-and-innovation-program
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework

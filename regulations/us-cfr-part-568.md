@@ -1,14 +1,24 @@
 ---
 citation: 49 CFR Part 568
+commodities:
+- Bumpers
 id: us-cfr-part-568
 last_pulled: '2026-06-01T18:44:27+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-568
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 568—VEHICLES MANUFACTURED IN TWO OR MORE STAGES—ALL INCOMPLETE, INTERMEDIATE
   AND FINAL-STAGE MANUFACTURERS OF VEHICLES MANUFACTURED IN TWO OR MORE STAGES
+vehicle_categories:
+- Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 ## PART 568—VEHICLES MANUFACTURED IN TWO OR MORE STAGES—ALL INCOMPLETE, INTERMEDIATE AND FINAL-STAGE MANUFACTURERS OF VEHICLES MANUFACTURED IN TWO OR MORE STAGES

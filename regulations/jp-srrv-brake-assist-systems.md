@@ -1,14 +1,24 @@
 ---
 citation: SRRV / TRIAS / UN R139
+commodities:
+- Brakes
+- ECUs
+- ADAS sensors
+- Hoses & lines
 id: jp-srrv-brake-assist-systems
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+- ADAS
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Brake Assist Systems
 translation_status: translated
+vehicle_categories: []
 ---
 
 # Brake Assist Systems

@@ -1,5 +1,8 @@
 ---
 citation: ISO 34502 / ISO/TR 4804 / ISO/PAS 8800
+commodities:
+- ECUs
+- ADAS sensors
 id: other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +10,14 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/78951.html
 status: in-force
-tagging_status: untagged
+systems:
+- ADAS
+- Cybersecurity
+- Software updates
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Automated-driving scenario, safety and AI guidance standards
+vehicle_categories: []
 ---
 
 # Automated-driving scenario, safety and AI guidance standards

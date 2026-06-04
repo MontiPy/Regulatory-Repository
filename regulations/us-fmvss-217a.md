@@ -1,14 +1,24 @@
 ---
 citation: 49 CFR §571.217a
+commodities:
+- Glass
+- Door latches & hinges
+- Body structure
 id: us-fmvss-217a
 last_pulled: '2026-06-01T18:41:18+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.217a
 status: in-force
-tagging_status: untagged
+systems:
+- Glazing
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: § 571.217a Standard No. 217a; Anti-ejection glazing for bus portals; Mandatory
   applicability beginning October 30, 2027.
+vehicle_categories:
+- Bus
 ---
 
 ## § 571.217a Standard No. 217a; Anti-ejection glazing for bus portals; Mandatory applicability beginning October 30, 2027.

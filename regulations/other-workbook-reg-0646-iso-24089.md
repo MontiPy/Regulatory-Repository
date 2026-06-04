@@ -1,5 +1,7 @@
 ---
 citation: ISO 24089
+commodities:
+- ECUs
 id: other-workbook-reg-0646-iso-24089
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +9,14 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/77796.html
 status: in-force
-tagging_status: untagged
+systems:
+- Software updates
+- Cybersecurity
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Road vehicles - Software update engineering
+vehicle_categories: []
 ---
 
 # Road vehicles - Software update engineering

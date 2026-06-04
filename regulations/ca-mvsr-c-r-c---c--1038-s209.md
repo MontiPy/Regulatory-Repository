@@ -1,13 +1,24 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 209
+commodities:
+- Seatbelts
 id: ca-mvsr-c-r-c---c--1038-s209
 last_pulled: '2026-06-01T18:52:49+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: MVSR s. 209
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 209(1)Every passenger car, multi-purpose passenger vehicle, truck, bus, low-speed vehicle, three-wheeled vehicle and enclosed motorcycle shall be equipped with seat belt assemblies that conform to the requirements of Technical Standards Document No. 209, Seat Belt Assemblies (TSD 209), as amended from time to time.(2)The pelvic restraint of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint shall meet all requirements for a Type 1 seat belt assembly set out in these Regulations.(3)A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out in column 2.TABLE

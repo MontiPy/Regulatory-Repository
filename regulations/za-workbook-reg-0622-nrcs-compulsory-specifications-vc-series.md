@@ -1,13 +1,45 @@
 ---
 citation: NRCS Compulsory Specifications / VC Series
+commodities: []
 id: za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: ZA
 source_api: spreadsheet
 source_url: https://www.nrcs.org.za/compulsory-specifications/compulsory-specifications
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Braking
+- Steering
+- Tires & wheels
+- Crashworthiness
+- Restraints
+- Visibility
+- Emissions
+- Fuel safety
+- EMC
+- Battery safety
+- ADAS
+- Cybersecurity
+- Glazing
+- HVAC
+- Vehicle identification
+- Pedestrian protection
+- Theft prevention
+- Tell-tales & controls
+- On-board diagnostics
+- Software updates
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: South Africa compulsory specifications for motor vehicles and components
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # South Africa compulsory specifications for motor vehicles and components

@@ -1,13 +1,25 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 106
+commodities:
+- Hoses & lines
 id: ca-mvsr-c-r-c---c--1038-s106
 last_pulled: '2026-06-01T18:52:49+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: MVSR s. 106
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 106(1)Every brake hose, brake hose assembly and brake hose end fitting with which a passenger car, multi-purpose passenger vehicle, truck, bus, three-wheeled vehicle, motorcycle, trailer, and trailer converter dolly are equipped shall conform to the requirements of Technical Standards Document No. 106, Brake Hoses (TSD 106), as amended from time to time.(2)A reference in TSD 106 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.TABLE

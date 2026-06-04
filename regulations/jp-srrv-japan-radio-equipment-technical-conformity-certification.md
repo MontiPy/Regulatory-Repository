@@ -1,14 +1,28 @@
 ---
 citation: Radio Act / MIC-TELEC Technical Conformity
+commodities:
+- Infotainment
+- ECUs
+- ADAS sensors
+- Connectors
+- Wiring
 id: jp-srrv-japan-radio-equipment-technical-conformity-certification
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.telec.or.jp/eng/services/tech/tech_02.html
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- ADAS
+- Cybersecurity
+- Theft prevention
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Japan Radio Equipment Technical Conformity Certification
 translation_status: translated
+vehicle_categories:
+- Passenger car
 ---
 
 # Japan Radio Equipment Technical Conformity Certification

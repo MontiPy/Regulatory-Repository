@@ -1,13 +1,19 @@
 ---
 citation: 49 CFR Part 531
+commodities: []
 id: us-cfr-part-531
 last_pulled: '2026-06-01T18:43:13+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-531
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: PART 531—PASSENGER AUTOMOBILE AVERAGE FUEL ECONOMY STANDARDS
+vehicle_categories:
+- Passenger car
 ---
 
 ## PART 531—PASSENGER AUTOMOBILE AVERAGE FUEL ECONOMY STANDARDS

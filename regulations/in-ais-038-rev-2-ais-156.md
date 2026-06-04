@@ -1,5 +1,11 @@
 ---
 citation: AIS-038 Rev.2 / AIS-156
+commodities:
+- Batteries
+- Wiring
+- Connectors
+- Charging inlet
+- Power electronics
 id: in-ais-038-rev-2-ais-156
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,8 +13,14 @@ region: IN
 source_api: spreadsheet
 source_url: https://morth.nic.in/sites/default/files/ASI/AIS-156.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: India electric powertrain / traction battery safety standards
+vehicle_categories:
+- Passenger car
 ---
 
 # India electric powertrain / traction battery safety standards

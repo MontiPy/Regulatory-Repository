@@ -1,5 +1,10 @@
 ---
 citation: GSO-ECE 13H-1/2/3
+commodities:
+- Brakes
+- ECUs
+- ADAS sensors
+- Hoses & lines
 id: gcc-gso-ece-13h-1-2-3
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +12,15 @@ region: GCC
 source_api: spreadsheet
 source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+- ADAS
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Brake System Test Methods and Energy Storage Tests
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Brake System Test Methods and Energy Storage Tests

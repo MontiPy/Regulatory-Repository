@@ -1,13 +1,24 @@
 ---
 citation: 40 CFR Part 86
+commodities:
+- Fuel system
+- Exhaust
 id: us-40cfr-part-86
 last_pulled: '2026-06-01T18:45:54+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-86
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 86—CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
 ---
 
 ## PART 86—CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES

@@ -1,14 +1,25 @@
 ---
 citation: 49 CFR §571.202a
+commodities:
+- Seats
 id: us-fmvss-202a
 last_pulled: '2026-06-01T18:40:21+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202a
 status: in-force
-tagging_status: untagged
+systems:
+- Crashworthiness
+- Restraints
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability begins
   on September 1, 2009.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## § 571.202a Standard No. 202a; Head restraints; Mandatory applicability begins on September 1, 2009.

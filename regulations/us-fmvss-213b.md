@@ -1,14 +1,25 @@
 ---
 citation: 49 CFR §571.213b
+commodities:
+- Seats
 id: us-fmvss-213b
 last_pulled: '2026-06-01T18:41:01+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213b
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability
   beginning December 5, 2026.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability beginning December 5, 2026.

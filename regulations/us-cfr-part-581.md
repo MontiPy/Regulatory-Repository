@@ -1,13 +1,30 @@
 ---
 citation: 49 CFR Part 581
+commodities:
+- Bumpers
+- Lighting modules
+- Fuel system
+- Exhaust
+- Suspension
+- Brakes
+- Door latches & hinges
+- Steering column
 id: us-cfr-part-581
 last_pulled: '2026-06-01T18:45:04+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-581
 status: in-force
-tagging_status: untagged
+systems:
+- Crashworthiness
+- Lighting & signaling
+- Fuel safety
+- Visibility
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 581—BUMPER STANDARD
+vehicle_categories:
+- Passenger car
 ---
 
 ## PART 581—BUMPER STANDARD

@@ -1,14 +1,19 @@
 ---
 citation: 49 CFR Part 591
+commodities: []
 id: us-cfr-part-591
 last_pulled: '2026-06-01T18:45:26+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-591
 status: in-force
-tagging_status: untagged
+systems:
+- Theft prevention
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: PART 591—IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER
   AND THEFT PREVENTION STANDARDS
+vehicle_categories: []
 ---
 
 ## PART 591—IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER AND THEFT PREVENTION STANDARDS

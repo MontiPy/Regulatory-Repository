@@ -1,15 +1,27 @@
 ---
 citation: 49 CFR §571.110
+commodities:
+- Tires
+- Wheels
+- Batteries
 id: us-fmvss-110
 last_pulled: '2026-06-01T18:38:52+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.110
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.110 Tire selection and rims and motor home/recreation vehicle trailer
   load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms
   (10,000 pounds) or less.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
+- Trailer
 ---
 
 ## § 571.110 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less.

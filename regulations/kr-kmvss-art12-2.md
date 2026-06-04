@@ -1,14 +1,25 @@
 ---
 citation: KMVSS Article 12-2
+commodities:
+- Tires
+- ECUs
+- Lighting modules
 id: kr-kmvss-art12-2
 last_pulled: '2026-05-23T15:30:38+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 12-2 — Tire Pressure Warning System
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## Article 12-2 — Tire Pressure Warning System

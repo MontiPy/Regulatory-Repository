@@ -1,14 +1,22 @@
 ---
 citation: UN R30
+commodities:
+- Tires
 id: ece-r30
 last_pulled: '2026-06-01T18:53:05+00:00'
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: UN Regulation No. 30 — Pneumatic Tyres for Motor Vehicles and their Trailers
   (passenger cars)
+vehicle_categories:
+- Passenger car
+- Trailer
 ---
 
 # UN Regulation No. 30 — Pneumatic Tyres for Motor Vehicles and their Trailers (passenger cars)

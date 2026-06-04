@@ -1,13 +1,32 @@
 ---
 citation: New Vehicle Efficiency Standard Act 2024
+commodities:
+- ECUs
+- Fuel system
+- Exhaust
+- Batteries
+- Electric motors
+- Power electronics
+- Hoses & lines
+- Fuel tanks
 id: au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: AU
 source_api: spreadsheet
 source_url: https://www.nvesregulator.gov.au/what-new-vehicle-efficiency-standard
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: New Vehicle Efficiency Standard (NVES)
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # New Vehicle Efficiency Standard (NVES)

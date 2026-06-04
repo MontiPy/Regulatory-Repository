@@ -1,13 +1,23 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 103
+commodities:
+- Glass
+- HVAC
+- Wipers & washers
 id: ca-mvsr-c-r-c---c--1038-s103
 last_pulled: '2026-06-01T18:52:49+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Visibility
+- HVAC
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: MVSR s. 103
+vehicle_categories:
+- Passenger car
 ---
 
 103(1)In this section,critical area means area C as referred to in section 104 of this Schedule; (zone critique)defog means to remove moisture from the inside surface of the glass; (désembuer)defrost means to melt frost or ice on the inside or outside surface of the glass; (dégivrer)entire windshield means area A as referred to in section 104 of this Schedule; (pare-brise tout entier)road load means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (charge de route)(2)Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.(2.1)A three-wheeled vehicle that is equipped with a windshield shall be equipped with a windshield defrosting and defogging system.(3)In the case of a passenger car or a three-wheeled vehicle, the windshield defrosting and defogging system shall(a)meet the requirements of section 3 of SAE Recommended Practice J902 Passenger Car Windshield Defrosting Systems, (August 1964), when tested in accordance with paragraph (b) except that the areas referred to in that section as “critical area” and “entire windshield” shall be as referred to in subsection (1) of this section; and(b)be tested in accordance with such of the portions of paragraphs 4.1 to 4.4.7 of SAE Recommended Practice J902, (August 1964), or SAE Recommended Practice J902a, (March 1967), as are applicable to that system.(4)Despite the testing requirements set out in subsection (3) for the windshield defrosting and defogging system of a passenger car or three-wheeled vehicle,(a)in the case of a passenger car or three-wheeled vehicle equipped with a heating system other than a heat exchanger type that uses the engine’s coolant as a means to supply the heat to the heat exchanger, the procedure specified by the vehicle’s manufacturer for cold weather starting shall be followed during the entire test period, except that the use of a power or heat source external to the vehicle is not permitted;(b)in the case of all other passenger cars and three-wheeled vehicles,(i)during the entire test period, the engine speed shall not exceed 1,500 revolutions per minute in neutral gear or the engine speed and load shall not exceed the speed and load at 40 km/h (25 miles per hour) in the manufacturer’s recommended gear with road load, or(ii)during the first 5 minutes of the test period, the warm-up procedure recommended by the vehicle’s manufacturer for cold weather starting shall be followed and during the last 35 minutes of the test period, the procedure referred to in subparagraph (i) shall be followed;(c)a room air change of 90 times per hour is not required;(d)the windshield wipers may be used during the test if they are operated without manual assistance;(e)one or two windows may be open a total of 25 mm;(f)the defroster blower may be turned on at any time;(g)the wind velocity is at any level from 0 to 3 km/h; and(h)the test chamber temperature and the wind velocity shall be measured after the engine has been started, at the forwardmost point of the vehicle or a point 91.4 cm (36 inches) from the base of the windshield, whichever is farther forward, at a level halfway between the top and the bottom of the windshield on the vehicle centreline.SOR/97-264, s. 1; SOR/2003-272, s. 8; SOR/2008-104, s. 9

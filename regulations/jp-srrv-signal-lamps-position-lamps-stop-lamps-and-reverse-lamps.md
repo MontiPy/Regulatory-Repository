@@ -1,14 +1,28 @@
 ---
 citation: SRRV / TRIAS / UN R6/R7/R23/R38
+commodities:
+- Lighting modules
+- Wiring
+- ECUs
+- Mirrors
+- Connectors
 id: jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Visibility
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Signal Lamps, Position Lamps, Stop Lamps and Reverse Lamps
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Signal Lamps, Position Lamps, Stop Lamps and Reverse Lamps

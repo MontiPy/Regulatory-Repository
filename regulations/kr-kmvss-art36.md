@@ -1,14 +1,20 @@
 ---
 citation: KMVSS Article 36
+commodities:
+- Exhaust
 id: kr-kmvss-art36
 last_pulled: '2026-05-23T15:31:25+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 36 — Exhaust Emission Control
 translation_status: translated
+vehicle_categories: []
 ---
 
 ## Article 36 — Exhaust Emission Control

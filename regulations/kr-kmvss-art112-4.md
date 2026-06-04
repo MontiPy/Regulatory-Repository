@@ -1,14 +1,20 @@
 ---
 citation: KMVSS Article 112-4
+commodities:
+- Lighting modules
 id: kr-kmvss-art112-4
 last_pulled: '2026-05-23T15:31:27+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 112-4 — Lighting System Components
 translation_status: translated
+vehicle_categories: []
 ---
 
 ## Article 112-4 — Lighting System Components

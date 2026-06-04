@@ -1,14 +1,21 @@
 ---
 citation: LCM / LCA
+commodities: []
 id: ar-workbook-reg-0624-lcm-lca
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: AR
 source_api: spreadsheet
 source_url: https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Argentina model configuration and environmental configuration licenses
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Argentina model configuration and environmental configuration licenses

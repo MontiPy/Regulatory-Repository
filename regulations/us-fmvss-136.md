@@ -1,14 +1,26 @@
 ---
 citation: 49 CFR §571.136
+commodities:
+- Brakes
+- ECUs
+- ADAS sensors
 id: us-fmvss-136
 last_pulled: '2026-06-01T18:40:04+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.136
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+- Steering
+- ADAS
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.136 Standard No. 136; Electronic stability control systems for heavy
   vehicles.
+vehicle_categories:
+- Heavy truck
+- Bus
 ---
 
 ## § 571.136 Standard No. 136; Electronic stability control systems for heavy vehicles.

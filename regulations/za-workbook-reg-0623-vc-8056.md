@@ -1,13 +1,22 @@
 ---
 citation: VC 8056
+commodities:
+- Tires
+- Wheels
 id: za-workbook-reg-0623-vc-8056
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: ZA
 source_api: spreadsheet
 source_url: https://www.nrcs.org.za/CompulsarySpecExtended/VC%208056.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Pneumatic tyres for passenger cars and trailers
+vehicle_categories:
+- Passenger car
+- Trailer
 ---
 
 # Pneumatic tyres for passenger cars and trailers

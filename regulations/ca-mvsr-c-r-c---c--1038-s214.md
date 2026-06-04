@@ -1,13 +1,24 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 214
+commodities:
+- Seats
+- Seatbelts
 id: ca-mvsr-c-r-c---c--1038-s214
 last_pulled: '2026-06-01T18:52:49+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Crashworthiness
+- Restraints
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: MVSR s. 214 — Technical Standards Document No. 214
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 214(1)The following vehicles shall conform to the requirements of Technical Standards Document No. 214, Side Impact Protection (TSD 214), as amended from time to time:(a)passenger cars and three-wheeled vehicles; and(b)the following vehicles that have a GVWR of 4 536 kg or less:(i)buses,(ii)trucks, other than walk-in vans, and(iii)multi-purpose passenger vehicles.(2)However, S7 and S9 of TSD 214 do not apply to an outboard designated seating position equipped with a seat or seat belt that is for a disabled person if the following requirements are met:(a)the vehicle bears an additional label referred to in paragraph 9(1)(c);(b)if the designated seating position is a front outboard designated seating position, one or more labels displaying one of the following statements, in letters of not less than six points in height, are permanently affixed to the vehicle within the view of the occupants of the front outboard designated seating positions:(i)in the case of a single position, “The [indicate here the front outboard designated seating position that has been modified for a disabled person] has been modified for a disabled person, and the Moving Deformable Barrier and the Vehicle-To-Pole tests set out in CMVSS 214 — SIDE IMPACT PROTECTION do not apply to this seating position. / La [indiquer ici la place assise désignée extérieure avant qui a été modifiée pour une personne handicapée] a été modifiée pour une personne handicapée, et les essais contre une barrière mobile profilée et contre un poteau qui figurent dans la NSVAC 214 — PROTECTION EN CAS DE COLLISION LATÉRALE ne lui sont pas applicables.”, and(ii)in the case of multiple positions, “The [indicate here the front outboard designated seating positions that have been modified for a disabled person] have been modified for a disabled person, and the Moving Deformable Barrier and the Vehicle-To-Pole tests set out in CMVSS 214 — SIDE IMPACT PROTECTION do not apply to these seating positions. / Les [indiquer ici les places assises désignées extérieures avant qui ont été modifiées pour une personne handicapée] ont été modifiées pour une personne handicapée, et les essais contre une barrière mobile profilée et contre un poteau qui figurent dans la NSVAC 214 — PROTECTION EN CAS DE COLLISION LATÉRALE ne leur sont pas applicables.”; and(c)if the designated seating position is a rear outboard designated seating position, one or more labels displaying the following statement, in letters of not less than six points in height, are permanently affixed to the vehicle within the view of the occupant of that rear outboard designated seating position: “The [indicate here the rear outboard designated seating position that has been modified for a disabled person] has been modified for a disabled person, and the Moving Deformable Barrier test set out in CMVSS 214 — SIDE IMPACT PROTECTION does not apply to this seating position. / La [indiquer ici la place assise désignée extérieure arrière qui a été modifiée pour une personne handicapée] a été modifiée pour une personne handicapée, et l’essai contre une barrière mobile profilée qui figure dans la NSVAC 214 — PROTECTION EN CAS DE COLLISION LATÉRALE ne lui est pas applicable.”(3)The statements set out in subparagraphs (b)(i) and (ii) and in paragraph (c) shall be included in the owner’s manual.Technical Standards Document No. 214(4)For the purposes of this section,(a)“passenger car” in TSD 214 shall be read as “passenger car and three-wheeled vehicle”; and(b)“anthropomorphic dummies”, “anthropomorphic test dummies”, “dummy”, “dummies” and “test dummies” in the English version of TSD 214 shall be read as “anthropomorphic test device”.Transitional Provision(5)Despite subsections (1) to (4), the vehicles referred to in subsection (1) may, until September 1, 2018, conform to the requirements of this section as it read immediately before the day on which this subsection comes into force.SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28; SOR/2006-94, s. 4(E); SOR/2007-180, s. 17; SOR/2016-254, s. 2

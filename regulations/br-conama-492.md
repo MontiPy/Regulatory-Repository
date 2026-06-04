@@ -1,14 +1,23 @@
 ---
 citation: CONAMA 492/2018
+commodities:
+- Exhaust
+- Fuel system
 id: br-conama-492
 last_pulled: '2026-06-01T18:53:23+00:00'
 region: BR
 source_api: brazil
 source_url: https://conama.mma.gov.br/?id=765&option=com_sisconama&task=arquivo.download
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PROCONVE L7/L8 Emission Requirements for New Light Road Vehicles
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # PROCONVE L7/L8 Emission Requirements for New Light Road Vehicles

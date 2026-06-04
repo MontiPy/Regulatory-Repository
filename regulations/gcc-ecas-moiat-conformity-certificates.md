@@ -1,5 +1,6 @@
 ---
 citation: ECAS / MOIAT Conformity Certificates
+commodities: []
 id: gcc-ecas-moiat-conformity-certificates
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,9 +8,14 @@ region: GCC
 source_api: spreadsheet
 source_url: https://moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: UAE conformity certificate overlay for regulated products
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # UAE conformity certificate overlay for regulated products

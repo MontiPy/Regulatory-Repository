@@ -1,5 +1,12 @@
 ---
 citation: ISO 6469 series
+commodities:
+- Wiring
+- Batteries
+- Electric motors
+- Connectors
+- Charging inlet
+- Power electronics
 id: other-workbook-reg-0648-iso-6469-series
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +14,14 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/68665.html
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Electrically propelled road vehicles - Safety specifications
+vehicle_categories:
+- Passenger car
 ---
 
 # Electrically propelled road vehicles - Safety specifications

@@ -1,13 +1,18 @@
 ---
 citation: UN R27
+commodities: []
 id: ece-r27
 last_pulled: '2026-06-01T18:53:05+00:00'
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: UN Regulation No. 27 — Warning Triangles
+vehicle_categories: []
 ---
 
 # UN Regulation No. 27 — Warning Triangles

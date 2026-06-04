@@ -1,14 +1,22 @@
 ---
 citation: KMVSS Article 53-4
+commodities:
+- Horn
 id: kr-kmvss-art53-4
 last_pulled: '2026-05-23T15:31:36+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 53-4 — Child Presence Detection System
 translation_status: translated
+vehicle_categories:
+- Bus
 ---
 
 ## Article 53-4 — Child Presence Detection System

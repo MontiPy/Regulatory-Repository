@@ -1,13 +1,22 @@
 ---
 citation: MVSR SOR-2010-90
+commodities:
+- Seats
+- Seatbelts
+- Connectors
 id: ca-mvsr-sor-2010-90
 last_pulled: '2026-06-01T18:52:57+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
+vehicle_categories: []
 ---
 
 xml version="1.0"?SOR/2010-9020104:   29

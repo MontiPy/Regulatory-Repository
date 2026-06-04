@@ -1,13 +1,22 @@
 ---
 citation: 49 CFR §571.222
+commodities:
+- Seats
+- Seatbelts
 id: us-fmvss-222
 last_pulled: '2026-06-01T18:41:34+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.222
 status: in-force
-tagging_status: untagged
+systems:
+- Crashworthiness
+- Restraints
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: § 571.222 Standard No. 222; School bus passenger seating and crash protection.
+vehicle_categories:
+- Bus
 ---
 
 ## § 571.222 Standard No. 222; School bus passenger seating and crash protection.

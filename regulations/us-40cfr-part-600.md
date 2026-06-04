@@ -1,13 +1,22 @@
 ---
 citation: 40 CFR Part 600
+commodities: []
 id: us-40cfr-part-600
 last_pulled: '2026-06-01T18:45:56+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-600
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 600—FUEL ECONOMY AND GREENHOUSE GAS EXHAUST EMISSIONS OF MOTOR VEHICLES
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 600—FUEL ECONOMY AND GREENHOUSE GAS EXHAUST EMISSIONS OF MOTOR VEHICLES

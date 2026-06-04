@@ -1,14 +1,22 @@
 ---
 citation: CONTRAN 951/2022
+commodities:
+- Seatbelts
+- Seats
 id: br-contran-951
 last_pulled: '2026-06-01T18:53:12+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9512022.pdf/view
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Seat Belts, Anchorages and Head Restraints
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Seat Belts, Anchorages and Head Restraints

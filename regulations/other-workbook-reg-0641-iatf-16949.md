@@ -1,5 +1,6 @@
 ---
 citation: IATF 16949
+commodities: []
 id: other-workbook-reg-0641-iatf-16949
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +8,11 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iatfglobaloversight.org/iatf-169492016/about/
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Automotive quality management system
+vehicle_categories: []
 ---
 
 # Automotive quality management system

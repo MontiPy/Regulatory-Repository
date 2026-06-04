@@ -1,13 +1,35 @@
 ---
 citation: 49 CFR Part 567
+commodities:
+- Mirrors
+- Tires
+- Wheels
+- Bumpers
+- Door latches & hinges
+- Suspension
 id: us-cfr-part-567
 last_pulled: '2026-06-01T18:44:22+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-567
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+- Theft prevention
+- Crashworthiness
+- Braking
+- Steering
+- Tires & wheels
+- Restraints
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 567—CERTIFICATION
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Trailer
 ---
 
 ## PART 567—CERTIFICATION

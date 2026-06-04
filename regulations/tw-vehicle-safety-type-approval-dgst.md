@@ -1,13 +1,36 @@
 ---
 citation: Vehicle Safety Type Approval / DGST
+commodities: []
 id: tw-vehicle-safety-type-approval-dgst
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: TW
 source_api: spreadsheet
 source_url: https://www.vscc.org.tw/Home/Content/509
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Braking
+- Steering
+- Tires & wheels
+- Crashworthiness
+- Restraints
+- Visibility
+- Emissions
+- Fuel safety
+- EMC
+- Battery safety
+- ADAS
+- Glazing
+- HVAC
+- Vehicle identification
+- Pedestrian protection
+- Tell-tales & controls
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Taiwan vehicle safety type approval and DGST safety test framework
+vehicle_categories:
+- Passenger car
 ---
 
 # Taiwan vehicle safety type approval and DGST safety test framework

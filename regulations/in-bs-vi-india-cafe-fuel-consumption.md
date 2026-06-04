@@ -1,13 +1,31 @@
 ---
 citation: BS-VI / India CAFE / Fuel Consumption
+commodities:
+- ECUs
+- Fuel system
+- Exhaust
+- Fuel tanks
+- Hoses & lines
+- Power electronics
+- Batteries
+- Electric motors
 id: in-bs-vi-india-cafe-fuel-consumption
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: IN
 source_api: spreadsheet
 source_url: https://morth.nic.in
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+- Battery safety
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: India emission and fuel-consumption compliance framework
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # India emission and fuel-consumption compliance framework

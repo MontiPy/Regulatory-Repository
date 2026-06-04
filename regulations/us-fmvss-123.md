@@ -1,13 +1,24 @@
 ---
 citation: 49 CFR §571.123
+commodities:
+- Brakes
+- Horn
 id: us-fmvss-123
 last_pulled: '2026-06-01T18:39:38+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.123
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+- Steering
+- Lighting & signaling
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: § 571.123 Standard No. 123; Motorcycle controls and displays.
+vehicle_categories:
+- Motorcycle
 ---
 
 ## § 571.123 Standard No. 123; Motorcycle controls and displays.

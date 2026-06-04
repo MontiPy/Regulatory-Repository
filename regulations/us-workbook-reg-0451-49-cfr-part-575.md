@@ -1,13 +1,18 @@
 ---
 citation: 49 CFR Part 575
+commodities: []
 id: us-workbook-reg-0451-49-cfr-part-575
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-575
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Consumer Information / Labels and Ratings
+vehicle_categories: []
 ---
 
 # Consumer Information / Labels and Ratings

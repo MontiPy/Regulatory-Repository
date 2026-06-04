@@ -1,13 +1,26 @@
 ---
 citation: 49 CFR §571.127
+commodities:
+- Brakes
+- ADAS sensors
+- ECUs
 id: us-fmvss-127
 last_pulled: '2026-06-01T18:39:49+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.127
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+- ADAS
+- Visibility
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.

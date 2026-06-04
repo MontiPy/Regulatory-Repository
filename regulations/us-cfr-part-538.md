@@ -1,13 +1,25 @@
 ---
 citation: 49 CFR Part 538
+commodities:
+- Fuel tanks
+- Batteries
+- Electric motors
+- Power electronics
 id: us-cfr-part-538
 last_pulled: '2026-06-01T18:43:29+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-538
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: PART 538—MANUFACTURING INCENTIVES FOR ALTERNATIVE FUEL VEHICLES
+vehicle_categories:
+- Passenger car
 ---
 
 ## PART 538—MANUFACTURING INCENTIVES FOR ALTERNATIVE FUEL VEHICLES

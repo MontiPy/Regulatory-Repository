@@ -1,14 +1,21 @@
 ---
 citation: CONTRAN 936/2022
+commodities:
+- Seatbelts
 id: br-contran-936
 last_pulled: '2026-06-01T18:53:12+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Seat Belt Reminder
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Seat Belt Reminder

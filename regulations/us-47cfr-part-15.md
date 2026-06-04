@@ -1,13 +1,18 @@
 ---
 citation: 47 CFR Part 15
+commodities: []
 id: us-47cfr-part-15
 last_pulled: '2026-06-01T18:46:01+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-47/part-15
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 15—RADIO FREQUENCY DEVICES
+vehicle_categories: []
 ---
 
 ## PART 15—RADIO FREQUENCY DEVICES

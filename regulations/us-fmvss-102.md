@@ -1,14 +1,23 @@
 ---
 citation: 49 CFR §571.102
+commodities: []
 id: us-fmvss-102
 last_pulled: '2026-06-01T18:38:22+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.102
 status: in-force
-tagging_status: untagged
+systems:
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: § 571.102 Standard No. 102; Transmission shift position sequence, starter interlock,
   and transmission braking effect.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## § 571.102 Standard No. 102; Transmission shift position sequence, starter interlock, and transmission braking effect.
