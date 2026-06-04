@@ -847,3 +847,19 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
 .market-group-head { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--fg-2); margin: 14px 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--line-1); }
 .market-group-count { color: var(--fg-3); font-weight: 400; }
 .market-group .reg-card { margin-bottom: 12px; }
+
+/* ── Reading pane ──────────────────────────────────────────── */
+.layout.reading { grid-template-columns: 264px minmax(0, 1.3fr) minmax(360px, 1.1fr); }
+.layout.reading .filters { display: none; }
+.reader { border-left: 1px solid var(--line-1); background: var(--surface); display: flex; flex-direction: column; min-height: calc(100vh - 75px); }
+.reader.hidden { display: none; }
+.reader-head { position: sticky; top: 0; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 18px; border-bottom: 1px solid var(--line-1); background: var(--bg-2); }
+.reader-title { font-size: 14px; font-weight: 900; color: var(--fg-1); }
+.reader-close { background: none; border: none; font-size: 22px; line-height: 1; color: var(--fg-3); cursor: pointer; padding: 0 4px; }
+.reader-close:hover { color: var(--honda-red); }
+.reader-body { padding: 18px; overflow-y: auto; font-size: 14px; color: var(--fg-1); }
+@media (max-width: 1000px) {
+  .layout.reading { grid-template-columns: 1fr; }
+  .layout.reading .filters { display: none; }
+  .reader { position: fixed; inset: 75px 0 0 0; z-index: 30; border-left: none; }
+}
