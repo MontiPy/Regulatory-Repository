@@ -13,6 +13,7 @@ from scripts.build import (
     load_region_series,
     render_markdown,
     report_line,
+    search_text_for,
     split_record,
     stringify,
     summarize,
@@ -218,3 +219,23 @@ class TestSplitRecord:
         full = dict(self.FULL); del full["body_html"]
         _, body = split_record(full)
         assert body == ""
+
+
+class TestSearchTextFor:
+    def test_includes_title_and_body_plain(self):
+        rec = {"id": "x", "title": "Brakes", "citation": "C1", "aliases": [],
+               "tags": [], "commodities": ["Brakes"], "systems": ["Braking"],
+               "vehicle_categories": [], "summary_text": "sum",
+               "body_html": "<p>Hydraulic <strong>brake</strong> lines.</p>"}
+        blob = search_text_for(rec)
+        assert blob["id"] == "x"
+        assert "Brakes" in blob["text"]
+        assert "Hydraulic brake lines." in blob["text"]
+        assert "<strong>" not in blob["text"]
+
+    def test_body_capped(self):
+        rec = {"id": "y", "title": "", "citation": "", "aliases": [], "tags": [],
+               "commodities": [], "systems": [], "vehicle_categories": [],
+               "summary_text": "", "body_html": "<p>" + "x" * 50000 + "</p>"}
+        blob = search_text_for(rec)
+        assert len(blob["text"]) <= 20100  # 20k body cap + small header fields

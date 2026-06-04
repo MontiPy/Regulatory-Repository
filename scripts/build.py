@@ -259,6 +259,27 @@ def summarize(body_html: str) -> str:
     return plain[:cutoff].rstrip() + "..."
 
 
+SEARCH_BODY_CAP = 20000
+
+def _plain_text(body_html: str) -> str:
+    plain = bleach.clean(body_html or "", tags=[], strip=True)
+    return unescape(re.sub(r"\s+", " ", plain)).strip()
+
+def search_text_for(record: dict[str, Any]) -> dict[str, str]:
+    parts = [
+        stringify(record.get("title")),
+        stringify(record.get("citation")),
+        " ".join(record.get("aliases", [])),
+        " ".join(record.get("tags", [])),
+        " ".join(record.get("commodities", [])),
+        " ".join(record.get("systems", [])),
+        " ".join(record.get("vehicle_categories", [])),
+        stringify(record.get("summary_text")),
+        _plain_text(record.get("body_html", ""))[:SEARCH_BODY_CAP],
+    ]
+    return {"id": stringify(record.get("id")), "text": " ".join(p for p in parts if p)}
+
+
 def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) -> tuple[dict[str, Any], list[BuildIssue]]:
     import frontmatter
 
