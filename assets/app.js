@@ -301,6 +301,32 @@
       `;
     }
 
+    const AVAIL_LABELS = { full: "Full text", paywall: "Paywall", noconn: "No live connection" };
+
+    function renderChips() {
+      const bar = document.querySelector("#chip-bar");
+      const chips = [];
+      const q = searchInput.value.trim();
+      if (q) chips.push({ type: "q", label: `Search: "${q}"` });
+      const sel = readSelections();
+      FILTERS.forEach((f) => {
+        Array.from(sel[f.key]).forEach((v) => {
+          chips.push({ type: "facet", key: f.key, value: v, label: `${f.label}: ${displayLabel(v)}` });
+        });
+      });
+      const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
+      const isDefault = shown.length === 1 && shown[0] === "full";
+      if (!isDefault) {
+        shown.forEach((c) => chips.push({ type: "avail", value: c, label: `Show: ${AVAIL_LABELS[c]}` }));
+      }
+      if (chips.length === 0) { bar.classList.add("hidden"); bar.innerHTML = ""; return; }
+      bar.classList.remove("hidden");
+      bar.innerHTML = chips.map((c) =>
+        `<span class="active-chip" data-chip-type="${c.type}"${c.key ? ` data-chip-key="${escapeHtml(c.key)}"` : ""}${c.value !== undefined ? ` data-chip-value="${escapeHtml(c.value)}"` : ""}>`
+        + `${escapeHtml(c.label)}<button type="button" class="chip-x" aria-label="Remove">×</button></span>`
+      ).join("") + `<button type="button" class="chip-clear-all" id="chip-clear-all">Clear all</button>`;
+    }
+
     function render() {
       const visible    = getVisibleRecords();
       const renderable = visible.slice(0, visibleLimit);
@@ -310,6 +336,7 @@
         : '<div class="empty-state">No regulations match the current filters.</div>';
       loadMore.classList.toggle("hidden", visible.length <= visibleLimit);
       updateFacetCounts(visible);
+      renderChips();
     }
 
     function buildFilters() {
@@ -560,6 +587,27 @@
       updateClearButton();
       route();
       searchInput.focus();
+    });
+
+    document.querySelector("#chip-bar").addEventListener("click", (event) => {
+      if (event.target.closest("#chip-clear-all")) { clearFilters.click(); return; }
+      const x = event.target.closest(".chip-x");
+      if (!x) return;
+      const chip = x.closest(".active-chip");
+      const type = chip.dataset.chipType;
+      if (type === "q") { searchInput.value = ""; }
+      else if (type === "facet") {
+        const el = filtersForm.querySelector(`input[name="${chip.dataset.chipKey}"][value="${CSS.escape(chip.dataset.chipValue)}"]`);
+        if (el) el.checked = false;
+      } else if (type === "avail") {
+        const el = availBoxes.find((b) => b.dataset.avail === chip.dataset.chipValue);
+        if (el) el.checked = false;
+      }
+      visibleLimit = PAGE_SIZE;
+      render();
+      syncUrl();
+      updateClearButton();
+      route();
     });
 
     copyLink.addEventListener("click", () => {

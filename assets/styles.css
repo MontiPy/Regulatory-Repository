@@ -827,3 +827,13 @@
 .dir-more { margin-top: 10px; background: none; border: none; color: var(--honda-red); cursor: pointer; font-size: 11px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 0; }
 .dir-more:hover { text-decoration: underline; }
 html[data-theme="dark"] .dir-tile:hover { background: var(--filter-active-bg); }
+
+/* ── Active filter chips ───────────────────────────────────── */
+.chip-bar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 0 0 14px; }
+.chip-bar.hidden { display: none; }
+.active-chip { display: inline-flex; align-items: center; gap: 6px; height: 24px; padding: 0 6px 0 9px; border: 1px solid rgba(204,0,0,0.30); background: var(--red-0); color: var(--honda-red); font-size: 12px; }
+html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
+.active-chip .chip-x { display: inline-flex; align-items: center; justify-content: center; width: 16px; height: 16px; border: none; background: none; color: inherit; cursor: pointer; font-size: 14px; line-height: 1; padding: 0; }
+.active-chip .chip-x:hover { color: var(--red-7); }
+.chip-clear-all { background: none; border: none; color: var(--fg-3); cursor: pointer; font-size: 12px; text-decoration: underline; padding: 0 4px; }
+.chip-clear-all:hover { color: var(--honda-red); }
