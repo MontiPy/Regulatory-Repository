@@ -283,6 +283,7 @@
           bodyCache.set(id, data.body_html || "");
         } catch { bodyCache.set(id, "<p>Failed to load regulation text.</p>"); }
       }
+      if (openReaderId !== id) return;  // superseded by a later open/close during the await
       document.querySelector("#reader-title").textContent = record.title || record.id;
       document.querySelector("#reader-body").innerHTML = readerBodyHtml(record);
       document.querySelector("#reader").classList.remove("hidden");
@@ -458,6 +459,13 @@
 
     function route() {
       const onWorkspace = workspaceActive();
+      // Leaving the Workspace (e.g. Home link) must also dismiss any open reader,
+      // otherwise its DOM/.reading state resurfaces when the Workspace returns.
+      if (!onWorkspace && openReaderId) {
+        openReaderId = null;
+        document.querySelector("#reader").classList.add("hidden");
+        document.querySelector(".layout").classList.remove("reading");
+      }
       homeView.classList.toggle("hidden", onWorkspace);
       workspaceEls.forEach((el) => el && el.classList.toggle("hidden", !onWorkspace));
       if (!onWorkspace) renderHome();
