@@ -1,14 +1,20 @@
 ---
 citation: CONTRAN 970/2022
+commodities:
+- Lighting modules
 id: br-contran-970
 last_pulled: '2026-06-01T18:53:17+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9702022.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Lighting, Signalling Systems and Devices
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Lighting, Signalling Systems and Devices

@@ -1,5 +1,11 @@
 ---
 citation: ISO/SAE 21434
+commodities:
+- ECUs
+- ADAS sensors
+- Wiring
+- Connectors
+- Power electronics
 id: other-workbook-reg-0645-iso-sae-21434
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +13,15 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/70918.html
 status: in-force
-tagging_status: untagged
+systems:
+- Cybersecurity
+- ADAS
+- On-board diagnostics
+- Software updates
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: Road vehicles - Cybersecurity engineering
+vehicle_categories: []
 ---
 
 # Road vehicles - Cybersecurity engineering

@@ -1,14 +1,27 @@
 ---
 citation: CONTRAN 954/2022
+commodities:
+- ECUs
+- ADAS sensors
 id: br-contran-954
 last_pulled: '2026-06-01T18:53:14+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9542022.pdf/@@download/file
 status: in-force
-tagging_status: untagged
+systems:
+- ADAS
+- Steering
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Mandatory Electronic Stability Control
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 # Mandatory Electronic Stability Control

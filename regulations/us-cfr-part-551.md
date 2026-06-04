@@ -1,13 +1,17 @@
 ---
 citation: 49 CFR Part 551
+commodities: []
 id: us-cfr-part-551
 last_pulled: '2026-06-01T18:43:49+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-551
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 551—PROCEDURAL RULES
+vehicle_categories: []
 ---
 
 ## PART 551—PROCEDURAL RULES

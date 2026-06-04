@@ -1,14 +1,22 @@
 ---
 citation: CONTRAN 37/1998
+commodities:
+- Wiring
+- Connectors
 id: br-contran-37
 last_pulled: '2026-06-01T18:53:17+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Identification and Lighting of Controls
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Identification and Lighting of Controls

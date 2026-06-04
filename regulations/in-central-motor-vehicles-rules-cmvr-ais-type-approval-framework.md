@@ -1,13 +1,31 @@
 ---
 citation: Central Motor Vehicles Rules (CMVR) / AIS Type Approval Framework
+commodities: []
 id: in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: IN
 source_api: spreadsheet
 source_url: https://www.araiindia.com/certification/certification/vehicle
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+- Crashworthiness
+- Restraints
+- Lighting & signaling
+- Braking
+- Steering
+- Tires & wheels
+- Visibility
+- Emissions
+- Fuel safety
+- ADAS
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: India passenger-vehicle type approval and AIS safety framework
+vehicle_categories:
+- Passenger car
 ---
 
 # India passenger-vehicle type approval and AIS safety framework

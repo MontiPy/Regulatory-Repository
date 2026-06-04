@@ -1,14 +1,28 @@
 ---
 citation: Japan Motor Vehicle Exhaust Emission Standards
+commodities:
+- ECUs
+- Exhaust
+- Fuel system
+- Batteries
+- Electric motors
+- Power electronics
 id: jp-srrv-japan-passenger-vehicle-exhaust-emission-standards
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/air/aq/mv/standards.html
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- On-board diagnostics
+- Fuel safety
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Japan Passenger Vehicle Exhaust Emission Standards
 translation_status: translated
+vehicle_categories:
+- Passenger car
 ---
 
 # Japan Passenger Vehicle Exhaust Emission Standards

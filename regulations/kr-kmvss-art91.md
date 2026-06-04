@@ -1,14 +1,25 @@
 ---
 citation: KMVSS Article 91
+commodities:
+- Fuel system
+- Fuel tanks
+- Hoses & lines
 id: kr-kmvss-art91
 last_pulled: '2026-05-23T15:30:57+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 91 — Fuel System Crash Safety for Flammable Liquid Fuel Vehicles
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## Article 91 — Fuel System Crash Safety for Flammable Liquid Fuel Vehicles

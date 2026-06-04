@@ -1,5 +1,7 @@
 ---
 citation: ISO 22628
+commodities:
+- Batteries
 id: other-workbook-reg-0650-iso-22628
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +9,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/35061.html
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Road vehicles - Recyclability and recoverability calculation method
+vehicle_categories: []
 ---
 
 # Road vehicles - Recyclability and recoverability calculation method

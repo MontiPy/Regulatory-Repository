@@ -1,13 +1,18 @@
 ---
 citation: Land Transport Rules / Approved Standards
+commodities: []
 id: nz-workbook-reg-0628-land-transport-rules-approved-standards
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: NZ
 source_api: spreadsheet
 source_url: https://www.nzta.govt.nz/vehicles/vehicle-types/vehicle-classes-and-standards/standards-that-apply-to-your-vehicle
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: New Zealand vehicle standards and recognized standards framework
+vehicle_categories:
+- Passenger car
 ---
 
 # New Zealand vehicle standards and recognized standards framework

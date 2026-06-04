@@ -1,5 +1,11 @@
 ---
 citation: China SRRC / MIIT Radio Transmission Equipment Type Approval
+commodities:
+- Wiring
+- ECUs
+- ADAS sensors
+- Infotainment
+- Connectors
 id: cn-china-srrc-miit-radio-transmission-equipment-type-approval
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +13,17 @@ region: CN
 source_api: spreadsheet
 source_url: https://www.srrc.org.cn/
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- ADAS
+- Cybersecurity
+- Theft prevention
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: China Telecom/RF - SRRC radio transmission equipment approval
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # China Telecom/RF - SRRC radio transmission equipment approval

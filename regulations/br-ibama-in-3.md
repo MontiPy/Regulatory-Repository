@@ -1,14 +1,23 @@
 ---
 citation: IBAMA IN 3/2021
+commodities:
+- ECUs
 id: br-ibama-in-3
 last_pulled: '2026-06-01T18:53:26+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.ibama.gov.br/component/legislacao/?legislacao=138776&view=legislacao
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: RDE Requirements for PROCONVE L7/L8 Light Passenger and Commercial Vehicles
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # RDE Requirements for PROCONVE L7/L8 Light Passenger and Commercial Vehicles

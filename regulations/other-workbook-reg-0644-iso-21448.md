@@ -1,5 +1,11 @@
 ---
 citation: ISO 21448
+commodities:
+- ECUs
+- ADAS sensors
+- Wiring
+- Connectors
+- Power electronics
 id: other-workbook-reg-0644-iso-21448
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +13,16 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/77490.html
 status: in-force
-tagging_status: untagged
+systems:
+- ADAS
+- Cybersecurity
+- Software updates
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Road vehicles - Safety of the intended functionality
+vehicle_categories:
+- Passenger car
 ---
 
 # Road vehicles - Safety of the intended functionality

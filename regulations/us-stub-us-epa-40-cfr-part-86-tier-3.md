@@ -1,13 +1,24 @@
 ---
 citation: US EPA 40 CFR Part 86 / Tier 3
+commodities:
+- Fuel system
+- Exhaust
+- ECUs
 id: us-stub-us-epa-40-cfr-part-86-tier-3
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: Light-duty Vehicle and Fuel Emission Standards
+vehicle_categories:
+- Passenger car
 ---
 
 # Light-duty Vehicle and Fuel Emission Standards

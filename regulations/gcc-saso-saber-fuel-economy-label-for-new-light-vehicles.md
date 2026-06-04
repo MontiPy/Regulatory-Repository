@@ -1,5 +1,6 @@
 ---
 citation: SASO SABER / Fuel Economy Label for New Light Vehicles
+commodities: []
 id: gcc-saso-saber-fuel-economy-label-for-new-light-vehicles
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,9 +8,13 @@ region: GCC
 source_api: spreadsheet
 source_url: https://saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?serviceid=419
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Saudi conformity platform and fuel economy label overlay
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Saudi conformity platform and fuel economy label overlay

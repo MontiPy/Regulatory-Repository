@@ -1,14 +1,19 @@
 ---
 citation: ABNT NBR 15145 / 9714
+commodities: []
 id: br-abnt-nbr-15145
 last_pulled: '2026-06-01T18:53:17+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
-tagging_status: untagged
+systems:
+- Noise
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Vehicle Noise (ABNT NBR 15145 / 9714)
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Vehicle Noise (ABNT NBR 15145 / 9714)

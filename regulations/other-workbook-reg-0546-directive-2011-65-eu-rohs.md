@@ -1,5 +1,12 @@
 ---
 citation: Directive 2011/65/EU / RoHS
+commodities:
+- Wiring
+- ECUs
+- ADAS sensors
+- Connectors
+- Power electronics
+- Infotainment
 id: other-workbook-reg-0546-directive-2011-65-eu-rohs
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,8 +14,15 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- EV charging
+- ADAS
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Materials / Electronics - RoHS
+vehicle_categories: []
 ---
 
 # Materials / Electronics - RoHS

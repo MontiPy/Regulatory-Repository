@@ -1,13 +1,21 @@
 ---
 citation: 49 CFR §571.129
+commodities:
+- Tires
+- Wheels
 id: us-fmvss-129
 last_pulled: '2026-06-01T18:39:54+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.129
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.
+vehicle_categories:
+- Passenger car
 ---
 
 ## § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.

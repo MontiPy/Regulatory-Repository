@@ -1,13 +1,23 @@
 ---
 citation: 49 CFR Part 585
+commodities:
+- Airbags
 id: us-cfr-part-585
 last_pulled: '2026-06-01T18:45:16+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-585
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 585—PHASE-IN REPORTING REQUIREMENTS
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## PART 585—PHASE-IN REPORTING REQUIREMENTS

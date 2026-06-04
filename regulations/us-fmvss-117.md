@@ -1,13 +1,20 @@
 ---
 citation: 49 CFR §571.117
+commodities:
+- Tires
 id: us-fmvss-117
 last_pulled: '2026-06-01T18:39:07+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.117
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: § 571.117 Standard No. 117; Retreaded pneumatic tires.
+vehicle_categories:
+- Passenger car
 ---
 
 ## § 571.117 Standard No. 117; Retreaded pneumatic tires.

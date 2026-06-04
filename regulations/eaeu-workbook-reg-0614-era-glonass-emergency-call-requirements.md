@@ -1,15 +1,26 @@
 ---
 citation: ERA-GLONASS emergency call requirements
+commodities:
+- ECUs
+- Batteries
+- Wiring
+- Connectors
 id: eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: EAEU
 source_api: spreadsheet
 source_url: https://en.glonassunion.ru/era-glonass/info
 status: in-force
-tagging_status: untagged
+systems:
+- Cybersecurity
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Automatic emergency call equipment requirements linked to EAEU/Russia vehicle
   approval
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Automatic emergency call equipment requirements linked to EAEU/Russia vehicle approval

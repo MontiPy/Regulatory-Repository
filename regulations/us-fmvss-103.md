@@ -1,13 +1,26 @@
 ---
 citation: 49 CFR §571.103
+commodities:
+- Glass
+- HVAC
+- Wipers & washers
 id: us-fmvss-103
 last_pulled: '2026-06-01T18:38:27+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.103
 status: in-force
-tagging_status: untagged
+systems:
+- Visibility
+- HVAC
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.103 Standard No. 103; Windshield defrosting and defogging systems.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## § 571.103 Standard No. 103; Windshield defrosting and defogging systems.

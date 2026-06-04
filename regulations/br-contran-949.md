@@ -1,14 +1,25 @@
 ---
 citation: CONTRAN 949/2022
+commodities:
+- Airbags
+- Seatbelts
+- Body structure
 id: br-contran-949
 last_pulled: '2026-06-01T18:53:10+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9492022.pdf/@@download/file
 status: in-force
-tagging_status: untagged
+systems:
+- Crashworthiness
+- Restraints
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Side Impact Occupant Protection Against Deformable Barrier and Pole
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Side Impact Occupant Protection Against Deformable Barrier and Pole

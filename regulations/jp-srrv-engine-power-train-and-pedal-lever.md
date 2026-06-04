@@ -1,14 +1,28 @@
 ---
 citation: SRRV Art. 8
+commodities:
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Batteries
+- Power electronics
+- Connectors
 id: jp-srrv-engine-power-train-and-pedal-lever
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Battery safety
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Engine, Power Train and Pedal Lever
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Engine, Power Train and Pedal Lever

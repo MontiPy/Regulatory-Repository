@@ -1,13 +1,21 @@
 ---
 citation: 49 CFR Part 541
+commodities: []
 id: us-cfr-part-541
 last_pulled: '2026-06-01T18:43:34+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-541
 status: in-force
-tagging_status: untagged
+systems:
+- Theft prevention
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 541—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 541—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD

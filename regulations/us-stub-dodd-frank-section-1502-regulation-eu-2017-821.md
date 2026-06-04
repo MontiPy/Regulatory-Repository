@@ -1,13 +1,24 @@
 ---
 citation: Dodd-Frank Section 1502 / Regulation (EU) 2017/821
+commodities:
+- Batteries
+- ECUs
+- Wiring
+- Connectors
+- Power electronics
 id: us-stub-dodd-frank-section-1502-regulation-eu-2017-821
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://eur-lex.europa.eu/eli/reg/2017/821/oj
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Conflict minerals and responsible sourcing due-diligence frameworks
+vehicle_categories: []
 ---
 
 # Conflict minerals and responsible sourcing due-diligence frameworks

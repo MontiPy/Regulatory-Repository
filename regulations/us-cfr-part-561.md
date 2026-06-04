@@ -1,13 +1,30 @@
 ---
 citation: 49 CFR Part 561
+commodities:
+- Batteries
+- Electric motors
+- Power electronics
+- Wiring
+- Connectors
+- Charging inlet
 id: us-cfr-part-561
 last_pulled: '2026-06-01T18:44:06+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-561
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+- EV charging
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 561—DOCUMENTATION FOR ELECTRIC-POWERED VEHICLES
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## PART 561—DOCUMENTATION FOR ELECTRIC-POWERED VEHICLES

@@ -1,13 +1,20 @@
 ---
 citation: 49 CFR §571.401
+commodities:
+- Door latches & hinges
 id: us-fmvss-401
 last_pulled: '2026-06-01T18:42:25+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.401
 status: in-force
-tagging_status: untagged
+systems:
+- Theft prevention
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.401 Standard No. 401; Interior trunk release.
+vehicle_categories:
+- Passenger car
 ---
 
 ## § 571.401 Standard No. 401; Interior trunk release.

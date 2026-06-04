@@ -1,14 +1,26 @@
 ---
 citation: KMVSS Article 53-2
+commodities:
+- ADAS sensors
+- Horn
 id: kr-kmvss-art53-2
 last_pulled: '2026-05-23T15:31:34+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Visibility
+- Pedestrian protection
+- Noise
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 53-2 — Rear Pedestrian Safety System
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## Article 53-2 — Rear Pedestrian Safety System

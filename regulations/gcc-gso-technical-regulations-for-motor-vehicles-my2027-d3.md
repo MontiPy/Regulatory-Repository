@@ -1,5 +1,6 @@
 ---
 citation: GSO Technical Regulations for Motor Vehicles MY2027-D3
+commodities: []
 id: gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +8,21 @@ region: GCC
 source_api: spreadsheet
 source_url: https://www.gso.org.sa/wp-content/uploads/2025/10/GSO-Technical-Regulations-MV-2027-MY-D3.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: GCC/GSO Motor Vehicle Technical Regulation Framework
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # GCC/GSO Motor Vehicle Technical Regulation Framework

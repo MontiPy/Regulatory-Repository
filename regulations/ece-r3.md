@@ -1,13 +1,18 @@
 ---
 citation: UN R3
+commodities: []
 id: ece-r3
 last_pulled: '2026-06-01T18:53:04+00:00'
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: UN Regulation No. 3 — Retro-Reflecting Devices
+vehicle_categories: []
 ---
 
 # UN Regulation No. 3 — Retro-Reflecting Devices

@@ -1,5 +1,11 @@
 ---
 citation: GSO-ECE 13H:2012
+commodities:
+- Brakes
+- Hoses & lines
+- Pedals
+- ECUs
+- Wiring
 id: gcc-gso-ece-13h-2012
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +13,14 @@ region: GCC
 source_api: spreadsheet
 source_url: https://www.gso.org.sa/store/standards/GSO%3A476247/?lang=en
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: Braking System of Passenger Cars and Multi Purpose Vehicles
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Braking System of Passenger Cars and Multi Purpose Vehicles

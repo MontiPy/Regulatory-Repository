@@ -1,14 +1,24 @@
 ---
 citation: SRRV / TRIAS / UN R145
+commodities:
+- Seats
+- Airbags
+- Seatbelts
+- ECUs
 id: jp-srrv-isofix-and-child-restraint-anchorages
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Crashworthiness
+- Restraints
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: ISOFIX and Child Restraint Anchorages
 translation_status: translated
+vehicle_categories: []
 ---
 
 # ISOFIX and Child Restraint Anchorages

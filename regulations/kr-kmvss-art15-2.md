@@ -1,14 +1,30 @@
 ---
 citation: KMVSS Article 15-2
+commodities:
+- ECUs
+- Brakes
+- Wiring
+- Power electronics
 id: kr-kmvss-art15-2
 last_pulled: '2026-05-23T15:30:43+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- ADAS
+- Braking
+- Tell-tales & controls
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 15-2 — Electronic Stability Control
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 15-2 — Electronic Stability Control

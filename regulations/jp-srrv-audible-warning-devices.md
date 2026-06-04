@@ -1,14 +1,28 @@
 ---
 citation: SRRV / TRIAS / UN R28
+commodities:
+- Tires
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Power electronics
+- Batteries
+- ECUs
 id: jp-srrv-audible-warning-devices
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Battery safety
+- Noise
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Audible Warning Devices
 translation_status: translated
+vehicle_categories: []
 ---
 
 # Audible Warning Devices

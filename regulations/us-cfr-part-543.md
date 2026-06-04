@@ -1,13 +1,19 @@
 ---
 citation: 49 CFR Part 543
+commodities: []
 id: us-cfr-part-543
 last_pulled: '2026-06-01T18:43:40+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-543
 status: in-force
-tagging_status: untagged
+systems:
+- Theft prevention
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 543—EXEMPTION FROM VEHICLE THEFT PREVENTION STANDARD
+vehicle_categories:
+- Passenger car
 ---
 
 ## PART 543—EXEMPTION FROM VEHICLE THEFT PREVENTION STANDARD

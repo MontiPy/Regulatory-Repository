@@ -1,14 +1,28 @@
 ---
 citation: KMVSS Article 24
+commodities:
+- Seats
+- Steering column
+- Pedals
 id: kr-kmvss-art24
 last_pulled: '2026-05-23T15:31:04+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Steering
+- Visibility
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 24 — Driver's Seat
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 24 — Driver's Seat

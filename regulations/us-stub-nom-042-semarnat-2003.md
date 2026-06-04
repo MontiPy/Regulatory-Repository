@@ -1,14 +1,31 @@
 ---
 citation: NOM-042-SEMARNAT-2003
+commodities:
+- Exhaust
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- ECUs
+- Batteries
+- Electric motors
+- Power electronics
 id: us-stub-nom-042-semarnat-2003
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Maximum permissible exhaust and evaporative emissions for new vehicles up to
   3,857 kg GVWR
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Maximum permissible exhaust and evaporative emissions for new vehicles up to 3,857 kg GVWR

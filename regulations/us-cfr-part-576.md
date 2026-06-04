@@ -1,13 +1,17 @@
 ---
 citation: 49 CFR Part 576
+commodities: []
 id: us-cfr-part-576
 last_pulled: '2026-06-01T18:44:47+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-576
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 576—RECORD RETENTION
+vehicle_categories: []
 ---
 
 ## PART 576—RECORD RETENTION

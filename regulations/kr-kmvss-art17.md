@@ -1,14 +1,23 @@
 ---
 citation: KMVSS Article 17
+commodities:
+- Fuel system
+- Fuel tanks
+- Hoses & lines
 id: kr-kmvss-art17
 last_pulled: '2026-05-23T15:30:49+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Emissions
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 17 — Fuel System
 translation_status: translated
+vehicle_categories: []
 ---
 
 ## Article 17 — Fuel System

@@ -1,5 +1,9 @@
 ---
 citation: GSO MY2027 emission limit implementation
+commodities:
+- Fuel system
+- Exhaust
+- ECUs
 id: gcc-gso-my2027-emission-limit-implementation
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +11,15 @@ region: GCC
 source_api: spreadsheet
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: GCC Member State Euro-level Emission Limits
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # GCC Member State Euro-level Emission Limits

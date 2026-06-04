@@ -1,14 +1,28 @@
 ---
 citation: SRRV / TRIAS
+commodities:
+- Glass
+- Lighting modules
+- Mirrors
+- Wiring
+- ECUs
+- Wipers & washers
 id: jp-srrv-windshield-wiping-washing-defrosting-and-defogging
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Visibility
+- Glazing
+- Tell-tales & controls
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Windshield Wiping, Washing, Defrosting and Defogging
 translation_status: translated
+vehicle_categories: []
 ---
 
 # Windshield Wiping, Washing, Defrosting and Defogging

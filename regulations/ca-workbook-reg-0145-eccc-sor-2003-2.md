@@ -1,13 +1,24 @@
 ---
 citation: ECCC SOR/2003-2
+commodities:
+- Fuel system
+- Exhaust
+- ECUs
+- Hoses & lines
 id: ca-workbook-reg-0145-eccc-sor-2003-2
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/sor-2003-2/index.html
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
+vehicle_categories:
+- Passenger car
 ---
 
 # On-Road Vehicle and Engine Emission Regulations

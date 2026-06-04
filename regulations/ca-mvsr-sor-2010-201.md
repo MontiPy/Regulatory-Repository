@@ -1,13 +1,26 @@
 ---
 citation: MVSR SOR-2010-201
+commodities:
+- Electric motors
+- Batteries
+- Fuel system
+- Fuel tanks
 id: ca-mvsr-sor-2010-201
 last_pulled: '2026-06-01T18:53:01+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Battery safety
+- EV charging
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 xml version="1.0"?SOR/2010-20120109:   23

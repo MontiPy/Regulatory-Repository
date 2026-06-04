@@ -1,14 +1,24 @@
 ---
 citation: KMVSS Article 90
+commodities:
+- Brakes
 id: kr-kmvss-art90
 last_pulled: '2026-05-23T15:30:46+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Braking
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 90 — Braking Performance
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Trailer
 ---
 
 ## Article 90 — Braking Performance

@@ -1,13 +1,22 @@
 ---
 citation: SOR/2010-90
+commodities:
+- Seats
+- Seatbelts
 id: ca-workbook-reg-0568-sor-2010-90
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/
 status: in-force
-tagging_status: untagged
+systems:
+- Restraints
+- Crashworthiness
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
+vehicle_categories:
+- Passenger car
 ---
 
 # Motor Vehicle Restraint Systems and Booster Seats Safety Regulations

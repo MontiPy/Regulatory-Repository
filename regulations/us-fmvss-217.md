@@ -1,13 +1,20 @@
 ---
 citation: 49 CFR §571.217
+commodities:
+- Glass
 id: us-fmvss-217
 last_pulled: '2026-06-01T18:41:13+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.217
 status: in-force
-tagging_status: untagged
+systems:
+- Glazing
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: § 571.217 Standard No. 217; Bus emergency exits and window retention and release.
+vehicle_categories:
+- Bus
 ---
 
 ## § 571.217 Standard No. 217; Bus emergency exits and window retention and release.

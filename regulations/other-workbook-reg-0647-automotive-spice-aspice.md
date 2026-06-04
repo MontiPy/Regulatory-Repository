@@ -1,5 +1,7 @@
 ---
 citation: Automotive SPICE (ASPICE)
+commodities:
+- ECUs
 id: other-workbook-reg-0647-automotive-spice-aspice
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +9,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://vda-qmc.de/en/publications/automotive-spice/
 status: in-force
-tagging_status: untagged
+systems:
+- Software updates
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Automotive software process assessment model
+vehicle_categories: []
 ---
 
 # Automotive software process assessment model

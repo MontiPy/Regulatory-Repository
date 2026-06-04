@@ -1,5 +1,6 @@
 ---
 citation: ISO 9001
+commodities: []
 id: other-workbook-reg-0642-iso-9001
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +8,11 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/62085.html
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Quality management systems - Requirements
+vehicle_categories: []
 ---
 
 # Quality management systems - Requirements

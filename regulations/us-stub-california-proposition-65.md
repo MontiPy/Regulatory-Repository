@@ -1,13 +1,19 @@
 ---
 citation: California Proposition 65
+commodities:
+- Batteries
 id: us-stub-california-proposition-65
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://oehha.ca.gov/proposition-65
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Safe Drinking Water and Toxic Enforcement Act warning requirements
+vehicle_categories: []
 ---
 
 # Safe Drinking Water and Toxic Enforcement Act warning requirements

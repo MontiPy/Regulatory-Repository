@@ -1,14 +1,18 @@
 ---
 citation: 49 CFR Part 593
+commodities: []
 id: us-cfr-part-593
 last_pulled: '2026-06-01T18:45:31+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-593
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 593—DETERMINATIONS THAT A VEHICLE NOT ORIGINALLY MANUFACTURED TO CONFORM
   TO THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS IS ELIGIBLE FOR IMPORTATION
+vehicle_categories: []
 ---
 
 ## PART 593—DETERMINATIONS THAT A VEHICLE NOT ORIGINALLY MANUFACTURED TO CONFORM TO THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS IS ELIGIBLE FOR IMPORTATION

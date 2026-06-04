@@ -1,5 +1,12 @@
 ---
 citation: GCC EV Technical Regulation Draft
+commodities:
+- Batteries
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Connectors
+- Power electronics
 id: gcc-gcc-ev-technical-regulation-draft
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +14,14 @@ region: GCC
 source_api: spreadsheet
 source_url: https://www.tuv.com/regulations-and-standards/en/gso-technical-requirements-for-electric-vehicle.html
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Battery safety
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Technical Requirements for Battery Electric Vehicles
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Technical Requirements for Battery Electric Vehicles

@@ -1,14 +1,21 @@
 ---
 citation: 49 CFR §571.109
+commodities:
+- Tires
 id: us-fmvss-109
 last_pulled: '2026-06-01T18:38:47+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.109
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: § 571.109 Standard No. 109; New pneumatic tires for vehicles manufactured from
   1949 to 1975, bias ply tires, and T-type spare tires.
+vehicle_categories:
+- Passenger car
 ---
 
 ## § 571.109 Standard No. 109; New pneumatic tires for vehicles manufactured from 1949 to 1975, bias ply tires, and T-type spare tires.

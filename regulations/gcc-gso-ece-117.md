@@ -1,5 +1,8 @@
 ---
 citation: GSO-ECE 117
+commodities:
+- Tires
+- Wheels
 id: gcc-gso-ece-117
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +10,15 @@ region: GCC
 source_api: spreadsheet
 source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+- Noise
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Tyre Rolling Resistance, Wet Grip and Rolling Sound
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Tyre Rolling Resistance, Wet Grip and Rolling Sound

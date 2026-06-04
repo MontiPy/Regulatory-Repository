@@ -1,14 +1,23 @@
 ---
 citation: SRRV / TRIAS / UN R157
+commodities:
+- ECUs
+- ADAS sensors
 id: jp-srrv-automated-lane-keeping-automated-driving-systems
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- ADAS
+- Braking
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Automated Lane Keeping / Automated Driving Systems
 translation_status: translated
+vehicle_categories: []
 ---
 
 # Automated Lane Keeping / Automated Driving Systems

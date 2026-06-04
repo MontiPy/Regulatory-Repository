@@ -1,13 +1,24 @@
 ---
 citation: 40 CFR Part 1066
+commodities:
+- Exhaust
 id: us-40cfr-part-1066
 last_pulled: '2026-06-01T18:45:59+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-1066
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 1066—VEHICLE-TESTING PROCEDURES
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## PART 1066—VEHICLE-TESTING PROCEDURES

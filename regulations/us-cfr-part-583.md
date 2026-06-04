@@ -1,13 +1,19 @@
 ---
 citation: 49 CFR Part 583
+commodities: []
 id: us-cfr-part-583
 last_pulled: '2026-06-01T18:45:09+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-583
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: PART 583—AUTOMOBILE PARTS CONTENT LABELING
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 583—AUTOMOBILE PARTS CONTENT LABELING

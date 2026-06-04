@@ -1,14 +1,20 @@
 ---
 citation: JVSR Article 30
+commodities:
+- Exhaust
 id: jp-jvsregs-art30
 last_pulled: '2026-06-01T18:52:41+00:00'
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-tagging_status: untagged
+systems:
+- Noise
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: JVSR Article 30 — Noise Suppression Devices
 translation_status: translated
+vehicle_categories: []
 ---
 
 ## Article 30 — Noise Suppression Devices

@@ -1,13 +1,19 @@
 ---
 citation: 49 CFR Part 569
+commodities:
+- Tires
 id: us-cfr-part-569
 last_pulled: '2026-06-01T18:44:32+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-569
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 569—REGROOVED TIRES
+vehicle_categories: []
 ---
 
 ## PART 569—REGROOVED TIRES

@@ -1,13 +1,21 @@
 ---
 citation: 49 CFR §571.404
+commodities:
+- Lighting modules
 id: us-fmvss-404
 last_pulled: '2026-06-01T18:42:30+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.404
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Visibility
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.404 Standard No. 404; Platform lift installations in motor vehicles.
+vehicle_categories:
+- Bus
 ---
 
 ## § 571.404 Standard No. 404; Platform lift installations in motor vehicles.

@@ -1,13 +1,29 @@
 ---
 citation: 40 CFR Part 85
+commodities:
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Connectors
+- ECUs
 id: us-40cfr-part-85
 last_pulled: '2026-06-01T18:45:48+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-85
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:27+00:00'
+tagging_status: llm-tagged
 title: PART 85—CONTROL OF AIR POLLUTION FROM MOBILE SOURCES
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## PART 85—CONTROL OF AIR POLLUTION FROM MOBILE SOURCES

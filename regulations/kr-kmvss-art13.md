@@ -1,14 +1,33 @@
 ---
 citation: KMVSS Article 13
+commodities:
+- Seatbelts
+- Fuel system
+- Horn
+- Wipers & washers
+- Pedals
+- Steering column
 id: kr-kmvss-art13
 last_pulled: '2026-05-23T15:30:39+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Tell-tales & controls
+- Lighting & signaling
+- Braking
+- Steering
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 13 — Controls and Indicators
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+- Off-road
 ---
 
 ## Article 13 — Controls and Indicators

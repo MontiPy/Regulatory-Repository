@@ -1,14 +1,28 @@
 ---
 citation: Noise Regulation Law / Motor Vehicle Noise
+commodities:
+- Tires
+- Exhaust
+- Electric motors
+- Horn
 id: jp-srrv-japan-motor-vehicle-noise-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/laws/air/noise/ch.html
 status: in-force
-tagging_status: untagged
+systems:
+- Noise
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Japan Motor Vehicle Noise Requirements
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Japan Motor Vehicle Noise Requirements

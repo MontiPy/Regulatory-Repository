@@ -1,13 +1,19 @@
 ---
 citation: 40 CFR Part 82
+commodities:
+- HVAC
 id: us-40cfr-part-82
 last_pulled: '2026-06-01T18:45:44+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-82
 status: in-force
-tagging_status: untagged
+systems:
+- HVAC
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: PART 82—PROTECTION OF STRATOSPHERIC OZONE
+vehicle_categories: []
 ---
 
 ## PART 82—PROTECTION OF STRATOSPHERIC OZONE

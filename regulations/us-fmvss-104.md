@@ -1,13 +1,24 @@
 ---
 citation: 49 CFR §571.104
+commodities:
+- Glass
+- Wipers & washers
 id: us-fmvss-104
 last_pulled: '2026-06-01T18:38:32+00:00'
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.104
 status: in-force
-tagging_status: untagged
+systems:
+- Visibility
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: § 571.104 Standard No. 104; Windshield wiping and washing systems.
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## § 571.104 Standard No. 104; Windshield wiping and washing systems.

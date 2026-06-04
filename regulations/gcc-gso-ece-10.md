@@ -1,5 +1,10 @@
 ---
 citation: GSO-ECE 10
+commodities:
+- Wiring
+- ECUs
+- Connectors
+- Power electronics
 id: gcc-gso-ece-10
 last_pulled: '2026-06-01T18:54:41+00:00'
 paywall: true
@@ -7,9 +12,13 @@ region: GCC
 source_api: spreadsheet
 source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Electromagnetic Compatibility
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Electromagnetic Compatibility

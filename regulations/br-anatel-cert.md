@@ -1,14 +1,18 @@
 ---
 citation: ANATEL Certification and Homologation
+commodities: []
 id: br-anatel-cert
 last_pulled: '2026-06-01T18:53:28+00:00'
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/anatel/pt-br/regulado/certificacao
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Brazil Telecommunications Product Certification and Homologation
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Brazil Telecommunications Product Certification and Homologation

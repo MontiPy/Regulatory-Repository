@@ -1,14 +1,29 @@
 ---
 citation: NOM-163-SEMARNAT-SCFI-2023
+commodities:
+- ECUs
+- Batteries
+- Electric motors
+- Fuel system
+- Exhaust
+- Power electronics
 id: mx-workbook-reg-0612-nom-163-semarnat-scfi-2023
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: MX
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-163-semarnat-scfi-2023/
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: CO2 emissions from new vehicles up to 3,857 kg GVWR
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # CO2 emissions from new vehicles up to 3,857 kg GVWR

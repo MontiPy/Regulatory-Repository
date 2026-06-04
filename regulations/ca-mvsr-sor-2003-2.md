@@ -1,13 +1,23 @@
 ---
 citation: MVSR SOR-2003-2
+commodities: []
 id: ca-mvsr-sor-2003-2
 last_pulled: '2026-06-01T18:52:51+00:00'
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+tagged_at: '2026-06-04T19:08:25+00:00'
+tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 xml version="1.0"?SOR/2003-2200212:   12

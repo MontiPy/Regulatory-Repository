@@ -1,13 +1,18 @@
 ---
 citation: Register of Approved Vehicles (RAV)
+commodities: []
 id: au-workbook-reg-0371-register-of-approved-vehicles-rav
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/register-approved-vehicles
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: Register of Approved Vehicles Entry Requirements
+vehicle_categories: []
 ---
 
 # Register of Approved Vehicles Entry Requirements

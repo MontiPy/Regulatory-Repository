@@ -1,14 +1,20 @@
 ---
 citation: KMVSS Article 112-7
+commodities:
+- Glass
 id: kr-kmvss-art112-7
 last_pulled: '2026-05-23T15:31:28+00:00'
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-tagging_status: untagged
+systems:
+- Glazing
+tagged_at: '2026-06-04T19:08:26+00:00'
+tagging_status: llm-tagged
 title: KMVSS Article 112-7 — Glazing Components
 translation_status: translated
+vehicle_categories: []
 ---
 
 ## Article 112-7 — Glazing Components
