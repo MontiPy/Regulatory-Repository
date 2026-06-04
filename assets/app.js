@@ -572,6 +572,22 @@
       route();
     });
 
+    homeView.addEventListener("click", (event) => {
+      const sortBtn = event.target.closest("[data-set-sort]");
+      if (sortBtn) {
+        homeSort[sortBtn.dataset.setSort] = sortBtn.dataset.sort;
+        renderHome();
+        return;
+      }
+      const moreBtn = event.target.closest("[data-more-for]");
+      if (moreBtn) {
+        const k = moreBtn.dataset.moreFor;
+        homeShowAll[k] = !homeShowAll[k];
+        renderHome();
+        return;
+      }
+    });
+
     document.addEventListener("keydown", (event) => {
       const target = event.target;
       const isTyping = target instanceof HTMLInputElement || target instanceof HTMLTextAreaElement || target.isContentEditable;
