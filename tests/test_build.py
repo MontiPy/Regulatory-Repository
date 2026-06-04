@@ -10,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.build import (
     BuildIssue,
     as_list,
+    load_region_series,
     render_markdown,
     report_line,
     stringify,
@@ -175,3 +176,13 @@ class TestReportLine:
     def test_missing_id_placeholder(self):
         line = report_line({}, [])
         assert "(missing id)" in line
+
+
+class TestLoadRegionSeries:
+    def test_known_region_has_series_and_name(self):
+        mapping = load_region_series()
+        assert mapping["US"]["series"] == "FMVSS"
+        assert mapping["US"]["name"] == "United States"
+
+    def test_returns_dict(self):
+        assert isinstance(load_region_series(), dict)

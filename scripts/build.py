@@ -124,6 +124,19 @@ def load_taxonomy() -> tuple[dict[str, list[str]], dict[str, set[str]]]:
     return taxonomy, taxonomy_sets
 
 
+def load_region_series() -> dict[str, dict[str, str]]:
+    with TAXONOMY_PATH.open("r", encoding="utf-8") as handle:
+        raw = yaml.safe_load(handle) or {}
+    series = raw.get("region_series", {}) or {}
+    return {
+        str(region): {
+            "series": str((entry or {}).get("series", "")),
+            "name": str((entry or {}).get("name", region)),
+        }
+        for region, entry in series.items()
+    }
+
+
 def as_list(value: Any, field: str, issues: list[BuildIssue]) -> list[Any]:
     if value is None:
         return []

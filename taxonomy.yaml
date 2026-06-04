@@ -72,3 +72,17 @@ vehicle_categories:
   - Bus
   - Trailer
   - Off-road
+
+region_series:
+  US: { series: FMVSS, name: United States }
+  CA: { series: CMVSS, name: Canada }
+  KR: { series: KMVSS, name: South Korea }
+  AU: { series: ADR, name: Australia }
+  ECE: { series: "UN R", name: UNECE }
+  JP: { series: JVSR, name: Japan }
+  BR: { series: CONTRAN, name: Brazil }
+  CN: { series: GB, name: China }
+  GCC: { series: GSO, name: Gulf Cooperation Council }
+  IN: { series: AIS, name: India }
+  EU: { series: EU, name: European Union }
+  OTHER: { series: "", name: Other }
