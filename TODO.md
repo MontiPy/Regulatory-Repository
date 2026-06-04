@@ -35,6 +35,21 @@ Confirmed from existing connectors/manifests:
 
 ---
 
+## Phase 1 Build Rearchitecture — follow-ups (from final review)
+
+- [ ] **Auto-tag `custom_id` length.** `auto_tag.py` skips 26 records whose `id` exceeds the
+  Batch API's 64-char `custom_id` limit (workbook/long-slug entries). Truncate/hash the id for
+  `custom_id` and map back on import so these get classified.
+- [ ] **`effective_date` / `last_amended` dropped.** Allowed in frontmatter (`OPTIONAL_KEYS`) but
+  `build_record` never copies them into the record dict, so they never reach the UI. Add them to
+  the emitted record if/when needed (pre-existing, low priority).
+- [ ] **Validate `source_url` scheme at build.** `source_url` is rendered as an `<a href>` in the
+  client but only `body_html` links go through bleach's protocol allow-list. Add a build-time check
+  that `source_url` starts with `http://`/`https://` to fully close a `javascript:` link vector
+  (low risk: source_urls come from controlled frontmatter).
+
+---
+
 ## UI Redesign — Data Coverage Tracks (enablers for the new front door)
 
 The redesign is coverage-aware and works at any fill level, but these data tracks make it shine:
