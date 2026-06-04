@@ -184,5 +184,7 @@ class TestLoadRegionSeries:
         assert mapping["US"]["series"] == "FMVSS"
         assert mapping["US"]["name"] == "United States"
 
-    def test_returns_dict(self):
-        assert isinstance(load_region_series(), dict)
+    def test_all_values_have_series_and_name_keys(self):
+        mapping = load_region_series()
+        for region, entry in mapping.items():
+            assert set(entry) == {"series", "name"}, region

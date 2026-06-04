@@ -116,22 +116,25 @@ class BuildIssue:
         return f"{self.severity}: {self.message}"
 
 
-def load_taxonomy() -> tuple[dict[str, list[str]], dict[str, set[str]]]:
+def _load_raw_taxonomy() -> dict:
     with TAXONOMY_PATH.open("r", encoding="utf-8") as handle:
-        raw = yaml.safe_load(handle) or {}
+        return yaml.safe_load(handle) or {}
+
+
+def load_taxonomy() -> tuple[dict[str, list[str]], dict[str, set[str]]]:
+    raw = _load_raw_taxonomy()
     taxonomy = {key: list(value or []) for key, value in raw.items()}
     taxonomy_sets = {key: set(values) for key, values in taxonomy.items()}
     return taxonomy, taxonomy_sets
 
 
 def load_region_series() -> dict[str, dict[str, str]]:
-    with TAXONOMY_PATH.open("r", encoding="utf-8") as handle:
-        raw = yaml.safe_load(handle) or {}
+    raw = _load_raw_taxonomy()
     series = raw.get("region_series", {}) or {}
     return {
         str(region): {
             "series": str((entry or {}).get("series", "")),
-            "name": str((entry or {}).get("name", region)),
+            "name": str((entry or {}).get("name", str(region))),
         }
         for region, entry in series.items()
     }
