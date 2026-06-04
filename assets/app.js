@@ -439,10 +439,11 @@
     function goToWorkspace(paramKey, paramValue) {
       const params = new URLSearchParams();
       if (paramKey) params.append(paramKey, paramValue);
-      history.replaceState(null, "", `${window.location.pathname}?${params.toString()}`);
+      const qs = params.toString();
+      history.replaceState(null, "", qs ? `${window.location.pathname}?${qs}` : window.location.pathname);
       applyUrlParams();   // sets the facet checkboxes / search box from the URL
       visibleLimit = PAGE_SIZE;
-      route();            // workspaceActiveFromUrl() is now true -> shows Workspace
+      route();            // workspaceActive() returns true -> shows Workspace
       render();
       updateClearButton();
       window.scrollTo(0, 0);
@@ -521,6 +522,7 @@
       visibleLimit = PAGE_SIZE;
       render();
       syncUrl();
+      route();
     }));
 
     cards.addEventListener("click", async (event) => {
@@ -597,7 +599,7 @@
       const browseAll = event.target.closest("[data-browse-all]");
       if (browseAll) {
         event.preventDefault();
-        // Mark the workspace in the URL FIRST, then route, so workspaceActiveFromUrl() is true.
+        // Mark the workspace in the URL FIRST, then route, so workspaceActive() returns true.
         history.replaceState(null, "", `${window.location.pathname}?view=results`);
         applyUrlParams();
         visibleLimit = PAGE_SIZE;
