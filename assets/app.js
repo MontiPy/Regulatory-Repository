@@ -159,6 +159,7 @@
         matchesFacet([r.region], sel.region) &&
         matchesFacet([r.status], sel.status) &&
         matchesFacet([r.tagging_status], sel.tagging_status) &&
+        matchesFacet([r.translation_status], sel.translation_status) &&
         matchesFacet(r.vehicle_categories || [], sel.vehicle_categories) &&
         matchesFacet(r.systems || [], sel.systems) &&
         matchesFacet(r.commodities || [], sel.commodities)
