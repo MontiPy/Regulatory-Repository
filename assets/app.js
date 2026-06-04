@@ -370,17 +370,21 @@
       return params.getAll(key).flatMap((v) => v.split(",")).filter(Boolean);
     }
 
-    function workspaceActiveFromUrl() {
-      const params = new URLSearchParams(window.location.search);
-      if (params.get("view") === "home") return false;
-      if (params.get("view") === "results") return true;
-      if ((params.get("q") || "").trim()) return true;
-      if (params.has("avail")) return true;
-      return FILTERS.some((f) => valuesFromParams(params, f.key).length > 0);
+    function workspaceActive() {
+      // Explicit view markers win (used by Home-link and the browse-all link).
+      const view = new URLSearchParams(window.location.search).get("view");
+      if (view === "home") return false;
+      if (view === "results") return true;
+      // Otherwise decide from LIVE state — the URL lags behind because syncUrl()
+      // is debounced, so reading it here would miss the just-typed query/facet.
+      if (searchInput.value.trim()) return true;
+      if (filtersForm.querySelector("input:checked")) return true;
+      const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
+      return !(shown.length === 1 && shown[0] === "full");
     }
 
     function route() {
-      const onWorkspace = workspaceActiveFromUrl();
+      const onWorkspace = workspaceActive();
       homeView.classList.toggle("hidden", onWorkspace);
       workspaceEls.forEach((el) => el && el.classList.toggle("hidden", !onWorkspace));
       if (!onWorkspace) renderHome();
