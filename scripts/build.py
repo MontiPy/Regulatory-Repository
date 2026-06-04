@@ -292,9 +292,8 @@ def _ensure_data_dir(dist_dir: Path) -> Path:
 
 def copy_static_assets(dist_dir: Path) -> None:
     dest = dist_dir / "assets"
-    if dest.exists():
-        shutil.rmtree(dest)
-    shutil.copytree(ASSETS_DIR, dest)
+    dest.mkdir(parents=True, exist_ok=True)
+    shutil.copytree(ASSETS_DIR, dest, dirs_exist_ok=True)
 
 
 def write_index_json(records: list[dict[str, Any]], dist_dir: Path) -> None:

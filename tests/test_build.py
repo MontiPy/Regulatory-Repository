@@ -291,6 +291,13 @@ class TestCopyAssets:
         assert (tmp_path / "assets" / "app.js").exists()
         assert (tmp_path / "assets" / "vendor" / "minisearch.min.js").exists()
 
+    def test_idempotent_on_existing_dest(self, tmp_path):
+        copy_static_assets(tmp_path)
+        copy_static_assets(tmp_path)  # must not raise on pre-existing dest
+        assert (tmp_path / "assets" / "styles.css").exists()
+        assert (tmp_path / "assets" / "app.js").exists()
+        assert (tmp_path / "assets" / "vendor" / "minisearch.min.js").exists()
+
 
 class TestRenderShell:
     def test_shell_has_no_embedded_records(self, tmp_path):
