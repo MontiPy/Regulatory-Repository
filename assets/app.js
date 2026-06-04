@@ -15,6 +15,7 @@
       { key: "tagging_status",     label: "Tagging Status",   taxonomyKey: "tagging_statuses",     tooltip: "Whether the regulation has been classified with metadata (systems, commodities, vehicle categories). Untagged = not yet processed; LLM-tagged = classified automatically." },
       { key: "translation_status", label: "Translation",      taxonomyKey: "translation_statuses", tooltip: "Whether the regulation text has been translated to English. Untranslated = original language only." },
     ];
+    const PRIMARY_FILTERS = new Set(["region", "systems", "commodities"]);
 
     const searchInput   = document.querySelector("#search");
     const filtersForm   = document.querySelector("#filters-form");
@@ -341,11 +342,7 @@
 
     function buildFilters() {
       const DEFAULT_OPEN = new Set(["region"]);
-      filtersForm.innerHTML = FILTERS.map((filter) => {
-        // Only offer options that at least one record actually uses, and skip a
-        // facet entirely if it can't narrow anything (fewer than 2 used values —
-        // e.g. Status, where every record is currently "in-force").
-        // Offer only used values, most-populated first.
+      function sectionHtml(filter) {
         const options = (TAXONOMY[filter.taxonomyKey] || [])
           .filter((value) => (CORPUS_COUNTS[filter.key]?.[value] || 0) > 0)
           .sort((a, b) => (CORPUS_COUNTS[filter.key][b] || 0) - (CORPUS_COUNTS[filter.key][a] || 0));
@@ -357,20 +354,22 @@
               <input type="checkbox" id="${escapeHtml(id)}" name="${escapeHtml(filter.key)}" value="${escapeHtml(value)}">
               <span>${escapeHtml(displayLabel(value))}</span>
               <span class="facet-count" data-facet="${escapeHtml(filter.key)}" data-value="${escapeHtml(value)}" aria-hidden="true">0</span>
-            </label>
-          `;
+            </label>`;
         }).join("");
-        const infoIcon = filter.tooltip
-          ? `<span class="filter-info" data-tooltip="${escapeHtml(filter.tooltip)}">i</span>`
-          : "";
+        const infoIcon = filter.tooltip ? `<span class="filter-info" data-tooltip="${escapeHtml(filter.tooltip)}">i</span>` : "";
         return `
           <details${DEFAULT_OPEN.has(filter.key) ? " open" : ""}>
             <summary>${escapeHtml(filter.label)}${infoIcon}</summary>
             <div class="facet-options collapsed" data-facet="${escapeHtml(filter.key)}">${controls}</div>
             <button type="button" class="facet-more" data-more="${escapeHtml(filter.key)}"></button>
-          </details>
-        `;
-      }).join("");
+          </details>`;
+      }
+      const primary = FILTERS.filter((f) => PRIMARY_FILTERS.has(f.key)).map(sectionHtml).join("");
+      const secondary = FILTERS.filter((f) => !PRIMARY_FILTERS.has(f.key)).map(sectionHtml).join("");
+      filtersForm.innerHTML = primary
+        + (secondary.trim()
+            ? `<details class="more-filters"><summary>More filters</summary><div>${secondary}</div></details>`
+            : "");
     }
 
     // Per-facet "show all" state — facets start collapsed, hiding options with
