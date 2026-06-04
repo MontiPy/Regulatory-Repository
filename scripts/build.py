@@ -455,7 +455,23 @@ def build(draft: bool) -> int:
 
     report_lines = [report_line(record, issues) for record, issues in entries]
     REPORT_PATH.write_text("\n".join(report_lines) + ("\n" if report_lines else ""), encoding="utf-8")
-    render_index(records, taxonomy)
+    region_series = load_region_series()
+    region_counts = dict(Counter(r["region"] for r in records if r.get("region")))
+    tagging_status_counts = dict(Counter(r["tagging_status"] for r in records if r.get("tagging_status")))
+    build_meta = {
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "count": len(records),
+        "region_counts": region_counts,
+        "tagging_status_counts": tagging_status_counts,
+    }
+
+    DIST_DIR.mkdir(parents=True, exist_ok=True)
+    write_index_json(records, DIST_DIR)
+    write_record_bodies(records, DIST_DIR)
+    write_taxonomy_json(taxonomy, region_series, DIST_DIR)
+    write_search_text(records, DIST_DIR)
+    copy_static_assets(DIST_DIR)
+    render_shell(build_meta, DIST_DIR)
 
     error_count = sum(
         1
@@ -472,7 +488,7 @@ def build(draft: bool) -> int:
     print(
         f"Build complete: {len(records)} records, "
         f"{error_count} errors, {warning_count} warnings. "
-        f"Wrote dist/index.html and .build_report.txt."
+        f"Wrote dist/ bundle (index.html, assets/, data/)."
     )
     return 1 if error_count else 0
 

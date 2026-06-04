@@ -301,3 +301,23 @@ class TestRenderShell:
         assert 'src="assets/app.js"' in html
         assert 'href="assets/styles.css"' in html
         assert "1 regulations" in html
+
+
+class TestBuildBundleIntegration:
+    def test_emits_full_bundle(self, tmp_path, monkeypatch):
+        from scripts import build as build_mod
+        monkeypatch.setattr(build_mod, "REGULATIONS_DIR", Path(__file__).parent / "fixtures" / "regs")
+        monkeypatch.setattr(build_mod, "DIST_DIR", tmp_path / "dist")
+        rc = build_mod.build(draft=True)
+        dist = tmp_path / "dist"
+        assert (dist / "index.html").exists()
+        assert (dist / "assets" / "app.js").exists()
+        index = json.loads((dist / "data" / "index.json").read_text(encoding="utf-8"))
+        ids = {r["id"] for r in index}
+        assert ids == {"us-fmvss-208", "eu-sample"}
+        assert all("body_html" not in r for r in index)
+        assert (dist / "data" / "records" / "us-fmvss-208.json").exists()
+        assert (dist / "data" / "taxonomy.json").exists()
+        search = json.loads((dist / "data" / "search-text.json").read_text(encoding="utf-8"))
+        assert any("brake" in s["text"].lower() for s in search)
+        assert rc in (0, 1)
