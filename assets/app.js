@@ -24,6 +24,9 @@
     const clearFilters  = document.querySelector("#clear-filters");
     const copyLink      = document.querySelector("#copy-link");
     const availBoxes    = Array.from(document.querySelectorAll("[data-avail]"));
+    const homeView      = document.querySelector("#home");
+    const workspaceEls  = [document.querySelector(".layout"), document.querySelector(".view-bar")];
+    const homeLink      = document.querySelector("#home-link");
     const expanded      = new Set();
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
@@ -356,6 +359,24 @@
       return params.getAll(key).flatMap((v) => v.split(",")).filter(Boolean);
     }
 
+    function workspaceActiveFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("view") === "home") return false;
+      if (params.get("view") === "results") return true;
+      if ((params.get("q") || "").trim()) return true;
+      if (params.has("avail")) return true;
+      return FILTERS.some((f) => valuesFromParams(params, f.key).length > 0);
+    }
+
+    function route() {
+      const onWorkspace = workspaceActiveFromUrl();
+      homeView.classList.toggle("hidden", onWorkspace);
+      workspaceEls.forEach((el) => el && el.classList.toggle("hidden", !onWorkspace));
+      if (!onWorkspace) renderHome();
+    }
+
+    function renderHome() { /* populated in Phase 2 Task 4 */ }
+
     function applyUrlParams() {
       const params = new URLSearchParams(window.location.search);
       searchInput.value = params.get("q") || "";
@@ -399,6 +420,7 @@
       render();
       syncUrl();
       updateClearButton();
+      route();
     });
 
     filtersForm.addEventListener("change", () => {
@@ -406,6 +428,7 @@
       render();
       syncUrl();
       updateClearButton();
+      route();
     });
 
     // "Show all / Show fewer" toggles per-facet reveal of zero-match options.
@@ -462,6 +485,7 @@
       render();
       syncUrl();
       updateClearButton();
+      route();
       searchInput.focus();
     });
 
@@ -480,6 +504,16 @@
         copyLink.textContent = "Copied!";
         setTimeout(() => { copyLink.textContent = prev; }, 1500);
       });
+    });
+
+    homeLink.addEventListener("click", () => {
+      history.replaceState(null, "", window.location.pathname);
+      searchInput.value = "";
+      filtersForm.querySelectorAll("input[type='checkbox']").forEach((el) => { el.checked = false; });
+      availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
+      visibleLimit = PAGE_SIZE;
+      route();
+      updateClearButton();
     });
 
     document.addEventListener("keydown", (event) => {
@@ -510,6 +544,7 @@
       applyUrlParams();
       render();
       updateClearButton();
+      route();
       if (typeof requestIdleCallback === "function") { requestIdleCallback(loadSearch); }
       else { setTimeout(loadSearch, 0); }
     }
