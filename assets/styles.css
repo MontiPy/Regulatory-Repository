@@ -179,6 +179,10 @@
       text-transform: uppercase;
       color: var(--fg-1);
       white-space: nowrap;
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
     }
 
     .search-wrap { display: block; }
