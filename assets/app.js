@@ -135,7 +135,8 @@
           searchEngine.addAll(docs);
           searchReady = true;
           if (searchInput.value.trim()) render();
-        });
+        })
+        .catch((err) => { console.warn("search index unavailable:", err); });
     }
 
     function readSelections() {
@@ -505,7 +506,10 @@
       if (typeof requestIdleCallback === "function") { requestIdleCallback(loadSearch); }
       else { setTimeout(loadSearch, 0); }
     }
-    boot();
+    boot().catch((err) => {
+      cards.innerHTML = '<div class="empty-state">Failed to load regulation data. Check the console for details.</div>';
+      console.error("boot failed:", err);
+    });
 
     (function () {
       const tip = document.getElementById("tip");
