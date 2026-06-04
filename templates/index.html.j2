@@ -14,7 +14,7 @@
   <header class="site-header">
     <div class="header-inner">
       <div class="header-brand">
-        <span class="header-title">Regulatory Repository</span>
+        <button type="button" class="header-title" id="home-link">Regulatory Repository</button>
       </div>
 
       <div class="search-wrap">
@@ -44,6 +44,30 @@
       </label>
     </div>
   </header>
+
+  <section id="home" class="home hidden" aria-label="Home">
+    <div class="home-hero">
+      <h1 class="home-title">Which regulations apply to your part, system, or market?</h1>
+      <p class="coverage-line" id="coverage-line"></p>
+    </div>
+    <div class="home-panels">
+      <section class="dir-panel" data-panel="systems">
+        <div class="dir-head"><span class="dir-label">Browse by System</span><span class="dir-sort" data-sort-for="systems"></span></div>
+        <div class="dir-tiles" data-tiles="systems"></div>
+        <button type="button" class="dir-more hidden" data-more-for="systems"></button>
+      </section>
+      <section class="dir-panel" data-panel="commodities">
+        <div class="dir-head"><span class="dir-label">Browse by Commodity</span><span class="dir-sort" data-sort-for="commodities"></span></div>
+        <div class="dir-tiles" data-tiles="commodities"></div>
+        <button type="button" class="dir-more hidden" data-more-for="commodities"></button>
+      </section>
+    </div>
+    <section class="dir-panel dir-panel-market" data-panel="region">
+      <div class="dir-head"><span class="dir-label">Browse by Market</span><span class="dir-sort" data-sort-for="region"></span></div>
+      <div class="dir-tiles" data-tiles="region"></div>
+      <button type="button" class="dir-more hidden" data-more-for="region"></button>
+    </section>
+  </section>
 
   <div class="layout">
     <aside class="filters" aria-label="Filters">
