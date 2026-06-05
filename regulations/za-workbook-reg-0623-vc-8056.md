@@ -14,6 +14,8 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Pneumatic tyres for passenger cars and trailers
+un_equivalent:
+- UN R30
 vehicle_categories:
 - Passenger car
 - Trailer

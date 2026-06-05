@@ -23,6 +23,9 @@ tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: Pedestrian Safety Performance
 translation_status: untranslated
+un_equivalent_ai:
+- UN R127
+- UN R114
 vehicle_categories: []
 ---
 

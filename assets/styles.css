@@ -866,3 +866,18 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
   .reader { position: fixed; inset: 75px 0 0 0; z-index: 30; border-left: none; }
 }
 .reg-card.is-reading { border-left: 3px solid var(--honda-red); padding-left: 17px; }
+
+/* ── AI-suggested UN equivalents ──────────────────────────────── */
+.chip.ai {
+  border: 1px dashed var(--honda-red, #cc0000);
+  background: color-mix(in srgb, var(--honda-red, #cc0000) 8%, transparent);
+  color: inherit;
+}
+.meta-item.ai .ai-note {
+  display: block;
+  font-size: 0.75rem;
+  font-style: italic;
+  opacity: 0.75;
+  margin: 0.15rem 0 0.25rem;
+}
+a.chip.ai:hover { text-decoration: underline; }

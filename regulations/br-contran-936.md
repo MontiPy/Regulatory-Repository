@@ -15,6 +15,8 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Seat Belt Reminder
 translation_status: untranslated
+un_equivalent_ai:
+- UN R16
 vehicle_categories: []
 ---
 

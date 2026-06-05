@@ -13,6 +13,9 @@ tagged_at: '2026-06-04T19:08:27+00:00'
 tagging_status: llm-tagged
 title: Saudi conformity platform and fuel economy label overlay
 translation_status: untranslated
+un_equivalent_ai:
+- UN R101
+- UN R154
 vehicle_categories:
 - Passenger car
 ---

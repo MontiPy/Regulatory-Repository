@@ -14,6 +14,9 @@ tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 30 — Noise Suppression Devices
 translation_status: translated
+un_equivalent_ai:
+- UN R51
+- UN R138
 vehicle_categories: []
 ---
 

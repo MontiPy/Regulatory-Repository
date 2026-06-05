@@ -15,6 +15,9 @@ systems:
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 126
+un_equivalent_ai:
+- UN R140
+- UN R13H
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -16,6 +16,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 105
+un_equivalent_ai:
+- UN R13
+- UN R139
 vehicle_categories:
 - Light truck
 - Heavy truck

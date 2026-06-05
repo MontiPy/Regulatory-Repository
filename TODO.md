@@ -37,9 +37,9 @@ Confirmed from existing connectors/manifests:
 
 ## Phase 1 Build Rearchitecture — follow-ups (from final review)
 
-- [ ] **Auto-tag `custom_id` length.** `auto_tag.py` skips 26 records whose `id` exceeds the
-  Batch API's 64-char `custom_id` limit (workbook/long-slug entries). Truncate/hash the id for
-  `custom_id` and map back on import so these get classified.
+- [x] **DONE — Auto-tag `custom_id` length.** `auto_tag.py` skipped 26 records whose `id` exceeded
+  the Batch API's 64-char `custom_id` limit. Added `custom_id_for()` (prefix + sha1 suffix) mapped
+  back on import; the final 26 are now classified. Corpus is **728/728 llm-tagged**.
 - [ ] **`effective_date` / `last_amended` dropped.** Allowed in frontmatter (`OPTIONAL_KEYS`) but
   `build_record` never copies them into the record dict, so they never reach the UI. Add them to
   the emitted record if/when needed (pre-existing, low priority).
@@ -66,14 +66,16 @@ Confirmed from existing connectors/manifests:
 
 The redesign is coverage-aware and works at any fill level, but these data tracks make it shine:
 
-- [ ] **Tag the backlog.** 630 of 728 records are `tagging_status: untagged` (only 98 classified
-  by commodity/system). Run the backlog through `scripts/auto_tag.py` so the "Browse by part/system"
-  directory is well-populated. Parallel track — gets its own spec/plan. (Path 1 of the agreed
-  "Path 1 + Path 2 together" approach.)
-- [ ] **Populate `un_equivalent` / `related`.** Currently EMPTY across all 728 records, so the
-  reading pane's "Equivalents & Related" panel renders only when data exists. Building cross-market
-  equivalence mappings (e.g. FMVSS 208 ↔ UN R94 ↔ CMVSS 208) would unlock journey C ("find the
-  equivalent in another market"). Schema + validation already exist in `build.py`. Future data track.
+- [x] **DONE — Tag the backlog.** All **728/728** records are now `llm-tagged` via
+  `scripts/auto_tag.py` (Batch API). The "Browse by part/system" directory is fully populated.
+- [x] **DONE — Populate `un_equivalent` / `related`.** Two provenance-separated fields:
+  `un_equivalent` (grounded, extracted from text by `scripts/extract_un_equivalent.py` — 74 records)
+  and `un_equivalent_ai` (LLM-inferred cross-market links via `scripts/infer_un_equivalent.py`
+  Batch API — 462 records, e.g. FMVSS 208 → UN R94). `related` is **derived in `build.py`** from
+  grounded shared-UN clusters (capped at 12); `un_index` (UN R → ECE id) is emitted to
+  `taxonomy.json`. Reader renders grounded as links and AI as a distinct **"AI-suggested — verify
+  against source"** block (also linked). AI values are kept out of the search corpus so the verify
+  caveat is never bypassed. Unlocks journey C ("find the equivalent in another market").
 
 ---
 

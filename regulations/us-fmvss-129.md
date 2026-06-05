@@ -14,6 +14,8 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.
+un_equivalent_ai:
+- UN R64
 vehicle_categories:
 - Passenger car
 ---

@@ -272,7 +272,7 @@ class TestBundleWriters:
         assert body["body_html"] == "<p>body a</p>"
 
     def test_taxonomy_json_includes_region_series(self, tmp_path):
-        write_taxonomy_json({"regions": ["US"]}, {"US": {"series": "FMVSS", "name": "United States"}}, tmp_path)
+        write_taxonomy_json({"regions": ["US"]}, {"US": {"series": "FMVSS", "name": "United States"}}, {}, tmp_path)
         data = json.loads((tmp_path / "data" / "taxonomy.json").read_text(encoding="utf-8"))
         assert data["regions"] == ["US"]
         assert data["region_series"]["US"]["series"] == "FMVSS"
@@ -328,3 +328,42 @@ class TestBuildBundleIntegration:
         search = json.loads((dist / "data" / "search-text.json").read_text(encoding="utf-8"))
         assert any("brake" in s["text"].lower() for s in search)
         assert rc in (0, 1)
+
+
+from scripts.build import derive_related, build_un_index
+
+
+def test_build_un_index_maps_un_number_to_ece_id():
+    records = [
+        {"id": "ece-r94", "un_equivalent": [], "un_equivalent_ai": []},
+        {"id": "ece-r13-h", "un_equivalent": [], "un_equivalent_ai": []},
+        {"id": "us-fmvss-208", "un_equivalent": [], "un_equivalent_ai": ["UN R94"]},
+    ]
+    assert build_un_index(records) == {"UN R94": "ece-r94", "UN R13H": "ece-r13-h"}
+
+
+def test_derive_related_links_grounded_siblings_and_ece_record():
+    records = [
+        {"id": "ece-r94", "un_equivalent": [], "un_equivalent_ai": []},
+        {"id": "us-fmvss-208", "un_equivalent": ["UN R94"], "un_equivalent_ai": []},
+        {"id": "ca-cmvss-208", "un_equivalent": ["UN R94"], "un_equivalent_ai": []},
+        {"id": "us-fmvss-101", "un_equivalent": [], "un_equivalent_ai": ["UN R94"]},
+    ]
+    related = derive_related(records)
+    assert set(related["us-fmvss-208"]) == {"ece-r94", "ca-cmvss-208"}
+    assert set(related["ece-r94"]) == {"us-fmvss-208", "ca-cmvss-208"}
+    assert related["us-fmvss-101"] == []
+
+
+def test_derive_related_caps_fan_out_at_12():
+    records = [{"id": "ece-r10", "un_equivalent": [], "un_equivalent_ai": []}]
+    records += [{"id": f"reg-{i}", "un_equivalent": ["UN R10"], "un_equivalent_ai": []} for i in range(20)]
+    related = derive_related(records)
+    assert len(related["ece-r10"]) == 12
+
+
+def test_un_equivalent_ai_validates_format():
+    from scripts.build import validate_un_equivalent_ai, BuildIssue
+    issues = []
+    validate_un_equivalent_ai({"un_equivalent_ai": ["UN R94", "bogus"]}, issues)
+    assert any("bogus" in i.message for i in issues)

@@ -15,6 +15,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 21 — Driver's Seat
 translation_status: translated
+un_equivalent_ai:
+- UN R125
+- UN R123
 vehicle_categories: []
 ---
 

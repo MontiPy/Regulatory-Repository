@@ -1,6 +1,7 @@
     let REGS = [];
     let TAXONOMY = {};
     let recordById = new Map();
+    let UN_INDEX = {};
     const bodyCache = new Map();      // id -> body_html (lazy)
     let searchEngine = null;          // MiniSearch instance (lazy)
     let searchReady = false;
@@ -219,9 +220,28 @@
       const links = values.map((id) => {
         const rec = recordById.get(id);
         if (!rec) return `<span class="chip">${escapeHtml(id)}</span>`;
-        return `<a class="chip" href="#reg-${slug(id)}">${escapeHtml(rec.title || id)}</a>`;
+        return `<a class="chip" href="?id=${encodeURIComponent(id)}" data-read="${escapeHtml(id)}">${escapeHtml(rec.title || id)}</a>`;
       }).join("");
       return `<div class="meta-item"><strong>Related</strong><div class="chips">${links}</div></div>`;
+    }
+
+    // Render UN R numbers as chips, linking to the ECE record when one exists.
+    // `unverified` adds the AI treatment (dashed, tinted) + a verify note.
+    function unChips(label, values, unverified) {
+      if (!values || values.length === 0) return "";
+      const cls = unverified ? "chip ai" : "chip";
+      const chips = values.map((un) => {
+        const targetId = UN_INDEX[un];
+        if (targetId && recordById.has(targetId)) {
+          const tip = unverified ? "AI-suggested — verify against source" : un;
+          return `<a class="${cls}" href="?id=${encodeURIComponent(targetId)}" data-read="${escapeHtml(targetId)}" title="${escapeHtml(tip)}">${escapeHtml(un)}</a>`;
+        }
+        return `<span class="${cls}">${escapeHtml(un)}</span>`;
+      }).join("");
+      const note = unverified
+        ? `<span class="ai-note">AI-suggested — verify against source</span>`
+        : "";
+      return `<div class="meta-item${unverified ? " ai" : ""}"><strong>${escapeHtml(label)}</strong>${note}<div class="chips">${chips}</div></div>`;
     }
 
     function stubBanner(record) {
@@ -261,7 +281,8 @@
                 ${facetChips("Commodities", record.commodities)}
                 ${facetChips("Systems", record.systems)}
                 ${facetChips("Vehicle Categories", record.vehicle_categories)}
-                ${facetChips("UN Equivalent", record.un_equivalent)}
+                ${unChips("UN Equivalent", record.un_equivalent, false)}
+                ${unChips("AI-Suggested Equivalent", record.un_equivalent_ai, true)}
                 ${relatedLinks(record.related)}
                 ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
                 ${record.last_pulled ? `<div class="meta-item"><strong>Last Pulled</strong><span>${escapeHtml(record.last_pulled)}</span></div>` : ""}
@@ -617,6 +638,17 @@
       if (id === openReaderId) closeReader(); else openReader(id);
     });
 
+    // Cross-reference links (UN equivalents, AI-suggested, related) inside the
+    // reader open the target record in place. The real ?id= href preserves
+    // ctrl/middle-click (new tab) and no-JS fallback; left-click stays in-app.
+    document.querySelector("#reader-body").addEventListener("click", (event) => {
+      const link = event.target.closest("a[data-read]");
+      if (!link || event.metaKey || event.ctrlKey || event.shiftKey || event.button !== 0) return;
+      event.preventDefault();
+      const id = link.getAttribute("data-read");
+      if (id && id !== openReaderId) openReader(id);
+    });
+
     document.querySelector("#reader-close").addEventListener("click", closeReader);
 
     loadMore.addEventListener("click", () => {
@@ -742,6 +774,7 @@
       REGS = regs;
       TAXONOMY = taxonomy;
       recordById = new Map(REGS.map((r) => [r.id, r]));
+      UN_INDEX = (TAXONOMY && TAXONOMY.un_index) || {};
       rebuildCorpusCounts();
       buildFilters();
       applyUrlParams();

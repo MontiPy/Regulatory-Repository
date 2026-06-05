@@ -23,6 +23,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: India emission and fuel-consumption compliance framework
+un_equivalent_ai:
+- UN R101
+- UN R83
 vehicle_categories:
 - Passenger car
 - Light truck

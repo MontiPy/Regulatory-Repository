@@ -11,6 +11,9 @@ systems: []
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: PART 529—MANUFACTURERS OF MULTISTAGE AUTOMOBILES
+un_equivalent_ai:
+- UN R101
+- UN R154
 vehicle_categories: []
 ---
 

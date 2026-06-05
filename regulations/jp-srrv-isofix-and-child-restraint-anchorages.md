@@ -18,6 +18,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: ISOFIX and Child Restraint Anchorages
 translation_status: translated
+un_equivalent_ai:
+- UN R145
+- UN R14
 vehicle_categories: []
 ---
 

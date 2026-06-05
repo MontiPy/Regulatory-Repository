@@ -16,6 +16,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
+un_equivalent_ai:
+- UN R129
+- UN R44
 vehicle_categories: []
 ---
 

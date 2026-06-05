@@ -21,6 +21,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Technical Requirements for Battery Electric Vehicles
 translation_status: untranslated
+un_equivalent_ai:
+- UN R100
+- UN R153
 vehicle_categories: []
 ---
 

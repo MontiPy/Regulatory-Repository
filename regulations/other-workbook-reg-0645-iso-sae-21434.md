@@ -21,6 +21,8 @@ systems:
 tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Cybersecurity engineering
+un_equivalent:
+- UN R155
 vehicle_categories: []
 ---
 

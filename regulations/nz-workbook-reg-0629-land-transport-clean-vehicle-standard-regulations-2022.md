@@ -20,6 +20,9 @@ systems:
 tagged_at: '2026-06-05T02:16:05+00:00'
 tagging_status: llm-tagged
 title: New Zealand Clean Car Standard / Clean Vehicle Standard
+un_equivalent_ai:
+- UN R101
+- UN R154
 vehicle_categories:
 - Passenger car
 ---

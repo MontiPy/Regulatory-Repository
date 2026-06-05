@@ -11,6 +11,8 @@ systems: []
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: PART 536—TRANSFER AND TRADING OF FUEL ECONOMY CREDITS
+un_equivalent_ai:
+- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

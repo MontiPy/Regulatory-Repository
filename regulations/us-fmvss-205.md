@@ -14,6 +14,8 @@ systems:
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.205 Standard No. 205, Glazing materials.
+un_equivalent_ai:
+- UN R43
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -16,6 +16,8 @@ tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.126 Standard No. 126; Electronic stability control systems for light
   vehicles.
+un_equivalent_ai:
+- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

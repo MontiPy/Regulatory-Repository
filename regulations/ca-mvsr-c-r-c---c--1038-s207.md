@@ -13,6 +13,9 @@ systems:
 tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 207
+un_equivalent_ai:
+- UN R17
+- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -13,6 +13,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: PART 545—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD PHASE-IN AND SMALL-VOLUME
   LINE REPORTING REQUIREMENTS
+un_equivalent_ai:
+- UN R162
+- UN R116
 vehicle_categories: []
 ---
 

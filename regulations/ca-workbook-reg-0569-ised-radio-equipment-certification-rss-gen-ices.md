@@ -20,6 +20,8 @@ systems:
 tagged_at: '2026-06-05T02:16:05+00:00'
 tagging_status: llm-tagged
 title: Canada Radiofrequency and EMC Equipment Approval
+un_equivalent_ai:
+- UN R10
 vehicle_categories:
 - Passenger car
 - Light truck

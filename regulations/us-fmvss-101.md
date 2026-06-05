@@ -12,6 +12,8 @@ systems:
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.101 Standard No. 101; Controls and displays.
+un_equivalent_ai:
+- UN R121
 vehicle_categories:
 - Passenger car
 - Light truck

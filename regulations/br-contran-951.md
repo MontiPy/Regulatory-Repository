@@ -16,6 +16,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Seat Belts, Anchorages and Head Restraints
 translation_status: untranslated
+un_equivalent_ai:
+- UN R16
+- UN R17
 vehicle_categories: []
 ---
 

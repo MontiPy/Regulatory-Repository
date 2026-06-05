@@ -17,6 +17,9 @@ tagged_at: '2026-06-04T19:08:27+00:00'
 tagging_status: llm-tagged
 title: Side Impact Occupant Protection Against Deformable Barrier and Pole
 translation_status: untranslated
+un_equivalent_ai:
+- UN R135
+- UN R95
 vehicle_categories:
 - Passenger car
 - Light truck

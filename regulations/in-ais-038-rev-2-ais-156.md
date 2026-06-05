@@ -19,6 +19,8 @@ systems:
 tagged_at: '2026-06-04T19:08:27+00:00'
 tagging_status: llm-tagged
 title: India electric powertrain / traction battery safety standards
+un_equivalent:
+- UN R100
 vehicle_categories:
 - Passenger car
 ---

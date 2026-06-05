@@ -14,6 +14,9 @@ tagged_at: '2026-06-05T02:16:05+00:00'
 tagging_status: llm-tagged
 title: Malaysia vehicle type approval and environmental approval framework
 translation_status: untranslated
+un_equivalent_ai:
+- UN R83
+- UN R101
 vehicle_categories:
 - Passenger car
 ---

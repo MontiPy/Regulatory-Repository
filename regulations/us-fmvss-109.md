@@ -14,6 +14,8 @@ tagged_at: '2026-06-04T19:08:27+00:00'
 tagging_status: llm-tagged
 title: § 571.109 Standard No. 109; New pneumatic tires for vehicles manufactured from
   1949 to 1975, bias ply tires, and T-type spare tires.
+un_equivalent_ai:
+- UN R30
 vehicle_categories:
 - Passenger car
 ---
