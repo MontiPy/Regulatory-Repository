@@ -51,13 +51,12 @@ Confirmed from existing connectors/manifests:
 
 ## Phase 3 Workspace — polish (non-blocking, from final review)
 
-- [ ] **`avail=none` has no removable chip.** When the user unchecks all three Availability boxes,
-  the state is non-default but the chip bar shows nothing to restore it — they must re-check a box
-  manually. Add a "Show: nothing" chip whose removal restores the default (full text).
-- [ ] **Remove dead CSS.** `.view-bar`, `.view-bar-label`, `.avail-option`, `.avail-option input`
-  (and the responsive `.view-bar` override) and `.reg-card.is-expanded` are now orphaned (their
-  elements/classes were replaced by the rail availability section and `.reg-card.is-reading`).
-  Harmless but worth a housekeeping pass in `assets/styles.css`.
+- [x] **DONE — `avail=none` removable chip.** When all three Availability boxes are unchecked,
+  `renderChips` now adds a "Show: nothing" chip (type `avail-none`); removing it restores the default
+  (full text only). Round-trips through `?avail=none`. Browser-verified.
+- [x] **DONE — Remove dead CSS.** Removed `.view-bar`, `.view-bar-label`, `.avail-option`,
+  `.avail-option input`, the responsive `.view-bar` override, and `.reg-card.is-expanded` from
+  `assets/styles.css` (all orphaned). Confirmed zero remaining references; page renders unchanged.
 
 ---
 

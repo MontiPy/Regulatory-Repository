@@ -225,39 +225,6 @@
     }
     .btn-util:hover { border-color: var(--honda-red); color: var(--honda-red); }
 
-    /* ── Content-availability bar (its own header strip) ───────── */
-    .view-bar {
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 18px;
-      padding: 9px 28px;
-      border-top: 1px solid var(--line-1);
-      background: var(--bg-2);
-    }
-    .view-bar-label {
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: var(--fg-3);
-    }
-    .avail-option {
-      display: inline-flex;
-      align-items: center;
-      gap: 7px;
-      cursor: pointer;
-      font-size: 13px;
-      color: var(--fg-1);
-      user-select: none;
-    }
-    .avail-option input {
-      width: 14px; height: 14px;
-      accent-color: var(--honda-red);
-      cursor: pointer;
-      margin: 0;
-    }
-
     /* ── Layout ────────────────────────────────────────────────── */
     .layout {
       display: grid;
@@ -447,12 +414,6 @@
       border-color: var(--gray-4);
       box-shadow: 0 4px 16px rgba(35,36,41,0.10), 0 2px 4px rgba(35,36,41,0.06);
       transform: translateY(-1px);
-    }
-
-    /* Red left accent on expanded cards */
-    .reg-card.is-expanded {
-      border-left: 3px solid var(--honda-red);
-      padding-left: 17px;
     }
 
     .card-top {
@@ -790,8 +751,6 @@
       /* keep the brand from crowding the action buttons off-screen */
       .header-title { font-size: 12px; letter-spacing: 0.08em; overflow: hidden; text-overflow: ellipsis; }
       .header-brand { min-width: 0; }
-
-      .view-bar { padding: 9px 16px; gap: 14px; }
 
       .layout { grid-template-columns: 1fr; }
       .filters-toggle { display: block; }
