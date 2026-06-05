@@ -1,6 +1,7 @@
     let REGS = [];
     let TAXONOMY = {};
     let recordById = new Map();
+    let UN_INDEX = {};
     const bodyCache = new Map();      // id -> body_html (lazy)
     let searchEngine = null;          // MiniSearch instance (lazy)
     let searchReady = false;
@@ -224,6 +225,25 @@
       return `<div class="meta-item"><strong>Related</strong><div class="chips">${links}</div></div>`;
     }
 
+    // Render UN R numbers as chips, linking to the ECE record when one exists.
+    // `unverified` adds the AI treatment (dashed, tinted) + a verify note.
+    function unChips(label, values, unverified) {
+      if (!values || values.length === 0) return "";
+      const cls = unverified ? "chip ai" : "chip";
+      const chips = values.map((un) => {
+        const targetId = UN_INDEX[un];
+        if (targetId && recordById.has(targetId)) {
+          const tip = unverified ? "AI-suggested — verify against source" : un;
+          return `<a class="${cls}" href="#reg-${slug(targetId)}" title="${escapeHtml(tip)}">${escapeHtml(un)}</a>`;
+        }
+        return `<span class="${cls}">${escapeHtml(un)}</span>`;
+      }).join("");
+      const note = unverified
+        ? `<span class="ai-note">AI-suggested — verify against source</span>`
+        : "";
+      return `<div class="meta-item${unverified ? " ai" : ""}"><strong>${escapeHtml(label)}</strong>${note}<div class="chips">${chips}</div></div>`;
+    }
+
     function stubBanner(record) {
       if (record.source_api !== "spreadsheet") return "";
       const srcLink = record.source_url
@@ -261,7 +281,8 @@
                 ${facetChips("Commodities", record.commodities)}
                 ${facetChips("Systems", record.systems)}
                 ${facetChips("Vehicle Categories", record.vehicle_categories)}
-                ${facetChips("UN Equivalent", record.un_equivalent)}
+                ${unChips("UN Equivalent", record.un_equivalent, false)}
+                ${unChips("AI-Suggested Equivalent", record.un_equivalent_ai, true)}
                 ${relatedLinks(record.related)}
                 ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
                 ${record.last_pulled ? `<div class="meta-item"><strong>Last Pulled</strong><span>${escapeHtml(record.last_pulled)}</span></div>` : ""}
@@ -742,6 +763,7 @@
       REGS = regs;
       TAXONOMY = taxonomy;
       recordById = new Map(REGS.map((r) => [r.id, r]));
+      UN_INDEX = (TAXONOMY && TAXONOMY.un_index) || {};
       rebuildCorpusCounts();
       buildFilters();
       applyUrlParams();
