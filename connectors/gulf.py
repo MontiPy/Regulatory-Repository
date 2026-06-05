@@ -35,3 +35,28 @@ def master_pdf_live(session: Any) -> bool:
     if getattr(resp, "status_code", 200) != 200:
         return False
     return "pdf" in resp.headers.get("Content-Type", "").lower()
+
+
+def build_body(citation: str, title: str | None, url: str, reachable: bool) -> str:
+    head = f"{citation} — {title}" if title else citation
+    lines = [f"# {head}", "", f"**Citation:** {citation}", ""]
+    if reachable:
+        lines += [
+            "This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor "
+            "Vehicles**. Individual GSO standards are published and sold by the GCC "
+            "Standardization Organization; their full text is not freely available. The "
+            "consolidated list of GSO motor-vehicle technical regulations (number, model "
+            "year, subject) is published by GSO:",
+            "",
+            f"[GSO Technical Regulations for Motor Vehicles (consolidated list)]({url})",
+        ]
+    else:
+        lines += [
+            "This Gulf (GSO) standard is part of the GCC Technical Regulation for Motor "
+            "Vehicles. Individual GSO standards are sold by the GCC Standardization "
+            "Organization. The consolidated GSO regulation list could not be reached "
+            "automatically at build time; see the source link for the official record.",
+            "",
+            f"[Official source]({url})",
+        ]
+    return "\n".join(lines)

@@ -23,3 +23,18 @@ def test_master_pdf_live_false_for_404():
 
 def test_master_pdf_live_false_on_exception():
     assert master_pdf_live(FakeSession(raises=True)) is False
+
+from connectors.gulf import build_body
+
+def test_build_body_links_master_when_reachable():
+    body = build_body("GSO 1053:2002", "Brake hoses", MASTER_URL, reachable=True)
+    assert "GSO 1053:2002" in body
+    assert "Brake hoses" in body
+    assert MASTER_URL in body
+    assert "sold" in body.lower()
+
+def test_build_body_notes_unavailable_when_unreachable():
+    body = build_body("GSO 1053:2002", "Brake hoses", "https://fallback.example/x", reachable=False)
+    assert "GSO 1053:2002" in body
+    assert "https://fallback.example/x" in body
+    assert "could not be reached" in body.lower()
