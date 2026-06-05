@@ -1,14 +1,21 @@
 ---
 citation: QCVN 09:2024/BGTVT / Circular 48/2024/TT-BGTVT
+commodities: []
 id: asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: ASEAN
 source_api: spreadsheet
 source_url: https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/circular-48-2024-tt-bgtvt-technical-regulations-on-technical-environmental-protection-consumption-of-648713.html
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Vehicle identification
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Vietnam technical and environmental safety requirements for vehicles
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Vietnam technical and environmental safety requirements for vehicles

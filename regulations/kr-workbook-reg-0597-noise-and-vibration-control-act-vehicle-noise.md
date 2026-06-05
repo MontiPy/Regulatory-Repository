@@ -1,14 +1,24 @@
 ---
 citation: Noise and Vibration Control Act / Vehicle Noise
+commodities:
+- Exhaust
+- ECUs
+- Horn
+- Electric motors
 id: kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: KR
 source_api: spreadsheet
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=228119&urlMode=engLsInfoR&viewCls=engLsInfoR
 status: in-force
-tagging_status: untagged
+systems:
+- Noise
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Korea Motor Vehicle Noise Authentication and Standards
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Korea Motor Vehicle Noise Authentication and Standards

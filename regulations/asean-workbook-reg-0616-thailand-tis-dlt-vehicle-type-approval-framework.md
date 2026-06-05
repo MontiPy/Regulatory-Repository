@@ -1,14 +1,19 @@
 ---
 citation: Thailand TIS / DLT vehicle type approval framework
+commodities: []
 id: asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: ASEAN
 source_api: spreadsheet
 source_url: https://www.tisi.go.th/
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Thailand national vehicle and component conformity framework
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Thailand national vehicle and component conformity framework

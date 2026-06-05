@@ -1,13 +1,24 @@
 ---
 citation: Massachusetts General Laws Chapter 93K / Acts of 2020 Chapter 386
+commodities:
+- ECUs
+- Connectors
 id: us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: US
 source_api: spreadsheet
 source_url: https://malegislature.gov/Laws/SessionLaws/Acts/2020/Chapter386
 status: in-force
-tagging_status: untagged
+systems:
+- Cybersecurity
+- On-board diagnostics
+- Software updates
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Motor vehicle right-to-repair telematics data access
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Motor vehicle right-to-repair telematics data access

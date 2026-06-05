@@ -1,13 +1,27 @@
 ---
 citation: Land Transport (Clean Vehicle Standard) Regulations 2022
+commodities:
+- ECUs
+- Batteries
+- Electric motors
+- Fuel system
+- Exhaust
+- Power electronics
 id: nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: NZ
 source_api: spreadsheet
 source_url: https://www.legislation.govt.nz/regulation/public/2022/0285/latest/whole.html
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: New Zealand Clean Car Standard / Clean Vehicle Standard
+vehicle_categories:
+- Passenger car
 ---
 
 # New Zealand Clean Car Standard / Clean Vehicle Standard

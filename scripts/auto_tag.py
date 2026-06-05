@@ -22,6 +22,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -143,6 +144,20 @@ def parse_tags(text: str, taxonomy: dict[str, list[str]]) -> dict:
     return result
 
 
+def custom_id_for(reg_id: str) -> str:
+    """Map a record id to a valid Anthropic Batch API custom_id.
+
+    The Batch API requires custom_id to match ^[a-zA-Z0-9_-]{1,64}$. Record ids are
+    kebab-case slugs but some exceed 64 chars, so long ids are deterministically
+    shortened to a readable prefix plus a hash suffix (unique, reproducible across
+    runs so --poll can rebuild the same mapping).
+    """
+    if len(reg_id) <= 64:
+        return reg_id
+    digest = hashlib.sha1(reg_id.encode("utf-8")).hexdigest()[:12]
+    return f"{reg_id[:50]}-{digest}"  # 50 + 1 + 12 = 63 chars
+
+
 def run_batch(regulations: list[dict], taxonomy: dict[str, list[str]], dry_run: bool) -> str | None:
     try:
         import anthropic
@@ -163,7 +178,7 @@ def run_batch(regulations: list[dict], taxonomy: dict[str, list[str]], dry_run: 
             print(prompt[:300] + "...")
             continue
         requests.append({
-            "custom_id": reg["id"],
+            "custom_id": custom_id_for(reg["id"]),
             "params": {
                 "model": MODEL,
                 "max_tokens": MAX_TOKENS,
@@ -197,7 +212,7 @@ def poll_and_import(batch_id: str, regulations: list[dict], taxonomy: dict[str, 
         sys.exit(1)
 
     client = anthropic.Anthropic(api_key=api_key)
-    path_by_id = {reg["id"]: reg["path"] for reg in regulations}
+    path_by_cid = {custom_id_for(reg["id"]): reg["path"] for reg in regulations}
 
     print(f"Polling batch {batch_id} ...")
     while True:
@@ -222,7 +237,7 @@ def poll_and_import(batch_id: str, regulations: list[dict], taxonomy: dict[str, 
             continue
         text = result.result.message.content[0].text
         tags = parse_tags(text, taxonomy)
-        file_path = path_by_id.get(reg_id)
+        file_path = path_by_cid.get(reg_id)
         if not file_path:
             print(f"  WARN {reg_id}: no matching file found")
             skip += 1

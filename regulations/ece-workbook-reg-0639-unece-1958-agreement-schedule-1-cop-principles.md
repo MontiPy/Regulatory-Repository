@@ -1,13 +1,23 @@
 ---
 citation: UNECE 1958 Agreement / Schedule 1 CoP principles
+commodities: []
 id: ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: ECE
 source_api: spreadsheet
 source_url: https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: UNECE type approval and conformity-of-production framework
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # UNECE type approval and conformity-of-production framework

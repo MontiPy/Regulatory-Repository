@@ -1,15 +1,74 @@
 ---
 citation: Philippines motor vehicle/component conformity and emissions approval framework
+commodities:
+- Seats
+- Glass
+- Lighting modules
+- Tires
+- Brakes
+- Airbags
+- Seatbelts
+- Mirrors
+- Wheels
+- Wiring
+- ECUs
+- ADAS sensors
+- Batteries
+- Electric motors
+- Fuel system
+- Exhaust
+- HVAC
+- Infotainment
+- Body structure
+- Bumpers
+- Door latches & hinges
+- Steering column
+- Suspension
+- Fuel tanks
+- Hoses & lines
+- Connectors
+- Charging inlet
+- Power electronics
+- Horn
+- Wipers & washers
+- Pedals
 id: asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: ASEAN
 source_api: spreadsheet
 source_url: https://bps.dti.gov.ph/
 status: in-force
-tagging_status: untagged
+systems:
+- Lighting & signaling
+- Braking
+- Steering
+- Tires & wheels
+- Crashworthiness
+- Restraints
+- Visibility
+- Emissions
+- Fuel safety
+- EMC
+- EV charging
+- Battery safety
+- ADAS
+- Cybersecurity
+- Noise
+- Glazing
+- HVAC
+- Vehicle identification
+- Pedestrian protection
+- Theft prevention
+- Tell-tales & controls
+- On-board diagnostics
+- Software updates
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Philippines vehicle and component certification, COC and emissions/environmental
   framework
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Philippines vehicle and component certification, COC and emissions/environmental framework
