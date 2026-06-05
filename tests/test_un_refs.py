@@ -23,6 +23,13 @@ def test_scan_grounded_un_finds_only_un_ece_citations():
     found = scan_grounded_un(body)
     assert found == ["UN R94", "UN R95"]   # sorted, deduped; EC/junk/ambiguous excluded
 
+def test_scan_grounded_un_does_not_absorb_following_word_as_suffix():
+    # Portuguese "e" (and) must not become a variant suffix on the prior number.
+    found = scan_grounded_un("os requisitos UN R32, UN R34 e UN R94, conforme")
+    assert found == ["UN R32", "UN R34", "UN R94"]
+    # A genuine adjacent variant suffix is still captured.
+    assert scan_grounded_un("per UN R13H brake rules") == ["UN R13H"]
+
 
 def test_extract_writes_grounded_for_non_ece(tmp_path):
     import frontmatter

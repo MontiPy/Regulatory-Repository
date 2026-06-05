@@ -10,9 +10,12 @@ import re
 
 _CANON_RE = re.compile(r"^UN R(\d+)([A-Z]?)$")
 _ECE_ID_RE = re.compile(r"^ece-r(\d+)(?:-([a-z]))?$")
+# A variant suffix (e.g. R13H) is always ADJACENT to the number — no whitespace
+# between them. Allowing whitespace would absorb the first letter of a following
+# word as a bogus suffix (e.g. Portuguese "UN R34 e UN R94" -> "UN R34E").
 _CITATION_RE = re.compile(
-    r"\b(?:UN\s+R|ECE\s+R|UNECE\s+R)\s*(\d+)\s*([A-Za-z]?)\b"
-    r"|\b(?:UN|ECE|UNECE)\s+Regulation\s+No\.?\s*(\d+)\s*([A-Za-z]?)\b",
+    r"\b(?:UN\s+R|ECE\s+R|UNECE\s+R)\s*(\d+)([A-Za-z]?)\b"
+    r"|\b(?:UN|ECE|UNECE)\s+Regulation\s+No\.?\s*(\d+)([A-Za-z]?)\b",
     re.IGNORECASE,
 )
 
