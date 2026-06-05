@@ -22,3 +22,29 @@ def test_scan_grounded_un_finds_only_un_ece_citations():
     )
     found = scan_grounded_un(body)
     assert found == ["UN R94", "UN R95"]   # sorted, deduped; EC/junk/ambiguous excluded
+
+
+def test_extract_writes_grounded_for_non_ece(tmp_path):
+    import frontmatter
+    from scripts.extract_un_equivalent import extract_for_record
+    p = tmp_path / "us-fmvss-301.md"
+    p.write_text(
+        "---\nid: us-fmvss-301\nregion: US\ntitle: Fuel\n---\n"
+        "Harmonized with UN Regulation No. 34 on fuel tanks.\n",
+        encoding="utf-8",
+    )
+    changed = extract_for_record(p)
+    assert changed is True
+    assert frontmatter.load(p)["un_equivalent"] == ["UN R34"]
+
+def test_extract_skips_ece_self_reference(tmp_path):
+    import frontmatter
+    from scripts.extract_un_equivalent import extract_for_record
+    p = tmp_path / "ece-r94.md"
+    p.write_text(
+        "---\nid: ece-r94\nregion: ECE\ntitle: Frontal collision\n---\n"
+        "This is UN Regulation No. 94 itself.\n",
+        encoding="utf-8",
+    )
+    changed = extract_for_record(p)
+    assert frontmatter.load(p).get("un_equivalent", []) == []
