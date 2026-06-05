@@ -115,3 +115,10 @@ def test_pull_preserves_tags_and_unions_equivalents(tmp_path, monkeypatch):
     assert "occupants" in post["title"]
     assert "Old spreadsheet title" in post.get("aliases", [])
     assert "newGbInfo" in post["source_url"]
+
+
+def test_parse_detail_maps_feizhi_to_superseded():
+    # 废止 (abolished/replaced) must map to the taxonomy status "superseded",
+    # not an out-of-taxonomy "abolished" (regression: build rejected the latter).
+    html = "<div>标准状态</div><div class='content'>废止</div><div>在线预览</div>"
+    assert parse_detail(html)["status"] == "superseded"

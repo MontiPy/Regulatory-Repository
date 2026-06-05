@@ -86,8 +86,10 @@ def _status(html: str) -> str | None:
     raw = _field(html, "标准状态") or ""
     if "现行" in raw:
         return "in-force"
+    # 废止 (abolished) / 被代替 (replaced) -> a newer standard supersedes this one.
+    # "superseded" is the taxonomy's status for a standard no longer current.
     if any(tok in raw for tok in ("废止", "被代替", "作废", "已作废")):
-        return "abolished"
+        return "superseded"
     return None
 
 
@@ -130,7 +132,7 @@ def build_body(meta: dict[str, Any], gb_number: str, source_url: str) -> str:
     cn = (meta.get("cn_title") or "").strip()
     head = f"{gb_number} — {en}" if en else gb_number
     status = meta.get("status") or "unknown"
-    status_disp = {"in-force": "In-force", "abolished": "Abolished"}.get(status, status)
+    status_disp = {"in-force": "In-force", "superseded": "Superseded"}.get(status, status)
 
     lines = [f"# {head}", "", f"**Standard No.:** {gb_number}"]
     if cn:
