@@ -1,14 +1,26 @@
 ---
 citation: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
   (SOR/2010-201)
+commodities:
+- Batteries
+- Electric motors
+- Power electronics
 id: ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/
 status: in-force
-tagging_status: untagged
+systems:
+- Emissions
+- Battery safety
+- On-board diagnostics
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations

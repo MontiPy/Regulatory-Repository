@@ -1,13 +1,23 @@
 ---
 citation: Radiocommunications Equipment (General) Rules 2021 / ACMA
+commodities:
+- Infotainment
+- Connectors
+- Wiring
 id: au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: AU
 source_api: spreadsheet
 source_url: https://www.legislation.gov.au/F2021L00286/latest
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- Cybersecurity
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Australia RF Equipment Compliance for In-vehicle Radio Devices
+vehicle_categories:
+- Passenger car
 ---
 
 # Australia RF Equipment Compliance for In-vehicle Radio Devices

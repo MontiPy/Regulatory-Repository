@@ -1,14 +1,19 @@
 ---
 citation: Turkey motor vehicle type approval framework
+commodities: []
 id: tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
 region: TR
 source_api: spreadsheet
 source_url: https://urunkurallari.ticaret.gov.tr/en/sectoral-guide/motor-vehicles
 status: in-force
-tagging_status: untagged
+systems: []
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Turkey vehicle type approval aligned with EU framework
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Turkey vehicle type approval aligned with EU framework

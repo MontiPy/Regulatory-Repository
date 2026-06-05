@@ -1,13 +1,22 @@
 ---
 citation: Motor Vehicle Tire Safety Regulations (SOR/2013-198)
+commodities:
+- Tires
+- Wheels
 id: ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-198/
 status: in-force
-tagging_status: untagged
+systems:
+- Tires & wheels
+- Vehicle identification
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Motor Vehicle Tire Safety Regulations
+vehicle_categories:
+- Passenger car
 ---
 
 # Motor Vehicle Tire Safety Regulations

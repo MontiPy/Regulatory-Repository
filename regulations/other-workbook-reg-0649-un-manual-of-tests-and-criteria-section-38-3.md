@@ -1,5 +1,7 @@
 ---
 citation: UN Manual of Tests and Criteria, Section 38.3
+commodities:
+- Batteries
 id: other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3
 last_pulled: '2026-06-01T18:54:42+00:00'
 paywall: true
@@ -7,8 +9,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://unece.org/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023
 status: in-force
-tagging_status: untagged
+systems:
+- Battery safety
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Lithium battery transport tests
+vehicle_categories: []
 ---
 
 # Lithium battery transport tests

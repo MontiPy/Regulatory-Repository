@@ -1,13 +1,20 @@
 ---
 citation: Road Vehicle Standards Act 2018 / Road Vehicle Standards Rules 2019
+commodities: []
 id: au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/road-vehicle-standards-laws
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+- Theft prevention
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Road Vehicle Standards - Supply, Type Approval and Compliance Framework
+vehicle_categories:
+- Passenger car
 ---
 
 # Road Vehicle Standards - Supply, Type Approval and Compliance Framework

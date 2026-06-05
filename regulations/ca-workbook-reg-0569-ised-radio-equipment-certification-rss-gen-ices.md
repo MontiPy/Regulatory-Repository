@@ -1,13 +1,33 @@
 ---
 citation: ISED Radio Equipment Certification / RSS-Gen / ICES
+commodities:
+- Infotainment
+- ECUs
+- ADAS sensors
+- Wiring
+- Connectors
 id: ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: CA
 source_api: spreadsheet
 source_url: https://ised-isde.canada.ca/site/certification-engineering-bureau/en
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- ADAS
+- Cybersecurity
+- Tell-tales & controls
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Canada Radiofrequency and EMC Equipment Approval
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # Canada Radiofrequency and EMC Equipment Approval

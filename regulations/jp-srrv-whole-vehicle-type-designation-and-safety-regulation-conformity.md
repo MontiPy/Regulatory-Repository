@@ -1,14 +1,21 @@
 ---
 citation: Road Vehicles Act / SRRV
+commodities: []
 id: jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-tagging_status: untagged
+systems:
+- Vehicle identification
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Whole Vehicle Type Designation and Safety Regulation Conformity
 translation_status: translated
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Whole Vehicle Type Designation and Safety Regulation Conformity

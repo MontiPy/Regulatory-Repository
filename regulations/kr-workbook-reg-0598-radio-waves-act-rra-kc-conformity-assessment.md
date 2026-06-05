@@ -1,14 +1,27 @@
 ---
 citation: Radio Waves Act / RRA-KC Conformity Assessment
+commodities:
+- Infotainment
+- ECUs
+- ADAS sensors
+- Wiring
+- Connectors
 id: kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: KR
 source_api: spreadsheet
 source_url: https://www.law.go.kr/LSW/lsInfoP.do?efYd=20240724&lsiSeq=262501#0000
 status: in-force
-tagging_status: untagged
+systems:
+- EMC
+- ADAS
+- Cybersecurity
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Korea RF and EMC Conformity Assessment for Radio Equipment
 translation_status: untranslated
+vehicle_categories:
+- Passenger car
 ---
 
 # Korea RF and EMC Conformity Assessment for Radio Equipment

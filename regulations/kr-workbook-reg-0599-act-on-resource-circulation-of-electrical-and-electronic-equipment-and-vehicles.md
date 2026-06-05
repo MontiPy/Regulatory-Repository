@@ -1,14 +1,26 @@
 ---
 citation: Act on Resource Circulation of Electrical and Electronic Equipment and Vehicles
+commodities:
+- Fuel system
+- Fuel tanks
+- Hoses & lines
+- Batteries
+- Power electronics
+- Connectors
 id: kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles
 last_pulled: '2026-06-01T18:54:41+00:00'
 region: KR
 source_api: spreadsheet
 source_url: https://elaw.klri.re.kr/eng_service/lawView.do?hseq=55946&lang=ENG
 status: in-force
-tagging_status: untagged
+systems:
+- Fuel safety
+- Battery safety
+tagged_at: '2026-06-05T02:16:05+00:00'
+tagging_status: llm-tagged
 title: Korea Vehicle Resource Circulation / Recycling Requirements
 translation_status: untranslated
+vehicle_categories: []
 ---
 
 # Korea Vehicle Resource Circulation / Recycling Requirements
