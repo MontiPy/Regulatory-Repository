@@ -8,7 +8,7 @@ commodities:
 - Power electronics
 - Connectors
 id: gcc-gso-ece-100
-last_pulled: '2026-06-05T13:39:04+00:00'
+last_pulled: '2026-06-05T14:39:27+00:00'
 paywall: true
 region: GCC
 source_api: gso
@@ -27,10 +27,29 @@ un_equivalent_ai:
 vehicle_categories: []
 ---
 
-# GSO-ECE 100 — Electric Powertrain Safety
+# Electric Powertrain Safety
 
-**Citation:** GSO-ECE 100
+**Regulated Area:** Fuel / EV / high-voltage safety
 
-This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
+**Applicability:** EV/HEV electrical safety Retained under broad-scope review so the program team can manually disposition applicability.
 
-[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
+
+## Key Compliance Intent
+
+Prevent fire, explosion, shock and hazardous leakage during normal use, abuse and post-crash conditions.
+
+## Primary Vehicle Systems and Components
+
+Fuel system, tanks, lines, evaporative components, HV battery/REESS, contactors, service disconnect, inverters, hydrogen/CNG storage and crash shutoff controls.
+
+## Failure Modes and Symptoms
+
+Fuel leakage after impact, battery thermal event, loss of high-voltage isolation, electrolyte leakage, contactor weld, pressure relief malfunction, fire risk.
+
+## Related Regulations
+
+Possible functional overlap: GCC / GSO MC-250905:2025 - Technical Regulation for Electric Vehicles
+
+## Engineering Considerations
+
+GCC/GSO technical regulation mapping

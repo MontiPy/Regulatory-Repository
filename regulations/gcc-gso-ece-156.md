@@ -5,7 +5,7 @@ commodities:
 - Wiring
 - Connectors
 id: gcc-gso-ece-156
-last_pulled: '2026-06-05T13:39:04+00:00'
+last_pulled: '2026-06-05T14:39:27+00:00'
 paywall: true
 region: GCC
 source_api: gso
@@ -24,10 +24,25 @@ un_equivalent_ai:
 vehicle_categories: []
 ---
 
-# GSO-ECE 156 — Software Update Management System
+# Software Update Management System
 
-**Citation:** GSO-ECE 156
+**Regulated Area:** Cyber / software / data / RF
 
-This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
+**Applicability:** Software updates Retained under broad-scope review so the program team can manually disposition applicability.
 
-[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
+
+## Key Compliance Intent
+
+Ensure electronic systems are resilient to cyber/software risks and safety-relevant data are recorded and managed when required.
+
+## Primary Vehicle Systems and Components
+
+E/E architecture, ECUs, telematics, gateways, cybersecurity controls, software update system, data recorder/EDR, backend services.
+
+## Failure Modes and Symptoms
+
+Unauthorized access, unsafe software update, missing update record, loss of event data, incorrect trigger, corrupted data, cybersecurity exploit leading to unsafe behavior.
+
+## Engineering Considerations
+
+GCC/GSO technical regulation mapping

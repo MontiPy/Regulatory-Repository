@@ -10,7 +10,7 @@ commodities:
 - Hoses & lines
 - Power electronics
 id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
-last_pulled: '2026-06-05T13:39:04+00:00'
+last_pulled: '2026-06-05T14:39:27+00:00'
 paywall: true
 region: GCC
 source_api: gso
@@ -34,10 +34,29 @@ vehicle_categories:
 - Light truck
 ---
 
-# UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011) — UAE Fuel Economy Program / Labeling
+# UAE Fuel Economy Program / Labeling
 
-**Citation:** UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
+**Regulated Area:** Fuel / EV / high-voltage safety
 
-This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
+**Applicability:** UAE fuel economy/consumer labeling controls; standard number requires verification Retained under broad-scope review so the program team can manually disposition applicability.
 
-[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
+
+## Key Compliance Intent
+
+Limit environmental impact and ensure vehicles meet certified emissions, fuel economy, CO2 and OBD requirements in production and use.
+
+## Primary Vehicle Systems and Components
+
+Engine/aftertreatment, OBD, evaporative system, calibration, hybrid/EV energy management, fuel economy and CO2 reporting systems.
+
+## Failure Modes and Symptoms
+
+Excess NOx/CO/HC/PM/PN or CO2, OBD monitor gaps, evaporative emissions leak, fuel economy label error, emissions recall exposure, certification failure.
+
+## Related Regulations
+
+Possible functional overlap: GCC / GSO GSO MY2027 emission limit implementation - GCC Member State Euro-level Emission Limits
+
+## Engineering Considerations
+
+Could not independently verify UAE.S 5011 as automotive fuel-economy standard in public sources

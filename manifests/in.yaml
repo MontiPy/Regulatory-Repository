@@ -1,0 +1,11 @@
+region: IN
+records:
+- id: in-ais-038-rev-2-ais-156
+  citation: AIS-038 Rev.2 / AIS-156
+  source_url: https://morth.nic.in/sites/default/files/ASI/AIS-156.pdf
+- id: in-bs-vi-india-cafe-fuel-consumption
+  citation: BS-VI / India CAFE / Fuel Consumption
+  source_url: https://morth.nic.in
+- id: in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework
+  citation: Central Motor Vehicles Rules (CMVR) / AIS Type Approval Framework
+  source_url: https://www.araiindia.com/certification/certification/vehicle

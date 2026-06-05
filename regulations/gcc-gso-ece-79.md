@@ -3,7 +3,7 @@ citation: GSO-ECE 79
 commodities:
 - Steering column
 id: gcc-gso-ece-79
-last_pulled: '2026-06-05T13:39:04+00:00'
+last_pulled: '2026-06-05T14:39:27+00:00'
 paywall: true
 region: GCC
 source_api: gso
@@ -21,10 +21,25 @@ vehicle_categories:
 - Passenger car
 ---
 
-# GSO-ECE 79 — Steering Equipment
+# Steering Equipment
 
-**Citation:** GSO-ECE 79
+**Regulated Area:** Active safety / braking / ADAS
 
-This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
+**Applicability:** Steering systems Retained under broad-scope review so the program team can manually disposition applicability.
 
-[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
+
+## Key Compliance Intent
+
+Ensure passenger-vehicle programs identify and satisfy applicable regulatory obligations before launch and during production.
+
+## Primary Vehicle Systems and Components
+
+Vehicle systems, components, software, documentation and plant/dealer processes affected by the regulation.
+
+## Failure Modes and Symptoms
+
+Nonconforming component, missing documentation, failed validation evidence, inconsistent build configuration, delayed type approval or market release.
+
+## Engineering Considerations
+
+GCC/GSO technical regulation mapping

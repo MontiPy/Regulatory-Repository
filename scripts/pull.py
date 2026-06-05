@@ -32,6 +32,7 @@ REGION_CONNECTOR = {
     "BR": ("connectors.brazil", "manifests/br.yaml"),
     "CN": ("connectors.china", "manifests/cn.yaml"),
     "GCC": ("connectors.gulf", "manifests/gcc.yaml"),
+    "IN": ("connectors.india", "manifests/in.yaml"),
 }
 
 

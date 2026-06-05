@@ -62,10 +62,12 @@ def build_body(citation: str, title: str | None, url: str, reachable: bool) -> s
     return "\n".join(lines)
 
 
-def _load_existing(path: Path) -> dict[str, Any]:
+def _load_existing(path: Path) -> tuple[dict[str, Any], str]:
+    """Return (frontmatter metadata, body content) for an existing record."""
     if not path.exists():
-        return {}
-    return dict(frontmatter.load(path).metadata)
+        return {}, ""
+    post = frontmatter.load(path)
+    return dict(post.metadata), (post.content or "")
 
 
 def is_gso_record(citation: str, source_url: str) -> bool:
@@ -101,12 +103,16 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
             print(f"  Skipping GCC {citation} (non-GSO member-state/third-party record)")
             continue
 
-        existing = _load_existing(dest_dir / f"{file_id}.md")
+        existing, existing_body = _load_existing(dest_dir / f"{file_id}.md")
         print(f"  Enriching GCC {citation} ...", end=" ", flush=True)
         try:
             url = MASTER_URL if reachable else (fallback_url or existing.get("source_url") or MASTER_URL)
             title = existing.get("title") or citation
-            body = build_body(citation, existing.get("title"), url, reachable)
+            # Preserve the existing curated body; the framework stub is only a
+            # fallback for records that have none. The master-PDF link lives in
+            # frontmatter source_url.
+            body = existing_body if existing_body.strip() else build_body(
+                citation, existing.get("title"), url, reachable)
 
             record: dict[str, Any] = {
                 "id": file_id, "title": title, "region": "GCC", "citation": citation,

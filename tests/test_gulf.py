@@ -106,3 +106,24 @@ def test_pull_skips_non_gso_record(tmp_path, monkeypatch):
     post = frontmatter.load(dest / "gcc-uae-s-5019-2024.md")
     assert post["source_api"] == "spreadsheet"          # untouched
     assert post["source_url"] == "https://uaelegislation.gov.ae/x"
+
+
+def test_pull_preserves_existing_curated_body(tmp_path, monkeypatch):
+    dest = tmp_path / "regs"; dest.mkdir()
+    curated = ("# Protection against unauthorized use\n\n**Regulated Area:** Immobilizer\n\n"
+               "## Key Compliance Intent\n\nReduce theft and unintended movement.\n")
+    existing = frontmatter.Post(
+        curated, id="gcc-gso-1053-2002", title="Theft protection", region="GCC",
+        citation="GSO 1053:2002", status="in-force", source_url="https://old",
+        source_api="spreadsheet", tagging_status="llm-tagged", paywall=True, un_equivalent=["UN R90"],
+    )
+    (dest / "gcc-gso-1053-2002.md").write_text(frontmatter.dumps(existing), encoding="utf-8")
+    import connectors.gulf as gulf
+    monkeypatch.setattr(gulf, "RateLimitedSession", lambda **kw: FakeSession(FakeResp("application/pdf", 200)))
+    mp = _manifest(tmp_path, {"id": "gcc-gso-1053-2002", "citation": "GSO 1053:2002", "source_url": "https://old"})
+    gulf.pull(mp, dest)
+    post = frontmatter.load(dest / "gcc-gso-1053-2002.md")
+    assert "Key Compliance Intent" in post.content      # curated body preserved
+    assert "Regulated Area" in post.content
+    assert post["source_url"] == gulf.MASTER_URL        # frontmatter still repointed
+    assert post["un_equivalent"] == ["UN R90"]

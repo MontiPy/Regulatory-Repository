@@ -383,6 +383,7 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "source_url": stringify(metadata.get("source_url")),
         "source_api": stringify(metadata.get("source_api")),
         "last_pulled": stringify(metadata.get("last_pulled")),
+        "effective_date": stringify(metadata.get("effective_date", "")),
         "tagging_status": stringify(metadata.get("tagging_status")),
         "tagged_at": stringify(metadata.get("tagged_at")),
         "aliases": as_list(metadata.get("aliases"), "aliases", []),
