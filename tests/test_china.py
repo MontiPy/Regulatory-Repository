@@ -46,3 +46,29 @@ def test_parse_detail_missing_fields_are_none():
     meta = parse_detail("<html><body>nothing here</body></html>")
     assert meta["en_title"] is None
     assert meta["status"] is None
+
+
+from connectors.china import build_body, enriched_stub_body, _merge_un_equivalent
+
+def test_build_body_has_title_status_and_link():
+    meta = {"cn_title": "汽车正面碰撞的乘员保护",
+            "en_title": "Frontal collision occupant protection",
+            "status": "in-force", "impl_date": "2015-01-01", "adopted_standard": "ECE R94"}
+    body = build_body(meta, "GB 11551-2014", "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=ABC")
+    assert "GB 11551-2014" in body
+    assert "Frontal collision occupant protection" in body
+    assert "In-force" in body or "in-force" in body
+    assert "2015-01-01" in body
+    assert "ECE R94" in body
+    assert "newGbInfo?hcno=ABC" in body
+
+def test_enriched_stub_body_notes_unresolved():
+    body = enriched_stub_body("GB 99999", "https://example.test/x")
+    assert "GB 99999" in body
+    assert "official" in body.lower()
+
+def test_merge_un_equivalent_unions_un_ref_only():
+    assert _merge_un_equivalent(["UN R94"], "ECE R16") == ["UN R94", "UN R16"]
+    assert _merge_un_equivalent(["UN R94"], "ISO 6487") == ["UN R94"]
+    assert _merge_un_equivalent(["UN R94"], "ECE R94") == ["UN R94"]
+    assert _merge_un_equivalent(["UN R94"], None) == ["UN R94"]

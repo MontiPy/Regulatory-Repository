@@ -112,3 +112,50 @@ def parse_detail(html: str) -> dict[str, Any]:
         "impl_date": _impl_date(html),
         "adopted_standard": _adopted(html),
     }
+
+
+def _merge_un_equivalent(existing: list[str], adopted_standard: str | None) -> list[str]:
+    """Union existing grounded UN refs with the adopted-standard ref when it is a
+    UN/ECE regulation. ISO/IEC standards are not UN regs and are excluded."""
+    out = list(existing or [])
+    if adopted_standard:
+        canon = normalize_un(adopted_standard.replace("ECE", "UN"))
+        if canon and canon not in out:
+            out.append(canon)
+    return out
+
+
+def build_body(meta: dict[str, Any], gb_number: str, source_url: str) -> str:
+    en = (meta.get("en_title") or "").strip()
+    cn = (meta.get("cn_title") or "").strip()
+    head = f"{gb_number} — {en}" if en else gb_number
+    status = meta.get("status") or "unknown"
+    status_disp = {"in-force": "In-force", "abolished": "Abolished"}.get(status, status)
+
+    lines = [f"# {head}", "", f"**Standard No.:** {gb_number}"]
+    if cn:
+        lines.append(f"**Chinese title:** {cn}")
+    status_line = f"**Status:** {status_disp}"
+    if meta.get("impl_date"):
+        status_line += f"  **Implementation date:** {meta['impl_date']}"
+    lines.append(status_line)
+    if meta.get("adopted_standard"):
+        lines.append(f"**Adopted international standard:** {meta['adopted_standard']}")
+    lines += [
+        "",
+        "Full standard text is published by SAC and viewed through the official "
+        "portal's online reader (image-based; not reproduced here).",
+        "",
+        f"[Official record — openstd.samr.gov.cn]({source_url})",
+    ]
+    return "\n".join(lines)
+
+
+def enriched_stub_body(gb_number: str, source_url: str) -> str:
+    link = f"[{source_url}]({source_url})" if source_url else "the official portal"
+    return (
+        f"# {gb_number}\n\n"
+        f"**Standard No.:** {gb_number}\n\n"
+        f"This standard could not be resolved on the official portal "
+        f"(openstd.samr.gov.cn) automatically. Visit {link} for the official record."
+    )
