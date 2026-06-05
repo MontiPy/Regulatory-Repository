@@ -78,3 +78,31 @@ def test_pull_repoints_url_and_preserves_tags_equivalents(tmp_path, monkeypatch)
     assert post["un_equivalent"] == ["UN R90"]
     assert post["un_equivalent_ai"] == ["UN R13"]
     assert post["title"] == "Brake hoses"
+
+
+from connectors.gulf import is_gso_record
+
+def test_is_gso_record_distinguishes_member_state_records():
+    assert is_gso_record("GSO 1053:2002", "https://www.gso.org.sa/wp-content/x.pdf") is True
+    assert is_gso_record("GSO 36:2005", "https://other.example/x") is True       # GSO citation
+    assert is_gso_record("SASO 2847", "https://www.saso.gov.sa/x") is False       # Saudi standard
+    assert is_gso_record("UAE.S 5019:2024", "https://uaelegislation.gov.ae/x") is False
+    assert is_gso_record("ECAS / MOIAT Conformity Certificates", "https://moiat.gov.ae/x") is False
+
+def test_pull_skips_non_gso_record(tmp_path, monkeypatch):
+    dest = tmp_path / "regs"; dest.mkdir()
+    before = frontmatter.Post(
+        "uae body", id="gcc-uae-s-5019-2024", title="UAE.S 5019:2024", region="GCC",
+        citation="UAE.S 5019:2024", status="in-force",
+        source_url="https://uaelegislation.gov.ae/x", source_api="spreadsheet",
+        tagging_status="llm-tagged",
+    )
+    (dest / "gcc-uae-s-5019-2024.md").write_text(frontmatter.dumps(before), encoding="utf-8")
+    import connectors.gulf as gulf
+    monkeypatch.setattr(gulf, "RateLimitedSession", lambda **kw: FakeSession(FakeResp("application/pdf", 200)))
+    mp = _manifest(tmp_path, {"id": "gcc-uae-s-5019-2024", "citation": "UAE.S 5019:2024",
+                              "source_url": "https://uaelegislation.gov.ae/x"})
+    gulf.pull(mp, dest)
+    post = frontmatter.load(dest / "gcc-uae-s-5019-2024.md")
+    assert post["source_api"] == "spreadsheet"          # untouched
+    assert post["source_url"] == "https://uaelegislation.gov.ae/x"

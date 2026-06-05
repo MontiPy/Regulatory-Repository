@@ -68,6 +68,13 @@ def _load_existing(path: Path) -> dict[str, Any]:
     return dict(frontmatter.load(path).metadata)
 
 
+def is_gso_record(citation: str, source_url: str) -> bool:
+    """True if this GCC record is a GSO standard (belongs to the GSO master
+    regulation), vs a member-state / third-party record (e.g. Saudi SASO, UAE
+    MOIAT, TÜV) that has its own accurate source and must not be repointed."""
+    return citation.strip().upper().startswith("GSO") or "gso.org.sa" in (source_url or "")
+
+
 def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
     if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -86,6 +93,12 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
         citation = str(entry.get("citation", "")).strip()
         fallback_url = str(entry.get("source_url", "")).strip()
         if not file_id or not citation:
+            continue
+
+        # Leave member-state / third-party GCC records (SASO, MOIAT, TÜV, UAE.S)
+        # untouched — they are not GSO standards and have their own accurate source.
+        if not is_gso_record(citation, fallback_url):
+            print(f"  Skipping GCC {citation} (non-GSO member-state/third-party record)")
             continue
 
         existing = _load_existing(dest_dir / f"{file_id}.md")
