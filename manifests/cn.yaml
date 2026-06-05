@@ -1,0 +1,143 @@
+region: CN
+records:
+- id: cn-gb-11551-2014
+  gb_number: GB 11551-2014
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2011551-2014
+- id: cn-gb-11552
+  gb_number: GB 11552
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-11555-2025
+  gb_number: GB 11555-2025
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2011555-2025
+- id: cn-gb-11562
+  gb_number: GB 11562
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-11566
+  gb_number: GB 11566
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-13057
+  gb_number: GB 13057
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-14166-2024
+  gb_number: GB 14166-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2014166-2024
+- id: cn-gb-14167-2024
+  gb_number: GB 14167-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2014167-2024
+- id: cn-gb-1495-2002
+  gb_number: GB 1495-2002
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%201495-2002
+- id: cn-gb-15083-2019
+  gb_number: GB 15083-2019
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015083-2019
+- id: cn-gb-15084-2022
+  gb_number: GB 15084-2022
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015084-2022
+- id: cn-gb-15085-2013
+  gb_number: GB 15085-2013
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015085-2013
+- id: cn-gb-15086-2013
+  gb_number: GB 15086-2013
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2015086-2013
+- id: cn-gb-15740
+  gb_number: GB 15740
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-1589
+  gb_number: GB 1589
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-16735-2019
+  gb_number: GB 16735-2019
+  source_url: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5F40F2F995A26D3E96BF97F6B8E9CB74
+- id: cn-gb-17675
+  gb_number: GB 17675
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-18296-2019
+  gb_number: GB 18296-2019
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2018296-2019
+- id: cn-gb-18352-6-2016
+  gb_number: GB 18352.6-2016
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2018352.6-2016
+- id: cn-gb-18384-2020-gb-18384-2025
+  gb_number: GB 18384-2020 / GB 18384-2025
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2018384-2020
+- id: cn-gb-19578
+  gb_number: GB 19578
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-20071-2025
+  gb_number: GB 20071-2025
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2020071-2025
+- id: cn-gb-20072-2024
+  gb_number: GB 20072-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2020072-2024
+- id: cn-gb-21670-2025
+  gb_number: GB 21670-2025
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=5CC330073FDA2E395D2554FEFC1256DF
+- id: cn-gb-24550-2024
+  gb_number: GB 24550-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2024550-2024
+- id: cn-gb-26149
+  gb_number: GB 26149
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-26572-2025
+  gb_number: GB 26572-2025
+  source_url: https://chinarohs.miit.gov.cn/
+- id: cn-gb-27887-2024
+  gb_number: GB 27887-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2027887-2024
+- id: cn-gb-27999
+  gb_number: GB 27999
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-34660
+  gb_number: GB 34660
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-38031-2025
+  gb_number: GB 38031-2025
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2038031-2025
+- id: cn-gb-4094-2016
+  gb_number: GB 4094-2016
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%204094-2016
+- id: cn-gb-44495-2024
+  gb_number: GB 44495-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=2DB552CAA58F589705C3DC7AD47AC2AB
+- id: cn-gb-44496-2024
+  gb_number: GB 44496-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%2044496-2024
+- id: cn-gb-44497
+  gb_number: GB 44497
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-4599-2024
+  gb_number: GB 4599-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=D88797E512723F8CBF170A20E81F27AD
+- id: cn-gb-4785-2019
+  gb_number: GB 4785-2019
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=65438E7234326343883F762A52E24CFA
+- id: cn-gb-5920-2024
+  gb_number: GB 5920-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=EBF484FE4E40D0281C9C4174E6F00F89
+- id: cn-gb-7258-2017
+  gb_number: GB 7258-2017
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%207258-2017
+- id: cn-gb-8410
+  gb_number: GB 8410
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
+- id: cn-gb-9656-2021
+  gb_number: GB 9656-2021
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=9D70607A5C909E556DC2D140CE56FE3A
+- id: cn-gb-9743-2024
+  gb_number: GB 9743-2024
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB%209743-2024
+- id: cn-gb-t-18411-2018
+  gb_number: GB/T 18411-2018
+  source_url: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4CB39D94D2D5E9D3576E7C9E83205A60
+- id: cn-gb-t-20913-2007
+  gb_number: GB/T 20913-2007
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB/T%2020913-2007
+- id: cn-gb-t-30512-2014
+  gb_number: GB/T 30512-2014
+  source_url: https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=4BEFC13C210FD77470C530F676879C6B&refer=outter
+- id: cn-gb-t-30677-2014
+  gb_number: GB/T 30677-2014
+  source_url: https://openstd.samr.gov.cn/bzgk/std/index?keyword=GB/T%2030677-2014
+- id: cn-gb-t-34590
+  gb_number: GB/T 34590
+  source_url: https://www.cqc.com.cn/www/en/col1469/595788.html
