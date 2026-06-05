@@ -43,8 +43,8 @@ The remaining 31 records are reference stubs (`source_api: spreadsheet`) for mar
 
 ```
 Stage 1: PULL        Stage 2: TAG              Stage 3: BUILD
-Python, no LLM  →    export → classify  →      Python, no LLM
-API → .md            → import                  .md → HTML
+Python, no LLM  →    auto_tag.py        →      Python, no LLM
+API → .md            Anthropic Batch API        .md → HTML
 ```
 
 ### Stage 1 — Pull
@@ -62,21 +62,21 @@ Re-running is safe and idempotent — it overwrites existing files with fresh co
 
 ### Stage 2 — Tag
 
-Classify untagged records against the controlled taxonomy:
+Classify untagged records against the controlled taxonomy with `scripts/auto_tag.py`. It sends each untagged record to the Anthropic Messages **Batch API** (Claude Haiku), then writes the returned `commodities` / `systems` / `vehicle_categories` back into the `.md` frontmatter and marks the record `tagging_status: llm-tagged`.
 
 ```
-# 2a: export untagged records to batch JSONL files
-python scripts/tag_export.py
+# Tag all untagged regulations (requires an Anthropic API key)
+ANTHROPIC_API_KEY=sk-ant-... python scripts/auto_tag.py
 
-# 2b: open Claude Code (or Codex) and follow instructions in:
-#     tagging_batches/_vocab.md
-#     Write results to tagging_batches/batch_NNN_results.jsonl
-
-# 2c: import classifications back into .md frontmatter
-python scripts/tag_import.py
+python scripts/auto_tag.py --region US            # tag only one region
+python scripts/auto_tag.py --dry-run              # print prompts without calling the API
+python scripts/auto_tag.py --retag                # re-tag already-tagged records
+python scripts/auto_tag.py --poll msgbatch_xxxxx  # resume polling a submitted batch
 ```
 
-The taxonomy is defined in `taxonomy.yaml`. Classifying is the only step that requires human/LLM review — all other stages are deterministic.
+The taxonomy is defined in `taxonomy.yaml`. The model may only select values that appear verbatim in the taxonomy, and results are re-validated against it on import, so tagging stays within the controlled vocabulary. Tagging is the only stage that uses an LLM — pull and build are deterministic.
+
+> The earlier manual batch workflow (`tag_export.py` → classify JSONL in `tagging_batches/` → `tag_import.py`) still exists for offline/no-API-key use, but `auto_tag.py` is the standard path.
 
 ### Stage 3 — Build
 
@@ -93,10 +93,8 @@ Output: `dist/index.html` — share via OneDrive, email, or USB. Opens from `fil
 ## Updating a region
 
 ```
-python scripts/pull.py --region AU    # re-pull Australia
-python scripts/tag_export.py          # export newly untagged records
-# classify new batches in tagging_batches/
-python scripts/tag_import.py
+python scripts/pull.py --region AU                      # re-pull Australia
+ANTHROPIC_API_KEY=sk-ant-... python scripts/auto_tag.py --region AU   # tag new records
 python scripts/build.py
 ```
 
@@ -122,13 +120,11 @@ Regulatory Repository/
 │   ├── us.yaml, eu.yaml, kr.yaml, au.yaml, jp.yaml, ca.yaml
 ├── scripts/
 │   ├── pull.py                      Stage 1 orchestrator
-│   ├── tag_export.py                Stage 2a: export to JSONL batches
-│   ├── tag_import.py                Stage 2c: import JSONL results
-│   └── build.py                     Stage 3 HTML builder
-├── tagging_batches/                 staging for Stage 2 I/O
-│   ├── _vocab.md                    vocab + classifier instructions
-│   ├── batch_NNN.jsonl              input batches
-│   └── batch_NNN_results.jsonl      output from classifier
+│   ├── auto_tag.py                  Stage 2: LLM tagging via Anthropic Batch API
+│   ├── build.py                     Stage 3 HTML builder
+│   ├── tag_export.py / tag_import.py  legacy manual-batch tagging (optional)
+│   └── ...                          extract_un_equivalent.py, infer_un_equivalent.py, gen_stubs.py, etc.
+├── tagging_batches/                 staging for the legacy manual tagging workflow
 ├── templates/
 │   └── index.html.j2                Jinja2 template
 └── dist/
