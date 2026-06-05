@@ -217,11 +217,14 @@ Each item below requires a new manifest (`manifests/<region>.yaml`), a connector
 ---
 
 ### GCC — Gulf Cooperation Council (GSO)
-- Standards body: Gulf Standards Organization (GSO)
-- Relevant standard: GSSO Technical Regulation for Motor Vehicles
-- Public access: https://www.gso.org.sa — limited free access; some standards require purchase
-- Notes: GCC member states (SA, AE, KW, QA, BH, OM) largely adopt UN/ECE regulations by reference; a thin connector pointing to GSO Circular references may be feasible
-- Current state: 63 stub `.md` files exist in `regulations/`
+- [x] **DONE (conservative) — `connectors/gulf.py` + `manifests/gcc.yaml`.** Verifies the public GSO
+  master *Technical Regulations for Motor Vehicles* PDF is live, then repoints 58 GSO records'
+  `source_url` to it (fixing the dead `wp-content` links) with a framework-reference body and
+  `source_api: gso`, preserving the API-2 tags + `un_equivalent`/`un_equivalent_ai` (verified zero
+  drops). 5 non-GSO member-state/third-party records (SASO, MOIAT, UAE.S, TÜV) are deliberately
+  left untouched. Full text NOT captured (sold); per-standard title parsing intentionally avoided
+  (the master PDF's table is column-wise / unreliable). Spec/plan: `docs/superpowers/{specs,plans}/2026-06-05-gcc-gso-connector*`.
+- Standards body: Gulf Standardization Organization (GSO). GCC members largely adopt UN/ECE by reference.
 
 ### CCC — China Compulsory Certification (GB Standards)
 - [x] **DONE — `connectors/china.py` + `manifests/cn.yaml` (47 records).** Metadata enrichment from

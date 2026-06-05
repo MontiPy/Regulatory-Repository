@@ -1,0 +1,191 @@
+region: GCC
+records:
+- id: gcc-ecas-moiat-conformity-certificates
+  citation: ECAS / MOIAT Conformity Certificates
+  source_url: https://moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
+- id: gcc-gcc-ev-technical-regulation-draft
+  citation: GCC EV Technical Regulation Draft
+  source_url: https://www.tuv.com/regulations-and-standards/en/gso-technical-requirements-for-electric-vehicle.html
+- id: gcc-gso-1040-1041-1042
+  citation: GSO 1040/1041/1042
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-1052-2000
+  citation: GSO 1052:2000
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-1053-2002
+  citation: GSO 1053:2002
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1503-2002
+  citation: GSO 1503:2002
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1598-2002
+  citation: GSO 1598:2002
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1624-2002
+  citation: GSO 1624:2002
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1677-2002
+  citation: GSO 1677:2002
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1680-1685-2003
+  citation: GSO 1680-1685:2003
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1707-2005
+  citation: GSO 1707:2005
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1708-2005
+  citation: GSO 1708:2005
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-1709-2005
+  citation: GSO 1709:2005
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-290-1994
+  citation: GSO 290:1994
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A482379?lang=en
+- id: gcc-gso-36-2005
+  citation: GSO 36:2005
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-37-2012
+  citation: GSO 37:2012
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-38-2005
+  citation: GSO 38:2005
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-39-2005
+  citation: GSO 39:2005
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-40-2011
+  citation: GSO 40:2011
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-41-2007
+  citation: GSO 41:2007
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-42-2015
+  citation: GSO 42:2015
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A674566/GSO%2042%3A2015?lang=en
+- id: gcc-gso-51-2007
+  citation: GSO 51:2007
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-52-2007
+  citation: GSO 52:2007
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-53-2007
+  citation: GSO 53:2007
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-645-646-647
+  citation: GSO 645/646/647
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-96-1988
+  citation: GSO 96:1988
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-97-1988
+  citation: GSO 97:1988
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A472656/GSO%2097%3A1988?lang=en
+- id: gcc-gso-98-1988
+  citation: GSO 98:1988
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-ece-10
+  citation: GSO-ECE 10
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-100
+  citation: GSO-ECE 100
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-117
+  citation: GSO-ECE 117
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-121
+  citation: GSO-ECE 121
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-125
+  citation: GSO-ECE 125
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-127
+  citation: GSO-ECE 127
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-13h-1-2-3
+  citation: GSO-ECE 13H-1/2/3
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-13h-2012
+  citation: GSO-ECE 13H:2012
+  source_url: https://www.gso.org.sa/store/standards/GSO%3A476247/?lang=en
+- id: gcc-gso-ece-14
+  citation: GSO-ECE 14
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-141
+  citation: GSO-ECE 141
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-155
+  citation: GSO-ECE 155
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-156
+  citation: GSO-ECE 156
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-16
+  citation: GSO-ECE 16
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-21
+  citation: GSO-ECE 21
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-26
+  citation: GSO-ECE 26
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-30
+  citation: GSO-ECE 30
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-43-gso-3538
+  citation: GSO-ECE 43 / GSO 3538
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-46
+  citation: GSO-ECE 46
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-48
+  citation: GSO-ECE 48
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-51
+  citation: GSO-ECE 51
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-79
+  citation: GSO-ECE 79
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-83-gso-ece-154
+  citation: GSO-ECE 83 / GSO-ECE 154
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-94
+  citation: GSO-ECE 94
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-ece-95
+  citation: GSO-ECE 95
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-gso-my2027-emission-limit-implementation
+  citation: GSO MY2027 emission limit implementation
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3
+  citation: GSO Technical Regulations for Motor Vehicles MY2027-D3
+  source_url: https://www.gso.org.sa/wp-content/uploads/2025/10/GSO-Technical-Regulations-MV-2027-MY-D3.pdf
+- id: gcc-mc-250905-2025
+  citation: MC-250905:2025
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-2847-saso-2864-2022
+  citation: SASO 2847 / SASO 2864:2022
+  source_url: https://www.saso.gov.sa/ar/sectors/certificates/efficiency_card/Documents/FINAL_REPORT_2024.pdf
+- id: gcc-saso-3004-2022
+  citation: SASO 3004:2022
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3005-2022
+  citation: SASO 3005:2022
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3006-2022
+  citation: SASO 3006:2022
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-3007-2022
+  citation: SASO 3007:2022
+  source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
+- id: gcc-saso-saber-fuel-economy-label-for-new-light-vehicles
+  citation: SASO SABER / Fuel Economy Label for New Light Vehicles
+  source_url: https://saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?serviceid=419
+- id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
+  citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
+  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+- id: gcc-uae-s-5019-2024
+  citation: UAE.S 5019:2024
+  source_url: https://uaelegislation.gov.ae/en/legislations/2548

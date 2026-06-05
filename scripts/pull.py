@@ -31,6 +31,7 @@ REGION_CONNECTOR = {
     "ECE": ("connectors.unece", "manifests/ece.yaml"),
     "BR": ("connectors.brazil", "manifests/br.yaml"),
     "CN": ("connectors.china", "manifests/cn.yaml"),
+    "GCC": ("connectors.gulf", "manifests/gcc.yaml"),
 }
 
 

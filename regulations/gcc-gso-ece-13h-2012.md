@@ -7,11 +7,11 @@ commodities:
 - ECUs
 - Wiring
 id: gcc-gso-ece-13h-2012
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T13:39:04+00:00'
 paywall: true
 region: GCC
-source_api: spreadsheet
-source_url: https://www.gso.org.sa/store/standards/GSO%3A476247/?lang=en
+source_api: gso
+source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
 - Braking
@@ -28,29 +28,10 @@ vehicle_categories:
 - Passenger car
 ---
 
-# Braking System of Passenger Cars and Multi Purpose Vehicles
+# GSO-ECE 13H:2012 — Braking System of Passenger Cars and Multi Purpose Vehicles
 
-**Regulated Area:** Braking systems
+**Citation:** GSO-ECE 13H:2012
 
-**Applicability:** Applies to motor vehicles exported/registered in GCC member states when listed in GSO motor vehicle technical regulations; passenger relevance noted for passenger cars/M1.
+This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
 
-
-## Key Compliance Intent
-
-Ensure predictable stopping, stability during braking, and residual braking after faults.
-
-## Primary Vehicle Systems and Components
-
-Foundation brakes, hydraulic circuits, ABS, ESC hydraulic modulator, brake booster, pedal, brake lines, regenerative brake blending.
-
-## Failure Modes and Symptoms
-
-Brake performance degradation, extended stopping distance, brake pull, wheel lock, low pedal, warning lamp failure, regen blend bump.
-
-## Related Regulations
-
-FMVSS/CMVSS 105/135/126; UNECE R13-H/R140; GB 21670 and GB/T 30677; KMVSS Arts. 15/90/90-2; ADR 31/88/89; CONTRAN 915/954; GSO-ECE 13H; Japan Article 12.
-
-## Engineering Considerations
-
-Applies to M1 and N1 according to GSO store scope; excludes <=25 km/h and vehicles fitted for invalid drivers.
+[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)

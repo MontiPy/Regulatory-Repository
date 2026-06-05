@@ -5,11 +5,11 @@ commodities:
 - ECUs
 - Fuel system
 id: gcc-gso-ece-51
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T13:39:04+00:00'
 paywall: true
 region: GCC
-source_api: spreadsheet
-source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+source_api: gso
+source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
 - Emissions
@@ -25,29 +25,10 @@ un_equivalent_ai:
 vehicle_categories: []
 ---
 
-# External Noise Emissions
+# GSO-ECE 51 — External Noise Emissions
 
-**Regulated Area:** Emissions / energy / environmental performance
+**Citation:** GSO-ECE 51
 
-**Applicability:** Pass-by noise Retained under broad-scope review so the program team can manually disposition applicability.
+This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
 
-
-## Key Compliance Intent
-
-Limit environmental impact and ensure vehicles meet certified emissions, fuel economy, CO2 and OBD requirements in production and use.
-
-## Primary Vehicle Systems and Components
-
-Engine/aftertreatment, OBD, evaporative system, calibration, hybrid/EV energy management, fuel economy and CO2 reporting systems.
-
-## Failure Modes and Symptoms
-
-Excess NOx/CO/HC/PM/PN or CO2, OBD monitor gaps, evaporative emissions leak, fuel economy label error, emissions recall exposure, certification failure.
-
-## Related Regulations
-
-Possible functional overlap: GCC / GSO GSO 1624:2002 - Motor Vehicles - Noise Emitted by Motor Vehicles
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
