@@ -42,10 +42,12 @@ def build_body(citation: str, title: str | None, url: str) -> str:
     ])
 
 
-def _load_existing(path: Path) -> dict[str, Any]:
+def _load_existing(path: Path) -> tuple[dict[str, Any], str]:
+    """Return (frontmatter metadata, body content) for an existing record."""
     if not path.exists():
-        return {}
-    return dict(frontmatter.load(path).metadata)
+        return {}, ""
+    post = frontmatter.load(path)
+    return dict(post.metadata), (post.content or "")
 
 
 def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
@@ -64,12 +66,15 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
         if not file_id or not citation:
             continue
 
-        existing = _load_existing(dest_dir / f"{file_id}.md")
+        existing, existing_body = _load_existing(dest_dir / f"{file_id}.md")
         print(f"  Enriching IN {citation} ...", end=" ", flush=True)
         try:
             url = canonical_url(existing.get("source_url") or manifest_url)
             title = existing.get("title") or citation
-            body = build_body(citation, existing.get("title"), url)
+            # Preserve the existing curated body; the framework stub is only a
+            # fallback for records that have no body yet.
+            body = existing_body if existing_body.strip() else build_body(
+                citation, existing.get("title"), url)
 
             record: dict[str, Any] = {
                 "id": file_id, "title": title, "region": "IN", "citation": citation,

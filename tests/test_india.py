@@ -48,3 +48,31 @@ def test_pull_repoints_and_preserves(tmp_path):
     assert post["un_equivalent"] == ["UN R100"]
     assert post["un_equivalent_ai"] == ["UN R10"]
     assert post["title"] == "EV battery safety"
+
+
+def test_pull_preserves_existing_curated_body(tmp_path):
+    dest = tmp_path / "regs"; dest.mkdir()
+    curated = ("# India EV battery safety\n\n**Regulated Area:** EV battery and HV safety\n\n"
+               "## Key Compliance Intent\n\nPrevent EV battery fire and electric shock.\n")
+    existing = frontmatter.Post(
+        curated, id="in-ais-038-rev-2-ais-156", title="EV battery safety", region="IN",
+        citation="AIS-038 Rev.2 / AIS-156", status="in-force",
+        source_url="https://morth.nic.in/x", source_api="spreadsheet", tagging_status="llm-tagged",
+    )
+    (dest / "in-ais-038-rev-2-ais-156.md").write_text(frontmatter.dumps(existing), encoding="utf-8")
+    mp = _manifest(tmp_path, {"id": "in-ais-038-rev-2-ais-156",
+                              "citation": "AIS-038 Rev.2 / AIS-156", "source_url": "https://morth.nic.in/x"})
+    pull(mp, dest)
+    post = frontmatter.load(dest / "in-ais-038-rev-2-ais-156.md")
+    assert "Key Compliance Intent" in post.content      # curated body preserved
+    assert "Regulated Area" in post.content
+    assert post["source_url"] == "https://morth.gov.in/x"   # frontmatter still refreshed
+    assert post["source_api"] == "ais"
+
+def test_pull_uses_framework_body_when_no_existing_body(tmp_path):
+    dest = tmp_path / "regs"; dest.mkdir()
+    mp = _manifest(tmp_path, {"id": "in-new-record", "citation": "AIS-999",
+                              "source_url": "https://morth.nic.in/y"})
+    pull(mp, dest)
+    post = frontmatter.load(dest / "in-new-record.md")
+    assert "CMVR" in post.content                        # framework fallback used
