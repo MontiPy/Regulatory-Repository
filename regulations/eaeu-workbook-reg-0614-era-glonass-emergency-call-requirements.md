@@ -19,6 +19,8 @@ tagging_status: llm-tagged
 title: Automatic emergency call equipment requirements linked to EAEU/Russia vehicle
   approval
 translation_status: untranslated
+un_equivalent:
+- UN R144
 vehicle_categories:
 - Passenger car
 ---

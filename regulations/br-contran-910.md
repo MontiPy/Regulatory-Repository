@@ -21,6 +21,10 @@ tagged_at: '2026-06-04T19:08:27+00:00'
 tagging_status: llm-tagged
 title: Occupant Protection and Fuel System Integrity from Impact
 translation_status: untranslated
+un_equivalent:
+- UN R32
+- UN R34
+- UN R94
 vehicle_categories: []
 ---
 

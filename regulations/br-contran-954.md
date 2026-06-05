@@ -16,6 +16,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Mandatory Electronic Stability Control
 translation_status: untranslated
+un_equivalent:
+- UN R13
+- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

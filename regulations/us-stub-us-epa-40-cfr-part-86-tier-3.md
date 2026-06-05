@@ -17,6 +17,8 @@ systems:
 tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: Light-duty Vehicle and Fuel Emission Standards
+un_equivalent:
+- UN R83
 vehicle_categories:
 - Passenger car
 ---

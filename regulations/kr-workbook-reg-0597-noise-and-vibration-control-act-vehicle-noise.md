@@ -17,6 +17,8 @@ tagged_at: '2026-06-05T02:16:05+00:00'
 tagging_status: llm-tagged
 title: Korea Motor Vehicle Noise Authentication and Standards
 translation_status: untranslated
+un_equivalent:
+- UN R51
 vehicle_categories:
 - Passenger car
 ---

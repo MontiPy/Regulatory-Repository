@@ -21,6 +21,8 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Safety of the intended functionality
+un_equivalent:
+- UN R157
 vehicle_categories:
 - Passenger car
 ---
