@@ -19,6 +19,8 @@ tagging_status: llm-tagged
 title: Automated-driving scenario, safety and AI guidance standards
 un_equivalent:
 - UN R157
+un_equivalent_ai:
+- UN R155
 vehicle_categories: []
 ---
 

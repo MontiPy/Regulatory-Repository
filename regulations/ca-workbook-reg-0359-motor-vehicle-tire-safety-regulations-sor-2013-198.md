@@ -17,6 +17,8 @@ tagging_status: llm-tagged
 title: Motor Vehicle Tire Safety Regulations
 un_equivalent:
 - UN R30
+un_equivalent_ai:
+- UN R142
 vehicle_categories:
 - Passenger car
 ---

@@ -13,6 +13,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Burglar Alarm / Anti-theft Equipment
 translation_status: untranslated
+un_equivalent_ai:
+- UN R116
+- UN R163
 vehicle_categories: []
 ---
 

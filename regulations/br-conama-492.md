@@ -17,6 +17,8 @@ title: PROCONVE L7/L8 Emission Requirements for New Light Road Vehicles
 translation_status: untranslated
 un_equivalent:
 - UN R83
+un_equivalent_ai:
+- UN R168
 vehicle_categories:
 - Passenger car
 - Light truck

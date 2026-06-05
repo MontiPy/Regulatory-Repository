@@ -13,6 +13,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: PART 572—ANTHROPOMORPHIC TEST DEVICES
+un_equivalent_ai:
+- UN R94
+- UN R16
 vehicle_categories: []
 ---
 

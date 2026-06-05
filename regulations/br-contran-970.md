@@ -14,6 +14,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Lighting, Signalling Systems and Devices
 translation_status: untranslated
+un_equivalent_ai:
+- UN R48
+- UN R148
 vehicle_categories: []
 ---
 

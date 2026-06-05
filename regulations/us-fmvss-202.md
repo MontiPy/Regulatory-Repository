@@ -15,6 +15,9 @@ tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers
   option until September 1, 2009.
+un_equivalent_ai:
+- UN R17
+- UN R25
 vehicle_categories:
 - Passenger car
 - Light truck

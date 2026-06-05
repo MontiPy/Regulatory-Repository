@@ -19,6 +19,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Fuel System and Fire Prevention
 translation_status: translated
+un_equivalent_ai:
+- UN R34
+- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

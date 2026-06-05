@@ -14,6 +14,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 210.1 — General
+un_equivalent_ai:
+- UN R14
+- UN R145
 vehicle_categories:
 - Passenger car
 - Bus

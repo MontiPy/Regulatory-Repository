@@ -14,6 +14,9 @@ systems:
 tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 110 — Technical Standards Document No. 110
+un_equivalent_ai:
+- UN R30
+- UN R142
 vehicle_categories:
 - Passenger car
 - Light truck

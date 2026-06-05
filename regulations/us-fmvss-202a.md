@@ -15,6 +15,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability begins
   on September 1, 2009.
+un_equivalent_ai:
+- UN R25
+- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

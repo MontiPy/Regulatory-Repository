@@ -16,6 +16,8 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric
   Vehicles.
+un_equivalent_ai:
+- UN R138
 vehicle_categories:
 - Passenger car
 - Light truck

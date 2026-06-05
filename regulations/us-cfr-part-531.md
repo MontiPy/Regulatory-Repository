@@ -12,6 +12,8 @@ systems:
 tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: PART 531—PASSENGER AUTOMOBILE AVERAGE FUEL ECONOMY STANDARDS
+un_equivalent_ai:
+- UN R101
 vehicle_categories:
 - Passenger car
 ---

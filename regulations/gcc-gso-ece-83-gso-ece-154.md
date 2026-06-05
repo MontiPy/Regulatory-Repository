@@ -24,6 +24,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Pollutant Emissions / WLTP
 translation_status: untranslated
+un_equivalent_ai:
+- UN R154
+- UN R83
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -12,6 +12,8 @@ systems:
 tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: § 571.125 Standard No. 125; Warning devices.
+un_equivalent_ai:
+- UN R27
 vehicle_categories:
 - Bus
 - Heavy truck

@@ -19,6 +19,8 @@ tagging_status: llm-tagged
 title: Light-duty Vehicle and Fuel Emission Standards
 un_equivalent:
 - UN R83
+un_equivalent_ai:
+- UN R168
 vehicle_categories:
 - Passenger car
 ---

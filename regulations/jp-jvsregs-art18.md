@@ -14,6 +14,9 @@ tagged_at: '2026-05-22T20:20:08+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 18 — Frame and Body
 translation_status: translated
+un_equivalent_ai:
+- UN R94
+- UN R95
 vehicle_categories:
 - Passenger car
 - Light truck

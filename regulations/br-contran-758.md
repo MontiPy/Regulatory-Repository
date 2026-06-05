@@ -13,6 +13,8 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Controls, Tell-tales and Indicators
 translation_status: untranslated
+un_equivalent_ai:
+- UN R121
 vehicle_categories: []
 ---
 

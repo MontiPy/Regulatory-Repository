@@ -15,6 +15,8 @@ systems:
 tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: § 571.122a Standard No. 122; Motorcycle brake systems.
+un_equivalent_ai:
+- UN R13
 vehicle_categories:
 - Motorcycle
 ---

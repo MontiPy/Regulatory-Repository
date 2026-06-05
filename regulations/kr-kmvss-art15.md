@@ -14,6 +14,9 @@ tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 15 — Braking System
 translation_status: translated
+un_equivalent_ai:
+- UN R13
+- UN R13H
 vehicle_categories: []
 ---
 

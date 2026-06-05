@@ -22,6 +22,8 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: China Telecom/RF - SRRC radio transmission equipment approval
 translation_status: untranslated
+un_equivalent_ai:
+- UN R10
 vehicle_categories:
 - Passenger car
 ---

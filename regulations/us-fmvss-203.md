@@ -15,6 +15,8 @@ tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.203 Standard No. 203; Impact protection for the driver from the steering
   control system.
+un_equivalent_ai:
+- UN R12
 vehicle_categories:
 - Passenger car
 - Light truck

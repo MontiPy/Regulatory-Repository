@@ -15,6 +15,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 213.4
+un_equivalent_ai:
+- UN R16
+- UN R129
 vehicle_categories: []
 ---
 

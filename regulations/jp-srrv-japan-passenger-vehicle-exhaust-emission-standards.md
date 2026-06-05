@@ -21,6 +21,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Japan Passenger Vehicle Exhaust Emission Standards
 translation_status: translated
+un_equivalent_ai:
+- UN R83
+- UN R154
 vehicle_categories:
 - Passenger car
 ---

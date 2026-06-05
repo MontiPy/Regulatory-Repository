@@ -14,6 +14,9 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 120 — Technical Standards Document No. 120
+un_equivalent_ai:
+- UN R54
+- UN R142
 vehicle_categories:
 - Light truck
 - Heavy truck

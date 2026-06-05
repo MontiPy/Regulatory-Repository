@@ -14,6 +14,8 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Door Retention Systems, Latches and Hinges
 translation_status: untranslated
+un_equivalent_ai:
+- UN R11
 vehicle_categories: []
 ---
 

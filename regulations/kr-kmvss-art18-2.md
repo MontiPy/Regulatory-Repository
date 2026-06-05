@@ -18,6 +18,8 @@ tagged_at: '2026-06-04T19:08:27+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 18-2 — High-Voltage Electrical System
 translation_status: translated
+un_equivalent_ai:
+- UN R100
 vehicle_categories: []
 ---
 

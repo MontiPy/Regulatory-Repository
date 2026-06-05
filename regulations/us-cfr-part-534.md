@@ -12,6 +12,8 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: PART 534—RIGHTS AND RESPONSIBILITIES OF MANUFACTURERS IN THE CONTEXT OF CHANGES
   IN CORPORATE RELATIONSHIPS
+un_equivalent_ai:
+- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

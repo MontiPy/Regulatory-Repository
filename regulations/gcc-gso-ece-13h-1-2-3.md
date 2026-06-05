@@ -19,6 +19,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Brake System Test Methods and Energy Storage Tests
 translation_status: untranslated
+un_equivalent_ai:
+- UN R13H
+- UN R140
 vehicle_categories:
 - Passenger car
 ---

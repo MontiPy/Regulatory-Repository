@@ -14,6 +14,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: Argentina model configuration and environmental configuration licenses
 translation_status: untranslated
+un_equivalent_ai:
+- UN R83
+- UN R101
 vehicle_categories:
 - Passenger car
 ---

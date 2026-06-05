@@ -15,6 +15,8 @@ systems:
 tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: PART 595—MAKE INOPERATIVE EXEMPTIONS
+un_equivalent_ai:
+- UN R114
 vehicle_categories: []
 ---
 

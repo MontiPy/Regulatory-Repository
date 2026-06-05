@@ -17,6 +17,9 @@ tagging_status: llm-tagged
 title: § 571.110 Tire selection and rims and motor home/recreation vehicle trailer
   load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms
   (10,000 pounds) or less.
+un_equivalent_ai:
+- UN R30
+- UN R64
 vehicle_categories:
 - Passenger car
 - Light truck

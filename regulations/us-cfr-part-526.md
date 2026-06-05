@@ -12,6 +12,8 @@ tagged_at: '2026-06-04T19:08:25+00:00'
 tagging_status: llm-tagged
 title: PART 526—PETITIONS AND PLANS FOR RELIEF UNDER THE AUTOMOBILE FUEL EFFICIENCY
   ACT OF 1980
+un_equivalent_ai:
+- UN R101
 vehicle_categories: []
 ---
 

@@ -27,6 +27,9 @@ tagging_status: llm-tagged
 title: Road vehicles - Functional safety
 un_equivalent:
 - UN R157
+un_equivalent_ai:
+- UN R155
+- UN R156
 vehicle_categories:
 - Passenger car
 ---

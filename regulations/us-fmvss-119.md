@@ -15,6 +15,9 @@ tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR
   of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
+un_equivalent_ai:
+- UN R54
+- UN R30
 vehicle_categories:
 - Heavy truck
 - Bus

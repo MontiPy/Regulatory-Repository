@@ -20,6 +20,8 @@ title: GCC Member State Euro-level Emission Limits
 translation_status: untranslated
 un_equivalent:
 - UN R83
+un_equivalent_ai:
+- UN R168
 vehicle_categories:
 - Passenger car
 ---

@@ -13,6 +13,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 54 — Speedometer and Odometer
 translation_status: translated
+un_equivalent_ai:
+- UN R39
+- UN R89
 vehicle_categories:
 - Light truck
 - Heavy truck

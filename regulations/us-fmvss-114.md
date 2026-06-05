@@ -12,6 +12,9 @@ systems:
 tagged_at: '2026-05-22T19:28:16+00:00'
 tagging_status: llm-tagged
 title: § 571.114 Standard No. 114; Theft protection and rollaway prevention.
+un_equivalent_ai:
+- UN R116
+- UN R162
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -17,6 +17,9 @@ tagged_at: '2026-06-04T19:08:26+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 11_2 — Locking Devices
 translation_status: translated
+un_equivalent_ai:
+- UN R162
+- UN R116
 vehicle_categories:
 - Passenger car
 - Light truck
