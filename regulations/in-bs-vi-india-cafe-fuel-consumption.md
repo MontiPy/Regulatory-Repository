@@ -10,10 +10,10 @@ commodities:
 - Batteries
 - Electric motors
 id: in-bs-vi-india-cafe-fuel-consumption
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T14:32:23+00:00'
 region: IN
-source_api: spreadsheet
-source_url: https://morth.nic.in
+source_api: ais
+source_url: https://morth.gov.in
 status: in-force
 systems:
 - Emissions

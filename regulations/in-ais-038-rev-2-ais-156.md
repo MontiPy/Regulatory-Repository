@@ -7,11 +7,11 @@ commodities:
 - Charging inlet
 - Power electronics
 id: in-ais-038-rev-2-ais-156
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T14:32:23+00:00'
 paywall: true
 region: IN
-source_api: spreadsheet
-source_url: https://morth.nic.in/sites/default/files/ASI/AIS-156.pdf
+source_api: ais
+source_url: https://morth.gov.in/sites/default/files/ASI/AIS-156.pdf
 status: in-force
 systems:
 - Battery safety
