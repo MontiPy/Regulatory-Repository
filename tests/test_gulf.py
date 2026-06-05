@@ -38,3 +38,43 @@ def test_build_body_notes_unavailable_when_unreachable():
     assert "GSO 1053:2002" in body
     assert "https://fallback.example/x" in body
     assert "could not be reached" in body.lower()
+
+import frontmatter
+from connectors.gulf import pull
+
+def _manifest(tmp_path, entry):
+    import yaml
+    mp = tmp_path / "gcc.yaml"
+    mp.write_text(yaml.safe_dump({"region": "GCC", "records": [entry]}, allow_unicode=True), encoding="utf-8")
+    return mp
+
+def test_pull_repoints_url_and_preserves_tags_equivalents(tmp_path, monkeypatch):
+    dest = tmp_path / "regs"; dest.mkdir()
+    existing = frontmatter.Post(
+        "old stub body",
+        id="gcc-gso-1053-2002", title="Brake hoses", region="GCC",
+        citation="GSO 1053:2002", status="in-force",
+        source_url="https://www.gso.org.sa/wp-content/dead.pdf", source_api="spreadsheet",
+        tagging_status="llm-tagged", commodities=["Brakes"], paywall=True,
+        un_equivalent=["UN R90"], un_equivalent_ai=["UN R13"],
+    )
+    (dest / "gcc-gso-1053-2002.md").write_text(frontmatter.dumps(existing), encoding="utf-8")
+
+    import connectors.gulf as gulf
+    monkeypatch.setattr(gulf, "RateLimitedSession", lambda **kw: FakeSession(FakeResp("application/pdf", 200)))
+
+    manifest = _manifest(tmp_path, {
+        "id": "gcc-gso-1053-2002", "citation": "GSO 1053:2002",
+        "source_url": "https://www.gso.org.sa/wp-content/dead.pdf",
+    })
+    pull(manifest, dest)
+
+    post = frontmatter.load(dest / "gcc-gso-1053-2002.md")
+    assert post["source_api"] == "gso"
+    assert post["source_url"] == gulf.MASTER_URL
+    assert post["commodities"] == ["Brakes"]
+    assert post["tagging_status"] == "llm-tagged"
+    assert post["paywall"] is True
+    assert post["un_equivalent"] == ["UN R90"]
+    assert post["un_equivalent_ai"] == ["UN R13"]
+    assert post["title"] == "Brake hoses"
