@@ -2,7 +2,14 @@
 
 An HTML reference tool for vehicle regulations across 21 regions. Regulation text is pulled directly from official government sources; classification and cross-references are added on top.
 
-**Open `dist/index.html` in any browser.** No server, no login, no internet required.
+**Live site:** https://montipy.github.io/Regulatory-Repository/ (auto-deployed from `main`).
+
+To run it locally, serve the built bundle over HTTP — the reader loads data with `fetch`, so it must be served, not opened from `file://`:
+
+```
+python scripts/build.py
+python -m http.server -d dist 8000      # then open http://localhost:8000/
+```
 
 ---
 
@@ -10,7 +17,7 @@ An HTML reference tool for vehicle regulations across 21 regions. Regulation tex
 
 Vehicle engineers need to know which regulations apply to a given commodity (e.g., Seats) or system (e.g., Braking) in each market. Today this requires hunting across agency websites, internal spreadsheets, and second-hand summaries.
 
-This repository pulls regulation text from official APIs, classifies each record against a controlled taxonomy (commodity / vehicle system / vehicle category), and renders everything into a single shareable HTML file with faceted search.
+This repository pulls regulation text from official APIs, classifies each record against a controlled taxonomy (commodity / vehicle system / vehicle category), and renders everything into a static web bundle with faceted search.
 
 Current coverage: **728 records** across **21 regions** — 697 from live connectors plus 31 reference stubs for markets without a public source.
 
@@ -80,13 +87,21 @@ The taxonomy is defined in `taxonomy.yaml`. The model may only select values tha
 
 ### Stage 3 — Build
 
-Render everything to a single offline HTML file:
+Render everything to a static web bundle:
 
 ```
 python scripts/build.py
 ```
 
-Output: `dist/index.html` — share via OneDrive, email, or USB. Opens from `file://` with no internet connection.
+Output in `dist/`: `index.html` + `assets/` (CSS, JS, vendored MiniSearch) + `data/` (`index.json` light metadata, `records/<id>.json` lazy bodies, `taxonomy.json`, `search-text.json` search corpus). Serve it over HTTP (see top of this README) or let the Pages workflow host it.
+
+---
+
+## Hosting (GitHub Pages)
+
+The site auto-deploys to GitHub Pages on every push to `main` via `.github/workflows/deploy.yml`, which builds the bundle and publishes `dist/` (kept gitignored — always built fresh). All asset/data paths are relative, so it works under the project sub-path `…github.io/Regulatory-Repository/`.
+
+One-time setup: in **Settings → Pages → Build and deployment**, set **Source = GitHub Actions**. After that, every push to `main` redeploys automatically; `workflow_dispatch` allows a manual rebuild from the Actions tab.
 
 ---
 
