@@ -224,11 +224,14 @@ Each item below requires a new manifest (`manifests/<region>.yaml`), a connector
 - Current state: 63 stub `.md` files exist in `regulations/`
 
 ### CCC — China Compulsory Certification (GB Standards)
-- Standards body: CNCA / SAC
-- Relevant standards: GB 7258 (motor vehicles), GB/T series
-- Public access: https://openstd.samr.gov.cn — free for some GB standards; many require purchase
-- Notes: Machine-readable API not publicly known; HTML scraping of samr.gov.cn may be needed
-- Current state: 49 stub `.md` files exist in `regulations/`
+- [x] **DONE — `connectors/china.py` + `manifests/cn.yaml` (47 records).** Metadata enrichment from
+  `openstd.samr.gov.cn`: resolves each GB number → `hcno` → `newGbInfo` detail page, extracting the
+  official CN/EN title, in-force/superseded status, implementation date (frontmatter `effective_date`,
+  not yet surfaced in the UI), the optional adopted-standard cross-reference, and a stable permalink.
+  Frontmatter-preserving merge keeps the LLM tags and `un_equivalent`/`un_equivalent_ai` from API-2
+  (verified zero drops). Full text NOT captured (image-tile viewer / paywalled). All 47 resolved on
+  the portal; 0 stub fallbacks. Spec/plan: `docs/superpowers/{specs,plans}/2026-06-04-china-gb-connector*`.
+- Standards body: CNCA / SAC. Public access: https://openstd.samr.gov.cn (free metadata; full text image-based).
 
 ### VSTD — Vietnam (QCVN Standards)
 - Standards body: Vietnam Register (VR) / Ministry of Transport
