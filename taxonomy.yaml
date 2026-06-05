@@ -84,14 +84,18 @@ region_series:
   CN: { series: GB, name: China }
   GCC: { series: GSO, name: Gulf Cooperation Council }
   IN: { series: AIS, name: India }
-  EU: { series: EU, name: European Union }
+  EU: { series: EU, name: European Union }  # covers both EU Regulations and Directives (EUR-Lex)
+  # Long-tail series labels grounded in the regions' actual record citations.
+  MX: { series: NOM, name: Mexico }                       # NOM-xxx (Normas Oficiales Mexicanas)
+  EAEU: { series: "TR CU", name: Eurasian Economic Union }  # TR CU 018/2011 (Customs Union Tech Reg)
+  ZA: { series: VC, name: South Africa }                  # NRCS VC series (e.g. VC 8056)
+  AR: { series: LCM, name: Argentina }                    # LCM / LCA type approval
+  NZ: { series: "Land Transport Rule", name: New Zealand }  # Land Transport Rules
+  # No single grounded standards series (heterogeneous member states, framework-only
+  # citations, or cross-cutting standards) — left blank so the market tile shows the
+  # region name alone rather than a fabricated acronym.
   TW: { series: "", name: Taiwan }
-  MX: { series: "", name: Mexico }
-  EAEU: { series: "", name: Eurasian Economic Union }
   ASEAN: { series: "", name: ASEAN }
-  ZA: { series: "", name: South Africa }
-  AR: { series: "", name: Argentina }
   IL: { series: "", name: Israel }
-  NZ: { series: "", name: New Zealand }
   TR: { series: "", name: Türkiye }
   OTHER: { series: "", name: Other }

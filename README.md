@@ -1,6 +1,6 @@
 # OEM-Agnostic Regulatory Repository
 
-A single-file offline HTML reference tool for vehicle regulations across six major markets. All content is pulled directly from official government APIs — no LLM-drafted text.
+An HTML reference tool for vehicle regulations across 21 regions. Regulation text is pulled directly from official government sources; classification and cross-references are added on top.
 
 **Open `dist/index.html` in any browser.** No server, no login, no internet required.
 
@@ -12,16 +12,23 @@ Vehicle engineers need to know which regulations apply to a given commodity (e.g
 
 This repository pulls regulation text from official APIs, classifies each record against a controlled taxonomy (commodity / vehicle system / vehicle category), and renders everything into a single shareable HTML file with faceted search.
 
-Current coverage: **98 records** across **6 regions**.
+Current coverage: **728 records** across **21 regions** — 697 from live connectors plus 31 reference stubs for markets without a public source.
 
-| Region | Code | Source API | Records |
+| Region | Code | Source connector | Records |
 |--------|------|-----------|---------|
-| United States | US | eCFR (49 CFR Part 571, FMVSS) | 32 |
-| European Union | EU | EUR-Lex | 13 |
-| Japan | JP | e-Gov Law API | 15 |
-| Canada | CA | Justice Laws XML | 15 |
-| Australia | AU | Federal Register of Legislation | 13 |
-| South Korea | KR | law.go.kr (KMVSS) | 10 |
+| United States | US | eCFR (49 CFR Part 571 FMVSS; 40/47 CFR) | 142 |
+| Australia | AU | Federal Register of Legislation (ADR) | 99 |
+| UNECE | ECE | UNECE WP.29 (UN Regulations) | 86 |
+| South Korea | KR | law.go.kr (KMVSS) | 83 |
+| Gulf Cooperation Council | GCC | GSO Technical Regulations (metadata) | 63 |
+| Canada | CA | Justice Laws XML (CMVSS) | 59 |
+| Japan | JP | e-Gov Law API (JVSR) | 56 |
+| China | CN | openstd.samr.gov.cn (GB; metadata) | 49 |
+| Brazil | BR | LexML Brazil (CONTRAN) | 32 |
+| European Union | EU | EUR-Lex (Regulations & Directives) | 25 |
+| India | IN | MoRTH / ARAI (AIS; metadata) | 3 |
+
+The remaining 31 records are reference stubs (`source_api: spreadsheet`) for markets without a public connector — ASEAN, EAEU, Mexico, New Zealand, South Africa, Argentina, Israel, Türkiye, Taiwan, and cross-cutting standards (ISO/IEC/SAE). All records are classified against the taxonomy and many carry UN-equivalent cross-references regardless of source.
 
 ---
 
@@ -172,7 +179,8 @@ Two EU regulations (REACH 1907/2006 and Commission Regulation 2017/1151) require
 
 ## Deferred to v2
 
-- GCC, China, Brazil (no public APIs; would require scrapers or manual entry)
+- Vietnam (QCVN) — `vbpl.vn` is unreachable from the build environment
+- Full text for paywalled standards (GCC/GSO sold standards, image-based GB standards) — connectors capture official metadata and cross-references instead
 - Change-detection pipeline (alert when upstream regulations are amended)
 - Human tag-review workflow
 - Multi-user editing or hosted deployment

@@ -26,12 +26,11 @@ Confirmed from existing connectors/manifests:
 | GCC | GSO | Gulf Cooperation Council |
 | IN | AIS | India |
 
-- [ ] **EU series label — DECIDE.** EUR-Lex pulls a mix of EU Regulations and Directives; no single
-  acronym. Candidate labels: `EU` / `EC` / `EU Reg`. Pick one.
-- [ ] **Long-tail region series labels — TBD.** Provide `Series (Region)` for: OTHER, ASEAN, ZA
-  (South Africa), NZ (New Zealand), MX (Mexico), EAEU (Eurasian Economic Union), TW (Taiwan),
-  TR (Türkiye), IL (Israel), AR (Argentina). Many are stubs today; label as the standards body
-  where known (e.g. ZA → NRCS, IN already AIS).
+- [x] **DONE — EU series label.** Set to `EU` (covers both EU Regulations and Directives from EUR-Lex).
+- [x] **DONE — Long-tail region series labels.** Filled the grounded ones from each region's actual
+  citations: MX→`NOM`, EAEU→`TR CU`, ZA→`VC`, AR→`LCM`, NZ→`Land Transport Rule`. Left TW, ASEAN, IL,
+  TR, OTHER blank (heterogeneous member states / framework-only citations / cross-cutting standards —
+  no single grounded series; the market tile falls back to the region name).
 
 ---
 
