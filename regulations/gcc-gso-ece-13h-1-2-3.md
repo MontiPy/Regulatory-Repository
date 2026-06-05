@@ -6,7 +6,7 @@ commodities:
 - ADAS sensors
 - Hoses & lines
 id: gcc-gso-ece-13h-1-2-3
-last_pulled: '2026-06-05T13:39:04+00:00'
+last_pulled: '2026-06-05T14:39:27+00:00'
 paywall: true
 region: GCC
 source_api: gso
@@ -26,10 +26,29 @@ vehicle_categories:
 - Passenger car
 ---
 
-# GSO-ECE 13H-1/2/3 — Brake System Test Methods and Energy Storage Tests
+# Brake System Test Methods and Energy Storage Tests
 
-**Citation:** GSO-ECE 13H-1/2/3
+**Regulated Area:** Active safety / braking / ADAS
 
-This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
+**Applicability:** Brake validation methods Retained under broad-scope review so the program team can manually disposition applicability.
 
-[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
+
+## Key Compliance Intent
+
+Ensure controllable deceleration and stability under normal, failed, and emergency braking conditions.
+
+## Primary Vehicle Systems and Components
+
+Brake system, hydraulic/electric circuits, ABS/ESC/EPB, brake fluid, hoses, sensors, ECUs, calibration software.
+
+## Failure Modes and Symptoms
+
+Brake performance degradation, long pedal travel, hydraulic leak, ESC non-intervention, false intervention, warning lamp failure, extended stopping distance.
+
+## Related Regulations
+
+Possible functional overlap: GCC / GSO GSO-ECE 13H:2012 - Braking System of Passenger Cars and Multi Purpose Vehicles
+
+## Engineering Considerations
+
+GCC/GSO technical regulation mapping

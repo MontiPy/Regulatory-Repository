@@ -4,7 +4,7 @@ commodities:
 - Tires
 - Wheels
 id: gcc-gso-ece-141
-last_pulled: '2026-06-05T13:39:04+00:00'
+last_pulled: '2026-06-05T14:39:27+00:00'
 paywall: true
 region: GCC
 source_api: gso
@@ -24,10 +24,25 @@ vehicle_categories:
 - Passenger car
 ---
 
-# GSO-ECE 141 — Tyre Pressure Monitoring Systems
+# Tyre Pressure Monitoring Systems
 
-**Citation:** GSO-ECE 141
+**Regulated Area:** Tires / wheels
 
-This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
+**Applicability:** TPMS Retained under broad-scope review so the program team can manually disposition applicability.
 
-[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
+
+## Key Compliance Intent
+
+Ensure tires and wheels are structurally suitable, correctly identified, and properly matched to the passenger vehicle configuration.
+
+## Primary Vehicle Systems and Components
+
+Tires, wheels/rims, valve stems, TPMS, placards, tire markings, assembly plant tire-to-vehicle traceability.
+
+## Failure Modes and Symptoms
+
+Tire overload, bead unseating, underinflation warning failure, incorrect tire size or load rating, nonconforming DOT/TIN or placard, vibration, premature tire failure.
+
+## Engineering Considerations
+
+GCC/GSO technical regulation mapping
