@@ -72,3 +72,46 @@ def test_merge_un_equivalent_unions_un_ref_only():
     assert _merge_un_equivalent(["UN R94"], "ISO 6487") == ["UN R94"]
     assert _merge_un_equivalent(["UN R94"], "ECE R94") == ["UN R94"]
     assert _merge_un_equivalent(["UN R94"], None) == ["UN R94"]
+
+
+import frontmatter
+from connectors.china import pull
+
+def _make_manifest(tmp_path, entry):
+    import yaml
+    mpath = tmp_path / "cn.yaml"
+    mpath.write_text(yaml.safe_dump({"region": "CN", "records": [entry]}, allow_unicode=True), encoding="utf-8")
+    return mpath
+
+def test_pull_preserves_tags_and_unions_equivalents(tmp_path, monkeypatch):
+    dest = tmp_path / "regs"; dest.mkdir()
+    existing = frontmatter.Post(
+        "old body",
+        id="cn-gb-11551-2014", title="Old spreadsheet title", region="CN",
+        citation="GB 11551-2014", status="in-force",
+        source_url="https://old", source_api="spreadsheet",
+        tagging_status="llm-tagged", commodities=["Airbags"], systems=["Crashworthiness"],
+        un_equivalent=["UN R94"], un_equivalent_ai=["UN R16"],
+    )
+    (dest / "cn-gb-11551-2014.md").write_text(frontmatter.dumps(existing), encoding="utf-8")
+
+    import connectors.china as china
+    list_html = (FIX / "std_list_gb11551.html").read_text(encoding="utf-8")
+    detail_html = (FIX / "newGbInfo_gb11551.html").read_text(encoding="utf-8")
+    monkeypatch.setattr(china, "RateLimitedSession", lambda **kw: FakeSession(list_html))
+    monkeypatch.setattr(china, "fetch_detail", lambda session, hcno: detail_html)
+
+    manifest = _make_manifest(tmp_path, {
+        "id": "cn-gb-11551-2014", "gb_number": "GB 11551-2014", "source_url": "https://old",
+    })
+    pull(manifest, dest)
+
+    post = frontmatter.load(dest / "cn-gb-11551-2014.md")
+    assert post["source_api"] == "china"
+    assert post["commodities"] == ["Airbags"]
+    assert post["tagging_status"] == "llm-tagged"
+    assert post["un_equivalent"] == ["UN R94"]
+    assert post["un_equivalent_ai"] == ["UN R16"]
+    assert "occupants" in post["title"]
+    assert "Old spreadsheet title" in post.get("aliases", [])
+    assert "newGbInfo" in post["source_url"]

@@ -159,3 +159,88 @@ def enriched_stub_body(gb_number: str, source_url: str) -> str:
         f"This standard could not be resolved on the official portal "
         f"(openstd.samr.gov.cn) automatically. Visit {link} for the official record."
     )
+
+
+def fetch_detail(session: Any, hcno: str) -> str:
+    resp = session.get(f"{BASE}/newGbInfo?hcno={hcno}")
+    resp.encoding = "utf-8"
+    return resp.text
+
+
+def _load_existing(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return {}
+    return dict(frontmatter.load(path).metadata)
+
+
+def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
+    if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+
+    with manifest_path.open("r", encoding="utf-8") as fh:
+        manifest = yaml.safe_load(fh) or {}
+
+    session = RateLimitedSession(rate=0.5)
+    pulled: list[Path] = []
+    failed: list[str] = []
+
+    for entry in manifest.get("records", []):
+        file_id = str(entry.get("id", "")).strip()
+        gb = str(entry.get("gb_number", "")).strip()
+        fallback_url = str(entry.get("source_url", "")).strip()
+        if not file_id or not gb:
+            continue
+
+        existing = _load_existing(dest_dir / f"{file_id}.md")
+        meta: dict[str, Any] = {}
+        print(f"  Pulling CN {gb} ...", end=" ", flush=True)
+        try:
+            found = search_hcno(session, gb)
+            if not found:
+                raise LookupError("not found on openstd")
+            hcno, label = found
+            source_url = f"{BASE}/newGbInfo?hcno={hcno}"
+            meta = parse_detail(fetch_detail(session, hcno))
+            citation = label
+            title = meta.get("en_title") or meta.get("cn_title") or existing.get("title") or label
+            status = meta.get("status") or existing.get("status") or "in-force"
+            body = build_body(meta, citation, source_url)
+            print(f"OK ({'in-force' if status=='in-force' else status})")
+        except Exception as exc:
+            citation = existing.get("citation") or gb
+            source_url = fallback_url or existing.get("source_url") or ""
+            title = existing.get("title") or gb
+            status = existing.get("status") or "in-force"
+            body = enriched_stub_body(gb, source_url)
+            failed.append(f"{gb}: {exc}")
+            print(f"STUB ({exc})")
+
+        record: dict[str, Any] = {
+            "id": file_id, "title": title, "region": "CN", "citation": citation,
+            "status": status, "source_url": source_url or fallback_url or f"{BASE}/std/index",
+            "source_api": "china",
+            "tagging_status": existing.get("tagging_status", "untagged"),
+        }
+        un_eq = _merge_un_equivalent(existing.get("un_equivalent", []), meta.get("adopted_standard"))
+        if un_eq:
+            record["un_equivalent"] = un_eq
+        for field in ("un_equivalent_ai", "translation_status", "paywall", "tagged_at"):
+            if existing.get(field) not in (None, [], ""):
+                record[field] = existing[field]
+        aliases = list(existing.get("aliases", []) or [])
+        prev_title = existing.get("title")
+        if prev_title and prev_title != title and prev_title not in aliases:
+            aliases.append(prev_title)
+        if aliases:
+            record["aliases"] = sorted(set(aliases))
+        if meta.get("impl_date"):
+            record["effective_date"] = meta["impl_date"]
+
+        pulled.append(write_md(record, body, dest_dir))
+
+    session.close()
+    if failed:
+        print(f"\n{len(failed)} fell back to stub:")
+        for msg in failed:
+            print(f"  {msg}")
+    return pulled
