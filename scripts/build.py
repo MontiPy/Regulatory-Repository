@@ -82,7 +82,10 @@ LIST_FIELDS = {
     "tags",
 }
 
-UN_EQUIVALENT_RE = re.compile(r"^UN R\d+[a-z]?$")
+# Canonical UN regulation number, e.g. "UN R94" or the variant "UN R13H".
+# Variant suffixes are uppercase to match ECE record ids (ece-r13-h -> UN R13H);
+# a lowercase suffix is also tolerated for hand-authored frontmatter.
+UN_EQUIVALENT_RE = re.compile(r"^UN R\d+[A-Za-z]?$")
 
 ALLOWED_TAGS = [
     "h1",
@@ -203,7 +206,7 @@ def validate_taxonomy(
 def validate_un_equivalent(metadata: dict[str, Any], issues: list[BuildIssue]) -> None:
     for value in as_list(metadata.get("un_equivalent"), "un_equivalent", issues):
         if not isinstance(value, str) or not UN_EQUIVALENT_RE.match(value):
-            issues.append(BuildIssue("ERROR", f"un_equivalent value '{value}' must match ^UN R\\d+[a-z]?$"))
+            issues.append(BuildIssue("ERROR", f"un_equivalent value '{value}' must match ^UN R\\d+[A-Za-z]?$"))
 
 
 MAX_RELATED = 12
@@ -212,7 +215,7 @@ MAX_RELATED = 12
 def validate_un_equivalent_ai(metadata: dict[str, Any], issues: list[BuildIssue]) -> None:
     for value in as_list(metadata.get("un_equivalent_ai"), "un_equivalent_ai", issues):
         if not isinstance(value, str) or not UN_EQUIVALENT_RE.match(value):
-            issues.append(BuildIssue("ERROR", f"un_equivalent_ai value '{value}' must match ^UN R\\d+[a-z]?$"))
+            issues.append(BuildIssue("ERROR", f"un_equivalent_ai value '{value}' must match ^UN R\\d+[A-Za-z]?$"))
 
 
 def validate_list_fields(metadata: dict[str, Any], issues: list[BuildIssue]) -> None:
