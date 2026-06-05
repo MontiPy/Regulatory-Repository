@@ -169,10 +169,12 @@ def fetch_detail(session: Any, hcno: str) -> str:
     return resp.text
 
 
-def _load_existing(path: Path) -> dict[str, Any]:
+def _load_existing(path: Path) -> tuple[dict[str, Any], str]:
+    """Return (frontmatter metadata, body content) for an existing record."""
     if not path.exists():
-        return {}
-    return dict(frontmatter.load(path).metadata)
+        return {}, ""
+    post = frontmatter.load(path)
+    return dict(post.metadata), (post.content or "")
 
 
 def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
@@ -193,7 +195,7 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
         if not file_id or not gb:
             continue
 
-        existing = _load_existing(dest_dir / f"{file_id}.md")
+        existing, existing_body = _load_existing(dest_dir / f"{file_id}.md")
         meta: dict[str, Any] = {}
         print(f"  Pulling CN {gb} ...", end=" ", flush=True)
         try:
@@ -206,14 +208,17 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
             citation = label
             title = meta.get("en_title") or meta.get("cn_title") or existing.get("title") or label
             status = meta.get("status") or existing.get("status") or "in-force"
-            body = build_body(meta, citation, source_url)
+            # Preserve the existing curated body; the generated metadata body is
+            # only a fallback for records that have none. Official title/status/
+            # date/adopted-standard all live in frontmatter, not the body.
+            body = existing_body if existing_body.strip() else build_body(meta, citation, source_url)
             print(f"OK ({'in-force' if status=='in-force' else status})")
         except Exception as exc:
             citation = existing.get("citation") or gb
             source_url = fallback_url or existing.get("source_url") or ""
             title = existing.get("title") or gb
             status = existing.get("status") or "in-force"
-            body = enriched_stub_body(gb, source_url)
+            body = existing_body if existing_body.strip() else enriched_stub_body(gb, source_url)
             failed.append(f"{gb}: {exc}")
             print(f"STUB ({exc})")
 
@@ -230,9 +235,12 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
             if existing.get(field) not in (None, [], ""):
                 record[field] = existing[field]
         aliases = list(existing.get("aliases", []) or [])
-        prev_title = existing.get("title")
-        if prev_title and prev_title != title and prev_title not in aliases:
-            aliases.append(prev_title)
+        # Keep the prior title and the official Chinese title as searchable
+        # aliases (the Chinese title would otherwise be lost when the curated
+        # body is preserved instead of the generated metadata body).
+        for extra in (existing.get("title"), meta.get("cn_title")):
+            if extra and extra != title and extra not in aliases:
+                aliases.append(extra)
         if aliases:
             record["aliases"] = sorted(set(aliases))
         if meta.get("impl_date"):

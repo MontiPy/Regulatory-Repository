@@ -122,3 +122,28 @@ def test_parse_detail_maps_feizhi_to_superseded():
     # not an out-of-taxonomy "abolished" (regression: build rejected the latter).
     html = "<div>标准状态</div><div class='content'>废止</div><div>在线预览</div>"
     assert parse_detail(html)["status"] == "superseded"
+
+
+def test_pull_preserves_existing_curated_body(tmp_path, monkeypatch):
+    dest = tmp_path / "regs"; dest.mkdir()
+    curated = ("# Frontal collision occupant protection\n\n**Regulated Area:** Frontal impact\n\n"
+               "## Key Compliance Intent\n\nMaintain occupant survival space in a frontal crash.\n")
+    existing = frontmatter.Post(
+        curated, id="cn-gb-11551-2014", title="old spreadsheet title", region="CN",
+        citation="GB 11551-2014", status="in-force", source_url="https://old",
+        source_api="spreadsheet", tagging_status="llm-tagged", commodities=["Airbags"],
+        un_equivalent=["UN R94"],
+    )
+    (dest / "cn-gb-11551-2014.md").write_text(frontmatter.dumps(existing), encoding="utf-8")
+    import connectors.china as china
+    list_html = (FIX / "std_list_gb11551.html").read_text(encoding="utf-8")
+    detail_html = (FIX / "newGbInfo_gb11551.html").read_text(encoding="utf-8")
+    monkeypatch.setattr(china, "RateLimitedSession", lambda **kw: FakeSession(list_html))
+    monkeypatch.setattr(china, "fetch_detail", lambda s, h: detail_html)
+    mp = _make_manifest(tmp_path, {"id": "cn-gb-11551-2014", "gb_number": "GB 11551-2014", "source_url": "https://old"})
+    china.pull(mp, dest)
+    post = frontmatter.load(dest / "cn-gb-11551-2014.md")
+    assert "Key Compliance Intent" in post.content      # curated body preserved
+    assert "Regulated Area" in post.content
+    assert "occupants" in post["title"]                 # frontmatter still enriched
+    assert post["commodities"] == ["Airbags"]
