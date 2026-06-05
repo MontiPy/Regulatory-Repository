@@ -362,7 +362,14 @@
       const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
       const isDefault = shown.length === 1 && shown[0] === "full";
       if (!isDefault) {
-        shown.forEach((c) => chips.push({ type: "avail", value: c, label: `Show: ${AVAIL_LABELS[c]}` }));
+        if (shown.length === 0) {
+          // All availability boxes unchecked: a non-default state that would
+          // otherwise show no chip. Surface a removable "nothing" chip so the
+          // default (full text) is always restorable from the chip bar.
+          chips.push({ type: "avail-none", label: "Show: nothing" });
+        } else {
+          shown.forEach((c) => chips.push({ type: "avail", value: c, label: `Show: ${AVAIL_LABELS[c]}` }));
+        }
       }
       if (chips.length === 0) { bar.classList.add("hidden"); bar.innerHTML = ""; return; }
       bar.classList.remove("hidden");
@@ -682,6 +689,9 @@
       } else if (type === "avail") {
         const el = availBoxes.find((b) => b.dataset.avail === chip.dataset.chipValue);
         if (el) el.checked = false;
+      } else if (type === "avail-none") {
+        // Restore the default availability (full text only).
+        availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
       }
       visibleLimit = PAGE_SIZE;
       render();
