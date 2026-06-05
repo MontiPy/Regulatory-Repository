@@ -17,6 +17,11 @@ import bleach
 import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+try:
+    from scripts.un_refs import ece_id_to_un, normalize_un
+except ImportError:
+    from un_refs import ece_id_to_un, normalize_un
+
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS_DIR = ROOT / "assets"
@@ -44,6 +49,7 @@ OPTIONAL_KEYS = {
     "systems",
     "vehicle_categories",
     "un_equivalent",
+    "un_equivalent_ai",
     "related",
     "tags",
     "tagged_at",
@@ -71,6 +77,7 @@ LIST_FIELDS = {
     "systems",
     "vehicle_categories",
     "un_equivalent",
+    "un_equivalent_ai",
     "related",
     "tags",
 }
@@ -199,6 +206,15 @@ def validate_un_equivalent(metadata: dict[str, Any], issues: list[BuildIssue]) -
             issues.append(BuildIssue("ERROR", f"un_equivalent value '{value}' must match ^UN R\\d+[a-z]?$"))
 
 
+MAX_RELATED = 12
+
+
+def validate_un_equivalent_ai(metadata: dict[str, Any], issues: list[BuildIssue]) -> None:
+    for value in as_list(metadata.get("un_equivalent_ai"), "un_equivalent_ai", issues):
+        if not isinstance(value, str) or not UN_EQUIVALENT_RE.match(value):
+            issues.append(BuildIssue("ERROR", f"un_equivalent_ai value '{value}' must match ^UN R\\d+[a-z]?$"))
+
+
 def validate_list_fields(metadata: dict[str, Any], issues: list[BuildIssue]) -> None:
     for field in LIST_FIELDS:
         if field in metadata:
@@ -321,10 +337,12 @@ def write_record_bodies(records: list[dict[str, Any]], dist_dir: Path) -> None:
 def write_taxonomy_json(
     taxonomy: dict[str, list[str]],
     region_series: dict[str, dict[str, str]],
+    un_index: dict[str, str],
     dist_dir: Path,
 ) -> None:
     payload = dict(taxonomy)
     payload["region_series"] = region_series
+    payload["un_index"] = un_index
     data_dir = _ensure_data_dir(dist_dir)
     (data_dir / "taxonomy.json").write_text(
         json.dumps(payload, ensure_ascii=False), encoding="utf-8"
@@ -350,6 +368,7 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
     validate_list_fields(metadata, issues)
     validate_taxonomy(metadata, taxonomy_sets, issues, draft)
     validate_un_equivalent(metadata, issues)
+    validate_un_equivalent_ai(metadata, issues)
 
     body_html = render_markdown(clean_body(post.content, stringify(metadata.get("source_api"))))
     record = {
@@ -368,7 +387,8 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "systems": as_list(metadata.get("systems"), "systems", []),
         "vehicle_categories": as_list(metadata.get("vehicle_categories"), "vehicle_categories", []),
         "un_equivalent": as_list(metadata.get("un_equivalent"), "un_equivalent", []),
-        "related": as_list(metadata.get("related"), "related", []),
+        "un_equivalent_ai": as_list(metadata.get("un_equivalent_ai"), "un_equivalent_ai", []),
+        "related": [],  # derived after all records load (see derive_related)
         "tags": as_list(metadata.get("tags"), "tags", []),
         "paywall": bool(metadata.get("paywall", False)),
         "translation_status": stringify(metadata.get("translation_status", "")),
@@ -438,6 +458,59 @@ def _list_md_files(directory: Path) -> list[Path]:
     return sorted(files)
 
 
+def build_un_index(records: list[dict[str, Any]]) -> dict[str, str]:
+    """Map each canonical UN R number to the ECE record id that represents it."""
+    index: dict[str, str] = {}
+    for record in records:
+        un = ece_id_to_un(record.get("id", ""))
+        if un:
+            index[un] = record["id"]
+    return index
+
+
+def derive_related(records: list[dict[str, Any]]) -> dict[str, list[str]]:
+    """Derive related-record edges from GROUNDED shared-UN clusters only.
+
+    A record belongs to UN-number cluster K if K is in its grounded
+    ``un_equivalent`` OR it is the ECE record for K. Records sharing a cluster
+    are related. AI-inferred equivalents never create related edges. Fan-out is
+    capped at MAX_RELATED, with ECE records preferred.
+    """
+    members: dict[str, list[str]] = {}
+    keys_by_record: dict[str, set[str]] = {}
+    for record in records:
+        rid = record.get("id")
+        if not rid:
+            continue
+        keys: set[str] = set()
+        own = ece_id_to_un(rid)
+        if own:
+            keys.add(own)
+        for value in record.get("un_equivalent", []):
+            canon = normalize_un(value)
+            if canon:
+                keys.add(canon)
+        keys_by_record[rid] = keys
+        for key in keys:
+            members.setdefault(key, []).append(rid)
+
+    related: dict[str, list[str]] = {}
+    for rid, keys in keys_by_record.items():
+        siblings: list[str] = []
+        seen = {rid}
+        cluster_ids = sorted({m for key in keys for m in members.get(key, [])})
+        cluster_ids.sort(key=lambda x: (ece_id_to_un(x) is None, x))
+        for other in cluster_ids:
+            if other in seen:
+                continue
+            seen.add(other)
+            siblings.append(other)
+            if len(siblings) >= MAX_RELATED:
+                break
+        related[rid] = siblings
+    return related
+
+
 def build(draft: bool) -> int:
     taxonomy, taxonomy_sets = load_taxonomy()
     entries: list[tuple[dict[str, Any], list[BuildIssue]]] = []
@@ -448,9 +521,14 @@ def build(draft: bool) -> int:
 
     records = [record for record, _issues in entries]
     issues_by_id = {record["id"]: issues for record, issues in entries if record.get("id")}
-    warn_for_missing_related(records, issues_by_id)
     entries.sort(key=lambda item: (item[0].get("region", ""), item[0].get("citation", "")))
     records = [record for record, _issues in entries]
+
+    related_map = derive_related(records)
+    for record in records:
+        record["related"] = related_map.get(record["id"], [])
+    un_index = build_un_index(records)
+    warn_for_missing_related(records, issues_by_id)
 
     report_lines = [report_line(record, issues) for record, issues in entries]
     REPORT_PATH.write_text("\n".join(report_lines) + ("\n" if report_lines else ""), encoding="utf-8")
@@ -467,7 +545,7 @@ def build(draft: bool) -> int:
     DIST_DIR.mkdir(parents=True, exist_ok=True)
     write_index_json(records, DIST_DIR)
     write_record_bodies(records, DIST_DIR)
-    write_taxonomy_json(taxonomy, region_series, DIST_DIR)
+    write_taxonomy_json(taxonomy, region_series, un_index, DIST_DIR)
     write_search_text(records, DIST_DIR)
     copy_static_assets(DIST_DIR)
     render_shell(build_meta, DIST_DIR)
