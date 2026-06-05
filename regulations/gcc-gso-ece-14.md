@@ -4,11 +4,11 @@ commodities:
 - Seats
 - Seatbelts
 id: gcc-gso-ece-14
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T13:39:04+00:00'
 paywall: true
 region: GCC
-source_api: spreadsheet
-source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+source_api: gso
+source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
 - Restraints
@@ -23,29 +23,10 @@ un_equivalent_ai:
 vehicle_categories: []
 ---
 
-# Safety-Belt Anchorages
+# GSO-ECE 14 — Safety-Belt Anchorages
 
-**Regulated Area:** Restraints / seats / child protection
+**Citation:** GSO-ECE 14
 
-**Applicability:** Seat belt anchors Retained under broad-scope review so the program team can manually disposition applicability.
+This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
 
-
-## Key Compliance Intent
-
-Keep occupants and child restraints correctly positioned and restrained during crash and normal driving.
-
-## Primary Vehicle Systems and Components
-
-Seats, head restraints, seat tracks, recliners, belt assemblies, retractors, pretensioners, buckles, anchorages, ISOFIX/LATCH/tether hardware.
-
-## Failure Modes and Symptoms
-
-Seat belt anchorage failure, belt webbing/retractor malfunction, poor belt fit, child restraint mis-installation, seat track release, excessive head excursion.
-
-## Related Regulations
-
-Possible functional overlap: GCC / GSO GSO 97:1988 - Motor Vehicles - Safety Belts
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)

@@ -7,11 +7,11 @@ commodities:
 - ECUs
 - Mirrors
 id: gcc-gso-ece-43-gso-3538
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T13:39:04+00:00'
 paywall: true
 region: GCC
-source_api: spreadsheet
-source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+source_api: gso
+source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
 - Lighting & signaling
@@ -28,29 +28,10 @@ un_equivalent_ai:
 vehicle_categories: []
 ---
 
-# Safety Glazing and Optical Test Methods
+# GSO-ECE 43 / GSO 3538 — Safety Glazing and Optical Test Methods
 
-**Regulated Area:** Visibility / lighting / HMI
+**Citation:** GSO-ECE 43 / GSO 3538
 
-**Applicability:** Automotive glazing Retained under broad-scope review so the program team can manually disposition applicability.
+This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
 
-
-## Key Compliance Intent
-
-Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.
-
-## Primary Vehicle Systems and Components
-
-Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.
-
-## Failure Modes and Symptoms
-
-Lighting nonconformance, wrong color/intensity, lamp out or flicker, mis-aimed beams, glare, visibility/conspicuity loss, incorrect tell-tale logic.
-
-## Related Regulations
-
-Possible functional overlap: GCC / GSO GSO 1677:2002 - Motor Vehicles - Laminated Safety Glass
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)

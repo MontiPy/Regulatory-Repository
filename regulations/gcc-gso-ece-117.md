@@ -4,11 +4,11 @@ commodities:
 - Tires
 - Wheels
 id: gcc-gso-ece-117
-last_pulled: '2026-06-01T18:54:41+00:00'
+last_pulled: '2026-06-05T13:39:04+00:00'
 paywall: true
 region: GCC
-source_api: spreadsheet
-source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
+source_api: gso
+source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
 - Tires & wheels
@@ -24,29 +24,10 @@ vehicle_categories:
 - Passenger car
 ---
 
-# Tyre Rolling Resistance, Wet Grip and Rolling Sound
+# GSO-ECE 117 — Tyre Rolling Resistance, Wet Grip and Rolling Sound
 
-**Regulated Area:** Tires / wheels
+**Citation:** GSO-ECE 117
 
-**Applicability:** Tyre performance/labeling Retained under broad-scope review so the program team can manually disposition applicability.
+This Gulf (GSO) standard is part of the **GCC Technical Regulation for Motor Vehicles**. Individual GSO standards are published and sold by the GCC Standardization Organization; their full text is not freely available. The consolidated list of GSO motor-vehicle technical regulations (number, model year, subject) is published by GSO:
 
-
-## Key Compliance Intent
-
-Ensure tires and wheels are structurally suitable, correctly identified, and properly matched to the passenger vehicle configuration.
-
-## Primary Vehicle Systems and Components
-
-Tires, wheels/rims, valve stems, TPMS, placards, tire markings, assembly plant tire-to-vehicle traceability.
-
-## Failure Modes and Symptoms
-
-Tire overload, bead unseating, underinflation warning failure, incorrect tire size or load rating, nonconforming DOT/TIN or placard, vibration, premature tire failure.
-
-## Related Regulations
-
-Possible functional overlap: GCC / GSO GSO 1624:2002 - Motor Vehicles - Noise Emitted by Motor Vehicles
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+[GSO Technical Regulations for Motor Vehicles (consolidated list)](https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf)
