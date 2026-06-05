@@ -243,12 +243,18 @@ Each item below requires a new manifest (`manifests/<region>.yaml`), a connector
 - Notes: Official XML/JSON API not available; HTML scraping required; Vietnamese-language only
 
 ### AIS — India (Automotive Industry Standard)
-- Standards body: ARAI / Ministry of Road Transport and Highways
-- Relevant standards: AIS-001 through AIS-153 series; CMVR (Central Motor Vehicles Rules)
-- Public access: https://morth.nic.in; https://www.araiindia.com
-- Notes: No public machine-readable API; PDFs available for purchase; CMVR text available
-  at https://legislative.gov.in
-- Current state: 3 stub `.md` files exist in `regulations/`
+- [x] **DONE (thin) — `connectors/india.py` + `manifests/in.yaml` (3 records).** Network-free: rewrites
+  the stale `morth.nic.in` → `morth.gov.in` domain, sets `source_api: ais`, preserves the curated
+  body + API-2 tags/cross-refs. The 3 records are framework aggregates; no full text (PDFs moved /
+  morth.gov.in times out from this env). Spec/plan: `docs/superpowers/{specs,plans}/2026-06-05-india-ais-connector*`.
+- Standards body: ARAI / MoRTH. CMVR text at https://legislative.gov.in.
+
+### Connector regression (found + fixed 2026-06-05)
+- [x] **DONE — Preserve curated bodies in metadata-enrichment connectors.** The china/gcc connectors
+  initially overwrote rich curated workbook bodies with generated stubs (105 records regressed).
+  Fixed: china/gcc/india now preserve the existing body (generated body = fallback only); restored
+  the 105 bodies from the API-2 baseline; `effective_date` now surfaced in build + reader. Full-text
+  connectors (ecfr/brazil/justice_ca/egov_jp/eurlex/unece/au) correctly still overwrite bodies.
 
 ### Radio Wave / EMC
 - This is a cross-cutting topic, not a single regional framework
