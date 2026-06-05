@@ -285,6 +285,7 @@
                 ${unChips("AI-Suggested Equivalent", record.un_equivalent_ai, true)}
                 ${relatedLinks(record.related)}
                 ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
+                ${record.effective_date ? `<div class="meta-item"><strong>Effective Date</strong><span>${escapeHtml(record.effective_date)}</span></div>` : ""}
                 ${record.last_pulled ? `<div class="meta-item"><strong>Last Pulled</strong><span>${escapeHtml(record.last_pulled)}</span></div>` : ""}
                 ${record.tagged_at  ? `<div class="meta-item"><strong>Tagged At</strong><span>${escapeHtml(record.tagged_at)}</span></div>`  : ""}
               </div>
