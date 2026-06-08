@@ -11,6 +11,11 @@ venv/
 .venv/
 env/
 
+# Pytest temp dirs written into the repo root
+.pytest_cache/
+.pytest-tmp/
+tmp_pytest_run_*/
+
 # Environment
 .env
 .env.*
