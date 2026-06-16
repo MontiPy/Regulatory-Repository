@@ -8,6 +8,8 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.normalize_tags import (
+    CHUNK_SIZE,
+    _chunked,
     collect_open_tags,
     load_aliases,
     normalize,
@@ -74,3 +76,19 @@ class TestWrite:
 
     def test_load_aliases_missing_file_is_empty(self, tmp_path):
         assert load_aliases(tmp_path / "nope.yaml") == {}
+
+    def test_load_aliases_non_mapping_yaml_returns_empty(self, tmp_path):
+        path = tmp_path / "list.yaml"
+        path.write_text("- foo\n- bar\n", encoding="utf-8")
+        assert load_aliases(path) == {}
+
+
+class TestChunked:
+    def test_exact_multiple(self):
+        assert _chunked(["a", "b", "c", "d"], 2) == [["a", "b"], ["c", "d"]]
+
+    def test_remainder(self):
+        assert _chunked(["a", "b", "c"], 2) == [["a", "b"], ["c"]]
+
+    def test_empty_list_returns_empty(self):
+        assert _chunked([], 5) == []

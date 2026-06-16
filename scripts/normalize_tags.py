@@ -34,6 +34,12 @@ VOCAB_PATH = ROOT / "discovered_vocabulary.yaml"
 
 MODEL = "claude-sonnet-4-6"
 MAX_TOKENS = 16000
+CHUNK_SIZE = 150
+
+
+def _chunked(seq: list[str], size: int) -> list[list[str]]:
+    """Split seq into consecutive chunks of at most `size` items."""
+    return [seq[i : i + size] for i in range(0, len(seq), size)]
 
 
 def collect_open_tags(regulations_dir: Path) -> list[str]:
@@ -51,7 +57,8 @@ def load_aliases(path: Path) -> dict[str, str]:
     if not path.exists():
         return {}
     with path.open("r", encoding="utf-8") as fh:
-        return dict(yaml.safe_load(fh) or {})
+        data = yaml.safe_load(fh)
+    return dict(data) if isinstance(data, dict) else {}
 
 
 def build_grouping_prompt(tags: list[str]) -> str:
@@ -125,13 +132,21 @@ def make_grouper(dry_run: bool):
     client = anthropic.Anthropic(api_key=api_key)
 
     def grouper(tags: list[str]) -> dict[str, str]:
-        message = client.messages.create(
-            model=MODEL,
-            max_tokens=MAX_TOKENS,
-            system="You are a precise vocabulary normalizer. Return only valid JSON.",
-            messages=[{"role": "user", "content": build_grouping_prompt(tags)}],
-        )
-        return parse_grouping(message.content[0].text, tags)
+        result: dict[str, str] = {}
+        for chunk in _chunked(tags, CHUNK_SIZE):
+            message = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS,
+                system="You are a precise vocabulary normalizer. Return only valid JSON.",
+                messages=[{"role": "user", "content": build_grouping_prompt(chunk)}],
+            )
+            if message.stop_reason == "max_tokens":
+                raise RuntimeError(
+                    f"Grouping response truncated (stop_reason=max_tokens) for a chunk of "
+                    f"{len(chunk)} tags. Lower CHUNK_SIZE in normalize_tags.py."
+                )
+            result.update(parse_grouping(message.content[0].text, chunk))
+        return result
 
     return grouper
 
@@ -149,7 +164,7 @@ def main() -> int:
     new_count = len([t for t in all_tags if t not in existing])
     print(f"{len(all_tags)} unique open_tags ({new_count} new, {len(existing)} already mapped).")
 
-    grouper = make_grouper(args.dry_run)
+    grouper = make_grouper(args.dry_run) if new_count else (lambda tags: {})
     aliases = normalize(all_tags, existing, grouper)
 
     write_aliases(ALIASES_PATH, aliases)

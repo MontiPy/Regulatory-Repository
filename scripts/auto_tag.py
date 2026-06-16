@@ -116,7 +116,7 @@ Also return "open_tags": free-form, industry-standard commodity and part-type
 identifiers you judge relevant to this regulation, using recognized industry
 terminology (e.g. "master cylinder", "ISOFIX anchorage", "tire pressure
 monitoring sensor"). These are NOT limited to the controlled lists above.
-Return at most 12. If none clearly apply, return an empty array.
+Return at most {OPEN_TAGS_CAP}. If none clearly apply, return an empty array.
 
 ## Required output format (JSON only)
 {{"commodities": [...], "systems": [...], "vehicle_categories": [...], "open_tags": [...]}}"""
