@@ -38,8 +38,8 @@ ROOT = Path(__file__).resolve().parents[1]
 REGULATIONS_DIR = ROOT / "regulations"
 TAXONOMY_PATH = ROOT / "taxonomy.yaml"
 
-MODEL = "claude-haiku-4-5-20251001"
-MAX_TOKENS = 512
+MODEL = "claude-sonnet-4-6"
+MAX_TOKENS = 1024
 BODY_TRUNCATE = 5000
 POLL_INTERVAL = 30  # seconds between status checks
 OPEN_TAGS_CAP = 12
@@ -111,14 +111,21 @@ If a facet does not clearly apply, return an empty array — do not guess.
 ## Valid vehicle_categories
 {vehicle_categories}
 
+## Open tags (NOT restricted to the lists above)
+Also return "open_tags": free-form, industry-standard commodity and part-type
+identifiers you judge relevant to this regulation, using recognized industry
+terminology (e.g. "master cylinder", "ISOFIX anchorage", "tire pressure
+monitoring sensor"). These are NOT limited to the controlled lists above.
+Return at most 12. If none clearly apply, return an empty array.
+
 ## Required output format (JSON only)
-{{"commodities": [...], "systems": [...], "vehicle_categories": [...]}}"""
+{{"commodities": [...], "systems": [...], "vehicle_categories": [...], "open_tags": [...]}}"""
 
 
 def write_tags_to_file(path: str, tags: dict) -> None:
     p = Path(path)
     post = frontmatter.load(p)
-    for field in ("commodities", "systems", "vehicle_categories"):
+    for field in ("commodities", "systems", "vehicle_categories", "open_tags"):
         post[field] = tags.get(field, [])
     post["tagging_status"] = "llm-tagged"
     post["tagged_at"] = _now_iso()
