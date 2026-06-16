@@ -69,7 +69,12 @@ Re-running is safe and idempotent — it overwrites existing files with fresh co
 
 ### Stage 2 — Tag
 
-Classify untagged records against the controlled taxonomy with `scripts/auto_tag.py`. It sends each untagged record to the Anthropic Messages **Batch API** (Claude Haiku), then writes the returned `commodities` / `systems` / `vehicle_categories` back into the `.md` frontmatter and marks the record `tagging_status: llm-tagged`.
+Classify untagged records against the controlled taxonomy with `scripts/auto_tag.py`. It sends each untagged record to the Anthropic Messages **Batch API** (Claude Sonnet 4.6), then writes the returned `commodities` / `systems` / `vehicle_categories` back into the `.md` frontmatter and marks the record `tagging_status: llm-tagged`.
+
+Alongside the controlled facets, the same call also emits **`open_tags`** — free-form,
+industry-standard commodity/part-type labels (e.g. "master cylinder", "ISOFIX
+anchorage") that are *not* restricted to the taxonomy. These raw tags are folded
+into the search corpus to improve recall; they are not facets.
 
 ```
 # Tag all untagged regulations (requires an Anthropic API key)
@@ -84,6 +89,20 @@ python scripts/auto_tag.py --poll msgbatch_xxxxx  # resume polling a submitted b
 The taxonomy is defined in `taxonomy.yaml`. The model may only select values that appear verbatim in the taxonomy, and results are re-validated against it on import, so tagging stays within the controlled vocabulary. Tagging is the only stage that uses an LLM — pull and build are deterministic.
 
 > The earlier manual batch workflow (`tag_export.py` → classify JSONL in `tagging_batches/` → `tag_import.py`) still exists for offline/no-API-key use, but `auto_tag.py` is the standard path.
+
+#### Normalizing open tags
+
+After tagging, distill the emitted `open_tags` into a canonical vocabulary:
+
+```
+ANTHROPIC_API_KEY=sk-ant-... python scripts/normalize_tags.py
+python scripts/normalize_tags.py --dry-run   # no API; map each tag to itself
+```
+
+This makes one Claude Sonnet call over the unique new tags and writes
+`tag_aliases.yaml` (raw → canonical, hand-editable — existing entries are never
+overwritten) and `discovered_vocabulary.yaml` (the canonical list). Search uses
+the **raw** tags directly, so normalization is optional and never narrows recall.
 
 ### Stage 3 — Build
 
