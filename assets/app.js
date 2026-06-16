@@ -127,6 +127,7 @@
         r.summary_text,
         (r.un_equivalent || []).join(" "),
         (r.tags || []).join(" "),
+        (r.open_tags || []).join(" "),
       ].join(" ");
       if (normalize(base).includes(q)) return true;
       if (searchReady && q.length >= 3) return searchHitIds().has(r.id);
