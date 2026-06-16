@@ -99,7 +99,8 @@ ANTHROPIC_API_KEY=sk-ant-... python scripts/normalize_tags.py
 python scripts/normalize_tags.py --dry-run   # no API; map each tag to itself
 ```
 
-This makes one Claude Sonnet call over the unique new tags and writes
+This makes one or more Claude Sonnet calls (the unique new tags are batched in
+chunks) and writes
 `tag_aliases.yaml` (raw → canonical, hand-editable — existing entries are never
 overwritten) and `discovered_vocabulary.yaml` (the canonical list). Search uses
 the **raw** tags directly, so normalization is optional and never narrows recall.

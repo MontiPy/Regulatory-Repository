@@ -179,6 +179,8 @@ def parse_tags(text: str, taxonomy: dict[str, list[str]]) -> dict:
         data = json.loads(text)
     except json.JSONDecodeError:
         return empty
+    if not isinstance(data, dict):
+        return empty
 
     result = {}
     for field, valid_values in taxonomy.items():

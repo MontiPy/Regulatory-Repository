@@ -46,6 +46,18 @@ class TestParseOpenTags:
         result = parse_tags("not json", TAXONOMY)
         assert result["open_tags"] == []
 
+    def test_valid_but_non_object_json_returns_empty(self):
+        # Valid JSON that isn't an object (null, list, bare string) must not
+        # raise — it would otherwise abort the whole batch import.
+        for text in ("null", "[1, 2, 3]", '"a string"'):
+            result = parse_tags(text, TAXONOMY)
+            assert result == {
+                "commodities": [],
+                "systems": [],
+                "vehicle_categories": [],
+                "open_tags": [],
+            }
+
 
 from scripts.auto_tag import MODEL, build_prompt, write_tags_to_file
 
