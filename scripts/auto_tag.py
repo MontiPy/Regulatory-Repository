@@ -34,6 +34,16 @@ from pathlib import Path
 import frontmatter
 import yaml
 
+# Validate TLS against the OS trust store so corporate TLS-interception proxies
+# (whose root CA lives in the system store, not the SDK's bundled CA bundle)
+# don't break the API connection. No-op if truststore isn't installed.
+try:
+    import truststore
+
+    truststore.inject_into_ssl()
+except ImportError:
+    pass
+
 try:
     from scripts._fsutil import list_md_files
 except ImportError:

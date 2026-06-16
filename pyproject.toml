@@ -20,7 +20,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=7", "ruff>=0.4", "mypy>=1.8"]
-tag = ["anthropic>=0.25"]
+tag = ["anthropic>=0.25", "truststore>=0.9"]
 
 [tool.ruff]
 target-version = "py311"
