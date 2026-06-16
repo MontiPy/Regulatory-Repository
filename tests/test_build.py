@@ -367,3 +367,20 @@ def test_un_equivalent_ai_validates_format():
     issues = []
     validate_un_equivalent_ai({"un_equivalent_ai": ["UN R94", "bogus"]}, issues)
     assert any("bogus" in i.message for i in issues)
+
+
+class TestOpenTagsInBuild:
+    def test_search_text_includes_open_tags(self):
+        record = {
+            "id": "r1",
+            "title": "T",
+            "open_tags": ["master cylinder", "brake booster"],
+        }
+        blob = search_text_for(record)
+        assert "master cylinder" in blob["text"]
+        assert "brake booster" in blob["text"]
+
+    def test_open_tags_is_an_accepted_frontmatter_key(self):
+        from scripts.build import ALLOWED_KEYS, LIST_FIELDS
+        assert "open_tags" in ALLOWED_KEYS
+        assert "open_tags" in LIST_FIELDS

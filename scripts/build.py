@@ -52,6 +52,7 @@ OPTIONAL_KEYS = {
     "un_equivalent_ai",
     "related",
     "tags",
+    "open_tags",
     "tagged_at",
     "effective_date",
     "last_amended",
@@ -80,6 +81,7 @@ LIST_FIELDS = {
     "un_equivalent_ai",
     "related",
     "tags",
+    "open_tags",
 }
 
 # Canonical UN regulation number, e.g. "UN R94" or the variant "UN R13H".
@@ -294,6 +296,7 @@ def search_text_for(record: dict[str, Any]) -> dict[str, str]:
         stringify(record.get("citation")),
         " ".join(record.get("aliases", [])),
         " ".join(record.get("tags", [])),
+        " ".join(record.get("open_tags", [])),
         " ".join(record.get("commodities", [])),
         " ".join(record.get("systems", [])),
         " ".join(record.get("vehicle_categories", [])),
@@ -394,6 +397,7 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "un_equivalent_ai": as_list(metadata.get("un_equivalent_ai"), "un_equivalent_ai", []),
         "related": [],  # derived after all records load (see derive_related)
         "tags": as_list(metadata.get("tags"), "tags", []),
+        "open_tags": as_list(metadata.get("open_tags"), "open_tags", []),
         "paywall": bool(metadata.get("paywall", False)),
         "translation_status": stringify(metadata.get("translation_status", "")),
         "body_html": body_html,
