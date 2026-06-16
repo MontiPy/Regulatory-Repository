@@ -210,9 +210,10 @@
       updateFacetCollapse();
     }
 
-    function facetChips(label, values) {
+    function facetChips(label, values, chipClass) {
       if (!values || values.length === 0) return "";
-      const chips = values.map((v) => `<span class="chip">${escapeHtml(v)}</span>`).join("");
+      const cls = chipClass ? `chip ${chipClass}` : "chip";
+      const chips = values.map((v) => `<span class="${cls}">${escapeHtml(v)}</span>`).join("");
       return `<div class="meta-item"><strong>${escapeHtml(label)}</strong><div class="chips">${chips}</div></div>`;
     }
 
@@ -282,6 +283,7 @@
                 ${facetChips("Commodities", record.commodities)}
                 ${facetChips("Systems", record.systems)}
                 ${facetChips("Vehicle Categories", record.vehicle_categories)}
+                ${facetChips("Open Tags", record.open_tags, "open")}
                 ${unChips("UN Equivalent", record.un_equivalent, false)}
                 ${unChips("AI-Suggested Equivalent", record.un_equivalent_ai, true)}
                 ${relatedLinks(record.related)}

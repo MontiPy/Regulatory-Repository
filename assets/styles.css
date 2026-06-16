@@ -832,6 +832,14 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
   background: color-mix(in srgb, var(--honda-red, #cc0000) 8%, transparent);
   color: inherit;
 }
+/* Free-form, machine-generated open tags: dotted + muted so they read as
+   distinct from the controlled-taxonomy facet chips. */
+.chip.open {
+  border-style: dotted;
+  background: transparent;
+  color: var(--fg-3);
+  font-weight: 400;
+}
 .meta-item.ai .ai-note {
   display: block;
   font-size: 0.75rem;

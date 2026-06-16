@@ -74,7 +74,8 @@ Classify untagged records against the controlled taxonomy with `scripts/auto_tag
 Alongside the controlled facets, the same call also emits **`open_tags`** — free-form,
 industry-standard commodity/part-type labels (e.g. "master cylinder", "ISOFIX
 anchorage") that are *not* restricted to the taxonomy. These raw tags are folded
-into the search corpus to improve recall; they are not facets.
+into the search corpus to improve recall and shown as read-only chips on each
+record's detail view; they are not filter facets.
 
 ```
 # Tag all untagged regulations (requires an Anthropic API key)
