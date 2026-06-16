@@ -1,15 +1,29 @@
 ---
 citation: 49 CFR Part 531
-commodities: []
+commodities:
+- Fuel system
+- HVAC
 id: us-cfr-part-531
 last_pulled: '2026-06-01T18:43:13+00:00'
+open_tags:
+- CAFE standards
+- fleet average fuel economy
+- miles per gallon
+- fuel economy standard
+- domestically manufactured vehicles
+- off-cycle technology credits
+- air conditioning efficiency
+- model year compliance
+- small volume manufacturer
+- fuel consumption improvement
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-531
 status: in-force
 systems:
 - Emissions
-tagged_at: '2026-06-04T19:08:25+00:00'
+- HVAC
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 531—PASSENGER AUTOMOBILE AVERAGE FUEL ECONOMY STANDARDS
 un_equivalent_ai:

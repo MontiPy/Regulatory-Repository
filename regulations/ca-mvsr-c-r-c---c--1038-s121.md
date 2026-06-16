@@ -4,13 +4,25 @@ commodities:
 - Brakes
 id: ca-mvsr-c-r-c---c--1038-s121
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- air brake system
+- antilock brake system
+- parking brake
+- front brake pressure limiting valve
+- service brakes
+- ABS malfunction indicator
+- air brake chambers
+- glad hands
+- brake lines
+- TSD 121
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 121
 un_equivalent_ai:

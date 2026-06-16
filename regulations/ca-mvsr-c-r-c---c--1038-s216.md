@@ -4,13 +4,25 @@ commodities:
 - Body structure
 id: ca-mvsr-c-r-c---c--1038-s216
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- roof crush resistance
+- roof structure
+- rollover protection
+- cutaway chassis
+- chassis-cab
+- multi-purpose passenger vehicle
+- GVWR
+- TSD 216
+- TSD 220
+- roof panel
+- structural integrity
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 216
 un_equivalent_ai:

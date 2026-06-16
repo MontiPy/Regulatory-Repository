@@ -4,20 +4,35 @@ commodities:
 - Exhaust
 id: jp-jvsregs-art30
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- muffler
+- noise suppression device
+- exhaust silencer
+- acoustic performance
+- type designation
+- internal combustion engine
+- pass-by noise
+- exterior noise level
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Emissions
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 30 — Noise Suppression Devices
 translation_status: translated
 un_equivalent_ai:
 - UN R51
 - UN R138
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 30 — Noise Suppression Devices

@@ -3,16 +3,33 @@ citation: 49 CFR Part 593
 commodities: []
 id: us-cfr-part-593
 last_pulled: '2026-06-01T18:45:31+00:00'
+open_tags:
+- import eligibility
+- FMVSS compliance
+- registered importer
+- non-conforming vehicle
+- vehicle importation
+- NHTSA petition
+- safety standard modification
+- 49 CFR Part 593
+- RI number
+- vehicle eligibility determination
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-593
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 593—DETERMINATIONS THAT A VEHICLE NOT ORIGINALLY MANUFACTURED TO CONFORM
   TO THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS IS ELIGIBLE FOR IMPORTATION
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## PART 593—DETERMINATIONS THAT A VEHICLE NOT ORIGINALLY MANUFACTURED TO CONFORM TO THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS IS ELIGIBLE FOR IMPORTATION

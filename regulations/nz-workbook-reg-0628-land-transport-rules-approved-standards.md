@@ -3,16 +3,34 @@ citation: Land Transport Rules / Approved Standards
 commodities: []
 id: nz-workbook-reg-0628-land-transport-rules-approved-standards
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- whole-vehicle type approval
+- certificate of conformity
+- CoP (Conformity of Production)
+- VIN label
+- import approval
+- recognized standards framework
+- Land Transport Rules
+- ADR equivalence
+- market access compliance
+- owner manual localization
+- customs clearance documentation
+- variant/version approval
 region: NZ
 source_api: spreadsheet
 source_url: https://www.nzta.govt.nz/vehicles/vehicle-types/vehicle-classes-and-standards/standards-that-apply-to-your-vehicle
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: New Zealand vehicle standards and recognized standards framework
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # New Zealand vehicle standards and recognized standards framework

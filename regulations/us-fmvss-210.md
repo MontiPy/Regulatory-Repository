@@ -1,16 +1,31 @@
 ---
 citation: 49 CFR §571.210
 commodities:
+- Seats
 - Seatbelts
 id: us-fmvss-210
 last_pulled: '2026-06-01T18:40:46+00:00'
+open_tags:
+- seat belt anchorage
+- ISOFIX anchorage
+- Type 1 seat belt
+- Type 2 seat belt
+- force application device
+- seating reference point
+- torso belt anchor
+- school bus seat belt
+- anchorage hardware
+- occupant restraint
+- belt attachment hardware
+- seat structure anchorage
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.210
 status: in-force
 systems:
 - Restraints
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
 un_equivalent_ai:

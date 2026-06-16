@@ -1,16 +1,30 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 141
 commodities:
-- Horn
+- Electric motors
+- Batteries
 id: ca-mvsr-c-r-c---c--1038-s141
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- AVAS
+- acoustic vehicle alerting system
+- quiet road transport vehicle
+- hybrid vehicle
+- electric vehicle
+- minimum sound requirements
+- low-speed vehicle
+- GVWR 4536 kg
+- ECE Regulation No 138
+- FMVSS 141
+- pedestrian warning sound
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:27+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 141
 un_equivalent_ai:

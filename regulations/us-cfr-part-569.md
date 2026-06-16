@@ -4,18 +4,35 @@ commodities:
 - Tires
 id: us-cfr-part-569
 last_pulled: '2026-06-01T18:44:32+00:00'
+open_tags:
+- regrooved tires
+- regroovable tires
+- tread regrooving
+- tread depth
+- siping
+- tread pattern
+- retread tires
+- tread groove
+- tire labeling
+- tread material
+- cord protection
+- fluid escape passages
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-569
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 569—REGROOVED TIRES
 un_equivalent_ai:
 - UN R30
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## PART 569—REGROOVED TIRES

@@ -3,12 +3,23 @@ citation: 49 CFR Part 594
 commodities: []
 id: us-cfr-part-594
 last_pulled: '2026-06-01T18:45:35+00:00'
+open_tags:
+- registered importer
+- nonconforming vehicle importation
+- importer registration program
+- bond processing
+- conformity certificate
+- NHTSA fee schedule
+- vehicle eligibility determination
+- import compliance
+- 49 USC 30141
+- federal motor vehicle safety standards compliance
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-594
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 594—SCHEDULE OF FEES AUTHORIZED BY 49 U.S.C. 30141
 vehicle_categories: []

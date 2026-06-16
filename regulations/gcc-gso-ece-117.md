@@ -5,6 +5,19 @@ commodities:
 - Wheels
 id: gcc-gso-ece-117
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- rolling resistance
+- wet grip
+- rolling sound emission
+- tire labeling
+- tire performance testing
+- C1 tires
+- C2 tires
+- C3 tires
+- tire energy efficiency
+- external rolling noise
+- tire wet braking index
+- GSO-ECE harmonization
 paywall: true
 region: GCC
 source_api: gso
@@ -13,7 +26,7 @@ status: in-force
 systems:
 - Tires & wheels
 - Noise
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Tyre Rolling Resistance, Wet Grip and Rolling Sound
 translation_status: untranslated
@@ -22,6 +35,8 @@ un_equivalent_ai:
 - UN R141
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
 ---
 
 # Tyre Rolling Resistance, Wet Grip and Rolling Sound

@@ -4,13 +4,25 @@ commodities:
 - Glass
 id: ca-mvsr-c-r-c---c--1038-s219
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- windshield zone intrusion
+- windshield
+- forward control configuration
+- open-body vehicle
+- fold-down windshield
+- removable windshield
+- walk-in van
+- GVWR
+- TSD 219
+- occupant protection
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Glazing
-tagged_at: '2026-06-04T19:08:27+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 219
 un_equivalent_ai:

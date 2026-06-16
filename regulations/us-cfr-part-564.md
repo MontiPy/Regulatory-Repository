@@ -4,19 +4,38 @@ commodities:
 - Lighting modules
 id: us-cfr-part-564
 last_pulled: '2026-06-01T18:44:11+00:00'
+open_tags:
+- replaceable light source
+- sealed beam headlamp
+- headlamp bulb
+- original equipment lighting
+- headlamp replaceable light source
+- HID light source
+- halogen bulb
+- headlighting system
+- FMVSS 108
+- light source interchangeability
+- dimensional specifications
+- electrical specifications
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-564
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 564—REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION
 un_equivalent_ai:
 - UN R37
 - UN R128
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## PART 564—REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION

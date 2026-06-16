@@ -3,12 +3,24 @@ citation: 49 CFR Part 561
 commodities:
 - Batteries
 - Electric motors
-- Power electronics
 - Wiring
-- Connectors
+- Power electronics
 - Charging inlet
 id: us-cfr-part-561
 last_pulled: '2026-06-01T18:44:06+00:00'
+open_tags:
+- REESS
+- thermal runaway
+- emergency response guide
+- rescue sheet
+- first responder documentation
+- thermal event
+- electric propulsion system
+- high voltage system
+- low temperature operation
+- thermal propagation
+- second responder
+- vehicle safety documentation
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-561
@@ -17,7 +29,7 @@ systems:
 - Battery safety
 - EV charging
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 561—DOCUMENTATION FOR ELECTRIC-POWERED VEHICLES
 un_equivalent_ai:

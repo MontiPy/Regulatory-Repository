@@ -6,6 +6,19 @@ commodities:
 - ECUs
 id: gcc-gso-my2027-emission-limit-implementation
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- catalytic converter
+- particulate filter
+- EGR valve
+- SCR system
+- AdBlue/urea dosing
+- evaporative emission control
+- OBD system
+- NOx sensor
+- lambda sensor
+- calibration software
+- defeat device prevention
+- Euro 6b compliance
 paywall: true
 region: GCC
 source_api: gso
@@ -14,7 +27,8 @@ status: in-force
 systems:
 - Emissions
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: GCC Member State Euro-level Emission Limits
 translation_status: untranslated

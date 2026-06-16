@@ -3,16 +3,29 @@ citation: 49 CFR §571.302
 commodities:
 - Seats
 - Seatbelts
+- Airbags
 id: us-fmvss-302
 last_pulled: '2026-06-01T18:41:54+00:00'
+open_tags:
+- interior trim
+- flammability
+- burn resistance
+- seat cushions
+- headlining
+- floor coverings
+- sun visors
+- convertible tops
+- arm rests
+- head restraints
+- energy-absorbing padding
+- occupant compartment materials
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.302
 status: in-force
 systems:
 - Crashworthiness
-- Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.302 Standard No. 302; Flammability of interior materials.
 un_equivalent_ai:

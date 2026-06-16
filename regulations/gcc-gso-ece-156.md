@@ -2,10 +2,21 @@
 citation: GSO-ECE 156
 commodities:
 - ECUs
-- Wiring
-- Connectors
 id: gcc-gso-ece-156
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- SUMS
+- OTA update
+- software update management system
+- telematics control unit
+- E/E architecture
+- gateway ECU
+- backend server
+- cybersecurity controls
+- event data recorder
+- UNECE WP.29
+- ISO/SAE 21434
+- SOTIF
 paywall: true
 region: GCC
 source_api: gso
@@ -14,14 +25,20 @@ status: in-force
 systems:
 - Cybersecurity
 - Software updates
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Software Update Management System
 translation_status: untranslated
 un_equivalent_ai:
 - UN R156
 - UN R155
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Software Update Management System

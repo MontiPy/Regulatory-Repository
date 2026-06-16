@@ -2,19 +2,33 @@
 citation: 49 CFR §571.123
 commodities:
 - Brakes
+- Lighting modules
+- Pedals
 - Horn
 id: us-fmvss-123
 last_pulled: '2026-06-01T18:39:38+00:00'
+open_tags:
+- twist-grip throttle
+- handlebar controls
+- engine stop control
+- speedometer
+- instrument cluster
+- footrests
+- kickstand
+- side stand
+- clutch control
+- brake lever
+- display illumination
+- control identification symbols
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.123
 status: in-force
 systems:
-- Braking
-- Steering
-- Lighting & signaling
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Braking
+- Lighting & signaling
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.123 Standard No. 123; Motorcycle controls and displays.
 un_equivalent_ai:

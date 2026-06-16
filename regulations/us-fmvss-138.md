@@ -2,9 +2,24 @@
 citation: 49 CFR §571.138
 commodities:
 - Tires
+- Wheels
 - ECUs
+- Lighting modules
 id: us-fmvss-138
 last_pulled: '2026-06-01T18:40:05+00:00'
+open_tags:
+- tire pressure monitoring system
+- TPMS sensor
+- low tire pressure warning telltale
+- TPMS malfunction indicator
+- cold inflation pressure
+- under-inflation detection
+- wheel speed sensor
+- direct TPMS
+- indirect TPMS
+- vehicle placard
+- ignition interlock
+- pressure threshold
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.138
@@ -12,7 +27,8 @@ status: in-force
 systems:
 - Tires & wheels
 - Tell-tales & controls
-tagged_at: '2026-05-22T19:28:16+00:00'
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.138 Standard No. 138; Tire pressure monitoring systems.
 un_equivalent_ai:
@@ -20,6 +36,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Bus
 ---
 
 ## § 571.138 Standard No. 138; Tire pressure monitoring systems.

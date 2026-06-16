@@ -7,8 +7,22 @@ commodities:
 - Suspension
 - Hoses & lines
 - Pedals
+- Steering column
 id: us-cfr-part-570
 last_pulled: '2026-06-01T18:44:33+00:00'
+open_tags:
+- hydraulic brake system
+- brake pedal reserve
+- brake hose
+- brake failure indicator lamp
+- power-assisted brakes
+- roller brake tester
+- platform brake tester
+- brake equalization
+- service brake performance
+- in-use inspection
+- brake system integrity
+- vehicle inspection standards
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-570
@@ -17,7 +31,7 @@ systems:
 - Braking
 - Steering
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 570—VEHICLE IN USE INSPECTION STANDARDS
 un_equivalent_ai:

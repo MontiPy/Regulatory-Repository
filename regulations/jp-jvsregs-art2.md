@@ -1,14 +1,32 @@
 ---
 citation: JVSR Article 2
-commodities: []
+commodities:
+- Mirrors
+- ADAS sensors
+- Body structure
 id: jp-jvsregs-art2
 last_pulled: '2026-06-01T18:52:40+00:00'
+open_tags:
+- overall vehicle dimensions
+- vehicle length limit
+- vehicle width limit
+- vehicle height limit
+- semi-trailer coupling device
+- rear-view mirror protrusion
+- camera monitoring system
+- surround-view sensor protrusion
+- outward-opening window protrusion
+- ventilation device protrusion
+- protrusion limits
+- towing vehicle dimensions
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-systems: []
-tagged_at: '2026-05-22T20:20:08+00:00'
+systems:
+- Visibility
+- ADAS
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 2 — Length, Width, and Height
 translation_status: translated
@@ -19,7 +37,6 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Bus
-- Motorcycle
 - Trailer
 ---
 

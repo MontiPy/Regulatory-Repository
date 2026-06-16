@@ -1,18 +1,30 @@
 ---
 citation: KMVSS Article 90-3
 commodities:
+- Brakes
 - ADAS sensors
 - ECUs
 id: kr-kmvss-art90-3
 last_pulled: '2026-05-23T15:30:48+00:00'
+open_tags:
+- emergency autonomous braking
+- automatic emergency braking
+- AEB
+- collision avoidance
+- forward collision warning
+- AEBS
+- pedestrian detection
+- autonomous braking actuator
+- brake control module
+- vehicle-to-vehicle collision mitigation
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- ADAS
 - Braking
-tagged_at: '2026-06-04T19:08:27+00:00'
+- ADAS
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 90-3 — Emergency Autonomous Braking System Performance Standards
 translation_status: translated

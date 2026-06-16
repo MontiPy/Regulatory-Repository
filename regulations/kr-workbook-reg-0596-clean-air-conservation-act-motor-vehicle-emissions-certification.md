@@ -1,25 +1,35 @@
 ---
 citation: Clean Air Conservation Act / Motor Vehicle Emissions Certification
 commodities:
-- ECUs
 - Exhaust
+- ECUs
 - Fuel system
-- Electric motors
-- Batteries
-- Power electronics
-- Hoses & lines
 - Fuel tanks
+- Hoses & lines
 id: kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- aftertreatment system
+- catalytic converter
+- diesel particulate filter
+- NOx aftertreatment
+- evaporative emission control
+- OBD monitor
+- CO2 reporting
+- fuel economy labeling
+- emissions certification
+- in-use conformity
+- hybrid energy management
+- particulate number emissions
 region: KR
 source_api: spreadsheet
 source_url: https://law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=5001&urlMode=engLsInfoR&viewCls=engLsInfoR
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
-tagged_at: '2026-06-05T02:16:05+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Korea Motor Vehicle Emissions Certification and Permissible Emission Standards
 translation_status: untranslated
@@ -30,6 +40,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
 ---
 

@@ -1,15 +1,28 @@
 ---
 citation: KMVSS Article 8
-commodities: []
+commodities:
+- Body structure
+- Suspension
 id: kr-kmvss-art8
 last_pulled: '2026-05-23T15:30:33+00:00'
+open_tags:
+- static rollover stability
+- tilt angle
+- lateral stability
+- rollover threshold
+- vehicle stability test
+- center of gravity
+- articulated vehicle
+- special-purpose vehicle
+- unloaded condition
+- loaded condition
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 8 — Maximum Safe Tilt Angle
 translation_status: translated

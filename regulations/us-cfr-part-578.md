@@ -3,16 +3,32 @@ citation: 49 CFR Part 578
 commodities: []
 id: us-cfr-part-578
 last_pulled: '2026-06-01T18:44:57+00:00'
+open_tags:
+- civil penalties
+- NHTSA enforcement
+- motor vehicle safety
+- school bus equipment
+- criminal liability
+- safe harbor
+- penalty inflation adjustment
+- regulatory compliance
+- 49 USC 30165
+- 49 USC 30170
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-578
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 578—CIVIL AND CRIMINAL PENALTIES
 vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
 - Bus
+- Trailer
 ---
 
 ## PART 578—CIVIL AND CRIMINAL PENALTIES

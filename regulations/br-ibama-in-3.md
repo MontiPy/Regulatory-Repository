@@ -2,8 +2,22 @@
 citation: IBAMA IN 3/2021
 commodities:
 - ECUs
+- Exhaust
 id: br-ibama-in-3
 last_pulled: '2026-06-01T18:53:26+00:00'
+open_tags:
+- PEMS
+- portable emissions measurement system
+- real driving emissions
+- RDE testing
+- PROCONVE L7
+- PROCONVE L8
+- exhaust emissions
+- engine control unit
+- periodic regeneration systems
+- tailpipe emissions
+- emissions family grouping
+- chassis dynamometer
 region: BR
 source_api: brazil
 source_url: https://www.ibama.gov.br/component/legislacao/?legislacao=138776&view=legislacao
@@ -11,7 +25,7 @@ status: in-force
 systems:
 - Emissions
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: RDE Requirements for PROCONVE L7/L8 Light Passenger and Commercial Vehicles
 translation_status: untranslated

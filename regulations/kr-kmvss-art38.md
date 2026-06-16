@@ -2,16 +2,30 @@
 citation: KMVSS Article 38
 commodities:
 - Lighting modules
-- Wiring
+- Wipers & washers
 id: kr-kmvss-art38
 last_pulled: '2026-05-23T15:31:26+00:00'
+open_tags:
+- main-beam headlamp
+- dipped-beam headlamp
+- adaptive headlamp
+- ADB system
+- headlamp washing device
+- luminous intensity
+- luminous flux
+- glare reduction
+- ultra-compact vehicle
+- high beam
+- low beam
+- headlamp leveling
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 38 — Headlamps
 translation_status: translated
@@ -22,8 +36,8 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
 ---
 
 ## Article 38 — Headlamps

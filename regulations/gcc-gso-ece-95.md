@@ -7,9 +7,21 @@ commodities:
 - Body structure
 - Bumpers
 - Door latches & hinges
-- ECUs
 id: gcc-gso-ece-95
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- side impact protection
+- body-in-white
+- restraint control module
+- side airbag
+- door intrusion beam
+- occupant injury criteria
+- HIC
+- thoracic trauma index
+- side impact barrier
+- seat belt anchorage
+- interior trim padding
+- crash sensor
 paywall: true
 region: GCC
 source_api: gso
@@ -19,7 +31,7 @@ systems:
 - Crashworthiness
 - Restraints
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Protection of Occupants in Lateral Collision
 translation_status: untranslated
@@ -29,8 +41,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
-- Bus
 ---
 
 # Protection of Occupants in Lateral Collision

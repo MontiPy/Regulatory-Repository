@@ -4,12 +4,25 @@ commodities:
 - Seats
 - Airbags
 - Seatbelts
-- ECUs
 - Body structure
 - Bumpers
 - Door latches & hinges
+- ECUs
 id: gcc-gso-ece-94
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- occupant protection
+- frontal impact
+- body-in-white
+- crash structure
+- restraint control module
+- seat belt anchorage
+- airbag deployment
+- interior trim
+- injury criteria
+- HIC
+- chest deflection
+- intrusion measurement
 paywall: true
 region: GCC
 source_api: gso
@@ -19,7 +32,7 @@ systems:
 - Crashworthiness
 - Restraints
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Protection of Occupants in Frontal Collision
 translation_status: untranslated
@@ -29,8 +42,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
-- Bus
 ---
 
 # Protection of Occupants in Frontal Collision

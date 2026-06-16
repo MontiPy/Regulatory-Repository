@@ -2,13 +2,27 @@
 citation: SRRV Art. 8
 commodities:
 - Fuel system
+- Batteries
 - Fuel tanks
 - Hoses & lines
-- Batteries
 - Power electronics
-- Connectors
+- Pedals
+- Charging inlet
 id: jp-srrv-engine-power-train-and-pedal-lever
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- REESS
+- high-voltage isolation
+- service disconnect
+- thermal runaway protection
+- CNG storage
+- LPG storage
+- hydrogen storage
+- crash shutoff valve
+- evaporative emission control
+- contactor weld
+- pressure relief valve
+- HV interlock
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -16,7 +30,8 @@ status: in-force
 systems:
 - Fuel safety
 - Battery safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+- EV charging
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Engine, Power Train and Pedal Lever
 translation_status: translated

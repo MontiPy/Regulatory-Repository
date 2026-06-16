@@ -1,13 +1,25 @@
 ---
 citation: KMVSS Article 18-4
 commodities:
-- Wiring
-- Connectors
 - Charging inlet
 - Power electronics
-- Batteries
+- Wiring
+- Connectors
 id: kr-kmvss-art18-4
 last_pulled: '2026-05-23T15:30:53+00:00'
+open_tags:
+- camper vehicle
+- shore power inlet
+- earth leakage circuit breaker
+- overload protection
+- sleeping berth
+- emergency exit
+- storage compartment latch
+- high-voltage warning label
+- recreational vehicle
+- DC/AC power system
+- convertible sofa
+- water ingress protection
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -15,12 +27,13 @@ status: in-force
 systems:
 - EV charging
 - Battery safety
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 18-4 — Safety Standards for Electrical and Camping Equipment
   in Camper Vehicles
 translation_status: translated
-vehicle_categories: []
+vehicle_categories:
+- Light truck
 ---
 
 ## Article 18-4 — Safety Standards for Electrical and Camping Equipment in Camper Vehicles

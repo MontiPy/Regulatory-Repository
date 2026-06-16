@@ -2,12 +2,25 @@
 citation: Radio Act / MIC-TELEC Technical Conformity
 commodities:
 - Infotainment
-- ECUs
 - ADAS sensors
-- Connectors
 - Wiring
+- ECUs
+- Connectors
 id: jp-srrv-japan-radio-equipment-technical-conformity-certification
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- telematics unit
+- keyless entry module
+- Bluetooth module
+- Wi-Fi module
+- cellular module
+- TPMS sensor
+- radar module
+- antenna
+- RF harness
+- modular approval
+- spectrum compliance
+- radio type approval
 region: JP
 source_api: spreadsheet
 source_url: https://www.telec.or.jp/eng/services/tech/tech_02.html
@@ -15,9 +28,8 @@ status: in-force
 systems:
 - EMC
 - ADAS
-- Cybersecurity
 - Theft prevention
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Japan Radio Equipment Technical Conformity Certification
 translation_status: translated
@@ -25,6 +37,10 @@ un_equivalent_ai:
 - UN R10
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Japan Radio Equipment Technical Conformity Certification

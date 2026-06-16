@@ -1,10 +1,24 @@
 ---
 citation: 49 CFR §571.141
 commodities:
-- Electric motors
 - Horn
+- Electric motors
+- Batteries
 id: us-fmvss-141
 last_pulled: '2026-06-01T18:40:10+00:00'
+open_tags:
+- pedestrian alert sound
+- acoustic vehicle alerting system (AVAS)
+- minimum sound level
+- one-third octave band
+- sound pressure level
+- hybrid vehicle alert
+- electric vehicle alert
+- pass-by noise
+- stationary alert
+- reverse alert sound
+- low speed vehicle
+- propulsion sound
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.141
@@ -12,7 +26,7 @@ status: in-force
 systems:
 - Noise
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric
   Vehicles.

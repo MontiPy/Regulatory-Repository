@@ -1,11 +1,24 @@
 ---
 citation: 49 CFR §571.301
 commodities:
+- Fuel system
 - Fuel tanks
 - Hoses & lines
-- Fuel system
 id: us-fmvss-301
 last_pulled: '2026-06-01T18:41:50+00:00'
+open_tags:
+- fuel spillage
+- fuel tank integrity
+- barrier crash test
+- rollover test
+- alcohol fuel
+- methanol fuel
+- ethanol fuel
+- moving deformable barrier
+- fuel filler
+- fuel system integrity
+- siphoning prevention
+- post-crash fire
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.301
@@ -13,7 +26,7 @@ status: in-force
 systems:
 - Fuel safety
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.301 Standard No. 301; Fuel system integrity.
 un_equivalent_ai:
@@ -21,7 +34,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
 - Bus
 ---
 

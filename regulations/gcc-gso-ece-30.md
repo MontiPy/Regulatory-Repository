@@ -5,6 +5,19 @@ commodities:
 - Wheels
 id: gcc-gso-ece-30
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- pneumatic tyres
+- tire markings
+- DOT/TIN
+- tire identification number
+- load rating
+- tire placard
+- bead seating
+- TPMS
+- valve stems
+- tire-to-vehicle traceability
+- rim compatibility
+- underinflation warning
 paywall: true
 region: GCC
 source_api: gso
@@ -12,7 +25,7 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Pneumatic Tyres for Passenger Cars
 translation_status: untranslated

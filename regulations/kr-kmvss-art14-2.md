@@ -2,21 +2,31 @@
 citation: KMVSS Article 14-2
 commodities:
 - ADAS sensors
+- ECUs
 id: kr-kmvss-art14-2
 last_pulled: '2026-05-23T15:30:41+00:00'
+open_tags:
+- lane departure warning system
+- LDWS
+- lane detection camera
+- forward-facing camera
+- lane departure sensor
+- driver assistance system
+- vehicle safety system
+- LDWS ECU
+- lane boundary detection
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - ADAS
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 14-2 — Lane Departure Warning System
 translation_status: translated
 vehicle_categories:
 - Passenger car
-- Light truck
 - Heavy truck
 ---
 

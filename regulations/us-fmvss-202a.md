@@ -4,14 +4,27 @@ commodities:
 - Seats
 id: us-fmvss-202a
 last_pulled: '2026-06-01T18:40:21+00:00'
+open_tags:
+- head restraint
+- neck injury protection
+- backset measurement
+- head restraint measurement device
+- HRMD
+- rear head restraint
+- front outboard seating position
+- rear outboard seating position
+- whiplash protection
+- SAE J826 manikin
+- H-point
+- 50th percentile male
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202a
 status: in-force
 systems:
-- Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.202a Standard No. 202a; Head restraints; Mandatory applicability begins
   on September 1, 2009.
@@ -21,7 +34,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
 - Bus
 ---
 

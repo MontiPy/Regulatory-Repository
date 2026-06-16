@@ -1,16 +1,24 @@
 ---
 citation: 49 CFR §571.113
 commodities:
+- Body structure
 - Door latches & hinges
 id: us-fmvss-113
 last_pulled: '2026-06-01T18:38:57+00:00'
+open_tags:
+- hood latch
+- hood latch system
+- secondary hood latch
+- front opening hood
+- hood retention
+- engine compartment cover
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.113
 status: in-force
 systems:
-- Theft prevention
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.113 Standard No. 113; Hood latch system.
 un_equivalent_ai:

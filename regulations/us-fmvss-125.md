@@ -3,20 +3,31 @@ citation: 49 CFR §571.125
 commodities: []
 id: us-fmvss-125
 last_pulled: '2026-06-01T18:39:43+00:00'
+open_tags:
+- warning triangle
+- reflective triangle
+- roadside warning device
+- reflex reflective material
+- fluorescent material
+- emergency warning device
+- breakdown warning
+- traffic warning device
+- portable warning triangle
+- dual purpose reflective material
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.125
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.125 Standard No. 125; Warning devices.
 un_equivalent_ai:
 - UN R27
 vehicle_categories:
-- Bus
 - Heavy truck
+- Bus
 ---
 
 ## § 571.125 Standard No. 125; Warning devices.

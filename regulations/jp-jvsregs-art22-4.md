@@ -4,14 +4,25 @@ commodities:
 - Seats
 id: jp-jvsregs-art22-4
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- head restraints
+- whiplash protection
+- rear-end collision protection
+- seat head restraint
+- active head restraint
+- occupant protection
+- rear impact
+- seat back
+- head restraint height
+- head restraint backset
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
-- Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 22_4 — Head Restraints
 translation_status: translated

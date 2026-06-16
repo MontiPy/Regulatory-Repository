@@ -4,8 +4,22 @@ commodities:
 - Lighting modules
 - Wiring
 - ECUs
+- Connectors
 id: gcc-gso-ece-48
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- headlamps
+- tail lamps
+- turn signals
+- reflectors
+- LED modules
+- light-signalling devices
+- beam aim adjusters
+- lens optics
+- lighting ECU
+- conspicuity devices
+- exterior lamps
+- photometric compliance
 paywall: true
 region: GCC
 source_api: gso
@@ -15,13 +29,19 @@ systems:
 - Lighting & signaling
 - Visibility
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Installation of Lighting and Light-Signalling Devices
 translation_status: untranslated
 un_equivalent_ai:
 - UN R48
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Installation of Lighting and Light-Signalling Devices

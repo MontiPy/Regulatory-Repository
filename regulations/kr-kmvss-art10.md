@@ -3,9 +3,17 @@ citation: KMVSS Article 10
 commodities:
 - Tires
 - Wheels
-- Suspension
 id: kr-kmvss-art10
 last_pulled: '2026-05-23T15:30:35+00:00'
+open_tags:
+- ground contact area
+- ground pressure
+- continuous tracks
+- track contact area
+- road damage
+- noise generation
+- track vehicle
+- crawler vehicle
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -13,11 +21,17 @@ status: in-force
 systems:
 - Tires & wheels
 - Noise
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 10 — Ground Contact Area and Ground Pressure
 translation_status: translated
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 10 — Ground Contact Area and Ground Pressure

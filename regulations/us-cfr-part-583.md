@@ -3,12 +3,25 @@ citation: 49 CFR Part 583
 commodities: []
 id: us-cfr-part-583
 last_pulled: '2026-06-01T18:45:09+00:00'
+open_tags:
+- parts content labeling
+- country of origin disclosure
+- US/Canadian content
+- foreign content
+- final assembly point
+- parts content percentage
+- vehicle labeling requirement
+- allied supplier
+- outside supplier
+- carline
+- parts value disclosure
+- consumer information label
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-583
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 583—AUTOMOBILE PARTS CONTENT LABELING
 vehicle_categories:

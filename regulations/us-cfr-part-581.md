@@ -5,12 +5,22 @@ commodities:
 - Lighting modules
 - Fuel system
 - Exhaust
-- Suspension
-- Brakes
-- Door latches & hinges
-- Steering column
+- Body structure
 id: us-cfr-part-581
 last_pulled: '2026-06-01T18:45:04+00:00'
+open_tags:
+- bumper face bar
+- pendulum test device
+- low speed collision
+- impact ridge
+- bumper system
+- exterior protection system
+- pressure vessel
+- bumper standard
+- low speed impact
+- hood latch
+- trunk latch
+- cooling system
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-581
@@ -19,8 +29,9 @@ systems:
 - Crashworthiness
 - Lighting & signaling
 - Fuel safety
-- Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Braking
+- Steering
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 581—BUMPER STANDARD
 vehicle_categories:

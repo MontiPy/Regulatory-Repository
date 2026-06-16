@@ -2,15 +2,30 @@
 citation: 49 CFR §571.213
 commodities:
 - Seats
+- Seatbelts
 id: us-fmvss-213
 last_pulled: '2026-06-01T18:40:56+00:00'
+open_tags:
+- child restraint system
+- ISOFIX anchorage
+- tether anchorage
+- booster seat
+- rear-facing child seat
+- forward-facing child seat
+- car bed
+- belt-positioning seat
+- harness restraint
+- school bus child restraint
+- built-in child restraint
+- add-on child restraint
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213
 status: in-force
 systems:
 - Restraints
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint
   system is certified to § 571.213b.
@@ -20,6 +35,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

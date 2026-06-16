@@ -3,15 +3,32 @@ citation: 49 CFR Part 556
 commodities: []
 id: us-cfr-part-556
 last_pulled: '2026-06-01T18:44:00+00:00'
+open_tags:
+- inconsequential defect petition
+- NHTSA exemption
+- safety recall exemption
+- manufacturer petition
+- defect notification
+- noncompliance remedy
+- FMVSS noncompliance
+- replacement equipment
+- Part 573 defect report
+- recall remedy exemption
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-556
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: PART 556—EXEMPTION FOR INCONSEQUENTIAL DEFECT OR NONCOMPLIANCE
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## PART 556—EXEMPTION FOR INCONSEQUENTIAL DEFECT OR NONCOMPLIANCE

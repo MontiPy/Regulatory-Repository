@@ -5,8 +5,22 @@ commodities:
 - ECUs
 - ADAS sensors
 - Hoses & lines
+- Pedals
 id: jp-srrv-brake-assist-systems
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- brake assist system
+- ABS
+- ESC
+- electronic stability control
+- hydraulic brake circuit
+- electric brake booster
+- E-booster
+- brake pedal sensor
+- wheel speed sensor
+- hydraulic control unit
+- EPB
+- brake fluid
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -14,14 +28,16 @@ status: in-force
 systems:
 - Braking
 - ADAS
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Brake Assist Systems
 translation_status: translated
 un_equivalent_ai:
 - UN R139
 - UN R140
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Brake Assist Systems

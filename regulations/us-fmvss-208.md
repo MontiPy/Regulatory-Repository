@@ -1,11 +1,25 @@
 ---
 citation: 49 CFR §571.208
 commodities:
+- Seats
 - Airbags
 - Seatbelts
-- Seats
+- Body structure
 id: us-fmvss-208
 last_pulled: '2026-06-01T18:40:37+00:00'
+open_tags:
+- anthropomorphic test device
+- lap belt
+- shoulder belt
+- Type 2 seatbelt assembly
+- passive restraint system
+- frontal barrier crash test
+- occupant crash protection
+- belt warning system
+- seatbelt anchorage
+- unbelted dummy test
+- automatic protection system
+- pressure vessel
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.208
@@ -13,7 +27,7 @@ status: in-force
 systems:
 - Crashworthiness
 - Restraints
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.208 Standard No. 208; Occupant crash protection.
 un_equivalent_ai:

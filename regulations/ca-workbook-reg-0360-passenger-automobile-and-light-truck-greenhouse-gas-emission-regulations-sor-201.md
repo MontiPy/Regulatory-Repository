@@ -4,18 +4,35 @@ citation: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulatio
 commodities:
 - Batteries
 - Electric motors
+- Exhaust
+- Fuel system
 - Power electronics
+- ECUs
 id: ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- GHG fleet average
+- CO2 emission standard
+- ZEV credit
+- National Emissions Mark
+- fleet compliance ledger
+- road-load coefficients
+- hybrid powertrain
+- credit banking and trading
+- model year compliance
+- fuel economy label
+- tailpipe emissions
+- carbon dioxide measurement
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/
 status: in-force
 systems:
 - Emissions
+- EV charging
 - Battery safety
 - On-board diagnostics
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
 un_equivalent_ai:

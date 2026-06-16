@@ -4,13 +4,24 @@ commodities:
 - Brakes
 id: kr-kmvss-art90
 last_pulled: '2026-05-23T15:30:46+00:00'
+open_tags:
+- ABS
+- air brake system
+- air-over-hydraulic brake
+- service brake
+- anti-lock braking system
+- articulated vehicle
+- full-trailer
+- braking distance
+- cornering braking performance
+- ultra-compact vehicle
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 90 — Braking Performance
 translation_status: translated
@@ -22,6 +33,7 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Trailer
+- Bus
 ---
 
 ## Article 90 — Braking Performance

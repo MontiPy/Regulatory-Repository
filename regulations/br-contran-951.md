@@ -5,6 +5,17 @@ commodities:
 - Seats
 id: br-contran-951
 last_pulled: '2026-06-01T18:53:12+00:00'
+open_tags:
+- seat belt anchorage
+- head restraints
+- child restraint system
+- lap belt
+- shoulder belt
+- retractor
+- belt buckle
+- ISOFIX anchorage
+- occupant protection
+- seat belt installation requirements
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9512022.pdf/view
@@ -12,14 +23,19 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Seat Belts, Anchorages and Head Restraints
 translation_status: untranslated
 un_equivalent_ai:
 - UN R16
 - UN R17
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Seat Belts, Anchorages and Head Restraints

@@ -7,13 +7,28 @@ commodities:
 - Horn
 id: jp-srrv-japan-motor-vehicle-noise-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- AVAS
+- external sound generator
+- intake noise
+- engine noise
+- tire/road noise
+- type approval testing
+- MLIT approval
+- JASIC
+- NTSEL
+- pass-by noise
+- sound level measurement
+- electric vehicle sound
 region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/laws/air/noise/ch.html
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Emissions
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Japan Motor Vehicle Noise Requirements
 translation_status: translated

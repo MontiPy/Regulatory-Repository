@@ -6,13 +6,26 @@ commodities:
 - Hoses & lines
 id: jp-jvsregs-art17
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- compressed hydrogen gas system
+- liquefied petroleum gas system
+- high-pressure gas fuel system
+- gas containers
+- hydrogen fuel cell vehicle
+- CNG fuel system
+- LPG fuel system
+- fuel leak prevention
+- pressure relief device
+- hydrogen storage tank
+- fuel line integrity
+- collision fuel system protection
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Fuel safety
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 17 — Fuel System for Gaseous Fuels
 translation_status: translated
@@ -22,7 +35,10 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 17 — Fuel System for Gaseous Fuels

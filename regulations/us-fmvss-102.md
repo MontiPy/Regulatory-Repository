@@ -1,15 +1,32 @@
 ---
 citation: 49 CFR §571.102
-commodities: []
+commodities:
+- Steering column
+- Pedals
+- ECUs
 id: us-fmvss-102
 last_pulled: '2026-06-01T18:38:22+00:00'
+open_tags:
+- automatic transmission
+- manual transmission
+- transmission shift lever
+- starter interlock
+- engine braking
+- shift position indicator
+- park position
+- neutral position
+- reverse gear
+- engine start-stop system
+- transmission shift sequence
+- PRNDL display
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.102
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Braking
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.102 Standard No. 102; Transmission shift position sequence, starter interlock,
   and transmission braking effect.

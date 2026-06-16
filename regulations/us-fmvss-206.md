@@ -2,15 +2,29 @@
 citation: 49 CFR §571.206
 commodities:
 - Door latches & hinges
+- Body structure
 id: us-fmvss-206
 last_pulled: '2026-06-01T18:40:32+00:00'
+open_tags:
+- door latch
+- door hinge
+- door retention
+- door lock
+- striker
+- fork-bolt
+- door ejection prevention
+- auxiliary door latch
+- primary door latch
+- double door
+- folding door
+- door closure warning system
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.206
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.206 Standard No. 206; Door locks and door retention components.
 un_equivalent_ai:

@@ -3,17 +3,32 @@ citation: KMVSS Article 53-2
 commodities:
 - ADAS sensors
 - Horn
+- Mirrors
 id: kr-kmvss-art53-2
 last_pulled: '2026-05-23T15:31:34+00:00'
+open_tags:
+- rear-view camera
+- reversing warning sound system
+- approach warning system
+- ultrasonic proximity sensor
+- backup alarm
+- rearview image display
+- pedestrian detection sensor
+- reverse gear interlock
+- exterior warning sound
+- interior warning chime
+- school van safety
+- obstacle detection
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Visibility
 - Pedestrian protection
+- Visibility
+- ADAS
 - Noise
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 53-2 — Rear Pedestrian Safety System
 translation_status: translated
@@ -23,6 +38,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

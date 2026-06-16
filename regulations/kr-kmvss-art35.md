@@ -1,21 +1,35 @@
 ---
 citation: KMVSS Article 35
-commodities: []
+commodities:
+- Exhaust
 id: kr-kmvss-art35
 last_pulled: '2026-05-23T15:31:24+00:00'
+open_tags:
+- noise suppression equipment
+- exhaust muffler
+- vehicle exterior noise
+- pass-by noise
+- noise and vibration control
+- intake noise
+- engine noise
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 35 — Noise Suppression
 translation_status: translated
 un_equivalent_ai:
 - UN R51
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 35 — Noise Suppression

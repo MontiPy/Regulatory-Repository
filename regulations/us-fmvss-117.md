@@ -2,15 +2,29 @@
 citation: 49 CFR §571.117
 commodities:
 - Tires
+- Wheels
 id: us-fmvss-117
 last_pulled: '2026-06-01T18:39:07+00:00'
+open_tags:
+- retreaded tires
+- pneumatic tires
+- tire casing
+- tire tread
+- bead unseating
+- tire strength
+- ply rating
+- tire labeling
+- DOT certification
+- tire size designation
+- maximum load rating
+- inflation pressure
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.117
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.117 Standard No. 117; Retreaded pneumatic tires.
 un_equivalent_ai:

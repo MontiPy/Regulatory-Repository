@@ -4,21 +4,33 @@ commodities:
 - Airbags
 id: br-contran-964
 last_pulled: '2026-06-01T18:53:12+00:00'
+open_tags:
+- frontal airbag
+- driver airbag
+- front passenger airbag
+- supplemental restraint system
+- SRS
+- airbag module
+- inflator
+- crash sensor
+- occupant protection
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
 systems:
-- Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Restraints
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Driver and Front Passenger Frontal Airbag
 translation_status: untranslated
 un_equivalent_ai:
 - UN R114
 - UN R137
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Driver and Front Passenger Frontal Airbag

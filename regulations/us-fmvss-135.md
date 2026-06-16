@@ -2,15 +2,32 @@
 citation: 49 CFR §571.135
 commodities:
 - Brakes
+- Pedals
+- Wheels
+- Batteries
+- Electric motors
 id: us-fmvss-135
 last_pulled: '2026-06-01T18:39:59+00:00'
+open_tags:
+- service brake system
+- parking brake
+- antilock brake system (ABS)
+- hydraulic brake system
+- brake power assist unit
+- brake power unit
+- foundation brakes
+- brake torque
+- wheel lockup
+- electrically-actuated brakes
+- brake line pressure
+- brake factor
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.135
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.135 Standard No. 135; Light vehicle brake systems.
 vehicle_categories:

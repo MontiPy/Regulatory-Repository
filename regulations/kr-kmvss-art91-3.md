@@ -2,19 +2,34 @@
 citation: KMVSS Article 91-3
 commodities:
 - Batteries
-- Power electronics
 - Wiring
 - Connectors
+- Power electronics
+- Charging inlet
 id: kr-kmvss-art91-3
 last_pulled: '2026-05-23T15:30:58+00:00'
+open_tags:
+- high-voltage electrical system
+- HV isolation resistance
+- electric shock protection
+- post-crash HV safety
+- hybrid vehicle
+- electric vehicle
+- fuel cell vehicle
+- HV bus isolation
+- electric drivetrain crash protection
+- high-voltage interlock
+- capacitor discharge
+- EV crash test
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Battery safety
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Battery safety
+- EV charging
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 91-3 — High-Voltage Electrical System Crash Safety
 translation_status: translated

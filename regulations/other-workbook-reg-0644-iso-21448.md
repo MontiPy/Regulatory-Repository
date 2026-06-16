@@ -3,11 +3,21 @@ citation: ISO 21448
 commodities:
 - ECUs
 - ADAS sensors
-- Wiring
-- Connectors
-- Power electronics
 id: other-workbook-reg-0644-iso-21448
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- SOTIF
+- automated driving system
+- functional safety
+- ADAS validation
+- edge case testing
+- driver handover
+- E/E architecture
+- perception system
+- ADS controller
+- safety evidence
+- intended functionality
+- ISO 21448
 paywall: true
 region: OTHER
 source_api: spreadsheet
@@ -16,9 +26,9 @@ status: in-force
 systems:
 - ADAS
 - Cybersecurity
-- Software updates
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Software updates
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Safety of the intended functionality
 un_equivalent:

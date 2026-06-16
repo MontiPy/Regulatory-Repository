@@ -2,15 +2,29 @@
 citation: MVSR SOR-2013-198
 commodities:
 - Tires
+- Wheels
 id: ca-mvsr-sor-2013-198
 last_pulled: '2026-06-01T18:53:04+00:00'
+open_tags:
+- radial ply tire
+- bias ply tire
+- T-type temporary-use spare tire
+- ST tire
+- FI tire
+- tire load rating
+- maximum permissible inflation pressure
+- tire bead
+- tire sidewall
+- tire tread
+- rim diameter
+- light-truck tire
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-198/FullText.html
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Tire Safety Regulations
 un_equivalent_ai:
@@ -19,6 +33,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Motorcycle
 - Trailer
 ---

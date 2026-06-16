@@ -1,14 +1,29 @@
 ---
 citation: Directive 2011/65/EU / RoHS
 commodities:
-- Wiring
 - ECUs
-- ADAS sensors
 - Connectors
+- Wiring
+- ADAS sensors
+- Batteries
 - Power electronics
 - Infotainment
+- Charging inlet
 id: other-workbook-reg-0546-directive-2011-65-eu-rohs
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- PCB assemblies
+- solder alloys
+- lead-free solder
+- RoHS restricted substances
+- supplier material declarations
+- service equipment
+- electronic accessories
+- hazardous substances
+- IMDS declarations
+- ELV overlap
+- display modules
+- sensor modules
 paywall: true
 region: OTHER
 source_api: spreadsheet
@@ -17,12 +32,19 @@ status: in-force
 systems:
 - EMC
 - EV charging
+- Battery safety
 - ADAS
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Materials / Electronics - RoHS
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # Materials / Electronics - RoHS

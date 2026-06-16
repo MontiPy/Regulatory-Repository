@@ -3,6 +3,19 @@ citation: GSO Technical Regulations for Motor Vehicles MY2027-D3
 commodities: []
 id: gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- type approval
+- homologation
+- VIN
+- certification label
+- recall traceability
+- conformity of production
+- owner notification
+- import compliance
+- production traceability
+- GSO technical regulation
+- SASO
+- market surveillance
 paywall: true
 region: GCC
 source_api: gso
@@ -10,8 +23,7 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Vehicle identification
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: GCC/GSO Motor Vehicle Technical Regulation Framework
 translation_status: untranslated

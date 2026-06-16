@@ -2,21 +2,43 @@
 citation: JVSR Article 45
 commodities:
 - Wipers & washers
+- Glass
+- HVAC
 id: jp-jvsregs-art45
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- windshield wiper
+- washer fluid spray device
+- defroster
+- windshield defrost
+- field-of-vision performance
+- automatic wiper
+- windshield cleaning system
+- demisting
+- cab partition
+- wiper motor
+- washer nozzle
+- frost removal
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Glazing
+- HVAC
+tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 45 — Windshield Wipers and Washers
 translation_status: translated
 un_equivalent_ai:
 - UN R125
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+- Off-road
 ---
 
 ## Article 45 — Windshield Wipers and Washers

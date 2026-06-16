@@ -1,8 +1,28 @@
 ---
 citation: QCVN 09:2024/BGTVT / Circular 48/2024/TT-BGTVT
-commodities: []
+commodities:
+- Exhaust
+- Fuel system
+- Fuel tanks
+- Batteries
+- ECUs
+- Wiring
+- Body structure
 id: asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- whole-vehicle type approval
+- certificate of conformity
+- CoP (Conformity of Production)
+- VIN labeling
+- market access certification
+- QCVN standards
+- fuel consumption testing
+- import type approval
+- owner manual localization
+- ASEAN APMRA
+- customs clearance documentation
+- variant/version management
 region: ASEAN
 source_api: spreadsheet
 source_url: https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/circular-48-2024-tt-bgtvt-technical-regulations-on-technical-environmental-protection-consumption-of-648713.html
@@ -10,7 +30,10 @@ status: in-force
 systems:
 - Emissions
 - Vehicle identification
-tagged_at: '2026-06-05T02:16:05+00:00'
+- Fuel safety
+- Battery safety
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Vietnam technical and environmental safety requirements for vehicles
 translation_status: untranslated
@@ -19,6 +42,11 @@ un_equivalent_ai:
 - UN R101
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Vietnam technical and environmental safety requirements for vehicles

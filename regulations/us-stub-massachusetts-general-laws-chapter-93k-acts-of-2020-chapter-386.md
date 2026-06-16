@@ -2,9 +2,23 @@
 citation: Massachusetts General Laws Chapter 93K / Acts of 2020 Chapter 386
 commodities:
 - ECUs
+- Infotainment
 - Connectors
 id: us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- telematics control unit
+- OBD-II data access
+- diagnostic data gateway
+- right-to-repair
+- remote diagnostics
+- vehicle data API
+- aftermarket repair access
+- owner data consent
+- connected vehicle platform
+- service information portal
+- cybersecurity controls
+- telematics data sharing
 region: US
 source_api: spreadsheet
 source_url: https://malegislature.gov/Laws/SessionLaws/Acts/2020/Chapter386
@@ -13,7 +27,7 @@ systems:
 - Cybersecurity
 - On-board diagnostics
 - Software updates
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Motor vehicle right-to-repair telematics data access
 un_equivalent_ai:

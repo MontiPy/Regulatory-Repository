@@ -6,25 +6,43 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 - Connectors
+- Charging inlet
 - Power electronics
+- Wiring
 id: gcc-gcc-ev-technical-regulation-draft
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- REESS
+- high-voltage isolation
+- service disconnect
+- thermal runaway protection
+- contactor
+- electrolyte leakage
+- pressure relief valve
+- HV interlock
+- post-crash electrical safety
+- inverter
+- traction battery
+- high-voltage safety
 paywall: true
 region: GCC
 source_api: spreadsheet
 source_url: https://www.tuv.com/regulations-and-standards/en/gso-technical-requirements-for-electric-vehicle.html
 status: in-force
 systems:
-- Fuel safety
 - Battery safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Fuel safety
+- EV charging
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Technical Requirements for Battery Electric Vehicles
 translation_status: untranslated
 un_equivalent_ai:
 - UN R100
 - UN R153
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Technical Requirements for Battery Electric Vehicles

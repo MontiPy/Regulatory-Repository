@@ -4,6 +4,19 @@ commodities:
 - Glass
 id: jp-jvsregs-art29
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- windshield
+- side windows
+- safety glass
+- visible light transmittance
+- optical distortion
+- field of vision
+- laminated glass
+- tempered glass
+- glass fragment safety
+- window markings
+- inspection sticker placement
+- glazing compliance marking
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
@@ -11,14 +24,20 @@ status: in-force
 systems:
 - Glazing
 - Visibility
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 29 — Glazing
 translation_status: translated
 un_equivalent_ai:
 - UN R43
 - UN R125
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## Article 29 — Glazing

@@ -1,22 +1,42 @@
 ---
 citation: KMVSS Article 111-2
-commodities: []
+commodities:
+- ADAS sensors
+- ECUs
 id: kr-kmvss-art111-2
 last_pulled: '2026-05-23T15:31:44+00:00'
+open_tags:
+- autonomous driving system
+- operational design domain
+- ODD
+- self-driving system
+- autonomous vehicle
+- road condition monitoring
+- weather condition sensing
+- operational limits
+- level 3 autonomy
+- level 4 autonomy
+- autonomous driving controller
+- functional safety
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - ADAS
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 111-2 — Operational Design Domain for Autonomous Driving Systems
 translation_status: translated
 un_equivalent_ai:
 - UN R157
 - UN R155
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 111-2 — Operational Design Domain for Autonomous Driving Systems

@@ -1,14 +1,27 @@
 ---
 citation: Act on Resource Circulation of Electrical and Electronic Equipment and Vehicles
 commodities:
+- Batteries
 - Fuel system
 - Fuel tanks
 - Hoses & lines
-- Batteries
 - Power electronics
 - Connectors
 id: kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- end-of-life vehicle recycling
+- ELV directive
+- restricted substances
+- recyclability targets
+- resource circulation
+- HV battery disposal
+- REESS
+- hazardous materials
+- hydrogen storage
+- CNG storage
+- thermal runaway
+- high-voltage isolation
 region: KR
 source_api: spreadsheet
 source_url: https://elaw.klri.re.kr/eng_service/lawView.do?hseq=55946&lang=ENG
@@ -16,14 +29,21 @@ status: in-force
 systems:
 - Fuel safety
 - Battery safety
-tagged_at: '2026-06-05T02:16:05+00:00'
+- EV charging
+- Emissions
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Korea Vehicle Resource Circulation / Recycling Requirements
 translation_status: untranslated
 un_equivalent_ai:
 - UN R100
 - UN R153
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Korea Vehicle Resource Circulation / Recycling Requirements

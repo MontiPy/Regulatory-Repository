@@ -1,17 +1,33 @@
 ---
 citation: KMVSS Article 19
 commodities:
-- Glass
+- Body structure
+- Bumpers
+- Exhaust
+- Tires
 id: kr-kmvss-art19
 last_pulled: '2026-05-23T15:30:59+00:00'
+open_tags:
+- side underrun protection
+- rear underrun protection
+- rear overhang
+- frame structure
+- cargo body
+- gross vehicle weight labeling
+- payload marking
+- centre-axle trailer
+- semi-trailer
+- underride guard
+- body mounting
+- axle spacing
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Glazing
-- Visibility
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Crashworthiness
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 19 — Frame and Body
 translation_status: translated
@@ -19,11 +35,9 @@ un_equivalent_ai:
 - UN R26
 - UN R127
 vehicle_categories:
-- Passenger car
 - Light truck
 - Heavy truck
-- Bus
-- Motorcycle
+- Trailer
 ---
 
 ## Article 19 — Frame and Body

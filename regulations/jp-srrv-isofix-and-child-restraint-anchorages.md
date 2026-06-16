@@ -2,26 +2,41 @@
 citation: SRRV / TRIAS / UN R145
 commodities:
 - Seats
-- Airbags
 - Seatbelts
+- Airbags
 - ECUs
 id: jp-srrv-isofix-and-child-restraint-anchorages
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- ISOFIX anchorage
+- LATCH system
+- tether anchor
+- child restraint system
+- seat belt retractor
+- belt pretensioner
+- buckle assembly
+- seat track
+- head restraint
+- belt webbing
+- child seat anchorage
+- top tether hook
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 systems:
-- Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: ISOFIX and Child Restraint Anchorages
 translation_status: translated
 un_equivalent_ai:
 - UN R145
 - UN R14
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # ISOFIX and Child Restraint Anchorages

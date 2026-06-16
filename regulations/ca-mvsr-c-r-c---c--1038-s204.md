@@ -4,6 +4,16 @@ commodities:
 - Steering column
 id: ca-mvsr-c-r-c---c--1038-s204
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- steering column rearward displacement
+- steering control displacement
+- crash protection
+- steering column collapsibility
+- occupant crash protection
+- walk-in van exclusion
+- GVWR 4536 kg
+- three-wheeled vehicle
+- multi-purpose passenger vehicle
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
@@ -11,8 +21,7 @@ status: in-force
 systems:
 - Steering
 - Crashworthiness
-- Restraints
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 204
 un_equivalent_ai:

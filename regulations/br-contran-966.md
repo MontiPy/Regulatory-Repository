@@ -4,19 +4,36 @@ commodities:
 - Mirrors
 id: br-contran-966
 last_pulled: '2026-06-01T18:53:17+00:00'
+open_tags:
+- rear-view mirror
+- exterior mirror
+- interior mirror
+- indirect vision
+- mirror adjustment
+- mirror mounting
+- field of view
+- convex mirror
+- flat mirror
+- driver visibility
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Rear-view Mirrors
 translation_status: untranslated
 un_equivalent_ai:
 - UN R46
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Rear-view Mirrors

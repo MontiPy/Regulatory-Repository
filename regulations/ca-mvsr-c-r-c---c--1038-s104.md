@@ -5,13 +5,27 @@ commodities:
 - Glass
 id: ca-mvsr-c-r-c---c--1038-s104
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- windshield wiper system
+- windshield washer system
+- wiper frequency
+- wiper sweep area
+- daylight opening
+- glazing surface
+- SAE J903a
+- SAE J942
+- windshield wipe pattern
+- three-wheeled vehicle
+- eye range contour
+- seating reference point
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Glazing
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 104
 un_equivalent_ai:

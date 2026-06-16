@@ -2,16 +2,33 @@
 citation: 49 CFR §571.108
 commodities:
 - Lighting modules
+- ADAS sensors
+- Mirrors
 - Wiring
 id: us-fmvss-108
 last_pulled: '2026-06-01T18:38:42+00:00'
+open_tags:
+- headlamp
+- tail lamp
+- reflex reflector
+- retroreflective sheeting
+- daytime running lamp
+- backup lamp
+- clearance lamp
+- side marker lamp
+- adaptive driving beam
+- replaceable bulb headlamp
+- sealed beam headlamp
+- photometric performance
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.108
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: 2026-05-22 15:30:00+00:00
+- ADAS
+- Visibility
+tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.
 un_equivalent_ai:
@@ -21,8 +38,9 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
+- Trailer
 ---
 
 ## § 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.

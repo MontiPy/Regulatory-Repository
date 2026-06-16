@@ -5,13 +5,27 @@ commodities:
 - Fuel system
 id: br-conama-492
 last_pulled: '2026-06-01T18:53:23+00:00'
+open_tags:
+- NMOG emissions
+- NOx limits
+- NMHC
+- exhaust gas certification
+- tailpipe emissions
+- photochemical reactivity
+- ethanol fuel compatibility
+- gasoline reference fuel
+- emission deterioration factor
+- PROCONVE L7
+- PROCONVE L8
+- light-duty vehicle certification
 region: BR
 source_api: brazil
 source_url: https://conama.mma.gov.br/?id=765&option=com_sisconama&task=arquivo.download
 status: in-force
 systems:
 - Emissions
-tagged_at: '2026-06-04T19:08:26+00:00'
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PROCONVE L7/L8 Emission Requirements for New Light Road Vehicles
 translation_status: untranslated

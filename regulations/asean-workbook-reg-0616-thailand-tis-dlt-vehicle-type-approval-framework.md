@@ -3,17 +3,36 @@ citation: Thailand TIS / DLT vehicle type approval framework
 commodities: []
 id: asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- type approval
+- certificate of conformity
+- CoP audit
+- VIN label
+- market access
+- import documentation
+- homologation dossier
+- TIS standards
+- APMRA mutual recognition
+- variant confirmation
+- owner manual localisation
+- customs clearance
 region: ASEAN
 source_api: spreadsheet
 source_url: https://www.tisi.go.th/
 status: in-force
-systems: []
-tagged_at: '2026-06-05T02:16:05+00:00'
+systems:
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Thailand national vehicle and component conformity framework
 translation_status: untranslated
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Thailand national vehicle and component conformity framework

@@ -1,17 +1,32 @@
 ---
 citation: 49 CFR Part 586
-commodities: []
+commodities:
+- Body structure
 id: us-cfr-part-586
 last_pulled: '2026-06-01T18:45:19+00:00'
+open_tags:
+- replica motor vehicle
+- low-volume manufacturer
+- exemption registration
+- NHTSA registration
+- intellectual property license
+- single-stage manufacturing
+- replica body
+- historic vehicle replica
+- production limit 325 vehicles
+- 5000 vehicle production cap
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-586
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 586—REPLICA MOTOR VEHICLES
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 586—REPLICA MOTOR VEHICLES

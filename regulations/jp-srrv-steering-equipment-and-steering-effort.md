@@ -2,8 +2,23 @@
 citation: SRRV / TRIAS
 commodities:
 - Steering column
+- ADAS sensors
+- ECUs
 id: jp-srrv-steering-equipment-and-steering-effort
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- electric power steering
+- EPS motor
+- steering rack
+- steering effort
+- steering wheel
+- torque sensor
+- steering angle sensor
+- column shaft
+- universal joint
+- type approval
+- SRRV
+- TRIAS
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -11,7 +26,7 @@ status: in-force
 systems:
 - Steering
 - ADAS
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Steering Equipment and Steering Effort
 translation_status: translated

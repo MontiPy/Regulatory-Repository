@@ -2,16 +2,28 @@
 citation: MVSR C.R.C.,_c._1038 s. 108
 commodities:
 - Lighting modules
-- Wiring
 id: ca-mvsr-c-r-c---c--1038-s108
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- headlamps
+- reflex reflectors
+- parking lamps
+- tail lamps
+- adaptive driving beam
+- three-wheeled vehicle
+- TSD 108
+- UN Regulation No. 112
+- UN Regulation No. 123
+- adaptive front-lighting system
+- halogen filament lamps
+- LED modules
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 108 — Three-wheeled Vehicles
 un_equivalent_ai:
@@ -20,8 +32,8 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
 - Bus
+- Trailer
 - Motorcycle
 ---
 

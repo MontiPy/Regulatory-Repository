@@ -2,13 +2,26 @@
 citation: 49 CFR §571.305a
 commodities:
 - Batteries
-- Electric motors
+- Wiring
 - Connectors
 - Charging inlet
 - Power electronics
-- Wiring
+- Electric motors
 id: us-fmvss-305a
 last_pulled: '2026-06-01T18:42:10+00:00'
+open_tags:
+- electric powertrain
+- high voltage protection
+- REESS
+- automatic disconnect
+- electrical isolation
+- electrolyte leakage
+- traction battery
+- fuel cell stack
+- electric shock protection
+- high voltage live parts
+- rechargeable energy storage system
+- IPXXB protection
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305a
@@ -17,7 +30,8 @@ systems:
 - Battery safety
 - EV charging
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:27+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: '§ 571.305a Standard No. 305a; electric-powered vehicles: Electric powertrain
   integrity; mandatory applicability begins on September 1, 2027.'

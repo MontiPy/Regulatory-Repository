@@ -2,16 +2,27 @@
 citation: JVSR Article 12
 commodities:
 - Fuel system
+- Fuel tanks
+- Exhaust
 id: jp-jvsregs-art12
 last_pulled: '2026-06-01T18:52:40+00:00'
+open_tags:
+- fuel properties
+- fuel quality standards
+- moped
+- fuel composition
+- pollution prevention
+- ministerial notice
+- fuel specification
+- motor vehicle fuel
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
-- Emissions
 - Fuel safety
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Emissions
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 12 — Fuel Standards
 translation_status: translated
@@ -22,7 +33,10 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 12 — Fuel Standards

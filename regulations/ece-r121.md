@@ -1,26 +1,44 @@
 ---
 citation: UN R121
 commodities:
-- Pedals
 - Steering column
 - Horn
 - Wipers & washers
+- Pedals
 - Wiring
-- Connectors
 id: ece-r121
 last_pulled: '2026-06-01T18:53:05+00:00'
+open_tags:
+- hand controls
+- instrument cluster
+- warning indicators
+- control identification
+- symbol standardization
+- dashboard controls
+- turn signal stalk
+- headlamp switch
+- wiper stalk
+- hazard warning control
+- ergonomic controls
+- driver interface
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
 systems:
 - Tell-tales & controls
-- Steering
 - Lighting & signaling
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 121 — Hand Controls, Tell-Tales and Indicators
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # UN Regulation No. 121 — Hand Controls, Tell-Tales and Indicators

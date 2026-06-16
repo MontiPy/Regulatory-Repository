@@ -1,10 +1,23 @@
 ---
 citation: KMVSS Article 103
 commodities:
-- Seatbelts
 - Seats
+- Seatbelts
 id: kr-kmvss-art103
 last_pulled: '2026-05-23T15:31:14+00:00'
+open_tags:
+- seat belt anchorage
+- lap anchorage
+- shoulder anchorage
+- three-point seat belt
+- two-point seat belt
+- belt anchorage strength
+- anchorage geometry
+- height-adjustable shoulder anchorage
+- seating reference point
+- static load test
+- school van
+- child restraint anchorage
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -12,13 +25,16 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 103 — Seat Belt Anchorage System
 translation_status: translated
 un_equivalent_ai:
 - UN R14
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## Article 103 — Seat Belt Anchorage System

@@ -4,9 +4,21 @@ commodities:
 - Lighting modules
 - Wiring
 - ECUs
-- Mirrors
 id: gcc-gso-ece-125
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- exterior lamps
+- reflectors
+- light-signalling devices
+- lens optics
+- LED modules
+- bulb assemblies
+- beam aim adjusters
+- lighting ECU
+- forward field of vision
+- glare control
+- conspicuity devices
+- tell-tale logic
 paywall: true
 region: GCC
 source_api: gso
@@ -15,15 +27,19 @@ status: in-force
 systems:
 - Lighting & signaling
 - Visibility
-- Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Forward Field of Vision
 translation_status: untranslated
 un_equivalent_ai:
 - UN R125
 - UN R121
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Forward Field of Vision

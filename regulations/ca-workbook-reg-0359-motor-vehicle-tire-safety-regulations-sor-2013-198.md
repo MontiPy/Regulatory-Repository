@@ -5,6 +5,17 @@ commodities:
 - Wheels
 id: ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- tire identification number
+- National Safety Mark
+- sidewall markings
+- tire registration
+- tire traceability
+- tire recall
+- tire importation
+- tire dealer registration
+- tire labeling
+- tire recordkeeping
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-198/
@@ -12,7 +23,7 @@ status: in-force
 systems:
 - Tires & wheels
 - Vehicle identification
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Tire Safety Regulations
 un_equivalent:
@@ -21,6 +32,7 @@ un_equivalent_ai:
 - UN R142
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Motor Vehicle Tire Safety Regulations

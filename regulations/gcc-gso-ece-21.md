@@ -4,12 +4,24 @@ commodities:
 - Seats
 - Airbags
 - Seatbelts
-- ECUs
 - Body structure
 - Bumpers
 - Door latches & hinges
 id: gcc-gso-ece-21
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- interior trim panels
+- head impact zone
+- instrument panel
+- A-pillar padding
+- knee bolster
+- seat anchorage
+- door interior padding
+- HIC criteria
+- occupant protection
+- interior fittings
+- crash structure
+- restraint control module
 paywall: true
 region: GCC
 source_api: gso
@@ -19,14 +31,16 @@ systems:
 - Crashworthiness
 - Restraints
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Interior Fittings
 translation_status: untranslated
 un_equivalent_ai:
 - UN R21
 - UN R94
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Interior Fittings

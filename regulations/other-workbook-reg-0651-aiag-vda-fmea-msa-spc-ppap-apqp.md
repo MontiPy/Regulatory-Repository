@@ -3,13 +3,26 @@ citation: AIAG-VDA FMEA / MSA / SPC / PPAP / APQP
 commodities: []
 id: other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- APQP
+- PPAP
+- FMEA
+- DFMEA
+- PFMEA
+- MSA
+- SPC
+- control plan
+- measurement system analysis
+- process capability
+- supplier quality
+- corrective action
 paywall: true
 region: OTHER
 source_api: spreadsheet
 source_url: https://www.aiag.org/quality/automotive-core-tools
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Automotive core quality tools
 vehicle_categories: []

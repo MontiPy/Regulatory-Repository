@@ -3,12 +3,26 @@ citation: ASEAN Automotive Products Mutual Recognition Arrangement (APMRA)
 commodities: []
 id: asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- type approval certificate
+- certificate of conformity
+- whole-vehicle type approval
+- VIN label
+- CoP audit
+- market access documentation
+- mutual recognition arrangement
+- import documentation
+- owner manual localization
+- variant management
+- customs compliance
+- regional harmonization
 region: ASEAN
 source_api: spreadsheet
 source_url: https://www.tisi.go.th/data/pdf/mra/MRA006.pdf
 status: in-force
-systems: []
-tagged_at: '2026-06-05T02:16:05+00:00'
+systems:
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: ASEAN framework for mutual recognition of automotive product approvals
 translation_status: untranslated

@@ -1,21 +1,38 @@
 ---
 citation: KMVSS Article 9
-commodities: []
+commodities:
+- Steering column
+- Suspension
+- Tires
+- Wheels
 id: kr-kmvss-art9
 last_pulled: '2026-05-23T15:30:34+00:00'
+open_tags:
+- minimum turning radius
+- outer front wheel track
+- swept path
+- turning envelope
+- concentric circles
+- bus turning geometry
+- vehicle maneuverability
+- turning circle
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Steering
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Tires & wheels
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 9 — Minimum Turning Radius
 translation_status: translated
 un_equivalent_ai:
 - UN R79
 vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
 - Bus
 ---
 

@@ -2,8 +2,22 @@
 citation: 49 CFR Part 574
 commodities:
 - Tires
+- Wheels
 id: us-cfr-part-574
 last_pulled: '2026-06-01T18:44:43+00:00'
+open_tags:
+- tire identification
+- tire recordkeeping
+- tire registration
+- retreaded tires
+- non-pneumatic tires
+- tire brand name owner
+- tire dealer registration
+- defect notification
+- tire purchaser records
+- tire distributor
+- tire retreader
+- tire traceability
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-574
@@ -11,12 +25,18 @@ status: in-force
 systems:
 - Tires & wheels
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 574—TIRE IDENTIFICATION AND RECORDKEEPING
 un_equivalent_ai:
 - UN R142
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## PART 574—TIRE IDENTIFICATION AND RECORDKEEPING

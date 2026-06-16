@@ -3,17 +3,29 @@ citation: MVSR C.R.C.,_c._1038 s. 210.2
 commodities:
 - Seats
 - Airbags
-- Connectors
 id: ca-mvsr-c-r-c---c--1038-s210-2
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- ISOFIX anchorage
+- lower universal anchorage system
+- child restraint anchorage
+- LATCH system
+- child restraint fixture
+- anchorage bars
+- booster seat compatibility
+- seat anchorage
+- forward-facing seating position
+- manual cut-off switch
+- air bag deactivation
+- school bus seating
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
-- Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 210.2 — General
 un_equivalent_ai:

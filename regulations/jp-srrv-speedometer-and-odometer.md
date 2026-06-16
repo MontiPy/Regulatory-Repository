@@ -1,27 +1,42 @@
 ---
 citation: SRRV / TRIAS
 commodities:
-- Lighting modules
 - Wiring
 - ECUs
+- Lighting modules
 id: jp-srrv-speedometer-and-odometer
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- speedometer
+- odometer
+- instrument cluster
+- driver information display
+- vehicle speed sensor
+- odometer calibration
+- analog gauge
+- digital display
+- HMI
+- type-approval
+- TRIAS
+- SRRV
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 systems:
 - Lighting & signaling
-- Visibility
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Speedometer and Odometer
 translation_status: translated
 un_equivalent_ai:
 - UN R39
 - UN R121
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Speedometer and Odometer

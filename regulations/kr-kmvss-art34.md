@@ -4,13 +4,27 @@ commodities:
 - Glass
 id: kr-kmvss-art34
 last_pulled: '2026-05-23T15:31:17+00:00'
+open_tags:
+- laminated glass
+- toughened glass
+- glass-plastic composite glass
+- double-glazed glass
+- plastic glazing
+- electrically operated window
+- power window anti-pinch
+- sunroof
+- frameless door glass
+- remote-controlled window closure
+- partition door
+- window reversal mechanism
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Glazing
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 34 — Glazing
 translation_status: translated
@@ -18,6 +32,8 @@ un_equivalent_ai:
 - UN R43
 vehicle_categories:
 - Passenger car
+- Light truck
+- Trailer
 ---
 
 ## Article 34 — Glazing

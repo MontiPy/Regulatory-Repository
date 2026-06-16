@@ -1,25 +1,35 @@
 ---
 citation: SRRV / TRIAS
 commodities:
-- ECUs
-- Fuel system
 - Exhaust
-- Batteries
-- Electric motors
+- Fuel system
+- ECUs
 - Fuel tanks
 - Hoses & lines
-- Power electronics
 id: jp-srrv-exhaust-emissions-and-obd
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- aftertreatment system
+- catalytic converter
+- evaporative emissions canister
+- OBD-II monitor
+- NOx sensor
+- particulate filter
+- fuel economy labeling
+- CO2 reporting
+- hybrid energy management
+- type-approval certification
+- emissions calibration
+- EVAP system
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:27+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Exhaust Emissions and OBD
 translation_status: translated

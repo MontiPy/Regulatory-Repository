@@ -2,27 +2,37 @@
 citation: Directive (EU) 2022/2464 / Directive (EU) 2024/1760 / Regulation (EU) 2023/956
 commodities:
 - Batteries
-- Electric motors
-- Power electronics
-- Wiring
-- Connectors
-- Hoses & lines
 id: eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- supply chain due diligence
+- carbon accounting
+- sustainability reporting
+- bill of materials (BOM)
+- battery material sourcing
+- conflict minerals
+- corporate ESG reporting
+- carbon border adjustment
+- supplier auditing
+- lifecycle assessment
+- scope 3 emissions
+- chemical compliance
 region: EU
 source_api: spreadsheet
 source_url: https://eur-lex.europa.eu/eli/dir/2022/2464/oj
 status: in-force
-systems:
-- Battery safety
-- EV charging
-- On-board diagnostics
-tagged_at: '2026-06-05T02:16:05+00:00'
+systems: []
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: CSRD, CSDDD and CBAM sustainability/due-diligence overlays
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # CSRD, CSDDD and CBAM sustainability/due-diligence overlays

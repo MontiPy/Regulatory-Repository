@@ -2,10 +2,20 @@
 citation: KMVSS Article 12-2
 commodities:
 - Tires
-- ECUs
-- Lighting modules
+- Wheels
 id: kr-kmvss-art12-2
 last_pulled: '2026-05-23T15:30:38+00:00'
+open_tags:
+- tire pressure monitoring system
+- TPMS
+- indirect TPMS
+- warning lamp
+- tire pressure sensor
+- wheel speed sensor
+- dashboard indicator
+- TPWS
+- low tire pressure warning
+- pressure monitoring ECU
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -13,7 +23,7 @@ status: in-force
 systems:
 - Tires & wheels
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 12-2 — Tire Pressure Warning System
 translation_status: translated

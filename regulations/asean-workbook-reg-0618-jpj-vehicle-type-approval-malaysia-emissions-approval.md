@@ -1,8 +1,22 @@
 ---
 citation: JPJ Vehicle Type Approval / Malaysia emissions approval
-commodities: []
+commodities:
+- Exhaust
 id: asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- type approval
+- whole-vehicle approval
+- conformity of production
+- VIN label
+- import certification
+- certificate of conformity
+- market access
+- customs release
+- environmental approval
+- DOE certificate
+- JPJ VTA
+- owner manual compliance
 region: ASEAN
 source_api: spreadsheet
 source_url: https://www.jpj.gov.my/en/vta-guidelines/
@@ -10,7 +24,7 @@ status: in-force
 systems:
 - Emissions
 - Vehicle identification
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Malaysia vehicle type approval and environmental approval framework
 translation_status: untranslated

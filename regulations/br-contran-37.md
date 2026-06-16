@@ -1,25 +1,44 @@
 ---
 citation: CONTRAN 37/1998
 commodities:
+- Lighting modules
 - Wiring
-- Connectors
+- ECUs
+- Infotainment
 id: br-contran-37
 last_pulled: '2026-06-01T18:53:17+00:00'
+open_tags:
+- instrument cluster
+- dashboard controls
+- control identification
+- illuminated controls
+- symbol marking
+- indicator lights
+- control labeling
+- human-machine interface
+- interior lighting
+- switch identification
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
 systems:
-- Lighting & signaling
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Lighting & signaling
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Identification and Lighting of Controls
 translation_status: untranslated
 un_equivalent_ai:
 - UN R121
 - UN R48
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Identification and Lighting of Controls

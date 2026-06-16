@@ -4,19 +4,36 @@ commodities:
 - Horn
 id: kr-kmvss-art53
 last_pulled: '2026-05-23T15:31:33+00:00'
+open_tags:
+- audible warning device
+- horn sound level
+- dB(C) measurement
+- acoustic warning
+- steady tone requirement
+- 2 metre measurement distance
+- 1.2m measurement height
+- warning horn
+- vehicle horn standard
+- sound pressure level
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Lighting & signaling
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 53 — Horn
 translation_status: translated
 un_equivalent_ai:
 - UN R28
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 53 — Horn

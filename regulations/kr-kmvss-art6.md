@@ -1,14 +1,27 @@
 ---
 citation: KMVSS Article 6
-commodities: []
+commodities:
+- Wheels
 id: kr-kmvss-art6
 last_pulled: '2026-05-23T15:30:31+00:00'
+open_tags:
+- gross vehicle weight
+- axle load
+- wheel load
+- curb weight
+- articulated vehicle
+- ultra-compact vehicle
+- vehicle weight limits
+- axle weight rating
+- GVW regulation
+- weight classification
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:27+00:00'
+systems:
+- Tires & wheels
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 6 — Gross Vehicle Weight, Axle Load, and Wheel Load
 translation_status: translated
@@ -17,6 +30,7 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Bus
+- Trailer
 ---
 
 ## Article 6 — Gross Vehicle Weight, Axle Load, and Wheel Load

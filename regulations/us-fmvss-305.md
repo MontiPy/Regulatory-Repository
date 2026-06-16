@@ -2,11 +2,26 @@
 citation: 49 CFR §571.305
 commodities:
 - Batteries
-- Power electronics
+- Wiring
 - Connectors
 - Charging inlet
+- Power electronics
+- Electric motors
 id: us-fmvss-305
 last_pulled: '2026-06-01T18:42:09+00:00'
+open_tags:
+- high voltage protection
+- electrolyte spillage
+- electrical isolation
+- electric energy storage
+- fuel cell stack
+- automatic disconnect
+- IPXXB protection
+- electric powertrain
+- shock protection
+- capacitor module
+- rechargeable energy storage system
+- electrical chassis
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305
@@ -15,7 +30,7 @@ systems:
 - Battery safety
 - EV charging
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: '§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage
   and electrical shock protection; applicable unless a vehicle is certified to § 571.305a.'
@@ -24,6 +39,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Bus
 ---
 
 ## § 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage and electrical shock protection; applicable unless a vehicle is certified to § 571.305a.

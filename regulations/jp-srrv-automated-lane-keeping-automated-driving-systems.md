@@ -1,26 +1,40 @@
 ---
 citation: SRRV / TRIAS / UN R157
 commodities:
-- ECUs
 - ADAS sensors
+- ECUs
 id: jp-srrv-automated-lane-keeping-automated-driving-systems
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- automated lane keeping system
+- lane departure warning
+- driver monitoring system
+- data event recorder
+- type approval documentation
+- HMI warning interface
+- ALKS ECU
+- UN R157 compliance
+- automated driving system
+- production traceability
+- recall population tracking
+- conformity of production
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 systems:
 - ADAS
-- Braking
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Automated Lane Keeping / Automated Driving Systems
 translation_status: translated
 un_equivalent_ai:
 - UN R157
 - UN R155
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Automated Lane Keeping / Automated Driving Systems

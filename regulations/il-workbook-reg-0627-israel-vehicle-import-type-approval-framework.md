@@ -3,24 +3,36 @@ citation: Israel vehicle import/type approval framework
 commodities: []
 id: il-workbook-reg-0627-israel-vehicle-import-type-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- type approval certificate
+- certificate of conformity
+- VIN label
+- import licensing
+- whole-vehicle approval
+- CoP (Conformity of Production)
+- market access documentation
+- customs clearance
+- owner manual localization
+- national type approval
+- variant/version data
+- import dossier
 region: IL
 source_api: spreadsheet
 source_url: https://www.gov.il/en/departments/ministry_of_transport_and_road_safety/govil-landing-page
 status: in-force
 systems:
 - Vehicle identification
-- Crashworthiness
-- Restraints
-- Braking
-- Lighting & signaling
-- Emissions
-- Fuel safety
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Israel import, registration and standards-recognition framework
 translation_status: untranslated
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Israel import, registration and standards-recognition framework

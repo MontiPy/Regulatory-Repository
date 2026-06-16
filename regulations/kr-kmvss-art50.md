@@ -2,15 +2,28 @@
 citation: KMVSS Article 50
 commodities:
 - Mirrors
+- ADAS sensors
 id: kr-kmvss-art50
 last_pulled: '2026-05-23T15:31:22+00:00'
+open_tags:
+- indirect vision devices
+- camera monitor system
+- external rear-view mirror
+- wide-angle mirror
+- school van
+- field of view
+- driver visibility
+- obstacle detection
+- convex mirror
+- rear-view camera
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:25+00:00'
+- ADAS
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 50 — Indirect Vision Devices
 translation_status: translated
@@ -19,6 +32,8 @@ un_equivalent_ai:
 - UN R125
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
 - Bus
 ---
 

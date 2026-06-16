@@ -2,21 +2,35 @@
 citation: JVSR Article 43_7
 commodities:
 - Horn
+- Electric motors
 id: jp-jvsregs-art43-7
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- vehicle approach warning device
+- acoustic vehicle alerting system
+- AVAS
+- electric vehicle warning sound
+- pedestrian warning system
+- hybrid vehicle
+- EV warning tone
+- low-speed warning device
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 43_7 — Vehicle Approach Warning Device
 translation_status: translated
 un_equivalent_ai:
 - UN R159
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## Article 43-7 — Vehicle Approach Warning Device

@@ -1,14 +1,27 @@
 ---
 citation: 49 CFR Part 533
-commodities: []
+commodities:
+- Fuel system
 id: us-cfr-part-533
 last_pulled: '2026-06-01T18:43:18+00:00'
+open_tags:
+- fuel economy standard
+- CAFE standard
+- fleet average fuel economy
+- miles per gallon
+- 4-wheel drive
+- 2-wheel drive
+- captive import
+- model year compliance
+- light truck CAFE
+- footprint-based standard
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-533
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:25+00:00'
+systems:
+- Emissions
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 533—LIGHT TRUCK FUEL ECONOMY STANDARDS
 un_equivalent_ai:

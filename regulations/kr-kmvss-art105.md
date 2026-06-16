@@ -4,8 +4,20 @@ commodities:
 - Glass
 - Airbags
 - Seatbelts
+- Body structure
 id: kr-kmvss-art105
 last_pulled: '2026-05-23T15:31:20+00:00'
+open_tags:
+- windshield
+- glazing retention frame
+- windshield protection zone
+- automatic occupant protection device
+- frontal impact
+- protective template
+- windshield intrusion
+- occupant protection
+- laminated safety glass
+- forward control vehicle
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -14,7 +26,7 @@ systems:
 - Glazing
 - Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 105 — Windshield Safety
 translation_status: translated

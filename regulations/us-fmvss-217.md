@@ -2,15 +2,32 @@
 citation: 49 CFR §571.217
 commodities:
 - Glass
+- Seats
+- Door latches & hinges
+- Body structure
 id: us-fmvss-217
 last_pulled: '2026-06-01T18:41:13+00:00'
+open_tags:
+- emergency exit
+- push-out window
+- sliding window
+- window retention
+- emergency egress
+- school bus
+- window glazing
+- window frame
+- wheelchair securement
+- bus emergency exits
+- exit markings
+- occupant ejection prevention
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.217
 status: in-force
 systems:
 - Glazing
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.217 Standard No. 217; Bus emergency exits and window retention and release.
 vehicle_categories:

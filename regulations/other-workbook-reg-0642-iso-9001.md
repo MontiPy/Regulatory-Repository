@@ -3,13 +3,26 @@ citation: ISO 9001
 commodities: []
 id: other-workbook-reg-0642-iso-9001
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- quality management system
+- document control
+- process audits
+- supplier controls
+- corrective action
+- management review
+- conformity of production
+- IATF 16949
+- customer-specific requirements
+- product realization
+- supplier quality
+- QMS
 paywall: true
 region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/62085.html
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Quality management systems - Requirements
 vehicle_categories: []

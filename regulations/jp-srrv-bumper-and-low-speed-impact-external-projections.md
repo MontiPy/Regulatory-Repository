@@ -1,16 +1,26 @@
 ---
 citation: SRRV / TRIAS
 commodities:
+- Body structure
+- Bumpers
 - Airbags
 - Seatbelts
 - Seats
-- Body structure
-- Bumpers
-- Door latches & hinges
-- ECUs
-- ADAS sensors
 id: jp-srrv-bumper-and-low-speed-impact-external-projections
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- crash absorber
+- bumper beam
+- bumper fascia
+- pedestrian protection structure
+- energy absorber
+- body-in-white
+- restraint control module
+- impact attenuator
+- low-speed impact
+- external projections
+- occupant protection
+- pedestrian contact surface
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -19,7 +29,7 @@ systems:
 - Crashworthiness
 - Restraints
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Bumper and Low-speed Impact / External Projections
 translation_status: translated

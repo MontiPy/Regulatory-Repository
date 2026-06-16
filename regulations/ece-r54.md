@@ -4,18 +4,33 @@ commodities:
 - Tires
 id: ece-r54
 last_pulled: '2026-06-01T18:53:05+00:00'
+open_tags:
+- pneumatic tyres
+- tyre load index
+- tyre speed symbol
+- tyre size designation
+- commercial vehicle tyres
+- tyre ply rating
+- tyre marking
+- tubeless tyres
+- tube-type tyres
+- tyre approval marking
+- tyre construction designation
+- tyre category classification
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 54 — Pneumatic Tyres for Commercial Vehicles and their Trailers
 vehicle_categories:
 - Heavy truck
 - Trailer
+- Bus
+- Light truck
 ---
 
 # UN Regulation No. 54 — Pneumatic Tyres for Commercial Vehicles and their Trailers

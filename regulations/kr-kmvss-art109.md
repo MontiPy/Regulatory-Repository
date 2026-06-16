@@ -2,15 +2,31 @@
 citation: KMVSS Article 109
 commodities:
 - Wipers & washers
+- Glass
+- HVAC
 id: kr-kmvss-art109
 last_pulled: '2026-05-23T15:31:21+00:00'
+open_tags:
+- windshield wiper
+- washer fluid spray system
+- defroster
+- demister
+- wiper blade
+- wiper motor
+- washer fluid reservoir
+- windshield cleaning zone
+- frost removal
+- fog removal
+- wiper arm
+- cold temperature performance
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:25+00:00'
+- HVAC
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 109 — Windshield Wiper and Washer System
 translation_status: translated

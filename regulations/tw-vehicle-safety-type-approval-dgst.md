@@ -3,6 +3,19 @@ citation: Vehicle Safety Type Approval / DGST
 commodities: []
 id: tw-vehicle-safety-type-approval-dgst
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- type approval
+- whole-vehicle approval
+- CoP (Conformity of Production)
+- VIN label
+- import documentation
+- DGST safety test
+- Taiwan market access
+- owner manual compliance
+- customs clearance
+- variant management
+- certification label
+- UNECE recognition
 region: TW
 source_api: spreadsheet
 source_url: https://www.vscc.org.tw/Home/Content/509
@@ -11,26 +24,19 @@ systems:
 - Lighting & signaling
 - Braking
 - Steering
-- Tires & wheels
 - Crashworthiness
 - Restraints
 - Visibility
 - Emissions
-- Fuel safety
-- EMC
-- Battery safety
-- ADAS
-- Glazing
-- HVAC
 - Vehicle identification
-- Pedestrian protection
-- Tell-tales & controls
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Taiwan vehicle safety type approval and DGST safety test framework
 vehicle_categories:
 - Passenger car
+- Light truck
+- Motorcycle
+- Bus
 ---
 
 # Taiwan vehicle safety type approval and DGST safety test framework

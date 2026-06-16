@@ -6,6 +6,16 @@ commodities:
 - Hoses & lines
 id: kr-kmvss-art91
 last_pulled: '2026-05-23T15:30:57+00:00'
+open_tags:
+- flammable liquid fuel
+- fuel system integrity
+- crash test
+- post-crash fuel leakage
+- fuel feed system
+- fuel filler neck
+- fuel system crash safety
+- GVW 4.5t
+- GVW 3.5t
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -13,7 +23,7 @@ status: in-force
 systems:
 - Fuel safety
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 91 — Fuel System Crash Safety for Flammable Liquid Fuel Vehicles
 translation_status: translated

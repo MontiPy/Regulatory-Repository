@@ -1,15 +1,27 @@
 ---
 citation: KMVSS Article 54
-commodities: []
+commodities:
+- ECUs
 id: kr-kmvss-art54
 last_pulled: '2026-05-23T15:31:37+00:00'
+open_tags:
+- speedometer
+- odometer
+- speed limiter
+- vehicle speed control
+- speed restriction device
+- low-speed electric vehicle
+- high-pressure gas transport
+- school van
+- gross vehicle weight
+- maximum speed
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 54 — Speedometer and Odometer
 translation_status: translated
@@ -17,8 +29,10 @@ un_equivalent_ai:
 - UN R39
 - UN R89
 vehicle_categories:
+- Passenger car
 - Light truck
 - Heavy truck
+- Bus
 ---
 
 ## Article 54 — Speedometer and Odometer

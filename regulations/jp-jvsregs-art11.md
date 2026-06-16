@@ -4,6 +4,19 @@ commodities:
 - Steering column
 id: jp-jvsregs-art11
 last_pulled: '2026-06-01T18:52:40+00:00'
+open_tags:
+- steering system
+- energy-absorbing steering column
+- collapsible steering shaft
+- driver protection
+- impact absorption
+- steering performance
+- steering strength
+- anti-intrusion
+- steering wheel
+- occupant protection
+- passive safety
+- steering gear
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
@@ -11,7 +24,7 @@ status: in-force
 systems:
 - Steering
 - Crashworthiness
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 11 — Steering System
 translation_status: translated
@@ -22,8 +35,10 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 11 — Steering System

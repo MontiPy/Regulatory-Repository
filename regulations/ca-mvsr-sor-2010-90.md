@@ -3,9 +3,21 @@ citation: MVSR SOR-2010-90
 commodities:
 - Seats
 - Seatbelts
-- Connectors
 id: ca-mvsr-sor-2010-90
 last_pulled: '2026-06-01T18:52:57+00:00'
+open_tags:
+- child restraint system
+- infant restraint system
+- booster seat
+- ISOFIX anchorage
+- tether strap
+- lower universal anchorage system
+- car bed
+- custom restraint system
+- tether strap hook
+- lower connector system
+- disabled person restraint
+- infant with special needs
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/FullText.html
@@ -13,13 +25,15 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
 un_equivalent_ai:
 - UN R129
 - UN R44
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 xml version="1.0"?SOR/2010-9020104:   29

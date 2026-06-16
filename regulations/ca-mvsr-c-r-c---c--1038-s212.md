@@ -4,13 +4,25 @@ commodities:
 - Glass
 id: ca-mvsr-c-r-c---c--1038-s212
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- windshield mounting
+- windshield retention
+- TSD 212
+- FMVSS 212 equivalent
+- forward control vehicle
+- open-body vehicle
+- walk-in van
+- GVWR 4536 kg
+- windshield bonding
+- glazing adhesive
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Glazing
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 212
 un_equivalent_ai:

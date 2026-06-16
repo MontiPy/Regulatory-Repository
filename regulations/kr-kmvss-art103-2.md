@@ -4,6 +4,17 @@ commodities:
 - Seats
 id: kr-kmvss-art103-2
 last_pulled: '2026-05-23T15:31:15+00:00'
+open_tags:
+- ISOFIX anchorage
+- child restraint system
+- upper tether anchorage
+- lower anchorage
+- CRS anchorage
+- child seat mounting
+- tether anchor
+- anchorage load test
+- ISOFIX lower bar
+- child restraint anchorage system
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -11,7 +22,7 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 103-2 — Child Restraint Anchorage System
 translation_status: translated

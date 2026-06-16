@@ -4,19 +4,38 @@ commodities:
 - Mirrors
 id: br-contran-924
 last_pulled: '2026-06-01T18:53:17+00:00'
+open_tags:
+- interior rearview mirror
+- exterior rearview mirror
+- rear-view mirror field of vision
+- mirror adjustment
+- mirror mounting
+- mirror surface area
+- convex mirror
+- flat mirror
+- CONTRAN type approval
+- INMETRO certification
+- DENATRAN homologation
+- mirror reflectivity
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Interior and Exterior Mirrors
 translation_status: untranslated
 un_equivalent_ai:
 - UN R46
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Interior and Exterior Mirrors

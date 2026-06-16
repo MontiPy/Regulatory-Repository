@@ -2,15 +2,28 @@
 citation: JVSR Article 26
 commodities:
 - Door latches & hinges
+- Lighting modules
 id: jp-jvsregs-art26
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- emergency exit
+- emergency exit door
+- exit signage
+- door open warning device
+- passenger evacuation
+- green indicator light
+- school bus
+- large passenger vehicle
+- exit location marking
+- door ajar sensor
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
-- Crashworthiness
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Lighting & signaling
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 26 — Emergency Exits
 translation_status: translated

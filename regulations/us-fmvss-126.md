@@ -3,16 +3,31 @@ citation: 49 CFR §571.126
 commodities:
 - ECUs
 - Brakes
+- ADAS sensors
 id: us-fmvss-126
 last_pulled: '2026-06-01T18:39:44+00:00'
+open_tags:
+- electronic stability control
+- yaw rate sensor
+- lateral acceleration sensor
+- steering angle sensor
+- brake torque modulation
+- vehicle dynamics control
+- anti-rollover system
+- traction control
+- closed-loop control algorithm
+- side slip estimation
+- oversteer correction
+- understeer correction
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.126
 status: in-force
 systems:
 - Braking
+- Steering
 - ADAS
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.126 Standard No. 126; Electronic stability control systems for light
   vehicles.

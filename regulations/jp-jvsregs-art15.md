@@ -6,20 +6,38 @@ commodities:
 - Hoses & lines
 id: jp-jvsregs-art15
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- fuel tank integrity
+- fuel leak prevention
+- post-collision fuel leakage
+- flammable liquid containment
+- fuel piping
+- fire prevention
+- rear-end impact fuel safety
+- fuel system mounting
+- gasoline fuel system
+- alcohol fuel system
+- combustible liquid containment
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Fuel safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 15 — Fuel System
 translation_status: translated
 un_equivalent_ai:
 - UN R34
 - UN R153
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## Article 15 — Fuel System

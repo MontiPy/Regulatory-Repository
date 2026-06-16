@@ -5,6 +5,17 @@ commodities:
 - Body structure
 id: kr-kmvss-art102
 last_pulled: '2026-05-23T15:31:10+00:00'
+open_tags:
+- offset deformable barrier
+- side impact protection
+- frontal collision
+- rigid barrier test
+- occupant protection
+- airbag warning label
+- forward-cab truck
+- body structure standards
+- van rollover/body strength
+- gross vehicle weight classification
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -12,7 +23,7 @@ status: in-force
 systems:
 - Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 102 — Occupant Protection in Collisions
 translation_status: translated
@@ -22,6 +33,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

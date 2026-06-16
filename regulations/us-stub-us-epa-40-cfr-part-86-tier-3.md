@@ -6,15 +6,28 @@ commodities:
 - ECUs
 id: us-stub-us-epa-40-cfr-part-86-tier-3
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- catalytic converter
+- particulate filter
+- EGR system
+- SCR system
+- urea/DEF injection
+- evaporative emission control
+- OBD malfunction indicator lamp
+- NOx aftertreatment
+- calibration software
+- CARB compliance
+- useful life durability
+- defeat device prevention
 region: US
 source_api: spreadsheet
 source_url: https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Light-duty Vehicle and Fuel Emission Standards
 un_equivalent:

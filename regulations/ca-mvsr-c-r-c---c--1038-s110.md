@@ -5,13 +5,26 @@ commodities:
 - Wheels
 id: ca-mvsr-c-r-c---c--1038-s110
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- tire rim
+- vehicle placard
+- tire inflation pressure label
+- tire selection
+- load range identification symbol
+- GVWR 4536 kg
+- passenger car tires
+- light-truck tires
+- compliance label
+- tire size designation
+- maximum load rating
+- bilingual labelling
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 110 — Technical Standards Document No. 110
 un_equivalent_ai:

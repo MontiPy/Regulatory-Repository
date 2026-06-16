@@ -5,13 +5,26 @@ commodities:
 - Wheels
 id: us-fmvss-119
 last_pulled: '2026-06-01T18:39:17+00:00'
+open_tags:
+- pneumatic tires
+- tire endurance
+- tire strength
+- high speed performance
+- treadwear indicators
+- load range
+- rim matching
+- tubeless tires
+- tube-type tires
+- specialty tires
+- bead separation
+- tire marking
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.119
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR
   of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
@@ -20,9 +33,9 @@ un_equivalent_ai:
 - UN R30
 vehicle_categories:
 - Heavy truck
-- Bus
-- Trailer
+- Light truck
 - Motorcycle
+- Trailer
 ---
 
 ## § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.

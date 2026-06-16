@@ -2,17 +2,29 @@
 citation: 49 CFR §571.124
 commodities:
 - Pedals
-- Electric motors
 - Fuel system
+- Electric motors
 id: us-fmvss-124
 last_pulled: '2026-06-01T18:39:39+00:00'
+open_tags:
+- accelerator control system
+- throttle return
+- idle position
+- fuel metering device
+- carburetor
+- fuel injector
+- engine speed control
+- driver-operated accelerator
+- throttle spring
+- engine overspeed prevention
+- accelerator pedal return
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.124
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: § 571.124 Standard No. 124; Accelerator control systems.
 un_equivalent_ai:

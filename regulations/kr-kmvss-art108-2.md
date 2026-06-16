@@ -1,14 +1,27 @@
 ---
 citation: KMVSS Article 108-2
-commodities: []
+commodities:
+- Fuel system
 id: kr-kmvss-art108-2
 last_pulled: '2026-05-23T15:31:42+00:00'
+open_tags:
+- fuel economy
+- urban driving cycle
+- highway driving cycle
+- constant-speed fuel economy
+- manufacturer declared values
+- fuel consumption measurement
+- WLTP
+- vehicle fuel efficiency
+- GVW 3.5t
+- seating capacity 15
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:25+00:00'
+systems:
+- Emissions
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 108-2 — Fuel Economy
 translation_status: translated

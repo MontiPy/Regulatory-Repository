@@ -5,13 +5,26 @@ commodities:
 - Wheels
 id: za-workbook-reg-0623-vc-8056
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- pneumatic tyres
+- sidewall markings
+- load index
+- speed rating
+- tyre approval mark
+- compulsory specification
+- tyre size designation
+- market surveillance
+- tyre labelling
+- supplier certificate
+- tyre recall traceability
+- SANS tyre standard
 region: ZA
 source_api: spreadsheet
 source_url: https://www.nrcs.org.za/CompulsarySpecExtended/VC%208056.pdf
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Pneumatic tyres for passenger cars and trailers
 un_equivalent:

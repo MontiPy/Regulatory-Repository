@@ -4,13 +4,27 @@ commodities:
 - Mirrors
 id: jp-jvsregs-art44
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- rear-view mirror
+- rear-view confirmation device
+- camera monitor system
+- indirect vision device
+- exterior mirror
+- interior mirror
+- close-proximity obstacle detection
+- driver field of view
+- handlebar vehicle mirror
+- mirror mounting position
+- blind spot mirror
+- convex mirror
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 44 — Rear-View Mirrors
 translation_status: translated
@@ -21,8 +35,10 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 44 — Rear-View Mirrors

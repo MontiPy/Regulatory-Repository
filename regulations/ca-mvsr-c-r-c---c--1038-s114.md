@@ -2,15 +2,31 @@
 citation: MVSR C.R.C.,_c._1038 s. 114
 commodities:
 - ECUs
+- Wiring
+- Connectors
 id: ca-mvsr-c-r-c---c--1038-s114
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- immobilization system
+- electronic immobilization
+- rolling code
+- encrypted code
+- disarming device
+- biometric identifier
+- keypad entry
+- vehicle alarm system
+- anti-theft ECU
+- code variant
+- CAN/ULC-S338-98
+- UN Regulation No. 116
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Theft prevention
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Cybersecurity
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 114 — Immobilization System
 un_equivalent_ai:

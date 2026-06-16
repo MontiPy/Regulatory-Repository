@@ -1,21 +1,35 @@
 ---
 citation: 49 CFR Part 588
-commodities: []
+commodities:
+- Seats
 id: us-cfr-part-588
 last_pulled: '2026-06-01T18:45:25+00:00'
+open_tags:
+- child restraint system
+- CRS registration
+- owner registration form
+- recall recordkeeping
+- ISOFIX anchorage
+- child safety seat
+- booster seat
+- infant carrier
+- notification campaign
+- NHTSA recall
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-588
 status: in-force
 systems:
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 588—CHILD RESTRAINT SYSTEMS RECORDKEEPING REQUIREMENTS
 un_equivalent_ai:
 - UN R44
 - UN R129
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 588—CHILD RESTRAINT SYSTEMS RECORDKEEPING REQUIREMENTS

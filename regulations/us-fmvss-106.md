@@ -1,16 +1,30 @@
 ---
 citation: 49 CFR §571.106
 commodities:
+- Brakes
 - Hoses & lines
 id: us-fmvss-106
 last_pulled: '2026-06-01T18:38:42+00:00'
+open_tags:
+- brake hose
+- brake hose assembly
+- brake hose end fitting
+- hydraulic brake hose
+- air brake hose
+- vacuum brake hose
+- crimped end fitting
+- swaged end fitting
+- flexible brake conduit
+- brake hose labeling
+- brake pressure containment
+- armor
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.106
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.106 Standard No. 106; Brake hoses.
 un_equivalent_ai:

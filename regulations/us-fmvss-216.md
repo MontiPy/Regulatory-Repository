@@ -4,13 +4,24 @@ commodities:
 - Body structure
 id: us-fmvss-216
 last_pulled: '2026-06-01T18:41:07+00:00'
+open_tags:
+- roof crush resistance
+- roof structure
+- rollover protection
+- passenger compartment roof
+- roof strength
+- raised roof
+- altered roof
+- convertible roof
+- roof panel
+- front seat area roof
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.216
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle
   is certified to § 571.216a.

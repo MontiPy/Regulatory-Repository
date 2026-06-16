@@ -1,21 +1,39 @@
 ---
 citation: KMVSS Article 11
 commodities:
-- Electric motors
 - Fuel system
 id: kr-kmvss-art11
 last_pulled: '2026-05-23T15:30:36+00:00'
+open_tags:
+- engine
+- drivetrain
+- diesel governor
+- fuel injection quantity regulator
+- governor seal
+- powertrain
+- ultra-compact vehicle
+- speed limiter
+- drivetrain joints
+- oil leaks
+- starting device
+- stopping device
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
+- Fuel safety
 - Emissions
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 11 — Engine and Drivetrain
 translation_status: translated
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 11 — Engine and Drivetrain

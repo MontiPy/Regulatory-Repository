@@ -2,16 +2,28 @@
 citation: 49 CFR §571.203
 commodities:
 - Steering column
+- Horn
 id: us-fmvss-203
 last_pulled: '2026-06-01T18:40:21+00:00'
+open_tags:
+- steering control system
+- steering wheel
+- body block test
+- impact protection
+- chest injury prevention
+- steering column energy absorption
+- driver protection
+- SAE J944
+- steering hub
+- horn actuating mechanism
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.203
 status: in-force
 systems:
-- Crashworthiness
 - Steering
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.203 Standard No. 203; Impact protection for the driver from the steering
   control system.

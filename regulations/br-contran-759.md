@@ -2,10 +2,20 @@
 citation: CONTRAN 759/2018
 commodities:
 - ADAS sensors
-- ECUs
 - Mirrors
 id: br-contran-759
 last_pulled: '2026-06-01T18:53:17+00:00'
+open_tags:
+- rear view camera
+- parking assist
+- blind spot detection
+- rear cross-traffic alert
+- proximity sensor
+- ultrasonic sensor
+- backup camera
+- rear monitoring system
+- obstacle detection
+- reversing aid
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
@@ -13,14 +23,20 @@ status: in-force
 systems:
 - ADAS
 - Visibility
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Rear Alert / Monitoring System
 translation_status: untranslated
 un_equivalent_ai:
 - UN R158
 - UN R159
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Rear Alert / Monitoring System

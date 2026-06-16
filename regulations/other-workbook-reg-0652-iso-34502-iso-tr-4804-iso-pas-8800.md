@@ -3,8 +3,22 @@ citation: ISO 34502 / ISO/TR 4804 / ISO/PAS 8800
 commodities:
 - ECUs
 - ADAS sensors
+- Connectors
 id: other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- automated driving system
+- operational design domain
+- scenario-based safety case
+- AI model validation
+- fallback strategy
+- E/E architecture
+- SOTIF
+- functional safety
+- ADS controller
+- telematics gateway
+- software release management
+- safety case evidence
 paywall: true
 region: OTHER
 source_api: spreadsheet
@@ -13,15 +27,20 @@ status: in-force
 systems:
 - ADAS
 - Cybersecurity
+- On-board diagnostics
 - Software updates
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Automated-driving scenario, safety and AI guidance standards
 un_equivalent:
 - UN R157
 un_equivalent_ai:
 - UN R155
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 # Automated-driving scenario, safety and AI guidance standards

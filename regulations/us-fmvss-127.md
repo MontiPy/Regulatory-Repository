@@ -4,8 +4,22 @@ commodities:
 - Brakes
 - ADAS sensors
 - ECUs
+- Pedals
 id: us-fmvss-127
 last_pulled: '2026-06-01T18:39:49+00:00'
+open_tags:
+- automatic emergency braking
+- forward collision warning
+- AEB system
+- vehicle test device
+- pedestrian test mannequin
+- adaptive cruise control
+- collision mitigation
+- brake intervention
+- AEB sensor fusion
+- forward collision avoidance
+- service brakes
+- auditory warning system
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.127
@@ -13,8 +27,8 @@ status: in-force
 systems:
 - Braking
 - ADAS
-- Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.
 un_equivalent_ai:

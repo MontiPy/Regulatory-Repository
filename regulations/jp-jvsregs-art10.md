@@ -2,12 +2,25 @@
 citation: JVSR Article 10
 commodities:
 - Brakes
-- Lighting modules
 - Horn
 - Wipers & washers
+- Lighting modules
 - Pedals
 id: jp-jvsregs-art10
 last_pulled: '2026-06-01T18:52:40+00:00'
+open_tags:
+- control device layout
+- driver ergonomics
+- ignition switch
+- clutch pedal
+- transmission selector
+- accelerator pedal
+- direction indicator switch
+- defroster control
+- washer fluid spray
+- windshield wiper switch
+- instrument panel controls
+- ministerial notice compliance
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
@@ -15,15 +28,20 @@ status: in-force
 systems:
 - Braking
 - Lighting & signaling
-- Tell-tales & controls
 - Visibility
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 10 — Control Devices
 translation_status: translated
 un_equivalent_ai:
 - UN R121
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 10 — Control Devices

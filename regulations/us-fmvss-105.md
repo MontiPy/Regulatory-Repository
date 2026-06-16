@@ -2,15 +2,34 @@
 citation: 49 CFR §571.105
 commodities:
 - Brakes
+- Wheels
+- Pedals
+- Batteries
+- Electric motors
+- Hoses & lines
 id: us-fmvss-105
 last_pulled: '2026-06-01T18:38:37+00:00'
+open_tags:
+- hydraulic brake system
+- electric brake system
+- antilock brake system
+- brake power assist unit
+- brake power unit
+- parking brake
+- regenerative braking system
+- master cylinder
+- brake fluid
+- wheel speed sensor
+- brake modulator
+- electrically-actuated brakes
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.105
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Battery safety
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.105 Standard No. 105; Hydraulic and electric brake systems.
 un_equivalent_ai:

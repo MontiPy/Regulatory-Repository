@@ -2,9 +2,21 @@
 citation: GSO-ECE 16
 commodities:
 - Seatbelts
-- Seats
 id: gcc-gso-ece-16
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- seat belt anchorage
+- lap belt
+- shoulder belt
+- retractor mechanism
+- belt buckle
+- pretensioner
+- load limiter
+- webbing
+- belt geometry
+- type approval
+- GSO 97
+- occupant restraint system
 paywall: true
 region: GCC
 source_api: gso
@@ -12,7 +24,8 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Safety Belts and Restraint Systems
 translation_status: untranslated
@@ -21,6 +34,7 @@ un_equivalent_ai:
 - UN R14
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Safety Belts and Restraint Systems

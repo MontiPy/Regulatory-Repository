@@ -2,8 +2,19 @@
 citation: KMVSS Article 93
 commodities:
 - Bumpers
+- Body structure
 id: kr-kmvss-art93
 last_pulled: '2026-05-23T15:31:02+00:00'
+open_tags:
+- front bumper
+- rear bumper
+- bumper fascia
+- energy absorber
+- bumper beam
+- low-speed impact
+- pedestrian legform
+- bumper height
+- impact protection
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -11,7 +22,7 @@ status: in-force
 systems:
 - Crashworthiness
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 93 — Bumper
 translation_status: translated

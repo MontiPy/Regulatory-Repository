@@ -4,13 +4,24 @@ commodities:
 - Body structure
 id: us-fmvss-221
 last_pulled: '2026-06-01T18:41:33+00:00'
+open_tags:
+- school bus body
+- body panel joint
+- joint strength
+- body panel
+- structural integrity
+- bus body structure
+- maintenance access panel
+- occupant compartment
+- tensile strength testing
+- ASTM E8 testing
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.221
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.221 Standard No. 221; School bus body joint strength.
 vehicle_categories:

@@ -2,19 +2,34 @@
 citation: ISO 22628
 commodities:
 - Batteries
+- ECUs
+- Wiring
 id: other-workbook-reg-0650-iso-22628
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- recyclability calculation
+- recoverability rate
+- end-of-life vehicles
+- IMDS material data
+- Bill of Materials
+- ELV compliance
+- material composition
+- plastic components
+- rubber components
+- interior trim
+- exterior trim
+- dismantling information
 paywall: true
 region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/35061.html
 status: in-force
-systems:
-- Battery safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems: []
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Recyclability and recoverability calculation method
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
 ---
 
 # Road vehicles - Recyclability and recoverability calculation method

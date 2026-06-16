@@ -1,11 +1,24 @@
 ---
 citation: CONTRAN 949/2022
 commodities:
-- Airbags
-- Seatbelts
 - Body structure
+- Airbags
+- Seats
 id: br-contran-949
 last_pulled: '2026-06-01T18:53:10+00:00'
+open_tags:
+- side impact barrier
+- pole impact
+- deformable barrier
+- lateral impact protection
+- MDB test
+- pole test
+- side airbag
+- thorax airbag
+- head curtain airbag
+- R-point
+- FMVSS 214
+- UN-R135
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9492022.pdf/@@download/file
@@ -13,7 +26,7 @@ status: in-force
 systems:
 - Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Side Impact Occupant Protection Against Deformable Barrier and Pole
 translation_status: untranslated

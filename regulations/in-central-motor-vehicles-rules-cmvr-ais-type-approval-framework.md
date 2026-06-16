@@ -1,27 +1,51 @@
 ---
 citation: Central Motor Vehicles Rules (CMVR) / AIS Type Approval Framework
-commodities: []
+commodities:
+- Body structure
+- Wiring
+- ECUs
+- Airbags
+- Seatbelts
+- Brakes
+- Lighting modules
+- Glass
+- Mirrors
+- Tires
+- Bumpers
+- Fuel system
 id: in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework
 last_pulled: '2026-06-05T14:32:23+00:00'
+open_tags:
+- type approval
+- CoP (Conformity of Production)
+- AIS standards
+- VIN labeling
+- homologation dossier
+- import certification
+- owner manual compliance
+- variant documentation
+- M1 category
+- CMVR compliance
+- ISOFIX anchorage
+- market access certification
 region: IN
 source_api: ais
 source_url: https://www.araiindia.com/certification/certification/vehicle
 status: in-force
 systems:
-- Vehicle identification
 - Crashworthiness
 - Restraints
-- Lighting & signaling
 - Braking
-- Steering
-- Tires & wheels
+- Lighting & signaling
 - Visibility
 - Emissions
+- Vehicle identification
+- Glazing
 - Fuel safety
-- ADAS
-- Battery safety
-- EV charging
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Tires & wheels
+- Steering
+- Noise
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: India passenger-vehicle type approval and AIS safety framework
 vehicle_categories:

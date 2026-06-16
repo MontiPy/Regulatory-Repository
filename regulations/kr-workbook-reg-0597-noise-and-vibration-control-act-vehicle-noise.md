@@ -2,18 +2,30 @@
 citation: Noise and Vibration Control Act / Vehicle Noise
 commodities:
 - Exhaust
-- ECUs
 - Horn
-- Electric motors
 id: kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- AVAS
+- acoustic vehicle alerting system
+- exterior noise
+- drive-by noise
+- intake noise
+- powertrain noise
+- noise type approval
+- pass-by noise test
+- ministerial decree
+- noise certification
+- sound level measurement
+- exhaust noise
 region: KR
 source_api: spreadsheet
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=228119&urlMode=engLsInfoR&viewCls=engLsInfoR
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-05T02:16:05+00:00'
+- Emissions
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Korea Motor Vehicle Noise Authentication and Standards
 translation_status: untranslated
@@ -23,6 +35,10 @@ un_equivalent_ai:
 - UN R138
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Korea Motor Vehicle Noise Authentication and Standards

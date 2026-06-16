@@ -1,30 +1,45 @@
 ---
 citation: SRRV / TRIAS / UN R28
 commodities:
-- Tires
+- Horn
 - Fuel system
+- Batteries
 - Fuel tanks
 - Hoses & lines
 - Power electronics
-- Batteries
-- ECUs
 id: jp-srrv-audible-warning-devices
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- audible warning device
+- horn assembly
+- AVAS
+- acoustic vehicle alerting system
+- vehicle approach warning
+- EV pedestrian warning
+- UN R28
+- TRIAS
+- SRRV
+- sound emitter
+- approach warning speaker
+- NVH
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 systems:
+- Noise
 - Fuel safety
 - Battery safety
-- Noise
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Audible Warning Devices
 translation_status: translated
 un_equivalent_ai:
 - UN R28
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Audible Warning Devices

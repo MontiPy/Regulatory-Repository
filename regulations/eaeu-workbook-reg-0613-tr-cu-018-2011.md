@@ -3,32 +3,26 @@ citation: TR CU 018/2011
 commodities: []
 id: eaeu-workbook-reg-0613-tr-cu-018-2011
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- whole-vehicle type approval
+- conformity of production
+- homologation dossier
+- VIN label
+- EAEU market access
+- ERA-GLONASS
+- customs clearance
+- Certificate of Conformity
+- owner manual localization
+- variant/version management
+- UNECE mutual recognition
+- import documentation
 region: EAEU
 source_api: spreadsheet
 source_url: https://docs.eaeunion.org/en/documents/306/2419/
 status: in-force
 systems:
-- Lighting & signaling
-- Braking
-- Steering
-- Tires & wheels
-- Crashworthiness
-- Restraints
-- Visibility
-- Emissions
-- Fuel safety
-- EMC
-- Battery safety
-- ADAS
-- Noise
-- Glazing
-- HVAC
 - Vehicle identification
-- Pedestrian protection
-- Theft prevention
-- Tell-tales & controls
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Technical Regulation on Safety of Wheeled Vehicles
 translation_status: untranslated
@@ -36,6 +30,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
 - Trailer
 ---

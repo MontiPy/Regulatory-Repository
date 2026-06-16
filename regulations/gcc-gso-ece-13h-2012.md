@@ -2,12 +2,24 @@
 citation: GSO-ECE 13H:2012
 commodities:
 - Brakes
-- Hoses & lines
 - Pedals
+- Hoses & lines
 - ECUs
-- Wiring
 id: gcc-gso-ece-13h-2012
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- master cylinder
+- brake booster
+- hydraulic brake circuit
+- ABS modulator
+- ESC hydraulic modulator
+- brake lines
+- wheel speed sensor
+- regenerative braking blending
+- brake pedal assembly
+- foundation brakes
+- warning lamp
+- brake fluid
 paywall: true
 region: GCC
 source_api: gso
@@ -15,7 +27,7 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Braking System of Passenger Cars and Multi Purpose Vehicles
 translation_status: untranslated
@@ -26,6 +38,7 @@ un_equivalent_ai:
 - UN R140
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Braking System of Passenger Cars and Multi Purpose Vehicles

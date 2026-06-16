@@ -2,15 +2,32 @@
 citation: 40 CFR Part 1066
 commodities:
 - Exhaust
+- Fuel system
+- Fuel tanks
 id: us-40cfr-part-1066
 last_pulled: '2026-06-01T18:45:59+00:00'
+open_tags:
+- exhaust emissions testing
+- evaporative emissions
+- refueling emissions
+- chassis dynamometer testing
+- emission measurement procedures
+- vehicle certification
+- FTP test cycle
+- light-duty vehicle testing
+- heavy-duty vehicle testing
+- emission standards compliance
+- selective enforcement audit
+- production-line testing
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-1066
 status: in-force
 systems:
 - Emissions
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Fuel safety
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 1066—VEHICLE-TESTING PROCEDURES
 un_equivalent_ai:
@@ -21,7 +38,6 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Motorcycle
-- Bus
 ---
 
 ## PART 1066—VEHICLE-TESTING PROCEDURES

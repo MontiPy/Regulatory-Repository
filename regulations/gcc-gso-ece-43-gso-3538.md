@@ -5,27 +5,44 @@ commodities:
 - Lighting modules
 - Wiring
 - ECUs
-- Mirrors
 id: gcc-gso-ece-43-gso-3538
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- safety glazing
+- laminated glass
+- optical test methods
+- light transmittance
+- luminous flux
+- lens optics
+- LED modules
+- beam aim
+- anti-glare
+- windshield glazing
+- automotive glass standards
+- photometric testing
 paywall: true
 region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
+- Glazing
 - Lighting & signaling
 - Visibility
-- Glazing
-- Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Safety Glazing and Optical Test Methods
 translation_status: untranslated
 un_equivalent_ai:
 - UN R43
 - UN R48
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Safety Glazing and Optical Test Methods

@@ -1,21 +1,34 @@
 ---
 citation: MVSR SOR-2010-201
 commodities:
+- Exhaust
 - Electric motors
 - Batteries
 - Fuel system
-- Fuel tanks
 id: ca-mvsr-sor-2010-201
 last_pulled: '2026-06-01T18:53:01+00:00'
+open_tags:
+- greenhouse gas emissions
+- CO2 standards
+- fuel economy
+- electric vehicle
+- plug-in hybrid electric vehicle
+- fuel cell vehicle
+- alcohol dual fuel vehicle
+- GHG compliance
+- fleet average emissions
+- CAFE equivalent
+- tailpipe emissions
+- model year standards
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html
 status: in-force
 systems:
 - Emissions
-- Battery safety
 - EV charging
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Battery safety
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
 un_equivalent_ai:

@@ -1,22 +1,45 @@
 ---
 citation: 49 CFR Part 591
-commodities: []
+commodities:
+- Bumpers
 id: us-cfr-part-591
 last_pulled: '2026-06-01T18:45:26+00:00'
+open_tags:
+- importation procedures
+- customs declaration
+- FMVSS conformance
+- nonconforming vehicles
+- registered importer
+- HS-7 declaration
+- bumper standard
+- salvage vehicle
+- reconstructed vehicle
+- low-volume manufacturer
+- replica motor vehicle
+- NHTSA importation
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-591
 status: in-force
 systems:
+- Crashworthiness
 - Theft prevention
-tagged_at: '2026-06-04T19:08:27+00:00'
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 591—IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER
   AND THEFT PREVENTION STANDARDS
 un_equivalent_ai:
 - UN R116
 - UN R162
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 ## PART 591—IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER AND THEFT PREVENTION STANDARDS

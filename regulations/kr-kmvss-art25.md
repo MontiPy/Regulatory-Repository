@@ -2,16 +2,29 @@
 citation: KMVSS Article 25
 commodities:
 - Seats
-- Seatbelts
 id: kr-kmvss-art25
 last_pulled: '2026-05-23T15:31:05+00:00'
+open_tags:
+- seat dimensions
+- seat width
+- seat depth
+- seatback height
+- seat spacing
+- head restraint
+- anthropomorphic test device
+- 5th percentile female ATD
+- sideways-facing seat
+- removable seat
+- school van
+- seat height
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Restraints
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 25 — Passenger Seat Dimensions
 translation_status: translated
@@ -19,9 +32,9 @@ un_equivalent_ai:
 - UN R17
 vehicle_categories:
 - Passenger car
+- Bus
 - Light truck
 - Heavy truck
-- Bus
 ---
 
 ## Article 25 — Passenger Seat Dimensions

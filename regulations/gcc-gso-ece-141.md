@@ -5,6 +5,19 @@ commodities:
 - Wheels
 id: gcc-gso-ece-141
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- TPMS sensor
+- tire pressure monitoring system
+- valve stem
+- wheel rim
+- tire placard
+- DOT/TIN marking
+- underinflation warning
+- tire load rating
+- bead seating
+- tire-to-vehicle traceability
+- GSO-ECE 141
+- GCC technical regulation
 paywall: true
 region: GCC
 source_api: gso
@@ -13,7 +26,8 @@ status: in-force
 systems:
 - Tires & wheels
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Tyre Pressure Monitoring Systems
 translation_status: untranslated

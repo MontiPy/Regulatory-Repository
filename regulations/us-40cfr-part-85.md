@@ -2,12 +2,23 @@
 citation: 40 CFR Part 85
 commodities:
 - Fuel system
-- Fuel tanks
-- Hoses & lines
-- Connectors
+- Exhaust
 - ECUs
 id: us-40cfr-part-85
 last_pulled: '2026-06-01T18:45:48+00:00'
+open_tags:
+- clean alternative fuel conversion
+- fuel conversion system
+- OBD compliance
+- tampering prohibition
+- dedicated vehicle
+- dual-fuel vehicle
+- flexible-fuel vehicle
+- alternative fuel
+- emission control
+- conversion manufacturer
+- heavy-duty engine
+- medium-duty passenger vehicle
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-85
@@ -16,7 +27,7 @@ systems:
 - Emissions
 - Fuel safety
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 85—CONTROL OF AIR POLLUTION FROM MOBILE SOURCES
 un_equivalent_ai:
@@ -26,7 +37,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 ---
 
 ## PART 85—CONTROL OF AIR POLLUTION FROM MOBILE SOURCES

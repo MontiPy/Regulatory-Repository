@@ -4,8 +4,22 @@ commodities:
 - ECUs
 - Airbags
 - Seatbelts
+- Brakes
 id: us-cfr-part-563
 last_pulled: '2026-06-01T18:44:10+00:00'
+open_tags:
+- event data recorder
+- EDR
+- crash data recording
+- delta-V
+- occupant restraint system
+- air bag control unit
+- ABS activity
+- ignition cycle counter
+- crash event data
+- data retrieval tool
+- frontal air bag deployment
+- vehicle dynamics recording
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-563
@@ -14,7 +28,7 @@ systems:
 - Crashworthiness
 - Restraints
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 563—EVENT DATA RECORDERS
 un_equivalent_ai:

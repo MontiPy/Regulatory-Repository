@@ -1,8 +1,26 @@
 ---
 citation: 40 CFR Part 600
-commodities: []
+commodities:
+- Exhaust
+- Fuel system
+- Batteries
+- Electric motors
+- Fuel tanks
 id: us-40cfr-part-600
 last_pulled: '2026-06-01T18:45:56+00:00'
+open_tags:
+- fuel economy
+- greenhouse gas emissions
+- CO2 emissions
+- alternative fuel vehicles
+- electric vehicles
+- flex-fuel vehicles
+- FTP test procedure
+- HFET test procedure
+- 5-cycle fuel economy
+- MDPV
+- fuel consumption labeling
+- model year applicability
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-600
@@ -10,8 +28,9 @@ status: in-force
 systems:
 - Emissions
 - Fuel safety
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- EV charging
+- Battery safety
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 600—FUEL ECONOMY AND GREENHOUSE GAS EXHAUST EMISSIONS OF MOTOR VEHICLES
 un_equivalent_ai:

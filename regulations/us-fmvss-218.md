@@ -3,13 +3,26 @@ citation: 49 CFR §571.218
 commodities: []
 id: us-fmvss-218
 last_pulled: '2026-06-01T18:41:23+00:00'
+open_tags:
+- motorcycle helmet
+- helmet shell
+- impact attenuation
+- penetration resistance
+- retention system
+- helmet liner
+- headform
+- helmet labeling
+- peripheral vision clearance
+- helmet certification
+- protective headgear
+- impact absorption
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.218
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.218 Standard No. 218; Motorcycle helmets.
 vehicle_categories:

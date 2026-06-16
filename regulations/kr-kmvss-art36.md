@@ -4,20 +4,33 @@ commodities:
 - Exhaust
 id: kr-kmvss-art36
 last_pulled: '2026-05-23T15:31:25+00:00'
+open_tags:
+- exhaust emission control
+- catalytic converter
+- emission limits
+- Clean Air Conservation Act
+- tailpipe emissions
+- exhaust aftertreatment
+- emission control system
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Emissions
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 36 — Exhaust Emission Control
 translation_status: translated
 un_equivalent_ai:
 - UN R83
 - UN R168
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 36 — Exhaust Emission Control

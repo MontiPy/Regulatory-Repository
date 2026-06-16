@@ -1,13 +1,26 @@
 ---
 citation: China SRRC / MIIT Radio Transmission Equipment Type Approval
 commodities:
-- Wiring
 - ECUs
 - ADAS sensors
-- Infotainment
+- Wiring
 - Connectors
+- Infotainment
 id: cn-china-srrc-miit-radio-transmission-equipment-type-approval
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- telematics unit
+- cellular modem
+- Bluetooth module
+- Wi-Fi module
+- UWB module
+- NFC module
+- keyless entry system
+- TPMS sensor
+- radar sensor
+- antenna
+- SRRC type approval
+- radio frequency certification
 paywall: true
 region: CN
 source_api: spreadsheet
@@ -18,7 +31,7 @@ systems:
 - ADAS
 - Cybersecurity
 - Theft prevention
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: China Telecom/RF - SRRC radio transmission equipment approval
 translation_status: untranslated

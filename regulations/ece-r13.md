@@ -2,18 +2,37 @@
 citation: UN R13
 commodities:
 - Brakes
+- Pedals
 id: ece-r13
 last_pulled: '2026-06-01T18:53:04+00:00'
+open_tags:
+- anti-lock braking system
+- ABS
+- electronic braking system
+- EBS
+- brake force distribution
+- brake lining
+- master cylinder
+- brake actuator
+- retarder
+- endurance braking
+- brake test procedure
+- trailer braking compatibility
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 13 — Braking of M, N and O Category Vehicles
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 # UN Regulation No. 13 — Braking of M, N and O Category Vehicles

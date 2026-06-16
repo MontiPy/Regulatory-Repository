@@ -3,18 +3,37 @@ citation: Road Vehicle Standards Act 2018 / Road Vehicle Standards Rules 2019
 commodities: []
 id: au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- type approval
+- Register of Approved Vehicles
+- RAV
+- Australian Design Rules
+- ADR compliance
+- conformity of production
+- VIN
+- import approval
+- market access
+- road vehicle standards
+- compliance plate
+- vehicle certification
 region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/road-vehicle-standards-laws
 status: in-force
 systems:
 - Vehicle identification
+- Emissions
 - Theft prevention
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Road Vehicle Standards - Supply, Type Approval and Compliance Framework
 vehicle_categories:
 - Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Road Vehicle Standards - Supply, Type Approval and Compliance Framework

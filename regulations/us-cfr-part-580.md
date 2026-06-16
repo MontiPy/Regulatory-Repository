@@ -3,15 +3,33 @@ citation: 49 CFR Part 580
 commodities: []
 id: us-cfr-part-580
 last_pulled: '2026-06-01T18:45:03+00:00'
+open_tags:
+- odometer disclosure
+- mileage disclosure
+- title transfer
+- electronic title
+- power of attorney
+- odometer fraud prevention
+- vehicle transfer
+- lessor lessee disclosure
+- odometer statement retention
+- auction company records
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-580
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:25+00:00'
+systems:
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 580—ODOMETER DISCLOSURE REQUIREMENTS
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## PART 580—ODOMETER DISCLOSURE REQUIREMENTS

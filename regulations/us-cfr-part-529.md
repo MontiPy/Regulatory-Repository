@@ -3,18 +3,32 @@ citation: 49 CFR Part 529
 commodities: []
 id: us-cfr-part-529
 last_pulled: '2026-06-01T18:43:08+00:00'
+open_tags:
+- multistage vehicle manufacturing
+- incomplete vehicle
+- fuel economy labeling
+- final-stage manufacturer
+- intermediate manufacturer
+- incomplete automobile manufacturer
+- road load horsepower
+- fuel economy compliance
+- CAFE compliance
+- multistage manufacturer responsibility
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-529
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- Emissions
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 529—MANUFACTURERS OF MULTISTAGE AUTOMOBILES
 un_equivalent_ai:
 - UN R101
 - UN R154
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 529—MANUFACTURERS OF MULTISTAGE AUTOMOBILES

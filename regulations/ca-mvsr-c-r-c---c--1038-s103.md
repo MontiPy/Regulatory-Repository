@@ -6,6 +6,19 @@ commodities:
 - Wipers & washers
 id: ca-mvsr-c-r-c---c--1038-s103
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- windshield defrost system
+- windshield defog system
+- defogging
+- defrosting
+- heat exchanger
+- blower motor
+- windshield area
+- SAE J902
+- cold weather starting
+- three-wheeled vehicle
+- windshield wiper
+- road load
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
@@ -13,7 +26,8 @@ status: in-force
 systems:
 - Visibility
 - HVAC
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Glazing
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 103
 vehicle_categories:

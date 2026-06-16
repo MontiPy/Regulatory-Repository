@@ -1,14 +1,33 @@
 ---
 citation: 49 CFR Part 579
-commodities: []
+commodities:
+- Airbags
+- Tires
+- Seatbelts
+- Seats
 id: us-cfr-part-579
 last_pulled: '2026-06-01T18:44:58+00:00'
+open_tags:
+- early warning reporting
+- defect reporting
+- safety recall
+- NHTSA reporting
+- foreign safety campaigns
+- noncompliance reporting
+- manufacturer obligations
+- motor vehicle safety defects
+- EWR
+- booster seat
+- tire identification number
+- air bag components
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-579
 status: in-force
-systems: []
-tagged_at: '2026-05-22T19:28:16+00:00'
+systems:
+- Restraints
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 579—REPORTING OF INFORMATION AND COMMUNICATIONS ABOUT POTENTIAL DEFECTS
 vehicle_categories:
@@ -17,6 +36,7 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
+- Trailer
 ---
 
 ## PART 579—REPORTING OF INFORMATION AND COMMUNICATIONS ABOUT POTENTIAL DEFECTS

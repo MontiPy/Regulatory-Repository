@@ -2,20 +2,35 @@
 citation: MVSR C.R.C.,_c._1038 s. 305
 commodities:
 - Batteries
-- Power electronics
 - Wiring
 - Connectors
+- Charging inlet
+- Power electronics
+- Electric motors
 - Fuel tanks
 id: ca-mvsr-c-r-c---c--1038-s305
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- electrolyte spillage
+- electrical shock protection
+- high voltage system
+- isolation resistance
+- electric vehicle safety
+- nominal voltage
+- propulsion system
+- three-wheeled vehicle
+- FMVSS 305 equivalent
+- TSD 305
+- high voltage interlock
+- electric drivetrain
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Battery safety
-- EMC
-tagged_at: '2026-06-04T19:08:26+00:00'
+- EV charging
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 305
 un_equivalent_ai:

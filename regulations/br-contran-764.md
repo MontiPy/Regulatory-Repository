@@ -2,21 +2,42 @@
 citation: CONTRAN 764/2018
 commodities:
 - Infotainment
+- ECUs
 id: br-contran-764
 last_pulled: '2026-06-01T18:53:17+00:00'
+open_tags:
+- multimedia device
+- navigation system
+- in-vehicle infotainment
+- GPS navigation
+- touchscreen display
+- audio system
+- type approval
+- vehicle display unit
+- IVI system
+- head unit
+- CONTRAN regulation
+- Brazilian vehicle certification
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- Tell-tales & controls
+- EMC
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Multimedia and Navigation Device
 translation_status: untranslated
 un_equivalent_ai:
 - UN R155
 - UN R10
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Multimedia and Navigation Device

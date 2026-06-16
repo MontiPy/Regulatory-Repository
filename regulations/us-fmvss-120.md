@@ -5,13 +5,26 @@ commodities:
 - Wheels
 id: us-fmvss-120
 last_pulled: '2026-06-01T18:39:22+00:00'
+open_tags:
+- rim marking
+- tire load rating
+- GAWR compliance
+- non-pneumatic spare tire
+- multi-piece rim
+- rim size designation
+- rim type designation
+- tire selection
+- load carrying capacity
+- motor home
+- recreation vehicle trailer
+- retreaded tires
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.120
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.120 Tire selection and rims and motor home/recreation vehicle trailer
   load carrying capacity information for motor vehicles with a GVWR of more than 4,536
@@ -21,9 +34,9 @@ un_equivalent_ai:
 - UN R142
 vehicle_categories:
 - Heavy truck
+- Motorcycle
 - Bus
 - Trailer
-- Motorcycle
 ---
 
 ## § 571.120 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds).

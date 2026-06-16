@@ -1,15 +1,34 @@
 ---
 citation: MVSR SOR-2003-2
-commodities: []
+commodities:
+- Exhaust
+- Fuel system
+- Fuel tanks
+- ECUs
 id: ca-mvsr-sor-2003-2
 last_pulled: '2026-06-01T18:52:51+00:00'
+open_tags:
+- emission control system
+- auxiliary emission control device
+- crankcase emissions
+- diesel engine
+- exhaust aftertreatment
+- on-road vehicle emissions
+- engine emission standards
+- auxiliary power unit
+- evaporative emissions
+- OBDII
+- engine calibration
+- emission certification
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html
 status: in-force
 systems:
 - Emissions
-tagged_at: '2026-06-04T19:08:25+00:00'
+- On-board diagnostics
+- Fuel safety
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
 un_equivalent_ai:
@@ -20,7 +39,6 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Motorcycle
-- Bus
 ---
 
 xml version="1.0"?SOR/2003-2200212:   12

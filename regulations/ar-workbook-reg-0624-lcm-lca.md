@@ -3,6 +3,19 @@ citation: LCM / LCA
 commodities: []
 id: ar-workbook-reg-0624-lcm-lca
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- type approval
+- whole-vehicle homologation
+- LCM license
+- LCA license
+- CoP records
+- VIN label
+- certification label
+- Mercosur type approval
+- import documentation
+- owner manual localization
+- market access approval
+- customs clearance
 region: AR
 source_api: spreadsheet
 source_url: https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo
@@ -10,7 +23,7 @@ status: in-force
 systems:
 - Emissions
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Argentina model configuration and environmental configuration licenses
 translation_status: untranslated

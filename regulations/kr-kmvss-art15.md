@@ -2,22 +2,43 @@
 citation: KMVSS Article 15
 commodities:
 - Brakes
+- Pedals
+- Wheels
+- Hoses & lines
 id: kr-kmvss-art15
 last_pulled: '2026-05-23T15:30:42+00:00'
+open_tags:
+- service brake
+- parking brake
+- anti-lock braking system
+- brake fluid reservoir
+- air-over-hydraulic brake
+- lining wear indicator
+- energy storage device
+- master cylinder
+- brake circuit
+- automatic brake adjuster
+- brake warning lamp
+- split braking system
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 15 — Braking System
 translation_status: translated
 un_equivalent_ai:
 - UN R13
 - UN R13H
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 15 — Braking System

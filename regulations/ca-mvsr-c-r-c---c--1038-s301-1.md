@@ -6,14 +6,26 @@ commodities:
 - Hoses & lines
 id: ca-mvsr-c-r-c---c--1038-s301-1
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- LPG fuel system
+- propane fuel system
+- LPG container
+- fuel spillage
+- collision barrier test
+- high-pressure fuel system
+- CSA B149.5
+- propane tank
+- LPG vehicle
+- three-wheeled vehicle
+- fuel system integrity
+- crash test
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Fuel safety
-- Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 301.1
 un_equivalent_ai:
@@ -22,6 +34,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
 ---
 

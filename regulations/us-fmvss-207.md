@@ -2,16 +2,30 @@
 citation: 49 CFR §571.207
 commodities:
 - Seats
+- Seatbelts
 id: us-fmvss-207
 last_pulled: '2026-06-01T18:40:36+00:00'
+open_tags:
+- seat adjuster
+- seat track
+- seat attachment
+- seat back
+- seating reference point
+- hinged seat
+- folding seat
+- self-locking restraining device
+- seat belt anchorage
+- designated seating position
+- forward-facing seat
+- rearward-facing seat
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.207
 status: in-force
 systems:
-- Restraints
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Restraints
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.207 Standard No. 207; Seating systems.
 un_equivalent_ai:

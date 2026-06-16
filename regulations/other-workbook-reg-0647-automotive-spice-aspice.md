@@ -4,6 +4,19 @@ commodities:
 - ECUs
 id: other-workbook-reg-0647-automotive-spice-aspice
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- software process assessment
+- ASPICE
+- software lifecycle
+- requirements management
+- software architecture
+- software verification
+- change management
+- supplier quality assurance
+- software release management
+- functional safety process
+- software integration testing
+- process capability
 paywall: true
 region: OTHER
 source_api: spreadsheet
@@ -11,7 +24,9 @@ source_url: https://vda-qmc.de/en/publications/automotive-spice/
 status: in-force
 systems:
 - Software updates
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Cybersecurity
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Automotive software process assessment model
 un_equivalent_ai:

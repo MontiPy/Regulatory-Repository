@@ -1,22 +1,38 @@
 ---
 citation: 49 CFR Part 587
-commodities: []
+commodities:
+- Body structure
+- Bumpers
 id: us-cfr-part-587
 last_pulled: '2026-06-01T18:45:20+00:00'
+open_tags:
+- moving deformable barrier
+- side impact barrier
+- MDB
+- crash test barrier
+- deformable face
+- side impact testing
+- compliance test tool
+- barrier face honeycomb
+- crabbable axle
+- ballast plate
+- hub assembly
+- carriage assembly
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-587
 status: in-force
 systems:
 - Crashworthiness
-- Restraints
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 587—DEFORMABLE BARRIERS
 un_equivalent_ai:
 - UN R94
 - UN R95
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 587—DEFORMABLE BARRIERS

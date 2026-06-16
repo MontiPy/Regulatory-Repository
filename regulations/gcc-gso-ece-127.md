@@ -1,15 +1,26 @@
 ---
 citation: GSO-ECE 127
 commodities:
-- Seats
 - Airbags
 - Seatbelts
-- ECUs
+- Seats
 - Body structure
 - Bumpers
-- Door latches & hinges
 id: gcc-gso-ece-127
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- body-in-white
+- restraint control module
+- occupant protection
+- pedestrian impact attenuator
+- hood deformation zone
+- belt anchorage
+- seat belt pretensioner
+- airbag ECU
+- HIC criterion
+- thorax impact
+- bumper beam
+- crash structure
 paywall: true
 region: GCC
 source_api: gso
@@ -19,14 +30,16 @@ systems:
 - Crashworthiness
 - Restraints
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Pedestrian Safety Performance
 translation_status: untranslated
 un_equivalent_ai:
 - UN R127
 - UN R114
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Pedestrian Safety Performance

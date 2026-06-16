@@ -1,26 +1,29 @@
 ---
 citation: KMVSS Article 31
 commodities:
-- Tires
-- Wheels
+- Seats
+- Body structure
 id: kr-kmvss-art31
 last_pulled: '2026-05-23T15:31:32+00:00'
+open_tags:
+- aisle clearance
+- passenger aisle
+- aisle measurement device
+- interior passageway
+- high-capacity van
+- seating arrangement
+- vehicle interior layout
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-systems:
-- Tires & wheels
-tagged_at: '2026-05-22T20:20:08+00:00'
+systems: []
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 31 — Aisles
 translation_status: translated
 vehicle_categories:
-- Passenger car
-- Light truck
-- Heavy truck
 - Bus
-- Motorcycle
 ---
 
 ## Article 31 — Aisles

@@ -5,20 +5,35 @@ commodities:
 - Hoses & lines
 id: ca-mvsr-c-r-c---c--1038-s116
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- brake fluid
+- hydraulic brake system
+- brake fluid specification
+- TSD 116
+- kinematic viscosity
+- rubber compatibility
+- trailer converter dolly
+- multi-purpose passenger vehicle
+- three-wheeled vehicle
+- FMVSS 116 equivalent
+- fluid standards
+- ASTM test methods
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 116
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
+- Trailer
 ---
 
 116(1)The hydraulic brake system of a every passenger car, multi-purpose passenger vehicle, truck, bus, three-wheeled vehicle, motorcycle, trailer, and trailer converter dolly shall contain brake fluid that conforms to the requirements of Technical Standards Document No. 116, Motor Vehicle Brake Fluids (TSD 116), as amended from time to time.(2)A reference in TSD 116 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.TABLE

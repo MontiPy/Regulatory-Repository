@@ -6,6 +6,19 @@ commodities:
 - Fuel system
 id: gcc-gso-ece-51
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- pass-by noise
+- exterior noise measurement
+- drive-by noise
+- noise certification
+- exhaust noise
+- intake noise
+- powertrain noise
+- GSO-ECE 51
+- acoustic testing
+- noise limits
+- OBD compliance
+- CO2 emissions
 paywall: true
 region: GCC
 source_api: gso
@@ -15,14 +28,19 @@ systems:
 - Emissions
 - Noise
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: External Noise Emissions
 translation_status: untranslated
 un_equivalent_ai:
 - UN R51
 - UN R138
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # External Noise Emissions

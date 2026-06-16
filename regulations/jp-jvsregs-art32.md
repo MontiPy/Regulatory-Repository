@@ -2,23 +2,46 @@
 citation: JVSR Article 32
 commodities:
 - Lighting modules
+- Wipers & washers
+- ADAS sensors
 id: jp-jvsregs-art32
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- driving beam headlights
+- passing beam headlights
+- adaptive driving beam headlights
+- ADB headlights
+- headlight leveling device
+- headlight cleaning device
+- headlamp washer
+- auto high beam
+- glare-free high beam
+- headlamp aim
+- luminous intensity
+- headlamp lens
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Lighting & signaling
+- ADAS
 - Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 32 — Headlights
 translation_status: translated
 un_equivalent_ai:
 - UN R123
 - UN R113
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 32 — Headlights

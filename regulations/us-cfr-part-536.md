@@ -3,12 +3,25 @@ citation: 49 CFR Part 536
 commodities: []
 id: us-cfr-part-536
 last_pulled: '2026-06-01T18:43:23+00:00'
+open_tags:
+- CAFE credits
+- fuel economy credits
+- corporate average fuel economy
+- credit trading
+- credit transfer
+- fuel economy standards
+- compliance credits
+- model year credits
+- domestically manufactured passenger cars
+- imported passenger cars
+- credit vintage
+- credit expiry
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-536
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 536—TRANSFER AND TRADING OF FUEL ECONOMY CREDITS
 un_equivalent_ai:

@@ -3,11 +3,26 @@ citation: AIS-038 Rev.2 / AIS-156
 commodities:
 - Batteries
 - Wiring
-- Connectors
 - Charging inlet
 - Power electronics
+- Electric motors
+- Connectors
+- ECUs
 id: in-ais-038-rev-2-ais-156
 last_pulled: '2026-06-05T14:32:23+00:00'
+open_tags:
+- traction battery
+- battery management system
+- high-voltage interlock
+- thermal runaway protection
+- battery enclosure
+- HV contactor
+- isolation resistance monitoring
+- abuse protection
+- battery thermal management
+- warning labels
+- IP protection rating
+- BMS
 paywall: true
 region: IN
 source_api: ais
@@ -16,13 +31,15 @@ status: in-force
 systems:
 - Battery safety
 - EV charging
-tagged_at: '2026-06-04T19:08:27+00:00'
+- EMC
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: India electric powertrain / traction battery safety standards
 un_equivalent:
 - UN R100
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # India electric powertrain / traction battery safety standards

@@ -2,24 +2,41 @@
 citation: Radiocommunications Equipment (General) Rules 2021 / ACMA
 commodities:
 - Infotainment
-- Connectors
+- ADAS sensors
+- ECUs
 - Wiring
+- Connectors
 id: au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- telematics unit
+- keyless entry module
+- tire pressure monitoring sensor
+- Bluetooth module
+- Wi-Fi module
+- cellular module
+- radar sensor
+- RF antenna
+- radio transmitter
+- TPMS
+- infotainment head unit
+- RF harness
 region: AU
 source_api: spreadsheet
 source_url: https://www.legislation.gov.au/F2021L00286/latest
 status: in-force
 systems:
 - EMC
-- Cybersecurity
-tagged_at: '2026-06-05T02:16:05+00:00'
+- ADAS
+- Theft prevention
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Australia RF Equipment Compliance for In-vehicle Radio Devices
 un_equivalent_ai:
 - UN R10
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Australia RF Equipment Compliance for In-vehicle Radio Devices

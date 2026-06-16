@@ -1,21 +1,35 @@
 ---
 citation: 49 CFR Part 538
 commodities:
+- Fuel system
 - Fuel tanks
 - Batteries
 - Electric motors
-- Power electronics
 id: us-cfr-part-538
 last_pulled: '2026-06-01T18:43:29+00:00'
+open_tags:
+- alternative fuel vehicle
+- dual-fuel automobile
+- CAFE compliance
+- Corporate Average Fuel Economy
+- natural gas vehicle
+- compressed natural gas
+- electric vehicle range
+- gallon equivalent
+- fuel economy measurement
+- alternative fuel incentive
+- driving range criterion
+- model year compliance
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-538
 status: in-force
 systems:
 - Fuel safety
-- Battery safety
 - EV charging
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Battery safety
+- Emissions
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 538—MANUFACTURING INCENTIVES FOR ALTERNATIVE FUEL VEHICLES
 un_equivalent_ai:

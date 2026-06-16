@@ -1,25 +1,32 @@
 ---
 citation: KMVSS Article 30
 commodities:
-- Brakes
+- Door latches & hinges
+- Body structure
 id: kr-kmvss-art30
 last_pulled: '2026-05-23T15:30:45+00:00'
+open_tags:
+- emergency exit
+- emergency door
+- exit hatch
+- passenger van
+- emergency egress
+- exit window
+- roof hatch
+- emergency exit latch
+- large van
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Braking
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 30 — Emergency Exits
 translation_status: translated
 vehicle_categories:
-- Passenger car
-- Light truck
-- Heavy truck
 - Bus
-- Motorcycle
 ---
 
 ## Article 30 — Emergency Exits

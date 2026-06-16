@@ -4,9 +4,21 @@ commodities:
 - Fuel system
 - Exhaust
 - ECUs
-- Hoses & lines
 id: ca-workbook-reg-0145-eccc-sor-2003-2
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- catalytic converter
+- particulate filter
+- EGR system
+- SCR system
+- urea injection
+- evaporative emissions control
+- OBD system
+- NOx sensor
+- lambda sensor
+- calibration software
+- MIL indicator
+- emission control system
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/sor-2003-2/index.html
@@ -14,7 +26,8 @@ status: in-force
 systems:
 - Emissions
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
 un_equivalent:

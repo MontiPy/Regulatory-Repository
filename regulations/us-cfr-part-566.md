@@ -3,16 +3,34 @@ citation: 49 CFR Part 566
 commodities: []
 id: us-cfr-part-566
 last_pulled: '2026-06-01T18:44:21+00:00'
+open_tags:
+- manufacturer registration
+- NHTSA identification
+- incomplete vehicle
+- final-stage manufacturer
+- intermediate manufacturer
+- replica motor vehicle
+- manufacturer code
+- motor vehicle equipment
+- corporate identification
+- VPIC portal
+- multi-stage manufacturing
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-566
 status: in-force
 systems:
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 566—MANUFACTURER IDENTIFICATION
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 ## PART 566—MANUFACTURER IDENTIFICATION

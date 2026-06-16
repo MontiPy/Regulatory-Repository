@@ -1,14 +1,25 @@
 ---
 citation: 49 CFR Part 525
-commodities: []
+commodities:
+- Fuel system
 id: us-cfr-part-525
 last_pulled: '2026-06-01T18:43:02+00:00'
+open_tags:
+- fuel economy standards
+- CAFE standards
+- low volume manufacturer exemption
+- average fuel economy
+- model year compliance
+- passenger automobile classification
+- fuel economy petition
+- alternative fuel economy standard
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-525
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- Emissions
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 525—EXEMPTIONS FROM AVERAGE FUEL ECONOMY STANDARDS
 un_equivalent_ai:

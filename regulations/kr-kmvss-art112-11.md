@@ -4,19 +4,28 @@ commodities:
 - Wheels
 id: kr-kmvss-art112-11
 last_pulled: '2026-05-23T15:31:29+00:00'
+open_tags:
+- wheel rim
+- wheel standards
+- passenger car wheels
+- towed vehicle wheels
+- gross vehicle weight 3.5t
+- wheel specification
+- ultra-compact vehicle exclusion
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 112-11 — Wheels
 translation_status: translated
 vehicle_categories:
 - Passenger car
 - Light truck
+- Trailer
 ---
 
 ## Article 112-11 — Wheels

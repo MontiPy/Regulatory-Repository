@@ -1,16 +1,35 @@
 ---
 citation: 49 CFR Part 541
-commodities: []
+commodities:
+- Body structure
+- Bumpers
+- Steering column
+- Seats
+- Mirrors
+- Wheels
 id: us-cfr-part-541
 last_pulled: '2026-06-01T18:43:34+00:00'
+open_tags:
+- parts marking
+- VIN labeling
+- VIN derivative
+- major parts marking
+- engine marking
+- transmission marking
+- theft deterrence
+- parts traceability
+- replacement parts
+- door panels
+- hood
+- decklid
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-541
 status: in-force
 systems:
-- Theft prevention
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Theft prevention
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 541—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD
 un_equivalent_ai:

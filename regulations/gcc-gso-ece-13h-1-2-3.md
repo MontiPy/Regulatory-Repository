@@ -3,10 +3,25 @@ citation: GSO-ECE 13H-1/2/3
 commodities:
 - Brakes
 - ECUs
-- ADAS sensors
 - Hoses & lines
+- ADAS sensors
+- Pedals
+- Wiring
 id: gcc-gso-ece-13h-1-2-3
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- master cylinder
+- hydraulic brake circuit
+- ABS modulator
+- ESC actuator
+- electronic parking brake
+- brake fluid
+- brake hose
+- wheel speed sensor
+- brake ECU
+- stopping distance test
+- energy storage device
+- brake pedal travel
 paywall: true
 region: GCC
 source_api: gso
@@ -15,7 +30,8 @@ status: in-force
 systems:
 - Braking
 - ADAS
-tagged_at: '2026-06-04T19:08:26+00:00'
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Brake System Test Methods and Energy Storage Tests
 translation_status: untranslated
@@ -24,6 +40,7 @@ un_equivalent_ai:
 - UN R140
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Brake System Test Methods and Energy Storage Tests

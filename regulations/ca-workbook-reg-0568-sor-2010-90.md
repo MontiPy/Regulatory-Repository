@@ -5,6 +5,19 @@ commodities:
 - Seatbelts
 id: ca-workbook-reg-0568-sor-2010-90
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- child restraint systems
+- booster seats
+- ISOFIX anchorage
+- LATCH hardware
+- tether anchorage
+- belt retractor
+- belt buckle
+- seat belt webbing
+- pretensioner
+- child seat compatibility
+- CMVSS 213
+- belt anchorage
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/
@@ -12,7 +25,7 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
 un_equivalent_ai:
@@ -20,6 +33,7 @@ un_equivalent_ai:
 - UN R129
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Motor Vehicle Restraint Systems and Booster Seats Safety Regulations

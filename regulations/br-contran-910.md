@@ -2,22 +2,34 @@
 citation: CONTRAN 910/2022
 commodities:
 - Fuel system
+- Body structure
 - Fuel tanks
 - Seats
 - Seatbelts
 - Airbags
-- Body structure
+- Bumpers
 id: br-contran-910
 last_pulled: '2026-06-01T18:53:07+00:00'
+open_tags:
+- frontal impact
+- side impact
+- rear impact
+- fuel system integrity
+- occupant protection
+- crash test
+- structural integrity
+- post-collision fuel leakage
+- barrier test
+- passive safety
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-910-de-28-de-marco-de-2022
 status: in-force
 systems:
-- Fuel safety
 - Crashworthiness
+- Fuel safety
 - Restraints
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Occupant Protection and Fuel System Integrity from Impact
 translation_status: untranslated
@@ -27,7 +39,9 @@ un_equivalent:
 - UN R94
 un_equivalent_ai:
 - UN R153
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Occupant Protection and Fuel System Integrity from Impact

@@ -3,16 +3,36 @@ citation: Register of Approved Vehicles (RAV)
 commodities: []
 id: au-workbook-reg-0371-register-of-approved-vehicles-rav
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- VIN
+- type approval
+- market entry
+- vehicle certification
+- compliance plate
+- RAV registration
+- import approval
+- first supply
+- road vehicle standards
+- approval number
+- variant/version data
+- national database
 region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/register-approved-vehicles
 status: in-force
 systems:
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Register of Approved Vehicles Entry Requirements
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # Register of Approved Vehicles Entry Requirements

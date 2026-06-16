@@ -4,22 +4,37 @@ commodities:
 - Fuel system
 - Fuel tanks
 - Hoses & lines
-- Connectors
-- Exhaust
 id: us-fmvss-307
 last_pulled: '2026-06-01T18:42:15+00:00'
+open_tags:
+- compressed hydrogen storage system
+- thermally-activated pressure relief device
+- hydrogen fuel cell
+- pressure relief device
+- fueling receptacle
+- shut-off valve
+- check valve
+- nominal working pressure
+- hydrogen concentration monitoring
+- CHSS container
+- hydrogen vehicle
+- fuel cell stack
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.307
 status: in-force
 systems:
 - Fuel safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.
 un_equivalent_ai:
 - UN R34
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.

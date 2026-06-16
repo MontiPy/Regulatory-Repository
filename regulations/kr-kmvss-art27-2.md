@@ -3,16 +3,29 @@ citation: KMVSS Article 27-2
 commodities:
 - Seats
 - Airbags
+- Body structure
 id: kr-kmvss-art27-2
 last_pulled: '2026-05-23T15:31:07+00:00'
+open_tags:
+- ISOFIX anchorage
+- child restraint system anchorage
+- lower anchorage
+- upper anchorage
+- tether anchorage
+- CRS anchorage
+- child seat mount
+- ISOFIX lower bar
+- top tether anchor
+- airbag deactivation switch
+- seating reference point
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 27-2 — Child Restraint System Anchorages
 translation_status: translated

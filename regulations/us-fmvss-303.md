@@ -4,9 +4,21 @@ commodities:
 - Fuel system
 - Fuel tanks
 - Hoses & lines
-- Connectors
 id: us-fmvss-303
 last_pulled: '2026-06-01T18:41:59+00:00'
+open_tags:
+- CNG fuel container
+- compressed natural gas
+- pressure regulator
+- CNG fuel system
+- bi-fuel vehicle
+- dedicated CNG vehicle
+- dual-fuel vehicle
+- service pressure
+- fuel system integrity
+- barrier crash test
+- CNG refueling label
+- high pressure fuel lines
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.303
@@ -14,7 +26,7 @@ status: in-force
 systems:
 - Fuel safety
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.303 Standard No. 303; Fuel system integrity of compressed natural gas
   vehicles.

@@ -3,9 +3,21 @@ citation: SRRV / TRIAS
 commodities:
 - Body structure
 - Bumpers
-- Door latches & hinges
 id: jp-srrv-body-structure-and-load-path
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- BIW
+- crash structures
+- load path
+- structural adhesives
+- spot welds
+- closures
+- pedestrian head protection
+- pedestrian leg protection
+- type approval
+- SRRV
+- TRIAS
+- body-in-white
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -13,7 +25,7 @@ status: in-force
 systems:
 - Crashworthiness
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Body Structure and Load Path
 translation_status: translated

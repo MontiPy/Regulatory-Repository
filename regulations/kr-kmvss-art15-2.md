@@ -1,22 +1,33 @@
 ---
 citation: KMVSS Article 15-2
 commodities:
-- ECUs
 - Brakes
-- Wiring
-- Power electronics
+- ECUs
 id: kr-kmvss-art15-2
 last_pulled: '2026-05-23T15:30:43+00:00'
+open_tags:
+- electronic stability control
+- ESC
+- yaw control
+- traction control system
+- anti-lock braking system
+- wheel speed sensor
+- steering angle sensor
+- lateral acceleration sensor
+- yaw rate sensor
+- brake actuator
+- ESC warning lamp
+- vehicle dynamics control
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- ADAS
 - Braking
+- ADAS
 - Tell-tales & controls
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 15-2 — Electronic Stability Control
 translation_status: translated

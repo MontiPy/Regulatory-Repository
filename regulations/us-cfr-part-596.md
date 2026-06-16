@@ -1,22 +1,39 @@
 ---
 citation: 49 CFR Part 596
 commodities:
+- Brakes
 - ADAS sensors
 id: us-cfr-part-596
 last_pulled: '2026-06-01T18:45:40+00:00'
+open_tags:
+- automatic emergency braking
+- AEB test device
+- pedestrian test mannequin
+- vehicle test device
+- soft car target
+- pedestrian target
+- radar cross section
+- compliance test equipment
+- active safety testing
+- vulnerable road user detection
+- ISO 19206
+- forward collision warning
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-596
 status: in-force
 systems:
+- Braking
 - ADAS
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 596—AUTOMATIC EMERGENCY BRAKING TEST DEVICES
 un_equivalent_ai:
 - UN R152
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 596—AUTOMATIC EMERGENCY BRAKING TEST DEVICES

@@ -2,10 +2,24 @@
 citation: 49 CFR §571.219
 commodities:
 - Glass
-- Fuel tanks
+- Body structure
+- Steering column
 - Wipers & washers
 id: us-fmvss-219
 last_pulled: '2026-06-01T18:41:28+00:00'
+open_tags:
+- windshield intrusion
+- protected zone template
+- instrument panel
+- cowl
+- hood latch
+- barrier crash test
+- windshield molding
+- daylight opening
+- occupant compartment
+- styrofoam template
+- windshield zone
+- frontal impact
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.219
@@ -13,7 +27,8 @@ status: in-force
 systems:
 - Crashworthiness
 - Glazing
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.219 Standard No. 219; Windshield zone intrusion.
 vehicle_categories:

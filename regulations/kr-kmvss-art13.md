@@ -1,14 +1,28 @@
 ---
 citation: KMVSS Article 13
 commodities:
-- Seatbelts
-- Fuel system
-- Horn
-- Wipers & washers
-- Pedals
 - Steering column
+- Wipers & washers
+- Horn
+- Fuel system
+- Lighting modules
+- Brakes
+- Pedals
 id: kr-kmvss-art13
 last_pulled: '2026-05-23T15:30:39+00:00'
+open_tags:
+- gear selector lever
+- automatic transmission
+- accelerator return device
+- lift axle
+- remote start device
+- hazard warning flasher
+- direction indicator
+- speedometer
+- engine coolant indicator
+- charging system indicator
+- hand controls identification marks
+- defrost system
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -18,7 +32,8 @@ systems:
 - Lighting & signaling
 - Braking
 - Steering
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Visibility
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 13 — Controls and Indicators
 translation_status: translated
@@ -29,7 +44,6 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Bus
-- Off-road
 ---
 
 ## Article 13 — Controls and Indicators

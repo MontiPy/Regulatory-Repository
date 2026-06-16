@@ -1,14 +1,29 @@
 ---
 citation: 49 CFR Part 534
-commodities: []
+commodities:
+- Fuel system
 id: us-cfr-part-534
 last_pulled: '2026-06-01T18:43:19+00:00'
+open_tags:
+- fuel economy credits
+- fuel consumption credits
+- CAFE compliance
+- corporate average fuel economy
+- manufacturer succession
+- control relationship
+- civil penalties
+- model year compliance
+- heavy-duty vehicle engines
+- fleet average
+- credit carryforward
+- credit carryback
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-534
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- Emissions
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 534—RIGHTS AND RESPONSIBILITIES OF MANUFACTURERS IN THE CONTEXT OF CHANGES
   IN CORPORATE RELATIONSHIPS

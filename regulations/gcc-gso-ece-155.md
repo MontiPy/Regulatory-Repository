@@ -6,6 +6,19 @@ commodities:
 - Connectors
 id: gcc-gso-ece-155
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- telematics unit
+- gateway ECU
+- E/E architecture
+- event data recorder
+- EDR
+- backend services
+- software update management
+- intrusion detection
+- cybersecurity controls
+- secure communication
+- over-the-air update
+- cryptographic module
 paywall: true
 region: GCC
 source_api: gso
@@ -14,14 +27,21 @@ status: in-force
 systems:
 - Cybersecurity
 - Software updates
-tagged_at: '2026-06-04T19:08:26+00:00'
+- On-board diagnostics
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Cyber Security Management System
 translation_status: untranslated
 un_equivalent_ai:
 - UN R155
 - UN R156
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Cyber Security Management System

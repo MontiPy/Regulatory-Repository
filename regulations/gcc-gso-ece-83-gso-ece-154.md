@@ -1,16 +1,26 @@
 ---
 citation: GSO-ECE 83 / GSO-ECE 154
 commodities:
-- ECUs
-- Batteries
-- Electric motors
-- Fuel system
 - Exhaust
+- Fuel system
 - Fuel tanks
+- ECUs
 - Hoses & lines
-- Power electronics
 id: gcc-gso-ece-83-gso-ece-154
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- aftertreatment system
+- catalytic converter
+- particulate filter
+- evaporative emission control
+- OBD monitor
+- WLTP test cycle
+- CO2 reporting
+- fuel economy labeling
+- NOx emissions
+- hybrid energy management
+- emission calibration
+- Euro emission standards
 paywall: true
 region: GCC
 source_api: gso
@@ -18,9 +28,9 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Pollutant Emissions / WLTP
 translation_status: untranslated

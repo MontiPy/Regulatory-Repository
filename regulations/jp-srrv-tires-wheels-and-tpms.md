@@ -5,20 +5,35 @@ commodities:
 - Wheels
 id: jp-srrv-tires-wheels-and-tpms
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- TPMS
+- tire pressure monitoring sensor
+- valve stems
+- tire placard
+- bead seating
+- tire load rating
+- tire size marking
+- DOT/TIN marking
+- rim fitment
+- type-approval
+- SRRV
+- TRIAS
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Tires, Wheels and TPMS
 translation_status: translated
 un_equivalent_ai:
 - UN R141
 - UN R142
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 # Tires, Wheels and TPMS

@@ -5,13 +5,26 @@ commodities:
 - Wheels
 id: us-fmvss-139
 last_pulled: '2026-06-01T18:40:10+00:00'
+open_tags:
+- pneumatic radial tires
+- tire load rating
+- tire labeling
+- bead construction
+- tire ply
+- innerliner
+- tread separation
+- snow tires
+- Alpine Symbol
+- extra load tire
+- LT tires
+- tire dimensions
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.139
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
 un_equivalent_ai:

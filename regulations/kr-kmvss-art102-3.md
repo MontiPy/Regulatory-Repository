@@ -1,15 +1,34 @@
 ---
 citation: KMVSS Article 102-3
-commodities: []
+commodities:
+- Body structure
+- Bumpers
+- Airbags
+- Seatbelts
+- Seats
 id: kr-kmvss-art102-3
 last_pulled: '2026-05-23T15:31:12+00:00'
+open_tags:
+- full frontal rigid barrier
+- frontal impact
+- occupant protection
+- crash test
+- dummy instrumentation
+- head injury criterion
+- chest deflection
+- femur load
+- steering column intrusion
+- FMVSS 208 equivalent
+- door integrity post-crash
+- KMVSS Attached Table 14-7
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Restraints
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 102-3 — Full Frontal Rigid Barrier Crash Safety
 translation_status: translated

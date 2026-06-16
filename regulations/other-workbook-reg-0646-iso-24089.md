@@ -4,6 +4,19 @@ commodities:
 - ECUs
 id: other-workbook-reg-0646-iso-24089
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- OTA update
+- SUMS
+- software update management system
+- telematics control unit
+- gateway ECU
+- ADAS controller
+- software version management
+- rollback mechanism
+- update campaign
+- cybersecurity controls
+- software release records
+- E/E architecture
 paywall: true
 region: OTHER
 source_api: spreadsheet
@@ -13,12 +26,18 @@ systems:
 - Software updates
 - Cybersecurity
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:27+00:00'
+- ADAS
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Software update engineering
 un_equivalent:
 - UN R156
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Road vehicles - Software update engineering

@@ -4,14 +4,27 @@ commodities:
 - Steering column
 id: us-fmvss-204
 last_pulled: '2026-06-01T18:40:26+00:00'
+open_tags:
+- steering shaft
+- steering column displacement
+- rearward displacement
+- crash barrier test
+- frontal impact
+- steering gear
+- occupant protection
+- chest injury prevention
+- head injury prevention
+- neck injury prevention
+- fixed collision barrier
+- steering wheel hub
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.204
 status: in-force
 systems:
-- Crashworthiness
 - Steering
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.204 Standard No. 204; Steering control rearward displacement.
 un_equivalent_ai:
@@ -19,7 +32,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
 - Bus
 ---
 

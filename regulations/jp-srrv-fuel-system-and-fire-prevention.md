@@ -6,8 +6,24 @@ commodities:
 - Hoses & lines
 - Batteries
 - Power electronics
+- Charging inlet
+- Wiring
+- Connectors
 id: jp-srrv-fuel-system-and-fire-prevention
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- REESS
+- high-voltage isolation
+- thermal runaway
+- service disconnect
+- CNG storage
+- LPG storage
+- hydrogen storage
+- evaporative emission control
+- crash shutoff valve
+- pressure relief device
+- contactor weld
+- HV interlock
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -15,7 +31,9 @@ status: in-force
 systems:
 - Fuel safety
 - Battery safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+- EV charging
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Fuel System and Fire Prevention
 translation_status: translated

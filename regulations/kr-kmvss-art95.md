@@ -5,6 +5,19 @@ commodities:
 - Seatbelts
 id: kr-kmvss-art95
 last_pulled: '2026-05-23T15:31:40+00:00'
+open_tags:
+- interior trim
+- headliner
+- floor covering
+- floor mat
+- seat back
+- armrest
+- head restraint
+- sun visor
+- interior panel
+- flame resistance
+- burn rate
+- passenger compartment materials
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -12,13 +25,16 @@ status: in-force
 systems:
 - Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 95 — Flame Resistance of Interior Materials
 translation_status: translated
 un_equivalent_ai:
 - UN R21
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Bus
 ---
 
 ## Article 95 — Flame Resistance of Interior Materials

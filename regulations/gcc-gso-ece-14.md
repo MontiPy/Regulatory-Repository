@@ -5,6 +5,19 @@ commodities:
 - Seatbelts
 id: gcc-gso-ece-14
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- seat belt anchorage
+- ISOFIX anchorage
+- LATCH hardware
+- tether anchor
+- belt retractor
+- pretensioner
+- buckle assembly
+- seat track
+- child restraint system
+- belt webbing
+- anchorage strength
+- occupant restraint
 paywall: true
 region: GCC
 source_api: gso
@@ -13,14 +26,18 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Safety-Belt Anchorages
 translation_status: untranslated
 un_equivalent_ai:
 - UN R14
 - UN R16
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 # Safety-Belt Anchorages

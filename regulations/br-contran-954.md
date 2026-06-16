@@ -1,18 +1,34 @@
 ---
 citation: CONTRAN 954/2022
 commodities:
+- Brakes
 - ECUs
 - ADAS sensors
+- Steering column
 id: br-contran-954
 last_pulled: '2026-06-01T18:53:14+00:00'
+open_tags:
+- Electronic Stability Control
+- ESC
+- Vehicle Stability Function
+- VSF
+- yaw rate sensor
+- lateral acceleration sensor
+- rollover mitigation
+- understeer control
+- oversteer control
+- wheel speed sensors
+- stability control system
+- electronic brake force distribution
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9542022.pdf/@@download/file
 status: in-force
 systems:
-- ADAS
+- Braking
 - Steering
-tagged_at: '2026-06-04T19:08:26+00:00'
+- ADAS
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Mandatory Electronic Stability Control
 translation_status: untranslated

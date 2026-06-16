@@ -5,13 +5,25 @@ commodities:
 - Body structure
 id: kr-kmvss-art102-2
 last_pulled: '2026-05-23T15:31:11+00:00'
+open_tags:
+- pedestrian head form impactor
+- pedestrian lower leg form impactor
+- pedestrian upper leg form impactor
+- head impact zone
+- leg impact zone
+- bumper lower reference line
+- HIC (Head Injury Criterion)
+- pedestrian impact test
+- hood/bonnet structure
+- front-end geometry
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Pedestrian protection
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 102-2 — Pedestrian Protection
 translation_status: translated

@@ -3,12 +3,25 @@ citation: 49 CFR Part 554
 commodities: []
 id: us-cfr-part-554
 last_pulled: '2026-06-01T18:43:54+00:00'
+open_tags:
+- FMVSS compliance
+- defect investigation
+- safety recall
+- NHTSA enforcement
+- noncompliance determination
+- safety-related defect
+- Office of Defects Investigation
+- Office of Vehicle Safety Compliance
+- manufacturer notification
+- compliance testing
+- investigative procedures
+- 49 USC Chapter 301
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-554
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 554—STANDARDS ENFORCEMENT AND DEFECTS INVESTIGATION
 vehicle_categories: []

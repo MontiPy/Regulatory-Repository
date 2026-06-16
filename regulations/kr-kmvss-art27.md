@@ -1,17 +1,32 @@
 ---
 citation: KMVSS Article 27
 commodities:
-- Fuel system
-- Fuel tanks
+- Seats
+- Seatbelts
 id: kr-kmvss-art27
 last_pulled: '2026-05-23T15:30:55+00:00'
+open_tags:
+- three-point seat belt
+- two-point seat belt
+- seat belt warning system
+- belt reminder
+- school van child restraint
+- adjustable seat belt
+- lap belt
+- shoulder belt
+- seat belt anchorage
+- driver seat belt reminder
+- passenger seat belt reminder
+- ISOFIX anchorage
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Fuel safety
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Restraints
+- Crashworthiness
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 27 — Seat Belt System
 translation_status: translated
@@ -23,7 +38,6 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Bus
-- Motorcycle
 ---
 
 ## Article 27 — Seat Belt System

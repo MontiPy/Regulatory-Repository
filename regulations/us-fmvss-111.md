@@ -2,15 +2,30 @@
 citation: 49 CFR §571.111
 commodities:
 - Mirrors
+- ADAS sensors
 id: us-fmvss-111
 last_pulled: '2026-06-01T18:38:53+00:00'
+open_tags:
+- rearview mirror
+- backup camera
+- rear visibility system
+- convex mirror
+- unit magnification mirror
+- camera monitor system
+- rear view image
+- outside rearview mirror
+- inside rearview mirror
+- field of view
+- low-speed vehicle
+- school bus
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.111
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-05-22T19:28:16+00:00'
+- ADAS
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.111 Standard No. 111; Rear visibility.
 un_equivalent_ai:
@@ -20,8 +35,8 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
 ---
 
 ## § 571.111 Standard No. 111; Rear visibility.

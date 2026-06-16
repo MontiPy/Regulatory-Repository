@@ -4,6 +4,19 @@ commodities:
 - Steering column
 id: gcc-gso-ece-79
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- steering gear
+- rack and pinion
+- power steering
+- electric power steering
+- EPS
+- steering linkage
+- steering wheel
+- tie rod
+- steering shaft
+- steering lock
+- GSO-ECE 79
+- GCC type approval
 paywall: true
 region: GCC
 source_api: gso
@@ -11,7 +24,7 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Steering
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Steering Equipment
 translation_status: untranslated

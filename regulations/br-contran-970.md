@@ -4,20 +4,40 @@ commodities:
 - Lighting modules
 id: br-contran-970
 last_pulled: '2026-06-01T18:53:17+00:00'
+open_tags:
+- headlamps
+- tail lamps
+- direction indicators
+- hazard warning lights
+- fog lamps
+- daytime running lights
+- retroreflectors
+- license plate illumination
+- emergency warning lights
+- amber warning lights
+- rotating beacons
+- position lamps
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9702022.pdf
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Lighting, Signalling Systems and Devices
 translation_status: untranslated
 un_equivalent_ai:
 - UN R48
 - UN R148
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Lighting, Signalling Systems and Devices

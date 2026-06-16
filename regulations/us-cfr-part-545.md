@@ -3,20 +3,34 @@ citation: 49 CFR Part 545
 commodities: []
 id: us-cfr-part-545
 last_pulled: '2026-06-01T18:43:44+00:00'
+open_tags:
+- parts marking
+- theft prevention standard
+- small-volume line
+- VIN marking
+- phase-in reporting
+- compliance reporting
+- NHTSA reporting
+- 49 CFR part 541
+- 49 CFR part 543
+- major parts marking
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-545
 status: in-force
 systems:
 - Theft prevention
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 545—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD PHASE-IN AND SMALL-VOLUME
   LINE REPORTING REQUIREMENTS
 un_equivalent_ai:
 - UN R162
 - UN R116
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 545—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD PHASE-IN AND SMALL-VOLUME LINE REPORTING REQUIREMENTS

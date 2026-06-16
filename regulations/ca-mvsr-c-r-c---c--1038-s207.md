@@ -4,13 +4,25 @@ commodities:
 - Seats
 id: ca-mvsr-c-r-c---c--1038-s207
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- seat anchorage
+- seat mounting
+- designated seating position
+- seat labelling
+- TSD 207
+- GVWR
+- motor home
+- three-wheeled vehicle
+- multi-purpose passenger vehicle
+- seat attachment hardware
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
+- Crashworthiness
 - Restraints
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 207
 un_equivalent_ai:

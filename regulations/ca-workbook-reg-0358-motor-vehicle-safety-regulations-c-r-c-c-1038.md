@@ -3,18 +3,31 @@ citation: Motor Vehicle Safety Regulations (C.R.C., c. 1038)
 commodities: []
 id: ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- compliance label
+- National Safety Mark
+- certification label
+- defect reporting
+- non-compliance notice
+- import declaration
+- CMVSS
+- owner manual
+- type approval
+- regulatory records
+- market entry certification
 region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/
 status: in-force
 systems:
 - Vehicle identification
-tagged_at: '2026-06-05T02:16:05+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Safety Regulations - Certification, Records, Importation and
   Defect/Non-compliance Provisions
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Motor Vehicle Safety Regulations - Certification, Records, Importation and Defect/Non-compliance Provisions

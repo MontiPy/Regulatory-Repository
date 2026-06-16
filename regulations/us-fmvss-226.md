@@ -2,9 +2,22 @@
 citation: 49 CFR §571.226
 commodities:
 - Glass
-- Seatbelts
+- Airbags
+- Body structure
 id: us-fmvss-226
 last_pulled: '2026-06-01T18:41:44+00:00'
+open_tags:
+- ejection mitigation
+- side curtain airbag
+- rollover protection
+- side window ejection
+- ejection impactor
+- side daylight opening
+- partial ejection
+- complete ejection
+- rollover curtain
+- window covering
+- occupant containment
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.226
@@ -13,7 +26,7 @@ systems:
 - Crashworthiness
 - Restraints
 - Glazing
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.226 Standard No. 226; Ejection Mitigation.
 un_equivalent_ai:

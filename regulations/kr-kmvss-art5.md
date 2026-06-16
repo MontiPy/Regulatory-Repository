@@ -1,18 +1,35 @@
 ---
 citation: KMVSS Article 5
-commodities: []
+commodities:
+- Suspension
+- Body structure
 id: kr-kmvss-art5
 last_pulled: '2026-05-23T15:30:30+00:00'
+open_tags:
+- ground clearance
+- ride height
+- underbody clearance
+- chassis clearance
+- minimum clearance
+- unloaded condition
+- curb height
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 5 — Minimum Ground Clearance
 translation_status: translated
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 5 — Minimum Ground Clearance

@@ -6,8 +6,22 @@ commodities:
 - Wiring
 - Connectors
 - Power electronics
+- Infotainment
 id: us-stub-dodd-frank-section-1502-regulation-eu-2017-821
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- conflict minerals
+- responsible sourcing
+- supply chain due diligence
+- IMDS
+- bill of materials
+- smelter/refiner data
+- restricted substances
+- supplier declarations
+- 3TG minerals
+- cobalt sourcing
+- REACH compliance
+- CSRD
 region: US
 source_api: spreadsheet
 source_url: https://eur-lex.europa.eu/eli/reg/2017/821/oj
@@ -15,10 +29,17 @@ status: in-force
 systems:
 - Battery safety
 - EV charging
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Conflict minerals and responsible sourcing due-diligence frameworks
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # Conflict minerals and responsible sourcing due-diligence frameworks

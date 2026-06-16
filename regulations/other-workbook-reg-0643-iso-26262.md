@@ -5,24 +5,34 @@ commodities:
 - ADAS sensors
 - Wiring
 - Connectors
-- Power electronics
 id: other-workbook-reg-0643-iso-26262
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- functional safety
+- ASIL
+- E/E architecture
+- safety case
+- hazard analysis and risk assessment
+- fault tolerance
+- fail-safe
+- software integrity
+- ISO 26262
+- safety lifecycle
+- diagnostic coverage
+- telematics gateway
 paywall: true
 region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/68383.html
 status: in-force
 systems:
+- ADAS
 - Braking
 - Steering
-- ADAS
-- Cybersecurity
 - On-board diagnostics
 - Software updates
-- Battery safety
-- EV charging
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Cybersecurity
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Functional safety
 un_equivalent:
@@ -32,6 +42,7 @@ un_equivalent_ai:
 - UN R156
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Road vehicles - Functional safety

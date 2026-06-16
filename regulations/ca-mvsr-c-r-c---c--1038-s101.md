@@ -1,16 +1,36 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 101
 commodities:
+- Lighting modules
+- Airbags
+- Wiring
 - ECUs
+- Infotainment
 id: ca-mvsr-c-r-c---c--1038-s101
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- instrument cluster
+- speedometer
+- odometer
+- turn signal indicator
+- hazard warning tell-tale
+- electronic stability control tell-tale
+- passenger airbag deactivation tell-tale
+- master lighting switch
+- automatic transmission control
+- controls and displays
+- TSD 101
+- owner's manual
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Lighting & signaling
+- Restraints
+- Braking
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 101 — General
 un_equivalent_ai:
@@ -19,6 +39,9 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 101(1)For the purposes of this section, control has the same meaning as in Technical Standards Document No. 101, Controls, Tell-tales, Indicators and Sources of Illumination (TSD 101).General(2)Every vehicle that is required by section 5 of these Regulations to conform to the standards set out in this section shall, in respect of the controls, tell-tales, indicators and sources of illumination that are fitted in the occupant compartment, conform to the requirements of TSD 101, as amended from time to time.Technical Standards Document No. 101(3)Despite S5.2.1 of TSD 101,(a)if the left turn signal and the right turn signal each have their own control or tell-tale, the arrows in the symbol required for the turn signals control or tell-tale may be disassociated and each arrow may be used separately as a distinct symbol;(b)if the left turn signal and the right turn signal each have their own tell-tale and the arrows in the symbol required for the turn signals tell-tale are disassociated so that each arrow is used separately as a distinct symbol, the simultaneous flashing of the left and right turn signal tell-tales may be used as the hazard warning signal tell-tale;(c)the identification of a control set out below is not required if the control is combined with the master lighting switch:(i)the control for the tail lamps, parking lamps, licence plate lamps, side marker lamps, identification lamps and clearance lamps, and(ii)the headlamp lower beam control;(d)if a single tell-tale is used to indicate more than one brake system condition, only the symbol required for the brake system malfunction shall be used;(e)the identification of a control set out below is not required if the control is an integral part of the key-locking system of the vehicle:(i)the engine start control, and(ii)the engine stop control;(f)the identification required for the drive position of the automatic transmission control may be replaced by a letter, a number, a combination of letters and numbers, or any symbol that is not set out in column 2 of the table to this section;(g)the symbol required for the engine start control may be replaced by the word “start”;(h)the symbol required for the engine stop control may be replaced by the word “stop”;(i)the symbol required for the electronic stability control system malfunction tell-tale may be replaced by the abbreviation “ESC”;(j)the symbol required for the electronic stability control system off control and tell-tale may be replaced by the abbreviation “ESC OFF”; and(k)until September 1, 2019, the symbol required for the passenger air bag deactivated control and tell-tale may be replaced by the words “passenger air bag off” or “pass air bag off”.Speedometers and Odometers(4)A speedometer shall indicate the speed of the vehicle in kilometres per hour or in kilometres per hour and miles per hour. The unit or units of measurement shall be identified on the speedometer or at a location adjacent to it.(5)A speedometer shall be illuminated whenever the vehicle’s propulsion system and headlamps are activated, unless the headlamps are being flashed for signalling purposes or are being operated as daytime running lamps.(6)An odometer or trip odometer shall indicate distances in kilometres or in miles. If the distances are indicated in miles, that unit of measurement shall be identified at a location adjacent to the odometer or trip odometer.Passenger Air Bag Deactivated Tell-tale(7)The tell-tale indicating that the passenger air bag has been deactivated shall be fitted in the interior of the vehicle(a)forward of and above the seating reference point of each front outboard designated seating position when the seat is in its forwardmost position; and(b)in such a manner that the tell-tale, when alight, is visible to the driver and any front passenger when they are restrained by seat belts that are adjusted in accordance with the vehicle manufacturer’s instructions.(8)Despite subsection (7), the tell-tale indicating that the passenger air bag has been deactivated(a)shall not be fitted at or adjacent to a location that can serve for storage if an object stored at that location will obstruct the tell-tale from the view of the driver and any front passenger when they are restrained by seat belts that are adjusted in accordance with the vehicle manufacturer’s instructions; and(b)shall not be fitted at a location where the tell-tale will not be completely visible to the driver when the driver is restrained by a seat belt that is adjusted in accordance with the vehicle manufacturer’s instructions and a rearward-facing child restraint system or an infant restraint system is installed in the forwardmost right outboard designated seating position.Owner’s Manual(9)The English and French versions of the owner’s manual shall contain an explanation of every symbol, word, abbreviation or letter used to identify a control, tell-tale or indicator that is fitted in the vehicle and is required to be identified under this section.Transitional Provision(10)Until September 1, 2019, a vehicle referred to in subsection (2) may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.TABLE

@@ -3,20 +3,31 @@ citation: Act on Recycling of End-of-Life Automobiles
 commodities:
 - Airbags
 - Batteries
-- ECUs
-- Wiring
-- Connectors
+- HVAC
 id: jp-srrv-japan-automobile-recycling-law
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- end-of-life vehicles
+- ELV recycling
+- shredder residue (ASR)
+- fluorocarbon recovery
+- hazardous substance control
+- material declarations
+- IMDS
+- recycling fees
+- disassembly information
+- plastics recycling
+- rubber recycling
+- airbag depollution
 region: JP
 source_api: spreadsheet
 source_url: https://www.japaneselawtranslation.go.jp/en/laws/view/3829
 status: in-force
 systems:
+- HVAC
 - Battery safety
 - Restraints
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Japan Automobile Recycling Law
 translation_status: translated
@@ -24,6 +35,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
 ---
 

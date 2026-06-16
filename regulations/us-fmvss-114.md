@@ -1,15 +1,32 @@
 ---
 citation: 49 CFR §571.114
-commodities: []
+commodities:
+- Steering column
+- ECUs
+- Wiring
 id: us-fmvss-114
 last_pulled: '2026-06-01T18:38:58+00:00'
+open_tags:
+- ignition lock cylinder
+- key interlock
+- transmission shift interlock
+- park lock mechanism
+- starting system
+- key reminder warning
+- rollaway prevention
+- anti-theft device
+- gear selector lock
+- keyless entry system
+- steering lock
+- ignition switch
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.114
 status: in-force
 systems:
 - Theft prevention
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Steering
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.114 Standard No. 114; Theft protection and rollaway prevention.
 un_equivalent_ai:

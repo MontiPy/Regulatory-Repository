@@ -2,23 +2,33 @@
 citation: MVSR C.R.C.,_c._1038 s. 131
 commodities:
 - Lighting modules
+- ADAS sensors
 id: ca-mvsr-c-r-c---c--1038-s131
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- stop signal arm
+- school bus pedestrian safety device
+- image recording system
+- red signal warning lamps
+- licence plate camera
+- stop arm
+- TSD 131
+- school bus safety
+- bilingual warning label
+- external camera
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 131 — Stop Signals
 un_equivalent_ai:
 - UN R148
 vehicle_categories:
-- Passenger car
-- Light truck
-- Heavy truck
 - Bus
 ---
 

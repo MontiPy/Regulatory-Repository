@@ -4,10 +4,21 @@ commodities:
 - Lighting modules
 - Wiring
 - ECUs
-- Mirrors
-- Connectors
 id: jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- turn signal lamps
+- position lamps
+- stop lamps
+- reverse lamps
+- LED modules
+- lens optics
+- lamp aim adjuster
+- light-signalling devices
+- reflectors
+- bulb modules
+- lighting ECU
+- exterior lamps
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -16,7 +27,7 @@ systems:
 - Lighting & signaling
 - Visibility
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Signal Lamps, Position Lamps, Stop Lamps and Reverse Lamps
 translation_status: translated

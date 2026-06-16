@@ -2,18 +2,28 @@
 citation: 49 CFR §571.212
 commodities:
 - Glass
-- Fuel tanks
+- Body structure
 id: us-fmvss-212
 last_pulled: '2026-06-01T18:40:52+00:00'
+open_tags:
+- windshield mounting
+- windshield retention
+- windshield periphery
+- windshield glazing
+- passive restraint system
+- barrier crash test
+- occupant ejection prevention
+- windshield bonding
+- windshield adhesive
+- frontal impact test
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.212
 status: in-force
 systems:
 - Crashworthiness
-- Restraints
 - Glazing
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.212 Standard No. 212; Windshield mounting.
 un_equivalent_ai:

@@ -5,6 +5,16 @@ commodities:
 - ADAS sensors
 id: jp-jvsregs-art48
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- automated driving system
+- type designation
+- self-driving device
+- ODD (operational design domain)
+- vehicle automation
+- ministerial notice compliance
+- SAE autonomy levels
+- automated vehicle safety
+- program-controlled driving
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
@@ -13,7 +23,7 @@ systems:
 - ADAS
 - Cybersecurity
 - Software updates
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 48 — Automated Driving Devices
 translation_status: translated
@@ -23,6 +33,8 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 48 — Automated Driving Devices

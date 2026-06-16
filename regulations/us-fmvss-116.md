@@ -5,21 +5,34 @@ commodities:
 - Hoses & lines
 id: us-fmvss-116
 last_pulled: '2026-06-01T18:39:02+00:00'
+open_tags:
+- brake fluid
+- hydraulic brake system
+- DOT 3
+- DOT 4
+- DOT 5
+- silicone base brake fluid
+- brake cup
+- elastomeric components
+- hydraulic system mineral oil
+- equilibrium reflux boiling point
+- kinematic viscosity
+- corrosion inhibition
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.116
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.116 Standard No. 116; Motor vehicle brake fluids.
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
 - Trailer
 ---
 

@@ -5,13 +5,26 @@ commodities:
 - Wheels
 id: us-fmvss-129
 last_pulled: '2026-06-01T18:39:54+00:00'
+open_tags:
+- non-pneumatic tire
+- temporary spare tire
+- non-pneumatic rim
+- wheel center member
+- tread wear indicator
+- lateral strength test
+- endurance test
+- high speed performance test
+- tire load rating
+- carcass
+- non-pneumatic tire identification code
+- spare tire labeling
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.129
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.
 un_equivalent_ai:

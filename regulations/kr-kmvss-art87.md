@@ -2,18 +2,28 @@
 citation: KMVSS Article 87
 commodities:
 - Pedals
-- ECUs
 - Wiring
-- Connectors
+- ECUs
 id: kr-kmvss-art87
 last_pulled: '2026-05-23T15:30:56+00:00'
+open_tags:
+- accelerator pedal
+- throttle control system
+- electronic throttle control
+- accelerator return spring
+- idle return mechanism
+- drive-by-wire
+- accelerator control circuit
+- throttle position sensor
+- fail-safe throttle
+- pedal return force
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 87 — Accelerator Control
 translation_status: translated

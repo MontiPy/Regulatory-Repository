@@ -3,13 +3,22 @@ citation: 49 CFR Part 542
 commodities: []
 id: us-cfr-part-542
 last_pulled: '2026-06-01T18:43:39+00:00'
+open_tags:
+- major parts marking
+- parts interchangeability
+- theft rate classification
+- median theft rate
+- parts traceability
+- light duty truck line selection
+- anti-theft compliance procedure
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-542
 status: in-force
 systems:
 - Theft prevention
-tagged_at: '2026-06-04T19:08:27+00:00'
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 542—PROCEDURES FOR SELECTING LIGHT DUTY TRUCK LINES TO BE COVERED BY THE
   THEFT PREVENTION STANDARD

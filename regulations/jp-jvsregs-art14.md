@@ -4,12 +4,23 @@ commodities:
 - Suspension
 id: jp-jvsregs-art14
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- coil springs
+- leaf springs
+- shock absorbers
+- suspension components
+- cushioning performance
+- ground impact absorption
+- towed vehicles
+- special purpose vehicles
+- hazardous materials transport
+- suspension strength standards
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems: []
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 14 — Suspension
 translation_status: translated
@@ -19,7 +30,10 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 14 — Suspension

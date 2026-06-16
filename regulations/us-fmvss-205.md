@@ -4,6 +4,19 @@ commodities:
 - Glass
 id: us-fmvss-205
 last_pulled: '2026-06-01T18:40:31+00:00'
+open_tags:
+- windshield glazing
+- safety glazing
+- laminated glass
+- tempered glass
+- glass-plastic glazing
+- shade band
+- AS-1 glazing
+- AS-4 glazing
+- aftermarket replacement glazing
+- ANSI/SAE Z26.1
+- pickup cover glazing
+- low speed vehicle windshield
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.205
@@ -11,7 +24,8 @@ status: in-force
 systems:
 - Glazing
 - Visibility
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.205 Standard No. 205, Glazing materials.
 un_equivalent_ai:
@@ -20,8 +34,8 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Bus
 - Motorcycle
+- Bus
 ---
 
 ## § 571.205 Standard No. 205, Glazing materials.

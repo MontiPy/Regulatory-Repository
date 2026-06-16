@@ -2,21 +2,38 @@
 citation: KMVSS Article 53-3
 commodities:
 - Horn
+- Electric motors
 id: kr-kmvss-art53-3
 last_pulled: '2026-05-23T15:31:35+00:00'
+open_tags:
+- AVAS
+- acoustic vehicle alerting system
+- electric vehicle
+- hybrid vehicle
+- fuel cell vehicle
+- low-noise vehicle
+- pedestrian warning sound
+- external sound generator
+- propulsion noise
+- low-speed alert
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Noise
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Pedestrian protection
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 53-3 — Acoustic Vehicle Alerting System
 translation_status: translated
 un_equivalent_ai:
 - UN R138
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 53-3 — Acoustic Vehicle Alerting System

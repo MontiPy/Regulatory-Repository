@@ -3,16 +3,28 @@ citation: 49 CFR §571.110
 commodities:
 - Tires
 - Wheels
-- Batteries
 id: us-fmvss-110
 last_pulled: '2026-06-01T18:38:52+00:00'
+open_tags:
+- tire load rating
+- rim size designation
+- GVWR
+- GAWR
+- non-pneumatic spare tire assembly
+- T-type temporary spare tire
+- LT tire
+- ST tire
+- vehicle capacity weight
+- cold inflation pressure
+- tire selection
+- load carrying capacity
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.110
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.110 Tire selection and rims and motor home/recreation vehicle trailer
   load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms

@@ -6,8 +6,24 @@ commodities:
 - Body structure
 - Bumpers
 - Steering column
+- Door latches & hinges
+- Seats
+- Pedals
 id: ece-r94
 last_pulled: '2026-06-01T18:53:05+00:00'
+open_tags:
+- frontal impact
+- offset deformable barrier
+- occupant protection
+- crash test
+- head restraint
+- ISOFIX anchorage
+- knee bolster
+- pretensioner
+- load limiter
+- thorax airbag
+- dashboard deformation
+- belt anchorage
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
@@ -15,15 +31,12 @@ status: in-force
 systems:
 - Crashworthiness
 - Restraints
-- Pedestrian protection
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 94 — Frontal Collision Protection
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
-- Bus
 ---
 
 # UN Regulation No. 94 — Frontal Collision Protection

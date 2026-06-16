@@ -1,16 +1,33 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 102
 commodities:
+- Steering column
+- Brakes
 - Pedals
 id: ca-mvsr-c-r-c---c--1038-s102
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- automatic transmission
+- manual transmission
+- transmission control
+- park position
+- neutral position
+- gear selector
+- engine braking
+- ignition interlock
+- brake-shift interlock
+- clutch interlock
+- transmission position indicator
+- drivetrain
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Braking
+- Theft prevention
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 102
 un_equivalent_ai:

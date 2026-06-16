@@ -1,16 +1,25 @@
 ---
 citation: KMVSS Article 39
 commodities:
-- Mirrors
+- Lighting modules
 id: kr-kmvss-art39
 last_pulled: '2026-05-23T15:31:23+00:00'
+open_tags:
+- reversing lamp
+- reverse light
+- white light
+- rear lamp
+- backup light
+- luminous intensity
+- lamp installation
+- ultra-compact vehicle
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- Visibility
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Lighting & signaling
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 39 — Reversing Lamps
 translation_status: translated
@@ -21,7 +30,7 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Bus
-- Motorcycle
+- Trailer
 ---
 
 ## Article 39 — Reversing Lamps

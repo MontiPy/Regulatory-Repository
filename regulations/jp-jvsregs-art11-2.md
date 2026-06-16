@@ -1,9 +1,22 @@
 ---
 citation: JVSR Article 11_2
 commodities:
+- Brakes
+- Steering column
 - ECUs
 id: jp-jvsregs-art11-2
 last_pulled: '2026-06-01T18:52:40+00:00'
+open_tags:
+- immobilizer
+- locking device
+- engine immobilizer
+- power transmission lock
+- anti-theft system
+- electronic engine stop
+- vehicle security
+- ignition lock
+- drivetrain lock
+- steering lock
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
@@ -12,8 +25,7 @@ systems:
 - Braking
 - Steering
 - Theft prevention
-- Cybersecurity
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 11_2 — Locking Devices
 translation_status: translated
@@ -23,6 +35,7 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Motorcycle
 ---
 
 ## Article 11-2 — Locking Devices

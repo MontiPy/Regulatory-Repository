@@ -2,19 +2,31 @@
 citation: ERA-GLONASS emergency call requirements
 commodities:
 - ECUs
-- Batteries
 - Wiring
 - Connectors
 id: eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- telematics control unit
+- ERA-GLONASS
+- eCall system
+- GNSS receiver
+- cellular modem
+- backup power supply
+- emergency call button
+- crash sensor interface
+- in-vehicle emergency call
+- TCU
+- backend service interface
+- microphone and speaker assembly
 region: EAEU
 source_api: spreadsheet
 source_url: https://en.glonassunion.ru/era-glonass/info
 status: in-force
 systems:
+- EMC
 - Cybersecurity
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Automatic emergency call equipment requirements linked to EAEU/Russia vehicle
   approval
@@ -23,6 +35,7 @@ un_equivalent:
 - UN R144
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Automatic emergency call equipment requirements linked to EAEU/Russia vehicle approval

@@ -4,20 +4,32 @@ commodities:
 - Airbags
 id: us-cfr-part-595
 last_pulled: '2026-06-01T18:45:36+00:00'
+open_tags:
+- airbag on-off switch
+- retrofit airbag switch
+- airbag deactivation
+- telltale indicator
+- disability modification
+- make inoperative exemption
+- airbag readiness indicator
+- key-operated switch
+- occupant protection
+- FMVSS 208
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-595
 status: in-force
 systems:
 - Restraints
-- Crashworthiness
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 595—MAKE INOPERATIVE EXEMPTIONS
 un_equivalent_ai:
 - UN R114
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
 ---
 
 ## PART 595—MAKE INOPERATIVE EXEMPTIONS

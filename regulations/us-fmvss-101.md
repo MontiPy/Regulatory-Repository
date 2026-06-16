@@ -1,15 +1,32 @@
 ---
 citation: 49 CFR §571.101
-commodities: []
+commodities:
+- Infotainment
+- Wiring
+- Lighting modules
 id: us-fmvss-101
 last_pulled: '2026-06-01T18:38:17+00:00'
+open_tags:
+- instrument cluster
+- dashboard controls
+- telltale lamps
+- warning indicators
+- multifunction controls
+- multi-task display
+- driver controls
+- symbol identification
+- control illumination
+- tire pressure warning lamp
+- TPMS telltale
+- control panel
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.101
 status: in-force
 systems:
 - Tell-tales & controls
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Lighting & signaling
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.101 Standard No. 101; Controls and displays.
 un_equivalent_ai:

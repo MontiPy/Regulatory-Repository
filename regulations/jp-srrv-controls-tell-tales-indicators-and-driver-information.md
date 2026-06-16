@@ -4,10 +4,21 @@ commodities:
 - Lighting modules
 - Wiring
 - ECUs
-- Mirrors
-- Glass
 id: jp-srrv-controls-tell-tales-indicators-and-driver-information
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- exterior lamps
+- reflectors
+- light-signalling devices
+- lighting ECU
+- lens optics
+- LED modules
+- bulb modules
+- aim adjusters
+- instrument panel telltales
+- HMI display
+- tell-tale logic
+- type-approval
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
@@ -16,7 +27,7 @@ systems:
 - Lighting & signaling
 - Visibility
 - Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Controls, Tell-tales, Indicators and Driver Information
 translation_status: translated

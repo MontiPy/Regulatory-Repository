@@ -1,15 +1,35 @@
 ---
 citation: 47 CFR Part 15
-commodities: []
+commodities:
+- ECUs
+- Infotainment
+- ADAS sensors
+- Wiring
+- Connectors
 id: us-47cfr-part-15
 last_pulled: '2026-06-01T18:46:01+00:00'
+open_tags:
+- RF emissions
+- radio frequency devices
+- intentional radiator
+- unintentional radiator
+- wireless modules
+- telematics
+- V2X radio
+- vehicle electronics
+- electromagnetic interference
+- equipment authorization
+- FCC Part 15
+- biomedical telemetry
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-47/part-15
 status: in-force
 systems:
 - EMC
-tagged_at: '2026-06-04T19:08:26+00:00'
+- ADAS
+- Cybersecurity
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 15—RADIO FREQUENCY DEVICES
 un_equivalent_ai:

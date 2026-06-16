@@ -4,8 +4,24 @@ commodities:
 - Brakes
 - ECUs
 - ADAS sensors
+- Steering column
+- Wheels
+- Pedals
 id: us-fmvss-136
 last_pulled: '2026-06-01T18:40:04+00:00'
+open_tags:
+- electronic stability control
+- yaw rate sensor
+- lateral accelerometer
+- rollover mitigation
+- understeer control
+- oversteer control
+- brake torque vectoring
+- closed-loop control algorithm
+- side slip estimation
+- engine torque intervention
+- trailer brake control
+- vehicle dynamics control
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.136
@@ -14,7 +30,7 @@ systems:
 - Braking
 - Steering
 - ADAS
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.136 Standard No. 136; Electronic stability control systems for heavy
   vehicles.

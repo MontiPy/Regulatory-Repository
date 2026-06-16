@@ -3,12 +3,21 @@ citation: 49 CFR Part 537
 commodities: []
 id: us-cfr-part-537
 last_pulled: '2026-06-01T18:43:24+00:00'
+open_tags:
+- CAFE reporting
+- fuel economy standards
+- average fuel economy
+- NHTSA compliance reporting
+- pre-model year report
+- mid-model year report
+- fuel economy compliance
+- automobile manufacturer reporting
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-537
 status: in-force
 systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 537—AUTOMOTIVE FUEL ECONOMY REPORTS
 un_equivalent_ai:

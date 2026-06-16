@@ -1,14 +1,33 @@
 ---
 citation: ANATEL Certification and Homologation
-commodities: []
+commodities:
+- Infotainment
+- ECUs
+- Wiring
+- Connectors
 id: br-anatel-cert
 last_pulled: '2026-06-01T18:53:28+00:00'
+open_tags:
+- telecommunications certification
+- homologation
+- ANATEL
+- radio frequency devices
+- wireless modules
+- telematics units
+- V2X communication
+- OBD telematics
+- connected vehicle devices
+- type approval
+- RF certification
+- embedded modems
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/anatel/pt-br/regulado/certificacao
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- EMC
+- Cybersecurity
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Brazil Telecommunications Product Certification and Homologation
 translation_status: untranslated

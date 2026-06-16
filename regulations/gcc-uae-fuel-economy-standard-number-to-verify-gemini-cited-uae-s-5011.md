@@ -1,16 +1,28 @@
 ---
 citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
 commodities:
-- ECUs
-- Batteries
-- Electric motors
 - Fuel system
 - Exhaust
+- ECUs
 - Fuel tanks
-- Hoses & lines
+- Batteries
+- Electric motors
 - Power electronics
 id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- fuel economy labeling
+- CO2 reporting
+- OBD monitors
+- evaporative emissions
+- hybrid energy management
+- aftertreatment system
+- fuel economy certification
+- NOx/HC/CO/PM emissions
+- Euro-equivalent emission limits
+- consumer fuel economy label
+- GCC emissions standard
+- powertrain calibration
 paywall: true
 region: GCC
 source_api: gso
@@ -18,11 +30,11 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
-- Battery safety
+- Fuel safety
 - EV charging
-tagged_at: '2026-06-05T02:16:05+00:00'
+- Battery safety
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UAE Fuel Economy Program / Labeling
 translation_status: untranslated

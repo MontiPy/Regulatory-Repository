@@ -1,38 +1,60 @@
 ---
 citation: Road Transport Vehicle Act / Type Designation System
-commodities: []
+commodities:
+- ECUs
+- Batteries
+- Exhaust
+- Body structure
+- Fuel system
+- Fuel tanks
+- Wiring
+- Seats
+- Airbags
+- Seatbelts
+- Brakes
+- Lighting modules
 id: jp-srrv-japanese-vehicle-type-approval-type-designation-framework
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- type approval
+- production conformity
+- homologation
+- VIN plate
+- recall management
+- MLIT certification
+- type designation
+- whole vehicle type approval
+- field campaign
+- conformity of production
+- market access certification
+- environmental performance testing
 region: JP
 source_api: spreadsheet
 source_url: https://www.ntsel.go.jp/e/kansa/
 status: in-force
 systems:
-- Lighting & signaling
-- Braking
-- Steering
-- Tires & wheels
 - Crashworthiness
 - Restraints
-- Visibility
 - Emissions
-- Fuel safety
-- EMC
-- Battery safety
-- ADAS
-- Noise
-- Glazing
-- HVAC
+- Braking
+- Lighting & signaling
 - Vehicle identification
-- Pedestrian protection
-- Tell-tales & controls
+- Fuel safety
+- Battery safety
 - On-board diagnostics
-tagged_at: '2026-06-05T02:16:05+00:00'
+- Steering
+- Visibility
+- Tires & wheels
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Japanese Vehicle Type Approval / Type Designation Framework
 translation_status: translated
 vehicle_categories:
 - Passenger car
+- Light truck
+- Motorcycle
+- Bus
+- Heavy truck
 ---
 
 # Japanese Vehicle Type Approval / Type Designation Framework

@@ -1,15 +1,28 @@
 ---
 citation: 49 CFR Part 543
-commodities: []
+commodities:
+- ECUs
 id: us-cfr-part-543
 last_pulled: '2026-06-01T18:43:40+00:00'
+open_tags:
+- antitheft device
+- immobilizer
+- parts-marking
+- vehicle theft prevention standard
+- ignition immobilizer
+- passive antitheft system
+- active antitheft system
+- theft deterrent system
+- OEM antitheft
+- parts labeling exemption
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-543
 status: in-force
 systems:
 - Theft prevention
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 543—EXEMPTION FROM VEHICLE THEFT PREVENTION STANDARD
 un_equivalent:

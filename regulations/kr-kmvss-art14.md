@@ -3,8 +3,22 @@ citation: KMVSS Article 14
 commodities:
 - Steering column
 - Wheels
+- Wiring
 id: kr-kmvss-art14
 last_pulled: '2026-05-23T15:30:40+00:00'
+open_tags:
+- steering wheel
+- steering linkage
+- tie rod
+- rack and pinion
+- steering gear
+- wheel alignment
+- toe setting
+- lateral slip
+- steering free play
+- steering force
+- articulated vehicle steering
+- locking device
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
@@ -12,7 +26,7 @@ status: in-force
 systems:
 - Steering
 - EMC
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 14 — Steering System
 translation_status: translated

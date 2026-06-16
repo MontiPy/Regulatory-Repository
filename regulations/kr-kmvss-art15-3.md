@@ -1,24 +1,40 @@
 ---
 citation: KMVSS Article 15-3
 commodities:
-- ECUs
+- Brakes
 - ADAS sensors
+- ECUs
 id: kr-kmvss-art15-3
 last_pulled: '2026-05-23T15:30:44+00:00'
+open_tags:
+- autonomous emergency braking
+- AEB system
+- forward collision warning
+- automatic emergency braking ECU
+- radar sensor
+- camera sensor
+- lidar sensor
+- collision avoidance
+- brake actuator
+- active safety system
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
-- ADAS
 - Braking
-tagged_at: '2026-06-04T19:08:26+00:00'
+- ADAS
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 15-3 — Autonomous Emergency Braking
 translation_status: translated
 un_equivalent_ai:
 - UN R152
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 15-3 — Autonomous Emergency Braking

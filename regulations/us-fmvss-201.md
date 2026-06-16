@@ -1,15 +1,32 @@
 ---
 citation: 49 CFR §571.201
-commodities: []
+commodities:
+- Body structure
+- Airbags
+- Seats
 id: us-fmvss-201
 last_pulled: '2026-06-01T18:40:15+00:00'
+open_tags:
+- A-pillar
+- B-pillar
+- upper interior head protection system
+- free motion headform
+- interior rear quarter panel
+- convertible roof frame
+- pillar trim
+- head impact protection
+- interior padding
+- occupant compartment
+- rollbar brace
+- door frame
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.201
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Restraints
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.201 Standard No. 201; Occupant protection in interior impact.
 un_equivalent_ai:

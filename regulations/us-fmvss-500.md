@@ -1,25 +1,42 @@
 ---
 citation: 49 CFR §571.500
 commodities:
-- Glass
 - Lighting modules
-- Seatbelts
 - Mirrors
+- Brakes
+- Glass
+- Seatbelts
 - Batteries
 - Horn
 id: us-fmvss-500
 last_pulled: '2026-06-01T18:42:35+00:00'
+open_tags:
+- low-speed vehicle
+- LSV
+- headlamps
+- turn signal lamps
+- taillamps
+- stop lamps
+- reflex reflectors
+- parking brake
+- windshield glazing
+- VIN plate
+- seat belt assembly
+- alert sound system
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.500
 status: in-force
 systems:
 - Lighting & signaling
+- Braking
 - Restraints
 - Visibility
 - Glazing
 - Vehicle identification
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Pedestrian protection
+- Noise
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.500 Standard No. 500; Low-speed vehicles.
 vehicle_categories: []

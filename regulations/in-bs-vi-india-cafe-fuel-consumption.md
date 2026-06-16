@@ -1,26 +1,39 @@
 ---
 citation: BS-VI / India CAFE / Fuel Consumption
 commodities:
-- ECUs
-- Fuel system
 - Exhaust
+- Fuel system
 - Fuel tanks
-- Hoses & lines
-- Power electronics
+- ECUs
 - Batteries
 - Electric motors
+- Power electronics
 id: in-bs-vi-india-cafe-fuel-consumption
 last_pulled: '2026-06-05T14:32:23+00:00'
+open_tags:
+- aftertreatment system
+- catalytic converter
+- particulate filter
+- NOx control
+- evaporative emission control
+- road load determination
+- CO2 fleet average
+- CAFE compliance
+- Bharat Stage VI
+- OBD monitoring
+- hybrid powertrain
+- fuel economy labeling
 region: IN
 source_api: ais
 source_url: https://morth.gov.in
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
+- Fuel safety
+- EV charging
 - Battery safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: India emission and fuel-consumption compliance framework
 un_equivalent_ai:

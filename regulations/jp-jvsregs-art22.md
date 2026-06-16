@@ -2,15 +2,30 @@
 citation: JVSR Article 22
 commodities:
 - Seats
+- Seatbelts
 id: jp-jvsregs-art22
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- seat mounting device
+- seat anchorage
+- auxiliary seat
+- infant seat
+- straddle-type seat
+- laterally facing seat
+- rearward-facing seat
+- seat dimensions
+- seat strength
+- child transport vehicle
+- seat back structure
+- emergency exit seat
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
+- Crashworthiness
 - Restraints
-tagged_at: '2026-05-22T20:20:08+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 22 — Seats
 translation_status: translated
@@ -21,6 +36,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
 ---
 

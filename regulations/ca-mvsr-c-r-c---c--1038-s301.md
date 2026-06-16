@@ -2,21 +2,34 @@
 citation: MVSR C.R.C.,_c._1038 s. 301
 commodities:
 - Fuel system
+- Fuel tanks
+- Hoses & lines
 id: ca-mvsr-c-r-c---c--1038-s301
 last_pulled: '2026-06-01T18:52:49+00:00'
+open_tags:
+- fuel system integrity
+- fuel leakage
+- crash fuel spillage
+- GVWR 4536 kg
+- school bus fuel system
+- TSD 301
+- multi-purpose passenger vehicle
+- fuel boiling point
+- post-crash fuel integrity
 region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 systems:
 - Fuel safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 301
 un_equivalent_ai:
 - UN R153
 vehicle_categories:
 - Passenger car
+- Light truck
 - Bus
 ---
 

@@ -2,15 +2,30 @@
 citation: 49 CFR §571.121
 commodities:
 - Brakes
+- Wheels
+- Pedals
 id: us-fmvss-121
 last_pulled: '2026-06-01T18:39:23+00:00'
+open_tags:
+- air brake system
+- antilock brake system
+- ABS
+- brake chamber
+- treadle valve
+- air-over-hydraulic brake subsystem
+- parking brake
+- emergency brake
+- service brake
+- brake actuator
+- air reservoir
+- wheel speed sensor
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.121
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.121 Standard No. 121; Air brake systems.
 un_equivalent_ai:

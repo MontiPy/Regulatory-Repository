@@ -3,16 +3,30 @@ citation: 49 CFR §571.122a
 commodities:
 - Brakes
 - Hoses & lines
-- Connectors
+- Pedals
 id: us-fmvss-122a
 last_pulled: '2026-06-01T18:39:33+00:00'
+open_tags:
+- master cylinder
+- brake fluid reservoir
+- hydraulic brake system
+- split service brake system
+- caliper piston
+- wheel cylinder
+- brake failure indicator lamp
+- mechanical brake system
+- brake circuit
+- reservoir filler cap
+- service brake
+- brake fluid warning label
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.122a
 status: in-force
 systems:
 - Braking
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.122a Standard No. 122; Motorcycle brake systems.
 un_equivalent_ai:

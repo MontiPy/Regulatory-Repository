@@ -4,20 +4,33 @@ commodities:
 - Lighting modules
 id: kr-kmvss-art112-4
 last_pulled: '2026-05-23T15:31:27+00:00'
+open_tags:
+- headlamps
+- luminous intensity
+- chromaticity
+- headlamp photometry
+- headlamp beam
+- automotive lighting standards
+- color coordinates
+- headlamp compliance
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Lighting & signaling
-tagged_at: '2026-06-04T19:08:27+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 112-4 — Lighting System Components
 translation_status: translated
 un_equivalent_ai:
 - UN R112
 - UN R113
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
 ---
 
 ## Article 112-4 — Lighting System Components

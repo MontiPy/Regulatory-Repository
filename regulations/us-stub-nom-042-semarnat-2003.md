@@ -4,22 +4,31 @@ commodities:
 - Exhaust
 - Fuel system
 - Fuel tanks
-- Hoses & lines
 - ECUs
-- Batteries
-- Electric motors
-- Power electronics
 id: us-stub-nom-042-semarnat-2003
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- catalytic converter
+- evaporative emissions canister
+- OBD-II
+- NOx aftertreatment
+- diesel particulate filter
+- exhaust gas recirculation
+- fuel vapor recovery
+- emissions calibration
+- road-load determination
+- SHED testing
+- LPG fuel system
+- CNG fuel system
 region: US
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Fuel safety
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Maximum permissible exhaust and evaporative emissions for new vehicles up to
   3,857 kg GVWR

@@ -6,22 +6,33 @@ commodities:
 - Exhaust
 - Batteries
 - Electric motors
-- Power electronics
-- Hoses & lines
 - Fuel tanks
 id: au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- fleet CO2 average
+- fuel economy labelling
+- evaporative emissions
+- OBD monitors
+- CO2 credits
+- aftertreatment system
+- hybrid energy management
+- NOx emissions
+- particulate emissions
+- fuel consumption reporting
+- ADR 81
+- Register of Approved Vehicles
 region: AU
 source_api: spreadsheet
 source_url: https://www.nvesregulator.gov.au/what-new-vehicle-efficiency-standard
 status: in-force
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
+- Fuel safety
 - Battery safety
 - EV charging
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: New Vehicle Efficiency Standard (NVES)
 un_equivalent_ai:

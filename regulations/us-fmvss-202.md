@@ -4,6 +4,19 @@ commodities:
 - Seats
 id: us-fmvss-202
 last_pulled: '2026-06-01T18:40:16+00:00'
+open_tags:
+- head restraint
+- neck injury protection
+- H-point
+- torso reference line
+- seating reference point
+- rear-end collision protection
+- outboard front seating position
+- UNECE Regulation 17
+- SAE J826 manikin
+- head form displacement
+- seat back strength
+- rear head restraint
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202
@@ -11,7 +24,7 @@ status: in-force
 systems:
 - Restraints
 - Crashworthiness
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers
   option until September 1, 2009.

@@ -1,14 +1,25 @@
 ---
 citation: 49 CFR Part 567
 commodities:
+- Bumpers
 - Mirrors
 - Tires
-- Wheels
-- Bumpers
-- Door latches & hinges
 - Suspension
 id: us-cfr-part-567
 last_pulled: '2026-06-01T18:44:22+00:00'
+open_tags:
+- certification label
+- FMVSS compliance
+- vehicle identification number
+- incomplete vehicle document
+- final-stage manufacturer
+- alterer
+- chassis-cab
+- registered importer
+- replica motor vehicle
+- multi-stage manufacturing
+- GVWR
+- weight ratings
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-567
@@ -17,11 +28,7 @@ systems:
 - Vehicle identification
 - Theft prevention
 - Crashworthiness
-- Braking
-- Steering
-- Tires & wheels
-- Restraints
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 567—CERTIFICATION
 vehicle_categories:
@@ -29,6 +36,7 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Motorcycle
+- Bus
 - Trailer
 ---
 

@@ -2,26 +2,46 @@
 citation: GSO-ECE 46
 commodities:
 - Mirrors
+- Lighting modules
 - Wiring
 - ECUs
 id: gcc-gso-ece-46
 last_pulled: '2026-06-05T14:39:27+00:00'
+open_tags:
+- camera-monitor system
+- rear-view mirror
+- wide-angle mirror
+- indirect vision device
+- exterior mirror
+- CMS camera
+- CMS display
+- mirror adjustment actuator
+- blind spot mirror
+- field of vision
+- GSO-ECE harmonization
+- reflectance
 paywall: true
 region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 systems:
-- Lighting & signaling
 - Visibility
-tagged_at: '2026-06-04T19:08:25+00:00'
+- Lighting & signaling
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Devices for Indirect Vision
 translation_status: untranslated
 un_equivalent_ai:
 - UN R46
 - UN R48
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Devices for Indirect Vision

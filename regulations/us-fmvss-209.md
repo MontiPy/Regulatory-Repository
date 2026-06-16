@@ -4,13 +4,27 @@ commodities:
 - Seatbelts
 id: us-fmvss-209
 last_pulled: '2026-06-01T18:40:41+00:00'
+open_tags:
+- lap belt
+- shoulder belt
+- Type 2 seat belt assembly
+- retractor
+- emergency-locking retractor
+- automatic-locking retractor
+- load limiter
+- buckle
+- webbing
+- attachment hardware
+- pelvic restraint
+- upper torso restraint
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.209
 status: in-force
 systems:
 - Restraints
-tagged_at: '2026-05-22T19:28:16+00:00'
+- Crashworthiness
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.209 Standard No. 209; Seat belt assemblies.
 un_equivalent_ai:

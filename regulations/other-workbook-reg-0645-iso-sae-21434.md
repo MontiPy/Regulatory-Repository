@@ -2,12 +2,21 @@
 citation: ISO/SAE 21434
 commodities:
 - ECUs
-- ADAS sensors
-- Wiring
-- Connectors
-- Power electronics
 id: other-workbook-reg-0645-iso-sae-21434
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- TARA
+- CSMS
+- telematics unit
+- gateway ECU
+- ADAS controller
+- E/E architecture
+- vulnerability management
+- cybersecurity lifecycle
+- software bill of materials
+- secure diagnostic interface
+- update backend
+- supplier cybersecurity evidence
 paywall: true
 region: OTHER
 source_api: spreadsheet
@@ -18,7 +27,7 @@ systems:
 - ADAS
 - On-board diagnostics
 - Software updates
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Cybersecurity engineering
 un_equivalent:

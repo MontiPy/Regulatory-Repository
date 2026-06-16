@@ -2,16 +2,33 @@
 citation: JVSR Article 20
 commodities:
 - Seats
+- Seatbelts
 - Body structure
+- HVAC
 id: jp-jvsregs-art20
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- head restraints
+- child restraint anchorages
+- ISOFIX anchorage
+- ceiling liner
+- interior trim panel
+- flame-retardant materials
+- passenger cabin ventilation
+- sun visor
+- occupant protection
+- seat belt anchorage
+- interior components
+- sidecar
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-05-22T20:20:08+00:00'
+- Restraints
+- HVAC
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 20 — Passenger Accommodation
 translation_status: translated
@@ -22,7 +39,10 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 - Bus
+- Trailer
+- Off-road
 ---
 
 ## Article 20 — Passenger Accommodation

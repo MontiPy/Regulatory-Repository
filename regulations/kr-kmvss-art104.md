@@ -2,15 +2,30 @@
 citation: KMVSS Article 104
 commodities:
 - Door latches & hinges
+- Body structure
+- Seats
 id: kr-kmvss-art104
 last_pulled: '2026-05-23T15:31:19+00:00'
+open_tags:
+- door latch
+- door hinge
+- side door
+- rear door
+- sliding door
+- hinged door
+- door intrusion resistance
+- latch inertia load
+- fully latched position
+- secondary latched position
+- door crush resistance
+- door support structure
 region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 104 — Door System
 translation_status: translated
@@ -18,6 +33,7 @@ un_equivalent_ai:
 - UN R11
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 ## Article 104 — Door System

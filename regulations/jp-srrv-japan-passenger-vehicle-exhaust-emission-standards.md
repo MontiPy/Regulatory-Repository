@@ -1,14 +1,25 @@
 ---
 citation: Japan Motor Vehicle Exhaust Emission Standards
 commodities:
-- ECUs
 - Exhaust
+- ECUs
 - Fuel system
-- Batteries
-- Electric motors
-- Power electronics
+- Fuel tanks
 id: jp-srrv-japan-passenger-vehicle-exhaust-emission-standards
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- aftertreatment system
+- catalytic converter
+- diesel particulate filter
+- NOx trap
+- evaporative emission control
+- OBD monitor
+- WLTC cycle
+- CO2 reporting
+- fuel economy label
+- type approval
+- production conformity
+- hybrid energy management
 region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/air/aq/mv/standards.html
@@ -17,7 +28,7 @@ systems:
 - Emissions
 - On-board diagnostics
 - Fuel safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Japan Passenger Vehicle Exhaust Emission Standards
 translation_status: translated

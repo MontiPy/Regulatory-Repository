@@ -5,14 +5,26 @@ commodities:
 - Exhaust
 id: us-40cfr-part-86
 last_pulled: '2026-06-01T18:45:54+00:00'
+open_tags:
+- exhaust emissions testing
+- fuel specifications
+- diesel fuel
+- gasoline
+- liquefied petroleum gas
+- natural gas
+- cetane number
+- octane number
+- sulfur content
+- vapor pressure
+- aromatic content
+- benzene content
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-86
 status: in-force
 systems:
 - Emissions
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 86—CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES
 un_equivalent_ai:
@@ -22,6 +34,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Motorcycle
 ---
 
 ## PART 86—CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES

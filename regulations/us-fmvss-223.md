@@ -2,18 +2,33 @@
 citation: 49 CFR §571.223
 commodities:
 - Bumpers
+- Body structure
 id: us-fmvss-223
 last_pulled: '2026-06-01T18:41:38+00:00'
+open_tags:
+- rear impact guard
+- underride guard
+- horizontal member
+- rear underride protection
+- semitrailer rear guard
+- energy absorption
+- load path
+- rigid test fixture
+- hydraulic guard
+- rear extremity
+- plastic deformation
+- ground clearance
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.223
 status: in-force
 systems:
 - Crashworthiness
-tagged_at: '2026-06-04T19:08:25+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.223 Standard No. 223; Rear impact guards.
 vehicle_categories:
+- Heavy truck
 - Trailer
 ---
 

@@ -4,19 +4,34 @@ commodities:
 - Tires
 - Batteries
 - Electric motors
+- Fuel system
+- Exhaust
 - Power electronics
-- ECUs
+- Charging inlet
 id: jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- fuel economy standard
+- CO2 fleet target
+- WLTC test cycle
+- road load determination
+- hybrid powertrain
+- plug-in hybrid
+- battery electric vehicle
+- energy consumption measurement
+- aerodynamic drag
+- powertrain calibration
+- fleet average compliance
+- MLIT regulation
 region: JP
 source_api: spreadsheet
 source_url: https://www.mlit.go.jp/report/press/jidosha10_hh_000230.html
 status: in-force
 systems:
 - Emissions
+- EV charging
 - Battery safety
-- On-board diagnostics
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Japan 2030 Fuel Economy Standards for Passenger Cars
 translation_status: translated

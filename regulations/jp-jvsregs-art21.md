@@ -3,22 +3,39 @@ citation: JVSR Article 21
 commodities:
 - Seats
 - Glass
+- Infotainment
 id: jp-jvsregs-art21
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- head-up display
+- HUD
+- combiner
+- driver field of vision
+- driver's seat
+- windshield projection
+- cargo partition
+- driving operation
+- display device
+- forward visibility
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 21 — Driver's Seat
 translation_status: translated
 un_equivalent_ai:
 - UN R125
 - UN R123
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 ## Article 21 — Driver's Seat

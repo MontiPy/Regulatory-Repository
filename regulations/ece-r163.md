@@ -2,22 +2,40 @@
 citation: UN R163
 commodities:
 - ECUs
-- Wiring
 - Horn
-- Connectors
+- Wiring
 id: ece-r163
 last_pulled: '2026-06-01T18:53:05+00:00'
+open_tags:
+- vehicle alarm system
+- immobilizer
+- siren
+- perimeter sensor
+- tilt sensor
+- tamper detection
+- glass breakage sensor
+- remote control
+- intrusion detection
+- anti-theft
+- alarm control unit
+- ultrasonic sensor
 region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
 systems:
 - Theft prevention
-- Tell-tales & controls
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Lighting & signaling
+- Noise
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 163 — Vehicle Alarm Systems
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # UN Regulation No. 163 — Vehicle Alarm Systems

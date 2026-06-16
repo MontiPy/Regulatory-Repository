@@ -4,18 +4,32 @@ commodities:
 - Lighting modules
 id: us-fmvss-404
 last_pulled: '2026-06-01T18:42:30+00:00'
+open_tags:
+- platform lift
+- wheelchair lift
+- accessibility lift
+- mobility aid
+- platform lighting
+- lift installation
+- public use lift
+- private use lift
+- passenger unloading ramp
+- lift control panel
+- backup operation controls
+- GVWR threshold
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.404
 status: in-force
 systems:
 - Lighting & signaling
-- Visibility
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Tell-tales & controls
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.404 Standard No. 404; Platform lift installations in motor vehicles.
 vehicle_categories:
 - Bus
+- Light truck
 ---
 
 ## § 571.404 Standard No. 404; Platform lift installations in motor vehicles.

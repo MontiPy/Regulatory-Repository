@@ -6,21 +6,39 @@ commodities:
 - Fuel system
 id: jp-jvsregs-art31
 last_pulled: '2026-06-01T18:52:41+00:00'
+open_tags:
+- blowby gas recirculation device
+- evaporative emission control
+- exhaust pipe
+- catalytic converter
+- particulate matter filter
+- NOx control
+- crankcase ventilation
+- air conditioning refrigerant
+- hydrocarbon evaporation
+- emission control device type designation
+- black smoke control
+- exhaust aftertreatment
 region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 systems:
 - Emissions
-- Braking
-tagged_at: '2026-06-04T19:08:27+00:00'
+- HVAC
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 31 — Emission Control Devices
 translation_status: translated
 un_equivalent_ai:
 - UN R83
 - UN R168
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 ## Article 31 — Emission Control Devices

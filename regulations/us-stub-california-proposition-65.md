@@ -2,18 +2,47 @@
 citation: California Proposition 65
 commodities:
 - Batteries
+- Wiring
+- ECUs
+- Seats
+- Tires
+- Brakes
+- Hoses & lines
+- Connectors
+- Power electronics
 id: us-stub-california-proposition-65
 last_pulled: '2026-06-01T18:54:42+00:00'
+open_tags:
+- Proposition 65 warning labels
+- restricted substances
+- IMDS
+- Bill of Materials
+- coatings
+- plastics
+- rubber components
+- interior trim
+- exterior trim
+- service parts
+- owner manual warnings
+- chemical hazard communication
 region: US
 source_api: spreadsheet
 source_url: https://oehha.ca.gov/proposition-65
 status: in-force
 systems:
 - Battery safety
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Emissions
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Safe Drinking Water and Toxic Enforcement Act warning requirements
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
+- Off-road
 ---
 
 # Safe Drinking Water and Toxic Enforcement Act warning requirements

@@ -2,22 +2,40 @@
 citation: CONTRAN 913/2022
 commodities:
 - Tires
+- Wheels
 id: br-contran-913
 last_pulled: '2026-06-01T18:53:14+00:00'
+open_tags:
+- tire tread depth
+- tire load index
+- speed rating
+- tire age limit
+- retreaded tires
+- tire marking
+- rim compatibility
+- tire pressure
+- original equipment tires
+- tire condition inspection
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
 systems:
 - Tires & wheels
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Use of Tires
 translation_status: untranslated
 un_equivalent_ai:
 - UN R117
 - UN R142
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
+- Trailer
 ---
 
 # Use of Tires

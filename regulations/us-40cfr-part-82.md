@@ -2,15 +2,29 @@
 citation: 40 CFR Part 82
 commodities:
 - HVAC
+- Fuel system
+- Exhaust
 id: us-40cfr-part-82
 last_pulled: '2026-06-01T18:45:44+00:00'
+open_tags:
+- refrigerants
+- ozone-depleting substances
+- halon
+- methyl bromide
+- chlorofluorocarbons
+- HCFCs
+- Montreal Protocol
+- stratospheric ozone
+- refrigerant management
+- air conditioning systems
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-82
 status: in-force
 systems:
+- Emissions
 - HVAC
-tagged_at: '2026-06-04T19:08:26+00:00'
+tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: PART 82—PROTECTION OF STRATOSPHERIC OZONE
 vehicle_categories: []

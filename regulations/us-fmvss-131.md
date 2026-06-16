@@ -1,8 +1,18 @@
 ---
 citation: 49 CFR §571.131
-commodities: []
+commodities:
+- Lighting modules
 id: us-fmvss-131
 last_pulled: '2026-06-01T18:39:59+00:00'
+open_tags:
+- stop signal arm
+- school bus safety device
+- retroreflective material
+- pedestrian warning device
+- octagonal stop sign
+- flashing red lamps
+- school bus stop arm
+- Type III retroreflectorized material
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.131
@@ -10,7 +20,7 @@ status: in-force
 systems:
 - Lighting & signaling
 - Pedestrian protection
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.131 Standard No. 131; School bus pedestrian safety devices.
 un_equivalent_ai:

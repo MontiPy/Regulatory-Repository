@@ -3,13 +3,26 @@ citation: 49 CFR Part 565
 commodities: []
 id: us-cfr-part-565
 last_pulled: '2026-06-01T18:44:16+00:00'
+open_tags:
+- VIN
+- vehicle identification number
+- VIN format
+- VIN content
+- VIN placement
+- recall campaigns
+- world manufacturer identifier
+- check digit
+- model year encoding
+- low-volume manufacturer
+- high-volume manufacturer
+- incomplete vehicle
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-565
 status: in-force
 systems:
 - Vehicle identification
-tagged_at: '2026-05-22T19:28:16+00:00'
+tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 565—VEHICLE IDENTIFICATION NUMBER (VIN) REQUIREMENTS
 vehicle_categories:

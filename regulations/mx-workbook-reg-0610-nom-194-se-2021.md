@@ -7,10 +7,22 @@ commodities:
 - Brakes
 - Airbags
 - Seatbelts
-- Mirrors
-- Wheels
+- Seats
 id: mx-workbook-reg-0610-nom-194-se-2021
 last_pulled: '2026-06-01T18:54:41+00:00'
+open_tags:
+- ISOFIX anchorage
+- child restraint system
+- electronic stability control
+- homologation evidence
+- UNECE type approval
+- FMVSS compliance
+- owner manual requirements
+- vehicle labeling
+- market access compliance
+- ESC
+- occupant protection
+- NOM certification
 region: MX
 source_api: spreadsheet
 source_url: https://sidof.segob.gob.mx/notas/docFuente/5666804
@@ -21,14 +33,15 @@ systems:
 - Tires & wheels
 - Crashworthiness
 - Restraints
-- Visibility
 - Glazing
-tagged_at: '2026-06-04T19:08:26+00:00'
+- Vehicle identification
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Safety devices for new light vehicles - requirements and specifications
 translation_status: untranslated
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Safety devices for new light vehicles - requirements and specifications

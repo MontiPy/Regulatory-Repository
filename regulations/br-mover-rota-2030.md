@@ -1,21 +1,48 @@
 ---
 citation: MOVER / Rota 2030
-commodities: []
+commodities:
+- Batteries
+- Electric motors
+- Fuel system
+- Exhaust
+- Power electronics
+- Charging inlet
 id: br-mover-rota-2030
 last_pulled: '2026-06-01T18:53:32+00:00'
+open_tags:
+- energy efficiency
+- green mobility
+- electromobility
+- biofuels
+- vehicle emissions standards
+- R&D incentives
+- fleet electrification
+- CO2 reduction
+- alternative fuels
+- Rota 2030
+- MOVER program
+- automotive innovation
 region: BR
 source_api: brazil
 source_url: https://www.gov.br/planalto/en/latest-news/2025/04/president-lula-signs-decree-that-regulates-green-mobility-and-innovation-program
 status: in-force
-systems: []
-tagged_at: '2026-06-04T19:08:26+00:00'
+systems:
+- Emissions
+- EV charging
+- Battery safety
+tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework
 translation_status: untranslated
 un_equivalent_ai:
 - UN R101
 - UN R154
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Light truck
+- Heavy truck
+- Motorcycle
+- Bus
 ---
 
 # Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework
