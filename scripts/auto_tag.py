@@ -42,6 +42,7 @@ MODEL = "claude-haiku-4-5-20251001"
 MAX_TOKENS = 512
 BODY_TRUNCATE = 5000
 POLL_INTERVAL = 30  # seconds between status checks
+OPEN_TAGS_CAP = 12
 
 
 def _now_iso() -> str:
@@ -124,15 +125,38 @@ def write_tags_to_file(path: str, tags: dict) -> None:
     p.write_text(frontmatter.dumps(post), encoding="utf-8")
 
 
+def _clean_open_tags(raw: object) -> list[str]:
+    """Free-form tags: strings only, trimmed, deduped case-insensitively, capped."""
+    if not isinstance(raw, list):
+        return []
+    seen: set[str] = set()
+    cleaned: list[str] = []
+    for item in raw:
+        if not isinstance(item, str):
+            continue
+        tag = item.strip()
+        if not tag:
+            continue
+        key = tag.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        cleaned.append(tag)
+        if len(cleaned) >= OPEN_TAGS_CAP:
+            break
+    return cleaned
+
+
 def parse_tags(text: str, taxonomy: dict[str, list[str]]) -> dict:
     text = text.strip()
     # Strip markdown fences if the model included them
     text = re.sub(r"^```(?:json)?\s*", "", text)
     text = re.sub(r"\s*```$", "", text)
+    empty = {"commodities": [], "systems": [], "vehicle_categories": [], "open_tags": []}
     try:
         data = json.loads(text)
     except json.JSONDecodeError:
-        return {"commodities": [], "systems": [], "vehicle_categories": []}
+        return empty
 
     result = {}
     for field, valid_values in taxonomy.items():
@@ -141,6 +165,7 @@ def parse_tags(text: str, taxonomy: dict[str, list[str]]) -> dict:
         if not isinstance(raw, list):
             raw = []
         result[field] = [v for v in raw if v in valid_set]
+    result["open_tags"] = _clean_open_tags(data.get("open_tags", []))
     return result
 
 
