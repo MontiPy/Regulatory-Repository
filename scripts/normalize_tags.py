@@ -27,6 +27,11 @@ from pathlib import Path
 import frontmatter
 import yaml
 
+try:
+    from scripts._fsutil import list_md_files
+except ImportError:
+    from _fsutil import list_md_files
+
 ROOT = Path(__file__).resolve().parents[1]
 REGULATIONS_DIR = ROOT / "regulations"
 ALIASES_PATH = ROOT / "tag_aliases.yaml"
@@ -45,7 +50,7 @@ def _chunked(seq: list[str], size: int) -> list[list[str]]:
 def collect_open_tags(regulations_dir: Path) -> list[str]:
     """Return the sorted unique set of open_tags across all records."""
     unique: set[str] = set()
-    for path in sorted(regulations_dir.glob("*.md")):
+    for path in list_md_files(regulations_dir):
         post = frontmatter.load(path)
         for tag in post.metadata.get("open_tags", []) or []:
             if isinstance(tag, str) and tag.strip():

@@ -2,10 +2,8 @@ from __future__ import annotations
 
 import argparse
 import json
-import platform
 import re
 import shutil
-import subprocess
 import sys
 from collections import Counter
 from datetime import datetime, timezone
@@ -21,6 +19,11 @@ try:
     from scripts.un_refs import ece_id_to_un, normalize_un
 except ImportError:
     from un_refs import ece_id_to_un, normalize_un
+
+try:
+    from scripts._fsutil import list_md_files
+except ImportError:
+    from _fsutil import list_md_files
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -443,29 +446,6 @@ def render_shell(build_meta: dict[str, Any], dist_dir: Path) -> None:
     (dist_dir / "index.html").write_text(html, encoding="utf-8")
 
 
-def _list_md_files(directory: Path) -> list[Path]:
-    """Return sorted .md files from directory.
-
-    Falls back to PowerShell enumeration on Windows where OneDrive reparse
-    points cause Path.glob to silently return nothing.
-    """
-    files = list(directory.glob("*.md"))
-    if not files and platform.system() == "Windows":
-        try:
-            result = subprocess.run(
-                [
-                    "powershell", "-NoProfile", "-Command",
-                    f'Get-ChildItem -LiteralPath "{directory}" -Filter "*.md" | '
-                    f'Select-Object -ExpandProperty FullName',
-                ],
-                capture_output=True, text=True, timeout=60,
-            )
-            files = [Path(p.strip()) for p in result.stdout.splitlines() if p.strip()]
-        except Exception:
-            pass
-    return sorted(files)
-
-
 def build_un_index(records: list[dict[str, Any]]) -> dict[str, str]:
     """Map each canonical UN R number to the ECE record id that represents it."""
     index: dict[str, str] = {}
@@ -523,7 +503,7 @@ def build(draft: bool) -> int:
     taxonomy, taxonomy_sets = load_taxonomy()
     entries: list[tuple[dict[str, Any], list[BuildIssue]]] = []
 
-    for path in _list_md_files(REGULATIONS_DIR):
+    for path in list_md_files(REGULATIONS_DIR):
         record, issues = build_record(path, taxonomy_sets, draft)
         entries.append((record, issues))
 

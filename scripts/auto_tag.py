@@ -34,6 +34,11 @@ from pathlib import Path
 import frontmatter
 import yaml
 
+try:
+    from scripts._fsutil import list_md_files
+except ImportError:
+    from _fsutil import list_md_files
+
 ROOT = Path(__file__).resolve().parents[1]
 REGULATIONS_DIR = ROOT / "regulations"
 TAXONOMY_PATH = ROOT / "taxonomy.yaml"
@@ -61,7 +66,7 @@ def load_taxonomy() -> dict[str, list[str]]:
 
 def load_regulations(region: str | None, retag: bool) -> list[dict]:
     records = []
-    for path in sorted(REGULATIONS_DIR.glob("*.md")):
+    for path in list_md_files(REGULATIONS_DIR):
         post = frontmatter.load(path)
         meta = dict(post.metadata)
         if region and meta.get("region") != region:
