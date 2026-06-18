@@ -36,6 +36,7 @@
     const workspaceEls  = [document.querySelector(".layout")];
     const homeLink      = document.querySelector("#home-link");
     let openReaderId    = null;
+    let readerOrigin    = null;
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
 
@@ -334,16 +335,22 @@
       document.querySelector("#reader-body").innerHTML = readerBodyHtml(record);
       document.querySelector("#reader").classList.remove("hidden");
       document.querySelector(".layout").classList.add("reading");
+      document.querySelector("#reader-close").focus();
       render();
       syncUrl();
     }
 
-    function closeReader() {
+    function closeReader({ restoreFocus = true } = {}) {
       openReaderId = null;
       document.querySelector("#reader").classList.add("hidden");
       document.querySelector(".layout").classList.remove("reading");
-      render();
+      document.querySelector("#reader-trust").innerHTML = "";
+      render();   // rebuilds the cards DOM, so re-query the origin button by id below
       syncUrl();
+      if (restoreFocus && readerOrigin) {
+        const originBtn = cards.querySelector(`[data-read="${CSS.escape(readerOrigin)}"]`);
+        if (originBtn) originBtn.focus();
+      }
     }
 
     function baseSearchText(record) {
@@ -487,7 +494,9 @@
               <span class="facet-count" data-facet="${escapeHtml(filter.key)}" data-value="${escapeHtml(value)}" aria-hidden="true">0</span>
             </label>`;
         }).join("");
-        const infoIcon = filter.tooltip ? `<span class="filter-info" data-tooltip="${escapeHtml(filter.tooltip)}">i</span>` : "";
+        const infoIcon = filter.tooltip
+          ? `<button type="button" class="filter-info" data-tooltip="${escapeHtml(filter.tooltip)}" aria-label="${escapeHtml(filter.label)} help">i</button>`
+          : "";
         return `
           <details${DEFAULT_OPEN.has(filter.key) ? " open" : ""}>
             <summary>${escapeHtml(filter.label)}${infoIcon}</summary>
@@ -547,9 +556,7 @@
       // Leaving the Workspace (e.g. Home link) must also dismiss any open reader,
       // otherwise its DOM/.reading state resurfaces when the Workspace returns.
       if (!onWorkspace && openReaderId) {
-        openReaderId = null;
-        document.querySelector("#reader").classList.add("hidden");
-        document.querySelector(".layout").classList.remove("reading");
+        closeReader({ restoreFocus: false });
       }
       homeView.classList.toggle("hidden", onWorkspace);
       workspaceEls.forEach((el) => el && el.classList.toggle("hidden", !onWorkspace));
@@ -710,7 +717,7 @@
       const btn = event.target.closest("[data-read]");
       if (!btn) return;
       const id = btn.getAttribute("data-read");
-      if (id === openReaderId) closeReader(); else openReader(id);
+      if (id === openReaderId) { closeReader(); } else { readerOrigin = id; openReader(id); }
     });
 
     // Cross-reference links (UN equivalents, AI-suggested, related) inside the
@@ -724,7 +731,7 @@
       if (id && id !== openReaderId) openReader(id);
     });
 
-    document.querySelector("#reader-close").addEventListener("click", closeReader);
+    document.querySelector("#reader-close").addEventListener("click", () => closeReader());
 
     loadMore.addEventListener("click", () => {
       visibleLimit += PAGE_SIZE;
@@ -842,6 +849,12 @@
         event.preventDefault();
         searchInput.focus();
       }
+      if (event.key === "Escape") {
+        if (openReaderId) { event.preventDefault(); closeReader(); return; }
+        if (filtersRail.classList.contains("is-open")) {
+          event.preventDefault(); setFiltersOpen(false); filtersToggle.focus(); return;
+        }
+      }
     });
 
     async function boot() {
@@ -869,22 +882,21 @@
 
     (function () {
       const tip = document.getElementById("tip");
-      document.addEventListener("mouseover", function (e) {
-        const el = e.target.closest("[data-tooltip]");
-        if (!el) { tip.style.display = "none"; return; }
+      function showTip(el) {
         tip.textContent = el.dataset.tooltip;
         tip.style.display = "block";
+        tip.setAttribute("aria-hidden", "false");
         const r = el.getBoundingClientRect();
         const tw = tip.offsetWidth;
         const left = (r.right + 10 + tw > window.innerWidth) ? r.left - tw - 10 : r.right + 10;
         tip.style.left = left + "px";
         tip.style.top  = Math.max(8, r.top - 2) + "px";
-      });
-      document.addEventListener("mouseout", function (e) {
-        if (!e.relatedTarget || !e.relatedTarget.closest("[data-tooltip]")) {
-          tip.style.display = "none";
-        }
-      });
+      }
+      function hideTip() { tip.style.display = "none"; tip.setAttribute("aria-hidden", "true"); }
+      document.addEventListener("mouseover", (e) => { const el = e.target.closest("[data-tooltip]"); if (el) showTip(el); else hideTip(); });
+      document.addEventListener("mouseout",  (e) => { if (!e.relatedTarget || !e.relatedTarget.closest("[data-tooltip]")) hideTip(); });
+      document.addEventListener("focusin",   (e) => { const el = e.target.closest("[data-tooltip]"); if (el) showTip(el); });
+      document.addEventListener("focusout",  (e) => { if (!e.relatedTarget || !e.relatedTarget.closest("[data-tooltip]")) hideTip(); });
     })();
 
     (function () {

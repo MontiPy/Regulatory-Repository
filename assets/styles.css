@@ -686,6 +686,9 @@
 
     /* ── Filter info icon ─────────────────────────────────────── */
     .filter-info {
+      appearance: none;
+      padding: 0;
+      background: transparent;
       display: inline-flex;
       align-items: center;
       justify-content: center;
@@ -697,12 +700,13 @@
       font-weight: 700;
       font-style: italic;
       color: var(--fg-3);
-      cursor: default;
+      cursor: help;
       flex-shrink: 0;
       line-height: 1;
       transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease);
     }
-    .filter-info:hover { border-color: var(--honda-red); color: var(--honda-red); }
+    .filter-info:hover,
+    .filter-info:focus-visible { border-color: var(--honda-red); color: var(--honda-red); }
 
     /* ── Global tooltip ────────────────────────────────────────── */
     #tip {
