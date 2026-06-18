@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.build import (
     BuildIssue,
     as_list,
+    clean_summary_display_text,
     copy_static_assets,
     load_region_series,
     render_markdown,
@@ -99,6 +100,42 @@ class TestSummarize:
         html = "<p>Section &sect; 108</p>"
         result = summarize(html)
         assert "§" in result
+
+
+class TestCleanSummaryDisplayText:
+    def test_removes_metadata_scaffold_after_useful_title(self):
+        raw = (
+            "Argentina model configuration and environmental configuration licenses "
+            "Regulated Area: Market access / type approval / emissions "
+            "Applicability: Applies to new vehicles for public-road circulation in Argentina"
+        )
+        assert clean_summary_display_text(raw) == (
+            "Argentina model configuration and environmental configuration licenses"
+        )
+
+    def test_keeps_short_plain_summary(self):
+        assert clean_summary_display_text("Brake systems for passenger cars") == (
+            "Brake systems for passenger cars"
+        )
+
+    def test_removes_scaffold_after_short_real_title(self):
+        # Real corpus titles can be short (~28 chars); they must still be
+        # cleaned, so the floor sits below typical title length.
+        raw = (
+            "Driver Forward Field of View Regulated Area: Visibility / lighting "
+            "Applicability: Mirrors, cameras, glazing"
+        )
+        assert clean_summary_display_text(raw) == "Driver Forward Field of View"
+
+    def test_preserves_real_body_with_source_label(self):
+        # DELTA-1: "Source:"/"Notes:" occur in real legal bodies and must NOT
+        # trigger truncation — only the workbook scaffolding labels do.
+        raw = (
+            "This standard specifies requirements for occupant crash protection "
+            "to reduce deaths and injuries. Source: 49 FR 12345. Compliance is "
+            "required for vehicles manufactured on or after September 1, 2026."
+        )
+        assert clean_summary_display_text(raw) == raw
 
 
 class TestValidateRequired:

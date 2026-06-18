@@ -274,9 +274,31 @@ def render_markdown(body: str) -> str:
     )
 
 
+# Only the workbook stub scaffolding labels. Do NOT include generic
+# "Source"/"Notes" — they occur in real legal bodies and summarize() runs on
+# every record, not just stubs (would truncate genuine summaries mid-sentence).
+SUMMARY_SCAFFOLD_RE = re.compile(
+    r"\s+(?:Regulated Area|Applicability):\s+",
+    re.IGNORECASE,
+)
+
+
+def clean_summary_display_text(plain: str) -> str:
+    text = unescape(re.sub(r"\s+", " ", plain or "")).strip()
+    match = SUMMARY_SCAFFOLD_RE.search(text)
+    # Strip the workbook scaffolding as long as a usable title precedes it.
+    # The labels are workbook-specific and effectively never appear in real
+    # legal prose, so a small floor (guarding only the degenerate
+    # scaffold-at-the-very-start case) is safe.
+    if match and match.start() >= 12:
+        return text[: match.start()].rstrip(" .;:-")
+    return text
+
+
 def summarize(body_html: str) -> str:
     plain = bleach.clean(body_html, tags=[], strip=True)
     plain = unescape(re.sub(r"\s+", " ", plain)).strip()
+    plain = clean_summary_display_text(plain)
     if len(plain) <= 250:
         return plain
     cutoff = plain.rfind(" ", 0, 250)

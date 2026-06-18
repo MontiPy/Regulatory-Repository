@@ -5,6 +5,7 @@
     const bodyCache = new Map();      // id -> body_html (lazy)
     let searchEngine = null;          // MiniSearch instance (lazy)
     let searchReady = false;
+    let searchDocsById = new Map();   // id -> full search text (for body-match snippets)
 
     const PAGE_SIZE = 50;
     const FILTERS = [
@@ -151,6 +152,7 @@
           searchEngine = new MiniSearch({ fields: ["text"], storeFields: ["id"] });
           searchEngine.addAll(docs);
           searchReady = true;
+          searchDocsById = new Map(docs.map((doc) => [doc.id, doc.text || ""]));
           if (searchInput.value.trim()) render();
         })
         .catch((err) => { console.warn("search index unavailable:", err); });
@@ -339,6 +341,37 @@
       syncUrl();
     }
 
+    function baseSearchText(record) {
+      return [
+        record.title, record.citation,
+        (record.aliases || []).join(" "),
+        record.summary_text,
+        (record.un_equivalent || []).join(" "),
+        (record.tags || []).join(" "),
+        (record.open_tags || []).join(" "),
+      ].join(" ");
+    }
+
+    function bodyMatchSnippet(record, query) {
+      const q = normalize(query).trim();
+      if (!q || q.length < 3 || normalize(baseSearchText(record)).includes(q)) return "";
+      const text = searchDocsById.get(record.id) || "";
+      const lower = normalize(text);
+      const idx = lower.indexOf(q);
+      if (idx < 0) return "";
+      const start = Math.max(0, idx - 90);
+      const end = Math.min(text.length, idx + q.length + 140);
+      const prefix = start > 0 ? "..." : "";
+      const suffix = end < text.length ? "..." : "";
+      return `${prefix}${text.slice(start, end).trim()}${suffix}`;
+    }
+
+    function cardSummaryHtml(record, query) {
+      const snippet = bodyMatchSnippet(record, query);
+      if (snippet) return `<p class="summary summary-snippet">${highlight(snippet, query)}</p>`;
+      return `<p class="summary">${highlight(record.summary_text || "No summary available.", query)}</p>`;
+    }
+
     function cardTemplate(record) {
       const q = searchInput.value;
       const isActive = record.id === openReaderId;
@@ -354,7 +387,7 @@
                 <span class="badge">${escapeHtml(record.citation)}</span>
                 ${statusBadge}
               </div>
-              <p class="summary">${highlight(record.summary_text || "No summary available.", q)}</p>
+              ${cardSummaryHtml(record, q)}
             </div>
             <button type="button" class="expand-button" data-read="${escapeHtml(record.id)}" aria-expanded="${isActive}">
               ${isActive ? "Reading" : "Read"}

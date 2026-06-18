@@ -474,6 +474,7 @@
       color: var(--fg-2);
       line-height: 1.55;
     }
+    .summary-snippet { border-left: 2px solid var(--line-1); padding-left: 10px; }
 
     /* Expand button — Honda square primary style */
     .expand-button {
