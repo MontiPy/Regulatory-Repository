@@ -743,6 +743,13 @@
     }
     .filters-toggle:hover { background: var(--honda-red); color: var(--white); }
 
+    .filters-close {
+      display: none; align-items: center; justify-content: center;
+      width: 32px; height: 32px; margin: 0 16px 10px auto;
+      border: 1px solid var(--line-1); background: transparent;
+      color: var(--fg-2); cursor: pointer; font-size: 20px;
+    }
+
     /* ── Responsive ────────────────────────────────────────────── */
     @media (max-width: 860px) {
       .header-inner {
@@ -759,10 +766,15 @@
 
       .layout { grid-template-columns: 1fr; }
       .filters-toggle { display: block; }
-      /* Filters live behind the toggle on mobile instead of stacking above results. */
-      .filters { display: none; border-right: none; border-bottom: 1px solid var(--line-1); padding: 12px 0; }
+      /* Filters open as an overlay drawer on mobile instead of pushing results. */
+      .filters {
+        display: none; position: fixed; inset: 114px 0 0 0; z-index: 35;
+        border-right: none; border-bottom: 1px solid var(--line-1);
+        padding: 12px 0; overflow: auto; box-shadow: 0 12px 30px rgba(35,36,41,0.22);
+      }
       .filters.is-open { display: block; }
       .filters-inner { position: static; max-height: none; }
+      .filters-close { display: inline-flex; }
       .card-top { grid-template-columns: 1fr; }
       .expand-button { justify-self: start; }
 

@@ -18,6 +18,11 @@
       { key: "translation_status", label: "Translation",      taxonomyKey: "translation_statuses", tooltip: "Whether the regulation text has been translated to English. Untranslated = original language only." },
     ];
     const PRIMARY_FILTERS = new Set(["region", "systems", "commodities"]);
+    const FACET_MORE_LABELS = {
+      region: "regions", systems: "systems", commodities: "commodities",
+      vehicle_categories: "vehicle categories", status: "statuses",
+      tagging_status: "tagging statuses", translation_status: "translation statuses",
+    };
 
     const searchInput   = document.querySelector("#search");
     const filtersForm   = document.querySelector("#filters-form");
@@ -513,7 +518,8 @@
           btn.classList.remove("visible");
         } else {
           btn.classList.add("visible");
-          btn.textContent = expanded ? "Show fewer" : `Show all (${hiddenCount} hidden)`;
+          const label = FACET_MORE_LABELS[key] || "options";
+          btn.textContent = expanded ? "Show fewer" : `Show ${hiddenCount} more ${label}`;
         }
       });
     }
@@ -677,9 +683,20 @@
     });
 
     const filtersRail   = document.querySelector(".filters");
-    document.querySelector("#filters-toggle").addEventListener("click", (event) => {
-      const open = filtersRail.classList.toggle("is-open");
-      event.currentTarget.setAttribute("aria-expanded", String(open));
+    const filtersToggle = document.querySelector("#filters-toggle");
+    const filtersClose  = document.querySelector("#filters-close");
+
+    function setFiltersOpen(open) {
+      filtersRail.classList.toggle("is-open", open);
+      filtersToggle.setAttribute("aria-expanded", String(open));
+    }
+
+    filtersToggle.addEventListener("click", () => {
+      setFiltersOpen(!filtersRail.classList.contains("is-open"));
+    });
+    filtersClose.addEventListener("click", () => {
+      setFiltersOpen(false);
+      filtersToggle.focus();
     });
 
     availBoxes.forEach((box) => box.addEventListener("change", () => {
