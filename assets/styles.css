@@ -528,12 +528,16 @@
       margin-top: 18px;
       border-top: 1px solid var(--line-1);
       padding-top: 18px;
+      container-type: inline-size;
     }
 
-    /* Body text + metadata sit side by side on wide screens. */
-    .expanded-cols { display: grid; gap: 24px; grid-template-columns: minmax(0, 1fr); }
-    @media (min-width: 1100px) {
-      .expanded-cols { grid-template-columns: minmax(0, 1.9fr) minmax(260px, 1fr); align-items: start; }
+    /* Body text + metadata split based on the READER's own width, not the
+       viewport. At ~1440px the side reader is ~540px so this stays single
+       column (body gets full width = the fix); it splits only when the reader
+       container itself is wide (ultra-wide / full-screen reader). */
+    .expanded-cols { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); }
+    @container (min-width: 760px) {
+      .expanded-cols { grid-template-columns: minmax(0, 1.8fr) minmax(240px, 0.8fr); align-items: start; }
     }
     .meta-panel {
       background: var(--bg-2);
@@ -816,6 +820,14 @@ html[data-theme="dark"] .active-chip { background: var(--filter-active-bg); }
 .reader.hidden { display: none; }
 .reader-head { position: sticky; top: 0; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 18px; border-bottom: 1px solid var(--line-1); background: var(--bg-2); }
 .reader-title { font-size: 14px; font-weight: 900; color: var(--fg-1); }
+.reader-title-block { min-width: 0; display: grid; gap: 6px; }
+.reader-trust { display: flex; flex-wrap: wrap; gap: 6px; color: var(--fg-3); font-size: 11px; }
+.reader-trust-chip {
+  display: inline-flex; align-items: center; max-width: 100%; min-height: 20px;
+  padding: 2px 7px; border: 1px solid var(--line-1); background: var(--surface);
+  color: var(--fg-2); line-height: 1.25;
+}
+.reader-trust-chip.source a { color: inherit; text-decoration: underline; }
 .reader-close { background: none; border: none; font-size: 22px; line-height: 1; color: var(--fg-3); cursor: pointer; padding: 0 4px; }
 .reader-close:hover { color: var(--honda-red); }
 .reader-body { padding: 18px; overflow-y: auto; font-size: 14px; color: var(--fg-1); }

@@ -268,10 +268,23 @@
       catch { return url; }
     }
 
+    function sourceLinkHtml(record) {
+      if (!record.source_url) return "";
+      return `<a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">${escapeHtml(hostLabel(record.source_url))} ↗</a>`;
+    }
+
+    function readerTrustHtml(record) {
+      const chips = [];
+      if (record.status) chips.push(`<span class="reader-trust-chip">${escapeHtml(displayLabel(record.status))}</span>`);
+      if (record.citation) chips.push(`<span class="reader-trust-chip">${escapeHtml(record.citation)}</span>`);
+      if (record.source_url) chips.push(`<span class="reader-trust-chip source">Source: ${sourceLinkHtml(record)}</span>`);
+      if (record.last_pulled) chips.push(`<span class="reader-trust-chip">Pulled ${escapeHtml(record.last_pulled.slice(0, 10))}</span>`);
+      if ((record.un_equivalent_ai || []).length) chips.push(`<span class="reader-trust-chip">AI equivalent needs verification</span>`);
+      return chips.join("");
+    }
+
     function readerBodyHtml(record) {
-      const sourceHtml = record.source_url
-        ? `<a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">${escapeHtml(hostLabel(record.source_url))} ↗</a>`
-        : "";
+      const sourceHtml = sourceLinkHtml(record);
       return `
         <div class="expanded">
           ${stubBanner(record)}
@@ -310,6 +323,7 @@
       }
       if (openReaderId !== id) return;  // superseded by a later open/close during the await
       document.querySelector("#reader-title").textContent = record.title || record.id;
+      document.querySelector("#reader-trust").innerHTML = readerTrustHtml(record);
       document.querySelector("#reader-body").innerHTML = readerBodyHtml(record);
       document.querySelector("#reader").classList.remove("hidden");
       document.querySelector(".layout").classList.add("reading");
