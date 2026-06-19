@@ -470,6 +470,8 @@
       const visible    = getVisibleRecords();
       const renderable = visible.slice(0, visibleLimit);
       resultCount.textContent = `Showing ${renderable.length} of ${visible.length}`;
+      const orderEl = document.querySelector("#result-order");
+      if (orderEl) orderEl.textContent = areaSelected() ? "Grouped by market" : "Sorted by repository order";
       cards.innerHTML = renderable.length
         ? (areaSelected() ? renderGrouped(renderable) : renderable.map(cardTemplate).join(""))
         : '<div class="empty-state">No regulations match the current filters.</div>';
@@ -568,9 +570,9 @@
       const tagged = (CORPUS_COUNTS.tagging_status && CORPUS_COUNTS.tagging_status["llm-tagged"]) || 0;
       const untagged = (CORPUS_COUNTS.tagging_status && CORPUS_COUNTS.tagging_status["untagged"]) || 0;
       const cov = document.querySelector("#coverage-line");
-      cov.innerHTML = `${tagged} of ${total} classified by part &amp; system · `
-        + `<a href="?view=results" data-browse-all>browse all ${total} by market</a>`
-        + (untagged ? ` · ${untagged} untagged` : "");
+      cov.innerHTML = `${tagged} of ${total} classified by part &amp; system`
+        + (untagged ? ` · ${untagged} untagged` : "")
+        + ` <a class="browse-all" href="?view=results" data-browse-all>Browse all ${total} by market →</a>`;
 
       renderDirPanel("systems", (v) => displayLabel(v));
       renderDirPanel("commodities", (v) => displayLabel(v));
