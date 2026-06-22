@@ -10,7 +10,10 @@ import pytest
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.build import (
     BuildIssue,
+    _body_hash,
     as_list,
+    build_record,
+    clean_body,
     clean_summary_display_text,
     copy_static_assets,
     load_region_series,
@@ -421,3 +424,61 @@ class TestOpenTagsInBuild:
         from scripts.build import ALLOWED_KEYS, LIST_FIELDS
         assert "open_tags" in ALLOWED_KEYS
         assert "open_tags" in LIST_FIELDS
+
+
+import frontmatter
+
+
+class TestBuildRecordSummary:
+    BODY = "# Reversing Lamps\n\nThis Standard specifies requirements for reversing lamps fitted to vehicles.\n"
+
+    def _write_reg(self, path, body, **extra):
+        meta = {
+            "id": path.stem,
+            "title": "Test Reg",
+            "region": "US",
+            "citation": "49 CFR 571.108",
+            "status": "in-force",
+            "source_url": "https://example.com",
+            "source_api": "ecfr",
+            "last_pulled": "2024-01-01T00:00:00+00:00",
+            "tagging_status": "untagged",
+        }
+        meta.update(extra)
+        post = frontmatter.Post(body, **meta)
+        path.write_text(frontmatter.dumps(post), encoding="utf-8")
+
+    def _current_hash(self, body):
+        return _body_hash(clean_body(body, "ecfr"))
+
+    def test_no_summary_falls_back_to_heuristic(self, tmp_path):
+        path = tmp_path / "test-id.md"
+        self._write_reg(path, self.BODY)
+        record, _issues = build_record(path, {}, draft=True)
+        assert record["summary_ai"] is False
+        assert record["summary_stale"] is False
+        assert record["summary_text"]  # non-empty heuristic excerpt
+        assert "AI summary" not in record["summary_text"]
+
+    def test_summary_present_is_surfaced_and_flagged_ai(self, tmp_path):
+        path = tmp_path / "test-id.md"
+        self._write_reg(
+            path, self.BODY,
+            summary="Sets requirements for reversing lamps on vehicles.",
+            summary_hash=self._current_hash(self.BODY),
+        )
+        record, _issues = build_record(path, {}, draft=True)
+        assert record["summary_text"] == "Sets requirements for reversing lamps on vehicles."
+        assert record["summary_ai"] is True
+        assert record["summary_stale"] is False
+
+    def test_summary_with_mismatched_hash_is_stale(self, tmp_path):
+        path = tmp_path / "test-id.md"
+        self._write_reg(
+            path, self.BODY,
+            summary="Sets requirements for reversing lamps on vehicles.",
+            summary_hash="deadbeef",  # does not match current body
+        )
+        record, _issues = build_record(path, {}, draft=True)
+        assert record["summary_ai"] is True
+        assert record["summary_stale"] is True

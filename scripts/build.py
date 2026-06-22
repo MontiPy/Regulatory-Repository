@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import shutil
@@ -61,6 +62,9 @@ OPTIONAL_KEYS = {
     "last_amended",
     "paywall",
     "translation_status",
+    "summary",
+    "summary_hash",
+    "summary_generated_at",
 }
 
 ALLOWED_KEYS = REQUIRED_KEYS | OPTIONAL_KEYS
@@ -261,6 +265,11 @@ def clean_body(content: str, source_api: str) -> str:
     return "\n".join(lines).strip()
 
 
+def _body_hash(cleaned_body: str) -> str:
+    """SHA-1 of the cleaned body — the stable key for summary staleness."""
+    return hashlib.sha1(cleaned_body.encode("utf-8")).hexdigest()
+
+
 def render_markdown(body: str) -> str:
     import markdown
 
@@ -401,7 +410,11 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
     validate_un_equivalent(metadata, issues)
     validate_un_equivalent_ai(metadata, issues)
 
-    body_html = render_markdown(clean_body(post.content, stringify(metadata.get("source_api"))))
+    cleaned_body = clean_body(post.content, stringify(metadata.get("source_api")))
+    body_html = render_markdown(cleaned_body)
+    authored_summary = stringify(metadata.get("summary"))
+    summary_ai = bool(authored_summary)
+    summary_stale = summary_ai and stringify(metadata.get("summary_hash")) != _body_hash(cleaned_body)
     record = {
         "id": stringify(metadata.get("id")),
         "title": stringify(metadata.get("title")),
@@ -427,7 +440,9 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "paywall": bool(metadata.get("paywall", False)),
         "translation_status": stringify(metadata.get("translation_status", "")),
         "body_html": body_html,
-        "summary_text": summarize(body_html),
+        "summary_text": authored_summary or summarize(body_html),
+        "summary_ai": summary_ai,
+        "summary_stale": summary_stale,
     }
     return record, issues
 
