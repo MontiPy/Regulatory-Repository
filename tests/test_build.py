@@ -5,6 +5,7 @@ import json
 import sys
 from pathlib import Path
 
+import frontmatter
 import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -424,9 +425,6 @@ class TestOpenTagsInBuild:
         from scripts.build import ALLOWED_KEYS, LIST_FIELDS
         assert "open_tags" in ALLOWED_KEYS
         assert "open_tags" in LIST_FIELDS
-
-
-import frontmatter
 
 
 class TestBuildRecordSummary:
