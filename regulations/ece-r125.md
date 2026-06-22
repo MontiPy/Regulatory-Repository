@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The forward field of vision for motor vehicle drivers is regulated, requiring
+  that drivers have an adequate, unobstructed view of the road ahead. Full regulatory
+  details are available through the UNECE WP.29 Regulations index.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 837e5c965bcb2f5e46aec951d968c4771d1b18de
 systems:
 - Visibility
 - Glazing

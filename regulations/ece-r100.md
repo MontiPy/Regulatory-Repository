@@ -27,6 +27,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Battery electric and fuel cell vehicles, along with their high-voltage systems,
+  are regulated under UN R100, which mandates construction and functional safety requirements
+  to protect occupants and others from hazards such as electric shock, energy storage
+  system failures, and related risks.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 08576188936b95906ed74eecaae74d22c7f5b46c
 systems:
 - Battery safety
 - EV charging

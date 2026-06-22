@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Power-operated window, partition, and roof panel systems on passenger cars,
+  three-wheeled vehicles, enclosed motorcycles, and multi-purpose passenger vehicles
+  or trucks with a GVWR of 4,536 kg or less must conform to Technical Standards Document
+  No. 118 (TSD 118). Vehicles manufactured before October 1, 2010, are...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 83e85dcae562656b75af66448982d05884039bf2
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:39+00:00'

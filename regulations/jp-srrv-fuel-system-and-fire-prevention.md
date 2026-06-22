@@ -28,6 +28,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Fuel systems, high-voltage energy storage, and alternative-fuel components
+  (CNG, LPG, hydrogen) in passenger and light vehicles are regulated to prevent fire,
+  explosion, hazardous leakage, and electrical shock during normal use, abuse, and
+  post-crash conditions. Compliance requires that tanks, fuel lines, EV...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: c1c1a52a90c9d172e12b65ae283e3125ec188721
 systems:
 - Fuel safety
 - Battery safety

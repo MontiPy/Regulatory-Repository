@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.222
 status: in-force
+summary: School bus passenger seating and crash protection standards establish occupant
+  protection requirements for passenger seats and restraining barriers in school buses.
+  The regulation mandates specific seating configurations, seat belt positioning,
+  and structural performance criteria to minimize occupant deaths and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 798a4a0bbfef087304b7f858f7be49e85affbf7e
 systems:
 - Crashworthiness
 - Restraints

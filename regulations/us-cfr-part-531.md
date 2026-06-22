@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-531
 status: in-force
+summary: Average fuel economy standards for passenger automobiles require manufacturers
+  to meet minimum fleet-average fuel economy levels, expressed in miles per gallon,
+  for specified model years, with separate standards applicable to domestically manufactured
+  fleets and alternative standards designated for specific low-volume...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2ae9de5d0b20388cd6dc74e59cfdafc838901622
 systems:
 - Emissions
 - HVAC

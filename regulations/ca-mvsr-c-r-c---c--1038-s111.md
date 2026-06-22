@@ -21,6 +21,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Mirrors installed on passenger cars and three-wheeled vehicles must meet
+  specific construction and performance requirements, including stable and adjustable
+  mounting, unit magnification (with defined exceptions), minimum reflectance levels,
+  and no sharp edges. An inside rearview mirror and a driver-side outside...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 32b1da4dca2dc4492975a7abb2eaa1e48148ec86
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:36+00:00'

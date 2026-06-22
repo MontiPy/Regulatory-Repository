@@ -20,6 +20,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles (with specified exclusions such as two-wheeled, tracked, and
+  special-use vehicles) must be equipped with a rear proximity detection device that
+  meets ministerially prescribed visibility performance standards, allowing the driver
+  to observe conditions directly behind the vehicle while reversing from the...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 72bf712a64fd720671fec9fdec8e8f00f014a62f
 systems:
 - Visibility
 - ADAS

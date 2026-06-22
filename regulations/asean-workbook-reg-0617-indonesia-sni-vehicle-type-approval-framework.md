@@ -20,6 +20,12 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://www.gaikindo.or.id/wp-content/uploads/2025/07/03.-Sandro-Mihradi-Vehicle-Type-Approval-System-in-Indonesia.pdf
 status: in-force
+summary: Vehicles and components sold in Indonesia must obtain national type approval
+  and conform to applicable SNI (Indonesian National Standard) requirements before
+  market entry, supported by complete approval documentation, conformity of production
+  records, and correct labeling and local-language materials.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 6760f04c0e07dca7e1db9e0bf07335df76b572c6
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:37+00:00'

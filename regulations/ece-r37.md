@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Filament light sources used in motor vehicle lighting equipment are the subject
+  of this regulation, but the provided text contains only a reference link and does
+  not state specific requirements or mandates.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e3ca838c336fe50628d3807d516c8d7d855211a1
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:36+00:00'

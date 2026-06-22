@@ -19,6 +19,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Fuel economy standards for motor vehicles sold in South Korea require that
+  actual fuel economy values not fall below the manufacturer's declared values by
+  more than 5%, measured separately for urban and highway driving for passenger cars,
+  small vans, and light trucks, and by constant-speed driving for all other...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5b4e362823498ebade26be922e80df6018b7c0e5
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:37+00:00'

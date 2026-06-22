@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.214
 status: in-force
+summary: Side impact protection for passenger cars, multipurpose passenger vehicles,
+  trucks, and buses with a GVWR of 10,000 lb or less requires these vehicles to meet
+  specified performance standards — including side door crush resistance, a moving
+  deformable barrier crash test, and a vehicle-to-pole test — to reduce the risk...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 62d14e9aea4cffffb544a3dc3e6020a6bed1d757
 systems:
 - Crashworthiness
 - Restraints

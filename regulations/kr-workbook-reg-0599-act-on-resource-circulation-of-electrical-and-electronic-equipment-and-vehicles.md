@@ -26,6 +26,12 @@ region: KR
 source_api: spreadsheet
 source_url: https://elaw.klri.re.kr/eng_service/lawView.do?hseq=55946&lang=ENG
 status: in-force
+summary: Korea's Act on Resource Circulation of Electrical and Electronic Equipment
+  and Vehicles governs materials, recyclability, and end-of-life obligations for vehicles
+  sold in Korea. It requires manufacturers and importers to meet resource circulation
+  duties covering restricted substances, recyclability standards, and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 0ceb07fdc9eff9ab3122912bdb37dc5640102330
 systems:
 - Fuel safety
 - Battery safety

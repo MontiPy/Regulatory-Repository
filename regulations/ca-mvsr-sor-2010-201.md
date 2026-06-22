@@ -24,6 +24,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html
 status: in-force
+summary: Greenhouse gas emissions from passenger automobiles and light trucks are
+  regulated under Canada's Environmental Protection Act, 1999, requiring manufacturers
+  to meet specified emission standards for these vehicles. The regulations establish
+  definitions and compliance requirements applicable to covered vehicles,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 463e54a7dc7865128fbb69a1a5a637fd1839bf65
 systems:
 - Emissions
 - EV charging

@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Safety belt anchorages, ISOFIX anchorages, and top tether anchorages in vehicles
+  are regulated by UN R14, which establishes requirements for their design, location,
+  and strength to ensure occupant restraint systems are securely mounted.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4f3ed3b9c241051728f83b51b1e2dd80db0792cd
 systems:
 - Restraints
 - Crashworthiness

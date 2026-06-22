@@ -25,6 +25,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Electronic Stability Control (ESC) systems on passenger cars are regulated
+  under UN R140, which establishes performance and installation requirements to ensure
+  ESC systems function correctly in reducing vehicle instability.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 8105a9e5d63aec2eb34118d13694dd50623a0365
 systems:
 - Braking
 - Steering

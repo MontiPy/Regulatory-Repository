@@ -18,6 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-578
 status: in-force
+summary: Civil and criminal penalties for violations of statutes and regulations administered
+  by NHTSA are covered under this part, which specifies inflation-adjusted civil penalty
+  amounts, establishes NHTSA's interpretation of civil penalty factors, and sets the
+  requirements for timing and manner of correction that a person...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 8881eb631d1eb35473ef607fb03ffaea95c72020
 systems: []
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged

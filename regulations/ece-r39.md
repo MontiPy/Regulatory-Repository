@@ -18,6 +18,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Speedometer equipment on vehicles is the subject of this regulation, but
+  the provided text contains no substantive requirements beyond a reference to the
+  external UNECE WP.29 index for the full regulatory content.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: c84cd78ed8ee64352c0d9d7457bdc076dfa1e16f
 systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:38+00:00'

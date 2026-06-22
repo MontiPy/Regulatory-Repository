@@ -32,6 +32,12 @@ region: IN
 source_api: ais
 source_url: https://www.araiindia.com/certification/certification/vehicle
 status: in-force
+summary: Passenger vehicles manufactured, imported, or sold in India must obtain type
+  approval and provide supporting AIS/IS compliance evidence, correct documentation,
+  and traceable certification records before market entry. Requirements cover the
+  whole-vehicle approval dossier, conformity of production records, VIN and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 017a1593f33d1316a47adcc923439230791920cc
 systems:
 - Crashworthiness
 - Restraints

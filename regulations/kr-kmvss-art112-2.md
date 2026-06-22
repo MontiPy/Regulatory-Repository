@@ -18,6 +18,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Brake hoses in motor vehicles (excluding ultra-compact vehicles) must comply
+  with the standards set out in Attached Table 30-4, and all brake hoses except air
+  pressure brake hoses must be of an integral, non-separable construction.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: a35f6e9ece8a4f24863dcf4fae2341b6e2c06ab5
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:36+00:00'

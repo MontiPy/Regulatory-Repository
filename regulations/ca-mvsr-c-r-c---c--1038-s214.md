@@ -25,6 +25,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Passenger cars, three-wheeled vehicles, and certain buses, trucks, and multi-purpose
+  passenger vehicles with a GVWR of 4,536 kg or less must conform to Technical Standards
+  Document No. 214 on side impact protection. Exemptions from specific TSD 214 test
+  requirements apply to outboard seating positions modified for...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 38c5e26a4db8aa9f2b5ced69105c134b07512f04
 systems:
 - Crashworthiness
 - Restraints

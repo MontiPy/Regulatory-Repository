@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Tyre installation on vehicles is the subject of this regulation, but the
+  provided text contains only a reference link and no substantive regulatory content
+  to summarize.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 25ea37093945f7feac74805f568421ce7704feca
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:36+00:00'

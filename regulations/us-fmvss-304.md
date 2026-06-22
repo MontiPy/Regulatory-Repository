@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.304
 status: in-force
+summary: Compressed natural gas (CNG) fuel containers used on passenger cars, multipurpose
+  passenger vehicles, trucks, and buses are regulated to reduce fire-related deaths
+  and injuries from fuel leakage in crashes. The standard requires CNG containers
+  to pass pressure cycling, hydrostatic burst, and bonfire tests, be equipped...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 7886a2c6b333fbfea003bab917e2bb4087c066c8
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'

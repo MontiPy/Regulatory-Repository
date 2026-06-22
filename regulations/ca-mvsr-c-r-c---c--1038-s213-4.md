@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Built-in restraint systems and built-in booster seats installed in vehicles
+  must meet construction, material flammability, and structural requirements specified
+  under Test Method 213.4, including standards for torso and crotch restraint, belt
+  adjustability, buckle release force, webbing strength and durability, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2a68f46da26afca143f1d3ae4a79acbb0b65263f
 systems:
 - Restraints
 - Crashworthiness

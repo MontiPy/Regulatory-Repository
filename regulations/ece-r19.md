@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Front fog lamps for motor vehicles are the subject of this regulation, but
+  the provided text contains only a reference link and does not include the substantive
+  requirements or mandates.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 29efd68460985a09c0c902927b38575c1504564d
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'

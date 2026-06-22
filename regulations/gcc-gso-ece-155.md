@@ -24,6 +24,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: Cybersecurity management systems for vehicle electronic and electrical architecture
+  — including ECUs, telematics, gateways, and backend services — in the GCC region.
+  It requires that these systems be resilient to cyber and software risks, with controlled
+  software update processes and proper management of...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 76c14ef06fc3fbd6a11dea9324f761b0e1e21cc4
 systems:
 - Cybersecurity
 - Software updates

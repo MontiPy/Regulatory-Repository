@@ -27,6 +27,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: Interior fittings and contact surfaces within a vehicle's cabin are regulated
+  under GSO-ECE 21 to reduce occupant injury risk and preserve post-crash survivability.
+  The regulation covers interior impact surfaces alongside related systems such as
+  restraints, airbags, seats, and trim, requiring that these components...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c46ec1904c4ca5edad877b43463f8ea9c26209df
 systems:
 - Crashworthiness
 - Restraints

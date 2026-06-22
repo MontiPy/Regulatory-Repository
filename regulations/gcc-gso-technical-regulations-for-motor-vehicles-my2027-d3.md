@@ -21,6 +21,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: The GCC/GSO Motor Vehicle Technical Regulation Framework governs type approval
+  and homologation for vehicles placed in GCC markets, requiring manufacturers and
+  importers to maintain compliant documentation, VIN/certification labels, owner manuals,
+  type approval files, and production traceability data to enable legal...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: a458f8a057ad6e7da039a21815120e22fadde2c9
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'

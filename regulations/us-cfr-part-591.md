@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-591
 status: in-force
+summary: The importation of motor vehicles and motor vehicle equipment into the United
+  States requires importers to file a declaration with U.S. Customs and Border Protection
+  stating whether the vehicle or equipment conforms to applicable federal safety,
+  bumper, and theft prevention standards. It mandates that permanently...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 8d725812851f1942c2771c014b405fdf5cbb9ebb
 systems:
 - Crashworthiness
 - Theft prevention

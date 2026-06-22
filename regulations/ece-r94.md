@@ -28,6 +28,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Frontal collision protection for passenger vehicles is the subject of this
+  regulation, but the provided text contains only a reference link and does not state
+  specific requirements or mandates.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 0b3f561d527f2c33576f90fa2230a21009a12d2f
 systems:
 - Crashworthiness
 - Restraints

@@ -24,6 +24,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Instrument panel head impact protection for passenger cars and light-duty
+  trucks, vans, and buses (GVWR ≤ 4,536 kg) is regulated, requiring that instrument
+  panels within the defined head impact area decelerate a standardized head form to
+  no more than 80 g continuously for more than 3 milliseconds when struck at...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: c7e9ec39a627047ab5d9e8f6294ef4489a324e07
 systems:
 - Crashworthiness
 - Restraints

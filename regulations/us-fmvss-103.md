@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.103
 status: in-force
+summary: Windshield defrosting and defogging systems on passenger cars, multipurpose
+  passenger vehicles, trucks, and buses are regulated to ensure each vehicle is equipped
+  with a functional system meeting specified performance requirements. Passenger cars
+  must satisfy SAE Recommended Practice J902 performance standards when...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 689118bd6b347a95d149775da9748754da9a236f
 systems:
 - Visibility
 - HVAC

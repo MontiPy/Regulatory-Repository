@@ -20,6 +20,12 @@ region: NZ
 source_api: spreadsheet
 source_url: https://www.nzta.govt.nz/vehicles/vehicle-types/vehicle-classes-and-standards/standards-that-apply-to-your-vehicle
 status: in-force
+summary: Vehicles entering the New Zealand market must meet applicable Land Transport
+  Rules and approved standards before registration, with compliant whole-vehicle approval
+  documentation, type-approval certificates, VIN labels, and traceability records
+  required for market access.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: eeaafff6582333922752403c10c108711a05e54a
 systems: []
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged

@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213b
 status: in-force
+summary: Child restraint systems used in motor vehicles and aircraft are regulated
+  under this standard, which mandates safety performance requirements for all such
+  systems — including add-on, built-in, and belt-positioning types — applicable to
+  vehicles and restraints manufactured on or after December 5, 2026. Its purpose is...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c40ed46cd48767353e5f2dbc2c809fbba29bab1d
 systems:
 - Restraints
 - Crashworthiness

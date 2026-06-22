@@ -18,6 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-545
 status: in-force
+summary: Motor vehicle manufacturers' compliance reporting obligations under the Federal
+  Motor Vehicle Theft Prevention Standard (49 CFR Part 541) are regulated here, requiring
+  manufacturers to respond to NHTSA inquiries, submit reports within 60 days after
+  the production year ending August 31, 2007, and maintain records...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 81ec86dca849402b75cc9afd7697bc79d753135d
 systems:
 - Theft prevention
 - Vehicle identification

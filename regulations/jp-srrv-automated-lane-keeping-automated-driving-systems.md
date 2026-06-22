@@ -22,6 +22,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Automated Lane Keeping and Automated Driving Systems under SRRV/TRIAS/UN
+  R157 (Japan) regulate active safety and ADAS components — including cameras, radar,
+  lidar, driver monitoring, and ADAS ECUs — to ensure vehicles can be legally placed
+  on market with proper type approval, certification labeling, production...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: cb51a007ef0e920e3d5ef5ea3b3885915b783346
 systems:
 - ADAS
 - Vehicle identification

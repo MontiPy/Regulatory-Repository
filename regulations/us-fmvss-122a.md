@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.122a
 status: in-force
+summary: Motorcycle brake systems are regulated under this standard, which applies
+  to motorcycles not certified under § 571.122 and specifies performance and equipment
+  requirements to ensure safe braking under normal and emergency conditions. It mandates
+  that each motorcycle have either a split or dual independent service...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 623a6bf6f4762dea546aa7c7b7dea83a64ee81e2
 systems:
 - Braking
 - Tell-tales & controls

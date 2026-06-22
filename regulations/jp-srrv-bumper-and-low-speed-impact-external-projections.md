@@ -25,6 +25,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Japan's SRRV/TRIAS regulation covers bumpers, external projections, and related
+  crash structures for passenger and light vehicles, addressing both occupant protection
+  and vulnerable road user (pedestrian) safety. It requires that bumpers, fascias,
+  absorbers, sensors, and pedestrian-contact surfaces be designed to...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e8b42fc6bbfee7f7af266e319b03ef5f84adc810
 systems:
 - Crashworthiness
 - Restraints

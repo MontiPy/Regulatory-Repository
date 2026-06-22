@@ -18,6 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.401
 status: in-force
+summary: Passenger cars equipped with a trunk compartment must have an interior release
+  mechanism — either manual (with a visible feature such as lighting or phosphorescence)
+  or automatic (unlatching within 5 minutes) — that allows a person trapped inside
+  to unlatch and open the trunk lid from within. The release must fully...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 1302c5bdd9f740e5b238bbcfb880b830b31443c1
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'

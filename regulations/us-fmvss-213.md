@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213
 status: in-force
+summary: Child restraint systems used in motor vehicles and aircraft, manufactured
+  before December 5, 2026, are regulated under this standard to reduce child deaths
+  and injuries in crashes. It sets safety requirements for add-on and built-in child
+  restraint systems, including booster seats, car beds, harnesses, and rear-facing...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: f30d3c1095c38b20309263fd56d3c2020fc5d160
 systems:
 - Restraints
 - Crashworthiness

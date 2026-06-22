@@ -20,6 +20,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Article 1 of Japan's Vehicle Safety Regulations establishes the official
+  definitions of key terms used throughout the regulations, including classifications
+  of vehicles (towing vehicles, towed vehicles, semi-trailers, pole trailers, emergency
+  vehicles, and road maintenance vehicles), technical concepts (unladen...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 9839b5ecb05bc6ff236e29fab085111d054e9993
 systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged

@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: 'The full regulatory text was not provided, so only the title and citation
+  can be confirmed: UN R116 establishes requirements related to the protection of
+  motor vehicles against unauthorized use, as administered under the UNECE WP.29 framework.'
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 8ad0b72ac303e850361e937ae44d71baf64efdf4
 systems:
 - Theft prevention
 - Cybersecurity

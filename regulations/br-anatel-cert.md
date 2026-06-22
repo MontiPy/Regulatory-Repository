@@ -24,6 +24,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/anatel/pt-br/regulado/certificacao
 status: in-force
+summary: Telecommunications products sold in Brazil must receive certification and
+  homologation from ANATEL, the national telecommunications regulator. Visit the official
+  ANATEL source URL for full requirements and procedures.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9f44a6eead050f55b855659b4e72b61373810cf5
 systems:
 - EMC
 - Cybersecurity

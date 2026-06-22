@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Windshield safety for passenger cars requires that glazing meet mechanical
+  strength standards set by the Minister of Land, Infrastructure and Transport, and
+  that windshields withstand a 48.3 km/h frontal wall impact by maintaining specified
+  minimum attachment to the retention frame (50% for vehicles with automatic...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9e76af8a8b689fee6fc60126f8c7f503182596fb
 systems:
 - Glazing
 - Crashworthiness

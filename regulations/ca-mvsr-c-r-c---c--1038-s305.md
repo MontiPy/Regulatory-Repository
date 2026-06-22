@@ -27,6 +27,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Electric and high-voltage propulsion systems in passenger cars, three-wheeled
+  vehicles, and light-duty trucks and buses (GVWR ≤ 4,536 kg) capable of exceeding
+  40 km/h must conform to Technical Standards Document No. 305 on electrolyte spillage
+  and electrical shock protection, with modified testing and exemptions from...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 30a387eb8c70b8f83c3638928684701ae0e3d38c
 systems:
 - Battery safety
 - EV charging

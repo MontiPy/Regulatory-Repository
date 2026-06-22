@@ -19,6 +19,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Automated driving devices installed in eligible motor vehicles (excluding
+  two-wheeled, three-wheeled, crawler-tracked, and towed vehicles) must meet function
+  and performance standards prescribed by ministerial notice to ensure safe program-controlled
+  operation. Devices receiving type designation under the Road...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: f854ee089eff593a88a1c4acd60483d1f130e1d1
 systems:
 - ADAS
 - Cybersecurity

@@ -25,6 +25,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: UN Regulation No. 135 addresses pole side impact protection for vehicles.
+  The provided text does not contain sufficient detail to summarize specific requirements
+  beyond the regulation's title subject matter.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2437373d55e7c784acdfde0d34d56ba8d215bc32
 systems:
 - Crashworthiness
 - Restraints

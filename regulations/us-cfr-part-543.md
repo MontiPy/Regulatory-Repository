@@ -19,6 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-543
 status: in-force
+summary: Passenger motor vehicle manufacturers seeking exemption from the parts-marking
+  requirements of the vehicle theft prevention standard (49 CFR Part 541) must petition
+  NHTSA by demonstrating that a standard-equipment antitheft device is likely to be
+  at least as effective at reducing and deterring theft as parts-marking...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5cad74cd5d91133ec8577d641b3245dec69fb183
 systems:
 - Theft prevention
 - Vehicle identification

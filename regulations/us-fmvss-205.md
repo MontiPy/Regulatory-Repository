@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.205
 status: in-force
+summary: Glazing materials used in motor vehicles — including passenger cars, trucks,
+  buses, motorcycles, and certain campers — are regulated to reduce occupant injuries
+  from impact, ensure driver visibility, and prevent occupants from being ejected
+  through windows. Manufacturers must conform to ANSI/SAE Z26.1-1996 standards...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 6fdae376ae8ecc4a25d1c6074d459a6fa93f7be2
 systems:
 - Glazing
 - Visibility

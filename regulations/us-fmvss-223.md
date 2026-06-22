@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.223
 status: in-force
+summary: Rear impact guards for trailers and semitrailers are regulated for structural
+  performance and design. The standard requires these guards to meet minimum dimensional
+  specifications (at least 100 mm projected vertical height, positioned no more than
+  305 mm forward of the vehicle's rear extremity), withstand specified...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 9a3f6a779a59a294b721d3f2ca60399dee2770cb
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

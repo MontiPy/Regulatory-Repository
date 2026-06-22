@@ -22,6 +22,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 79 covers steering equipment and systems for passenger vehicles in
+  the GCC region. It requires that vehicle programs identify and satisfy applicable
+  steering-related regulatory obligations prior to launch and throughout production,
+  with nonconformance risks including failed validation evidence, missing...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c49ca78feb08488e589999c63a771659ba725393
 systems:
 - Steering
 tagged_at: '2026-06-16T15:44:38+00:00'

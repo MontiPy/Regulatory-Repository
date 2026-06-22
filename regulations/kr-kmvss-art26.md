@@ -17,6 +17,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Front seats (excluding middle seats) of passenger cars, vans, trucks, and
+  special-purpose vehicles with a gross vehicle weight of 4.5 tonnes or less must
+  be equipped with head restraints capable of reducing impact to the occupant's head
+  in a rear collision. Ultra-compact vehicles and towed vehicles are excluded from...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e991f40fc23d74f11cabfddc15929512d028a76a
 systems:
 - Restraints
 - Crashworthiness

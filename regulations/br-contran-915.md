@@ -20,6 +20,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: The text provided contains only a title, citation, and source URL without
+  any substantive regulatory content. Based solely on what is available, this entry
+  identifies a Brazilian CONTRAN resolution concerning braking systems and ABS/CBS
+  procedures, but its specific requirements cannot be summarized as the full text...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 1f1c753ee02698de33605ea8a3b526bb3363abb0
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:37+00:00'

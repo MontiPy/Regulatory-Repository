@@ -19,6 +19,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicle running gear and tires must meet ministerial standards for
+  strength, anti-skid performance, and — for most vehicle categories — noise levels
+  to ensure safe and robust operation. Tire chains and other running gear accessories
+  must be securely attachable and must not compromise safe operation.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 691e09944e48d8654e403caf4d6c1685b72b9d57
 systems:
 - Tires & wheels
 - Noise

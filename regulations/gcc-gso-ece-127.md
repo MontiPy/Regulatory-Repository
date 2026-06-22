@@ -26,6 +26,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 127 covers pedestrian safety performance for vehicles sold in the
+  GCC region, addressing crashworthiness and protection for both occupants and vulnerable
+  road users. It requires that vehicle structures, restraint systems, and pedestrian
+  protection components reduce injury risk and maintain post-crash...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 782544bfcef5cd955f2070921ded0b141347cd7f
 systems:
 - Crashworthiness
 - Restraints

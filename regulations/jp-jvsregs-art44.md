@@ -21,6 +21,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Rear-view mirrors on motor vehicles in Japan are required to meet ministerial
+  standards for driver field of vision, occupant protection, and pedestrian safety,
+  with specific requirements varying by vehicle type (standard vehicles, two-wheelers,
+  and handlebar-steered three-wheelers without enclosed cabs). Most motor...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4de1c1a7f60d12467dd010c050d3a2b085191aad
 systems:
 - Visibility
 - Pedestrian protection

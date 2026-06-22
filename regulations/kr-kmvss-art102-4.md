@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Pole side impact safety for passenger cars and trucks up to 3.5 tonnes GVW
+  requires compliance with the standards set out in Attached Table 14-8, with exemptions
+  for low-speed electric vehicles, ultra-compact vehicles, and forward-cab trucks
+  within the same weight limit.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4443cd3f3f2b9467b9e1e38550e800eb168146d2
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

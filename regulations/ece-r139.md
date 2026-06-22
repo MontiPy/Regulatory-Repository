@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Brake Assist Systems (BAS) on vehicles are regulated under UN R139, which
+  is administered by UNECE WP.29, but the full regulatory text is not provided here
+  and only a reference link to the external source is given.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 0ada7853809150b81c4ce153dc69cbd691f9d42d
 systems:
 - Braking
 - ADAS

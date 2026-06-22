@@ -27,6 +27,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 95 covers the protection of vehicle occupants in side-impact collisions
+  within the GCC region. It requires that vehicles meet crashworthiness standards
+  intended to reduce occupant injury risk and preserve post-crash survivability, encompassing
+  body structure, restraints, airbags, and related safety systems.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 385005c05ffa9c7c742662a781e83244fdc0ca12
 systems:
 - Crashworthiness
 - Restraints

@@ -17,6 +17,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 936/2022 establishes requirements related to seat belt reminder systems
+  in Brazil. The full regulatory details are available through the official CONTRAN
+  resolution archive.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 9b3f86e5e02af9ae1073335d8d28dcbd90a7e932
 systems:
 - Restraints
 - Tell-tales & controls

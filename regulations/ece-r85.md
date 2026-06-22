@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Net power and maximum 30-minutes power measurement for internal combustion
+  engines and electric drive trains used in motor vehicles is regulated here, requiring
+  standardized test methods to determine and declare engine or motor power output.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: f856bbed3f44d0cf4d06696cb1b6686b0f0d46b7
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:40+00:00'

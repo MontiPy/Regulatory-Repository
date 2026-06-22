@@ -24,6 +24,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/air/aq/mv/standards.html
 status: in-force
+summary: Japanese passenger vehicle exhaust emission standards limit harmful pollutants
+  (NOx, CO, HC, PM/PN) and CO2 output, requiring compliance with certified emissions
+  levels, fuel economy reporting, OBD functionality, and evaporative emission controls
+  across engine, aftertreatment, and hybrid/EV systems. Certification and...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e4e93dce74d7278e557d587e4d3990b6d76b457a
 systems:
 - Emissions
 - On-board diagnostics

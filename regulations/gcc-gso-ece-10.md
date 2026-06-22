@@ -29,6 +29,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 10 regulates electromagnetic compatibility (EMC) for vehicle electrical
+  and electronic systems in GCC markets. It requires passenger-vehicle programs to
+  identify and satisfy applicable EMC obligations before launch and throughout production,
+  with compliance demonstrated through validation evidence,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 049800065febdccbeb881ff94baf5e8c786294ad
 systems:
 - EMC
 tagged_at: '2026-06-16T15:44:38+00:00'

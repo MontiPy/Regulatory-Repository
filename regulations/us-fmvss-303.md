@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.303
 status: in-force
+summary: Fuel system integrity for compressed natural gas (CNG) vehicles — including
+  bi-fuel, dedicated, and dual-fuel types — with a GVWR of 10,000 pounds or less,
+  as well as CNG-powered school buses of any weight, is regulated by this standard.
+  It requires that CNG fuel systems limit pressure loss after crash tests, that...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 414274a837f5193ba884feea45f1267f4d09fa0e
 systems:
 - Fuel safety
 - Crashworthiness

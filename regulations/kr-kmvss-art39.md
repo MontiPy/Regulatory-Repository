@@ -17,6 +17,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Reversing lamps on motor vehicles (excluding towed vehicles of 0.75 tonnes
+  gross vehicle weight or less) must be fitted at the rear in quantities determined
+  by vehicle length — one or two lamps for vehicles up to 6 metres, and two lamps
+  for vehicles exceeding 6 metres — emitting white light. Installation and luminous...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 0c249d659f86fca28fbea479b823f8022ef16211
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:37+00:00'

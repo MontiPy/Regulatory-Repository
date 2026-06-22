@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Passenger cars, vans, trucks, and special-purpose vehicles with a gross vehicle
+  weight of 4.5 tonnes or less must be equipped with an anti-theft device that performs
+  at least one of five specified functions, including inhibiting steering, gear-shifting,
+  gear selector operation, wheel movement via braking force, or...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 873489a20e4d4a93965b60a83943af2a934cda04
 systems:
 - Theft prevention
 - Steering

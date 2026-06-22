@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The full text of UN Regulation No. 34 is not provided here, only a reference
+  link to the UNECE WP.29 index. Based solely on the title, this regulation addresses
+  the prevention of fire risk related to fuel tanks on vehicles.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 5f5a246f6e4855d020689eacb7f93f85ad44f52b
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'

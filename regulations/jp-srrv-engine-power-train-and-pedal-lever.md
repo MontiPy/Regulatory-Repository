@@ -27,6 +27,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Fuel systems, EV energy storage, and related high-voltage components in passenger
+  and light vehicles are regulated under SRRV Article 8 to prevent fire, explosion,
+  electric shock, and hazardous leakage during normal use, abuse, and post-crash conditions.
+  Covered systems include fuel tanks, lines, and valves, as well...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b24ab444f92577eace5b5120be6d8e3c6caae066
 systems:
 - Fuel safety
 - Battery safety

@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The full regulatory text was not provided, so only the title and citation
+  are available. UN Regulation No. 16 covers safety belts and restraint systems in
+  vehicles, as administered under the UNECE WP.29 framework.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: aafbe3116834f29abd5070e97af152f80f9a540e
 systems:
 - Restraints
 - Crashworthiness

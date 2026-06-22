@@ -20,6 +20,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Low-noise vehicles powered by electric motors — including hybrid, electric,
+  and fuel cell vehicles — must be equipped with an acoustic vehicle alerting system
+  (AVAS) that meets the requirements set out in Attached Table 6-33.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 48f1bbae0f3adb769eeaa7171d5211ad5fb8e36c
 systems:
 - Noise
 - Pedestrian protection

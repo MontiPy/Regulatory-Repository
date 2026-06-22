@@ -21,6 +21,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicle steering systems must meet ministerial standards for strength
+  and steering performance, and — except for large passenger vehicles, heavy freight
+  vehicles, two-wheelers, special vehicles, and towed vehicles — must also meet ministerial
+  standards for driver protection to minimize injury risk in a collision.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: dfaf3d49dba8b5064f5ae098f991c93a684c3c00
 systems:
 - Steering
 - Crashworthiness

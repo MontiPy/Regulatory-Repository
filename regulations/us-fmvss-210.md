@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.210
 status: in-force
+summary: Seat belt assembly anchorages in passenger cars, multipurpose passenger vehicles,
+  trucks, buses, and school buses are regulated to ensure proper location for effective
+  occupant restraint and to reduce the likelihood of anchorage failure. The standard
+  requires that appropriate seat belt anchorages be installed at each...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 58d239b504e35533bab40eac88e9fe6d8a227c11
 systems:
 - Restraints
 - Crashworthiness

@@ -25,6 +25,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The provided text contains only a title, citation, region, and a reference
+  link without substantive regulatory content. UN R155 is identified as covering cybersecurity
+  and cybersecurity management systems under the ECE region, but no specific requirements
+  or mandates are included in the text provided.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 78318ad0fd67ac8f5005369f74b57a9877a555ae
 systems:
 - Cybersecurity
 - ADAS

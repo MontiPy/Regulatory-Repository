@@ -19,6 +19,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Child restraint anchorage systems in passenger cars (excluding ultra-compact
+  vehicles) must meet the standards of Article 27-2 and specified structural load
+  requirements. Upper anchorages must withstand a longitudinal load of 816 kg for
+  at least 0.2 seconds with no more than 125 mm displacement, while lower anchorages...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 41d4d63d3349c54063266078e6607bcf5f3ab599
 systems:
 - Restraints
 - Crashworthiness

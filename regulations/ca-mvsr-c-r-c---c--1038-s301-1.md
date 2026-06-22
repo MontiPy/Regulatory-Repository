@@ -23,6 +23,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: LPG fuel system integrity requirements for Canadian vehicles mandate that
+  vehicles using liquefied petroleum gas for propulsion must withstand specified crash
+  test impacts — including frontal, rear, and lateral collisions at defined speeds
+  — without exceeding 142 g of fuel spillage, dropping below 95% of initial...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 15c0cb6f26655a14df148759df7145f03fa6a8c4
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:35+00:00'

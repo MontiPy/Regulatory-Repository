@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: 'The minimum turning radius of motor vehicles in Korea, measured along the
+  centerline of the outer front wheel track, must not exceed 12 meters. For buses,
+  an additional requirement applies: the vehicle body must not simultaneously contact
+  both the inner 5.3-meter and outer 12.5-meter concentric circles when turning.'
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: cf3c6102320ac59a4a693ecfbefe0944a472dc5a
 systems:
 - Steering
 - Tires & wheels

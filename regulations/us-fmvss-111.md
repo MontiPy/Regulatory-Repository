@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.111
 status: in-force
+summary: Rear visibility devices and systems for passenger cars, multipurpose passenger
+  vehicles, trucks, buses, school buses, motorcycles, and low-speed vehicles are regulated
+  by this standard, which requires that these vehicles be equipped with specific mirrors
+  or rear visibility systems that provide the driver a clear,...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 879e9ed82071fc1495ff090042a4195f6c38c92a
 systems:
 - Visibility
 - ADAS

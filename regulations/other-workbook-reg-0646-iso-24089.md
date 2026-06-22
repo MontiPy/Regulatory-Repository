@@ -22,6 +22,13 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/77796.html
 status: in-force
+summary: Vehicle software update engineering across E/E systems, ECUs, telematics,
+  and ADAS controllers is regulated to ensure updates are developed, deployed, and
+  recorded in a controlled manner. This standard provides supporting evidence that
+  software updates maintain traceability, version integrity, rollback capability,
+  and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: eb1db91f52f2f068d5eb97b4aea470a0f923c4ef
 systems:
 - Software updates
 - Cybersecurity

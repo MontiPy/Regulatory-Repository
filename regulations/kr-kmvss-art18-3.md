@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Traction batteries in motor vehicles must be physically separated from the
+  passenger compartment by a wall or protective panel, equipped with overcharge prevention
+  and overcurrent cutoff functions, and must not ignite or explode under physical,
+  chemical, electrical, and thermal shock conditions specified by the...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: a3e44d8595396f68f5c918864d0eeab195c412c5
 systems:
 - Battery safety
 - EV charging

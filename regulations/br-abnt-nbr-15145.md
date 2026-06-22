@@ -22,6 +22,12 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: Brazilian vehicle noise standards (ABNT NBR 15145 / 9714) are administered
+  through Brazil's vehicle type-approval process and set requirements for vehicle
+  noise. Compliance is verified through the official certification body (ATIC) or
+  SENATRAN resolution archive, though the specific noise limits and test procedures...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 08034b93e9e644ed83b5f925f0f55627cb06be89
 systems:
 - Noise
 - Emissions

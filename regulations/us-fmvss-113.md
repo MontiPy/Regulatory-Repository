@@ -16,6 +16,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.113
 status: in-force
+summary: Hood latch systems on passenger cars, multipurpose passenger vehicles, trucks,
+  and buses must be equipped with at least one hood latch system, and any front-opening
+  hood that partially or completely obstructs the driver's forward view through the
+  windshield in any open position must also have a second latch position...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 6c952ca7ef3c49b9158d99ee434f5a93e8a63d80
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:40+00:00'

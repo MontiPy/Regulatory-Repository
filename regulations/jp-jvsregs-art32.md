@@ -23,6 +23,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles in Japan must be equipped at the front with driving beam and
+  passing beam headlights meeting ministerial standards for light color, brightness,
+  mounting position, and installation method; adaptive driving beam headlights may
+  substitute for these on eligible vehicles and, when of sufficient luminous...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 1193a372a87c7808c6493148b048c6d47caf6fd3
 systems:
 - Lighting & signaling
 - ADAS

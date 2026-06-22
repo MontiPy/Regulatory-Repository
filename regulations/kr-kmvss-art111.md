@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: 'Autonomous driving systems in Korea are classified into three types: partial
+  (operates under specified conditions but requires driver intervention when needed),
+  conditionally fully autonomous (operates under specified conditions without driver
+  intervention), and fully autonomous (operates in all domains without driver...'
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2edeec6a6b4081223c14704f198b3947fd4ba757
 systems:
 - ADAS
 tagged_at: '2026-06-16T15:44:37+00:00'

@@ -19,6 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.216
 status: in-force
+summary: Roof crush resistance for passenger cars and light-duty multipurpose passenger
+  vehicles, trucks, and buses (GVWR ≤ 6,000 lbs) is regulated by this standard, which
+  requires that when a specified force (1.5 times the vehicle's unloaded weight, not
+  exceeding 22,240 Newtons for passenger cars) is applied to either side of...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 70c0a0d9ea8c7721d448e87a374d8bc41b771ef3
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'

@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Autonomous driving system manufacturers in Korea must designate an Operational
+  Design Domain (ODD) defining the specific conditions under which the system can
+  operate normally and safely. The ODD must address the vehicle's operating environment
+  (including road and weather conditions), the system's operational limits,...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 2b6da331552302d8918b09cd996b1649c3c2c07b
 systems:
 - ADAS
 tagged_at: '2026-06-16T15:44:40+00:00'

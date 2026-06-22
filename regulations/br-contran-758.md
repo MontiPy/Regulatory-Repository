@@ -21,6 +21,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 758/2018 establishes Brazilian requirements for vehicle controls,
+  tell-tales, and indicators. The full regulatory text must be accessed directly through
+  the official CONTRAN resolution archive, as the complete provisions are not available
+  here.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d8d31a35e87267b5c9085859bf9515f0a0eea629
 systems:
 - Tell-tales & controls
 - Lighting & signaling

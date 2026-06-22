@@ -28,6 +28,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: The UAE Fuel Economy Program regulates fuel economy, CO2, and emissions performance
+  of vehicles sold in the UAE, including labeling requirements for consumer-facing
+  fuel economy information. Covered systems include engines, aftertreatment, OBD,
+  evaporative emissions, and hybrid/EV energy management, though the...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: f3706012939e7a00f4c52532746bc0eaf2ce3cd6
 systems:
 - Emissions
 - On-board diagnostics

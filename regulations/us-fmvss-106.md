@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.106
 status: in-force
+summary: Brake hoses, brake hose assemblies, and brake hose end fittings for motor
+  vehicles are regulated under this standard, which specifies labeling and performance
+  requirements to prevent brake system failure caused by pressure or vacuum loss due
+  to hose or assembly rupture. It applies to hydraulic, air, and vacuum brake...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: be151c068050b3684516b063e315f6739dd6cc25
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:38+00:00'

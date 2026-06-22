@@ -23,6 +23,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.japaneselawtranslation.go.jp/en/laws/view/3829
 status: in-force
+summary: End-of-life vehicles in Japan are regulated under this law, which assigns
+  recycling obligations to automobile manufacturers and importers covering the recovery
+  of airbags, fluorocarbons, and automobile shredder residue (ASR), and requires consumers
+  to pay recycling fees while mandating proper handling of hazardous...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 27ec2346fd20b6b022eb7415fef55312d8af2f34
 systems:
 - HVAC
 - Battery safety

@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Tyres are regulated for rolling sound emission, wet adhesion, and rolling
+  resistance, requiring compliance with specified performance limits and test procedures
+  for each of these three properties.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 6468de1cc0cbc75e1a5c36c0fc6f2724cb5627d7
 systems:
 - Tires & wheels
 - Noise

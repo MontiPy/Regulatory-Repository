@@ -23,6 +23,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9492022.pdf/@@download/file
 status: in-force
+summary: Passenger vehicle occupant protection in side-impact collisions covers domestic
+  and imported automobiles, light trucks, vans, and utility vehicles, requiring them
+  to meet performance standards for lateral impacts against a deformable barrier and
+  a pole, verified through prescribed test procedures or equivalent UN or...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: d1f6681646589147201ceaa43a4e800b1b1f6482
 systems:
 - Crashworthiness
 - Restraints

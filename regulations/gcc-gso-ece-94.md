@@ -28,6 +28,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 94 covers occupant protection in frontal collision events for vehicles
+  sold in the GCC region. It requires that vehicle crash structures, restraint systems
+  (airbags, seat belts, seats), and related components meet standards that reduce
+  occupant injury risk and preserve post-crash survivability.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e3d48fa4002ccefbeb405db372b8660bcfe4f29c
 systems:
 - Crashworthiness
 - Restraints

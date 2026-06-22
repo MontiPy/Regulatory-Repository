@@ -25,6 +25,10 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicles in Korea must comply with the electromagnetic compatibility
+  standards specified in Attached Table 24 of the KMVSS.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 65f631ee1d84546f73dc75e5b6ec33c7d9368158
 systems:
 - EMC
 tagged_at: '2026-06-16T15:44:40+00:00'

@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Seat belt anchorage systems and installed seat belts in motor vehicles must
+  meet specified adjustment and static strength standards, including minimum load
+  thresholds (varying by vehicle class and seating row) that anchorages must withstand,
+  defined angular and spacing requirements for lap anchorage positioning, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 324886706f05b4b135af899d55a7c71b111b872d
 systems:
 - Restraints
 - Crashworthiness

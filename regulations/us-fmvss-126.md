@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.126
 status: in-force
+summary: Electronic stability control (ESC) systems on light vehicles — including
+  passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of
+  10,000 pounds or less — are regulated by this standard, which requires that these
+  vehicles be equipped with a qualifying ESC system that individually applies brake...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: dcdde2809cbd930562afc13ea3b3787dc98bc500
 systems:
 - Braking
 - Steering

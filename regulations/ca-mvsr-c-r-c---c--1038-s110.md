@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Motor vehicles with a GVWR of 4,536 kg or less (excluding certain motorcycles,
+  restricted-use vehicles, three-wheeled vehicles, and low-speed vehicles) and their
+  tire rims must conform to Technical Standards Document No. 110 on tire selection
+  and rims. The regulation also specifies how required tire and loading...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 262718714430e51191575ec39d4b6f84cdeeaf99
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'

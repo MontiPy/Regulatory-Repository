@@ -24,6 +24,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 125 covers forward field of vision requirements for vehicle visibility,
+  lighting, and human-machine interface systems in the GCC region. It mandates that
+  vehicles provide adequate road illumination without glare, clearly signal driver
+  intent, and maintain proper lamp performance across exterior lamps,...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 2dddfa50e0c2721d64d827b128416f567e8f0539
 systems:
 - Lighting & signaling
 - Visibility

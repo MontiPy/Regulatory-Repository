@@ -25,6 +25,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Driver-operated control devices in motor vehicles — including those for engine
+  and power transmission systems, braking, lighting, horn, direction indicators, wipers,
+  washers, and defrosters — must conform to ministerial notice standards for layout
+  and identification markings so that the driver can easily identify and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 21678bcf5d6d322861f97d7a8c212a800770524f
 systems:
 - Braking
 - Lighting & signaling

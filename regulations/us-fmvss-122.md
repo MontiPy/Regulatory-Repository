@@ -24,6 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.122
 status: in-force
+summary: Motorcycle service brake systems (and where applicable, parking brake systems)
+  are regulated under this standard, which requires that all covered motorcycle categories
+  meet specified braking performance requirements under normal and emergency riding
+  conditions, with compliance mandatory for most motorcycle categories...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 10cd4e048d04c5f8bfc2466f27c6eb2a8004c3e8
 systems:
 - Braking
 - Tires & wheels

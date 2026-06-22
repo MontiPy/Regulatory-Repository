@@ -22,6 +22,12 @@ region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/
 status: in-force
+summary: Child restraint systems and booster seats sold in Canada are regulated to
+  keep child occupants correctly positioned and restrained during crashes and normal
+  driving. Compliance covers seats, belt assemblies, retractors, buckles, anchorages,
+  and ISOFIX/LATCH/tether hardware, requiring these components to meet...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 91e202d39afe92716bad35ab345778cf94ef04e8
 systems:
 - Restraints
 - Crashworthiness

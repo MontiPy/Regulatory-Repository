@@ -17,6 +17,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Hood latch systems on vehicles are regulated, requiring that every hood be
+  equipped with a latch system and that any front-opening hood capable of obstructing
+  the driver's forward view through the windshield must have either a second latching
+  position or a secondary hood latch system.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d75cf198474f7ee95389aad2227111752f09251f
 systems:
 - Visibility
 - Crashworthiness

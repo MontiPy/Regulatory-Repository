@@ -21,6 +21,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Glazing materials used in vehicles (excluding most trailers) must meet the
+  safety requirements of the ANSI Z26 Safety Standard — 1996, with specific provisions
+  addressing vehicle-type classifications, permitted alternative test procedures,
+  and exceptions such as unbanded tempered glass edges in school buses. Every...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 40ab34a9f4d0dec8af15f5d18b2af6b18b3f3229
 systems:
 - Glazing
 - Visibility

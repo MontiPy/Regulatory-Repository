@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.226
 status: in-force
+summary: Ejection mitigation systems in passenger cars, multipurpose passenger vehicles,
+  trucks, and buses with a GVWR of 4,536 kg or less are regulated to reduce the likelihood
+  of complete and partial occupant ejections through side windows during rollovers
+  or side impacts. The standard requires these vehicles to meet...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 5b2de5051fc509e630390ede78a6d4eb27ab36c5
 systems:
 - Crashworthiness
 - Restraints

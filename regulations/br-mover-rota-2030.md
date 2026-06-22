@@ -26,6 +26,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/planalto/en/latest-news/2025/04/president-lula-signs-decree-that-regulates-green-mobility-and-innovation-program
 status: in-force
+summary: Brazil's Green Mobility and Innovation Program (MOVER), established by presidential
+  decree, regulates the country's automotive energy efficiency and green mobility
+  framework as a successor to the Rota 2030 program. The provided text contains only
+  a headline and navigation elements and does not specify the program's...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b122a6e449a60f08e020bcf12cbd5812d26dee3d
 systems:
 - Emissions
 - EV charging

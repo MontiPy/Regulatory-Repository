@@ -23,6 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The provided text contains only a reference link and does not include the
+  substantive regulatory content needed for a meaningful summary. The text plainly
+  establishes that UN Regulation No. 168 addresses Real Driving Emissions (RDE) under
+  the ECE region, directing readers to the UNECE WP.29 index for the full...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 003a2783f4167f00a92adff2fc28f457fe530818
 systems:
 - Emissions
 - On-board diagnostics

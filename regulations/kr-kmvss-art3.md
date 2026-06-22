@@ -13,6 +13,10 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle and motorcycle structure and equipment must be manufactured
+  or maintained to ensure safe operation.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 6ebb601f2416b07d706ec274faae5e86af0f4c4f
 systems: []
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged

@@ -18,6 +18,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Steering control rearward displacement for passenger cars, three-wheeled
+  vehicles, and trucks, buses, and multi-purpose passenger vehicles (excluding walk-in
+  vans) with a GVWR of 4,536 kg or less and unloaded mass of 2,495 kg or less must
+  conform to Technical Standards Document No. 204. Vehicles that already meet the...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 3a7550118c66eddf770216993e832d6510705047
 systems:
 - Steering
 - Crashworthiness

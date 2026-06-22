@@ -19,6 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.220
 status: in-force
+summary: School bus rollover protection requires that a school bus body structure
+  withstand a downward force equal to 1.5 times the vehicle's unloaded weight applied
+  to the roof, with roof deflection not exceeding 130 mm and all emergency exits remaining
+  operable during and after the force application.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: fb7713cce67342278f90aae36c700d679d4f85fb
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'

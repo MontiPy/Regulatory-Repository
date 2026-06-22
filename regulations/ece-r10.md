@@ -29,6 +29,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Electromagnetic compatibility (EMC) of motor vehicles and their electronic/electrical
+  components is regulated under UN R10, which requires that vehicles and components
+  neither generate electromagnetic interference beyond specified limits nor be susceptible
+  to such interference in ways that impair their safe function.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 67ec2f58c88df63924d215c009d08bb7105f3f25
 systems:
 - EMC
 - EV charging

@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Steering equipment on vehicles is the subject of this regulation, but the
+  provided text contains insufficient detail beyond a reference to the UNECE WP.29
+  index to describe its specific requirements or mandates.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: a5992645e204f3b0373b20e935b4a5d93aaf6d21
 systems:
 - Steering
 - ADAS

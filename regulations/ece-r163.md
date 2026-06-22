@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Vehicle alarm systems are the subject of this regulation, but the provided
+  text contains insufficient detail to summarize specific requirements or mandates
+  beyond its title and subject matter.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: a97c42a96234985aad72a5ccfd8d410c0dd1d778
 systems:
 - Theft prevention
 - Lighting & signaling

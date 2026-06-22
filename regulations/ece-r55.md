@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Mechanical coupling components used to connect vehicles are the subject of
+  this regulation, but the provided text contains only a title and index reference
+  without specifying the detailed requirements or mandates.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: e1e07224e4c5eaecbbaf065d772f30622fd1d590
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:38+00:00'

@@ -26,6 +26,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Audible Warning Devices under SRRV/TRIAS/UN R28 (Japan) covers vehicle sound-emitting
+  warning systems, with applicability spanning exhaust, intake, NVH components, AVAS
+  speakers/controllers, and related noise testing. The regulation's compliance intent
+  focuses on preventing fire, explosion, electric shock, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: af64af03399b4b4e42f3a11052acf284ea28bcd2
 systems:
 - Noise
 - Fuel safety

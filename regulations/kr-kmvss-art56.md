@@ -19,6 +19,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Commercial vehicles subject to mandatory digital tachograph installation
+  are regulated under this article, which delegates both the scope of affected vehicles
+  and the installation standards to Article 55(1) of the Traffic Safety Act.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 0b9edd7ac79623b8ed690535dd6ef0857139b80e
 systems:
 - On-board diagnostics
 - Vehicle identification

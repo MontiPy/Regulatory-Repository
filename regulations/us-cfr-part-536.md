@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-536
 status: in-force
+summary: CAFE fuel economy credits for passenger cars and light trucks are regulated
+  under this part, covering how credits earned by exceeding fuel economy standards
+  can be carried back up to three model years or forward up to five model years. It
+  establishes requirements for manufacturers to transfer credits between their own...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 1c9dd2c0582c8a27c2e49330b899d05e92e157b5
 systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged

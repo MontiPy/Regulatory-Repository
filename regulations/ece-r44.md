@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Child restraint systems for use in motor vehicles are the subject of this
+  regulation, but the provided text contains insufficient detail to summarize specific
+  requirements or mandates beyond its title and subject matter.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 02f02143507711cb6ffbe95cddb758398257e4e0
 systems:
 - Restraints
 - Crashworthiness

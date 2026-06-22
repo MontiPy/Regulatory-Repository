@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.119
 status: in-force
+summary: New pneumatic tires for heavy vehicles (GVWR over 10,000 lbs), specialty
+  tires, and motorcycle tires are subject to this standard, which mandates performance
+  requirements for endurance, strength, and high-speed capability, as well as marking
+  and rim-matching information to ensure proper tire selection and safe use.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 7dc9e47a16a36ae97e4ca92eabb701f78cf2ee84
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'

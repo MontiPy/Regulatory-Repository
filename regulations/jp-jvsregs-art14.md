@@ -19,6 +19,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles' suspension systems are regulated to ensure they have springs
+  or equivalent components with sufficient strength and cushioning capacity to safely
+  absorb road impacts, in accordance with ministerial standards. Exemptions apply
+  to large special vehicles, small agricultural special vehicles, light towed...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 3858c40ba5116b5bab3aa1ee8944ceaa303dabfd
 systems: []
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged

@@ -25,6 +25,12 @@ region: CA
 source_api: spreadsheet
 source_url: https://ised-isde.canada.ca/site/certification-engineering-bureau/en
 status: in-force
+summary: Radio apparatus and interference-causing equipment installed in vehicles
+  in Canada must comply with ISED certification requirements covering spectrum use,
+  electromagnetic compatibility, and equipment approval. Applicable vehicle systems
+  include telematics, keyless entry, Bluetooth/Wi-Fi/cellular modules, radar, TPMS...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: edfb2cf91df4bf8010525686e8145bdd9762b28c
 systems:
 - EMC
 - ADAS

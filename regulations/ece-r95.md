@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The full text of UN Regulation No. 95 is not provided here, only a reference
+  link to an external source. Based solely on the available text, this entry identifies
+  UN R95 as an ECE regulation concerning side collision protection.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 144113bdbf6f07603d316ff61f3380808d94c29f
 systems:
 - Crashworthiness
 - Restraints

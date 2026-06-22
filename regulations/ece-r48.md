@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The installation of lighting and light-signalling devices on vehicles is
+  regulated, requiring that such devices be positioned, oriented, and combined on
+  the vehicle in accordance with specified technical and visibility standards.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 647bd4b759137c2559d4cc4f92c78c5b41b20df0
 systems:
 - Lighting & signaling
 - Visibility

@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.302
 status: in-force
+summary: Flammability of interior materials in motor vehicle occupant compartments
+  (including seats, trim panels, headlining, floor coverings, and other components)
+  is regulated by this standard, which requires that these materials not burn or transmit
+  a flame front across their surface at a rate exceeding 102 mm per minute...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: c77c65db012d66546113e8597e31ec5e9fdc9bc7
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:35+00:00'

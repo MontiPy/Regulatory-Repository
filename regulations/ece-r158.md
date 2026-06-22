@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Reversing detection technology on vehicles is the subject of this regulation,
+  but the provided text contains insufficient detail to summarize specific requirements
+  or mandates beyond what the title establishes.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 16ef2f45c76c60980f33900d49e33bb7648f3832
 systems:
 - ADAS
 - Visibility

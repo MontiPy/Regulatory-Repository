@@ -20,6 +20,12 @@ region: EAEU
 source_api: spreadsheet
 source_url: https://docs.eaeunion.org/en/documents/306/2419/
 status: in-force
+summary: Wheeled vehicles placed on the Eurasian Economic Union customs territory
+  are subject to this regulation, which requires category-specific conformity assessment,
+  valid type-approval certification, correct documentation, and traceable compliance
+  evidence before market entry is permitted.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 6df9e7732c18a2bab9cd55616e467493ef886f2d
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'

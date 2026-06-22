@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-596
 status: in-force
+summary: Automatic emergency braking (AEB) test devices — including pedestrian mannequins,
+  vehicle simulators, and their carriers — used in federal motor vehicle safety compliance
+  testing are defined and specified here. The regulation establishes the design and
+  performance criteria for these tools so that AEB compliance tests...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 0eabf2354fef638f935d5e21c824275805718021
 systems:
 - Braking
 - ADAS

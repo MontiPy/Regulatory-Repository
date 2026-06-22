@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213a
 status: in-force
+summary: Add-on child restraint systems recommended for children weighing up to 18
+  kilograms (40 lbs) or up to 1,100 millimeters (43 inches) in height are subject
+  to this standard, which mandates side impact protection performance requirements
+  including structural integrity during dynamic testing and compliance with all...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 010f5a929adbeb166acbd6531cda768a013f5dcf
 systems:
 - Restraints
 - Crashworthiness

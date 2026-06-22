@@ -23,6 +23,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Passenger cars, three-wheeled vehicles, and multi-purpose passenger vehicles
+  and trucks with a GVWR of 4,536 kg or less (excluding walk-in vans and emergency
+  vehicles) must be equipped with an electronic immobilization system that automatically
+  arms, prevents the vehicle from moving more than 3 m under its own power...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: daae7bef0ff3f46379dea7c53e8f1cd744ec2b71
 systems:
 - Theft prevention
 - Cybersecurity

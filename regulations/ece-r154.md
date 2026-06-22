@@ -25,6 +25,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Emissions and fuel consumption testing for light-duty vehicles under the
+  Worldwide Light-Duty Test Procedure (WLTP) is the subject of this regulation, but
+  the provided text contains only a reference link and no substantive regulatory content
+  to summarize.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 845c41ae5851c105e66e22a9c952a2655d4ed696
 systems:
 - Emissions
 - On-board diagnostics

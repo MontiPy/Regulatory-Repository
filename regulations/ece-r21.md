@@ -25,6 +25,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Interior fittings of motor vehicles are regulated to ensure occupant protection,
+  requiring that surfaces and components within the passenger compartment meet specified
+  safety standards to minimize injury risk in the event of impact.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 72b0efd0c476b430ee681d34d7943fc3b59f2daa
 systems:
 - Crashworthiness
 - Restraints

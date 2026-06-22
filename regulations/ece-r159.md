@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Moving-Off Information Systems (MOIS) on vehicles are the subject of this
+  regulation, but the provided text contains insufficient detail to summarize specific
+  requirements or mandates beyond the regulation's title and citation.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: c065205e0091fbf044b69a48a47983b361b8c459
 systems:
 - ADAS
 - Visibility

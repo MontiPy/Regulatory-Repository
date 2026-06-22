@@ -23,6 +23,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Windshield wiping, washing, defrosting, and defogging systems for vehicles
+  sold in Japan are regulated under SRRV/TRIAS to ensure adequate driver visibility.
+  Applicability spans wiper/washer systems, defrost/defog components, glazing zones,
+  and related visibility suppliers, with final disposition requiring manual...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: bd3071077a98bd57b9c52dbd3e906805649f001b
 systems:
 - Visibility
 - Glazing

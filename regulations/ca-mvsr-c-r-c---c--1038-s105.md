@@ -21,6 +21,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Multi-purpose passenger vehicles, trucks, and buses must conform to Technical
+  Standards Document No. 105 on Hydraulic and Electric Brake Systems. It also specifies
+  that brake-related indicator lamps must display prescribed identification symbols
+  corresponding to the fault condition detected, or a general brake system...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: cbee7c3c530e648993f7bbce5170ddb52c099f95
 systems:
 - Braking
 - Tell-tales & controls

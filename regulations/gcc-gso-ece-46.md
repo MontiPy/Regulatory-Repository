@@ -25,6 +25,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: Mirrors and camera-monitor systems used as devices for indirect vision are
+  regulated under this GCC standard to ensure adequate visibility, clear signaling
+  of driver intent, and proper road illumination without glare. Compliance requires
+  conformance in light color, intensity, aim, and tell-tale logic, while avoiding...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: d65fb07175018782fefc9d9d26e70bddfc55aedc
 systems:
 - Visibility
 - Lighting & signaling

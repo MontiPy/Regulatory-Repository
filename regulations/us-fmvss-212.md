@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.212
 status: in-force
+summary: Windshield mounting on passenger cars, multipurpose passenger vehicles, trucks,
+  and buses with a GVWR of 4,536 kilograms or less is regulated to ensure the windshield
+  stays in place during crashes. When a vehicle impacts a fixed perpendicular barrier
+  at up to 48 km/h, the mounting must retain at least 75 percent of...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 5b6e7de8977d0b282bf5f74f41d7093582aae953
 systems:
 - Crashworthiness
 - Glazing

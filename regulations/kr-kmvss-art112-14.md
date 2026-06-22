@@ -17,6 +17,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Traction batteries in electric vehicles and electric two-wheeled vehicles
+  (excluding hydrogen-powered electric two-wheeled vehicles) must comply with the
+  requirements set out in each item of Article 18-3.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: dd2eca80bf84e019ba15afaa0dfb84b32002010a
 systems:
 - Battery safety
 - EV charging

@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202
 status: in-force
+summary: Head restraints in passenger cars and light-duty multipurpose passenger vehicles,
+  trucks, and buses (GVWR of 4,536 kg or less) manufactured before September 1, 2009,
+  are regulated to reduce neck injury frequency and severity in collisions. The standard
+  requires head restraints at front outboard seating positions (and...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: d05be27c4bc28d66d673c50eb8c88f8b69f00c96
 systems:
 - Restraints
 - Crashworthiness

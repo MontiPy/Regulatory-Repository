@@ -27,6 +27,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 26 governs exterior projections on vehicles in the GCC region with
+  the intent of reducing injury risk to occupants and vulnerable road users such as
+  pedestrians. It requires that exterior vehicle surfaces and related structures be
+  designed to minimize harm upon contact, covering components such as bumpers,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 3ed17904fcfcc95f4c3fa848161fcfcd734817ef
 systems:
 - Crashworthiness
 - Restraints

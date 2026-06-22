@@ -24,6 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-563
 status: in-force
+summary: Event data recorders (EDRs) in eligible motor vehicles are regulated for
+  how they collect, store, and make retrievable crash event data. Manufacturers of
+  passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of
+  8,500 lbs or less (if equipped with an EDR) manufactured on or after September 1,...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 086770e9f1494fe6eec970a7a5a901977f4b22d2
 systems:
 - Crashworthiness
 - Restraints

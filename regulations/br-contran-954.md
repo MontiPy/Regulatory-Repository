@@ -24,6 +24,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9542022.pdf/@@download/file
 status: in-force
+summary: Electronic stability control systems for new passenger and cargo vehicles
+  (categories M1, M2, M3, N1, N2, N3) and trailers/semi-trailers (O3 and O4) sold
+  in Brazil, whether domestically produced or imported. It mandates that these vehicles
+  be equipped with either Electronic Stability Control (ESC) or a Vehicle...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 41505b48537c1a0fc04e32b5f3654e226cfe08b3
 systems:
 - Braking
 - Steering

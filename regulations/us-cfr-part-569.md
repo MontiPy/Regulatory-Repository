@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-569
 status: in-force
+summary: Regrooved and regroovable tires sold or introduced into interstate commerce
+  are regulated under this part, which sets conditions for their sale and use. It
+  requires that regrooved tires meet specific standards for tread material thickness,
+  groove dimensions, fluid drainage, and freedom from structural defects, and...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 3fe71f816d8a0ae7eefa4cf735f71911024b8da6
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'

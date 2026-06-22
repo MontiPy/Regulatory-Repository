@@ -19,6 +19,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Windshield mounting for passenger cars and certain trucks, buses, and multi-purpose
+  passenger vehicles (GVWR of 4,536 kg or less) must conform to Technical Standards
+  Document No. 212 (TSD 212), with exemptions for forward control configuration vehicles,
+  open-body vehicles with fold-down or removable windshields, and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 902dac89e5b6d9ad609505602e02d740d809b488
 systems:
 - Glazing
 - Crashworthiness

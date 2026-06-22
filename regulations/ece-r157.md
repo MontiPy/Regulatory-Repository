@@ -24,6 +24,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Automated Lane Keeping Systems (ALKS) on motor vehicles are regulated under
+  this UN ECE rule, which establishes approval requirements to ensure such systems
+  maintain vehicles within their lane without driver input under defined conditions.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: bac615d16b9c17e965429e914db3fceec874a32b
 systems:
 - ADAS
 - Braking

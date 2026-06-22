@@ -26,6 +26,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305
 status: in-force
+summary: Electric-powered passenger cars and light trucks/buses (GVWR ≤ 4,536 kg)
+  using high-voltage propulsion systems (>60 VDC or >30 VAC) and manufactured before
+  September 1, 2027, are subject to this standard. It requires limiting electrolyte
+  spillage, preventing intrusion of electric energy storage/conversion devices into...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 33ab46d597869d7f18c70abf32394066ddb2a919
 systems:
 - Battery safety
 - EV charging

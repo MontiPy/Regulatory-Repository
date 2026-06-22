@@ -21,6 +21,12 @@ region: GCC
 source_api: spreadsheet
 source_url: https://moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
 status: in-force
+summary: Regulated products entering the UAE market, including passenger vehicles
+  and components within MOIAT/ECAS scope, must have valid UAE conformity certificates
+  and complete market-entry documentation beyond the baseline GCC/GSO requirements.
+  This includes whole-vehicle approval dossiers, type-approval certificates,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4246e006405371baf222b5cdd181ee43d039a4b3
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'

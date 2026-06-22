@@ -23,6 +23,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle steering systems in Korea must meet structural and performance
+  standards ensuring all components operate without contact, damage, or abnormal behavior,
+  resist electromagnetic interference, maintain straight-line travel at maximum speed,
+  and include failure warning devices. The regulation also limits...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4add9b069d430a692e8e1eb0fe3a3674f795f41e
 systems:
 - Steering
 - EMC

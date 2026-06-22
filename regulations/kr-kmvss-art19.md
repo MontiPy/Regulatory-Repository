@@ -24,6 +24,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle frames and bodies must meet structural rigidity, attachment,
+  and safety standards, including limits on rear overhang distance, required display
+  of gross vehicle weight and payload information on certain vehicle types, and mandatory
+  side and rear underrun protection devices on heavy trucks and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2225d95c82bf8bee5e8825b2de868e71aed20608
 systems:
 - Crashworthiness
 - Pedestrian protection

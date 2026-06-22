@@ -22,6 +22,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Electronic stability control (ESC) systems on motor vehicles (excluding ultra-compact
+  vehicles) must meet the structure, performance, and failure identification marking
+  standards specified in Attached Table 7-7 of the KMVSS.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 643c6ee138125dee27242b879091bb3777b37a54
 systems:
 - Braking
 - ADAS

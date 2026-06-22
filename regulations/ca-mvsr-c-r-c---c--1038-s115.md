@@ -21,6 +21,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Every vehicle sold or manufactured in Canada must have a unique 17-character
+  vehicle identification number (VIN) that is permanently and indelibly marked on
+  a structural part of the vehicle and readable without disassembly. The regulation
+  specifies the exact format, character composition, placement, legibility, and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: ff4616368b5a7309fc35e56b5fa3c8f4f283ed73
 systems:
 - Vehicle identification
 - Theft prevention

@@ -19,6 +19,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Side-marker lamps on vehicles are regulated under UN R91, but the provided
+  text contains only a reference link and does not include the specific requirements
+  or mandates of the regulation.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 98cd5a71c7eaa5038f0cd529243c87cced0e0d90
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:37+00:00'

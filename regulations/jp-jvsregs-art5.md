@@ -22,6 +22,10 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles in Japan must meet stability standards for safe travel, as
+  defined by ministerial notice.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 3f06b1dd3cd2ef422f31b664d6400ccd9a6236ef
 systems:
 - Steering
 - Tires & wheels

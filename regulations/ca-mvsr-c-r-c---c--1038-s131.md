@@ -20,6 +20,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: School buses (excluding multifunction school activity buses) must be equipped
+  with one or two stop signal arms conforming to TSD 131, and if fitted with an image
+  recording system to capture vehicles that pass during red warning lamp activation,
+  that system must be positioned to record rear licence plates, record...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: c65f1d8bfd277abd508637409667aea091104d33
 systems:
 - Lighting & signaling
 - Pedestrian protection

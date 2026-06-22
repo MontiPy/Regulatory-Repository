@@ -22,6 +22,12 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: Multimedia and navigation devices in Brazilian vehicles are regulated under
+  the country's vehicle type-approval process, requiring compliance as administered
+  by SENATRAN and the official certification body ATIC. The full technical requirements
+  are established within the formal resolution archive accessible through...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 28efd0450c17e6028471ddd339e03c015ef552bb
 systems:
 - Tell-tales & controls
 - EMC

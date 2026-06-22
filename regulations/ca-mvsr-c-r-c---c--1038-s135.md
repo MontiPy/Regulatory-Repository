@@ -21,6 +21,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Light vehicle brake systems for passenger cars, three-wheeled vehicles, and
+  multipurpose passenger vehicles, trucks, and buses with a GVWR of 3,500 kg or less
+  must conform to Technical Standards Document No. 135 (TSD 135). It also specifies
+  that brake warning indicators must display prescribed identification symbols...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 0fcfcae2e88c16faa8d0c3915c692d47971b7fb8
 systems:
 - Braking
 - Tell-tales & controls

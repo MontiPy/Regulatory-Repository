@@ -21,6 +21,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: The driver's seat of a motor vehicle must provide the field of vision necessary
+  for safe driving and must not be obstructed by occupants, cargo, or other items,
+  in accordance with ministerially prescribed standards for visibility and partition
+  structures. Additionally, head-up display devices installed at the driver's...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 12b32e6aecd92d941c257da7a3ff7d5bd9cd62ad
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:37+00:00'

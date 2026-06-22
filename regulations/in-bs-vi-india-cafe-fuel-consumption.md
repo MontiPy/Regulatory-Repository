@@ -27,6 +27,12 @@ region: IN
 source_api: ais
 source_url: https://morth.gov.in
 status: in-force
+summary: Passenger vehicles sold in India are regulated under the BS-VI emission standards
+  and India CAFE fuel-consumption framework, which require compliance with certified
+  emissions limits (NOx, CO, HC, PM, PN, CO2), evaporative and OBD system requirements,
+  accurate road-load and fuel/energy consumption data, and fleet-level...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 3ac3e3a18f8bb74badb39dd466a50d8d2b756909
 systems:
 - Emissions
 - On-board diagnostics

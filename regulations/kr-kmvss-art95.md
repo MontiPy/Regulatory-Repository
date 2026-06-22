@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Interior materials inside a motor vehicle's passenger compartment — including
+  seats, seat belts, armrests, head restraints, sun visors, ceiling, floor, floor
+  mats, and interior panels — must not burn at a rate of 102 millimetres per minute
+  or more.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e1761b146fa0cd89c3242fe4fa3d322016a3fb5c
 systems:
 - Crashworthiness
 - Restraints

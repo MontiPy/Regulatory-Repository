@@ -27,6 +27,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 912/2022 establishes mandatory equipment requirements for vehicles
+  in Brazil. The full details of what specific equipment is required must be retrieved
+  from the official CONTRAN resolution archive.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: aa73d1e6eebd5f0765536dde4e9199c2a0eef8c4
 systems:
 - Lighting & signaling
 - Braking

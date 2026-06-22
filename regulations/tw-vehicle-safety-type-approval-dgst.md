@@ -20,6 +20,12 @@ region: TW
 source_api: spreadsheet
 source_url: https://www.vscc.org.tw/Home/Content/509
 status: in-force
+summary: Taiwan's vehicle safety type approval and DGST framework governs market access
+  for vehicles sold in Taiwan, requiring manufacturers to obtain recognized safety
+  and environmental approvals, maintain complete and traceable compliance documentation,
+  and ensure correct certification labels, variant data, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: ee13a0bf3518be9d76ed6daaf0e489cc5dfbed94
 systems:
 - Lighting & signaling
 - Braking

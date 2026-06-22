@@ -21,6 +21,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: The provided text does not contain the full regulatory content needed for
+  a substantive summary; it only identifies that CONTRAN 908/2022 covers powered windows,
+  sunroof, and partition controls in Brazil, with the full text available via the
+  official CONTRAN resolution archive.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: af65eda9410432f62e4f9811f7fcc53677317caa
 systems:
 - Visibility
 - Tell-tales & controls

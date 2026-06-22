@@ -23,6 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Rear-view devices and their installation on motor vehicles are the subject
+  of this regulation, which establishes requirements governing the approval and fitment
+  of mirrors and other rear-view systems to ensure drivers have adequate indirect
+  vision around their vehicles.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 09dd4647184056fdf7aee3b5e5785ea5c26a5df0
 systems:
 - Visibility
 - ADAS

@@ -26,6 +26,12 @@ region: US
 source_api: spreadsheet
 source_url: https://eur-lex.europa.eu/eli/reg/2017/821/oj
 status: in-force
+summary: Conflict minerals and responsible sourcing rules require in-scope U.S. and
+  EU companies to conduct supply-chain due diligence on regulated minerals used in
+  vehicle electronics, batteries, and components, and to provide supporting evidence
+  through supplier declarations, smelter/refiner data, and compliance reporting....
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 12e4c70a70da2871e4a65d9c8fe0ba78573a8e2c
 systems:
 - Battery safety
 - EV charging

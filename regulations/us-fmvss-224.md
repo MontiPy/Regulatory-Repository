@@ -18,6 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.224
 status: in-force
+summary: Rear impact protection for trailers and semitrailers with a GVWR of 4,536
+  kg or more is regulated by this standard, which requires the installation of rear
+  impact guards to reduce deaths and serious injuries caused by lighter vehicles colliding
+  with the rear of these large trailers. It specifies configuration,...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 4b1b767ebc81b3e5064fb12ceb8cdb1251135e2d
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:37+00:00'

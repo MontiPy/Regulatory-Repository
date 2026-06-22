@@ -26,6 +26,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-541
 status: in-force
+summary: Major parts of certain passenger motor vehicles — including passenger cars,
+  multipurpose passenger vehicles, and qualifying light-duty trucks at or under 6,000
+  lbs GVWR — must have an identifying number (typically the VIN) affixed or inscribed
+  on up to 18 specified parts to help trace and recover components from...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: fc12228c124806d9dd27bc6a47bb3e30b308849f
 systems:
 - Vehicle identification
 - Theft prevention

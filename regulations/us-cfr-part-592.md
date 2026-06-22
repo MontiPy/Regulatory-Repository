@@ -18,6 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-592
 status: in-force
+summary: Persons wishing to import motor vehicles not originally manufactured to comply
+  with Federal Motor Vehicle Safety Standards must register with NHTSA by submitting
+  a formal application meeting specified content and format requirements. The regulation
+  establishes procedures for obtaining, maintaining, suspending,...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 2bf154e76d9d9a62755290bcaca242822afb9c59
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged

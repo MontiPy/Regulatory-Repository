@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-568
 status: in-force
+summary: Multi-stage vehicle manufacturing requires incomplete, intermediate, and
+  final-stage manufacturers to follow a prescribed process for certifying that vehicles
+  conform to Federal Motor Vehicle Safety Standards, with incomplete vehicle manufacturers
+  required to provide an Incomplete Vehicle Document (IVD) at or before...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 53347c829679da31561ea70fc96f2090ae478b27
 systems:
 - Vehicle identification
 - Crashworthiness

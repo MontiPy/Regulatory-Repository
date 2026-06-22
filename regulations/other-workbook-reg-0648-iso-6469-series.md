@@ -27,6 +27,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/68665.html
 status: in-force
+summary: ISO 6469 covers safety specifications for electrically propelled road vehicles,
+  focusing on high-voltage components including the HV battery, wiring, inverter,
+  contactors, and charging systems. It provides design guidance and validation evidence
+  to ensure safe electric powertrain systems, addressing risks such as loss...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: fe32d1c724955ea2ea28da5a9937c20a30d502d3
 systems:
 - Battery safety
 - EV charging

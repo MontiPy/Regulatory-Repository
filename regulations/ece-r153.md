@@ -22,6 +22,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The full regulatory text was not provided, so only what is plainly established
+  can be stated. UN Regulation No. 153 addresses fuel system integrity in passenger
+  vehicles during a frontal collision, requiring that fuel systems meet specified
+  standards to prevent fuel leakage or failure upon frontal impact.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5260c33f1e5a71fd3ac09976bfaa0004037a2e93
 systems:
 - Fuel safety
 - Crashworthiness

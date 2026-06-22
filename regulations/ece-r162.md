@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Vehicle immobiliser systems are the subject of this regulation, but the provided
+  text contains insufficient detail to summarize specific requirements or mandates
+  beyond the regulation's title and subject matter.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 113791a40bf4b2400bd225ee9a4c8ed940f90ffc
 systems:
 - Theft prevention
 - Cybersecurity

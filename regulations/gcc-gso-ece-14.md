@@ -23,6 +23,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 14 covers safety-belt anchorages in vehicles sold in the GCC region,
+  requiring that seat belt anchor points and related hardware keep occupants and child
+  restraints correctly positioned and restrained during normal driving and crash events.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: db77ae124192d9837f6adfeb280886d7643bddd1
 systems:
 - Restraints
 - Crashworthiness

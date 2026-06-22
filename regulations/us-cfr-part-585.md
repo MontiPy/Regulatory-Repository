@@ -17,6 +17,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-585
 status: in-force
+summary: Phase-in reporting requirements for vehicle manufacturers mandate that manufacturers
+  submit reports to NHTSA identifying their compliance with applicable Federal Motor
+  Vehicle Safety Standards during phase-in periods, including details on vehicle counts,
+  production years, and responsible officials. Subpart B...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 51aa65922f77cfe3131628690a4e4229bb7bbc5a
 systems:
 - Restraints
 - Crashworthiness

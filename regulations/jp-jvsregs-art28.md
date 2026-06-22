@@ -20,6 +20,11 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles transporting high-pressure gas must be equipped with gas transport
+  equipment that meets ministerial standards for strength and mounting method to prevent
+  explosion risk.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c8a23458ed20165abe7db5073b0ecc53c8f96b02
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'

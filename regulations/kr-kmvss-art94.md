@@ -19,6 +19,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Passenger cars and light-class vans must provide the driver with forward
+  and rearward fields of view meeting specified standards, and their windshields and
+  side windows adjacent to the driver's seat must have a visible light transmittance
+  of at least 70%. School vans for children must have a minimum 70% visible light...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 29b0acf2cb9d341257d085ac5caeb9d8eec465ba
 systems:
 - Visibility
 - Glazing

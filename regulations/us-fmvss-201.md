@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.201
 status: in-force
+summary: Occupant protection in interior impacts for passenger cars, multipurpose
+  passenger vehicles, trucks, and buses with a GVWR of 4,536 kg or less is regulated
+  by this standard, which specifies requirements to protect occupants when they contact
+  interior surfaces during a crash.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 21cf8f361a61785037dcf07c935fa8cf474ff6f1
 systems:
 - Crashworthiness
 - Restraints

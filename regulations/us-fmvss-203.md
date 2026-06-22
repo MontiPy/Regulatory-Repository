@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.203
 status: in-force
+summary: Steering control systems in passenger cars and light multipurpose vehicles,
+  trucks, and buses (GVWR of 4,536 kg or less) are regulated to minimize driver chest,
+  neck, and facial injuries during impact. The standard requires that the steering
+  control absorb impacts without transmitting more than 11,120 N of force to...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9fe2592c650e12d606b46cd0d2748526314071c1
 systems:
 - Steering
 - Crashworthiness

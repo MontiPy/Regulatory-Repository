@@ -20,6 +20,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Fuel systems of passenger cars, vans up to 4.5 tonnes GVW, and trucks up
+  to 3.5 tonnes GVW that use flammable liquid fuel must meet the crash test standards
+  specified in Attached Table 10 of KMVSS.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 6e691da8b0546c828b037b485c90357df61151ae
 systems:
 - Fuel safety
 - Crashworthiness

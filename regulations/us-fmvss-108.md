@@ -24,6 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.108
 status: in-force
+summary: Lamps, reflective devices, and associated equipment on passenger cars, multipurpose
+  passenger vehicles, trucks, buses, trailers, and motorcycles are regulated by this
+  standard, covering both original and replacement equipment. It requires that these
+  lighting components provide adequate roadway illumination and enhance...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 55ada2fa9ade75fd653b5d4f4f74b88f5fa8002f
 systems:
 - Lighting & signaling
 - ADAS

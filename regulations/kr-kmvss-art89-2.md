@@ -19,6 +19,10 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Lane departure warning systems installed under Article 14-2 must meet the
+  standards determined and published by the Minister of Land, Infrastructure and Transport.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e9aa9f1d74c4369b56aee2f17975b56d018a0bd7
 systems:
 - ADAS
 tagged_at: '2026-06-16T15:44:36+00:00'

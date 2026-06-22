@@ -22,6 +22,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 16 covers safety belts and restraint systems for passenger vehicles
+  in the GCC region. It requires vehicle programs to identify and satisfy applicable
+  regulatory obligations for seat belts and restraints before launch and during production,
+  with compliance verified through documentation, validation evidence,...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: bb2583ee63bdbdeae796a5a4f4eba2013c628e9f
 systems:
 - Restraints
 - Crashworthiness

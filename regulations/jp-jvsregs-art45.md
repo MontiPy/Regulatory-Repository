@@ -23,6 +23,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Windshield wipers and washers on motor vehicles (excluding two-wheeled vehicles,
+  certain light vehicles, and towed vehicles) must be equipped with an automatic windshield
+  wiper meeting ministerial field-of-vision standards, and most such vehicles must
+  also have a washer fluid spray device and a defroster meeting the...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 5be5cff870aaa359208d51ded6ce4d08bffacf51
 systems:
 - Visibility
 - Glazing

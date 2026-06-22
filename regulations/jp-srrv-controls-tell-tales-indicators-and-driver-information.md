@@ -23,6 +23,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Instrument panel controls, displays, tell-tales, switches, HMI software,
+  and labels in vehicles sold in Japan are regulated under SRRV/TRIAS to ensure the
+  vehicle is visible, signals driver intent clearly, and provides adequate road illumination
+  without glare. Compliance requires correct color, intensity, and logic...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 7de4e1c274d7314c76016a80584b1478183c18f8
 systems:
 - Lighting & signaling
 - Visibility

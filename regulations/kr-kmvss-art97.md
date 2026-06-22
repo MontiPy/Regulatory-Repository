@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Driver and passenger seats in motor vehicles (excluding certain seat types)
+  must be structurally strong enough to withstand specified longitudinal forces and
+  moments at any adjusted position without displacing from their pre-force position.
+  Hinged and folding seats must additionally incorporate locking devices that...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 5df2453d1c65816881680727695275a3a325d8e4
 systems:
 - Crashworthiness
 - Restraints

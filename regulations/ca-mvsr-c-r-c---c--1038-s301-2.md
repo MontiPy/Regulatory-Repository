@@ -23,6 +23,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Vehicles equipped with compressed natural gas (CNG) fuel systems must maintain
+  fuel system integrity when subjected to specified crash tests — including frontal,
+  rear, and lateral barrier impacts at defined speeds based on the vehicle's GVWR
+  — with post-impact requirements limiting pressure loss and ensuring the fuel...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: a92c24f7a570470ccce11bf65a656d29ffd2744d
 systems:
 - Fuel safety
 - Crashworthiness

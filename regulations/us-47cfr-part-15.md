@@ -25,6 +25,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-47/part-15
 status: in-force
+summary: Radio frequency (RF) devices — including intentional, unintentional, and
+  incidental radiators — are regulated under this part, which establishes the technical
+  specifications, administrative requirements, and equipment authorization conditions
+  under which such devices may be operated or marketed without an individual...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 73061180678a578fcff88a0e2af8f598f5146a1f
 systems:
 - EMC
 - ADAS

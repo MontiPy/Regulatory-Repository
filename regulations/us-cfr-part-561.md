@@ -25,6 +25,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-561
 status: in-force
+summary: Documentation requirements for electric-powered vehicles (passenger cars,
+  multipurpose vehicles, trucks, and buses operating above 60 VDC or 30 VAC) mandate
+  that manufacturers submit standardized rescue sheets and emergency response guides
+  to support first and second responders, as well as additional documentation to...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c825a38a5841653c14538c123d2c4e884376eeb1
 systems:
 - Battery safety
 - EV charging

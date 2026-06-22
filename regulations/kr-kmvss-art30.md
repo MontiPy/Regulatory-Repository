@@ -19,6 +19,10 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Vans with a passenger capacity of 16 or more must be equipped with emergency
+  exits that conform to the standards specified in Attached Table 5-31.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: ca4e981588100ff1f76e3c826521f1d8c78b8453
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

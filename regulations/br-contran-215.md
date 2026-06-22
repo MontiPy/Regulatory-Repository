@@ -21,6 +21,12 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: CONTRAN 215/2006 covers burglar alarm and anti-theft equipment for vehicles
+  in Brazil, administered through the country's vehicle type-approval process. The
+  provided text does not include sufficient detail to summarize specific technical
+  requirements or mandates beyond its administration under the Brazilian whole...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: eab6d7f803e0e4b41785dea300ffb40fac4419ad
 systems:
 - Theft prevention
 - EMC

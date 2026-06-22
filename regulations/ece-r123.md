@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Adaptive front-lighting systems (AFS) for motor vehicles are the subject
+  of this regulation, but the provided text contains only a reference link and no
+  substantive regulatory content to summarize.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: f3235db52c9a6ed749a75b4a8b317f49222b1ff7
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'

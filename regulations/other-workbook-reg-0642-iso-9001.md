@@ -21,6 +21,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/62085.html
 status: in-force
+summary: ISO 9001 establishes baseline quality management system (QMS) requirements
+  covering document control, process audits, supplier controls, corrective action,
+  and management review. It is not a standalone vehicle regulation but serves as supporting
+  governance evidence for product realization and compliance, particularly...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 96a0963d9fb48ec9ba4e9a5098b717b8d97a7e59
 systems: []
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged

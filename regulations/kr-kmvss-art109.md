@@ -23,6 +23,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Windshield wiper, defroster, demister, and washer fluid spray systems on
+  passenger cars and light-class vans in Korea must meet specific performance standards
+  for cleaning coverage of designated windshield zones, cold-weather operability at
+  −18 °C, and frost/fog removal within defined time limits; ultra-compact...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 273ee08b8596df73b83eb9ab3253deb2d8748c5c
 systems:
 - Visibility
 - HVAC

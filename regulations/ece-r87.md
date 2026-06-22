@@ -21,6 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Daytime running lamps (DRL) on motor vehicles are the subject of this regulation,
+  which establishes approval requirements governing their performance, installation,
+  and photometric characteristics to ensure adequate visibility of vehicles during
+  daylight conditions.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 6be38e880db16ad7f780c471ffa76a1cbd527502
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'

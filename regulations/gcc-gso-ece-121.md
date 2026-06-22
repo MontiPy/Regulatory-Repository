@@ -22,6 +22,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 121 covers the identification and standardization of vehicle controls,
+  telltales, and indicators within GCC member states, addressing exterior lamps, light-signaling
+  devices, and human-machine interface elements. It requires that vehicles ensure
+  clear visibility, proper signaling of driver intent, adequate...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: ae2899d600dbf6afd94143f7b6655d018cdfbe1b
 systems:
 - Lighting & signaling
 - Visibility

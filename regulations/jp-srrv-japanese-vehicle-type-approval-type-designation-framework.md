@@ -32,6 +32,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.ntsel.go.jp/e/kansa/
 status: in-force
+summary: Japan's vehicle type designation framework requires that passenger vehicles
+  satisfy national safety, environmental, and fuel-consumption standards before they
+  may be sold or registered in Japan. Manufacturers must compile type approval documentation
+  — including test evidence, production conformity records, VIN/frame...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 1808ad44a3bf1eeee8edf7a02fb00cfbfcb35edc
 systems:
 - Crashworthiness
 - Restraints

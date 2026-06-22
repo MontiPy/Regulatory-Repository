@@ -19,6 +19,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 966/2022 is a Brazilian regulation governing rear-view mirrors on
+  vehicles; the full requirements can be found in the official CONTRAN resolution
+  archive, as the complete text is not available here.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 45326729e28abb8eeedbdcc2031c06ddba4a64cc
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:38+00:00'

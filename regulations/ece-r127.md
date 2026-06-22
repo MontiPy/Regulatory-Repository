@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: UN Regulation No. 127 addresses pedestrian safety requirements for vehicles,
+  but the provided text contains only a reference link to the full regulation rather
+  than substantive content to summarize.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: cc55d7f51b6da33bdf8119201a6ca6d32395c631
 systems:
 - Pedestrian protection
 - Crashworthiness

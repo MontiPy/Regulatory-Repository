@@ -20,6 +20,12 @@ region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-198/
 status: in-force
+summary: Canadian motor vehicle tire safety regulations govern the identification,
+  labeling, recordkeeping, and registration of tires supplied for passenger vehicles
+  in Canada. They require tires to bear the National Safety Mark and proper sidewall
+  markings, and mandate that manufacturers, dealers, and importers maintain...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5efd740535c7ec9e0eb6127014b30b727dd773e8
 systems:
 - Tires & wheels
 - Vehicle identification

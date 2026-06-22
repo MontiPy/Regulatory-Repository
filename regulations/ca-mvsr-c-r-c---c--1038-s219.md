@@ -19,6 +19,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Windshield zone intrusion protection for passenger cars and light-duty trucks,
+  buses, and multi-purpose passenger vehicles (GVWR of 4,536 kg or less) requires
+  these vehicles to conform to Technical Standards Document No. 219, with exceptions
+  for forward control configuration vehicles, open-body vehicles with fold-down...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9c7782739d7f46087b65486571bfcbe709d92259
 systems:
 - Glazing
 - Crashworthiness

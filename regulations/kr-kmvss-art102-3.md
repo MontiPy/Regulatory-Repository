@@ -25,6 +25,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Passenger cars and light trucks up to 3.5 tonnes GVW (excluding ultra-compact
+  vehicles) must meet South Korea's full frontal rigid barrier collision standards
+  as specified in Attached Table 14-7.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4fbfd1552eeb833b5f23388529dee8a8f880b55d
 systems:
 - Crashworthiness
 - Restraints

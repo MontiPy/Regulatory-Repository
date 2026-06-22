@@ -17,6 +17,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.131
 status: in-force
+summary: School bus stop signal arms are regulated under this standard, which applies
+  to all school buses except multifunction school activity buses. It requires each
+  covered school bus to be equipped with a red, octagonal stop signal arm meeting
+  specific size, color, reflectivity, lighting, and positioning requirements, and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 5ff22252cd0ce66a19ff34124e26c55fa5c46075
 systems:
 - Lighting & signaling
 - Pedestrian protection

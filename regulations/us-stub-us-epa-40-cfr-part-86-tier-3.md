@@ -23,6 +23,12 @@ region: US
 source_api: spreadsheet
 source_url: https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3
 status: in-force
+summary: US EPA 40 CFR Part 86 Tier 3 regulates emissions from light-duty passenger
+  vehicles, requiring that pollutants such as NOx, HC, CO, and PM be limited over
+  the vehicle's useful life and that emission control faults be detected via onboard
+  diagnostics. Compliance applies to passenger cars as listed in 49 CFR Part 571,...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 56ce6e6589138eb00aabdfba87e9b7ffa27c7875
 systems:
 - Emissions
 - On-board diagnostics

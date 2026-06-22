@@ -19,6 +19,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Direction indicators (turn signals) on motor vehicles are the subject of
+  this regulation, which establishes approval requirements to ensure these devices
+  meet specified performance and installation standards.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: fb2b6084c7baddf1b1451add13f91403c91f8b9c
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'

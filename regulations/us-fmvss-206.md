@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.206
 status: in-force
+summary: Door locks and door retention components (latches, hinges, and other supporting
+  means) on passenger cars, multipurpose passenger vehicles, trucks carrying at least
+  one person, and buses with a GVWR of 4,536 kg or less are regulated to minimize
+  occupant ejection during a crash. The standard establishes definitions for...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 84d125da48f4a341992f1db99b6b35c91a6e4330
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:38+00:00'

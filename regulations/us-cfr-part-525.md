@@ -17,6 +17,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-525
 status: in-force
+summary: Low-volume passenger automobile manufacturers and their eligibility for exemption
+  from federal average fuel economy standards are regulated under this part, which
+  establishes procedures and content requirements for petitioning the NHTSA Administrator
+  for an exemption and an alternative fuel economy standard....
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e40473fa3097fafa6d40a49bf950cd64e781a244
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:39+00:00'

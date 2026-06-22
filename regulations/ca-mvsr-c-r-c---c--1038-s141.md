@@ -21,6 +21,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Hybrid and electric passenger cars, multi-purpose passenger vehicles, trucks,
+  buses, and low-speed vehicles with a GVWR of 4,536 kg or less must meet minimum
+  sound emission requirements so that the vehicles are audible to pedestrians and
+  other road users. Manufacturers must comply with either the UN ECE Regulation No....
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: b1112993bc4eef469714dc81574586ad6cabca15
 systems:
 - Noise
 - Pedestrian protection

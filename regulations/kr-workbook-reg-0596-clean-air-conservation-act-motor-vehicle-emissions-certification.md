@@ -25,6 +25,12 @@ region: KR
 source_api: spreadsheet
 source_url: https://law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=5001&urlMode=engLsInfoR&viewCls=engLsInfoR
 status: in-force
+summary: Motor vehicle emissions certification under Korea's Clean Air Conservation
+  Act covers passenger and imported vehicles and requires compliance with certified
+  limits for exhaust pollutants (NOx, CO, HC, PM, PN), CO2, fuel economy, evaporative
+  emissions, and OBD functionality. It mandates that vehicles meet these...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: be94bd1c2c2e97ea9ce1eba0faf45f3eafbefc36
 systems:
 - Emissions
 - On-board diagnostics

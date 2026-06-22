@@ -24,6 +24,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Electrical and camping equipment in Korean camper vehicles must meet specific
+  safety standards covering electrical protection and living space requirements. Electrical
+  systems must include waterproof power inlets, overload protection, high-voltage
+  warning labels, and power cut-off devices, while camping equipment must...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 08aef1efe0cd8f9a8e7e43d4779885527747e320
 systems:
 - EV charging
 - Battery safety

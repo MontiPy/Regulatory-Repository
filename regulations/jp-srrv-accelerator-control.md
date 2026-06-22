@@ -26,6 +26,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Accelerator Control under Japan's SRRV/TRIAS framework regulates fuel systems,
+  high-voltage energy storage, and related components across conventional, EV, and
+  alternative-fuel vehicles to prevent fire, explosion, hazardous leakage, and loss
+  of high-voltage isolation during normal use, abuse, and post-crash...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d5976628dc1ab9e22ca34e9fa95bdd9aa0573999
 systems:
 - Fuel safety
 - Battery safety

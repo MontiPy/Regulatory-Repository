@@ -20,6 +20,12 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://www.tisi.go.th/
 status: in-force
+summary: Thailand's national vehicle and component conformity framework governs market
+  access for vehicles manufactured, imported, or sold in Thailand, requiring valid
+  type-approval certificates, correct documentation, traceable conformity of production
+  records, and compliant labeling and manuals before market entry is...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9c2d49efe8fb86155f44ffe4223adcbfd29c2c5d
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:39+00:00'

@@ -18,6 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-580
 status: in-force
+summary: Odometer disclosure requirements mandate that motor vehicle transferors and
+  lessees make electronic or written disclosure of a vehicle's odometer mileage and
+  its accuracy to transferees and lessors, respectively, as a condition of title transfer.
+  Motor vehicle dealers, distributors, lessors, and auction companies are...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: d874bf0fac86e83452c334f9621fe8cadfacc005
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'

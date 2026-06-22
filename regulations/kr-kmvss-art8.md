@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicles' resistance to lateral tipping is regulated, requiring that
+  vehicles not overturn when tilted sideways — 35 degrees (or 30 degrees if gross
+  vehicle weight is 1.2 times or less the curb weight) for passenger cars, trucks,
+  special-purpose vehicles, and buses with 10 or fewer seats in an unloaded...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: d522c2ab3cf146a53e49b7222afe73133cb1af39
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:37+00:00'

@@ -20,6 +20,12 @@ region: ZA
 source_api: spreadsheet
 source_url: https://www.nrcs.org.za/compulsory-specifications/compulsory-specifications
 status: in-force
+summary: South Africa's compulsory specifications govern market access and type approval
+  for motor vehicles and components sold in the country, requiring that vehicles carry
+  recognized safety and environmental approvals, complete documentation, and traceable
+  compliance evidence including type-approval certificates, CoP...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e882973f83d20df1fd23e66288682d4a1b02642b
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'

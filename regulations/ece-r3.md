@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Retro-reflecting devices for vehicles are the subject of this regulation,
+  but the provided text contains no substantive content beyond a reference to the
+  external UNECE WP.29 index for the full regulatory text.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 6eef31f3bd8dc0c999d7958710f330071db40f0e
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:37+00:00'

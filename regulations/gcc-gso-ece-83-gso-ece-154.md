@@ -26,6 +26,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: Light-duty vehicle pollutant emissions and fuel economy performance in the
+  GCC region are regulated under GSO-ECE 83 and GSO-ECE 154, covering engine/aftertreatment
+  systems, OBD, evaporative emissions, CO2 reporting, and hybrid/EV energy management.
+  Vehicles must meet certified emissions limits, fuel economy and CO2...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5296de47ae1ef2021dcc68432ddb1c6a17acfefb
 systems:
 - Emissions
 - On-board diagnostics

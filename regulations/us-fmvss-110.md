@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.110
 status: in-force
+summary: Tire selection and rim requirements for motor vehicles with a GVWR of 10,000
+  pounds or less are regulated by this standard to prevent tire overloading and to
+  ensure proper load carrying capacity information for motor homes and recreation
+  vehicle trailers. It requires that vehicles be equipped with compliant tires...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 7105372f7759180417f6f16b3d1884b18f8baa4a
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'

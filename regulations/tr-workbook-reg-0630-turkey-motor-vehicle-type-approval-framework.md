@@ -18,6 +18,12 @@ region: TR
 source_api: spreadsheet
 source_url: https://urunkurallari.ticaret.gov.tr/en/sectoral-guide/motor-vehicles
 status: in-force
+summary: Turkey's vehicle type approval framework governs market access for passenger
+  vehicles sold in Turkey, requiring that vehicles hold recognized safety and environmental
+  approvals (aligned with the EU framework) and be supported by complete documentation
+  including type-approval certificates, conformity of production...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 4bd2d27ee96ff43065212f31f132d764d28fbf08
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:39+00:00'

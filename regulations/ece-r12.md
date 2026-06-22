@@ -21,6 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Steering mechanism design in passenger vehicles requires that the system
+  protect the driver from serious injury during a frontal impact by limiting the rearward
+  displacement of the steering column and controlling the force transmitted to the
+  driver's body.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: d0c309afae6da655f8401bf66759b5bab97b8247
 systems:
 - Steering
 - Crashworthiness

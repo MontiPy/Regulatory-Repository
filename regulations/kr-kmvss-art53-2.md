@@ -23,6 +23,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicles must be equipped with at least one rear pedestrian safety
+  device — a rear-view image system, an approach warning sound system for the driver,
+  or a reversing warning sound system for pedestrians — while children's school vans
+  must have both the approach warning and reversing warning sound systems. Each...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d567953b9605be9aba853f55229298fc7e62a6ab
 systems:
 - Pedestrian protection
 - Visibility

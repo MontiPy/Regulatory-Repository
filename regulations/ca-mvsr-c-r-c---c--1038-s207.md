@@ -19,6 +19,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Seat anchorage systems in passenger cars, three-wheeled vehicles, trucks,
+  buses, and multi-purpose passenger vehicles must conform to Technical Standards
+  Document No. 207 (Anchorage of Seats), with required labels appearing in both official
+  languages. For trucks, multi-purpose passenger vehicles with a GVWR over 4,536...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e3a867b67d6ad0c677d2f5dbd352432c99333b84
 systems:
 - Crashworthiness
 - Restraints

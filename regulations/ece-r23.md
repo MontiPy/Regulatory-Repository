@@ -18,6 +18,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Reversing lamps on motor vehicles are the subject of this regulation, but
+  the provided text contains no substantive content beyond a reference to an external
+  source and cannot be further summarized.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 1afb895fbf21b5d3722e2e584e8b5dd25ec2e231
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'

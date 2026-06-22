@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Event data recorders (EDRs) are regulated for passenger cars, vans, and trucks
+  up to 3.85 tonnes GVW, defining a recordable accident event as a cumulative speed
+  change of 8 km/h or more within 0.15 seconds or the deployment of an irreversible
+  safety device such as an airbag or seat belt pre-tensioner. EDR installation...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 831633d35ed4e64d84393c3b1a8f00c4b08b894f
 systems:
 - Crashworthiness
 - Restraints

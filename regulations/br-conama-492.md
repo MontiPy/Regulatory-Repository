@@ -22,6 +22,12 @@ region: BR
 source_api: brazil
 source_url: https://conama.mma.gov.br/?id=765&option=com_sisconama&task=arquivo.download
 status: in-force
+summary: New light road vehicles (passenger and commercial) sold in Brazil must meet
+  the exhaust emission limits established under PROCONVE Phase L7, effective January
+  1, 2022, with optional early compliance allowed. The regulation also specifies how
+  non-methane organic gas (NMOG) emissions must be reported and calculated,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: dfd550716dd91d724197d8baba2f7968461e8add
 systems:
 - Emissions
 - On-board diagnostics

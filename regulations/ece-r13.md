@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Braking systems on M (passenger), N (goods), and O (trailer) category vehicles
+  are regulated under UN R13, which establishes requirements for braking performance,
+  anti-lock braking systems, and related components to ensure safe vehicle deceleration.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: d8d7e0f6c5ae68a38c15e174f0520c22ce71bac7
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:39+00:00'

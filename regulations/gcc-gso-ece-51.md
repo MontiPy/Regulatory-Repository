@@ -24,6 +24,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 51 regulates external (pass-by) noise emissions from motor vehicles
+  in the GCC region. It requires vehicles to meet certified noise limits, with compliance
+  scope under review for final applicability determination.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e3ec63bc630e8f0b43b888f9f8d5b9e2f5d52bef
 systems:
 - Emissions
 - Noise

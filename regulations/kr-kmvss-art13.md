@@ -27,6 +27,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Controls, indicators, and related operating devices in motor vehicles must
+  be positioned so the belted driver can easily reach and identify them, and must
+  meet specific labeling, lighting, and color standards. The regulation also mandates
+  requirements for accelerator return devices, automatic transmission selector...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: cef91f1c1e3491fd3e77dc67b1a3c4fd9d0d2b9c
 systems:
 - Tell-tales & controls
 - Lighting & signaling

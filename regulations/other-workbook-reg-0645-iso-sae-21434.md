@@ -22,6 +22,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/70918.html
 status: in-force
+summary: Road vehicles' cybersecurity engineering across the full vehicle lifecycle
+  — covering E/E architecture, ECUs, telematics, gateways, ADAS controllers, and diagnostics
+  — is addressed by ISO/SAE 21434, which requires manufacturers to identify and manage
+  cybersecurity risks through structured engineering processes...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: f111ca11c16702a932570a7cb63c9c7fc8d01cbf
 systems:
 - Cybersecurity
 - ADAS

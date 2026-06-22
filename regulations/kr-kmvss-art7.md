@@ -23,6 +23,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Weight distribution requirements for motor vehicles in Korea mandate that
+  the total wheel load on the steering axle must equal at least 20 percent (18 percent
+  for three-wheeled micro- and small-class vehicles) of both the curb weight and gross
+  vehicle weight. Towing vehicles must also meet this steering axle load...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 200de4c34c3b2038b2f9adc677605c79b323e77b
 systems:
 - Steering
 - Tires & wheels

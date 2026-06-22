@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Sound emissions from M and N category motor vehicles (passenger cars and
+  commercial vehicles) are regulated under this rule, which establishes noise limits
+  and test procedures that such vehicles must meet for type approval.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e66d9c76825b949a2d89761d8a60ee205fca0231
 systems:
 - Noise
 - Emissions

@@ -19,6 +19,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Head restraints on motor vehicles regulate the driver's seat and seats parallel
+  to it, requiring them to be fitted with head restraints (with specified exclusions
+  for heavy vehicles, two-wheelers, special-use vehicles, and low-speed vehicles).
+  All such restraints must meet ministerial standards to effectively limit...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5611bd1bb4ba56ade0e316ea3ce4356ac06e35cd
 systems:
 - Restraints
 - Crashworthiness

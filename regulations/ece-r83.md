@@ -24,6 +24,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Exhaust emissions from M1 and N1 category light-duty vehicles are regulated
+  under UN R83, which sets Euro 5/6 standards for pollutant limits and requires vehicles
+  to meet prescribed emissions testing and compliance procedures as defined by UNECE
+  WP.29.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 9c821d2e14b39bf593e5fc44edcbfef4685ed48d
 systems:
 - Emissions
 - On-board diagnostics

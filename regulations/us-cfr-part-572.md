@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-572
 status: in-force
+summary: Anthropomorphic test devices (crash test dummies) used in U.S. motor vehicle
+  safety compliance testing are regulated under this part, which specifies their design,
+  performance criteria, and construction requirements. It mandates that these devices
+  produce repeatable, correlative measurement results and conform to...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 824cc3087251f2a8377fe2a2c8594edb5a2113a5
 systems:
 - Crashworthiness
 - Restraints

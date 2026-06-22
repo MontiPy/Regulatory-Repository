@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Pneumatic tyres for commercial vehicles and their trailers are regulated
+  under UN R54, which establishes approval and marking requirements for such tyres
+  used in these vehicle categories.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: f68410eca11d0c6436433f2f491eef55c494b419
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:38+00:00'

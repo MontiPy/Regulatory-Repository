@@ -25,6 +25,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-581
 status: in-force
+summary: Passenger motor vehicles' bumper systems (excluding multipurpose passenger
+  vehicles and low-speed vehicles) are regulated for impact resistance in low-speed
+  front and rear collisions. Vehicles must withstand pendulum and fixed-barrier impacts
+  at up to 2.5 mph without damage to lamps, doors, hood, trunk, fluid systems,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: b934d776c74dd0d259f67d85c63d03ede0959c48
 systems:
 - Crashworthiness
 - Lighting & signaling

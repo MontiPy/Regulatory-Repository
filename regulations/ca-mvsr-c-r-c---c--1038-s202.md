@@ -17,6 +17,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Head restraints on passenger cars, three-wheeled vehicles, and multi-purpose
+  passenger vehicles, buses, or trucks with a GVWR of 4,536 kg or less must conform
+  to the requirements of Technical Standards Document No. 202, Head Restraints (TSD
+  202), as amended from time to time.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: c4d6af9d751bc8ba582b7c453fe88f3095369ed9
 systems:
 - Restraints
 - Crashworthiness

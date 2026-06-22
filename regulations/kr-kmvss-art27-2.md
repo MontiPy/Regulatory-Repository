@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Child restraint system anchorages in passenger cars (excluding ultra-compact
+  and single-row vehicles) must be installed at two or more seats, with at least one
+  in the second row, comprising one upper and two lower anchorages per seat meeting
+  specified position, marking, usability, and safety requirements. Additional...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d5f9d01e34b3907520758a630596680290895383
 systems:
 - Restraints
 - Crashworthiness

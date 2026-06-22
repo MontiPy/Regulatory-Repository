@@ -20,6 +20,12 @@ region: ECE
 source_api: spreadsheet
 source_url: https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations
 status: in-force
+summary: The UNECE 1958 Agreement type approval and conformity-of-production framework
+  governs how vehicles and regulated systems are approved and verified across Contracting
+  Party markets, requiring that approved types be consistently reproduced in production
+  and that approval certificates, component markings, and inspection...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: b98cd49202ec5210e2ffc8ef32939e4675020faf
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged

@@ -22,6 +22,11 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: Vehicle control identification and lighting in Brazil is governed by this
+  regulation, which establishes requirements through the country's vehicle type-approval
+  process administered by the relevant certification authority.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c0fe0c8e8ac1ca829d182a1348daef6d684cd97c
 systems:
 - Tell-tales & controls
 - Lighting & signaling

@@ -24,6 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.208
 status: in-force
+summary: Occupant crash protection in passenger cars, multipurpose passenger vehicles,
+  trucks, and buses is regulated by this standard, which requires these vehicles to
+  meet specified crashworthiness performance levels — measured using anthropomorphic
+  dummies in test crashes — and to be equipped with compliant active or...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4052075753841051c429a42ff7f2f5216b0dcc55
 systems:
 - Crashworthiness
 - Restraints

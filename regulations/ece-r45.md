@@ -18,6 +18,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Headlamp cleaners on motor vehicles are the subject of this regulation, but
+  the provided text contains no substantive detail beyond a reference to the external
+  UNECE WP.29 index for the full regulatory content.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 30b3496e4b4d73b5c3e1b331aa8e6e5d05bd1a03
 systems:
 - Lighting & signaling
 - Visibility

@@ -24,6 +24,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: CO2 emissions, fuel consumption, and electric energy consumption of passenger
+  cars are regulated under UN R101, which establishes measurement and testing requirements
+  for these values across vehicle categories including hybrid and electric vehicles.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: e8261d904bc8669d6057a550554737b9b51d5fa3
 systems:
 - Emissions
 - EV charging

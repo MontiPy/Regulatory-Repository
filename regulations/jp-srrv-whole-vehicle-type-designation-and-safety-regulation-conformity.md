@@ -20,6 +20,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Whole-vehicle type designation and safety regulation conformity under Japan's
+  Road Vehicles Act covers certification, labeling, recall systems, and compliance
+  recordkeeping for passenger vehicles and light trucks placed on the Japanese market.
+  It requires that vehicles maintain legally compliant VIN and certification...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: c971fc2fec6efa55caa82aecf23f997147f83155
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:40+00:00'

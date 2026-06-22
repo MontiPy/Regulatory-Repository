@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Seat belt assembly requirements for designated seating positions mandate
+  specific seat belt types, retractor mechanisms, and anchorage configurations across
+  enclosed motorcycles, passenger cars, three-wheeled vehicles, and trucks or multi-purpose
+  passenger vehicles, with requirements varying by vehicle type, gross...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b259248bb1124a9f73793b6d1c4182bd56fd8e15
 systems:
 - Restraints
 - Crashworthiness

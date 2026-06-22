@@ -19,6 +19,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Speed limitation devices fitted to certain motor vehicles are the subject
+  of this regulation, which establishes approval requirements to ensure such devices
+  correctly restrict a vehicle's maximum speed to a set limit.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 4c148e0e0f93dced5f13ecbd2f85621ebd15080b
 systems:
 - ADAS
 tagged_at: '2026-06-16T15:44:35+00:00'

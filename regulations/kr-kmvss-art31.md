@@ -17,6 +17,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Aisles in vans with a passenger capacity of 16 or more must be wide enough
+  for the aisle measurement device specified in Attached Table 5-29 to pass through,
+  except where seats are arranged so that passengers board directly from the door.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 8966f70b815605f4a5ec9a0fb0955d909a7cd75a
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged

@@ -14,6 +14,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The full regulatory text was not provided, so only the title and citation
+  are available. UN Regulation No. 4 covers the illumination of rear registration
+  plates on vehicles.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e7f3ad55bd8b1266b53d9776ff237b12f854291a
 systems:
 - Lighting & signaling
 - Vehicle identification

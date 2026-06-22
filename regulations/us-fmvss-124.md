@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.124
 status: in-force
+summary: Accelerator control systems on passenger cars, multipurpose passenger vehicles,
+  trucks, and buses must be designed with at least two independent energy sources
+  capable of returning the throttle to idle when the driver releases the accelerator,
+  and must also return to idle if any single component in the system is...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 02f4aa5a587fda1352b60c5dd6d521c1fe138f02
 systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:41+00:00'

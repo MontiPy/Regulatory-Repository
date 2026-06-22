@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle engines and drivetrains must operate properly, with starting
+  and stopping controls accessible from the driver's seat, drivetrains free from damage
+  or oil leaks, and diesel governor seals intact and untampered. Additionally, ultra-compact
+  vehicle engines and drivetrains must limit maximum speed to 80 km/h.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 30cb26405add2f4a4976b5480af0fa13e64b7a97
 systems:
 - Fuel safety
 - Emissions

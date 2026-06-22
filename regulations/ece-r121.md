@@ -25,6 +25,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The identification, location, and illumination of hand controls, tell-tales,
+  and indicators in vehicles are regulated, requiring them to meet standardized specifications
+  for recognition and visibility by the driver.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 473d7d8b38f7bd4398e24645c7f257c0e493ef2f
 systems:
 - Tell-tales & controls
 - Lighting & signaling

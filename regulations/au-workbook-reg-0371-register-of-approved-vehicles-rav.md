@@ -20,6 +20,12 @@ region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/register-approved-vehicles
 status: in-force
+summary: The Register of Approved Vehicles (RAV) is a national database that records
+  vehicles approved for the Australian market. Road vehicles, including passenger
+  vehicles, must have a correct RAV entry — covering VIN, variant/version data, and
+  approval number — before they can be legally supplied or registered in Australia.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: f05e984950bc1b019c1ba089b12a22c375b426ad
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:39+00:00'

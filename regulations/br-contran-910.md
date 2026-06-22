@@ -25,6 +25,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-910-de-28-de-marco-de-2022
 status: in-force
+summary: The provided text contains only navigation menus, website links, and header
+  information from the Brazilian Ministry of Transportation's website, with no substantive
+  regulatory content about occupant protection or fuel system integrity. The text
+  does not include the actual provisions, requirements, or mandates of...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 252e683a54dc0e584f5f15a8c8271648938a3b8c
 systems:
 - Crashworthiness
 - Fuel safety

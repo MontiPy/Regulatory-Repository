@@ -24,6 +24,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: The definitions section of the Motor Vehicle Safety Regulations establishes
+  the official meanings of key terms used throughout the regulations, including vehicle
+  types, safety components, testing devices, and referenced standards. It does not
+  impose operational requirements but provides the foundational definitions...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: ef130d2339b3cdbb79b6d820a510485ba03c5f0d
 systems:
 - Braking
 - Restraints

@@ -19,6 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-555
 status: in-force
+summary: Temporary exemptions from federal motor vehicle safety standards and bumper
+  standards for motor vehicle manufacturers are governed by this part, which establishes
+  the process by which NHTSA may grant such exemptions based on substantial economic
+  hardship, facilitation of new safety or low-emission technology...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 40f64e6e018b5fe0e4305f67d11c04640d75202f
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

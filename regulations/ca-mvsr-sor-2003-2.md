@@ -24,6 +24,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html
 status: in-force
+summary: Canadian on-road vehicles and engines sold or imported into Canada must meet
+  emission standards established under the Canadian Environmental Protection Act,
+  1999; the regulations define key terms—such as vehicle classes, engine types, emission
+  control devices, and weight measurements—that govern how those emission...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 74bcff8168072198af7370c41e36a2a36b88ccd2
 systems:
 - Emissions
 - On-board diagnostics

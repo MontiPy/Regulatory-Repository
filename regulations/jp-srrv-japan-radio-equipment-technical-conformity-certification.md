@@ -25,6 +25,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.telec.or.jp/eng/services/tech/tech_02.html
 status: in-force
+summary: Radio equipment installed in vehicles sold in Japan — including telematics,
+  keyless entry, Wi-Fi/Bluetooth/cellular modules, radar, and TPMS sensors — must
+  obtain Technical Conformity Certification under Japan's Radio Act and MIC-TELEC
+  framework, confirming compliance with spectrum, EMC, and equipment approval...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 3bb0b7a1233cd11a1781e92053e6914ac5ff90ed
 systems:
 - EMC
 - ADAS

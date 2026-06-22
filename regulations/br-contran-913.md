@@ -20,6 +20,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 913/2022 governs the use of tires on vehicles in Brazil, but the
+  full regulatory requirements cannot be summarized as the complete text is only available
+  through the official CONTRAN resolution archive.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: a4c4b85466ff7114fa60e48a22ada996222ba7f5
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:36+00:00'

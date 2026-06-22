@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Most motor vehicles in Korea (excluding light-class vans and ultra-compact
+  vehicles) must be equipped with an autonomous emergency braking (AEB) system. Exemptions
+  apply to towed vehicles, dump-type trucks, vehicles with standing passenger capacity,
+  and other vehicles the Minister of Land, Infrastructure and Transport...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 7fcd2580eabd16abdc18caf3a0768bd84ee29881
 systems:
 - Braking
 - ADAS

@@ -23,6 +23,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: Tires sold or used in GCC member states are regulated under GSO-ECE 117 for
+  rolling resistance, wet grip performance, and rolling sound emissions. The regulation
+  requires that tires meet specified performance standards in these areas and be correctly
+  identified and matched to the vehicle configuration, with compliance...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: ef81a5112bb45ab6e25652ce66c1bb912e2ba11c
 systems:
 - Tires & wheels
 - Noise

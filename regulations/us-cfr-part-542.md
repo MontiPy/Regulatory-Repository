@@ -15,6 +15,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-542
 status: in-force
+summary: Selection procedures for light duty truck lines to be covered by the federal
+  Theft Prevention Standard govern how manufacturers and NHTSA jointly determine whether
+  a new light duty truck line is likely to have a theft rate above or below the 1990/91
+  median, and whether low-theft truck lines share interchangeable major...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d075a6103614659515f230d5a11986f12a24a313
 systems:
 - Theft prevention
 - Vehicle identification

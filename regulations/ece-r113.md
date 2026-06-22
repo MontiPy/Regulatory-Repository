@@ -21,6 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Headlamps emitting a symmetrical low-beam or driving beam are the subject
+  of this regulation, but the provided text contains only a reference link to the
+  full regulation rather than its substantive requirements, so no specific mandates
+  can be summarized from the text as given.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: ff34a6264c3a73f488085137cc68cf5e7cea738d
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'

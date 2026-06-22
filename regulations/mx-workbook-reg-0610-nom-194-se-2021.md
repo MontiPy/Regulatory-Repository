@@ -27,6 +27,12 @@ region: MX
 source_api: spreadsheet
 source_url: https://sidof.segob.gob.mx/notas/docFuente/5666804
 status: in-force
+summary: New light vehicles sold in Mexico must meet minimum safety-device requirements
+  covering restraints, ESC, brakes, lighting, glazing, tires, child restraints, and
+  labeling. Manufacturers must provide accepted compliance evidence, such as UNECE
+  or FMVSS documentation, to obtain market access.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 36f70925e31abc76c7e86a197c308f7a7a741259
 systems:
 - Lighting & signaling
 - Braking

@@ -26,6 +26,12 @@ region: CN
 source_api: spreadsheet
 source_url: https://www.srrc.org.cn/
 status: in-force
+summary: Radio transmission equipment installed in vehicles sold in China — including
+  telematics, cellular, Bluetooth/Wi-Fi/UWB, keyless entry, TPMS, and radar modules
+  — must obtain SRRC type approval from MIIT before market placement. Compliance requires
+  meeting China's spectrum and EMC requirements and carrying required...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2fc3f78d535b61a2d87c7bb3e9d8809443037ecc
 systems:
 - EMC
 - ADAS

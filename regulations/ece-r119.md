@@ -19,6 +19,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Cornering lamps on motor vehicles are the subject of this regulation, but
+  the provided text contains no substantive content beyond a reference to the external
+  UNECE WP.29 index for full details.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 23b2d5d9c1debdca78b002cc232eca28be59fb81
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'

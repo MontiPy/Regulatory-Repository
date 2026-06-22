@@ -21,6 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Asymmetrical low-beam headlamps are the subject of this regulation, which
+  establishes approval requirements governing their design, photometric performance,
+  and installation on motor vehicles. The full technical requirements are maintained
+  by UNECE under the WP.29 framework.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b2f51598e68e204451a6cf7b56311db1c4559b67
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'

@@ -27,6 +27,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-570
 status: in-force
+summary: Vehicles with a gross vehicle weight rating of 10,000 pounds or less (excluding
+  motorcycles and trailers) are subject to inspection standards covering hydraulic
+  service brake systems, steering and suspension systems, and tire and wheel assemblies.
+  The regulation establishes criteria — intended for adoption by State...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 6850361b35a97256c35a66ff0f268d1d30208c36
 systems:
 - Braking
 - Steering

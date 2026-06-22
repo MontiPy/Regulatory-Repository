@@ -24,6 +24,12 @@ region: US
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/
 status: in-force
+summary: New motor vehicles with a GVWR up to 3,857 kg that run on gasoline, LPG,
+  natural gas, or diesel are subject to maximum permissible limits on exhaust and
+  evaporative emissions. The regulation requires these vehicles to meet certified
+  emission standards covering exhaust pollutants (NOx, CO, HC, PM/PN), evaporative...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 149273d552f493ceb38608f2dfd75ac1b81080f4
 systems:
 - Emissions
 - On-board diagnostics

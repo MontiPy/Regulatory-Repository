@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Gas-discharge light source headlamps are the subject of this regulation,
+  but the provided text contains only a reference link and no substantive regulatory
+  content to summarize.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: edafee36a5ef3857c2bfde2d223ed5c4f1b4e40e
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:35+00:00'

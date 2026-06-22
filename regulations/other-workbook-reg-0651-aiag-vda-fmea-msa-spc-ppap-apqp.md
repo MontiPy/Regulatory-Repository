@@ -21,6 +21,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.aiag.org/quality/automotive-core-tools
 status: in-force
+summary: Automotive core quality tools (APQP, FMEA, MSA, SPC, PPAP) are industry-standard
+  methodologies — not government regulations — commonly required by OEMs and suppliers
+  to support product and process risk control, measurement system integrity, process
+  capability, and production readiness evidence. Compliance involves...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 6432c7dc8ca19fad977e1163e50366082f3b054e
 systems: []
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged

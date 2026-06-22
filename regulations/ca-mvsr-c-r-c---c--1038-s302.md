@@ -22,6 +22,11 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Interior materials in passenger cars, multi-purpose passenger vehicles, trucks,
+  buses, and three-wheeled vehicles must conform to Technical Standards Document No.
+  302 on the flammability of interior materials.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e5a3a7e7dd3c944ea531ef30f2b703c46bc73fb0
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

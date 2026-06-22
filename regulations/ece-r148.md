@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Light-signalling devices (excluding headlamps) on vehicles are regulated
+  under UN R148, which establishes requirements for their approval, performance, and
+  installation to ensure consistent and safe use across ECE member countries.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 2591a6197c244543c83da137a8ae334e9d4be58e
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'

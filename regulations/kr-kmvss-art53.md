@@ -19,6 +19,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle horns in Korea must produce a continuous, steady sound at constant
+  volume and uniform tone, and must generate a minimum sound level of 90 dB(C) measured
+  2 metres in front of the vehicle at a height of 1.2 ± 0.05 metres from the ground.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b7a7756d853c84341e3733351b71baaeeb6e0957
 systems:
 - Noise
 - Lighting & signaling

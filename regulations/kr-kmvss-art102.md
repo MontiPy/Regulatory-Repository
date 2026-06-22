@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Passenger cars, trucks, and vans must meet occupant protection standards
+  in frontal and side collision tests, with specific requirements determined by vehicle
+  type and gross vehicle weight as defined in the referenced Attached Tables. Additionally,
+  vehicles equipped with a frontal passenger airbag must display a...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 6e7a12be2b34a85477642f7ca5aad9bcff9d2365
 systems:
 - Crashworthiness
 - Restraints

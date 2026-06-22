@@ -28,6 +28,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: The rechargeable energy storage system (REESS) in electric vehicles, including
+  the HV battery, BMS, contactors, service disconnects, and associated high-voltage
+  components, is regulated to prevent fire, explosion, electric shock, and hazardous
+  leakage during normal operation, abuse, and post-crash conditions....
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 754d3f07248f884c73ba7f7d4cdf99ffd29c39b4
 systems:
 - Battery safety
 - EV charging

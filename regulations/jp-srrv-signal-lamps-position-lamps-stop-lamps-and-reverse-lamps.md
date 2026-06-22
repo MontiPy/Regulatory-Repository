@@ -23,6 +23,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Signal lamps, position lamps, stop lamps, and reverse lamps on vehicles are
+  regulated under Japanese SRRV/TRIAS standards aligned with UN Regulations R6, R7,
+  R23, and R38, covering exterior lighting components including lenses, LEDs, wiring,
+  and lighting ECUs. Compliance requires that these systems ensure the vehicle...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: a03fccf4c22326f82527b4ce8ead33eadc577666
 systems:
 - Lighting & signaling
 - Visibility

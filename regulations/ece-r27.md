@@ -16,6 +16,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Advance warning triangles are regulated under UN R27, which establishes requirements
+  for their approval, though the specific technical and performance mandates cannot
+  be detailed here as the full regulatory text was not provided.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 7cb312d7a0999a60341e0e152e5c5542a65d1c0f
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:36+00:00'

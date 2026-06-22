@@ -20,6 +20,12 @@ region: IL
 source_api: spreadsheet
 source_url: https://www.gov.il/en/departments/ministry_of_transport_and_road_safety/govil-landing-page
 status: in-force
+summary: Israel's vehicle import and registration framework governs market access
+  for vehicles sold or imported into Israel, requiring that passenger vehicles hold
+  recognized safety and environmental type-approval certifications (such as UNECE
+  or EU approvals), complete documentation, and traceable compliance evidence....
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: b2d844f2514d56ddd4d87e30512b64e6a4f64ab0
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'

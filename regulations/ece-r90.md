@@ -21,6 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Replacement brake lining assemblies and drum brake linings for vehicles are
+  regulated under UN R90, which establishes approval requirements to ensure replacement
+  brake friction components meet performance standards equivalent to original equipment
+  parts.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 60fcba751b78a25938f98fb6e76f95702a02708e
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:39+00:00'

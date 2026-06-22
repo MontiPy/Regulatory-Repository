@@ -16,6 +16,11 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: Audible warning devices (horns) on vehicles in Brazil are regulated under
+  the national type-approval process administered by SENATRAN/ATIC, requiring compliance
+  as a condition of vehicle certification.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 8f2d13ff1ff7fd4228b3d2623b37e7a9361aa341
 systems:
 - Noise
 tagged_at: '2026-06-16T15:44:40+00:00'

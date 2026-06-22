@@ -19,6 +19,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Parking lamps on motor vehicles are the subject of this regulation, but the
+  provided text contains only a reference link and no substantive requirements or
+  mandates to summarize.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: cabb97e38be22882c76e7aa604be78e1b9a55fc9
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'

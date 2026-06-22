@@ -21,6 +21,12 @@ region: GCC
 source_api: spreadsheet
 source_url: https://saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?serviceid=419
 status: in-force
+summary: Vehicles entering Saudi Arabia must obtain SABER conformity certification
+  and display a fuel economy label meeting Saudi requirements, in addition to satisfying
+  the broader GCC/GSO framework. Non-compliance risks customs holds, blocked market
+  entry, or delayed dealer release due to missing certificates, label...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 0b83997d1cd286c041db661f4dfc77afdff61222
 systems:
 - Vehicle identification
 - Emissions

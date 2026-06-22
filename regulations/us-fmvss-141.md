@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.141
 status: in-force
+summary: Hybrid and electric vehicles (with a GVWR of 4,536 kg or less, including
+  low-speed vehicles) are required to emit minimum pedestrian alert sounds at specified
+  sound pressure levels across defined frequency bands during stationary operation,
+  reverse, and low-speed travel (below 30 km/h). The standard mandates specific...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 1b0a16319832249e2b09928e1673aedaabdabc18
 systems:
 - Noise
 - Pedestrian protection

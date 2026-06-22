@@ -24,6 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.217
 status: in-force
+summary: Bus emergency exits and window retention and release standards require buses
+  (except those transporting persons under physical restraint) to meet specified requirements
+  for retaining non-windshield windows, and to provide emergency exits with defined
+  operating forces, minimum opening dimensions, and markings. The...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 5b1db4fb45abf53892836339b8663ea856af1aa5
 systems:
 - Glazing
 - Crashworthiness

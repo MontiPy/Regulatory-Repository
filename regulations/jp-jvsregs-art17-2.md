@@ -27,6 +27,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Electrical devices in motor vehicles must meet ministerial standards for
+  mounting position, performance, and construction to prevent occupant injury from
+  electrical sparks, avoid radio wave interference with wireless equipment and vehicle
+  control systems, ensure cybersecurity, enable reliable software updates, and...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: deb9d2cdcc1cec7b4e9ffa3c6ec5e6e5a8912f0c
 systems:
 - EMC
 - Cybersecurity

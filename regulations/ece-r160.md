@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Event Data Recorders (EDRs) in vehicles are regulated under UN R160, but
+  the provided text contains no substantive detail beyond a reference to an external
+  source, so only its subject and title can be confirmed from the text supplied.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 2e1fa54440fbe4e21aac37fe724897dd0965da5e
 systems:
 - On-board diagnostics
 - Crashworthiness

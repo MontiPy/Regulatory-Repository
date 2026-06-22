@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Front and rear position lamps, stop lamps, and end-outline marker lamps on
+  vehicles are regulated under UN R7, which establishes approval requirements for
+  these lighting devices. The full regulatory text is maintained by UNECE WP.29.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 32d9216e0ea4e2054ace057f210c4954501ff895
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'

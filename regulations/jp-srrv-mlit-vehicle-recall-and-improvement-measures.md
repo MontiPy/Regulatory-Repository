@@ -20,6 +20,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.mlit.go.jp/jidosha/recall.html
 status: in-force
+summary: Vehicles sold in Japan with safety-related defects or nonconformities are
+  subject to MLIT recall and improvement measures, requiring manufacturers to report
+  defects, notify owners, provide validated dealer remedies, and accurately define
+  the affected vehicle population.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 39477441a11dfaef05067ebcffd7af96ed963f62
 systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged

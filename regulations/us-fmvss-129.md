@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.129
 status: in-force
+summary: New non-pneumatic tires for use as temporary spare tires on passenger cars
+  are regulated under this standard, which specifies dimensional, labeling, and laboratory
+  performance requirements covering lateral strength, endurance, high speed performance,
+  and load rating. Tires must fit designated rims or wheel center...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 6bb4068bb6862d676f73add608382977be8f11c4
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:37+00:00'

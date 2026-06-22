@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Pedestrian protection requirements for passenger cars, vans up to 4.5 tonnes
+  GVW, trucks, and special-purpose vehicles (excluding ultra-compact vehicles and
+  short-cab configurations) mandate that vehicles meet specified injury criteria when
+  a head form is impacted against the hood area at 35 km/h and when a leg form...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: deb003509a0bb53f223f667f739b22fc55c24423
 systems:
 - Pedestrian protection
 - Crashworthiness

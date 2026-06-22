@@ -23,6 +23,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Side doors of passenger cars (excluding ultra-compact vehicles) must resist
+  specified crushing loads applied by a standardized cylindrical test device, with
+  minimum average and maximum resistance thresholds at 152 mm, 305 mm, and 457 mm
+  of displacement. Door latch and hinge systems for side and rear doors must meet...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 913fc7cd8a4d57c1d8e283fecfbba92812ddc56b
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:38+00:00'

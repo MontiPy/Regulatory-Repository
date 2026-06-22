@@ -17,6 +17,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles must be constructed and operated so as not to generate excessive
+  noise, in accordance with ministerially prescribed standards, and those powered
+  by internal combustion engines must be fitted with a muffler that meets ministerially
+  prescribed standards for structure and noise suppression performance....
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: aff18694150fb8767bb6a6832c8b3a808c655638
 systems:
 - Noise
 - Emissions

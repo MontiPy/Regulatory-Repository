@@ -16,6 +16,10 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Exhaust emission control equipment on motor vehicles must comply with the
+  emission limits established under Article 46 of the Clean Air Conservation Act.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b8a2f0030fa100899d4bd5f7ee9920b395219531
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:41+00:00'

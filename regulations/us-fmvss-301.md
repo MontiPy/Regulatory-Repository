@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.301
 status: in-force
+summary: Fuel system integrity for passenger cars, multipurpose passenger vehicles,
+  trucks, buses with a GVWR of 4,536 kg or less, and qualifying school buses is regulated
+  to prevent fire-related deaths and injuries from fuel spillage during and after
+  crashes and from fuel ingestion during siphoning. It requires these vehicles...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9c028078a4ce2b342d68a38a64e5b771f1330990
 systems:
 - Fuel safety
 - Crashworthiness

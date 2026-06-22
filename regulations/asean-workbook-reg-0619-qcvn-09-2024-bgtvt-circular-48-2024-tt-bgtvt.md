@@ -27,6 +27,12 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/circular-48-2024-tt-bgtvt-technical-regulations-on-technical-environmental-protection-consumption-of-648713.html
 status: in-force
+summary: Vehicles manufactured, assembled, or imported into Vietnam must meet local
+  technical safety and environmental standards under QCVN 09:2024/BGTVT, covering
+  whole-vehicle type approval, conformity of production, VIN and certification labeling,
+  emissions and fuel consumption evidence, and accompanying documentation such...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: dc5d7c5634cba4c5a0a6e1314ad8216a34d288dd
 systems:
 - Emissions
 - Vehicle identification

@@ -21,6 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Gas-discharge light sources for use in motor vehicle lighting systems are
+  the subject of this regulation, which establishes approval requirements to ensure
+  these components meet defined performance and safety standards.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 0a05fde92937ceb06abb0a341fa70d05edf17bf8
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'

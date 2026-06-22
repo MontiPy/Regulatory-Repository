@@ -29,6 +29,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en
 status: in-force
+summary: Electrical and electronic equipment — including automotive accessories, chargers,
+  service equipment, connectors, PCBs, displays, and sensors — must restrict the use
+  of certain hazardous substances in accordance with RoHS requirements, with applicability
+  to passenger vehicles requiring careful filtering against ELV...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: af6edcef06c8378bd04b2fed6a91c4daf645bb78
 systems:
 - EMC
 - EV charging

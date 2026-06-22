@@ -24,6 +24,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/35061.html
 status: in-force
+summary: ISO 22628 establishes a standardized calculation method for determining the
+  recyclability and recoverability rates of passenger vehicles at end of life. It
+  is used as supporting evidence to demonstrate compliance with ELV-related obligations
+  by requiring accurate material data, supplier bill-of-materials records, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: a2bedd4c25547722532bad494444ee4620a8bd24
 systems: []
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged

@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.308
 status: in-force
+summary: Compressed hydrogen storage systems (CHSS) used in motor vehicles are regulated
+  to reduce deaths and injuries from hydrogen fuel leaks and pressurized container
+  explosions. The standard applies to vehicles manufactured on or after September
+  1, 2028, that use compressed hydrogen gas as a propellant, and requires each...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 2618f9a7637a31084ec92b1ac6b83d97f0fb7e52
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'

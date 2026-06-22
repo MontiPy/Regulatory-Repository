@@ -20,6 +20,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: ISOFIX anchorage systems and top tether anchorages in vehicles are regulated
+  under UN R145, which establishes requirements for their design, installation, and
+  strength to ensure secure attachment points for child restraint systems.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 20191846f7dd537a1412d7a4e79883586a3c19cd
 systems:
 - Restraints
 - Crashworthiness

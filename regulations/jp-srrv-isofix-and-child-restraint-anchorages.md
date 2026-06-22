@@ -24,6 +24,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: ISOFIX and child restraint anchorages in Japanese-market vehicles are regulated
+  under SRRV/TRIAS/UN R145 to ensure occupants and child restraints remain correctly
+  positioned and secured during normal driving and crash events. The regulation covers
+  seats, belt assemblies, ISOFIX/LATCH/tether hardware, and related...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: bcf2715a94329559f211c313b0c5fc12b71f4dee
 systems:
 - Restraints
 - Crashworthiness

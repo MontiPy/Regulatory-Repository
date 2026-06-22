@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: The driver's seat in Korean motor vehicles must provide adequate sightlines,
+  sufficient space to operate controls, and proper alignment with the steering wheel.
+  Minimum seat dimensions are specified by vehicle type, and driver's seats in vans
+  with 16 or more passenger capacity must additionally meet the standards in...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 58a8d428f54c0726cb80671fd417504ae3fd1e48
 systems:
 - Steering
 - Visibility

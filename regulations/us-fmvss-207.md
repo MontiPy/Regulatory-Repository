@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.207
 status: in-force
+summary: Seating systems in passenger cars, multipurpose passenger vehicles, trucks,
+  and buses are regulated to minimize seat failure during vehicle impact. The standard
+  requires that seats, their attachment assemblies, and installation withstand specified
+  longitudinal forces, remain in adjusted positions during testing, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: a9a67cfd31871fa258e364d7a91cec597e5dbc66
 systems:
 - Crashworthiness
 - Restraints

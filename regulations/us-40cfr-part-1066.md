@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-1066
 status: in-force
+summary: Emission measurement procedures for highway vehicles — including chassis-tested
+  light-duty and heavy-duty vehicles (model year 2022 and later) and non-chassis-tested
+  heavy-duty highway vehicles (model year 2014 and later) — are governed by this part,
+  which prescribes the equipment specifications, calibrations,...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: ad64a3a705dba3fa51a4a8dce24bcf7fbb22dce7
 systems:
 - Emissions
 - Fuel safety

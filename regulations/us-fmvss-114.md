@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.114
 status: in-force
+summary: Theft protection and rollaway prevention for passenger cars and light trucks
+  and MPVs (GVWR ≤ 10,000 lbs) are regulated by this standard. It requires that removing
+  the key disable engine activation and either steering or forward self-mobility,
+  that sufficient unique key combinations be provided, that an audible...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 83f4f22939dace00558ab8ec7c96ae0785c835d7
 systems:
 - Theft prevention
 - Steering

@@ -22,6 +22,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Motor vehicles using flammable liquid fuels (gasoline, kerosene, light oil,
+  alcohol, or similar combustibles) must have fuel systems meeting ministerial standards
+  for strength, structure, and mounting to prevent ignition and fire. For most vehicle
+  categories (excluding buses with 11 or more seats, heavy freight...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: bdf5d0041ee441783f6ef5d005253683385a3e9a
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'

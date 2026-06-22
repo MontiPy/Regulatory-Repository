@@ -16,6 +16,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Passenger cars and three-wheeled vehicles must conform to Technical Standards
+  Document No. 401 (Interior Trunk Release), requiring an interior trunk release mechanism,
+  except that vehicles manufactured before September 1, 2010 are exempt and vehicles
+  equipped with a back door (as defined in TSD 401) are not subject to...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 1e992dd9d04e819744824bd67853699a7c6585bc
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

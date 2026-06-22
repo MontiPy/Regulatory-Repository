@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.307
 status: in-force
+summary: The fuel system integrity of hydrogen vehicles covers requirements for compressed
+  hydrogen fuel systems in motor vehicles manufactured on or after September 1, 2028.
+  It mandates that hydrogen fuel systems prevent leakage and reverse flow, includes
+  labeling requirements near fueling receptacles, and establishes...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 94aab1cb186cc9949db8bbf8a30be62900c8464e
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'

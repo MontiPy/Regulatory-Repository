@@ -19,6 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-566
 status: in-force
+summary: Manufacturers of motor vehicles and applicable motor vehicle equipment (excluding
+  tires) are required to submit identifying information — including name, address,
+  and a description of the vehicles or equipment they produce — to NHTSA. This information
+  must be submitted within 30 days of beginning manufacture and kept...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 7d418d36a5fdb1369da95afd5e7bf50afaa7651c
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:40+00:00'

@@ -27,6 +27,12 @@ region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/
 status: in-force
+summary: Greenhouse gas emissions from passenger automobiles and light trucks sold
+  in Canada are regulated under this rule, which sets GHG emission standards, fleet
+  average requirements, and obligations related to credits, reporting, and recordkeeping
+  for manufacturers and importers.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: e8145cb6c501e79ff1f24343dde935cc1c638122
 systems:
 - Emissions
 - EV charging

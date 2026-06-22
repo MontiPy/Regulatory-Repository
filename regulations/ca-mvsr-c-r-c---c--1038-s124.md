@@ -17,6 +17,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Accelerator control systems for passenger cars, multi-purpose passenger vehicles,
+  trucks, buses, and three-wheeled vehicles are regulated under this section, which
+  requires these vehicles to conform to the requirements of Technical Standards Document
+  No. 124, Accelerator Control Systems, as amended from time to time.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 453d6efb0a77a9cf0cf522690d8130222b687e97
 systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:37+00:00'

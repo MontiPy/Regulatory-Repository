@@ -18,6 +18,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Ground contact area and ground pressure of motor vehicles in loaded condition
+  are regulated under this article, which requires that the ground contact area be
+  designed to minimize noise and avoid road damage, and that vehicles with continuous
+  tracks not exceed a ground pressure of 3 kilograms per square centimeter of...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: ccf06903d9b9f1aabae0dcc48ec023cb9f40cd96
 systems:
 - Tires & wheels
 - Noise

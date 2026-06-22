@@ -25,6 +25,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Hybrid, electric, and fuel cell passenger cars, vans up to 4.5 tonnes GVW,
+  and trucks up to 3.5 tonnes GVW must meet the crash test standards for high-voltage
+  electrical systems specified in Attached Table 11-4.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 71e64d8574e497bed92310a4934fb997b17a47e5
 systems:
 - Crashworthiness
 - Battery safety

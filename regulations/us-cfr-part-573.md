@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-573
 status: in-force
+summary: Manufacturers of motor vehicles and motor vehicle equipment with respect
+  to safety-related defects and noncompliances with Federal motor vehicle safety standards
+  are regulated under this part. It requires manufacturers to maintain owner and distributor
+  notification lists, report defects and noncompliances to NHTSA,...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 902f7e6d7b5529673b1e9803b8048740f448bca1
 systems: []
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged

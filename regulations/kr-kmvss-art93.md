@@ -19,6 +19,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Passenger cars (excluding ultra-compact passenger cars) in Korea must be
+  equipped with a bumper that meets the safety standards specified in Attached Table
+  11-6.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 1b9cdc3c7ad9ebe412d961088b8e670a4a78388b
 systems:
 - Crashworthiness
 - Pedestrian protection

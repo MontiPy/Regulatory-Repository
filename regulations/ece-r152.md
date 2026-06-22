@@ -24,6 +24,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Advanced Emergency Braking (AEB) systems on light-duty vehicles are regulated
+  under UN R152, which mandates performance and testing requirements to ensure these
+  systems can automatically detect hazards and apply emergency braking to prevent
+  or mitigate collisions.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 3baf92f306abc1741475c3acb9742cbdc0dcbfc9
 systems:
 - Braking
 - ADAS

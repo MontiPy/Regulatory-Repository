@@ -20,6 +20,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 759/2018 establishes requirements related to rear alert and monitoring
+  systems on vehicles in Brazil. The full regulatory details are available through
+  the official CONTRAN resolution archive and cannot be summarized beyond what the
+  provided text states.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 0afcabcbd1632a2139b2a1dc6006efc9b889245f
 systems:
 - ADAS
 - Visibility

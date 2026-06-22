@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: User-ready tether anchorages for child restraint systems are regulated for
+  passenger cars, three-wheeled vehicles, certain MPVs and trucks, school buses, and
+  lighter buses, excluding hearses and seats with built-in restraint systems. The
+  regulation mandates installation of user-ready tether anchorages at specified...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 51bd50d7f2eff8afcb8bdda32347f2d248477fbc
 systems:
 - Restraints
 - Crashworthiness

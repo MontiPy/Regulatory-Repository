@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-582
 status: in-force
+summary: Automobile dealers are required to make available, free of charge, written
+  booklets comparing insurance costs across different makes and models of passenger
+  motor vehicles based on damage susceptibility and crashworthiness data published
+  annually by NHTSA. Dealers must maintain sufficient quantities of these booklets...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 508cd39ba125267961ffd26966b8cdfc61933b30
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:35+00:00'

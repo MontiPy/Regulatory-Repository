@@ -23,6 +23,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
+summary: Speedometer and odometer equipment in Japan is regulated under SRRV/TRIAS
+  to ensure accurate vehicle speed and distance displays for drivers. Compliance requires
+  that these instruments meet defined standards for visibility and human-machine interface
+  performance as part of the vehicle's instrument panel and display...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: fe8e4f1fc9e0a407cb981b980038745a0189ca38
 systems:
 - Lighting & signaling
 - Tell-tales & controls

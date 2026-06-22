@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Accelerator control systems on passenger cars, vans, trucks, and special-purpose
+  vehicles with a gross vehicle weight of 4.5 tonnes or less must return to idle within
+  1 second of the driver releasing the pedal, and electrically controlled systems
+  must also return to idle within 1 second in the event of a circuit break...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 19a175ef53fb5a988a861ea8aed8b0085f06ce0c
 systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:35+00:00'

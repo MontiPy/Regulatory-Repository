@@ -20,6 +20,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Passenger cars, multi-purpose passenger vehicles, trucks, and buses with
+  a GVWR of 4,536 kg or less (with specified exceptions) must conform to Technical
+  Standards Document No. 216 on Roof Crush Resistance, while certain multi-stage-built
+  or altered-roof vehicles in that weight range may alternatively comply with TSD...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c42e9f1f970a8fdbc5381e60d801695eee5d1b0f
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'

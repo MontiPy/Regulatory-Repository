@@ -21,6 +21,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: Safety glass, visibility, and light transmittance requirements for vehicles
+  in Brazil are governed by CONTRAN 960/2022; the full regulatory text must be accessed
+  directly through the official CONTRAN resolution archive to determine specific mandates.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c5da52d3bf0a6b6acc0e378e9c3860eed9ea93d8
 systems:
 - Visibility
 - Glazing

@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Electrical equipment on motor vehicles must meet standards requiring all
+  wiring to be covered with insulating material and secured to the body, interior
+  terminals and switches to be insulated, and batteries to be firmly mounted against
+  vibration and shock, with any battery located inside the passenger compartment also...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 7e1fb9aaaf3365e5082a42ccc24e5a7f77a514ff
 systems:
 - Battery safety
 - EMC

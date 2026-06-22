@@ -21,6 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Pedal misapplication mitigation systems are the subject of this regulation,
+  but the provided text contains only a reference link to the full regulatory text
+  rather than its substantive requirements, so no specific mandates or performance
+  criteria can be summarized from the content given.
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 3c212fb923cacd1dcfcdf40d6a6c43c0d666d54e
 systems:
 - ADAS
 - Braking

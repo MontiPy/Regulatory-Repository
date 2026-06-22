@@ -16,6 +16,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Noise suppression equipment on motor vehicles must comply with the vehicle
+  noise limits established under Articles 30 and 35 of South Korea's Noise and Vibration
+  Control Act.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 34601ea4fc3209bcf0d87801ce3db7ff7aab4d24
 systems:
 - Noise
 tagged_at: '2026-06-16T15:44:39+00:00'

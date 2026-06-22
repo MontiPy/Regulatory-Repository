@@ -25,6 +25,10 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: The high-voltage electrical system of motor vehicles must meet the insulation
+  safety standards specified in Attached Table 5 of the regulation.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 3b46298d5683b98bb045d3f3a965b915c2474cdc
 systems:
 - Battery safety
 - EV charging

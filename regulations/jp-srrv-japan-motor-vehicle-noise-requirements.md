@@ -24,6 +24,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.env.go.jp/en/laws/air/noise/ch.html
 status: in-force
+summary: Motor vehicle noise levels in Japan are regulated under the Noise Regulation
+  Law, covering exhaust, intake, engine/motor, tire, and AVAS/external sound systems
+  for passenger vehicles. Compliance requires meeting maximum permissible noise limits
+  and satisfying applicable type approval obligations with MLIT/JASIC/NTSEL...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 667a90c289b4b9d9a475ed2f5914b960311e1b81
 systems:
 - Noise
 - Emissions

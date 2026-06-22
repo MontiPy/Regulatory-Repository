@@ -22,6 +22,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Door latches and door retention components on vehicles are regulated under
+  UN R11, which establishes requirements to ensure that vehicle doors remain securely
+  closed during normal operation and in the event of a crash.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: ef245a3fea16cfbbbcbd5d9b62fa6e1b0fa11a83
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:40+00:00'

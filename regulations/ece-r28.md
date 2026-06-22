@@ -19,6 +19,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Audible warning devices (horns) on motor vehicles are regulated under UN
+  R28, which establishes approval requirements governing their sound output and performance
+  standards.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 68b3aa8aac7b36a52842860d53ef64d6719ba899
 systems:
 - Noise
 tagged_at: '2026-06-16T15:44:36+00:00'

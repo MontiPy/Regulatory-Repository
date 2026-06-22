@@ -18,6 +18,11 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: CONTRAN 498/2014 governs cover and hood latch requirements as part of Brazil's
+  vehicle type-approval process. Full regulatory details are administered through
+  SENATRAN and accessible via the official certification body ATIC.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c2fba7c179cd00f3f6f48b9c2379ada96a29677f
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

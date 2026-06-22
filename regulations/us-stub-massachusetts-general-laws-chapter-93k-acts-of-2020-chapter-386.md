@@ -23,6 +23,12 @@ region: US
 source_api: spreadsheet
 source_url: https://malegislature.gov/Laws/SessionLaws/Acts/2020/Chapter386
 status: in-force
+summary: Massachusetts's right-to-repair telematics law requires that model year 2022
+  and later vehicles sold with telematics systems provide vehicle owners and independent
+  repairers access to the same diagnostic and repair data available to authorized
+  dealers, through a standardized open-access platform. Manufacturers must...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 4ef088575b81a15036b34c02c73147d54a15a54a
 systems:
 - Cybersecurity
 - On-board diagnostics

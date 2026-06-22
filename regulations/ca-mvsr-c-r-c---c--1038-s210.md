@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Seat belt anchorages in designated seating positions must match the type
+  of seat belt assembly installed (pelvic restraint for Type 1, or combined pelvic
+  and upper torso restraint for Type 2), and must conform to Technical Standards Document
+  No. 210 for three-wheeled vehicles, passenger cars, MPVs, buses (excluding...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 1ff1bf439ddd76fabdb8b46ad21c1733113b8050
 systems:
 - Restraints
 - Crashworthiness

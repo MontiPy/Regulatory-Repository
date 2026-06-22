@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-583
 status: in-force
+summary: New passenger motor vehicle manufacturers, suppliers, and dealers are required
+  to disclose parts content information on labels, including the U.S./Canadian and
+  foreign value percentages of vehicle parts, the countries of origin for the engine
+  and transmission, and the final assembly location, to help consumers make...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 72cb12c836b6de3ef046765da6d670942dd1f0b3
 systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged

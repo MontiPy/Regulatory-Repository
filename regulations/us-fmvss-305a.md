@@ -26,6 +26,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305a
 status: in-force
+summary: Electric powertrain integrity in electric-powered passenger cars, multipurpose
+  passenger vehicles, trucks, and buses with high-voltage propulsion systems (above
+  60 VDC or 30 VAC) capable of exceeding 40 km/h is regulated by this standard. It
+  requires protection against electric shock, electrolyte leakage, fire,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 30a85ad3968c68d5b26b46b3acc55f339fc8790f
 systems:
 - Battery safety
 - EV charging

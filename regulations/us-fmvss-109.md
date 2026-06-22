@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.109
 status: in-force
+summary: New pneumatic tires for passenger cars manufactured from 1949 through 1975,
+  new bias ply tires, and T-type spare tires are regulated under this standard, which
+  establishes requirements for tire dimensions, bead unseating resistance, strength,
+  endurance, and high-speed performance, as well as load ratings and labeling....
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: 09575f49b5a279a8956500290f6eceee10e1acc7
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'

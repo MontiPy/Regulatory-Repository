@@ -19,6 +19,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicles in Korea must be equipped with a speedometer meeting Article
+  110 standards and an odometer displaying total distance travelled. Specified vehicle
+  types — including vans, heavy trucks and special-purpose vehicles over 3.5 tonnes,
+  high-pressure gas tank trucks, and low-speed electric vehicles — must also...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 7aa3c5f82c85f45b4494e4a9dcc0301be4a3287a
 systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:36+00:00'

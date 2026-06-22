@@ -19,6 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.221
 status: in-force
+summary: School bus body panel joints are regulated under this standard to reduce
+  structural collapse during crashes. It requires that each body panel joint withstand
+  a force equal to at least 60 percent of the tensile strength of the weakest joined
+  body panel when tested, with no unattached joint segment exceeding 203 mm,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: bf8bbd7429bbba391ffcbeee3c2c09104d7c38ad
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:40+00:00'

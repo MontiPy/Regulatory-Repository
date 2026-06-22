@@ -21,6 +21,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Locking devices fitted to the engine, power transmission, running gear, transmission,
+  steering, or braking systems of qualifying passenger and freight motor vehicles
+  (within specified weight and seating-capacity limits) are regulated under this article.
+  It requires that such devices, including electronic immobilizers...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: e521e8fc3ec250cbe295be0ba25ad1a9213cdfbf
 systems:
 - Braking
 - Steering

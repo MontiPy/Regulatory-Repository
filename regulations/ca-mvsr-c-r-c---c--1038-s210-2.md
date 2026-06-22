@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Lower universal anchorage systems (LUAS) for child restraints in passenger
+  cars, three-wheeled vehicles, light trucks, MPVs, buses, and school buses are regulated
+  by this section, which specifies the physical specifications of the anchorage bars
+  and mandates where they must be installed based on vehicle type, seating...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 288abc6821cb7781a51992eba4b3e2f4f98bb8b8
 systems:
 - Restraints
 - Crashworthiness

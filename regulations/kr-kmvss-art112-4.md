@@ -17,6 +17,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Headlamps for motor vehicles (excluding ultra-compact vehicles) must meet
+  the luminous intensity standards specified in Attached Tables 6-3 through 6-5 and
+  the chromaticity standards in Attached Table 6-22.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: b94553dd0dcecb4d56f3a824c49c836019b287b4
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'

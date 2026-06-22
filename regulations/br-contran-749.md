@@ -26,6 +26,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: Hybrid, plug-in hybrid, and electric vehicles in Brazil are subject to specific
+  requirements established by CONTRAN Resolution 749/2018; however, the full regulatory
+  text must be accessed directly through the official CONTRAN resolution archive to
+  determine the precise mandates.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 26dfc64af3d2c421d83e3353c3a9573e5bafb2f2
 systems:
 - EV charging
 - Battery safety

@@ -20,6 +20,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Partial autonomous driving systems installed in passenger cars must conform
+  to the requirements set out in Attached Table 27 of the Korean Motor Vehicle Safety
+  Standards.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 83a4399c63de320a28d9724e79d441ddd78f278c
 systems:
 - ADAS
 tagged_at: '2026-06-16T15:44:40+00:00'

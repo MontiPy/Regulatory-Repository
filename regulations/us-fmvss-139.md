@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.139
 status: in-force
+summary: New pneumatic radial tires for light vehicles (used on non-motorcycle, non-low-speed
+  motor vehicles with a GVWR of 10,000 pounds or less, manufactured after 1975) are
+  regulated under this standard, which specifies tire dimensions, test requirements,
+  labeling requirements, and load rating definitions. Certain tire...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: cd6ebddc709d9f2c035bd1b6fb700757c7935ae0
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:36+00:00'

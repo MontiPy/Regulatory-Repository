@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: Braking systems on passenger cars are the subject of this regulation, but
+  the provided text contains only a title and external reference link without specifying
+  the detailed requirements or mandates.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 68e29f4bdbfb24042be825c1c820621b8873f6ec
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:40+00:00'

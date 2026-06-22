@@ -21,6 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Emergency autonomous braking systems installed in most motor vehicles in
+  Korea must meet specific performance standards based on vehicle type and weight,
+  with vehicles over 3.5 tonnes (vans, trucks, and special-purpose vehicles) required
+  to comply with Attached Table 7-8, and passenger cars and vehicles at or under...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: ba8c830b241828e663f673e591b0b9dafdc16f12
 systems:
 - Braking
 - ADAS

@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Seat belt installation in Korean motor vehicles requires that all seats be
+  fitted with seat belts, with defined exceptions such as certain city and rural bus
+  passenger seats and seats approved by the Minister, and mandates three-point or
+  higher belts for all passenger car seats and driver-adjacent seats, seat belt...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: da73611378d79deccd8941519fc15e283ed277ab
 systems:
 - Restraints
 - Crashworthiness

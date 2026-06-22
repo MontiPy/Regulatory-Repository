@@ -20,6 +20,12 @@ region: US
 source_api: spreadsheet
 source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-575
 status: in-force
+summary: Consumer information labels and ratings for vehicles sold in the US, including
+  UTQG grades, rollover warnings, and safety-rating labels, requiring that vehicles
+  carry accurate disclosures and that compliance records support market placement,
+  traceability, and recall reporting.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 68806a8b0d683b78693127983b63ef5d6e079b79
 systems:
 - Vehicle identification
 - Tires & wheels

@@ -20,6 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-554
 status: in-force
+summary: Federal motor vehicle safety standards enforcement and safety-related defect
+  investigations are regulated under this part, which establishes NHTSA's procedures
+  for opening and conducting compliance and defect investigations, making noncompliance
+  and defect determinations, and notifying manufacturers of findings. It...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 6dfca285f29d0fb1c694731edc3b6f89646d626c
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged

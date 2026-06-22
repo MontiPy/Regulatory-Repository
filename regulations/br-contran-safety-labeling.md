@@ -18,6 +18,12 @@ region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
+summary: The text provided is too sparse to summarize the specific requirements of
+  this regulation, containing only an administrative reference and a source link rather
+  than substantive regulatory content. Based solely on what is stated, this entry
+  identifies a Brazilian vehicle safety labeling and consumer information...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: dc0d76405c39a0f44637da2b455c57bc08a3c160
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:39+00:00'

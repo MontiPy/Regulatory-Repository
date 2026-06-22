@@ -17,6 +17,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle hood latches must be secure, and where a forward-opening hood
+  could obstruct the driver's view if opened while driving, the latch must provide
+  secondary locking or locking at two points.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 789d61eb1a84134857454434974ea2e1a702dea2
 systems:
 - Visibility
 - Crashworthiness

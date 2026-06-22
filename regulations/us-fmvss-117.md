@@ -22,6 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.117
 status: in-force
+summary: Retreaded pneumatic passenger car tires are regulated for performance, labeling,
+  and certification, requiring them to meet safety criteria comparable to new passenger
+  car tires. Manufacturers must ensure casings meet structural integrity standards,
+  affix the DOT certification symbol, and comply with specified labeling...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 75d9be3203546eb53d84a41ed79c5acd67c26b35
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:37+00:00'

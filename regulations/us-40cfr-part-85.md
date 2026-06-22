@@ -23,6 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-85
 status: in-force
+summary: Clean alternative fuel conversions of light-duty, medium-duty, and heavy-duty
+  vehicles and engines are regulated under this subpart, which establishes the conditions
+  under which conversion manufacturers are exempt from the Clean Air Act's tampering
+  prohibition when altering a vehicle or engine to operate on a...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 3613d734b4fedcca2314cfd42efd53e1d0235f90
 systems:
 - Emissions
 - Fuel safety

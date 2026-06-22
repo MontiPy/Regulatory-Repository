@@ -20,6 +20,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicles must be equipped with indirect vision devices — either mirror-based
+  or camera monitor system-based — installed and providing fields of view in accordance
+  with specified attached tables. School vans for children face additional requirements,
+  including a forward obstacle-detection device and side indirect...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: d13089445d8443a27d5212ff968f77824aaec1f4
 systems:
 - Visibility
 - ADAS

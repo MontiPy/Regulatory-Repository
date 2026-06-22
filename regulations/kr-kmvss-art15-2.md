@@ -22,6 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicles in Korea must be equipped with an electronic stability control
+  (ESC) system, with specific exemptions including vehicles with four or more axles,
+  towed vehicles, certain special-purpose trucks, ultra-compact vehicles, articulated
+  buses, and others deemed impractical by the Minister. The ESC system must...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 18d6bdecb18cabe93a57de0e1aa207f2977e8fa1
 systems:
 - Braking
 - ADAS

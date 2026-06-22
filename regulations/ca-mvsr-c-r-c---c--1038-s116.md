@@ -22,6 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Hydraulic brake fluid composition for passenger cars, multi-purpose passenger
+  vehicles, trucks, buses, three-wheeled vehicles, motorcycles, trailers, and trailer
+  converter dollies must conform to Technical Standards Document No. 116 (Motor Vehicle
+  Brake Fluids). The regulation also specifies updated ASTM standard...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: a3253693a32ba2a5d5ce8767d9bddc002a2a905d
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:37+00:00'

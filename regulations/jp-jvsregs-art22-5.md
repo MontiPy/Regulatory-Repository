@@ -20,6 +20,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Passenger vehicles in Japan (with specified exclusions, including large-capacity,
+  low-speed, and wheelchair-accessible vehicles) must be fitted with child restraint
+  system anchorages that meet ministerial strength and positioning standards; child
+  restraint systems themselves must also meet structural and performance...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c7a132be6b66c47649fd2836b6dd92432cb11d2b
 systems:
 - Restraints
 - Crashworthiness

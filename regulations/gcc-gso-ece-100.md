@@ -30,6 +30,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: GSO-ECE 100 covers electrical and high-voltage safety for electric and hybrid
+  electric vehicles in the GCC region. It requires protection against fire, explosion,
+  electric shock, and hazardous leakage across fuel systems, high-voltage batteries,
+  contactors, inverters, and related components during normal use, abuse,...
+summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_hash: d28e5da6f1ea269aa06f799625217ca648b7dd4a
 systems:
 - Battery safety
 - Fuel safety

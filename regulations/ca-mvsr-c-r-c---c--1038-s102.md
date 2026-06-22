@@ -23,6 +23,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
+summary: Automatic and manual vehicle transmissions are regulated with respect to
+  control sequencing, gear position displays, and engine start-inhibit requirements.
+  Automatic transmissions must sequence positions so that shifting between forward
+  and reverse passes through neutral, must provide engine braking in a forward drive...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9ef4b8a032ababc5994a87ccf8fcc6fba9ba6a80
 systems:
 - Tell-tales & controls
 - Braking

@@ -20,6 +20,12 @@ region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/vehicle-recalls
 status: in-force
+summary: Road vehicles and components supplied in Australia that have safety defects
+  or noncompliances are subject to recall requirements under this framework. Manufacturers
+  and suppliers must identify the affected vehicle population, notify owners, provide
+  dealer remedy instructions, and report to the regulator to ensure...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 912e1b52fa308d55f7ff3bb58d0369ee0c58c50d
 systems: []
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged

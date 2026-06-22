@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.404
 status: in-force
+summary: Platform lift installations in motor vehicles equipped to assist persons
+  with limited mobility are regulated here, covering vehicles manufactured on or after
+  July 1, 2005. The standard requires that installed lifts be certified to FMVSS No.
+  403, installed per manufacturer instructions, equipped with specified lighting...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: add6a055f3e57583014eb263c201d3d3bebd617e
 systems:
 - Lighting & signaling
 - Tell-tales & controls

@@ -25,6 +25,12 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
+summary: Braking systems of passenger cars and multipurpose vehicles (M1 category)
+  exported or registered in GCC member states are regulated to ensure predictable
+  stopping performance, braking stability, and residual braking capability after system
+  faults. The regulation covers foundation brakes, hydraulic circuits, ABS, ESC,...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 5a435cd5b0b47fa919ba16faf85a1a95606341aa
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:38+00:00'

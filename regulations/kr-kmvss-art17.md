@@ -24,6 +24,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
+summary: Motor vehicle fuel systems — including tanks, filler ports, and gas outlets
+  — must be structured to prevent fuel leakage, meet minimum distance requirements
+  from exhaust pipes and electrical components, and be physically separated from the
+  passenger compartment. Vehicles powered by hydrogen gas must additionally limit...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 42f04760234ec084893bf82752ffbe6ada362488
 systems:
 - Fuel safety
 - Emissions

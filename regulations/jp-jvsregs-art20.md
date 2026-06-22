@@ -24,6 +24,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
+summary: Passenger accommodation in motor vehicles must be structured to prevent occupants
+  from falling or being thrown about, with enclosed passenger cabins required where
+  non-driver passengers are carried, and adequate ventilation provided throughout.
+  Interior components including seats, seat belts, head restraints, and...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: c6fd4e40481bd0fab8a24b9ed8bdd59036180629
 systems:
 - Crashworthiness
 - Restraints

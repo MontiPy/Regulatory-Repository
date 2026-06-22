@@ -20,6 +20,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: The full text of UN Regulation No. 150 is not provided here, only a reference
+  link to an external source. The regulation pertains to retro-reflecting devices,
+  but no specific requirements or mandates can be summarized from the text supplied.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 7e65dc0ee77d0554845af0351cf6bf7180b6d3b6
 systems:
 - Lighting & signaling
 - Visibility

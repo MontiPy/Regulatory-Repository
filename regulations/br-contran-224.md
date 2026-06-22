@@ -18,6 +18,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: CONTRAN 224/2007 establishes Brazilian requirements for windshield wipers
+  and washers on vehicles. The full regulatory text must be retrieved directly from
+  the official CONTRAN resolution archive, as the complete requirements are not available
+  in the provided source.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 9a58317dcac69fc0b9a7d238393efdbfa338b930
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:38+00:00'

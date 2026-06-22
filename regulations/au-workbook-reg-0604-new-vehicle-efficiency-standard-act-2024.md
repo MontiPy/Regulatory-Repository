@@ -26,6 +26,12 @@ region: AU
 source_api: spreadsheet
 source_url: https://www.nvesregulator.gov.au/what-new-vehicle-efficiency-standard
 status: in-force
+summary: Australia's New Vehicle Efficiency Standard Act 2024 regulates suppliers
+  of covered vehicles entered on the Register of Approved Vehicles, requiring them
+  to meet fleet average CO2, fuel economy, certified emissions, and OBD requirements
+  across their vehicle portfolios. Compliance encompasses engine and aftertreatment...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 90be78fbdad9f06a65a179f9b46c4cfdcebd9046
 systems:
 - Emissions
 - On-board diagnostics

@@ -17,6 +17,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-551
 status: in-force
+summary: Written communications and service-of-process procedures for official business
+  conducted under federal motor vehicle safety laws are covered by this regulation.
+  It requires that written submissions to NHTSA meet specific formatting and addressing
+  standards, be signed in ink with full legal identification, and be in...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 76779d5c9c96942aaa0a4a1dc9dcac2f3dab32c2
 systems: []
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged

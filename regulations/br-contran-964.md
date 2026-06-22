@@ -18,6 +18,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
+summary: Frontal airbags for drivers and front passengers in Brazilian vehicles are
+  regulated under CONTRAN 964/2022, but the full requirements cannot be summarized
+  as the resolution's complete text is only available through the official CONTRAN
+  archive and was not provided.
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 05b369dfaae482a7fbe95e33b82682920ae1629e
 systems:
 - Crashworthiness
 - Restraints

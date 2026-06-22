@@ -21,6 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.204
 status: in-force
+summary: Steering control rearward displacement in passenger cars, multipurpose passenger
+  vehicles, trucks, and buses is regulated to reduce the risk of chest, neck, or head
+  injury in a frontal crash. It requires that when tested in a perpendicular impact
+  into a fixed barrier, the upper end of the steering column and shaft...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 32bd7b08849f199aecb2620768046569dd4de827
 systems:
 - Steering
 - Crashworthiness

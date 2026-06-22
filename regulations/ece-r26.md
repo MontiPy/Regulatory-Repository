@@ -23,6 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+summary: External projections on passenger vehicles are regulated, requiring that
+  the design of a vehicle's exterior minimize the risk of injury to pedestrians and
+  other road users upon contact.
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 744877925cb1fe1de7f8e4a448c035741cc6088f
 systems:
 - Crashworthiness
 - Pedestrian protection

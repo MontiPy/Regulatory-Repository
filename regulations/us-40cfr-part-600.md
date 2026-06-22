@@ -25,6 +25,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-600
 status: in-force
+summary: Fuel economy and greenhouse gas exhaust emissions of motor vehicles — specifically
+  2008 and later model year automobiles — are regulated under this part, which establishes
+  applicability rules, testing procedures, and reporting requirements for manufacturers,
+  including provisions for electric vehicles, alternative fuel...
+summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_hash: 0b45e84f16d3a8207106ff13c9232c42369bf264
 systems:
 - Emissions
 - Fuel safety

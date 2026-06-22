@@ -23,6 +23,12 @@ region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/sor-2003-2/index.html
 status: in-force
+summary: Emissions from on-road passenger cars in Canada, as marked in Schedule III
+  of the Motor Vehicle Safety Regulations, are regulated to limit pollutants such
+  as NOx, HC, CO, and PM over the vehicle's useful life and to ensure emission control
+  faults are detected via OBD systems. Compliance applies based on import or...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 53f8a5f6cfedf1e860f080837004f801649c0bbb
 systems:
 - Emissions
 - On-board diagnostics

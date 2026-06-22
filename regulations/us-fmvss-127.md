@@ -24,6 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.127
 status: in-force
+summary: Automatic emergency braking (AEB) systems on light vehicles — including passenger
+  cars and trucks, vans, and buses with a GVWR of 10,000 pounds or less — are regulated
+  under this standard, which establishes performance requirements for AEB and forward
+  collision warning systems. Beginning September 1, 2029, covered...
+summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_hash: 4c20b5bc5f032f743314bbdf7176ce68c58bc1d2
 systems:
 - Braking
 - ADAS
