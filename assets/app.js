@@ -410,6 +410,7 @@
       if (!record.summary_ai) return "";
       const tags = [`<span class="summary-tag">AI summary</span>`];
       if (record.summary_stale) {
+        // Static literal — no record data is interpolated, so no escapeHtml needed.
         tags.push(`<span class="summary-tag summary-stale" title="The source text changed after this summary was written.">may be out of date</span>`);
       }
       return `<p class="summary-meta">${tags.join("")}</p>`;

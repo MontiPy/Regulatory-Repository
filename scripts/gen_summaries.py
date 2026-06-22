@@ -229,12 +229,12 @@ def poll_and_import(batch_id: str, regulations: list[dict]) -> None:
             print(f"  WARN {cid}: no matching regulation found")
             skip += 1
             continue
-        summary = parse_summary(result.result.message.content[0].text)
-        if not summary:
-            print(f"  SKIP {cid}: empty summary")
-            skip += 1
-            continue
         try:
+            summary = parse_summary(result.result.message.content[0].text)
+            if not summary:
+                print(f"  SKIP {cid}: empty summary")
+                skip += 1
+                continue
             write_summary_to_file(reg["path"], summary, reg["body_hash"])
             ok += 1
         except Exception as exc:
@@ -254,8 +254,10 @@ def main() -> int:
     args = parser.parse_args()
 
     if args.poll:
-        # Rebuild the path/hash lookup across all regulations for import.
-        regulations = load_regulations(args.region, regen=True, stale_only=False)
+        # Rebuild the path/hash lookup across ALL regulations, ignoring --region:
+        # every custom_id in the batch must resolve at import time, or completed
+        # (paid) results would be silently dropped.
+        regulations = load_regulations(None, regen=True, stale_only=False)
         poll_and_import(args.poll, regulations)
         return 0
 

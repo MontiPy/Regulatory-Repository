@@ -480,3 +480,12 @@ class TestBuildRecordSummary:
         record, _issues = build_record(path, {}, draft=True)
         assert record["summary_ai"] is True
         assert record["summary_stale"] is True
+
+    def test_summary_without_hash_is_stale(self, tmp_path):
+        # A summary with no stored hash can't be proven fresh, so it is flagged
+        # stale by design (gen_summaries always writes the hash alongside).
+        path = tmp_path / "test-id.md"
+        self._write_reg(path, self.BODY, summary="Manually authored summary.")
+        record, _issues = build_record(path, {}, draft=True)
+        assert record["summary_ai"] is True
+        assert record["summary_stale"] is True
