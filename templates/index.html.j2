@@ -4,9 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Regulatory Repository</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Noto+Sans:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <!-- Type is served from system-font stacks (see styles.css :root) so the tool
+       loads with no external font CDN — works offline and on internal hosting. -->
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
@@ -31,11 +30,30 @@
   </header>
 
   <section id="home" class="home hidden" aria-label="Home">
-    <div class="home-hero">
-      <h1 class="home-title">Which regulations apply to your part, system, or market?</h1>
-      <p class="coverage-line" id="coverage-line"></p>
-      <p class="search-examples" id="search-examples">Try FMVSS 208, braking, airbag, or UN R13.</p>
+    <div class="onboard hidden" id="onboard" role="note">
+      <span class="onboard-text"><strong>New here?</strong> Start with the system or part you're working on — pick one below or search. Every result links back to its official source.</span>
+      <button type="button" class="onboard-dismiss" id="onboard-dismiss" aria-label="Dismiss">×</button>
     </div>
+
+    <div class="home-hero">
+      <div class="hero-main">
+        <p class="hero-eyebrow">Vehicle regulations · global coverage</p>
+        <h1 class="home-title">Find every requirement that governs your part.</h1>
+        <p class="coverage-line" id="coverage-line"></p>
+        <div class="hero-search">
+          <input id="home-search" type="search" autocomplete="off" aria-label="Search regulations"
+                 placeholder="Search a part, system, citation, or UN number…">
+        </div>
+        <div class="hero-chips" id="hero-chips" aria-label="Jump to a system"></div>
+        <p class="search-examples" id="search-examples"></p>
+      </div>
+      <aside class="hero-feature" aria-label="Most-covered systems">
+        <div class="feature-head"><span class="feature-label">Most-covered systems</span></div>
+        <ol class="feature-list" id="feature-list"></ol>
+        <p class="feature-foot" id="feature-foot"></p>
+      </aside>
+    </div>
+
     <div class="home-panels">
       <section class="dir-panel" data-panel="systems">
         <div class="dir-head"><span class="dir-label">Browse by System</span><span class="dir-sort" data-sort-for="systems"></span></div>
@@ -82,6 +100,10 @@
     </main>
 
     <aside class="reader hidden" id="reader" aria-label="Regulation reader">
+      <button type="button" class="reader-back" id="reader-back">
+        <span class="reader-back-arrow" aria-hidden="true">←</span>
+        <span id="reader-back-label">Back to results</span>
+      </button>
       <div class="reader-head">
         <div class="reader-title-block">
           <strong class="reader-title" id="reader-title"></strong>

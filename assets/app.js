@@ -35,6 +35,7 @@
     const homeView      = document.querySelector("#home");
     const workspaceEls  = [document.querySelector(".layout")];
     const homeLink      = document.querySelector("#home-link");
+    const homeSearch    = document.querySelector("#home-search");
     let openReaderId    = null;
     let readerOrigin    = null;
     let visibleLimit    = PAGE_SIZE;
@@ -291,6 +292,17 @@
       return chips.join("");
     }
 
+    // Honest provenance: systems/commodities/vehicle categories come from the
+    // automated tagging pass, so flag them as AI-classified (mirrors the
+    // verified-vs-AI treatment already used for UN equivalents).
+    function classificationNote(record) {
+      const hasTags = (record.systems || []).length
+        || (record.commodities || []).length
+        || (record.vehicle_categories || []).length;
+      if (!hasTags || record.tagging_status !== "llm-tagged") return "";
+      return `<p class="meta-provenance">Systems, commodities &amp; vehicle categories are AI-classified — verify against the source text.</p>`;
+    }
+
     function readerBodyHtml(record) {
       const sourceHtml = sourceLinkHtml(record);
       return `
@@ -300,6 +312,7 @@
             <div class="body-html">${bodyCache.get(record.id) || ""}</div>
             <aside class="meta-panel">
               <p class="meta-section-label">Details</p>
+              ${classificationNote(record)}
               <div class="meta-grid">
                 ${facetChips("Commodities", record.commodities)}
                 ${facetChips("Systems", record.systems)}
@@ -310,6 +323,7 @@
                 ${relatedLinks(record.related)}
                 ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
                 ${record.effective_date ? `<div class="meta-item"><strong>Effective Date</strong><span>${escapeHtml(record.effective_date)}</span></div>` : ""}
+                ${record.last_amended ? `<div class="meta-item"><strong>Last Amended</strong><span>${escapeHtml(record.last_amended)}</span></div>` : ""}
                 ${record.last_pulled ? `<div class="meta-item"><strong>Last Pulled</strong><span>${escapeHtml(record.last_pulled)}</span></div>` : ""}
                 ${record.tagged_at  ? `<div class="meta-item"><strong>Tagged At</strong><span>${escapeHtml(record.tagged_at)}</span></div>`  : ""}
               </div>
@@ -317,6 +331,18 @@
           </div>
         </div>
       `;
+    }
+
+    // Breadcrumb back to the result set the reader was opened from, so the
+    // search/filter context isn't lost (matters most on mobile, where the
+    // reader fully overlays the results).
+    function readerContextLabel() {
+      const parts = [];
+      const q = searchInput.value.trim();
+      if (q) parts.push(`“${q}”`);
+      const sel = readSelections();
+      FILTERS.forEach((f) => { sel[f.key].forEach((v) => parts.push(displayLabel(v))); });
+      return parts.length ? `Back to ${parts.join(" · ")}` : "Back to all regulations";
     }
 
     async function openReader(id) {
@@ -330,6 +356,8 @@
         } catch { bodyCache.set(id, "<p>Failed to load regulation text.</p>"); }
       }
       if (openReaderId !== id) return;  // superseded by a later open/close during the await
+      const backLabel = document.querySelector("#reader-back-label");
+      if (backLabel) backLabel.textContent = readerContextLabel();
       document.querySelector("#reader-title").textContent = record.title || record.id;
       document.querySelector("#reader-trust").innerHTML = readerTrustHtml(record);
       document.querySelector("#reader-body").innerHTML = readerBodyHtml(record);
@@ -384,6 +412,17 @@
       return `<p class="summary">${highlight(record.summary_text || "No summary available.", query)}</p>`;
     }
 
+    // Trust footer on each card: source authority + freshness. Lets a reader
+    // gauge how current and how authoritative a result is without opening it.
+    function cardFootHtml(record) {
+      const bits = [];
+      const host = record.source_url ? hostLabel(record.source_url) : "";
+      if (host) bits.push(`<span class="card-source">${escapeHtml(host)}</span>`);
+      if (record.last_pulled) bits.push(`<span class="card-fresh">Updated ${escapeHtml(record.last_pulled.slice(0, 10))}</span>`);
+      if (!bits.length) return "";
+      return `<p class="card-foot">${bits.join('<span class="dot" aria-hidden="true">·</span>')}</p>`;
+    }
+
     function cardTemplate(record) {
       const q = searchInput.value;
       const isActive = record.id === openReaderId;
@@ -400,6 +439,7 @@
                 ${statusBadge}
               </div>
               ${cardSummaryHtml(record, q)}
+              ${cardFootHtml(record)}
             </div>
             <button type="button" class="expand-button" data-read="${escapeHtml(record.id)}" aria-expanded="${isActive}">
               ${isActive ? "Reading" : "Read"}
@@ -565,14 +605,82 @@
       if (!onWorkspace) renderHome();
     }
 
+    function topByCount(key, n) {
+      const counts = CORPUS_COUNTS[key] || {};
+      return Object.keys(counts)
+        .filter((v) => counts[v] > 0)
+        .sort((a, b) => counts[b] - counts[a])
+        .slice(0, n);
+    }
+
+    // Freshness signal: the most recent pull across the corpus. ISO-8601 strings
+    // compare lexicographically, so a string max is a valid date max.
+    function latestPullDate() {
+      let max = "";
+      REGS.forEach((r) => { if (r.last_pulled && r.last_pulled > max) max = r.last_pulled; });
+      return max ? max.slice(0, 10) : "";
+    }
+
+    function renderHeroFeature() {
+      const counts = CORPUS_COUNTS.systems || {};
+      const top = topByCount("systems", 6);
+      const chipsEl = document.querySelector("#hero-chips");
+      if (chipsEl) {
+        chipsEl.innerHTML = top.map((v) =>
+          `<button type="button" class="hero-chip" data-dir-key="systems" data-dir-value="${escapeHtml(v)}">`
+          + `${escapeHtml(displayLabel(v))}<span class="hero-chip-count">${counts[v]}</span></button>`
+        ).join("");
+      }
+      const listEl = document.querySelector("#feature-list");
+      if (listEl) {
+        listEl.innerHTML = top.map((v) =>
+          `<li><button type="button" class="feature-item" data-dir-key="systems" data-dir-value="${escapeHtml(v)}" aria-label="${escapeHtml(displayLabel(v))} — ${counts[v]} regulations">`
+          + `<span class="feature-rank" aria-hidden="true"></span>`
+          + `<span class="feature-name">${escapeHtml(displayLabel(v))}</span>`
+          + `<span class="feature-count">${counts[v]}</span></button></li>`
+        ).join("");
+      }
+      const foot = document.querySelector("#feature-foot");
+      if (foot) {
+        const fresh = latestPullDate();
+        // Honest label: ranked by how many regulations we hold per system
+        // (real coverage), not by usage — this is a static site with no analytics.
+        foot.innerHTML = fresh
+          ? `<span class="fresh-dot">&#9679;</span> Ranked by coverage · repository updated ${escapeHtml(fresh)}`
+          : `Ranked by coverage`;
+      }
+    }
+
+    const EXAMPLE_QUERIES = ["FMVSS 208", "braking", "airbag", "UN R13", "lighting"];
+    function renderExamples() {
+      const el = document.querySelector("#search-examples");
+      if (!el) return;
+      el.innerHTML = `Try `
+        + EXAMPLE_QUERIES.map((q) =>
+            `<button type="button" class="example-q" data-example="${escapeHtml(q)}">${escapeHtml(q)}</button>`
+          ).join(", ");
+    }
+
+    function maybeShowOnboard() {
+      const el = document.querySelector("#onboard");
+      if (!el) return;
+      el.classList.toggle("hidden", localStorage.getItem("onboarded") === "1");
+    }
+
     function renderHome() {
       const total = REGS.length;
       const tagged = (CORPUS_COUNTS.tagging_status && CORPUS_COUNTS.tagging_status["llm-tagged"]) || 0;
       const untagged = (CORPUS_COUNTS.tagging_status && CORPUS_COUNTS.tagging_status["untagged"]) || 0;
+      const markets = Object.keys(CORPUS_COUNTS.region || {}).length;
       const cov = document.querySelector("#coverage-line");
-      cov.innerHTML = `${tagged} of ${total} classified by part &amp; system`
+      cov.innerHTML = `<strong>${total}</strong> regulations · ${tagged} classified by part &amp; system · ${markets} markets`
         + (untagged ? ` · ${untagged} untagged` : "")
-        + ` <a class="browse-all" href="?view=results" data-browse-all>Browse all ${total} by market →</a>`;
+        + ` <a class="browse-all" href="?view=results" data-browse-all>Browse all by market →</a>`;
+
+      renderHeroFeature();
+      renderExamples();
+      if (homeSearch) homeSearch.value = searchInput.value;
+      maybeShowOnboard();
 
       renderDirPanel("systems", (v) => displayLabel(v));
       renderDirPanel("commodities", (v) => displayLabel(v));
@@ -674,6 +782,29 @@
       route();
     });
 
+    // The hero search is a promoted proxy for the header search: forward its
+    // value, then the normal pipeline routes Home -> Workspace on first keystroke.
+    // That first keystroke hides #home (and with it #home-search), so hand focus
+    // to the header search — which already mirrors the value — so typing continues
+    // seamlessly instead of dropping to <body>.
+    if (homeSearch) {
+      homeSearch.addEventListener("input", () => {
+        searchInput.value = homeSearch.value;
+        visibleLimit = PAGE_SIZE;
+        render();
+        syncUrl();
+        updateClearButton();
+        route();
+        if (homeView.classList.contains("hidden")) {
+          searchInput.focus();
+          try {
+            const end = searchInput.value.length;
+            searchInput.setSelectionRange(end, end);
+          } catch { /* setSelectionRange unsupported on some inputs */ }
+        }
+      });
+    }
+
     filtersForm.addEventListener("change", () => {
       visibleLimit = PAGE_SIZE;
       render();
@@ -734,6 +865,7 @@
     });
 
     document.querySelector("#reader-close").addEventListener("click", () => closeReader());
+    document.querySelector("#reader-back").addEventListener("click", () => closeReader());
 
     loadMore.addEventListener("click", () => {
       visibleLimit += PAGE_SIZE;
@@ -805,9 +937,28 @@
     });
 
     homeView.addEventListener("click", (event) => {
-      const tile = event.target.closest(".dir-tile");
-      if (tile) {
-        goToWorkspace(tile.dataset.dirKey, tile.dataset.dirValue);
+      if (event.target.closest("#onboard-dismiss")) {
+        localStorage.setItem("onboarded", "1");
+        document.querySelector("#onboard").classList.add("hidden");
+        return;
+      }
+      const example = event.target.closest(".example-q");
+      if (example) {
+        searchInput.value = example.dataset.example;
+        if (homeSearch) homeSearch.value = example.dataset.example;
+        visibleLimit = PAGE_SIZE;
+        render();
+        syncUrl();
+        updateClearButton();
+        route();
+        window.scrollTo(0, 0);
+        return;
+      }
+      // dir tiles, hero quick-chips, and the featured leaderboard all carry
+      // data-dir-key / data-dir-value and jump straight into the workspace.
+      const jump = event.target.closest("[data-dir-value]");
+      if (jump) {
+        goToWorkspace(jump.dataset.dirKey, jump.dataset.dirValue);
         return;
       }
       const browseAll = event.target.closest("[data-browse-all]");
