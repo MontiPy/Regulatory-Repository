@@ -406,10 +406,20 @@
       return `${prefix}${text.slice(start, end).trim()}${suffix}`;
     }
 
+    function summaryMetaHtml(record) {
+      if (!record.summary_ai) return "";
+      const tags = [`<span class="summary-tag">AI summary</span>`];
+      if (record.summary_stale) {
+        tags.push(`<span class="summary-tag summary-stale" title="The source text changed after this summary was written.">may be out of date</span>`);
+      }
+      return `<p class="summary-meta">${tags.join("")}</p>`;
+    }
+
     function cardSummaryHtml(record, query) {
       const snippet = bodyMatchSnippet(record, query);
       if (snippet) return `<p class="summary summary-snippet">${highlight(snippet, query)}</p>`;
-      return `<p class="summary">${highlight(record.summary_text || "No summary available.", query)}</p>`;
+      const summary = `<p class="summary">${highlight(record.summary_text || "No summary available.", query)}</p>`;
+      return summary + summaryMetaHtml(record);
     }
 
     // Trust footer on each card: source authority + freshness. Lets a reader

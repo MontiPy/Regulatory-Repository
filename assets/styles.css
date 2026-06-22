@@ -518,6 +518,16 @@
       line-height: 1.55;
     }
     .summary-snippet { border-left: 2px solid var(--line-1); padding-left: 10px; }
+    .summary-meta { margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .summary-tag {
+      display: inline-flex; align-items: center; min-height: 18px;
+      padding: 1px 6px; font-size: var(--text-eyebrow); letter-spacing: 0.03em;
+      color: var(--fg-3); border: 1px solid var(--line-1); background: var(--surface);
+    }
+    .summary-tag.summary-stale {
+      color: var(--danger);
+      border-color: color-mix(in srgb, var(--danger) 45%, transparent);
+    }
 
     /* Trust footer: source authority + freshness, sized down so it sits quietly. */
     .card-foot {
