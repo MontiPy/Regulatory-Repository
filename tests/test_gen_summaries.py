@@ -48,6 +48,9 @@ class TestParseSummary:
     def test_strips_wrapping_quotes(self):
         assert parse_summary('"Hello world."') == "Hello world."
 
+    def test_strips_smart_quote_wrapping(self):
+        assert parse_summary('“Hello world.”') == "Hello world."
+
     def test_truncates_overlong_text(self):
         long = "word " * 100
         result = parse_summary(long)

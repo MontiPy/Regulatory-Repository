@@ -1,4 +1,4 @@
-﻿"""Generate plain-language AI summaries for regulations via the Anthropic Batch API.
+"""Generate plain-language AI summaries for regulations via the Anthropic Batch API.
 
 Writes a 1-2 sentence summary into each regulation's .md frontmatter as
 ``summary``, alongside ``summary_hash`` (SHA-1 of the cleaned body it was made
