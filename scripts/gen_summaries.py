@@ -1,4 +1,4 @@
-"""Generate plain-language AI summaries for regulations via the Anthropic Batch API.
+﻿"""Generate plain-language AI summaries for regulations via the Anthropic Batch API.
 
 Writes a 1-2 sentence summary into each regulation's .md frontmatter as
 ``summary``, alongside ``summary_hash`` (SHA-1 of the cleaned body it was made
@@ -132,7 +132,7 @@ def parse_summary(text: str) -> str:
     text = re.sub(r"^```(?:\w+)?\s*", "", text)
     text = re.sub(r"\s*```$", "", text)
     text = re.sub(r"\s+", " ", text).strip()
-    text = text.strip('"""').strip()
+    text = text.strip('“"”').strip()
     if len(text) > SUMMARY_CAP:
         cut = text.rfind(" ", 0, SUMMARY_CAP)
         text = text[: cut if cut > 0 else SUMMARY_CAP].rstrip() + "..."
