@@ -2,7 +2,6 @@
 citation: Motor Vehicle Tire Safety Regulations (SOR/2013-198)
 commodities:
 - Tires
-- Wheels
 id: ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

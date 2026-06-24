@@ -3,8 +3,6 @@ citation: SRRV / TRIAS / UN R145
 commodities:
 - Seats
 - Seatbelts
-- Airbags
-- ECUs
 id: jp-srrv-isofix-and-child-restraint-anchorages
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

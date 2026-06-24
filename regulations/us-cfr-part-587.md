@@ -1,8 +1,6 @@
 ---
 citation: 49 CFR Part 587
-commodities:
-- Body structure
-- Bumpers
+commodities: []
 id: us-cfr-part-587
 last_pulled: '2026-06-01T18:45:20+00:00'
 open_tags:

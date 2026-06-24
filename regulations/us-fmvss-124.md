@@ -3,7 +3,6 @@ citation: 49 CFR §571.124
 commodities:
 - Pedals
 - Fuel system
-- Electric motors
 id: us-fmvss-124
 last_pulled: '2026-06-01T18:39:39+00:00'
 open_tags:

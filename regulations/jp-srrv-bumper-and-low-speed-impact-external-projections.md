@@ -3,9 +3,6 @@ citation: SRRV / TRIAS
 commodities:
 - Body structure
 - Bumpers
-- Airbags
-- Seatbelts
-- Seats
 id: jp-srrv-bumper-and-low-speed-impact-external-projections
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 534
-commodities:
-- Fuel system
+commodities: []
 id: us-cfr-part-534
 last_pulled: '2026-06-01T18:43:19+00:00'
 open_tags:

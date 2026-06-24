@@ -35,6 +35,14 @@ Thumbs.db
 .build_report.txt
 .tag_report.txt
 
+# Commodity-tag review artifacts (audit log + workflow scratch)
+.commodity_review.md
+.commodity_review_changes.json
+.commodity_review_ids.txt
+.commodity_review_ids.json
+.commodity_review_workflow.js
+.commodity_review_workflow.template.js
+
 # Playwright MCP scratch (screenshots, snapshots, console logs)
 .playwright-mcp/
 

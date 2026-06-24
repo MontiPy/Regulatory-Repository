@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 586
-commodities:
-- Body structure
+commodities: []
 id: us-cfr-part-586
 last_pulled: '2026-06-01T18:45:19+00:00'
 open_tags:

@@ -2,9 +2,6 @@
 citation: GSO-ECE 43 / GSO 3538
 commodities:
 - Glass
-- Lighting modules
-- Wiring
-- ECUs
 id: gcc-gso-ece-43-gso-3538
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

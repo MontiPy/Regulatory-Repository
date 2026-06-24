@@ -2,7 +2,6 @@
 citation: 49 CFR §571.119
 commodities:
 - Tires
-- Wheels
 id: us-fmvss-119
 last_pulled: '2026-06-01T18:39:17+00:00'
 open_tags:

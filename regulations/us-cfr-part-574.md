@@ -2,7 +2,6 @@
 citation: 49 CFR Part 574
 commodities:
 - Tires
-- Wheels
 id: us-cfr-part-574
 last_pulled: '2026-06-01T18:44:43+00:00'
 open_tags:

@@ -1,9 +1,8 @@
 ---
 citation: GSO-ECE 125
 commodities:
-- Lighting modules
-- Wiring
-- ECUs
+- Glass
+- Body structure
 id: gcc-gso-ece-125
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

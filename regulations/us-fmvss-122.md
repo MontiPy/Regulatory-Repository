@@ -4,7 +4,6 @@ commodities:
 - Brakes
 - Wheels
 - Tires
-- Pedals
 id: us-fmvss-122
 last_pulled: '2026-06-01T18:39:28+00:00'
 open_tags:

@@ -4,6 +4,7 @@ commodities:
 - Glass
 - Body structure
 - Seats
+- Airbags
 id: ca-mvsr-c-r-c---c--1038-s226
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:

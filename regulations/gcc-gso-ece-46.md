@@ -2,7 +2,6 @@
 citation: GSO-ECE 46
 commodities:
 - Mirrors
-- Lighting modules
 - Wiring
 - ECUs
 id: gcc-gso-ece-46

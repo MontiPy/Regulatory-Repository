@@ -1,9 +1,6 @@
 ---
 citation: 49 CFR Part 572
-commodities:
-- Airbags
-- Seatbelts
-- Seats
+commodities: []
 id: us-cfr-part-572
 last_pulled: '2026-06-01T18:44:40+00:00'
 open_tags:

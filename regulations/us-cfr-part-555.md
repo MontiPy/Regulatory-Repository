@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 555
-commodities:
-- Bumpers
+commodities: []
 id: us-cfr-part-555
 last_pulled: '2026-06-01T18:43:59+00:00'
 open_tags:

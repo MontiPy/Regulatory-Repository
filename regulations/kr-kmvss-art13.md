@@ -2,10 +2,6 @@
 citation: KMVSS Article 13
 commodities:
 - Steering column
-- Wipers & washers
-- Horn
-- Fuel system
-- Lighting modules
 - Brakes
 - Pedals
 id: kr-kmvss-art13

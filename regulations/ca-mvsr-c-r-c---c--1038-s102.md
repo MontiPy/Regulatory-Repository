@@ -1,7 +1,6 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 102
 commodities:
-- Steering column
 - Brakes
 - Pedals
 id: ca-mvsr-c-r-c---c--1038-s102

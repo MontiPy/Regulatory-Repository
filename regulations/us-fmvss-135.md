@@ -4,8 +4,6 @@ commodities:
 - Brakes
 - Pedals
 - Wheels
-- Batteries
-- Electric motors
 id: us-fmvss-135
 last_pulled: '2026-06-01T18:39:59+00:00'
 open_tags:

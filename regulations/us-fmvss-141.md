@@ -1,9 +1,6 @@
 ---
 citation: 49 CFR §571.141
-commodities:
-- Horn
-- Electric motors
-- Batteries
+commodities: []
 id: us-fmvss-141
 last_pulled: '2026-06-01T18:40:10+00:00'
 open_tags:

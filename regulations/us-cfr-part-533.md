@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 533
-commodities:
-- Fuel system
+commodities: []
 id: us-cfr-part-533
 last_pulled: '2026-06-01T18:43:18+00:00'
 open_tags:

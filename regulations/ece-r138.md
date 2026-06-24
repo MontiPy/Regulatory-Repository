@@ -1,7 +1,6 @@
 ---
 citation: UN R138
 commodities:
-- Electric motors
 - Horn
 id: ece-r138
 last_pulled: '2026-06-01T18:53:05+00:00'

@@ -1,10 +1,6 @@
 ---
 citation: 49 CFR Part 538
-commodities:
-- Fuel system
-- Fuel tanks
-- Batteries
-- Electric motors
+commodities: []
 id: us-cfr-part-538
 last_pulled: '2026-06-01T18:43:29+00:00'
 open_tags:

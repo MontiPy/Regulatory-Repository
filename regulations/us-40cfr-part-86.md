@@ -3,6 +3,7 @@ citation: 40 CFR Part 86
 commodities:
 - Fuel system
 - Exhaust
+- ECUs
 id: us-40cfr-part-86
 last_pulled: '2026-06-01T18:45:54+00:00'
 open_tags:

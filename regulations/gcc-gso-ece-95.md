@@ -5,7 +5,6 @@ commodities:
 - Airbags
 - Seatbelts
 - Body structure
-- Bumpers
 - Door latches & hinges
 id: gcc-gso-ece-95
 last_pulled: '2026-06-05T14:39:27+00:00'

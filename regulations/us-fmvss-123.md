@@ -1,10 +1,7 @@
 ---
 citation: 49 CFR §571.123
 commodities:
-- Brakes
-- Lighting modules
 - Pedals
-- Horn
 id: us-fmvss-123
 last_pulled: '2026-06-01T18:39:38+00:00'
 open_tags:

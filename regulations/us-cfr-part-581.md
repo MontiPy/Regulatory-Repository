@@ -6,6 +6,7 @@ commodities:
 - Fuel system
 - Exhaust
 - Body structure
+- Door latches & hinges
 id: us-cfr-part-581
 last_pulled: '2026-06-01T18:45:04+00:00'
 open_tags:

@@ -1,8 +1,6 @@
 ---
 citation: 49 CFR Part 523
-commodities:
-- Tires
-- Steering column
+commodities: []
 id: us-cfr-part-523
 last_pulled: '2026-06-01T18:42:58+00:00'
 open_tags:

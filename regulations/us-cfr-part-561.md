@@ -5,7 +5,6 @@ commodities:
 - Electric motors
 - Wiring
 - Power electronics
-- Charging inlet
 id: us-cfr-part-561
 last_pulled: '2026-06-01T18:44:06+00:00'
 open_tags:

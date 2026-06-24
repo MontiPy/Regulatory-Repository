@@ -3,13 +3,9 @@ citation: California Proposition 65
 commodities:
 - Batteries
 - Wiring
-- ECUs
 - Seats
 - Tires
 - Brakes
-- Hoses & lines
-- Connectors
-- Power electronics
 id: us-stub-california-proposition-65
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

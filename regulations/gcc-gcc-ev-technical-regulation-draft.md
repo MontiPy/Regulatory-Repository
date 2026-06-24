@@ -2,8 +2,6 @@
 citation: GCC EV Technical Regulation Draft
 commodities:
 - Batteries
-- Fuel system
-- Fuel tanks
 - Hoses & lines
 - Connectors
 - Charging inlet

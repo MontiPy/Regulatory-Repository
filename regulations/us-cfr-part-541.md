@@ -3,10 +3,6 @@ citation: 49 CFR Part 541
 commodities:
 - Body structure
 - Bumpers
-- Steering column
-- Seats
-- Mirrors
-- Wheels
 id: us-cfr-part-541
 last_pulled: '2026-06-01T18:43:34+00:00'
 open_tags:

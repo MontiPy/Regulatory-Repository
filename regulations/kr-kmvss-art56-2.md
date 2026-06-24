@@ -1,8 +1,6 @@
 ---
 citation: KMVSS Article 56-2
 commodities:
-- Airbags
-- Seatbelts
 - ECUs
 id: kr-kmvss-art56-2
 last_pulled: '2026-05-23T15:31:39+00:00'

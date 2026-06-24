@@ -1,10 +1,6 @@
 ---
 citation: KMVSS Article 9
-commodities:
-- Steering column
-- Suspension
-- Tires
-- Wheels
+commodities: []
 id: kr-kmvss-art9
 last_pulled: '2026-05-23T15:30:34+00:00'
 open_tags:

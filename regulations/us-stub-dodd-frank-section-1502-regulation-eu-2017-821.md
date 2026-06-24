@@ -1,12 +1,6 @@
 ---
 citation: Dodd-Frank Section 1502 / Regulation (EU) 2017/821
-commodities:
-- Batteries
-- ECUs
-- Wiring
-- Connectors
-- Power electronics
-- Infotainment
+commodities: []
 id: us-stub-dodd-frank-section-1502-regulation-eu-2017-821
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

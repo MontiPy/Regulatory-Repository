@@ -5,6 +5,8 @@ commodities:
 - Steering column
 - Tires
 - Wheels
+- Brakes
+- ECUs
 id: jp-jvsregs-art5
 last_pulled: '2026-06-01T18:52:40+00:00'
 open_tags:

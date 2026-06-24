@@ -2,7 +2,6 @@
 citation: JVSR Article 43_7
 commodities:
 - Horn
-- Electric motors
 id: jp-jvsregs-art43-7
 last_pulled: '2026-06-01T18:52:41+00:00'
 open_tags:

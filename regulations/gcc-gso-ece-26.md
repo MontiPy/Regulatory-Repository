@@ -3,10 +3,6 @@ citation: GSO-ECE 26
 commodities:
 - Body structure
 - Bumpers
-- Airbags
-- Seatbelts
-- Seats
-- Door latches & hinges
 id: gcc-gso-ece-26
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

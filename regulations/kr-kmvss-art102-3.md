@@ -6,6 +6,7 @@ commodities:
 - Airbags
 - Seatbelts
 - Seats
+- Steering column
 id: kr-kmvss-art102-3
 last_pulled: '2026-05-23T15:31:12+00:00'
 open_tags:

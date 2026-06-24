@@ -1,8 +1,6 @@
 ---
 citation: JVSR Article 28
-commodities:
-- Fuel tanks
-- Hoses & lines
+commodities: []
 id: jp-jvsregs-art28
 last_pulled: '2026-06-01T18:52:41+00:00'
 open_tags:

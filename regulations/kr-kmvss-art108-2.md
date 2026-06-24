@@ -1,7 +1,6 @@
 ---
 citation: KMVSS Article 108-2
-commodities:
-- Fuel system
+commodities: []
 id: kr-kmvss-art108-2
 last_pulled: '2026-05-23T15:31:42+00:00'
 open_tags:

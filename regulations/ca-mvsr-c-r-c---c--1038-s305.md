@@ -7,7 +7,6 @@ commodities:
 - Charging inlet
 - Power electronics
 - Electric motors
-- Fuel tanks
 id: ca-mvsr-c-r-c---c--1038-s305
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:

@@ -2,8 +2,6 @@
 citation: 40 CFR Part 82
 commodities:
 - HVAC
-- Fuel system
-- Exhaust
 id: us-40cfr-part-82
 last_pulled: '2026-06-01T18:45:44+00:00'
 open_tags:

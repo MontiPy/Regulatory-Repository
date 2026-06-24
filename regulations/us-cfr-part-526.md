@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 526
-commodities:
-- Fuel system
+commodities: []
 id: us-cfr-part-526
 last_pulled: '2026-06-01T18:43:07+00:00'
 open_tags:

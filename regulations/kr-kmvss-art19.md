@@ -2,7 +2,6 @@
 citation: KMVSS Article 19
 commodities:
 - Body structure
-- Bumpers
 - Exhaust
 - Tires
 id: kr-kmvss-art19

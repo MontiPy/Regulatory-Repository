@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 525
-commodities:
-- Fuel system
+commodities: []
 id: us-cfr-part-525
 last_pulled: '2026-06-01T18:43:02+00:00'
 open_tags:

@@ -2,8 +2,6 @@
 citation: KMVSS Article 105
 commodities:
 - Glass
-- Airbags
-- Seatbelts
 - Body structure
 id: kr-kmvss-art105
 last_pulled: '2026-05-23T15:31:20+00:00'

@@ -1,7 +1,6 @@
 ---
 citation: KMVSS Article 6
-commodities:
-- Wheels
+commodities: []
 id: kr-kmvss-art6
 last_pulled: '2026-05-23T15:30:31+00:00'
 open_tags:

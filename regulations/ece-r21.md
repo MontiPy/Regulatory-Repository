@@ -3,9 +3,6 @@ citation: UN R21
 commodities:
 - Seats
 - Body structure
-- Door latches & hinges
-- Steering column
-- Bumpers
 id: ece-r21
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:

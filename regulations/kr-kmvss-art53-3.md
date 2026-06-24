@@ -2,7 +2,6 @@
 citation: KMVSS Article 53-3
 commodities:
 - Horn
-- Electric motors
 id: kr-kmvss-art53-3
 last_pulled: '2026-05-23T15:31:35+00:00'
 open_tags:

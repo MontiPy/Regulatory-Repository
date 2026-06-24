@@ -1,9 +1,6 @@
 ---
 citation: Massachusetts General Laws Chapter 93K / Acts of 2020 Chapter 386
-commodities:
-- ECUs
-- Infotainment
-- Connectors
+commodities: []
 id: us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

@@ -3,7 +3,6 @@ citation: KMVSS Article 104
 commodities:
 - Door latches & hinges
 - Body structure
-- Seats
 id: kr-kmvss-art104
 last_pulled: '2026-05-23T15:31:19+00:00'
 open_tags:

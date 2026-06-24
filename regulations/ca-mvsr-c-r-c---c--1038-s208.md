@@ -3,6 +3,7 @@ citation: MVSR C.R.C.,_c._1038 s. 208
 commodities:
 - Seatbelts
 - Seats
+- Airbags
 id: ca-mvsr-c-r-c---c--1038-s208
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:

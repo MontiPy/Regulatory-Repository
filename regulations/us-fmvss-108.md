@@ -2,8 +2,6 @@
 citation: 49 CFR §571.108
 commodities:
 - Lighting modules
-- ADAS sensors
-- Mirrors
 - Wiring
 id: us-fmvss-108
 last_pulled: '2026-06-01T18:38:42+00:00'

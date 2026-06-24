@@ -2,11 +2,7 @@
 citation: GSO-ECE 21
 commodities:
 - Seats
-- Airbags
-- Seatbelts
 - Body structure
-- Bumpers
-- Door latches & hinges
 id: gcc-gso-ece-21
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

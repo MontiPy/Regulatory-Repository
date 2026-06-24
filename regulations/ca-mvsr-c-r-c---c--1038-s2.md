@@ -1,11 +1,6 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 2
-commodities:
-- Seats
-- Glass
-- Brakes
-- Airbags
-- Seatbelts
+commodities: []
 id: ca-mvsr-c-r-c---c--1038-s2
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:

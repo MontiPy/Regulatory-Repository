@@ -2,7 +2,6 @@
 citation: SRRV / TRIAS
 commodities:
 - Glass
-- Mirrors
 - Wipers & washers
 id: jp-srrv-windshield-wiping-washing-defrosting-and-defogging
 last_pulled: '2026-06-01T18:54:41+00:00'

@@ -2,11 +2,6 @@
 citation: SRRV / TRIAS / UN R28
 commodities:
 - Horn
-- Fuel system
-- Batteries
-- Fuel tanks
-- Hoses & lines
-- Power electronics
 id: jp-srrv-audible-warning-devices
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

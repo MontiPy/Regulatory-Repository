@@ -2,7 +2,6 @@
 citation: 49 CFR §571.225
 commodities:
 - Seats
-- Seatbelts
 id: us-fmvss-225
 last_pulled: '2026-06-01T18:41:44+00:00'
 open_tags:

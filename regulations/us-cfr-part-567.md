@@ -1,10 +1,6 @@
 ---
 citation: 49 CFR Part 567
-commodities:
-- Bumpers
-- Mirrors
-- Tires
-- Suspension
+commodities: []
 id: us-cfr-part-567
 last_pulled: '2026-06-01T18:44:22+00:00'
 open_tags:

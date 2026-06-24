@@ -3,9 +3,6 @@ citation: MVSR C.R.C.,_c._1038 s. 101
 commodities:
 - Lighting modules
 - Airbags
-- Wiring
-- ECUs
-- Infotainment
 id: ca-mvsr-c-r-c---c--1038-s101
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:

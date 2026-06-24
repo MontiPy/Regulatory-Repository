@@ -2,7 +2,6 @@
 citation: Noise and Vibration Control Act / Vehicle Noise
 commodities:
 - Exhaust
-- Horn
 id: kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

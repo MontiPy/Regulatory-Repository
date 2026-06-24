@@ -2,7 +2,6 @@
 citation: VC 8056
 commodities:
 - Tires
-- Wheels
 id: za-workbook-reg-0623-vc-8056
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

@@ -2,7 +2,6 @@
 citation: GSO-ECE 117
 commodities:
 - Tires
-- Wheels
 id: gcc-gso-ece-117
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

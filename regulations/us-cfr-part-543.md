@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 543
-commodities:
-- ECUs
+commodities: []
 id: us-cfr-part-543
 last_pulled: '2026-06-01T18:43:40+00:00'
 open_tags:

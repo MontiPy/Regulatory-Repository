@@ -2,7 +2,6 @@
 citation: MVSR SOR-2013-198
 commodities:
 - Tires
-- Wheels
 id: ca-mvsr-sor-2013-198
 last_pulled: '2026-06-01T18:53:04+00:00'
 open_tags:

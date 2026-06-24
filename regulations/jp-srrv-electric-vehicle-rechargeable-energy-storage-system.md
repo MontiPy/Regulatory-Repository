@@ -5,8 +5,6 @@ commodities:
 - Wiring
 - Charging inlet
 - Power electronics
-- Fuel system
-- Fuel tanks
 - Hoses & lines
 - Connectors
 id: jp-srrv-electric-vehicle-rechargeable-energy-storage-system

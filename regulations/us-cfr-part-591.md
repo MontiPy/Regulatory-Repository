@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 591
-commodities:
-- Bumpers
+commodities: []
 id: us-cfr-part-591
 last_pulled: '2026-06-01T18:45:26+00:00'
 open_tags:

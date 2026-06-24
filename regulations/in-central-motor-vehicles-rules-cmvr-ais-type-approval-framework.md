@@ -1,18 +1,6 @@
 ---
 citation: Central Motor Vehicles Rules (CMVR) / AIS Type Approval Framework
-commodities:
-- Body structure
-- Wiring
-- ECUs
-- Airbags
-- Seatbelts
-- Brakes
-- Lighting modules
-- Glass
-- Mirrors
-- Tires
-- Bumpers
-- Fuel system
+commodities: []
 id: in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework
 last_pulled: '2026-06-05T14:32:23+00:00'
 open_tags:

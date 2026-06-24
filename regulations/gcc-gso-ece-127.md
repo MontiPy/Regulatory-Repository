@@ -1,9 +1,6 @@
 ---
 citation: GSO-ECE 127
 commodities:
-- Airbags
-- Seatbelts
-- Seats
 - Body structure
 - Bumpers
 id: gcc-gso-ece-127

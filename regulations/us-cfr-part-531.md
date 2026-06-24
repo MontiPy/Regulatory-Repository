@@ -1,8 +1,6 @@
 ---
 citation: 49 CFR Part 531
-commodities:
-- Fuel system
-- HVAC
+commodities: []
 id: us-cfr-part-531
 last_pulled: '2026-06-01T18:43:13+00:00'
 open_tags:

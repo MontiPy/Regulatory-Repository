@@ -1,14 +1,7 @@
 ---
 citation: CONTRAN 912/2022
 commodities:
-- Mirrors
-- Horn
-- Wipers & washers
-- Lighting modules
 - Tires
-- Brakes
-- Seatbelts
-- Airbags
 id: br-contran-912
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags:

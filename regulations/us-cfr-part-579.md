@@ -1,10 +1,6 @@
 ---
 citation: 49 CFR Part 579
-commodities:
-- Airbags
-- Tires
-- Seatbelts
-- Seats
+commodities: []
 id: us-cfr-part-579
 last_pulled: '2026-06-01T18:44:58+00:00'
 open_tags:

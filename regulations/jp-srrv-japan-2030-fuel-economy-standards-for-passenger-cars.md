@@ -7,7 +7,6 @@ commodities:
 - Fuel system
 - Exhaust
 - Power electronics
-- Charging inlet
 id: jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:
