@@ -5,9 +5,6 @@ commodities:
 - Fuel system
 - Fuel tanks
 - ECUs
-- Batteries
-- Electric motors
-- Power electronics
 id: in-bs-vi-india-cafe-fuel-consumption
 last_pulled: '2026-06-05T14:32:23+00:00'
 open_tags:

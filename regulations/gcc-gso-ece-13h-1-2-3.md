@@ -4,7 +4,6 @@ commodities:
 - Brakes
 - ECUs
 - Hoses & lines
-- ADAS sensors
 - Pedals
 - Wiring
 id: gcc-gso-ece-13h-1-2-3

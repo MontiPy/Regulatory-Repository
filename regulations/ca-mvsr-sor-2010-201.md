@@ -2,9 +2,6 @@
 citation: MVSR SOR-2010-201
 commodities:
 - Exhaust
-- Electric motors
-- Batteries
-- Fuel system
 id: ca-mvsr-sor-2010-201
 last_pulled: '2026-06-01T18:53:01+00:00'
 open_tags:

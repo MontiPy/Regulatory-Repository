@@ -1,12 +1,6 @@
 ---
 citation: MOVER / Rota 2030
-commodities:
-- Batteries
-- Electric motors
-- Fuel system
-- Exhaust
-- Power electronics
-- Charging inlet
+commodities: []
 id: br-mover-rota-2030
 last_pulled: '2026-06-01T18:53:32+00:00'
 open_tags:

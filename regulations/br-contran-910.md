@@ -7,7 +7,6 @@ commodities:
 - Seats
 - Seatbelts
 - Airbags
-- Bumpers
 id: br-contran-910
 last_pulled: '2026-06-01T18:53:07+00:00'
 open_tags:

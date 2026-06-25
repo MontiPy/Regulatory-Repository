@@ -1,7 +1,6 @@
 ---
 citation: JPJ Vehicle Type Approval / Malaysia emissions approval
-commodities:
-- Exhaust
+commodities: []
 id: asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

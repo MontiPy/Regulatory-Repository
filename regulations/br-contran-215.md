@@ -1,9 +1,7 @@
 ---
 citation: CONTRAN 215/2006
 commodities:
-- ECUs
-- Wiring
-- Connectors
+- Bumpers
 id: br-contran-215
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags:

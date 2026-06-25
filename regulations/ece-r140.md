@@ -3,8 +3,6 @@ citation: UN R140
 commodities:
 - ECUs
 - Brakes
-- Steering column
-- Suspension
 - ADAS sensors
 id: ece-r140
 last_pulled: '2026-06-01T18:53:04+00:00'

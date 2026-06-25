@@ -3,6 +3,7 @@ citation: GSO-ECE 127
 commodities:
 - Body structure
 - Bumpers
+- Glass
 id: gcc-gso-ece-127
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

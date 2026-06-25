@@ -1,7 +1,6 @@
 ---
 citation: SRRV / TRIAS
 commodities:
-- Wiring
 - ECUs
 id: jp-srrv-speedometer-and-odometer
 last_pulled: '2026-06-01T18:54:41+00:00'

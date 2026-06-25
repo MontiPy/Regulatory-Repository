@@ -2,7 +2,6 @@
 citation: UN R45
 commodities:
 - Wipers & washers
-- Lighting modules
 id: ece-r45
 last_pulled: '2026-06-01T18:53:04+00:00'
 open_tags:

@@ -2,8 +2,6 @@
 citation: GSO-ECE 121
 commodities:
 - Lighting modules
-- Wiring
-- ECUs
 id: gcc-gso-ece-121
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

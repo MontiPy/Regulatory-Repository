@@ -2,7 +2,6 @@
 citation: UN R11
 commodities:
 - Door latches & hinges
-- Body structure
 id: ece-r11
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:

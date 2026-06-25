@@ -5,6 +5,9 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 - Body structure
+- Batteries
+- Wiring
+- Connectors
 id: ece-r153
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:

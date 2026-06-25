@@ -2,7 +2,6 @@
 citation: JVSR Article 22_5
 commodities:
 - Seats
-- Seatbelts
 id: jp-jvsregs-art22-5
 last_pulled: '2026-06-01T18:52:41+00:00'
 open_tags:

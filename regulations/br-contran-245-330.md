@@ -2,7 +2,6 @@
 citation: CONTRAN 245/2007 and 330/2009
 commodities:
 - ECUs
-- Wiring
 id: br-contran-245-330
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags:

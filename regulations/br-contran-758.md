@@ -1,9 +1,6 @@
 ---
 citation: CONTRAN 758/2018
 commodities:
-- ECUs
-- Wiring
-- Infotainment
 - Lighting modules
 id: br-contran-758
 last_pulled: '2026-06-01T18:53:17+00:00'

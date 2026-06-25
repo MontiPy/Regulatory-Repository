@@ -2,7 +2,6 @@
 citation: ABNT NBR 15145 / 9714
 commodities:
 - Exhaust
-- Horn
 id: br-abnt-nbr-15145
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags:

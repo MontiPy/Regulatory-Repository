@@ -1,8 +1,11 @@
 ---
 citation: Philippines motor vehicle/component conformity and emissions approval framework
 commodities:
-- Exhaust
-- ECUs
+- Tires
+- Glass
+- Seatbelts
+- Lighting modules
+- Batteries
 id: asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

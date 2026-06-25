@@ -1,7 +1,6 @@
 ---
 citation: Directive (EU) 2022/2464 / Directive (EU) 2024/1760 / Regulation (EU) 2023/956
-commodities:
-- Batteries
+commodities: []
 id: eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

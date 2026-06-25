@@ -2,8 +2,6 @@
 citation: ERA-GLONASS emergency call requirements
 commodities:
 - ECUs
-- Wiring
-- Connectors
 id: eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

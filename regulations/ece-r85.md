@@ -3,7 +3,6 @@ citation: UN R85
 commodities:
 - Electric motors
 - Power electronics
-- Fuel system
 id: ece-r85
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:

@@ -2,7 +2,6 @@
 citation: JVSR Article 45
 commodities:
 - Wipers & washers
-- Glass
 - HVAC
 id: jp-jvsregs-art45
 last_pulled: '2026-06-01T18:52:41+00:00'

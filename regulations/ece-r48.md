@@ -2,8 +2,6 @@
 citation: UN R48
 commodities:
 - Lighting modules
-- Wiring
-- Connectors
 id: ece-r48
 last_pulled: '2026-06-01T18:53:04+00:00'
 open_tags:

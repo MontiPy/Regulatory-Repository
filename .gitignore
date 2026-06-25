@@ -42,6 +42,11 @@ Thumbs.db
 .commodity_review_ids.json
 .commodity_review_workflow.js
 .commodity_review_workflow.template.js
+.commodity_deferred.json
+.commodity_web_review.md
+.commodity_web_changes.json
+.commodity_web_review.js
+.commodity_web_review.template.js
 
 # Playwright MCP scratch (screenshots, snapshots, console logs)
 .playwright-mcp/

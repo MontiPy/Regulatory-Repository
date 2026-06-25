@@ -2,7 +2,6 @@
 citation: Act on Recycling of End-of-Life Automobiles
 commodities:
 - Airbags
-- Batteries
 - HVAC
 id: jp-srrv-japan-automobile-recycling-law
 last_pulled: '2026-06-01T18:54:41+00:00'

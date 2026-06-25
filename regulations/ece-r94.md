@@ -4,11 +4,10 @@ commodities:
 - Airbags
 - Seatbelts
 - Body structure
-- Bumpers
 - Steering column
 - Door latches & hinges
 - Seats
-- Pedals
+- Fuel system
 id: ece-r94
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:

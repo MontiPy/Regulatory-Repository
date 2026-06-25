@@ -19,6 +19,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import sys
 from pathlib import Path
@@ -62,8 +63,13 @@ def apply_changes(changes: list[dict], vocab: set[str], dry_run: bool) -> dict:
         post = frontmatter.load(path)
         current = list(post.get("commodities") or [])
 
+        # Agents sometimes HTML-escape commodities containing '&'
+        # (e.g. 'Hoses &amp; lines'); unescape so vocab validation matches.
         adds = item.get("additions") or []
         removes = item.get("removals") or []
+        for entry in (*adds, *removes):
+            if isinstance(entry.get("commodity"), str):
+                entry["commodity"] = html.unescape(entry["commodity"])
 
         applied_adds, applied_removes = [], []
         deferred = []

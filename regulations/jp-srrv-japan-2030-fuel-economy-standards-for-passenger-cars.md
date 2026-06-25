@@ -1,12 +1,6 @@
 ---
 citation: FY2030 Passenger Car Fuel Economy Standards
-commodities:
-- Tires
-- Batteries
-- Electric motors
-- Fuel system
-- Exhaust
-- Power electronics
+commodities: []
 id: jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

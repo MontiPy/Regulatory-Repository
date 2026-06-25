@@ -1,8 +1,6 @@
 ---
 citation: KMVSS Article 111
-commodities:
-- ECUs
-- ADAS sensors
+commodities: []
 id: kr-kmvss-art111
 last_pulled: '2026-05-23T15:31:43+00:00'
 open_tags:

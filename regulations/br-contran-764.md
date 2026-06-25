@@ -1,8 +1,7 @@
 ---
 citation: CONTRAN 764/2018
 commodities:
-- Infotainment
-- ECUs
+- Horn
 id: br-contran-764
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags:

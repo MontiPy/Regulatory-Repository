@@ -2,8 +2,6 @@
 citation: GSO-ECE 51
 commodities:
 - Exhaust
-- ECUs
-- Fuel system
 id: gcc-gso-ece-51
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:

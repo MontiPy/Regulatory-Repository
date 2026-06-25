@@ -3,7 +3,6 @@ citation: CONTRAN 954/2022
 commodities:
 - Brakes
 - ECUs
-- ADAS sensors
 id: br-contran-954
 last_pulled: '2026-06-01T18:53:14+00:00'
 open_tags:

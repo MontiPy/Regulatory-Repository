@@ -8,6 +8,14 @@ commodities:
 - ECUs
 - Wiring
 - Body structure
+- Brakes
+- Tires
+- Wheels
+- Steering column
+- Suspension
+- Seats
+- Seatbelts
+- Horn
 id: asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

@@ -4,7 +4,6 @@ commodities:
 - Tires
 - Exhaust
 - Electric motors
-- Horn
 id: jp-srrv-japan-motor-vehicle-noise-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

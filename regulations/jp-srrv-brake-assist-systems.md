@@ -3,7 +3,6 @@ citation: SRRV / TRIAS / UN R139
 commodities:
 - Brakes
 - ECUs
-- ADAS sensors
 - Hoses & lines
 - Pedals
 id: jp-srrv-brake-assist-systems

@@ -1,8 +1,6 @@
 ---
 citation: KMVSS Article 13
 commodities:
-- Steering column
-- Brakes
 - Pedals
 id: kr-kmvss-art13
 last_pulled: '2026-05-23T15:30:39+00:00'

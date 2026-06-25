@@ -2,7 +2,6 @@
 citation: CONTRAN 224/2007
 commodities:
 - Wipers & washers
-- Glass
 id: br-contran-224
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags:

@@ -1,11 +1,6 @@
 ---
 citation: UN R121
-commodities:
-- Steering column
-- Horn
-- Wipers & washers
-- Pedals
-- Wiring
+commodities: []
 id: ece-r121
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:

@@ -3,8 +3,6 @@ citation: ANATEL Certification and Homologation
 commodities:
 - Infotainment
 - ECUs
-- Wiring
-- Connectors
 id: br-anatel-cert
 last_pulled: '2026-06-01T18:53:28+00:00'
 open_tags:

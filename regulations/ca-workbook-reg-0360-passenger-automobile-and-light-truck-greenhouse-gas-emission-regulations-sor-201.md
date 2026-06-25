@@ -1,13 +1,7 @@
 ---
 citation: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
   (SOR/2010-201)
-commodities:
-- Batteries
-- Electric motors
-- Exhaust
-- Fuel system
-- Power electronics
-- ECUs
+commodities: []
 id: ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:
