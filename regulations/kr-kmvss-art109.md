@@ -2,7 +2,6 @@
 citation: KMVSS Article 109
 commodities:
 - Wipers & washers
-- Glass
 - HVAC
 id: kr-kmvss-art109
 last_pulled: '2026-05-23T15:31:21+00:00'

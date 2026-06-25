@@ -2,8 +2,6 @@
 citation: 49 CFR §571.121
 commodities:
 - Brakes
-- Wheels
-- Pedals
 id: us-fmvss-121
 last_pulled: '2026-06-01T18:39:23+00:00'
 open_tags:

@@ -2,9 +2,7 @@
 citation: 49 CFR §571.138
 commodities:
 - Tires
-- Wheels
 - ECUs
-- Lighting modules
 id: us-fmvss-138
 last_pulled: '2026-06-01T18:40:05+00:00'
 open_tags:

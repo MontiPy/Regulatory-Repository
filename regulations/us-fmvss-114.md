@@ -2,8 +2,7 @@
 citation: 49 CFR §571.114
 commodities:
 - Steering column
-- ECUs
-- Wiring
+- Brakes
 id: us-fmvss-114
 last_pulled: '2026-06-01T18:38:58+00:00'
 open_tags:

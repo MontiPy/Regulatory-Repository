@@ -3,8 +3,6 @@ citation: ISO 26262
 commodities:
 - ECUs
 - ADAS sensors
-- Wiring
-- Connectors
 id: other-workbook-reg-0643-iso-26262
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

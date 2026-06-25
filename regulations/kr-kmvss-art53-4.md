@@ -1,7 +1,6 @@
 ---
 citation: KMVSS Article 53-4
 commodities:
-- Horn
 - Lighting modules
 id: kr-kmvss-art53-4
 last_pulled: '2026-05-23T15:31:36+00:00'

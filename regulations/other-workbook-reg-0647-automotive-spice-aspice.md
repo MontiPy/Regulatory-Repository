@@ -1,7 +1,6 @@
 ---
 citation: Automotive SPICE (ASPICE)
-commodities:
-- ECUs
+commodities: []
 id: other-workbook-reg-0647-automotive-spice-aspice
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

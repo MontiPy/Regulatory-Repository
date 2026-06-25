@@ -3,8 +3,6 @@ citation: 49 CFR §571.214
 commodities:
 - Body structure
 - Door latches & hinges
-- Seats
-- Airbags
 id: us-fmvss-214
 last_pulled: '2026-06-01T18:41:02+00:00'
 open_tags:

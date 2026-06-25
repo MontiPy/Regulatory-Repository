@@ -3,7 +3,6 @@ citation: KMVSS Article 14
 commodities:
 - Steering column
 - Wheels
-- Wiring
 id: kr-kmvss-art14
 last_pulled: '2026-05-23T15:30:40+00:00'
 open_tags:

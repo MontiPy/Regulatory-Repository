@@ -1,9 +1,6 @@
 ---
 citation: ISO 22628
-commodities:
-- Batteries
-- ECUs
-- Wiring
+commodities: []
 id: other-workbook-reg-0650-iso-22628
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

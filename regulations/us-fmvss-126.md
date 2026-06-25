@@ -3,7 +3,6 @@ citation: 49 CFR §571.126
 commodities:
 - ECUs
 - Brakes
-- ADAS sensors
 id: us-fmvss-126
 last_pulled: '2026-06-01T18:39:44+00:00'
 open_tags:

@@ -2,7 +2,6 @@
 citation: KMVSS Article 53-2
 commodities:
 - ADAS sensors
-- Horn
 id: kr-kmvss-art53-2
 last_pulled: '2026-05-23T15:31:34+00:00'
 open_tags:

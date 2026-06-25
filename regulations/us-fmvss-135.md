@@ -3,7 +3,6 @@ citation: 49 CFR §571.135
 commodities:
 - Brakes
 - Pedals
-- Wheels
 id: us-fmvss-135
 last_pulled: '2026-06-01T18:39:59+00:00'
 open_tags:

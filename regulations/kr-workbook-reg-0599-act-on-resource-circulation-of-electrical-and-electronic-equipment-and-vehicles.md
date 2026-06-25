@@ -1,12 +1,6 @@
 ---
 citation: Act on Resource Circulation of Electrical and Electronic Equipment and Vehicles
-commodities:
-- Batteries
-- Fuel system
-- Fuel tanks
-- Hoses & lines
-- Power electronics
-- Connectors
+commodities: []
 id: kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

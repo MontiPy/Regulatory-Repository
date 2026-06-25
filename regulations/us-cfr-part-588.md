@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 588
-commodities:
-- Seats
+commodities: []
 id: us-cfr-part-588
 last_pulled: '2026-06-01T18:45:25+00:00'
 open_tags:

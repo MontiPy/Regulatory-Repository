@@ -2,7 +2,6 @@
 citation: 49 CFR §571.227
 commodities:
 - Body structure
-- Seats
 - Door latches & hinges
 id: us-fmvss-227
 last_pulled: '2026-06-01T18:41:49+00:00'

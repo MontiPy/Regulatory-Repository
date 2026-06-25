@@ -2,8 +2,6 @@
 citation: 49 CFR §571.101
 commodities:
 - Infotainment
-- Wiring
-- Lighting modules
 id: us-fmvss-101
 last_pulled: '2026-06-01T18:38:17+00:00'
 open_tags:

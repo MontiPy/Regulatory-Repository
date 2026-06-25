@@ -6,7 +6,6 @@ commodities:
 - Brakes
 - Glass
 - Seatbelts
-- Batteries
 id: us-fmvss-500
 last_pulled: '2026-06-01T18:42:35+00:00'
 open_tags:

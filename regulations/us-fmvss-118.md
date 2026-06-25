@@ -1,9 +1,6 @@
 ---
 citation: 49 CFR §571.118
-commodities:
-- Glass
-- Wiring
-- ECUs
+commodities: []
 id: us-fmvss-118
 last_pulled: '2026-06-01T18:39:12+00:00'
 open_tags:

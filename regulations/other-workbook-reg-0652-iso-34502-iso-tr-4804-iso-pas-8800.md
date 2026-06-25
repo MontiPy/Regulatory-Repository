@@ -3,7 +3,6 @@ citation: ISO 34502 / ISO/TR 4804 / ISO/PAS 8800
 commodities:
 - ECUs
 - ADAS sensors
-- Connectors
 id: other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

@@ -2,7 +2,6 @@
 citation: KMVSS Article 24
 commodities:
 - Seats
-- Steering column
 id: kr-kmvss-art24
 last_pulled: '2026-05-23T15:31:04+00:00'
 open_tags:

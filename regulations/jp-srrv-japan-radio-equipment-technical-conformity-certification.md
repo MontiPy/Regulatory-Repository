@@ -5,7 +5,6 @@ commodities:
 - ADAS sensors
 - Wiring
 - ECUs
-- Connectors
 id: jp-srrv-japan-radio-equipment-technical-conformity-certification
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

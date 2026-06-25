@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR §571.113
 commodities:
-- Body structure
 - Door latches & hinges
 id: us-fmvss-113
 last_pulled: '2026-06-01T18:38:57+00:00'

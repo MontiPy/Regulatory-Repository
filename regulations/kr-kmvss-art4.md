@@ -1,7 +1,6 @@
 ---
 citation: KMVSS Article 4
 commodities:
-- Body structure
 - Mirrors
 id: kr-kmvss-art4
 last_pulled: '2026-05-23T15:28:34+00:00'

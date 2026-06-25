@@ -1,13 +1,6 @@
 ---
 citation: Land Transport (Clean Vehicle Standard) Regulations 2022
-commodities:
-- ECUs
-- Fuel system
-- Exhaust
-- Batteries
-- Electric motors
-- Power electronics
-- Fuel tanks
+commodities: []
 id: nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:

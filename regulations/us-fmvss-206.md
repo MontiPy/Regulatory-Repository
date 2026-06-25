@@ -2,7 +2,6 @@
 citation: 49 CFR §571.206
 commodities:
 - Door latches & hinges
-- Body structure
 id: us-fmvss-206
 last_pulled: '2026-06-01T18:40:32+00:00'
 open_tags:

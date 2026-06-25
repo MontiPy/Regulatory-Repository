@@ -2,9 +2,6 @@
 citation: 49 CFR Part 561
 commodities:
 - Batteries
-- Electric motors
-- Wiring
-- Power electronics
 id: us-cfr-part-561
 last_pulled: '2026-06-01T18:44:06+00:00'
 open_tags:

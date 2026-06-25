@@ -2,8 +2,6 @@
 citation: 49 CFR §571.122
 commodities:
 - Brakes
-- Wheels
-- Tires
 id: us-fmvss-122
 last_pulled: '2026-06-01T18:39:28+00:00'
 open_tags:

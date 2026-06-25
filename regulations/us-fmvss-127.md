@@ -4,7 +4,6 @@ commodities:
 - Brakes
 - ADAS sensors
 - ECUs
-- Pedals
 id: us-fmvss-127
 last_pulled: '2026-06-01T18:39:49+00:00'
 open_tags:

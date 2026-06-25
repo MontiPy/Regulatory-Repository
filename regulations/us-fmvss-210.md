@@ -3,6 +3,7 @@ citation: 49 CFR §571.210
 commodities:
 - Seats
 - Seatbelts
+- Body structure
 id: us-fmvss-210
 last_pulled: '2026-06-01T18:40:46+00:00'
 open_tags:

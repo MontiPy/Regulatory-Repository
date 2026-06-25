@@ -2,7 +2,6 @@
 citation: 49 CFR §571.104
 commodities:
 - Wipers & washers
-- Glass
 id: us-fmvss-104
 last_pulled: '2026-06-01T18:38:32+00:00'
 open_tags:

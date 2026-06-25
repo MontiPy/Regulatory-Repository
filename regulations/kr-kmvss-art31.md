@@ -1,8 +1,6 @@
 ---
 citation: KMVSS Article 31
-commodities:
-- Seats
-- Body structure
+commodities: []
 id: kr-kmvss-art31
 last_pulled: '2026-05-23T15:31:32+00:00'
 open_tags:

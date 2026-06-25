@@ -2,10 +2,6 @@
 citation: 40 CFR Part 600
 commodities:
 - Exhaust
-- Fuel system
-- Batteries
-- Electric motors
-- Fuel tanks
 id: us-40cfr-part-600
 last_pulled: '2026-06-01T18:45:56+00:00'
 open_tags:

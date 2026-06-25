@@ -1,7 +1,6 @@
 ---
 citation: 49 CFR Part 585
-commodities:
-- Airbags
+commodities: []
 id: us-cfr-part-585
 last_pulled: '2026-06-01T18:45:16+00:00'
 open_tags:

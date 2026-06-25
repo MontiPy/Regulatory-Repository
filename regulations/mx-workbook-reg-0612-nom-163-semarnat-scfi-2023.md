@@ -5,9 +5,6 @@ commodities:
 - Fuel system
 - Fuel tanks
 - ECUs
-- Batteries
-- Electric motors
-- Power electronics
 id: mx-workbook-reg-0612-nom-163-semarnat-scfi-2023
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

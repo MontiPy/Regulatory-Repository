@@ -1,10 +1,8 @@
 ---
 citation: 49 CFR §571.208
 commodities:
-- Seats
 - Airbags
 - Seatbelts
-- Body structure
 id: us-fmvss-208
 last_pulled: '2026-06-01T18:40:37+00:00'
 open_tags:

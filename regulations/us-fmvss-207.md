@@ -2,7 +2,6 @@
 citation: 49 CFR §571.207
 commodities:
 - Seats
-- Seatbelts
 id: us-fmvss-207
 last_pulled: '2026-06-01T18:40:36+00:00'
 open_tags:

@@ -4,8 +4,6 @@ commodities:
 - ECUs
 - Infotainment
 - ADAS sensors
-- Wiring
-- Connectors
 id: us-47cfr-part-15
 last_pulled: '2026-06-01T18:46:01+00:00'
 open_tags:

@@ -2,7 +2,6 @@
 citation: KMVSS Article 10
 commodities:
 - Tires
-- Wheels
 id: kr-kmvss-art10
 last_pulled: '2026-05-23T15:30:35+00:00'
 open_tags:

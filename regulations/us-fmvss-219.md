@@ -3,7 +3,6 @@ citation: 49 CFR §571.219
 commodities:
 - Glass
 - Body structure
-- Steering column
 id: us-fmvss-219
 last_pulled: '2026-06-01T18:41:28+00:00'
 open_tags:

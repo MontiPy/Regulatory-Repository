@@ -2,9 +2,6 @@
 citation: 49 CFR §571.105
 commodities:
 - Brakes
-- Wheels
-- Pedals
-- Hoses & lines
 id: us-fmvss-105
 last_pulled: '2026-06-01T18:38:37+00:00'
 open_tags:
