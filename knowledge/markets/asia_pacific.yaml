@@ -1,0 +1,437 @@
+# Market profiles — East Asia, South Asia, Southeast Asia, Oceania. See americas.yaml header.
+
+- code: CN
+  name: China (mainland)
+  group: East Asia
+  regions: [CN]
+  aliases: [PRC, CCC, MIIT, GB standards, China 6]
+  drive: LHD
+  regime: type-approval
+  basis: "Mandatory GB standards; dual market access: MIIT Road Motor Vehicle Producers & Products Announcement + CCC certification (CNCA); MEE environmental information disclosure"
+  un_1958: false
+  un_1998: true
+  authorities:
+    - { name: MIIT, scope: "Product access Announcement (公告) for domestic producers; ICV/OTA filings", url: "https://www.miit.gov.cn" }
+    - { name: "CNCA / CQC & designated labs (CATARC, CAERI, etc.)", scope: "China Compulsory Certification (CCC) per CNCA-C11-01", url: "https://www.cnca.gov.cn" }
+    - { name: Ministry of Ecology and Environment (MEE), scope: "China 6 emissions, environmental information disclosure", url: "https://www.mee.gov.cn" }
+    - { name: SAMR — Defective Product Administrative Center (DPAC), scope: "Recalls, OTA recall filings", url: "https://www.samr.gov.cn" }
+    - { name: MIIT / SRRC, scope: "Radio type approval (SRRC)", url: "https://www.srrc.org.cn" }
+  accepts: []
+  marks:
+    - "CCC mark and certificate (imported and domestic vehicles; certain components such as tyres, glazing, lamps, CRS, seats/head restraints also CCC)"
+    - "MIIT Announcement listing (domestic production) — vehicle parameters published"
+    - "Vehicle product plate (GB/T 18411), VIN (GB 16735)"
+    - "Fuel-consumption / energy-consumption label"
+  emissions: "China 6b (GB 18352.6-2016) with RDE; China 7 under development. Dual-credit policy (CAFC + NEV credits)."
+  language: Simplified Chinese
+  process:
+    - "Imported vehicles: CCC factory inspection + type testing at designated lab → CCC certificate; customs inspection (CIQ)."
+    - "Domestic production (incl. JVs): MIIT Announcement + CCC."
+    - "Environmental information disclosure (MEE) before sale; dual-credit reporting."
+    - "Cybersecurity (GB 44495-2024), software update (GB 44496-2024) and data-recording (GB 44497) apply to new types from Jan 2026."
+    - "Recalls filed with SAMR/DPAC; OTA updates that fix defects are treated as recalls."
+  watch:
+    - "GB 38031-2025 battery safety ('no fire, no explosion') applies to new types from 1 Jul 2026."
+    - "GB 7258 revision; AEB/LDW mandatory GB standards; L2 driver-assist mandatory standard."
+    - "Automotive data-security rules (CAC) — in-cabin camera and location data localisation."
+  notes: ["Standard text is often only partially public (openstd.samr.gov.cn image viewer); purchase full text for compliance work."]
+  records: [cn-cnca-c11-01-2020, cn-gb-7258-2017, cn-gb-18352-6-2016, cn-gb-44495-2024, cn-gb-44496-2024, cn-gb-44497, cn-gb-38031-2025, cn-gb-18384-2020-gb-18384-2025, cn-gb-16735-2019, cn-gb-t-18411-2018, cn-china-srrc-miit-radio-transmission-equipment-type-approval]
+  confidence: high
+
+- code: HK-MO
+  name: Hong Kong & Macau
+  group: East Asia
+  regions: []
+  aliases: [Hong Kong, Macau, Macao]
+  members: [Hong Kong SAR, Macau SAR]
+  drive: RHD
+  regime: type-approval
+  basis: "Hong Kong: Road Traffic (Construction and Maintenance of Vehicles) Regulations; Transport Department type approval; EPD emission standards"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "HK Transport Department — Vehicle Safety & Standards", scope: "Type approval", url: "https://www.td.gov.hk" }
+    - { name: "HK Environmental Protection Department", scope: "Emission type approval (Euro 6 / US / JP accepted)", url: "https://www.epd.gov.hk" }
+  accepts: ["EU, Japanese or US standards evidence for emissions and safety"]
+  marks: ["Transport Department type approval"]
+  emissions: "Euro 6 (or Japanese/US equivalents) for petrol private cars"
+  language: Chinese (Traditional) / English
+  process: ["Type approval with TD; emission approval with EPD before first registration."]
+  records: []
+  confidence: medium
+
+- code: TW
+  name: Taiwan
+  group: East Asia
+  regions: [TW]
+  aliases: [VSCC, ARTC, MOTC]
+  drive: LHD
+  regime: type-approval
+  basis: "Vehicle Safety Testing Directions (MOTC) — UN R-based items; EPA (MOENV) emissions; Bureau of Energy fuel economy"
+  un_1958: false
+  un_1998: false
+  authorities:
+    - { name: "MOTC — Vehicle Safety Certification Center (VSCC)", scope: "Safety type approval certificates", url: "https://www.vscc.org.tw" }
+    - { name: Ministry of Environment (MOENV), scope: "Emissions & noise certification", url: "https://www.moenv.gov.tw" }
+    - { name: "Bureau of Energy (MOEA)", scope: "Fuel economy standards/labels", url: "https://www.moeaboe.gov.tw" }
+    - { name: NCC, scope: "RF equipment", url: "https://www.ncc.gov.tw" }
+  accepts: ["UN R approvals / test reports accepted by VSCC for the corresponding testing items"]
+  marks: ["VSCC safety certificate", "Emission certificate (Phase 6 / Euro 6-equivalent)"]
+  emissions: "Phase 6 (Euro 6 / US-equivalent; Taiwan applies Euro-based limits for gasoline LDVs)"
+  language: Traditional Chinese
+  process: ["Safety type approval per testing item (VSCC) + emissions + fuel economy before registration."]
+  records: [tw-vehicle-safety-type-approval-dgst]
+  confidence: medium
+
+- code: JP
+  name: Japan
+  group: East Asia
+  regions: [JP]
+  aliases: [MLIT, TRIAS, NTSEL, type designation, JVSR, Safety Regulations for Road Vehicles]
+  drive: RHD
+  regime: type-approval
+  basis: "Road Transport Vehicle Act + Safety Regulations for Road Vehicles (保安基準) and Announcement prescribing details; UN Regulations adopted into the Safety Regulations"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: MLIT — Road Transport Bureau, scope: "Type designation (TDS), recalls, safety regulations", url: "https://www.mlit.go.jp/jidosha/" }
+    - { name: NTSEL (National Traffic Safety and Environment Laboratory), scope: "Technical examination (TRIAS test procedures)", url: "https://www.ntsel.go.jp" }
+    - { name: MOE, scope: "Emissions limits, noise", url: "https://www.env.go.jp" }
+    - { name: MIC / TELEC, scope: "Radio equipment technical conformity", url: "https://www.tele.soumu.go.jp" }
+  accepts:
+    - "UN Regulation approvals (E-marks) for the UN Rs Japan has applied — mutual recognition under the 1958 Agreement"
+    - "UN R0 IWVTA"
+  marks:
+    - "Type Designation (型式指定) — completion inspection by manufacturer; or Preferential Handling Procedure (PHP) for low-volume imports (≤5,000 units/type/year)"
+    - "E43 for UN approvals granted by Japan"
+  emissions: "Post-New Long-Term Regulations (WLTC); FY2030 fuel-economy standards (Top Runner)"
+  language: Japanese
+  process:
+    - "Apply for type designation: documentation, test results (UN R approvals where applicable), quality management review of completion inspection."
+    - "Low-volume importers may use PHP (simplified documentation)."
+    - "Recalls notified to MLIT before implementation (RTVA Art. 63-3)."
+  watch:
+    - "Cybersecurity (UN R155) and software-update (UN R156) apply to all new vehicles (continuous production from Jul 2024)."
+    - "Japan-specific: AEB for pedestrians/bicycles; automated driving Level 4 permit system."
+  notes: ["Japan accepts most UN Regulations but some items keep national technical standards (e.g. specific lighting/marking requirements, 'kei' car rules)."]
+  records: [jp-srrv-japanese-vehicle-type-approval-type-designation-framework, jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity, jp-srrv-mlit-vehicle-recall-and-improvement-measures, jp-srrv-japan-passenger-vehicle-exhaust-emission-standards, jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars, jp-srrv-japan-radio-equipment-technical-conformity-certification, jp-srrv-japan-automobile-recycling-law]
+  confidence: high
+
+- code: KR
+  name: South Korea
+  group: East Asia
+  regions: [KR]
+  aliases: [Korea, KMVSS, KATRI, KOTSA, MOLIT]
+  drive: LHD
+  regime: self-certification
+  basis: "Motor Vehicle Management Act — self-certification to KMVSS (Korea Motor Vehicle Safety Standards); emissions/noise certification by Ministry of Environment"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: MOLIT, scope: "KMVSS, self-certification policy, recalls", url: "https://www.molit.go.kr" }
+    - { name: "KOTSA / KATRI (Korea Automobile Testing & Research Institute)", scope: "Self-certification registration (vehicle specifications), compliance investigation, defect investigation", url: "https://www.kotsa.or.kr" }
+    - { name: Ministry of Environment / NIER, scope: "Emissions & noise certification; low-emission/ZEV mandate", url: "https://www.me.go.kr" }
+    - { name: National Radio Research Agency (RRA), scope: "KC conformity for radio/EMC", url: "https://www.rra.go.kr" }
+  accepts:
+    - "KORUS FTA: US-FMVSS-certified vehicles are deemed to comply with KMVSS for manufacturers selling up to 50,000 units/year in Korea (with listed exceptions) — verify current quota"
+    - "Many KMVSS articles permit UN R compliance as an alternative"
+  marks:
+    - "Self-certification label; vehicle specification registration with KOTSA before sale"
+    - "KC mark for RF/EMC devices"
+    - "Emissions & noise certification"
+  emissions: "K-LEV (CARB LEV III-based) for gasoline; Euro 6-based for diesel; Low-emission vehicle sales mandate (ZEV-like)"
+  language: Korean
+  process:
+    - "Register manufacturer & vehicle specifications (자기인증) with KOTSA; self-certify to KMVSS."
+    - "Obtain MoE emissions/noise certification and fuel economy (energy) labelling."
+    - "Post-market: KATRI conformity testing; recalls reported to MOLIT."
+  watch: ["KMVSS adoption of EDR enhancements, child presence detection (Art. 53-4), and Level 3 autonomous-driving safety standards."]
+  records: [kr-kmvss-art3, kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification, kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise, kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment, kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles, kr-kmvss-art108-2]
+  confidence: high
+
+- code: IN
+  name: India
+  group: South Asia
+  regions: [IN]
+  aliases: [CMVR, ARAI, ICAT, AIS, MoRTH, Bharat NCAP, BS-VI]
+  drive: RHD
+  regime: type-approval
+  basis: "Central Motor Vehicles Rules 1989 (Rule 126) — type approval to AIS (Automotive Industry Standards) and IS (BIS) standards notified by MoRTH"
+  un_1958: false
+  un_1998: true
+  authorities:
+    - { name: MoRTH, scope: "CMVR notifications, AIS mandates", url: "https://morth.gov.in" }
+    - { name: "Rule 126 testing agencies — ARAI, ICAT, GARC, NATRAX, VRDE, CIRT, IIP", scope: "Type approval & CoP testing; issue TA certificates", url: "https://www.araiindia.com" }
+    - { name: BIS, scope: "IS standards & compulsory certification (ISI mark) for components such as tyres, glazing, helmets", url: "https://www.bis.gov.in" }
+    - { name: BEE / Ministry of Power, scope: "CAFE fuel-consumption norms", url: "https://beeindia.gov.in" }
+    - { name: "WPC / DoT (TEC)", scope: "Radio equipment type approval / ETA", url: "https://dot.gov.in" }
+  accepts:
+    - "Rule 126 exemptions allow limited CBU imports (low-volume) with homologation to UN R/EU/JP equivalents — check current quantity cap and conditions"
+  marks:
+    - "Type Approval Certificate (TAC) per model/variant from a Rule 126 agency; Conformity of Production (CoP) audits"
+    - "Form 22 (roadworthiness) per vehicle; VAHAN registration"
+    - "BIS ISI mark on regulated components (e.g. tyres, safety glass)"
+  emissions: "Bharat Stage VI (Phase 2 with RDE since Apr 2023); CAFE II (from FY2022-23), CAFE III proposed"
+  language: English and/or Hindi for labels; state-specific regional languages for some consumer info
+  process:
+    - "Select testing agency; submit technical specifications per AIS-007; type test to applicable AIS/IS standards."
+    - "Agency issues TAC; vehicle data uploaded to VAHAN; annual CoP."
+    - "Bharat NCAP (AIS-197) star rating is voluntary consumer testing."
+  watch:
+    - "Six airbags in M1 (draft) and Bharat NCAP; AIS-189/190 for cybersecurity & software update (aligned with UN R155/156)."
+    - "Battery safety (AIS-156 / AIS-038 Rev 2) for EVs; CAFE III."
+  records: [in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework, in-ais-038-rev-2-ais-156, in-bs-vi-india-cafe-fuel-consumption]
+  confidence: medium
+
+- code: SOUTH-ASIA
+  name: Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives
+  group: South Asia
+  regions: []
+  aliases: [Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, PSQCA, EDB]
+  members: [Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives]
+  drive: RHD
+  regime: registration-inspection
+  basis: "Pakistan: Motor Vehicle Safety & Quality standards (EDB / PSQCA) moving toward UN R adoption after 1958 accession; others: import/registration checks"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: "Pakistan — Engineering Development Board (EDB) / PSQCA", scope: "Vehicle safety & quality standards (UN R-based list)", url: "https://www.engineeringpakistan.gov.pk" }
+    - { name: "Sri Lanka — Department of Motor Traffic", scope: "Registration", url: "https://dmt.gov.lk" }
+    - { name: "Bangladesh — BRTA", scope: "Registration / fitness", url: "https://brta.gov.bd" }
+  accepts: ["Japanese (JIS/JASIC) and UN R evidence widely used"]
+  marks: []
+  emissions: "Pakistan Euro 2→Euro 5 transition; Sri Lanka/Bangladesh Euro 4/5 references"
+  language: English / Urdu / Bengali / Sinhala / Tamil / Nepali
+  process: ["Pakistan: comply with the EDB-notified UN R list for locally assembled and imported vehicles; others verify at import/registration."]
+  notes: ["Pakistan acceded to the 1958 Agreement (reported). Sri Lanka has had periodic vehicle-import suspensions — check current import policy."]
+  records: []
+  confidence: low
+
+- code: TH
+  name: Thailand
+  group: Southeast Asia
+  regions: [ASEAN]
+  aliases: [TISI, DLT, Thai Industrial Standards]
+  drive: RHD
+  regime: type-approval
+  basis: "TISI compulsory standards (TIS adopting UN Regulations) + Department of Land Transport (DLT) registration requirements; PCD emissions"
+  un_1958: true
+  un_1998: null
+  authorities:
+    - { name: Thai Industrial Standards Institute (TISI), scope: "Compulsory TIS licences (UN R-based) incl. emissions, components; E53 approvals", url: "https://www.tisi.go.th" }
+    - { name: Department of Land Transport (DLT), scope: "Vehicle registration requirements", url: "https://www.dlt.go.th" }
+    - { name: Pollution Control Department (PCD), scope: "Emission limits", url: "https://www.pcd.go.th" }
+    - { name: NBTC, scope: "RF equipment", url: "https://www.nbtc.go.th" }
+  accepts: ["UN R approvals for the TIS that adopt them (1958 Agreement mutual recognition, ASEAN MRA)"]
+  marks: ["TIS licence/marks for regulated items", "E53 for UN approvals granted by Thailand"]
+  emissions: "Euro 5 (from 2024; Euro 6 planned) — CO2-based excise tax"
+  language: Thai
+  process: ["Obtain TIS licences for compulsory items (UN R-based) and emissions; register via DLT."]
+  records: [asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework, asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra]
+  confidence: medium
+
+- code: MY
+  name: Malaysia
+  group: Southeast Asia
+  regions: [ASEAN]
+  aliases: [JPJ, VTA, MITI, Approved Permit]
+  drive: RHD
+  regime: type-approval
+  basis: "JPJ Vehicle Type Approval (VTA) requiring compliance with listed UN Regulations; DOE emissions"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: Road Transport Department (JPJ), scope: "Vehicle Type Approval (VTA), E52", url: "https://www.jpj.gov.my" }
+    - { name: Department of Environment (DOE), scope: "Emissions approval", url: "https://www.doe.gov.my" }
+    - { name: MITI, scope: "Approved Permit (AP) import licensing", url: "https://www.miti.gov.my" }
+    - { name: SIRIM / MCMC, scope: "Component certification / RF", url: "https://www.sirim-qas.com.my" }
+  accepts: ["UN R approvals for the regulations on JPJ's mandatory list", "ASEAN MRA"]
+  marks: ["VTA approval", "E52 for UN approvals granted by Malaysia"]
+  emissions: "Euro 4 (gasoline) / Euro 5 references — verify current DOE step"
+  language: Malay / English
+  process: ["Obtain AP (importers), DOE emissions approval, then JPJ VTA against the UN R list."]
+  records: [asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval]
+  confidence: medium
+
+- code: ID
+  name: Indonesia
+  group: Southeast Asia
+  regions: [ASEAN]
+  aliases: [SNI, SUT, SRUT, Kemenperin, Kemenhub]
+  drive: RHD
+  regime: type-approval
+  basis: "Ministry of Transportation type test (SUT) and registration test (SRUT); Ministry of Industry SNI compulsory certification for components; MoEF emissions"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: Ministry of Transportation (Kemenhub), scope: "Type test certificate (SUT) and SRUT per vehicle", url: "https://dephub.go.id" }
+    - { name: Ministry of Industry (Kemenperin), scope: "SNI compulsory certification (tyres, glazing, batteries, etc.); vehicle industry registration", url: "https://kemenperin.go.id" }
+    - { name: Ministry of Environment & Forestry (KLHK), scope: "Emission type approval", url: "https://www.menlhk.go.id" }
+    - { name: "Kominfo / Komdigi (SDPPI)", scope: "RF equipment certification", url: "https://sertifikasi.postel.go.id" }
+  accepts: ["UN R test reports commonly used as evidence for SUT items", "ASEAN MRA"]
+  marks: ["SUT certificate; SRUT per vehicle", "SNI mark on regulated components"]
+  emissions: "Euro 4 (gasoline since 2018, diesel since 2022)"
+  language: Bahasa Indonesia
+  process: ["SNI certification for components; emissions type approval; SUT type test; SRUT per unit for registration."]
+  watch: ["Local-content (TKDN) requirements for EV incentives."]
+  records: [asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework]
+  confidence: medium
+
+- code: PH
+  name: Philippines
+  group: Southeast Asia
+  regions: [ASEAN]
+  aliases: [LTO, DTI-BPS, DENR-EMB]
+  drive: LHD
+  regime: hybrid
+  basis: "LTO registration + DTI-BPS Philippine Standard (PS) / Import Commodity Clearance (ICC) for components; DENR-EMB emissions (Euro 4); 1958 Agreement CP"
+  un_1958: true
+  un_1998: null
+  authorities:
+    - { name: Land Transportation Office (LTO), scope: "Registration, vehicle standards", url: "https://lto.gov.ph" }
+    - { name: DTI — Bureau of Philippine Standards (BPS), scope: "PS licence / ICC for tyres, glazing, batteries, etc.", url: "https://bps.dti.gov.ph" }
+    - { name: DENR — Environmental Management Bureau, scope: "Certificate of Conformity for emissions", url: "https://emb.gov.ph" }
+  accepts: ["UN R approvals", "ASEAN MRA"]
+  marks: ["PS / ICC marks on regulated components", "EMB Certificate of Conformity"]
+  emissions: "Euro 4"
+  language: English / Filipino
+  process: ["EMB emissions CoC per model; DTI-BPS component certification; LTO registration."]
+  records: [asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework]
+  confidence: medium
+
+- code: VN
+  name: Vietnam
+  group: Southeast Asia
+  regions: [ASEAN]
+  aliases: [QCVN, Vietnam Register, VR]
+  drive: LHD
+  regime: type-approval
+  basis: "QCVN national technical regulations (many UN R-based) — Vietnam Register (VR) under Ministry of Construction (formerly MOT) — import and domestic production certification"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: Vietnam Register (VR), scope: "Type approval / import quality certification, QCVN", url: "https://www.vr.org.vn" }
+  accepts: ["UN R approvals / test reports used as evidence for QCVN items", "ASEAN MRA"]
+  marks: ["VR certificate of technical safety and environmental protection quality"]
+  emissions: "Euro 5 (since 2022)"
+  language: Vietnamese
+  process: ["Imported vehicles: per-shipment or type-based VR inspection (Decree governing imports); domestic: type approval + CoP."]
+  records: [asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt]
+  confidence: low
+
+- code: SG
+  name: Singapore
+  group: Southeast Asia
+  regions: []
+  aliases: [LTA, VES, COE]
+  drive: RHD
+  regime: type-approval
+  basis: "Land Transport Authority (LTA) Vehicle Type Approval — accepts EU/UN, Japanese, or US standards; NEA emissions"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: Land Transport Authority (LTA), scope: "Vehicle type approval, registration (COE)", url: "https://www.lta.gov.sg" }
+    - { name: National Environment Agency (NEA), scope: "Euro 6 emissions, Vehicular Emissions Scheme (VES)", url: "https://www.nea.gov.sg" }
+    - { name: IMDA, scope: "RF equipment", url: "https://www.imda.gov.sg" }
+  accepts: ["EU WVTA / UN R approvals", "Japanese type designation", "US FMVSS (for items listed by LTA)"]
+  marks: ["LTA type approval"]
+  emissions: "Euro 6 (Euro VI heavy) + VES rebate/surcharge band"
+  language: English
+  process: ["LTA type approval with homologation documents; NEA emission compliance; registration subject to COE quota."]
+  records: []
+  confidence: medium
+
+- code: ASEAN-OTHER
+  name: Cambodia, Laos, Myanmar, Brunei, Timor-Leste
+  group: Southeast Asia
+  regions: [ASEAN]
+  aliases: [Cambodia, Laos, Myanmar, Brunei, Timor-Leste]
+  members: [Cambodia, Laos, Myanmar, Brunei, Timor-Leste]
+  drive: mixed
+  regime: registration-inspection
+  basis: "National registration/import rules; ASEAN APMRA for UN R-based mutual recognition"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Brunei — Land Transport Department (JPD)", scope: "Registration", url: "https://www.jpd.gov.bn" }
+  accepts: ["UN R / Japanese / EU documentation"]
+  marks: []
+  emissions: "Euro 2–5 references depending on country"
+  language: National languages
+  process: ["Verified at import/registration."]
+  notes: ["Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
+  records: [asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra]
+  confidence: low
+
+- code: AU
+  name: Australia
+  group: Oceania
+  regions: [AU]
+  aliases: [ADR, RVSA, ROVER, RAV, DITRDCA]
+  drive: RHD
+  regime: type-approval
+  basis: "Road Vehicle Standards Act 2018 / Rules 2019 — type approval to Australian Design Rules (ADR, largely UN R-based); entry on the Register of Approved Vehicles (RAV)"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts — Vehicle Safety Standards", scope: "Type approval (ROVER system), ADRs, RAV, recalls", url: "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles" }
+    - { name: ACCC, scope: "Consumer-law recalls (shared with DITRDCA under RVSA)", url: "https://www.accc.gov.au" }
+    - { name: ACMA, scope: "Radiocommunications (RCM mark)", url: "https://www.acma.gov.au" }
+    - { name: NVES Regulator, scope: "New Vehicle Efficiency Standard (CO2 targets)", url: "https://www.nves.gov.au" }
+  accepts: ["UN R approvals are accepted as alternative standards for most ADRs (listed per ADR)"]
+  marks:
+    - "Type approval issued via ROVER; vehicle entered on RAV before supply"
+    - "Identification plate no longer required post-RVSA — RAV entry replaces it; VIN per ADR 61"
+    - "RCM for radio devices; fuel consumption label (ADR 81)"
+  emissions: "Euro 6d-equivalent for new models from Dec 2025 (ADR 79/05 / ADR 111 / ADR 112 RDE); NVES CO2 targets from 2025"
+  language: English
+  process:
+    - "Apply for type approval in ROVER with evidence (UN R approvals/test reports) against each applicable ADR."
+    - "Enter each vehicle on RAV; maintain CoP (conformity of production) arrangements."
+    - "Recalls: notify the department (RVSA) — voluntary recalls published on the vehicle recalls site."
+  watch: ["ADR 98/02 (AEB incl. pedestrian/cyclist), ADR 107 (ELKS), ADR 109 (EV powertrain safety), ADR 113 (AVAS), ADR 114 (CO2 measurement) phase-in dates."]
+  records: [au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019, au-workbook-reg-0371-register-of-approved-vehicles-rav, au-workbook-reg-0372-australian-road-vehicle-recall-framework, au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024, au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma, au-f2012l01123]
+  confidence: high
+
+- code: NZ
+  name: New Zealand
+  group: Oceania
+  regions: [NZ]
+  aliases: [NZTA, Waka Kotahi, Land Transport Rules, Clean Car Standard]
+  drive: RHD
+  regime: recognition
+  basis: "Land Transport Rules specifying 'approved vehicle standards' — UN Regulations, ADR, FMVSS, Japanese standards accepted; entry certification at border"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: NZ Transport Agency Waka Kotahi (NZTA), scope: "Vehicle standards compliance, entry certification", url: "https://www.nzta.govt.nz" }
+    - { name: Ministry of Transport, scope: "Clean Car Standard (CO2)", url: "https://www.transport.govt.nz" }
+  accepts: ["UN R / EU", "ADR", "FMVSS", "Japanese standards (JIS / Safety Regulations)"]
+  marks: ["Statement of compliance for new vehicles (manufacturer/importer)"]
+  emissions: "Vehicle Exhaust Emissions Rule (Euro 6 / JP / US equivalents); Clean Car Standard CO2 targets"
+  language: English
+  process: ["New vehicles: provide compliance evidence against approved standards (often via ADR/UN R approvals); entry certification; register with NZTA."]
+  records: [nz-workbook-reg-0628-land-transport-rules-approved-standards, nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022]
+  confidence: medium
+
+- code: PACIFIC
+  name: Pacific Islands (Papua New Guinea, Fiji, Samoa, Tonga, Solomon Islands, Vanuatu, others)
+  group: Oceania
+  regions: []
+  aliases: [Papua New Guinea, Fiji, Samoa, Tonga, Vanuatu, Solomon Islands]
+  members: [Papua New Guinea, Fiji, Samoa, Tonga, Solomon Islands, Vanuatu, Kiribati, Micronesia, Palau]
+  drive: mixed
+  regime: registration-inspection
+  basis: "National land-transport registration; used-import age limits in several states"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Fiji — Land Transport Authority", scope: "Registration", url: "https://www.lta.com.fj" }
+  accepts: ["ADR / Japanese / NZ-compliant vehicles"]
+  marks: []
+  emissions: "Generally none at type-approval level"
+  language: English and local languages
+  process: ["Verified at import/registration."]
+  notes: ["Mostly RHD (drive on left); Samoa switched to left-hand traffic in 2009; US-affiliated territories (Guam, American Samoa, N. Mariana Is.) follow US rules."]
+  records: []
+  confidence: low

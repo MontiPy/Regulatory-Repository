@@ -1289,9 +1289,9 @@ records:
   source_url: https://sidof.segob.gob.mx/notas/docFuente/5666804
 - id: us-stub-nom-042-semarnat-2003
   workbook_id: REG-0611
-  market_family: United States
+  market_family: Mexico  # workbook lists "United States"; NOM-042 is a Mexican standard (id kept stable)
   region_body: Mexico / SEMARNAT / PROFEPA
-  region: US
+  region: MX
   citation: NOM-042-SEMARNAT-2003
   title: Maximum permissible exhaust and evaporative emissions for new vehicles up
     to 3,857 kg GVWR

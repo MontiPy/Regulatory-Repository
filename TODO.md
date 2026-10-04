@@ -6,6 +6,32 @@
 
 ---
 
+## Certification knowledge layer — verification & expansion backlog
+
+The `knowledge/` layer (market profiles, crosswalk, glossary) was authored without live access to
+the authorities' sites (the build environment's network policy blocks them). Items to close:
+
+- [ ] **Verify UN 1958 / 1998 Agreement membership** for the 33 profiles where one flag is `null`
+  (shown as "UN … ?" in the UI) against UNECE's status document (ECE/TRANS/WP.29/343 series) and
+  Annex 3 of R.E.3 (distinguishing numbers). Recent accessions reported: Pakistan, Philippines,
+  Uganda, Kyrgyzstan and Uzbekistan (2025).
+- [ ] **Raise confidence on the 22 `low` profiles** (Caribbean, Central America, Argentina, Chile,
+  Colombia, Andean, Uruguay/Paraguay, Ukraine, Western Balkans, Central Asia, Israel, Levant,
+  Kuwait/Qatar/Bahrain/Oman, Egypt, East Africa, Maghreb, Nigeria, other Sub-Saharan Africa,
+  South Asia, other ASEAN, Vietnam, Pacific) with in-country homologation partners.
+- [ ] **Pull the instruments the crosswalk cites but the corpus lacks**, then add their record
+  ids to the cells: CMVSS 126 / 138 (`manifests/ca.yaml`), GB 11557 and GB 39732-2020
+  (`manifests/cn.yaml`), UN R134 (`manifests/ece.yaml`), India AIS-098/099/100/145/189/190
+  (`manifests/in.yaml` — morth.gov.in timed out previously), EU eCall (EU) 2015/758.
+- [ ] **cn-gb-1589**: record corrected by hand (it had resolved to GB 15892-2020, a drinking-water
+  chemical, via the portal's prefix search — connector fixed + regression tests). Re-run
+  `python scripts/pull.py --region CN` from an environment that can reach openstd.samr.gov.cn to
+  restore the exact `newGbInfo` permalink and implementation date.
+- [ ] Add crosswalk columns for further regimes once their corpora exist (e.g. GB type approval
+  post-divergence, EAEU TR CU 018 annexes, Mexico NOM-194 items, Taiwan VSCC items).
+
+---
+
 ## UI Redesign — Region → Series Label Mapping
 
 For the Home "Browse by Market" tiles, formatted as `Series (Region)` with long region names.

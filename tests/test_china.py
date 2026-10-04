@@ -20,6 +20,29 @@ def test_search_hcno_exact_version():
     assert hcno == "290A78A7D1665437A160104DCE7FA380"
     assert label == "GB 11551-2014"
 
+def _rows(*labels):
+    return "".join(
+        f"<a href=\"javascript:void(0)\" onclick=\"showInfo('{str(i) * 32}')\"> {lbl} </a>"
+        for i, lbl in enumerate(labels, start=1)
+    )
+
+def test_search_hcno_ignores_prefix_matches_of_other_standards():
+    # Regression: "GB 1589" (vehicle dimensions) used to resolve to GB 15892-2020
+    # (polyaluminium chloride for drinking water) because the portal prefix-matches.
+    session = FakeSession(_rows("GB 15892-2020", "GB 1589-2016", "GB 15893.1-2014"))
+    hcno, label = search_hcno(session, "GB 1589")
+    assert label == "GB 1589-2016"
+    assert hcno == "2" * 32
+
+def test_search_hcno_none_when_only_other_standards_match():
+    session = FakeSession(_rows("GB 15892-2020", "GB 15893.1-2014"))
+    assert search_hcno(session, "GB 1589") is None
+
+def test_search_hcno_accepts_part_numbers_of_same_standard():
+    session = FakeSession(_rows("GB/T 34590.1-2017", "GB/T 34590.10-2017", "GB/T 345901-2099"))
+    _hcno, label = search_hcno(session, "GB/T 34590")
+    assert label.startswith("GB/T 34590.")
+
 def test_search_hcno_returns_none_when_absent():
     session = FakeSession("<html><body>no results</body></html>")
     assert search_hcno(session, "GB 99999-2099") is None

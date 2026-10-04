@@ -20,7 +20,7 @@ open_tags:
 - SHED testing
 - LPG fuel system
 - CNG fuel system
-region: US
+region: MX
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/
 status: in-force

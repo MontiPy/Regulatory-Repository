@@ -41,6 +41,16 @@
     let visibleLimit    = PAGE_SIZE;
     let urlTimer        = null;
 
+    // Reference views (markets, crosswalk, planner, glossary) live in
+    // assets/reference.js and render into #ref-view. They are addressed by
+    // ?view=<name> and use pushState so the browser Back button works.
+    const REF_VIEWS = new Set(["markets", "market", "crosswalk", "topic", "planner", "glossary"]);
+    const refViewEl = document.querySelector("#ref-view");
+    function currentRefView() {
+      const view = new URLSearchParams(window.location.search).get("view");
+      return REF_VIEWS.has(view) ? view : null;
+    }
+
     const homeSort    = { systems: "az", commodities: "az", region: "count" };
     const homeShowAll = { systems: false, commodities: false, region: false };
     const HOME_TOP_N  = 14;
@@ -337,6 +347,7 @@
     // search/filter context isn't lost (matters most on mobile, where the
     // reader fully overlays the results).
     function readerContextLabel() {
+      if (history.state && history.state.fromRef) return history.state.backLabel || "Back";
       const parts = [];
       const q = searchInput.value.trim();
       if (q) parts.push(`“${q}”`);
@@ -369,6 +380,10 @@
     }
 
     function closeReader({ restoreFocus = true } = {}) {
+      if (history.state && history.state.fromRef) {
+        history.back();   // popstate re-applies the reference view's URL
+        return;
+      }
       openReaderId = null;
       document.querySelector("#reader").classList.add("hidden");
       document.querySelector(".layout").classList.remove("reading");
@@ -521,6 +536,12 @@
       const visible    = getVisibleRecords();
       const renderable = visible.slice(0, visibleLimit);
       resultCount.textContent = `Showing ${renderable.length} of ${visible.length}`;
+      const hintsEl = document.querySelector("#ref-hints");
+      if (hintsEl) {
+        const hints = window.RefViews ? window.RefViews.hints(searchInput.value) : "";
+        hintsEl.innerHTML = hints;
+        hintsEl.classList.toggle("hidden", !hints);
+      }
       const orderEl = document.querySelector("#result-order");
       if (orderEl) orderEl.textContent = areaSelected() ? "Grouped by market" : "Sorted by repository order";
       cards.innerHTML = renderable.length
@@ -604,8 +625,35 @@
       return !(shown.length === 1 && shown[0] === "full");
     }
 
+    function setActiveNav(key) {
+      document.querySelectorAll("[data-nav]").forEach((el) => {
+        const active = el.dataset.nav === key;
+        el.classList.toggle("active", active);
+        if (active) el.setAttribute("aria-current", "page"); else el.removeAttribute("aria-current");
+        // On narrow screens the nav row scrolls horizontally — keep the active tab visible.
+        const nav = el.parentElement;
+        if (active && nav && nav.scrollWidth > nav.clientWidth) {
+          const left = el.offsetLeft - nav.offsetLeft;
+          if (left < nav.scrollLeft || left + el.offsetWidth > nav.scrollLeft + nav.clientWidth) nav.scrollLeft = left - 8;
+        }
+      });
+    }
+
     function route() {
+      const refView = currentRefView();
+      document.body.classList.toggle("ref-mode", Boolean(refView));
+      if (refView) {
+        if (openReaderId) closeReader({ restoreFocus: false });
+        homeView.classList.add("hidden");
+        workspaceEls.forEach((el) => el && el.classList.add("hidden"));
+        refViewEl.classList.remove("hidden");
+        setActiveNav({ market: "markets", topic: "crosswalk" }[refView] || refView);
+        if (window.RefViews) window.RefViews.render(refView, new URLSearchParams(window.location.search));
+        return;
+      }
+      refViewEl.classList.add("hidden");
       const onWorkspace = workspaceActive();
+      setActiveNav("regulations");
       // Leaving the Workspace (e.g. Home link) must also dismiss any open reader,
       // otherwise its DOM/.reading state resurfaces when the Workspace returns.
       if (!onWorkspace && openReaderId) {
@@ -767,6 +815,7 @@
     function syncUrl() {
       window.clearTimeout(urlTimer);
       urlTimer = window.setTimeout(() => {
+        if (currentRefView()) return;
         const params = new URLSearchParams();
         const q = searchInput.value.trim();
         if (q) params.set("q", q);
@@ -781,11 +830,13 @@
         });
         if (openReaderId) params.set("id", openReaderId);
         const qs = params.toString();
-        history.replaceState(null, "", qs ? `${window.location.pathname}?${qs}` : window.location.pathname);
+        // Keep history.state: it carries the reader's "return to reference view" marker.
+        history.replaceState(history.state, "", qs ? `${window.location.pathname}?${qs}` : window.location.pathname);
       }, 150);
     }
 
     searchInput.addEventListener("input", () => {
+      if (currentRefView()) history.pushState(null, "", window.location.pathname);
       visibleLimit = PAGE_SIZE;
       render();
       syncUrl();
@@ -937,7 +988,8 @@
     });
 
     homeLink.addEventListener("click", () => {
-      history.replaceState(null, "", window.location.pathname);
+      if (currentRefView()) history.pushState(null, "", window.location.pathname);
+      else history.replaceState(null, "", window.location.pathname);
       searchInput.value = "";
       filtersForm.querySelectorAll("input[type='checkbox']").forEach((el) => { el.checked = false; });
       availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
@@ -1021,6 +1073,62 @@
       }
     });
 
+    // Navigate to a query string, pushing a history entry by default.
+    function navigate(search, { push = true, state = null } = {}) {
+      window.clearTimeout(urlTimer);
+      const url = search ? `${window.location.pathname}?${search}` : window.location.pathname;
+      if (push) history.pushState(state, "", url); else history.replaceState(state, "", url);
+      applyUrlParams();
+      visibleLimit = PAGE_SIZE;
+      route();
+      if (!currentRefView()) { render(); updateClearButton(); }
+      if (!(state && state.keepScroll)) window.scrollTo(0, 0);
+    }
+
+    window.addEventListener("popstate", () => {
+      applyUrlParams();
+      route();
+      if (!currentRefView()) { render(); updateClearButton(); }
+    });
+
+    document.querySelector(".site-nav")?.addEventListener("click", (event) => {
+      const link = event.target.closest("a[data-nav]");
+      if (!link || event.metaKey || event.ctrlKey || event.shiftKey) return;
+      event.preventDefault();
+      const target = new URL(link.href, window.location.href);
+      if (link.dataset.nav === "regulations") {
+        homeLink.click();
+        return;
+      }
+      navigate(target.search.slice(1));
+    });
+
+    // Small API for assets/reference.js.
+    window.RegApp = {
+      navigate,
+      escapeHtml,
+      records: () => REGS,
+      record: (id) => recordById.get(id),
+      regionLabel: (region) => marketTileLabel(region),
+      // Open a record in the reader from a reference view; the reader's Back
+      // button returns to that view (history.back()).
+      openRecord(id, backLabel) {
+        if (!recordById.has(id)) return;
+        navigate(`id=${encodeURIComponent(id)}`, { state: { fromRef: true, backLabel: backLabel || "Back" } });
+      },
+    };
+
+    // Sticky/fixed panels (filters drawer, reader) sit below the header, whose
+    // height varies with viewport width (search wraps, nav row) — publish it.
+    (function trackHeaderHeight() {
+      const header = document.querySelector(".site-header");
+      if (!header) return;
+      const apply = () => document.documentElement.style.setProperty("--header-h", `${Math.round(header.getBoundingClientRect().height)}px`);
+      apply();
+      if (typeof ResizeObserver === "function") new ResizeObserver(apply).observe(header);
+      else window.addEventListener("resize", apply);
+    })();
+
     async function boot() {
       const [regs, taxonomy] = await Promise.all([
         fetch("data/index.json").then((r) => r.json()),
@@ -1028,6 +1136,7 @@
       ]);
       REGS = regs;
       TAXONOMY = taxonomy;
+      if (window.RefViews) await window.RefViews.load().catch((err) => console.warn("reference data unavailable:", err));
       recordById = new Map(REGS.map((r) => [r.id, r]));
       UN_INDEX = (TAXONOMY && TAXONOMY.un_index) || {};
       rebuildCorpusCounts();
