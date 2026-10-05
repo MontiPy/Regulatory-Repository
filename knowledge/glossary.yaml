@@ -1,0 +1,220 @@
+# Certification & homologation glossary. `markets` refers to market-profile codes;
+# `records` to repository record ids (both validated at build time).
+
+- term: Type approval
+  aka: [Homologation]
+  definition: "A government (or delegated) authority certifies, BEFORE sale, that a vehicle type or component meets the applicable technical requirements, usually by witnessed testing plus an assessment of the manufacturer's conformity-of-production arrangements. Used by the EU, UK, Japan, China, India, Australia and most UN 1958 Agreement parties."
+  markets: [EU, GB, JP, CN, IN, AU]
+
+- term: Self-certification
+  definition: "The manufacturer itself certifies compliance with every applicable standard and is liable for it; there is no pre-market government approval. The authority enforces through post-sale compliance testing, defect investigations and penalties. Used by the United States, Canada and South Korea."
+  markets: [US, CA, KR]
+
+- term: Recognition regime
+  definition: "The market accepts approvals or certifications granted elsewhere (e.g. EU WVTA, UN R approvals, FMVSS self-certification, Japanese type designation) as the basis for national registration, sometimes with national add-ons (e.g. New Zealand, Switzerland, Israel)."
+  markets: [NZ, EFTA, IL]
+
+- term: Registration / import-inspection regime
+  definition: "No whole-vehicle type approval; compliance is checked vehicle-by-vehicle or shipment-by-shipment at import (pre-shipment inspection, PVoC) or at first registration/periodic inspection."
+  markets: [EAST-AFRICA, CARIB, CENTAM]
+
+- term: 1958 Agreement
+  aka: [UN 1958 Agreement, Reciprocal recognition]
+  definition: "UNECE agreement under which contracting parties adopt UN Regulations and mutually recognise approvals granted to them (E-marks). Revision 3 (2017) introduced UN R0 / IWVTA. Contracting parties are identified by distinguishing numbers (E1 Germany, E11 UK, E43 Japan, E45 Australia …)."
+  markets: [EU, GB, JP, KR, AU, EAEU, TH, MY, ZA, NZ, TR]
+  records: [ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles]
+
+- term: 1998 Agreement
+  aka: [Global Agreement, GTR]
+  definition: "UNECE agreement for Global Technical Regulations (GTRs). Unlike the 1958 Agreement there is no mutual recognition of approvals — each party transposes the GTR into national law (e.g. GTR 8 ESC → FMVSS 126). The US, Canada, China and India participate in the 1998 Agreement but not the 1958 Agreement."
+  markets: [US, CA, CN, IN]
+
+- term: UN Regulation (UN R)
+  aka: [ECE Regulation, ECE R]
+  definition: "Technical regulation annexed to the 1958 Agreement (e.g. UN R94 frontal impact). Amendments are tracked as series (e.g. 04 series), supplements and transitional provisions — always check which series a market requires."
+  markets: [EU]
+
+- term: E-mark / e-mark
+  definition: "Approval mark: a capital 'E' in a circle with the approving country's number indicates a UN Regulation approval; a lowercase 'e' in a rectangle indicates an EU approval. Followed by the regulation number and approval number."
+  markets: [EU, GB, JP]
+
+- term: IWVTA
+  aka: [UN R0, International Whole Vehicle Type Approval]
+  definition: "UN Regulation No. 0 — a whole-vehicle approval covering a defined set of UN Regulations, mutually recognised by parties that apply UN R0 (notably the EU and Japan). Not all market-specific requirements are covered ('U-IWVTA' vs 'L-IWVTA')."
+  markets: [EU, JP]
+  records: [ece-r0]
+
+- term: WVTA
+  aka: [EU Whole Vehicle Type Approval, ECWVTA]
+  definition: "Whole-vehicle type approval under Regulation (EU) 2018/858, valid in all EU member states (and recognised by EEA/Switzerland). Requires system/component approvals, CoP and a Certificate of Conformity per vehicle."
+  markets: [EU, EFTA]
+  records: [eu-32018r0858]
+
+- term: Conformity of Production (CoP)
+  definition: "Arrangements ensuring that series-produced vehicles/components match the approved type: an initial assessment of the manufacturer's quality system (often IATF 16949-based) plus periodic verification testing by the authority or technical service."
+  markets: [EU, JP, IN, AU]
+  records: [ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles, other-workbook-reg-0641-iatf-16949]
+
+- term: Certificate of Conformity (CoC)
+  definition: "Document issued by the manufacturer for each vehicle declaring that it conforms to the approved type (EU/UK/Türkiye). Used for registration in any member state."
+  markets: [EU, GB, TR, EFTA]
+
+- term: Technical service
+  definition: "Organisation designated by an approval authority to perform or witness approval tests and CoP checks (e.g. TÜV SÜD, UTAC, IDIADA, DEKRA, TNO, VCA)."
+  markets: [EU, GB]
+
+- term: In-service conformity (ISC)
+  definition: "Post-sale testing of in-use vehicles (emissions/evaporative, RDE) to verify durability of compliance; mandatory under Euro 6/7."
+  markets: [EU]
+
+- term: Market surveillance
+  definition: "Authority checks of vehicles and components already on the market (EU 2018/858 Ch. XI; JRC verification tests); can lead to recalls, fines up to €30,000 per non-compliant vehicle in the EU."
+  markets: [EU]
+
+- term: CSMS
+  aka: [Cybersecurity Management System]
+  definition: "Organisation-level process certificate required by UN R155 before a vehicle type can be approved for cybersecurity. Based on ISO/SAE 21434 practices."
+  markets: [EU, JP, KR, GB]
+  records: [ece-r155, other-workbook-reg-0645-iso-sae-21434]
+
+- term: SUMS / RXSWIN
+  definition: "Software Update Management System certificate (UN R156) and the RX Software Identification Number that identifies type-approval-relevant software. OTA updates affecting approved functions must be managed under SUMS."
+  markets: [EU, JP]
+  records: [ece-r156, other-workbook-reg-0646-iso-24089]
+
+- term: FMVSS
+  aka: [Federal Motor Vehicle Safety Standards]
+  definition: "US safety standards in 49 CFR Part 571, numbered by series: 100s crash avoidance, 200s crashworthiness, 300s post-crash, 400s, 500 (low-speed vehicles)."
+  markets: [US]
+
+- term: CMVSS
+  definition: "Canada Motor Vehicle Safety Standards in Schedule IV of the Motor Vehicle Safety Regulations; numbering mirrors FMVSS with Canadian-unique standards (e.g. 108 DRL, 114 immobilizer)."
+  markets: [CA]
+
+- term: Part 567 certification label
+  definition: "US label permanently affixed (normally B-pillar) stating the manufacturer, date of manufacture, GVWR/GAWR, VIN and the certification statement of compliance with all applicable FMVSS."
+  markets: [US]
+  records: [us-cfr-part-567]
+
+- term: Part 573 / Part 577 (defect & noncompliance)
+  definition: "US requirement to report a safety-related defect or FMVSS noncompliance to NHTSA within 5 working days of determination, followed by owner notification letters (Part 577) and quarterly recall reports."
+  markets: [US]
+  records: [us-cfr-part-573, us-cfr-part-577]
+
+- term: EWR / TREAD Act
+  definition: "Early Warning Reporting (49 CFR 579) under the TREAD Act: quarterly reports of deaths, injuries, claims, field reports and production volumes, plus foreign recalls of substantially similar vehicles."
+  markets: [US]
+  records: [us-cfr-part-579]
+
+- term: Monroney label
+  definition: "US window sticker required by the Automobile Information Disclosure Act listing price, equipment and the EPA/NHTSA fuel-economy and environment label."
+  markets: [US]
+  records: [us-40cfr-part-600]
+
+- term: CAFE
+  aka: [Corporate Average Fuel Economy]
+  definition: "Sales-weighted fleet-average fuel-economy (or CO2) standards. US (NHTSA 49 CFR 531/533), China (CAFC + NEV dual credits), India (BEE CAFE), Saudi Arabia (SASO 2864), Korea; the EU equivalent is the fleet CO2 regulation 2019/631."
+  markets: [US, CN, IN, SA, KR, EU]
+
+- term: Registered Importer (RI)
+  definition: "NHTSA-registered company allowed to import and modify non-US-certified vehicles that NHTSA has found eligible (49 CFR 592/593)."
+  markets: [US]
+  records: [us-cfr-part-592, us-cfr-part-593]
+
+- term: CCC
+  aka: [China Compulsory Certification]
+  definition: "Mandatory product certification for vehicles and listed components sold in China (CNCA-C11-01 for automobiles), including factory inspection and type testing at a designated lab."
+  markets: [CN]
+  records: [cn-cnca-c11-01-2020]
+
+- term: MIIT Announcement
+  aka: [公告, Public Notice]
+  definition: "China's product-access catalogue for domestically produced road vehicles; a vehicle must be listed before it can be produced and registered."
+  markets: [CN]
+
+- term: TDS / PHP (Japan)
+  definition: "Type Designation System (型式指定) — full type approval with manufacturer completion inspection. Preferential Handling Procedure (PHP) is a simplified procedure for imported vehicles up to 5,000 units per type per year."
+  markets: [JP]
+  records: [jp-srrv-japanese-vehicle-type-approval-type-designation-framework]
+
+- term: TAC / CMVR Rule 126 (India)
+  definition: "Type Approval Certificate issued by a testing agency (ARAI, ICAT, GARC, NATRAX, VRDE…) under Rule 126 of the Central Motor Vehicles Rules after testing to notified AIS/IS standards."
+  markets: [IN]
+  records: [in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework]
+
+- term: RAV / ROVER (Australia)
+  definition: "Register of Approved Vehicles — every road vehicle must be entered before first supply under the Road Vehicle Standards Act 2018. ROVER is the online system used to apply for type approvals and RAV entry."
+  markets: [AU]
+  records: [au-workbook-reg-0371-register-of-approved-vehicles-rav]
+
+- term: CAT / LCVM (Brazil)
+  definition: "Certificado de Adequação à Legislação de Trânsito (CAT) issued by SENATRAN for each model; Licença para Uso da Configuração de Veículo ou Motor (LCVM) issued by IBAMA under PROCONVE emissions rules."
+  markets: [BR]
+  records: [br-senatran-990]
+
+- term: LCM / LCA (Argentina)
+  definition: "Licencia para Configuración de Modelo (safety) and Licencia de Configuración Ambiental (environment) — both required before a vehicle model can be sold in Argentina."
+  markets: [AR]
+  records: [ar-workbook-reg-0624-lcm-lca]
+
+- term: OTTS / EPTS (EAEU)
+  definition: "Vehicle Type Approval under TR CU 018/2011, valid across the Eurasian Economic Union, and the Electronic Vehicle Passport issued per vehicle."
+  markets: [EAEU]
+  records: [eaeu-workbook-reg-0613-tr-cu-018-2011]
+
+- term: SABER PCoC / SCoC (Saudi Arabia)
+  definition: "SASO's online conformity platform: a Product Certificate of Conformity per model from a notified body, plus a Shipment Certificate per consignment."
+  markets: [SA]
+  records: [gcc-saso-saber-fuel-economy-label-for-new-light-vehicles]
+
+- term: ECAS (UAE)
+  definition: "Emirates Conformity Assessment Scheme run by MOIAT; vehicles need an ECAS conformity certificate before registration."
+  markets: [AE]
+  records: [gcc-ecas-moiat-conformity-certificates]
+
+- term: Letter of Authority (South Africa)
+  aka: [LoA]
+  definition: "NRCS homologation approval for a vehicle model showing compliance with the compulsory specifications (VC series)."
+  markets: [ZA]
+  records: [za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series]
+
+- term: VTA / AP (Malaysia)
+  definition: "Vehicle Type Approval granted by JPJ against its list of UN Regulations; Approved Permit (AP) is the MITI import licence for vehicles."
+  markets: [MY]
+
+- term: SUT / SRUT (Indonesia)
+  definition: "Sertifikat Uji Tipe (type test certificate) from the Ministry of Transportation and Sertifikat Registrasi Uji Tipe issued per unit for registration."
+  markets: [ID]
+
+- term: PVoC
+  aka: [Pre-export Verification of Conformity]
+  definition: "Pre-shipment inspection programme run on behalf of national standards bodies (Kenya KEBS, Tanzania TBS, Uganda UNBS, etc.) issuing a Certificate of Conformity/Roadworthiness before shipment."
+  markets: [EAST-AFRICA]
+
+- term: GSR / GSR2
+  aka: [General Safety Regulation]
+  definition: "Regulation (EU) 2019/2144 — lists the UN Regulations and EU-specific ADAS requirements (ISA, DDAW, ADDW, ELKS, EDR, AEB, reversing detection…) mandatory for EU type approval, phased in from July 2022."
+  markets: [EU]
+  records: [eu-32019r2144]
+
+- term: WLTP / RDE
+  definition: "Worldwide harmonized Light vehicles Test Procedure (lab, GTR 15 / UN R154) and Real Driving Emissions on-road PEMS testing (UN R168, EU 2017/1151, China 6, BS-VI phase 2)."
+  markets: [EU, CN, IN, JP]
+  records: [ece-r154, ece-r168, eu-32017r1151]
+
+- term: OBD
+  aka: [On-board diagnostics]
+  definition: "Emission-related on-board diagnostics (US OBD II per 13 CCR 1968.2 / 40 CFR 86.1806; EOBD under Euro 6/7; China 6 OBD). Defines monitors, MIL behaviour and the standard diagnostic connector."
+  markets: [US, EU, CN]
+
+- term: NCAP
+  definition: "New Car Assessment Programmes (US NCAP, Euro NCAP, C-NCAP, Bharat NCAP, ANCAP, Latin NCAP, ASEAN NCAP, KNCAP, JNCAP) — consumer star ratings, NOT legal requirements, but frequently drive equipment fitment ahead of regulation."
+  markets: [US, EU, CN, IN, AU]
+
+- term: Functional safety (ISO 26262) & SOTIF (ISO 21448)
+  definition: "Industry standards for E/E system safety lifecycle and safety of the intended functionality; not law in most markets but referenced by UN R79, R152, R157, R155 audits and by GB/AIS standards."
+  records: [other-workbook-reg-0643-iso-26262, other-workbook-reg-0644-iso-21448]
+
+- term: PPAP / APQP
+  definition: "AIAG/VDA core quality tools used by OEMs to approve supplier parts; supplier evidence for regulated components (e-marked lamps, glazing, belts) is normally collected through PPAP."
+  records: [other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp, other-workbook-reg-0641-iatf-16949]

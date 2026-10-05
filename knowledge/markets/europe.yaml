@@ -1,0 +1,219 @@
+# Market profiles — Europe & Eurasia. See americas.yaml header for field semantics.
+
+- code: EU
+  name: European Union (27 member states)
+  group: Europe
+  regions: [EU, ECE]
+  aliases: [Europe, EU27, WVTA, Germany, France, Italy, Spain, Netherlands, Belgium, Poland, Sweden, Austria, Czechia, Czech Republic, Hungary, Romania, Portugal, Greece, Ireland, Denmark, Finland, Slovakia, Slovenia, Croatia, Bulgaria, Lithuania, Latvia, Estonia, Luxembourg, Cyprus, Malta, KBA, UTAC, RDW, IDIADA]
+  members: ["Germany (E1)", "France (E2)", "Italy (E3)", "Netherlands (E4)", "Sweden (E5)", "Belgium (E6)", "Hungary (E7)", "Czechia (E8)", "Spain (E9)", "Austria (E12)", "Luxembourg (E13)", "Finland (E17)", "Denmark (E18)", "Romania (E19)", "Poland (E20)", "Portugal (E21)", "Greece (E23)", "Ireland (E24)", "Croatia (E25)", "Slovenia (E26)", "Slovakia (E27)", "Estonia (E29)", "Latvia (E32)", "Bulgaria (E34)", "Lithuania (E36)", "Cyprus (E49)", "Malta (E50)"]
+  drive: LHD
+  regime: type-approval
+  basis: "EU Whole Vehicle Type Approval — Regulation (EU) 2018/858 framework; General Safety Regulation (EU) 2019/2144; UN Regulations made mandatory via Annex I of 2019/2144; Euro 6 (715/2007 & 2017/1151) → Euro 7 (EU) 2024/1257; CO2 (EU) 2019/631"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: European Commission — DG GROW, scope: "Type-approval legislation, market surveillance oversight (JRC verification testing)", url: "https://single-market-economy.ec.europa.eu/sectors/automotive-industry_en" }
+    - { name: "National type-approval authorities (e.g. KBA DE, RDW NL, Ministère de la Transition écologique FR, Ministero delle Infrastrutture IT, Ministerio de Industria ES, Transportstyrelsen SE)", scope: "Grant EU WVTA (valid EU-wide), CoP, in-service conformity", url: "https://single-market-economy.ec.europa.eu/sectors/automotive-industry/legislation_en" }
+    - { name: "Designated technical services (e.g. TÜV SÜD/Rheinland, DEKRA, UTAC, IDIADA, TNO)", scope: "Witness/perform approval tests", url: "https://single-market-economy.ec.europa.eu" }
+  accepts:
+    - "UN Regulation approvals (E-marks from any 1958 Agreement CP) for the regulations listed in 2019/2144 Annex I"
+    - "UN R0 (IWVTA) as an alternative route for the covered items"
+  marks:
+    - "EU WVTA certificate (e-number, e.g. e1*2018/858*…) and Certificate of Conformity (CoC) per vehicle"
+    - "Statutory plate (manufacturer's plate) and VIN per (EU) 2021/535"
+    - "E-marked / e-marked components (lamps, glazing, tyres, mirrors, belts, CRS)"
+    - "Tyre label (EU) 2020/740; CO2/fuel consumption car label (Dir. 1999/94/EC)"
+  emissions: "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and all new vehicles from 29 Nov 2027 (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review."
+  language: "Official language(s) of the member state of sale for owner info, labels, recall notices"
+  process:
+    - "Choose approving authority (any member state); appoint technical service; establish initial assessment of the QMS for Conformity of Production (CoP)."
+    - "Obtain system/component approvals (EU or UN R) per 2019/2144 Annex I and 2018/858 Annex II; then WVTA."
+    - "Emissions: Euro 6/7 type approval incl. RDE, evaporative, OBD, ISC; CO2 monitoring data and WLTP values on CoC."
+    - "Issue CoC per vehicle; register via national registration using CoC."
+    - "Cybersecurity CSMS certificate (UN R155) and software-update SUMS (UN R156) are prerequisites for vehicle type approval."
+    - "Post-market: notify the approval authority and Commission of serious risks (2018/858 Art. 52); RAPEX/Safety Gate recalls; market-surveillance checks."
+  watch:
+    - "Remaining GSR2 phase-in steps — e.g. advanced driver distraction warning (ADDW) for all new registrations from 7 Jul 2026, enlarged pedestrian head-impact zone and heavy-vehicle direct vision in the 2026/2029 steps. Confirm each item's dates in 2019/2144 Annex II."
+    - "Euro 7 application dates (Nov 2026 / Nov 2027) and Euro 7 battery durability for EVs."
+    - "EU Battery Regulation (EU) 2023/1542 — carbon footprint declaration, battery passport (Feb 2027), due diligence."
+    - "Data Act (EU) 2023/2854 (connected-vehicle data access, applies from Sept 2025)."
+    - "End-of-Life Vehicles Regulation (replacing Dir. 2000/53/EC) — recycled-plastic content targets."
+  notes:
+    - "Small series (2018/858 Art. 41/42) and individual vehicle approval (IVA) routes exist with quantity limits."
+    - "eCall (EU) 2015/758 mandatory for M1/N1; transition to NG-eCall (4G/5G) ongoing."
+  records: [eu-32018r0858, eu-32019r2144, eu-32007r0715, eu-32017r1151, eu-32024r1257, eu-32019r0631, eu-32023r1542, eu-32021r0535, eu-32006l0040, eu-32000l0053, ece-r0, ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles, ece-r155, ece-r156]
+  confidence: high
+
+- code: GB
+  name: United Kingdom
+  group: Europe
+  regions: [ECE]
+  aliases: [UK, Great Britain, England, Scotland, Wales, Northern Ireland, VCA, DVSA, GB type approval]
+  drive: RHD
+  regime: type-approval
+  basis: "GB Type Approval — Road Vehicles (Approval) Regulations 2020 (retained 2018/858 framework) + retained GSR + UN Regulations; Northern Ireland applies EU type approval under the Windsor Framework"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: Vehicle Certification Agency (VCA), scope: "GB type-approval authority (E11) and technical service", url: "https://www.vehicle-certification-agency.gov.uk" }
+    - { name: Department for Transport (DfT), scope: "Policy, ZEV mandate", url: "https://www.gov.uk/government/organisations/department-for-transport" }
+    - { name: DVSA, scope: "Market surveillance, recalls", url: "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency" }
+  accepts:
+    - "UN Regulation approvals (E-marks) for the items GB mandates"
+    - "EU WVTA can underpin a GB approval (recognition route available with certain conditions) — confirm current VCA guidance"
+  marks:
+    - "GB WVTA (11*… numbering) and GB Certificate of Conformity"
+    - "E11 for UN approvals granted by VCA"
+  emissions: "Euro 6 (retained); GB intends to align with Euro 7 timing — check DfT. ZEV mandate (Vehicle Emissions Trading Schemes Order 2023): 28 % ZEV share in 2025, rising to 80 % in 2030 and 100 % in 2035 (with flexibilities)."
+  language: English
+  process:
+    - "Apply to VCA for GB type approval (or provisional/recognition route based on EU WVTA)."
+    - "Northern Ireland sales require EU type approval (Windsor Framework)."
+    - "GB CoC per vehicle; register with DVLA."
+    - "Recalls under the Code of Practice on vehicle safety defects with DVSA."
+  watch:
+    - "Divergence/alignment of GB GSR items versus EU GSR2 phases."
+    - "ZEV mandate trajectory and post-2030 hybrid rules."
+  notes: ["Right-hand drive: headlamp beam pattern, mirrors, and speedometer (mph) differ from EU continental spec."]
+  records: [ece-r155, ece-r156, ece-r0]
+  confidence: medium
+
+- code: EFTA
+  name: Norway, Iceland, Liechtenstein, Switzerland
+  group: Europe
+  regions: [ECE]
+  aliases: [Norway, Iceland, Liechtenstein, Switzerland, EEA, EFTA, ASTRA, FEDRO, Statens vegvesen]
+  members: ["Norway (E16, EEA)", "Iceland (EEA)", "Liechtenstein (EEA)", "Switzerland (E14, bilateral MRA)"]
+  drive: LHD
+  regime: recognition
+  basis: "EEA states apply EU type-approval law; Switzerland recognises EU WVTA/CoC through the EU–CH MRA and applies VTS/TGV ordinances"
+  un_1958: true
+  un_1998: null
+  authorities:
+    - { name: "Norway — Statens vegvesen (NPRA)", scope: "Type approval / registration", url: "https://www.vegvesen.no" }
+    - { name: "Switzerland — FEDRO/ASTRA", scope: "Type approval / registration (CoC-based)", url: "https://www.astra.admin.ch" }
+  accepts: ["EU WVTA and CoC"]
+  marks: ["EU CoC"]
+  emissions: "EU Euro 6/7 and CO2 rules (Switzerland applies EU-equivalent CO2 rules nationally)"
+  language: "Norwegian; Icelandic; German; Swiss national languages (DE/FR/IT)"
+  process: ["Register using EU CoC; check national add-ons (e.g. Swiss CO2 sanction scheme, Norwegian registration tax data)."]
+  records: []
+  confidence: medium
+
+- code: TR
+  name: Türkiye
+  group: Europe
+  regions: [TR]
+  aliases: [Turkey]
+  drive: LHD
+  regime: type-approval
+  basis: "EU-aligned type approval under the EU–Türkiye Customs Union (Ministry of Industry and Technology regulations transposing EU acts) + UN Regulations"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: Ministry of Industry and Technology, scope: "Type-approval authority (E37)", url: "https://www.sanayi.gov.tr" }
+    - { name: TSE (Turkish Standards Institution), scope: "Technical service / CoP inspections", url: "https://www.tse.org.tr" }
+  accepts: ["EU WVTA (with national registration documentation)", "UN R approvals"]
+  marks: ["Turkish type approval / CoC", "E37 approvals"]
+  emissions: "Euro 6 (EU-aligned)"
+  language: Turkish
+  process: ["Apply EU-aligned approval through the Ministry; Turkish-language owner info; TSE CoP."]
+  records: [tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework]
+  confidence: medium
+
+- code: UA
+  name: Ukraine
+  group: Europe
+  regions: []
+  drive: LHD
+  regime: type-approval
+  basis: "National type approval aligned with UN Regulations and progressively with EU 2018/858 (EU accession track)"
+  un_1958: true
+  un_1998: null
+  authorities:
+    - { name: Ministry of Infrastructure / designated technical services, scope: "Vehicle type approval (E46)", url: "https://mtu.gov.ua" }
+  accepts: ["EU WVTA and UN R approvals are recognised in the national procedure"]
+  marks: ["Ukrainian type approval; E46 for UN approvals"]
+  emissions: "Euro 5/6 references"
+  language: Ukrainian
+  process: ["Recognition of EU WVTA / UN R approvals plus national documentation."]
+  notes: ["Martial-law conditions since 2022 affect administrative procedures."]
+  records: []
+  confidence: low
+
+- code: BALKANS
+  name: Western Balkans, Moldova & Caucasus (Serbia, Bosnia & Herzegovina, Montenegro, North Macedonia, Albania, Kosovo, Moldova, Georgia, Azerbaijan)
+  group: Europe
+  regions: []
+  aliases: [Serbia, Bosnia, Montenegro, North Macedonia, Albania, Kosovo, Moldova, Georgia, Azerbaijan]
+  members: ["Serbia (E10)", "Bosnia & Herzegovina (E31)", "North Macedonia (E40)", "Albania (E54)", "Montenegro (E56)", "Azerbaijan (E39)", Moldova, Georgia, Kosovo]
+  drive: LHD
+  regime: recognition
+  basis: "UN Regulations (1958 Agreement CPs) with national homologation; progressive transposition of EU type-approval acts by EU candidates"
+  un_1958: true
+  un_1998: null
+  authorities:
+    - { name: "Serbia — Agency for Safety in Traffic / Ministry of Interior (homologation)", scope: "Vehicle homologation", url: "https://www.abs.gov.rs" }
+  accepts: ["EU WVTA / CoC", "UN R approvals"]
+  marks: ["National homologation certificate based on CoC"]
+  emissions: "Euro 6 (most), Euro 5 references in some"
+  language: National languages
+  process: ["Homologation per vehicle type based on EU CoC / UN approvals."]
+  notes: ["Kosovo is not a UN member; it applies its own homologation based on EU documentation."]
+  records: []
+  confidence: low
+
+- code: EAEU
+  name: Eurasian Economic Union (Russia, Kazakhstan, Belarus, Armenia, Kyrgyzstan)
+  group: Eurasia
+  regions: [EAEU]
+  aliases: [Russia, Kazakhstan, Belarus, Armenia, Kyrgyzstan, Customs Union, TR CU 018/2011, OTTS, ERA-GLONASS, EAC]
+  members: ["Russia (E22)", "Belarus (E28)", Kazakhstan, Armenia, Kyrgyzstan]
+  drive: LHD
+  regime: type-approval
+  basis: "Technical Regulation of the Customs Union TR CU 018/2011 'On safety of wheeled vehicles' (largely UN R-based) + EAEU emergency-call (ERA-GLONASS / national equivalents)"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: "Russia — Rosstandart & accredited certification bodies", scope: "OTTS vehicle type approval under TR CU 018", url: "https://www.rst.gov.ru" }
+    - { name: "Kazakhstan — Ministry of Trade and Integration / accredited bodies", scope: "OTTS issuance for KZ", url: "https://www.gov.kz" }
+    - { name: Eurasian Economic Commission, scope: "TR CU maintenance", url: "https://eec.eaeunion.org" }
+  accepts: ["UN R approvals are accepted as evidence for most TR CU 018 annex items"]
+  marks:
+    - "OTTS — Vehicle Type Approval (Одобрение типа транспортного средства), valid across EAEU"
+    - "Electronic vehicle passport (EPTS) per vehicle"
+    - "EAC mark on certified components"
+  emissions: "Ecological class 5 (Euro 5 equivalent)"
+  language: "Russian (plus state languages, e.g. Kazakh)"
+  process:
+    - "Certification body issues OTTS based on test reports/UN approvals and production assessment."
+    - "EPTS created per vehicle; emergency call system certified (ERA-GLONASS in Russia)."
+  notes:
+    - "SANCTIONS: EU/US/UK/Japanese export controls and sanctions restrict vehicle and component exports to Russia and Belarus — consult trade compliance before any work."
+    - "Kyrgyzstan's 1958 Agreement accession was reported in 2025."
+  records: [eaeu-workbook-reg-0613-tr-cu-018-2011, eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements]
+  confidence: medium
+
+- code: CENTRAL-ASIA
+  name: Uzbekistan, Tajikistan, Turkmenistan, Mongolia
+  group: Eurasia
+  regions: []
+  aliases: [Uzbekistan, Tajikistan, Turkmenistan, Mongolia]
+  members: [Uzbekistan, Tajikistan, Turkmenistan, Mongolia]
+  drive: mixed
+  regime: registration-inspection
+  basis: "National certification largely modelled on TR CU 018 / UN Regulations"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: "Uzbekistan — Uzstandard Agency", scope: "Vehicle conformity certification", url: "https://standart.uz" }
+  accepts: ["EAEU OTTS and UN R approvals typically used as evidence"]
+  marks: []
+  emissions: "Euro 4/5 references"
+  language: National languages / Russian
+  process: ["National certificate of conformity per vehicle type; check import rules."]
+  notes:
+    - "Uzbekistan's 1958 Agreement accession was reported in 2025; Tajikistan is a 1958 Agreement CP — verify current status at UNECE."
+    - "Mongolia drives on the right but permits RHD (Japanese-used) imports."
+  records: []
+  confidence: low

@@ -37,11 +37,22 @@ def search_hcno(session: Any, gb_number: str) -> tuple[str, str] | None:
 
     Searches the bare GB number; for a versioned query returns the exact-version
     row, otherwise the most recent version (by trailing year).
+
+    The portal search is a PREFIX match ("GB 1589" also returns "GB 15892-2020",
+    a water-treatment chemical), so only rows whose base number equals the query
+    — or is a ".N" part of it (GB/T 34590.10) — are eligible. An unrelated
+    standard is never returned; no eligible row means None.
     """
     bare = gb_number.split("-")[0].strip()
     resp = session.get(f"{BASE}/std_list?p.p2={quote(bare)}")
     resp.encoding = "utf-8"
+
+    def same_standard(label: str) -> bool:
+        base = label.split("-")[0].strip()
+        return base == bare or base.startswith(bare + ".")
+
     pairs = [(h.upper(), lbl.strip()) for h, lbl in _ROW_RE.findall(resp.text)]
+    pairs = [(h, lbl) for h, lbl in pairs if same_standard(lbl)]
     if not pairs:
         return None
     target = gb_number.strip()

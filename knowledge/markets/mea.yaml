@@ -1,0 +1,274 @@
+# Market profiles — Middle East & Africa. See americas.yaml header for field semantics.
+
+- code: SA
+  name: Saudi Arabia
+  group: Middle East
+  regions: [GCC]
+  aliases: [KSA, SASO, SABER, GSO]
+  drive: LHD
+  regime: type-approval
+  basis: "GSO/SASO technical regulations for motor vehicles (GSO standards largely referencing UN R/FMVSS) + SASO fuel-economy (CAFE) and labelling"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "SASO (Saudi Standards, Metrology and Quality Org.)", scope: "Vehicle technical regulation, SABER conformity platform, fuel economy (SASO 2864) & label (SASO 2847)", url: "https://www.saso.gov.sa" }
+    - { name: Ministry of Commerce, scope: "Recalls", url: "https://mc.gov.sa" }
+    - { name: "CST (Communications, Space & Technology Commission)", scope: "RF equipment", url: "https://www.cst.gov.sa" }
+  accepts: ["Evidence to UN Regulations or FMVSS (GSO standards allow either path for many items — 'US Standards' vs 'European Standards' variants)"]
+  marks:
+    - "SABER Product Certificate of Conformity (PCoC) per model + Shipment Certificate (SCoC) per consignment"
+    - "Fuel-economy label (SASO 2847) and CAFE compliance (SASO 2864)"
+    - "Arabic labels/owner info; GCC-spec climate requirements"
+  emissions: "GSO Euro-level limits (MY2027 step to Euro 6-equivalent per GSO plan — verify)"
+  language: Arabic (English accepted alongside)
+  process:
+    - "Notified body issues PCoC via SABER against the Saudi vehicle technical regulation; register importer/manufacturer CAFE fleet data."
+    - "Per shipment SCoC; customs clearance."
+  watch: ["GSO MY2027 technical-regulation update; EV technical regulation; Saudi eCall."]
+  records: [gcc-saso-saber-fuel-economy-label-for-new-light-vehicles, gcc-saso-2847-saso-2864-2022, gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3, gcc-saso-3004-2022]
+  confidence: medium
+
+- code: AE
+  name: United Arab Emirates
+  group: Middle East
+  regions: [GCC]
+  aliases: [UAE, MOIAT, ECAS, Dubai, Abu Dhabi]
+  drive: LHD
+  regime: type-approval
+  basis: "GSO technical regulations adopted as UAE standards + MOIAT Emirates Conformity Assessment Scheme (ECAS) vehicle conformity certificate"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: MOIAT (Ministry of Industry & Advanced Technology), scope: "ECAS conformity certificates for vehicles/tyres/EVs; UAE.S standards", url: "https://moiat.gov.ae" }
+    - { name: TDRA, scope: "RF equipment registration", url: "https://tdra.gov.ae" }
+  accepts: ["UN R / FMVSS evidence via GSO standards"]
+  marks: ["ECAS vehicle conformity certificate", "UAE fuel-economy label", "eCall (UAE.S 5019) compliance"]
+  emissions: "Euro 4–6 references per GSO plan"
+  language: Arabic / English
+  process: ["Obtain MOIAT conformity certificate (ECAS) per model before registration; TDRA approval for radios."]
+  records: [gcc-ecas-moiat-conformity-certificates, gcc-uae-s-5019-2024, gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011]
+  confidence: medium
+
+- code: GCC-OTHER
+  name: Kuwait, Qatar, Bahrain, Oman
+  group: Middle East
+  regions: [GCC]
+  aliases: [Kuwait, Qatar, Bahrain, Oman, GSO, Gulf]
+  members: [Kuwait, Qatar, Bahrain, Oman]
+  drive: LHD
+  regime: type-approval
+  basis: "GSO technical regulations for motor vehicles adopted nationally; GCC conformity certificate / national conformity overlays"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: GSO (GCC Standardization Organization), scope: "Common vehicle technical regulations and GSO standards", url: "https://www.gso.org.sa" }
+    - { name: "National standards bodies (Kuwait PAI/KUCAS, Qatar MoCI, Bahrain MoIC, Oman MoCIIP)", scope: "National conformity procedures", url: "https://www.gso.org.sa" }
+  accepts: ["UN R / FMVSS evidence via GSO standards"]
+  marks: ["GCC/national conformity certificate"]
+  emissions: "GSO Euro-level limits"
+  language: Arabic / English
+  process: ["Conformity certification per GSO regulation; national registration."]
+  records: [gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3, gcc-gso-42-2015]
+  confidence: low
+
+- code: IL
+  name: Israel
+  group: Middle East
+  regions: [IL]
+  drive: LHD
+  regime: recognition
+  basis: "Ministry of Transport and Road Safety import approval — recognises EU WVTA and (since 2020s reforms) US-standard vehicles; 'Direct Import' and 'Parallel Import' channels"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: Ministry of Transport and Road Safety — Vehicle Licensing Division, scope: "Type approval for import (homologation), recalls", url: "https://www.gov.il/en/departments/ministry_of_transport_and_road_safety" }
+    - { name: Ministry of Environmental Protection, scope: "Green tax / emissions grading", url: "https://www.gov.il/en/departments/ministry_of_environmental_protection" }
+  accepts: ["EU WVTA / CoC", "US FMVSS/EPA compliance (per recent reforms) — verify current scope"]
+  marks: ["Israeli type-approval (import licence) per model"]
+  emissions: "Euro 6 / EPA equivalent; green-tax pollution grading"
+  language: Hebrew (Arabic for some consumer info)
+  process: ["Importer applies for model type approval citing EU WVTA/US compliance; national add-ons (Hebrew manual, local warranty/service)."]
+  records: [il-workbook-reg-0627-israel-vehicle-import-type-approval-framework]
+  confidence: low
+
+- code: LEVANT
+  name: Jordan, Lebanon, Iraq
+  group: Middle East
+  regions: []
+  aliases: [Jordan, Lebanon, Iraq, JSMO, COSQC]
+  members: [Jordan, Lebanon, Iraq]
+  drive: LHD
+  regime: registration-inspection
+  basis: "National standards (Jordan JSMO technical regulations referencing GSO/UN R; Iraq COSQC with pre-shipment verification)"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Jordan — JSMO", scope: "Vehicle technical regulations", url: "https://www.jsmo.gov.jo" }
+    - { name: "Iraq — COSQC (pre-shipment conformity programme)", scope: "Import conformity", url: "https://cosqc.gov.iq" }
+  accepts: ["GCC-spec, EU or US-spec documentation"]
+  marks: ["Iraq: Certificate of Conformity via approved inspection bodies"]
+  emissions: "Euro 2–5 references"
+  language: Arabic
+  process: ["Pre-shipment/import conformity verification; registration."]
+  records: []
+  confidence: low
+
+- code: SANCTIONED
+  name: Iran, Syria, North Korea, Cuba, Yemen (restricted / sanctioned)
+  group: Middle East
+  regions: []
+  aliases: [Iran, Syria, North Korea, Cuba, Yemen]
+  members: [Iran, Syria, North Korea (DPRK), Cuba, Yemen]
+  drive: mixed
+  regime: restricted
+  basis: "Comprehensive or sectoral sanctions (US OFAC, EU, UK, UN) restrict vehicle/part exports and engagement"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: US Treasury OFAC, scope: "US sanctions programmes", url: "https://ofac.treasury.gov" }
+    - { name: EU sanctions map, scope: "EU restrictive measures", url: "https://www.sanctionsmap.eu" }
+  accepts: []
+  marks: []
+  emissions: "n/a"
+  language: n/a
+  process: ["Do not engage without trade-compliance/legal clearance."]
+  notes: ["Iran has its own ISIRI national standards (85-item quality/safety scheme); Yemen is listed for conflict-related restrictions — verify current sanctions scope."]
+  records: []
+  confidence: medium
+
+- code: ZA
+  name: South Africa
+  group: Africa
+  regions: [ZA]
+  aliases: [NRCS, SABS, SANS, VC 8056, Letter of Authority, SACU]
+  drive: RHD
+  regime: type-approval
+  basis: "NRCS compulsory specifications (VC series, many incorporating SANS = UN R) under the NRCS Act; National Road Traffic Act registration (NaTIS)"
+  un_1958: true
+  un_1998: true
+  authorities:
+    - { name: National Regulator for Compulsory Specifications (NRCS) — Automotive, scope: "Homologation — Letter of Authority (LoA) per model; CoP", url: "https://www.nrcs.org.za" }
+    - { name: SABS, scope: "Testing / SANS standards", url: "https://www.sabs.co.za" }
+    - { name: Department of Transport (NaTIS), scope: "Registration / Model Identification Code (MIC)", url: "https://www.transport.gov.za" }
+    - { name: ICASA, scope: "RF equipment", url: "https://www.icasa.org.za" }
+  accepts: ["UN R approvals (E47 and other CPs) for the VC/SANS items that incorporate them"]
+  marks: ["NRCS Letter of Authority (LoA) per model; E47 for SA-granted UN approvals", "CO2 emissions label (fuel economy & CO2 labelling, SANS 20101)"]
+  emissions: "Euro 2 (petrol)/Euro 4 practical limits historically due to fuel quality; Euro 5-ready fuels being introduced — verify"
+  language: English (plus other official languages for some consumer info)
+  process: ["Submit homologation dossier (UN approvals/test reports) to NRCS → LoA; NaTIS MIC registration; CoP audits."]
+  notes: ["SACU neighbours (Botswana, Namibia, Lesotho, Eswatini) largely recognise SA homologation."]
+  records: [za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series, za-workbook-reg-0623-vc-8056]
+  confidence: medium
+
+- code: EG
+  name: Egypt
+  group: Africa
+  regions: []
+  aliases: [EOS, GOEIC]
+  drive: LHD
+  regime: type-approval
+  basis: "Egyptian standards (EOS) largely transposing UN Regulations; 1958 Agreement CP; GOEIC import conformity"
+  un_1958: true
+  un_1998: null
+  authorities:
+    - { name: Egyptian Organization for Standardization & Quality (EOS), scope: "Vehicle standards", url: "https://www.eos.org.eg" }
+    - { name: GOEIC, scope: "Import control / conformity", url: "https://www.goeic.gov.eg" }
+    - { name: Ministry of Interior — Traffic, scope: "Registration", url: "https://moi.gov.eg" }
+  accepts: ["UN R approvals; EU WVTA documentation"]
+  marks: ["GOEIC release based on conformity evidence"]
+  emissions: "Euro 4/5 references"
+  language: Arabic
+  process: ["Import conformity (GOEIC) with UN R/EU evidence; registration."]
+  records: []
+  confidence: low
+
+- code: MAGHREB
+  name: Morocco, Algeria, Tunisia, Libya
+  group: Africa
+  regions: []
+  aliases: [Morocco, Algeria, Tunisia, Libya, CNEH, NARSA]
+  members: [Morocco, "Tunisia (E58)", Algeria, Libya]
+  drive: LHD
+  regime: type-approval
+  basis: "National homologation largely based on UN Regulations/EU approvals (Morocco NARSA/CNEH; Tunisia ATTT; Algeria Ministry of Industry conformity rules)"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: "Morocco — NARSA (Agence Nationale de la Sécurité Routière) / CNEH", scope: "Vehicle homologation & testing", url: "https://www.narsa.ma" }
+    - { name: "Tunisia — ATTT", scope: "Homologation & registration", url: "https://www.attt.com.tn" }
+  accepts: ["EU WVTA / UN R approvals"]
+  marks: ["National homologation certificate"]
+  emissions: "Euro 4–6 references"
+  language: Arabic / French
+  process: ["National homologation using EU/UN documentation; Algeria has periodic import quotas/restrictions — verify."]
+  notes: ["Tunisia is a 1958 Agreement CP (E58); Morocco and Algeria status unverified here."]
+  records: []
+  confidence: low
+
+- code: NG
+  name: Nigeria
+  group: Africa
+  regions: []
+  aliases: [SON, SONCAP, NADDC]
+  drive: LHD
+  regime: registration-inspection
+  basis: "SON product conformity (SONCAP) and Nigerian Industrial Standards; NADDC automotive policy"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: Standards Organisation of Nigeria (SON), scope: "SONCAP certificates for imports", url: "https://son.gov.ng" }
+    - { name: NADDC, scope: "Automotive industry development policy", url: "https://naddc.gov.ng" }
+  accepts: ["UN R / EU / US documentation as evidence"]
+  marks: ["SONCAP certificate per shipment/product"]
+  emissions: "Euro 2–4 references"
+  language: English
+  process: ["SONCAP product certificate + shipment certificate; registration."]
+  notes: ["Nigeria's 1958 Agreement accession status should be checked at UNECE."]
+  records: []
+  confidence: low
+
+- code: EAST-AFRICA
+  name: Kenya, Tanzania, Uganda, Rwanda, Ethiopia
+  group: Africa
+  regions: []
+  aliases: [Kenya, Tanzania, Uganda, Rwanda, Ethiopia, KEBS, PVoC, TBS, UNBS]
+  members: [Kenya, Tanzania, "Uganda (1958 CP, reported)", Rwanda, Ethiopia]
+  drive: mixed
+  regime: registration-inspection
+  basis: "Pre-export Verification of Conformity (PVoC) by national bureaus of standards; road-worthiness standards (e.g. Kenya KS 1515); used-import age limits"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: "Kenya — KEBS", scope: "PVoC, KS 1515 inspection, 8-year used-import age limit", url: "https://www.kebs.org" }
+    - { name: "Tanzania — TBS", scope: "PVoC", url: "https://www.tbs.go.tz" }
+    - { name: "Uganda — UNBS", scope: "PVoC", url: "https://www.unbs.go.ug" }
+  accepts: ["Japanese/UK/EU documentation (mostly RHD used imports)"]
+  marks: ["Certificate of Roadworthiness / Certificate of Conformity (PVoC)"]
+  emissions: "Limited; Euro references for new vehicles"
+  language: English / Swahili / Amharic
+  process: ["Pre-shipment inspection by appointed agent; registration."]
+  notes: ["Kenya, Tanzania, Uganda drive on the left (RHD); Rwanda and Ethiopia drive on the right (LHD; Rwanda debating RHD). Ethiopia restricted ICE imports in 2024 in favour of EVs — verify."]
+  records: []
+  confidence: low
+
+- code: AFRICA-OTHER
+  name: Other Sub-Saharan Africa (Ghana, Côte d'Ivoire, Senegal, Cameroon, Angola, Mozambique, Zambia, Zimbabwe, Botswana, Namibia, Mauritius, others)
+  group: Africa
+  regions: []
+  aliases: [Ghana, Ivory Coast, Senegal, Cameroon, Angola, Mozambique, Zambia, Zimbabwe, Botswana, Namibia, Mauritius, Madagascar, SADC, ECOWAS]
+  members: [Ghana, "Côte d'Ivoire", Senegal, Cameroon, Angola, Mozambique, Zambia, Zimbabwe, Botswana, Namibia, Mauritius, Madagascar]
+  drive: mixed
+  regime: registration-inspection
+  basis: "National standards bodies with pre-shipment conformity programmes; SACU states align with South Africa"
+  un_1958: null
+  un_1998: null
+  authorities:
+    - { name: "Ghana — GSA / DVLA", scope: "Standards / registration", url: "https://www.gsa.gov.gh" }
+  accepts: ["South African LoA (SACU), EU/UN R, Japanese documentation"]
+  marks: []
+  emissions: "Generally none or Euro 2–4 references; fuel-sulphur limits matter for aftertreatment"
+  language: English / French / Portuguese
+  process: ["Verified at import/registration; pre-shipment inspection where applicable."]
+  notes: ["RHD (drive on left): Mozambique, Zambia, Zimbabwe, Botswana, Namibia, Mauritius, Malawi; LHD: Ghana, Côte d'Ivoire, Senegal, Cameroon, Angola."]
+  records: []
+  confidence: low

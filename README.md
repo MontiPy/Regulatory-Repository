@@ -1,6 +1,9 @@
 # OEM-Agnostic Regulatory Repository
 
-An HTML reference tool for vehicle regulations across 21 regions. Regulation text is pulled directly from official government sources; classification and cross-references are added on top.
+A global vehicle-regulation lookup and certification reference for automotive certification,
+homologation and quality engineers working on consumer passenger vehicles (Honda, Toyota, Ford
+and similar). It combines **full regulation text pulled from official government sources** with a
+**curated certification knowledge layer** covering every vehicle market in the world.
 
 **Live site:** https://montipy.github.io/Regulatory-Repository/ (auto-deployed from `main`).
 
@@ -13,7 +16,27 @@ python -m http.server -d dist 8000      # then open http://localhost:8000/
 
 ---
 
-## What is this?
+## What can I do with it?
+
+| Question | Where | What you get |
+|---|---|---|
+| "What governs this part/system?" | **Regulations** (search + facets) | 728 regulations (FMVSS, CMVSS, UN R, EU, JVSR, KMVSS, GB, ADR, CONTRAN, GSO, AIS…) with full text where public, classified by system / commodity / vehicle category. |
+| "How do I get a vehicle approved in country X?" | **Markets** (`?view=markets`, `?view=market&code=JP`) | 48 market profiles covering 155 countries and territories, grouped by world region (plus sanctioned/restricted markets flagged as such): certification regime (self-certification, type approval, hybrid, recognition, registration/inspection), authorities with links, UN 1958/1998 Agreement status, accepted foreign approvals, mandatory marks/labels/certificates, emissions level, language, step-by-step approval process, upcoming changes, and a per-market requirement map. |
+| "What is this requirement called in every other market?" | **Crosswalk** (`?view=crosswalk`, `?view=topic&t=side-pole`) | 69 requirement topics (frontal/side/pole impact, belts, ISOFIX, ESC, AEB, lighting, glazing, TPMS, EV safety, REESS, emissions, CO2, EMC, cybersecurity, OTA, VIN, recalls…) × 11 regimes (US, CA, UN R, EU, JP, KR, CN, IN, AU, BR, GCC). Each cell carries the citation, status (mandatory / phase-in / proposed / voluntary / none), engineering notes and one-click links to the regulation text. |
+| "What's my compliance checklist for this launch?" | **Launch planner** (`?view=planner&m=US,EU,CN&pt=BEV`) | Pick target markets + powertrain (ICE/HEV/PHEV/BEV/FCEV) → per-market approval routes and a requirement checklist mapped to each market's governing regulation (UN R basis inferred for 1958-Agreement markets). **Export CSV** for a compliance matrix / DVP&R, or print. Every plan is a shareable URL. |
+| "What does CoP / IWVTA / RAV / OTTS / SABER mean?" | **Glossary** (`?view=glossary`) | 45 certification and homologation terms linked to the markets and instruments that use them. |
+
+Searching in the header also surfaces matching **market profiles, crosswalk topics and glossary
+terms** above the regulation results (e.g. "Saudi", "ISOFIX", "R94").
+
+> **Reference aid, not legal advice.** The knowledge layer is curated by hand. Every market
+> profile carries a confidence level (high / medium / low), and un-verified UN-agreement
+> memberships are shown as "?" rather than guessed. Confirm the current instrument, series and
+> transitional dates with the authority before any certification decision.
+
+---
+
+## Regulation corpus
 
 Vehicle engineers need to know which regulations apply to a given commodity (e.g., Seats) or system (e.g., Braking) in each market. Today this requires hunting across agency websites, internal spreadsheets, and second-hand summaries.
 
@@ -23,7 +46,7 @@ Current coverage: **728 records** across **21 regions** — 697 from live connec
 
 | Region | Code | Source connector | Records |
 |--------|------|-----------|---------|
-| United States | US | eCFR (49 CFR Part 571 FMVSS; 40/47 CFR) | 142 |
+| United States | US | eCFR (49 CFR Part 571 FMVSS; 40/47 CFR) | 141 |
 | Australia | AU | Federal Register of Legislation (ADR) | 99 |
 | UNECE | ECE | UNECE WP.29 (UN Regulations) | 86 |
 | South Korea | KR | law.go.kr (KMVSS) | 83 |
@@ -118,6 +141,42 @@ Output in `dist/`: `index.html` + `assets/` (CSS, JS, vendored MiniSearch) + `da
 
 ---
 
+## Certification knowledge layer (`knowledge/`)
+
+Hand-curated YAML, validated and compiled by `scripts/knowledge.py` during `scripts/build.py`
+into `dist/data/markets.json`, `crosswalk.json` and `glossary.json`:
+
+```
+knowledge/
+├── markets/                 one file per world region (americas, europe, asia_pacific, mea)
+│   └── *.yaml               market profiles — see the header of americas.yaml for field semantics
+├── crosswalk.yaml           columns (regimes) × topics (requirements) with cited cells
+└── glossary.yaml            certification terms
+```
+
+Validation is strict — any of these **fail the build**:
+
+- a `records:` id that does not exist in `regulations/` (so links can never silently rot);
+- unknown or missing keys, duplicate market codes / topic ids;
+- enum violations (`regime`, `drive`, `confidence`, cell `status`, `powertrains`, world-region `group`);
+- a `regions:` value not in `taxonomy.yaml`, or a non-http(s) authority URL;
+- a crosswalk column pointing at an unknown market, or a glossary term at an unknown market.
+
+**Adding a market:** append an entry to the relevant `knowledge/markets/<region>.yaml`
+(`code`, `name`, `group`, `regions`, `drive`, `regime`, `basis`, `un_1958`/`un_1998` — use `null`
+when not verified — `authorities`, `accepts`, `marks`, `emissions`, `language`, `process`,
+`records`, `confidence`; optional `aliases`, `members`, `watch`, `notes`). Quote any value that
+contains a comma inside `{ … }` flow mappings.
+
+**Adding a crosswalk topic:** add an item under `topics:` with an `id`, a declared `group`,
+`title`, `description`, `powertrains` (`[all]` or a subset of ICE/HEV/PHEV/BEV/FCEV), optional
+`gtr`, and `cells` keyed by column (`cite` required; `records`, `status`, `note` optional). An
+absent cell means *not mapped yet*; use `status: none` to state that a market has no requirement.
+
+Update `reviewed:` in `crosswalk.yaml` whenever citations are re-checked.
+
+---
+
 ## Hosting (GitHub Pages)
 
 The site auto-deploys to GitHub Pages on every push to `main` via `.github/workflows/deploy.yml`, which builds the bundle and publishes `dist/` (kept gitignored — always built fresh). All asset/data paths are relative, so it works under the project sub-path `…github.io/Regulatory-Repository/`.
@@ -142,6 +201,7 @@ python scripts/build.py
 Regulatory Repository/
 ├── README.md
 ├── taxonomy.yaml                    controlled vocabularies for tagging
+├── knowledge/                       curated markets / crosswalk / glossary (see above)
 ├── requirements.txt
 ├── regulations/                     generated .md files, one per regulation
 ├── connectors/                      per-region API clients
@@ -158,6 +218,7 @@ Regulatory Repository/
 │   ├── pull.py                      Stage 1 orchestrator
 │   ├── auto_tag.py                  Stage 2: LLM tagging via Anthropic Batch API
 │   ├── build.py                     Stage 3 HTML builder
+│   ├── knowledge.py                 validates + compiles knowledge/ (called by build.py)
 │   ├── tag_export.py / tag_import.py  legacy manual-batch tagging (optional)
 │   └── ...                          extract_un_equivalent.py, infer_un_equivalent.py, gen_stubs.py, etc.
 ├── tagging_batches/                 staging for the legacy manual tagging workflow

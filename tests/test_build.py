@@ -356,6 +356,7 @@ class TestBuildBundleIntegration:
         from scripts import build as build_mod
         monkeypatch.setattr(build_mod, "REGULATIONS_DIR", Path(__file__).parent / "fixtures" / "regs")
         monkeypatch.setattr(build_mod, "DIST_DIR", tmp_path / "dist")
+        monkeypatch.setattr(build_mod, "REPORT_PATH", tmp_path / "build_report.txt")
         rc = build_mod.build(draft=True)
         dist = tmp_path / "dist"
         assert (dist / "index.html").exists()
@@ -368,7 +369,13 @@ class TestBuildBundleIntegration:
         assert (dist / "data" / "taxonomy.json").exists()
         search = json.loads((dist / "data" / "search-text.json").read_text(encoding="utf-8"))
         assert any("brake" in s["text"].lower() for s in search)
-        assert rc in (0, 1)
+        for name in ("markets", "crosswalk", "glossary"):
+            assert (dist / "data" / f"{name}.json").exists()
+        # The curated knowledge layer links hundreds of real records; against this
+        # two-record fixture corpus those links dangle, which must fail the build.
+        report = (tmp_path / "build_report.txt").read_text(encoding="utf-8")
+        assert "ERROR knowledge - " in report
+        assert rc == 1
 
 
 from scripts.build import derive_related, build_un_index

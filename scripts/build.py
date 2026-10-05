@@ -26,6 +26,11 @@ try:
 except ImportError:
     from _fsutil import list_md_files
 
+try:
+    from scripts.knowledge import build_knowledge
+except ImportError:
+    from knowledge import build_knowledge
+
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS_DIR = ROOT / "assets"
@@ -397,6 +402,15 @@ def write_search_text(records: list[dict[str, Any]], dist_dir: Path) -> None:
     )
 
 
+def write_knowledge_json(knowledge: dict[str, Any], dist_dir: Path) -> None:
+    """Write the curated knowledge layer (markets, crosswalk, glossary)."""
+    data_dir = _ensure_data_dir(dist_dir)
+    for name in ("markets", "crosswalk", "glossary"):
+        (data_dir / f"{name}.json").write_text(
+            json.dumps(knowledge[name], ensure_ascii=False), encoding="utf-8"
+        )
+
+
 def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) -> tuple[dict[str, Any], list[BuildIssue]]:
     import frontmatter
 
@@ -556,7 +570,12 @@ def build(draft: bool) -> int:
     un_index = build_un_index(records)
     warn_for_missing_related(records, issues_by_id)
 
+    knowledge, knowledge_errors = build_knowledge(
+        {r["id"] for r in records if r.get("id")}, set(taxonomy.get("regions", []))
+    )
+
     report_lines = [report_line(record, issues) for record, issues in entries]
+    report_lines += [f"ERROR knowledge - {message}" for message in knowledge_errors]
     REPORT_PATH.write_text("\n".join(report_lines) + ("\n" if report_lines else ""), encoding="utf-8")
     region_series = load_region_series()
     region_counts = dict(Counter(r["region"] for r in records if r.get("region")))
@@ -566,6 +585,8 @@ def build(draft: bool) -> int:
         "count": len(records),
         "region_counts": region_counts,
         "tagging_status_counts": tagging_status_counts,
+        "market_count": len(knowledge["markets"]["markets"]),
+        "topic_count": len(knowledge["crosswalk"]["topics"]),
     }
 
     DIST_DIR.mkdir(parents=True, exist_ok=True)
@@ -573,6 +594,7 @@ def build(draft: bool) -> int:
     write_record_bodies(records, DIST_DIR)
     write_taxonomy_json(taxonomy, region_series, un_index, DIST_DIR)
     write_search_text(records, DIST_DIR)
+    write_knowledge_json(knowledge, DIST_DIR)
     copy_static_assets(DIST_DIR)
     render_shell(build_meta, DIST_DIR)
 
@@ -581,7 +603,9 @@ def build(draft: bool) -> int:
         for _record, issues in entries
         for issue in issues
         if issue.severity == "ERROR"
-    )
+    ) + len(knowledge_errors)
+    for message in knowledge_errors:
+        print(f"ERROR knowledge: {message}", file=sys.stderr)
     warning_count = sum(
         1
         for _record, issues in entries

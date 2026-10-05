@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Regulatory Repository</title>
+  <title>Regulatory Repository — Global Vehicle Certification Reference</title>
+  <meta name="description" content="Vehicle regulation lookup for certification and homologation engineers: full-text regulations, market approval profiles, a cross-market requirement crosswalk, and a launch planner.">
   <!-- Type is served from system-font stacks (see styles.css :root) so the tool
        loads with no external font CDN — works offline and on internal hosting. -->
   <link rel="stylesheet" href="assets/styles.css">
@@ -26,6 +27,13 @@
         <button type="button" class="btn-util" id="theme-toggle">Dark</button>
       </div>
     </div>
+    <nav class="site-nav" aria-label="Sections">
+      <a href="./" data-nav="regulations">Regulations</a>
+      <a href="?view=markets" data-nav="markets">Markets</a>
+      <a href="?view=crosswalk" data-nav="crosswalk">Crosswalk</a>
+      <a href="?view=planner" data-nav="planner">Launch planner</a>
+      <a href="?view=glossary" data-nav="glossary">Glossary</a>
+    </nav>
 
   </header>
 
@@ -37,7 +45,7 @@
 
     <div class="home-hero">
       <div class="hero-main">
-        <p class="hero-eyebrow">Vehicle regulations · global coverage</p>
+        <p class="hero-eyebrow">Vehicle regulations · {{ build_meta.market_count }} market profiles · certification reference</p>
         <h1 class="home-title">Find every requirement that governs your part.</h1>
         <p class="coverage-line" id="coverage-line"></p>
         <div class="hero-search">
@@ -53,6 +61,29 @@
         <p class="feature-foot" id="feature-foot"></p>
       </aside>
     </div>
+
+    <section class="home-tools" aria-label="Certification tools">
+      <a class="tool-card" href="?view=planner" data-nav-tool="planner">
+        <span class="tool-kicker">Plan</span>
+        <strong>Launch planner</strong>
+        <span>Pick target markets and a powertrain to get the approval route and a per-market requirement checklist you can export to CSV.</span>
+      </a>
+      <a class="tool-card" href="?view=crosswalk" data-nav-tool="crosswalk">
+        <span class="tool-kicker">Compare</span>
+        <strong>Requirement crosswalk</strong>
+        <span>{{ build_meta.topic_count }} requirement topics mapped across FMVSS, CMVSS, UN R, EU, Japan, Korea, China, India, ADR, Brazil and GCC.</span>
+      </a>
+      <a class="tool-card" href="?view=markets" data-nav-tool="markets">
+        <span class="tool-kicker">Look up</span>
+        <strong>Market profiles</strong>
+        <span>Regime, authorities, accepted approvals, marks, emissions level and process for every market — from the US and EU to the Caribbean and Africa.</span>
+      </a>
+      <a class="tool-card" href="?view=glossary" data-nav-tool="glossary">
+        <span class="tool-kicker">Learn</span>
+        <strong>Glossary</strong>
+        <span>CoP, CoC, IWVTA, CSMS, CCC, RAV, CAT, OTTS, SABER, Part 573 and the rest of the certification vocabulary.</span>
+      </a>
+    </section>
 
     <div class="home-panels">
       <section class="dir-panel" data-panel="systems">
@@ -93,6 +124,7 @@
     <main>
       <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters-panel">Filters</button>
       <div class="chip-bar hidden" id="chip-bar" aria-label="Active filters"></div>
+      <div class="ref-hints hidden" id="ref-hints" aria-label="Related reference pages"></div>
       <p id="result-count" aria-live="polite">Showing 0 of 0</p>
       <p id="result-order" class="result-order"></p>
       <section class="cards" id="cards" aria-label="Regulations"></section>
@@ -115,12 +147,16 @@
     </aside>
   </div>
 
+  <section id="ref-view" class="ref-view hidden" aria-live="polite"></section>
+
   <div id="tip" role="tooltip" aria-hidden="true"></div>
 
   <footer class="site-footer">
-    <span>Built {{ build_meta.timestamp }} &nbsp;&bull;&nbsp; {{ build_meta.count }} regulations &nbsp;&bull;&nbsp; {{ build_meta.region_counts|length }} regions</span>
+    <span>Built {{ build_meta.timestamp }} &nbsp;&bull;&nbsp; {{ build_meta.count }} regulations &nbsp;&bull;&nbsp; {{ build_meta.region_counts|length }} regions &nbsp;&bull;&nbsp; {{ build_meta.market_count }} market profiles</span>
+    <span class="footer-disclaimer">Reference aid only — confirm every requirement against the official source before certification decisions.</span>
   </footer>
   <script src="assets/vendor/minisearch.min.js"></script>
+  <script src="assets/reference.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>

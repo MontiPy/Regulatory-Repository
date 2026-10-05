@@ -1,0 +1,332 @@
+# Market profiles — the Americas.
+#
+# Curated reference data for certification / homologation engineers. Every entry is
+# hand-authored from domain knowledge and MUST be confirmed against the named authority
+# before it is relied on for a certification decision. `confidence` reflects how
+# settled / well-documented the regime is, not a guarantee:
+#   high   — stable, well-documented regime; details unlikely to be wrong
+#   medium — structure is right, specific instruments/dates may have moved
+#   low    — thin public documentation; treat as a starting pointer only
+# `un_1958` / `un_1998`: true / false, or null when not verified.
+# Schema is enforced by scripts/knowledge.py (run as part of scripts/build.py).
+
+- code: US
+  name: United States
+  group: North America
+  regions: [US]
+  aliases: [USA, America, Puerto Rico, Guam]
+  drive: LHD
+  regime: self-certification
+  basis: FMVSS (49 CFR Part 571) + EPA/CARB emissions & GHG + NHTSA CAFE
+  un_1958: false
+  un_1998: true
+  authorities:
+    - { name: NHTSA, scope: "Vehicle safety (FMVSS), recalls, CAFE, theft, EDR", url: "https://www.nhtsa.gov" }
+    - { name: US EPA, scope: "Exhaust/evap emissions, GHG, fuel-economy labels, refrigerants (SNAP)", url: "https://www.epa.gov/ve-certification" }
+    - { name: California Air Resources Board (CARB), scope: "California + Section 177 states emissions/ZEV (LEV IV, ACC II)", url: "https://ww2.arb.ca.gov" }
+    - { name: FCC, scope: "Intentional radiators (keyless entry, radar, telematics) — 47 CFR Part 15/95", url: "https://www.fcc.gov/oet/ea" }
+  accepts: []
+  marks:
+    - "Certification label on door pillar (49 CFR 567) — manufacturer certifies compliance with all applicable FMVSS, bumper (Part 581) and theft (Part 541) standards"
+    - "Tire & loading information placard (FMVSS 110)"
+    - "EPA Certificate of Conformity + Vehicle Emission Control Information (VECI) label (40 CFR 86/1066)"
+    - "Monroney window sticker (15 U.S.C. 1232) with EPA/NHTSA fuel economy & environment label (40 CFR 600 Subpart D)"
+    - "Parts marking for high-theft lines (49 CFR 541) unless exempted under Part 543"
+  emissions: "EPA Tier 3 → 2027+ multi-pollutant standards (light-/medium-duty); CARB LEV III → LEV IV / Advanced Clean Cars II in CA and adopting states. Status of federal waivers and ACC II enforcement has been litigated — verify current position."
+  language: English (Spanish additionally expected for Puerto Rico consumer information)
+  process:
+    - "Register as a manufacturer: Part 565 VIN-decoder/manufacturer-identifier submission at least 60 days before affixing the first VIN, and Part 566 manufacturer identification within 30 days of beginning manufacture."
+    - "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D)."
+    - "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests."
+    - "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce."
+    - "Import: CBP entry with HS-7 declaration (box 2A for conforming vehicles) and EPA Form 3520-1."
+    - "Post-market: defect & noncompliance reports within 5 working days (Part 573), owner notification (Part 577), quarterly Early Warning Reporting (Part 579)."
+  watch:
+    - "FMVSS 127 — AEB incl. pedestrian AEB for light vehicles (final rule 2024; compliance phase-in from Sept 2029; subject to reconsideration petitions)."
+    - "FMVSS 305a — EV electrical safety incl. REESS (final rule 2024)."
+    - "Rear-seat belt reminder (FMVSS 208 amendment) and proposed heavy-vehicle AEB."
+    - "Connected-vehicle import/sale prohibition for VCS/ADS hardware & software tied to China/Russia (15 CFR 791, BIS, final rule Jan 2025; software MY2027, hardware MY2030)."
+  notes:
+    - "States cannot set different safety standards (federal preemption), but CARB and §177 states set emissions; Massachusetts has a telematics right-to-repair law."
+    - "Low-volume / small manufacturers: Part 555 temporary exemptions; replica vehicle program (Part 586)."
+    - "Gray-market imports must be brought into compliance by a Registered Importer (Part 592) and are only possible for vehicles NHTSA has determined eligible (Part 593)."
+  records: [us-cfr-part-567, us-cfr-part-565, us-cfr-part-566, us-cfr-part-573, us-cfr-part-577, us-cfr-part-579, us-cfr-part-541, us-cfr-part-581, us-cfr-part-563, us-cfr-part-551, us-cfr-part-555, us-cfr-part-592, us-40cfr-part-86, us-40cfr-part-600, us-40cfr-part-1066, us-47cfr-part-15, us-stub-title-13-ccr-1961-4-1962-4-1962-8, us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386, us-stub-california-proposition-65]
+  confidence: high
+
+- code: CA
+  name: Canada
+  group: North America
+  regions: [CA]
+  drive: LHD
+  regime: self-certification
+  basis: CMVSS under the Motor Vehicle Safety Act / Motor Vehicle Safety Regulations (C.R.C., c. 1038) — closely harmonized with FMVSS
+  un_1958: false
+  un_1998: true
+  authorities:
+    - { name: Transport Canada (Motor Vehicle Safety), scope: "CMVSS, defect/recall, import", url: "https://tc.canada.ca/en/road-transportation/motor-vehicle-safety" }
+    - { name: Environment and Climate Change Canada (ECCC), scope: "On-Road Vehicle & Engine Emission Regs, GHG, ZEV availability standard", url: "https://www.canada.ca/en/environment-climate-change.html" }
+    - { name: ISED Canada, scope: "Radio equipment certification (RSS-Gen, ICES)", url: "https://ised-isde.canada.ca" }
+    - { name: Registrar of Imported Vehicles (RIV), scope: "Admissibility of US-certified vehicles imported after first retail sale", url: "https://www.riv.ca" }
+  accepts:
+    - "US-certified vehicles are admissible via the RIV program when on Transport Canada's admissibility list (generally used/personal imports)"
+    - "Several CMVSS expressly allow UN Regulation or FMVSS alternatives (e.g. lighting, head restraints, glazing) — check each standard's text"
+  marks:
+    - "Compliance label: either the National Safety Mark (Canadian manufacturers, authorized by TC) or a Statement of Compliance label (importers/foreign manufacturers) — MVSR s.6 / s.7"
+    - "Tire information placard and bilingual labelling"
+  emissions: "ECCC regulations aligned with US EPA Tier 3; GHG standards aligned with US; Electric Vehicle Availability Standard (ZEV sales targets) adopted 2023 — check for amendments/pauses."
+  language: "English AND French for labels, owner's manual safety content, and recall notices"
+  process:
+    - "Self-certify to applicable CMVSS (largely FMVSS-equivalent; Canadian-unique items include daytime running lamps (CMVSS 108), immobilization system (CMVSS 114), bilingual telltales/labels)."
+    - "Apply the compliance label; foreign manufacturers/importers file the importer's declaration (Form 1) at the border."
+    - "Emissions: ECCC accepts EPA certification evidence for vehicles sold concurrently in the US; maintain evidence of conformity."
+    - "Post-market: notice of defect to the Minister and owners (MVSA s.10); Transport Canada can order recalls since 2018 amendments."
+  watch:
+    - "CMVSS updates tracking FMVSS 127 (AEB) and EV safety amendments."
+    - "Electric Vehicle Availability Standard — 2026 model-year target status."
+  notes:
+    - "Canada-unique: DRL required on all new vehicles; immobilizer required; metric/bilingual displays."
+  records: [ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038, ca-mvsr-c-r-c---c--1038-s108, ca-mvsr-c-r-c---c--1038-s114, ca-mvsr-sor-2003-2, ca-mvsr-sor-2010-201, ca-mvsr-sor-2013-198, ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices]
+  confidence: high
+
+- code: MX
+  name: Mexico
+  group: North America
+  regions: [MX]
+  drive: LHD
+  regime: hybrid
+  basis: "NOM (Normas Oficiales Mexicanas) — NOM-194-SE-2021 safety devices; emissions NOMs (SEMARNAT)"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: Secretaría de Economía (SE / DGN), scope: "NOM-194 safety devices, conformity assessment", url: "https://www.gob.mx/se" }
+    - { name: SEMARNAT / PROFEPA, scope: "Exhaust emissions (NOM-042-SEMARNAT-2003, NOM-076), CO2 (NOM-163-SEMARNAT-SCFI-2023)", url: "https://www.gob.mx/semarnat" }
+    - { name: SICT, scope: "Federal transport / weights & dimensions (NOM-012)", url: "https://www.gob.mx/sct" }
+  accepts:
+    - "NOM-194 accepts compliance evidence to FMVSS or UN Regulations for the listed safety devices"
+  marks:
+    - "NOM conformity evidence (certificate or manufacturer declaration, per the NOM's conformity-assessment procedure)"
+    - "Spanish consumer information / labelling (NOM-050-SCFI commercial information)"
+  emissions: "NOM-042-SEMARNAT-2003 (Tier/Euro-based limits, update in process); NOM-163-SEMARNAT-SCFI-2023 CO2 fleet targets"
+  language: Spanish
+  process:
+    - "Demonstrate NOM-194 safety-device compliance (frontal/side protection evidence, ESC, belts, ABS, CRS anchorages, etc. phased by date) using FMVSS or UN R test evidence."
+    - "Emissions certification/evidence under NOM-042 before commercialization; fleet CO2 reporting under NOM-163."
+    - "Spanish-language labels and owner's information."
+  watch:
+    - "NOM-194 phase-in items (pedestrian protection, ESC, side impact) — verify the current applicability table."
+  notes:
+    - "Many US-market vehicles are sold in Mexico on FMVSS evidence; UN R evidence is equally accepted for NOM-194 items."
+  records: [mx-workbook-reg-0610-nom-194-se-2021, us-stub-nom-042-semarnat-2003, mx-workbook-reg-0612-nom-163-semarnat-scfi-2023]
+  confidence: medium
+
+- code: CENTAM
+  name: Central America (Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Belize)
+  group: Central America & Caribbean
+  regions: []
+  aliases: [Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Belize, RTCA]
+  members: [Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Belize]
+  drive: LHD
+  regime: registration-inspection
+  basis: "National transport/registration rules; Central American Technical Regulations (RTCA) for some items; Costa Rica MOPT/RTV technical inspection"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Costa Rica — MOPT / RTV (Riteve) technical inspection", scope: "Registration & periodic inspection", url: "https://www.mopt.go.cr" }
+    - { name: "Panama — ATTT", scope: "Transit & registration", url: "https://www.transito.gob.pa" }
+  accepts:
+    - "Vehicles built to US (FMVSS/EPA) or UN/EU specs are generally registrable; emission limits reference US or Euro levels"
+  marks: []
+  emissions: "Country-specific; generally Euro 4–6 or US-equivalent references; Costa Rica applies inspection-based emission limits"
+  language: Spanish (English in Belize)
+  process:
+    - "No whole-vehicle type approval in most countries — compliance is checked at import/registration and periodic inspection."
+    - "Check national used-vehicle age limits and fuel-quality constraints (diesel sulphur) for emissions hardware."
+  notes:
+    - "Belize is RHD-tolerant but drives on the right; confirm local rules."
+  records: []
+  confidence: low
+
+- code: CARIB
+  name: Caribbean (Dominican Republic, Jamaica, Trinidad & Tobago, Bahamas, Barbados, other CARICOM)
+  group: Central America & Caribbean
+  regions: []
+  aliases: [Dominican Republic, Jamaica, Trinidad and Tobago, Bahamas, Barbados, CARICOM, Haiti, Guyana, Suriname]
+  members: [Dominican Republic, Haiti, Jamaica, Trinidad and Tobago, Bahamas, Barbados, Guyana, Suriname, OECS states]
+  drive: mixed
+  regime: registration-inspection
+  basis: "National road-traffic and import rules; bureau-of-standards specifications (e.g. Jamaica BSJ, TTBS)"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Dominican Republic — INTRANT / DGII", scope: "Transit & registration", url: "https://intrant.gob.do" }
+    - { name: "Jamaica — Bureau of Standards Jamaica (BSJ) / Trade Board", scope: "Import standards, used-vehicle age limits", url: "https://www.bsj.org.jm" }
+    - { name: "Trinidad & Tobago — TTBS / Licensing Authority", scope: "Standards & licensing", url: "https://ttbs.org.tt" }
+  accepts:
+    - "Japanese (JIS), UK/EU and US-spec vehicles are common; RHD markets largely source Japanese/UK spec"
+  marks: []
+  emissions: "Generally no type-approval emissions regime; fuel quality varies"
+  language: "English (most CARICOM), Spanish (DR), French/Creole (Haiti), Dutch (Suriname)"
+  process:
+    - "Compliance verified at import/registration; used-vehicle age limits common."
+  notes:
+    - "Drive side differs: LHD — Dominican Republic, Haiti, Cuba, Puerto Rico; RHD (drive on left) — Jamaica, Trinidad & Tobago, Bahamas, Barbados, Guyana, Suriname, most Eastern Caribbean."
+  records: []
+  confidence: low
+
+- code: BR
+  name: Brazil
+  group: South America
+  regions: [BR]
+  drive: LHD
+  regime: type-approval
+  basis: "CONTRAN resolutions (safety) + CONAMA/PROCONVE (emissions) + INMETRO compulsory component certification"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: SENATRAN (formerly DENATRAN), scope: "Vehicle homologation — CAT certificate, RENAVAM registration code", url: "https://www.gov.br/transportes/pt-br/assuntos/transito/senatran" }
+    - { name: IBAMA, scope: "PROCONVE emissions licence (LCVM) and noise", url: "https://www.gov.br/ibama" }
+    - { name: INMETRO, scope: "Compulsory certification of components (tyres, glazing, CRS, batteries, lamps, etc.) and PBEV energy label", url: "https://www.gov.br/inmetro" }
+    - { name: ANATEL, scope: "Telecom/RF product homologation", url: "https://www.gov.br/anatel" }
+  accepts:
+    - "Many CONTRAN resolutions accept test evidence to UN Regulations or FMVSS for specific items (e.g. ESC, frontal impact) — check each resolution"
+  marks:
+    - "CAT — Certificado de Adequação à Legislação de Trânsito (SENATRAN) per vehicle model/version"
+    - "LCVM — Licença para Uso da Configuração de Veículo ou Motor (IBAMA/PROCONVE)"
+    - "INMETRO conformity mark on regulated components"
+    - "ANATEL homologation label on RF devices"
+  emissions: "PROCONVE L8 (from 2025, fleet-average NMOG+NOx) with RDE monitoring (IBAMA IN 3/2021); MOVER programme (efficiency/decarbonisation incentives, successor to Rota 2030)"
+  language: Portuguese
+  process:
+    - "Obtain IBAMA LCVM for each vehicle/engine configuration (emissions, noise, evap)."
+    - "Compile CONTRAN compliance evidence; SENATRAN issues the CAT (Portaria 990/2022 procedure) and assigns RENAVAM codes."
+    - "Ensure INMETRO-certified components and ANATEL-homologated radios."
+    - "Portuguese labels, owner manual, and Vehicle Safety Label/consumer info."
+  watch:
+    - "PROCONVE L8 phases (2025 / 2027 / 2029 fleet-average steps)."
+    - "CONTRAN phase-ins: side pole impact (949/2022), ESC (954/2022), seat-belt reminder (936/2022)."
+  notes:
+    - "Mercosur trade with Argentina often uses shared test evidence, but each country issues its own approval."
+  records: [br-senatran-990, br-conama-492, br-ibama-in-3, br-contran-910, br-contran-949, br-contran-954, br-contran-912, br-anatel-cert, br-mover-rota-2030]
+  confidence: medium
+
+- code: AR
+  name: Argentina
+  group: South America
+  regions: [AR]
+  drive: LHD
+  regime: type-approval
+  basis: "Ley Nacional de Tránsito 24.449 and Decree 779/95 (Annex) — LCM safety configuration licence + LCA environmental licence"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Secretaría de Industria / Dirección de Industria (LCM issuance)", scope: "Licencia para Configuración de Modelo (LCM)", url: "https://www.argentina.gob.ar/produccion" }
+    - { name: "Secretaría de Ambiente (LCA)", scope: "Licencia de Configuración Ambiental (emissions/noise)", url: "https://www.argentina.gob.ar/ambiente" }
+    - { name: INTI, scope: "Technical evaluation / testing support", url: "https://www.inti.gob.ar" }
+  accepts:
+    - "UN Regulation and FMVSS test evidence are commonly accepted for safety items in the LCM dossier"
+  marks:
+    - "LCM and LCA licences per model configuration"
+  emissions: "Euro 5 equivalent historically; Euro 6 phase-in announced — verify current step"
+  language: Spanish
+  process:
+    - "Submit LCM dossier with safety evidence (UN R/FMVSS) and LCA dossier with emissions/noise evidence."
+    - "Licences are prerequisites for import clearance and registration."
+  records: [ar-workbook-reg-0624-lcm-lca]
+  confidence: low
+
+- code: CL
+  name: Chile
+  group: South America
+  regions: []
+  drive: LHD
+  regime: type-approval
+  basis: "Ministry of Transport (MTT) homologation via 3CV; Decree-based safety equipment requirements; Ley 21.305 energy efficiency"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "MTT — Centro de Control y Certificación Vehicular (3CV)", scope: "Homologation (emissions, safety equipment), labelling", url: "https://www.mtt.gob.cl" }
+    - { name: Ministerio de Energía, scope: "Fuel-efficiency standards (Ley 21.305) and energy label", url: "https://energia.gob.cl" }
+  accepts:
+    - "Evidence to UN Regulations, EU, or US standards is used for safety-equipment and emissions homologation"
+  marks:
+    - "Homologation certificate (3CV) and vehicle energy-efficiency label"
+  emissions: "Euro 6b/c or US Tier 3 equivalent for light vehicles (phased since 2022) — verify current level"
+  language: Spanish
+  process:
+    - "3CV homologation testing/document review for emissions and listed safety items."
+    - "Energy-efficiency (Ley 21.305) fleet standard and consumer label."
+  records: []
+  confidence: low
+
+- code: CO
+  name: Colombia
+  group: South America
+  regions: []
+  drive: LHD
+  regime: hybrid
+  basis: "MinCIT technical regulation for vehicles (Res. 3752/2015 and successors) referencing UN R / FMVSS; Ministry of Environment emission rules"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Ministerio de Comercio, Industria y Turismo (MinCIT)", scope: "Vehicle safety technical regulation (reglamento técnico)", url: "https://www.mincit.gov.co" }
+    - { name: Ministerio de Ambiente / ANLA, scope: "Emissions certification", url: "https://www.minambiente.gov.co" }
+    - { name: Ministerio de Transporte / RUNT, scope: "Registration (homologación for some categories)", url: "https://www.mintransporte.gov.co" }
+  accepts:
+    - "Conformity evidence to UN Regulations or FMVSS for listed safety devices (belts, airbags, ABS/ESC, etc.)"
+  marks:
+    - "Certificate of conformity with the technical regulation; emissions certification"
+  emissions: "Euro 6/Tier 3 equivalent required for new light vehicles under Ley 1972/2019 (phase-in) — verify dates"
+  language: Spanish
+  process:
+    - "Certificate of conformity to the MinCIT technical regulation before import/sale."
+    - "Emissions certification; register in RUNT."
+  records: []
+  confidence: low
+
+- code: ANDEAN
+  name: Peru, Ecuador, Bolivia, Venezuela
+  group: South America
+  regions: []
+  aliases: [Peru, Ecuador, Bolivia, Venezuela, INEN, RTE INEN 034]
+  members: [Peru, Ecuador, Bolivia, Venezuela]
+  drive: LHD
+  regime: hybrid
+  basis: "Peru: Reglamento Nacional de Vehículos (D.S. 058-2003-MTC) + homologation; Ecuador: RTE INEN 034 minimum safety elements + INEN certificate; Bolivia/Venezuela: national rules"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Peru — MTC (Ministerio de Transportes y Comunicaciones)", scope: "Homologation / vehicle regulation; emission limits (Euro 4+ references)", url: "https://www.gob.pe/mtc" }
+    - { name: "Ecuador — INEN / SAE (accreditation) / ANT", scope: "RTE INEN 034 compliance certificate, homologation", url: "https://www.normalizacion.gob.ec" }
+  accepts:
+    - "Ecuador RTE INEN 034 accepts UN R / FMVSS / EU evidence for listed safety elements"
+  marks:
+    - "Ecuador: INEN certificate of conformity before import"
+  emissions: "Peru Euro 4/IV references (Euro 6 roadmap); Ecuador Euro/US-referenced limits; fuel-sulphur constraints in parts of the region"
+  language: Spanish
+  process:
+    - "Ecuador: certificate of conformity to RTE INEN 034 (and other RTEs for tyres, glazing) per model before customs."
+    - "Peru: MTC homologation / technical conformity for new vehicle models."
+  records: []
+  confidence: low
+
+- code: UY-PY
+  name: Uruguay & Paraguay
+  group: South America
+  regions: []
+  aliases: [Uruguay, Paraguay, Mercosur]
+  members: [Uruguay, Paraguay]
+  drive: LHD
+  regime: registration-inspection
+  basis: "National rules; Mercosur resolutions on minimum safety equipment"
+  un_1958: false
+  un_1998: null
+  authorities:
+    - { name: "Uruguay — MIEM / MTOP / UNASEV", scope: "Safety equipment requirements, emissions", url: "https://www.gub.uy" }
+    - { name: "Paraguay — DINATRAN / MIC", scope: "Import and registration", url: "https://www.mic.gov.py" }
+  accepts: ["Mercosur (Brazil/Argentina) evidence and UN R evidence commonly used"]
+  marks: []
+  emissions: "Uruguay applies Euro-referenced limits for new vehicles"
+  language: Spanish
+  process: ["Compliance verified at import/registration against national equipment lists."]
+  records: []
+  confidence: low

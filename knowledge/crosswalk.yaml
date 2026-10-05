@@ -1,0 +1,1057 @@
+# Requirement crosswalk — "what is this requirement called in each market?"
+#
+# One row per requirement topic, one column per major regulatory regime. Each cell gives
+# the governing citation(s) and, where the instrument is in this repository, the record
+# ids (validated at build time — an unknown id fails the build).
+#
+# Cell fields:
+#   cite     (required) human-readable citation(s)
+#   records  (optional) repository record ids
+#   status   (optional) mandatory (default) | phase-in | proposed | voluntary | none
+#   note     (optional) short engineering note (differences, phase-in dates, alternatives)
+# An absent cell means "not mapped yet" — NOT "no requirement". Use status: none to state
+# that a market has no regulatory requirement for the topic.
+#
+# Curated reference: citations reflect the editor's knowledge as of the file's
+# `reviewed` date and must be confirmed against the source text before certification use.
+
+reviewed: "2026-10-04"
+
+columns:
+  - { key: US,  label: "United States", short: "US · FMVSS", market: US }
+  - { key: CA,  label: "Canada", short: "CA · CMVSS", market: CA }
+  - { key: UN,  label: "UN Regulations (1958 Agreement)", short: "UN R", market: EU }
+  - { key: EU,  label: "European Union", short: "EU", market: EU }
+  - { key: JP,  label: "Japan", short: "JP", market: JP }
+  - { key: KR,  label: "South Korea", short: "KR · KMVSS", market: KR }
+  - { key: CN,  label: "China", short: "CN · GB", market: CN }
+  - { key: IN,  label: "India", short: "IN · AIS/CMVR", market: IN }
+  - { key: AU,  label: "Australia", short: "AU · ADR", market: AU }
+  - { key: BR,  label: "Brazil", short: "BR · CONTRAN", market: BR }
+  - { key: GCC, label: "GCC (GSO / SASO)", short: "GCC · GSO", market: SA }
+
+groups:
+  - Market access & administration
+  - Crash protection
+  - Restraints & seating
+  - Child occupant safety
+  - Braking & stability
+  - Driver assistance & automation
+  - Lighting & visibility
+  - Controls, displays & signals
+  - Tyres & wheels
+  - Body, interior & exterior
+  - Electrified & alternative powertrains
+  - Emissions, energy & environment
+  - Electronics, connectivity & cybersecurity
+  - Theft protection
+
+topics:
+  # ───────────────────────── Market access & administration ─────────────────────────
+  - id: approval-framework
+    group: Market access & administration
+    title: Vehicle approval framework / certification route
+    description: The legal route by which a vehicle model is authorised for sale.
+    powertrains: [all]
+    cells:
+      US: { cite: "Self-certification — 49 CFR 567 (certification), 566, 565; 49 U.S.C. 30112/30115", records: [us-cfr-part-567, us-cfr-part-566], note: "No pre-market approval; NHTSA audits post-sale." }
+      CA: { cite: "Self-certification — Motor Vehicle Safety Act; MVSR s.5–7", records: [ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038] }
+      UN: { cite: "1958 Agreement (Rev. 3) + Schedule 1 CoP; UN R0 (IWVTA)", records: [ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles, ece-r0] }
+      EU: { cite: "Regulation (EU) 2018/858 — EU WVTA, CoP, market surveillance", records: [eu-32018r0858] }
+      JP: { cite: "Road Transport Vehicle Act — Type Designation (TDS) / PHP", records: [jp-srrv-japanese-vehicle-type-approval-type-designation-framework, jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity] }
+      KR: { cite: "Motor Vehicle Management Act — self-certification (KOTSA registration)", records: [kr-kmvss-art3] }
+      CN: { cite: "CCC (CNCA-C11-01:2020) + MIIT Announcement", records: [cn-cnca-c11-01-2020] }
+      IN: { cite: "CMVR 1989 Rule 126 — type approval by testing agency; AIS-007", records: [in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework] }
+      AU: { cite: "Road Vehicle Standards Act 2018 / Rules 2019 — type approval + RAV entry; ADR 00/00 definitions", records: [au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019, au-workbook-reg-0371-register-of-approved-vehicles-rav, au-f2012l01123] }
+      BR: { cite: "SENATRAN Portaria 990/2022 — CAT; IBAMA LCVM", records: [br-senatran-990] }
+      GCC: { cite: "GSO Technical Regulation for Motor Vehicles; SASO SABER PCoC/SCoC", records: [gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3, gcc-saso-saber-fuel-economy-label-for-new-light-vehicles] }
+
+  - id: vin
+    group: Market access & administration
+    title: Vehicle Identification Number (VIN)
+    description: 17-character VIN structure, location and check digit (ISO 3779 basis).
+    powertrains: [all]
+    cells:
+      US: { cite: "49 CFR 565 (+ FMVSS 115 historic)", records: [us-cfr-part-565], note: "Check digit (position 9) mandatory; VIN decoder submitted to NHTSA ≥60 days before use." }
+      CA: { cite: "CMVSS 115", records: [ca-mvsr-c-r-c---c--1038-s115] }
+      UN: { cite: "No UN R — ISO 3779/3780 referenced", status: none }
+      EU: { cite: "(EU) 2021/535 Annex on VIN & statutory plate; ISO 3779", records: [eu-32021r0535] }
+      CN: { cite: "GB 16735-2019", records: [cn-gb-16735-2019], note: "Also requires VIN visible through windscreen and on electronic control unit records." }
+      AU: { cite: "ADR 61/03 Vehicle Marking", records: [au-f2020l01254] }
+      KR: { cite: "Motor Vehicle Management Act — VIN rules (KMVSS references)" }
+      JP: { cite: "Frame/chassis number (車台番号) per RTVA; 17-digit VIN optional for exports", note: "Japan domestic models typically use a short chassis number rather than ISO VIN." }
+
+  - id: certification-label
+    group: Market access & administration
+    title: Certification / manufacturer's plate & compliance labels
+    description: Statutory plate or certification label affixed to the vehicle.
+    powertrains: [all]
+    cells:
+      US: { cite: "49 CFR 567 certification label; FMVSS 110 tire placard; Part 541 theft marking", records: [us-cfr-part-567, us-fmvss-110, us-cfr-part-541] }
+      CA: { cite: "MVSR s.6 (National Safety Mark) / s.7 (Statement of Compliance)", records: [ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038], note: "Bilingual (EN/FR)." }
+      EU: { cite: "(EU) 2021/535 — statutory plate; CoC per vehicle (2018/858)", records: [eu-32021r0535, eu-32018r0858] }
+      CN: { cite: "GB/T 18411-2018 product plate; GB 7258", records: [cn-gb-t-18411-2018, cn-gb-7258-2017] }
+      AU: { cite: "RAV entry replaces compliance plate (RVSA); ADR 61/03", records: [au-workbook-reg-0371-register-of-approved-vehicles-rav, au-f2020l01254] }
+      BR: { cite: "CONTRAN safety labeling / ENCE label", records: [br-contran-safety-labeling] }
+
+  - id: recalls
+    group: Market access & administration
+    title: Defect, recall & early-warning reporting
+    description: Obligations to report safety defects / non-compliances and notify owners.
+    powertrains: [all]
+    cells:
+      US: { cite: "49 CFR 573 (5-working-day report), 577 (owner notice), 579 (EWR/TREAD quarterly)", records: [us-cfr-part-573, us-cfr-part-577, us-cfr-part-579] }
+      CA: { cite: "Motor Vehicle Safety Act s.10 — notice of defect; ministerial recall orders", records: [ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038] }
+      EU: { cite: "(EU) 2018/858 Art. 52 & Safety Gate; GPSR for parts", records: [eu-32018r0858] }
+      JP: { cite: "RTVA Art. 63-3 — recall notification to MLIT", records: [jp-srrv-mlit-vehicle-recall-and-improvement-measures] }
+      KR: { cite: "Motor Vehicle Management Act Art. 31 — corrective action / recall (MOLIT/KATRI)" }
+      CN: { cite: "Regulations on Administration of Recall of Defective Auto Products (SAMR/DPAC); OTA recall filing" }
+      AU: { cite: "RVSA recall provisions + Australian Consumer Law", records: [au-workbook-reg-0372-australian-road-vehicle-recall-framework] }
+      IN: { cite: "Voluntary recall code (SIAM) + MoRTH recall notification (CMVR Rule 127C)" }
+
+  # ───────────────────────── Crash protection ─────────────────────────
+  - id: frontal-full
+    group: Crash protection
+    title: Frontal impact — full-width rigid barrier
+    description: Occupant protection in a full-overlap frontal crash.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 208 (56 km/h belted, 40 km/h unbelted; advanced air bags)", records: [us-fmvss-208] }
+      CA: { cite: "CMVSS 208", records: [ca-mvsr-c-r-c---c--1038-s208] }
+      UN: { cite: "UN R137", records: [ece-r137] }
+      EU: { cite: "UN R137 via (EU) 2019/2144 Annex I", records: [eu-32019r2144, ece-r137] }
+      JP: { cite: "Safety Regs Art. 18 — UN R137 / TRIAS full-lap", records: [jp-jvsregs-art18] }
+      KR: { cite: "KMVSS Art. 102-3", records: [kr-kmvss-art102-3] }
+      CN: { cite: "GB 11551-2014", records: [cn-gb-11551-2014] }
+      AU: { cite: "ADR 69/00", records: [au-f2006l01455] }
+      BR: { cite: "CONTRAN 910/2022", records: [br-contran-910] }
+      GCC: { cite: "GSO 36 / GSO 40 (US or EU route)", records: [gcc-gso-36-2005, gcc-gso-40-2011] }
+
+  - id: frontal-offset
+    group: Crash protection
+    title: Frontal impact — offset deformable barrier
+    description: 40 % offset deformable-barrier frontal test.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 208 (40 % offset deformable barrier, 5th-percentile female — advanced air bag provisions)", records: [us-fmvss-208] }
+      CA: { cite: "CMVSS 208", records: [ca-mvsr-c-r-c---c--1038-s208] }
+      UN: { cite: "UN R94", records: [ece-r94] }
+      EU: { cite: "UN R94 via (EU) 2019/2144", records: [ece-r94, eu-32019r2144] }
+      JP: { cite: "UN R94 (applied)", records: [ece-r94] }
+      KR: { cite: "KMVSS Art. 102", records: [kr-kmvss-art102] }
+      CN: { cite: "GB/T 20913-2007 (recommended) — offset now via C-NCAP; check GB 11551 scope", records: [cn-gb-t-20913-2007], status: voluntary }
+      IN: { cite: "AIS-098 (UN R94-based)" }
+      AU: { cite: "ADR 73/00", records: [au-f2005l03990] }
+      BR: { cite: "CONTRAN 910/2022", records: [br-contran-910] }
+      GCC: { cite: "GSO-ECE 94", records: [gcc-gso-ece-94] }
+
+  - id: side-mdb
+    group: Crash protection
+    title: Side impact — moving deformable barrier
+    description: Lateral crash with a moving deformable barrier.
+    powertrains: [all]
+    gtr: null
+    cells:
+      US: { cite: "FMVSS 214 (MDB, + static door strength)", records: [us-fmvss-214] }
+      CA: { cite: "CMVSS 214", records: [ca-mvsr-c-r-c---c--1038-s214] }
+      UN: { cite: "UN R95", records: [ece-r95] }
+      EU: { cite: "UN R95 via (EU) 2019/2144", records: [ece-r95] }
+      JP: { cite: "UN R95 (applied)", records: [ece-r95] }
+      KR: { cite: "KMVSS Art. 102", records: [kr-kmvss-art102] }
+      CN: { cite: "GB 20071-2025", records: [cn-gb-20071-2025] }
+      IN: { cite: "AIS-099 (UN R95-based)" }
+      AU: { cite: "ADR 72/01", records: [au-f2025l00028] }
+      BR: { cite: "CONTRAN 949/2022", records: [br-contran-949] }
+      GCC: { cite: "GSO-ECE 95; GSO 1707 (US) / 1708 (EU); GSO 38", records: [gcc-gso-ece-95, gcc-gso-1707-2005, gcc-gso-1708-2005, gcc-gso-38-2005] }
+
+  - id: side-pole
+    group: Crash protection
+    title: Side impact — oblique pole
+    description: Vehicle-to-pole lateral impact (head protection / curtain airbags). UN GTR 14.
+    powertrains: [all]
+    gtr: "GTR 14"
+    cells:
+      US: { cite: "FMVSS 214 (75° oblique pole)", records: [us-fmvss-214] }
+      CA: { cite: "CMVSS 214", records: [ca-mvsr-c-r-c---c--1038-s214] }
+      UN: { cite: "UN R135", records: [ece-r135] }
+      EU: { cite: "UN R135 via (EU) 2019/2144", records: [ece-r135] }
+      KR: { cite: "KMVSS Art. 102-4", records: [kr-kmvss-art102-4] }
+      AU: { cite: "ADR 85/00", records: [au-f2015l02109] }
+      BR: { cite: "CONTRAN 949/2022 (pole phase-in)", records: [br-contran-949], status: phase-in }
+
+  - id: rear-impact
+    group: Crash protection
+    title: Rear impact — fuel system & electrical integrity
+    description: Fuel leakage / high-voltage safety after rear impact.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 301 (fuel); FMVSS 305a (EV)", records: [us-fmvss-301, us-fmvss-305a] }
+      CA: { cite: "CMVSS 301 / 301.1 / 305", records: [ca-mvsr-c-r-c---c--1038-s301, ca-mvsr-c-r-c---c--1038-s301-1, ca-mvsr-c-r-c---c--1038-s305] }
+      UN: { cite: "UN R34 (fuel tanks / rear impact); UN R153 (rear impact fuel + HV)", records: [ece-r34, ece-r153] }
+      EU: { cite: "UN R34 / R153 via (EU) 2019/2144", records: [ece-r153] }
+      KR: { cite: "KMVSS Art. 91 (fuel), Art. 91-3 (HV)", records: [kr-kmvss-art91, kr-kmvss-art91-3] }
+      CN: { cite: "GB 20072-2024", records: [cn-gb-20072-2024] }
+      BR: { cite: "CONTRAN 910/2022", records: [br-contran-910] }
+      GCC: { cite: "GSO 37:2012", records: [gcc-gso-37-2012] }
+
+  - id: roof-crush
+    group: Crash protection
+    title: Roof crush resistance
+    description: Static roof strength (rollover protection).
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 216a (3.0 × UVW)", records: [us-fmvss-216a] }
+      CA: { cite: "CMVSS 216", records: [ca-mvsr-c-r-c---c--1038-s216] }
+      UN: { cite: "No M1 roof-crush UN R (UN R66 applies to buses)", status: none }
+      KR: { cite: "KMVSS Art. 92", records: [kr-kmvss-art92] }
+      GCC: { cite: "GSO 39:2005", records: [gcc-gso-39-2005] }
+
+  - id: pedestrian
+    group: Crash protection
+    title: Pedestrian protection (head/leg impact)
+    description: Bonnet/bumper impactor tests. UN GTR 9.
+    powertrains: [all]
+    gtr: "GTR 9"
+    cells:
+      US: { cite: "No FMVSS (GTR 9 adoption proposed)", status: none }
+      CA: { cite: "No CMVSS", status: none }
+      UN: { cite: "UN R127", records: [ece-r127] }
+      EU: { cite: "UN R127 via (EU) 2019/2144 (+ enlarged head-impact zone phase-in)", records: [ece-r127, eu-32019r2144] }
+      JP: { cite: "UN R127 (applied)", records: [ece-r127] }
+      KR: { cite: "KMVSS Art. 102-2", records: [kr-kmvss-art102-2] }
+      CN: { cite: "GB 24550-2024", records: [cn-gb-24550-2024] }
+      IN: { cite: "AIS-100" }
+      AU: { cite: "No ADR (ANCAP rating only)", status: none }
+      GCC: { cite: "GSO-ECE 127", records: [gcc-gso-ece-127] }
+
+  - id: interior-impact
+    group: Crash protection
+    title: Interior fittings / occupant head impact
+    description: Energy absorption of instrument panel, seat backs, roof lining, power windows.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 201 (incl. upper interior FMH)", records: [us-fmvss-201] }
+      CA: { cite: "CMVSS 201", records: [ca-mvsr-c-r-c---c--1038-s201] }
+      UN: { cite: "UN R21", records: [ece-r21] }
+      EU: { cite: "UN R21 via (EU) 2019/2144", records: [ece-r21] }
+      CN: { cite: "GB 11552-2009", records: [cn-gb-11552] }
+      AU: { cite: "ADR 21/00 Instrument Panel", records: [au-f2006l01786] }
+      GCC: { cite: "GSO-ECE 21", records: [gcc-gso-ece-21] }
+
+  - id: steering-impact
+    group: Crash protection
+    title: Steering control rearward displacement & impact protection
+    description: Steering column intrusion and driver impact on the steering control.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 203, 204", records: [us-fmvss-203, us-fmvss-204] }
+      CA: { cite: "CMVSS 203, 204", records: [ca-mvsr-c-r-c---c--1038-s203, ca-mvsr-c-r-c---c--1038-s204] }
+      UN: { cite: "UN R12", records: [ece-r12] }
+      EU: { cite: "UN R12 via (EU) 2019/2144", records: [ece-r12] }
+      CN: { cite: "GB 11557" }
+      AU: { cite: "ADR 10/02", records: [au-f2008l02387] }
+
+  - id: edr
+    group: Crash protection
+    title: Event data recorder (EDR)
+    description: Crash data recording — data elements, survivability, retrieval.
+    powertrains: [all]
+    cells:
+      US: { cite: "49 CFR 563 (applies only if an EDR is fitted)", records: [us-cfr-part-563] }
+      UN: { cite: "UN R160", records: [ece-r160] }
+      EU: { cite: "(EU) 2022/545 + UN R160 (mandatory M1/N1)", records: [eu-32022r0545, ece-r160] }
+      JP: { cite: "Safety Regs Art. 46-2 (UN R160)", records: [jp-jvsregs-art46-2] }
+      KR: { cite: "KMVSS Art. 56-2", records: [kr-kmvss-art56-2] }
+      CN: { cite: "GB 39732-2020 (EDR)" }
+
+  # ───────────────────────── Restraints & seating ─────────────────────────
+  - id: seat-belts
+    group: Restraints & seating
+    title: Seat belt assemblies & restraint systems
+    description: Belt webbing, buckles, retractors, pretensioners; belt fitment.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 209 (assemblies), 208 (fitment)", records: [us-fmvss-209, us-fmvss-208] }
+      CA: { cite: "CMVSS 209, 208", records: [ca-mvsr-c-r-c---c--1038-s209] }
+      UN: { cite: "UN R16", records: [ece-r16] }
+      EU: { cite: "UN R16 via (EU) 2019/2144", records: [ece-r16] }
+      JP: { cite: "Safety Regs Art. 22-3", records: [jp-jvsregs-art22-3] }
+      KR: { cite: "KMVSS Art. 27", records: [kr-kmvss-art27] }
+      CN: { cite: "GB 14166-2024", records: [cn-gb-14166-2024] }
+      AU: { cite: "ADR 4/06", records: [au-f2019l00026] }
+      BR: { cite: "CONTRAN 951/2022", records: [br-contran-951] }
+      GCC: { cite: "GSO-ECE 16; GSO 96/97", records: [gcc-gso-ece-16, gcc-gso-97-1988] }
+
+  - id: belt-anchorages
+    group: Restraints & seating
+    title: Seat belt anchorages
+    description: Anchorage strength and location.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 210", records: [us-fmvss-210] }
+      CA: { cite: "CMVSS 210", records: [ca-mvsr-c-r-c---c--1038-s210] }
+      UN: { cite: "UN R14", records: [ece-r14] }
+      EU: { cite: "UN R14 via (EU) 2019/2144", records: [ece-r14] }
+      KR: { cite: "KMVSS Art. 103", records: [kr-kmvss-art103] }
+      CN: { cite: "GB 14167-2024", records: [cn-gb-14167-2024] }
+      AU: { cite: "ADR 5/06", records: [au-f2019l00029] }
+      BR: { cite: "CONTRAN 951/2022", records: [br-contran-951] }
+      GCC: { cite: "GSO-ECE 14", records: [gcc-gso-ece-14] }
+
+  - id: seat-belt-reminder
+    group: Restraints & seating
+    title: Seat belt reminder (SBR)
+    description: Audible/visual belt warning, front and rear rows.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 208 S7.3 (front); rear-seat SBR final rule 2024 (phase-in)", records: [us-fmvss-208], status: phase-in }
+      UN: { cite: "UN R16 (SBR provisions, all seating rows for M1)", records: [ece-r16] }
+      EU: { cite: "UN R16 via (EU) 2019/2144", records: [ece-r16] }
+      BR: { cite: "CONTRAN 936/2022", records: [br-contran-936] }
+      IN: { cite: "AIS-145 (SBR, speed alert, reverse parking alert)" }
+
+  - id: seats
+    group: Restraints & seating
+    title: Seats & seat anchorages (strength)
+    description: Seat, seat-back and anchorage strength; luggage retention.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 207", records: [us-fmvss-207] }
+      CA: { cite: "CMVSS 207", records: [ca-mvsr-c-r-c---c--1038-s207] }
+      UN: { cite: "UN R17", records: [ece-r17] }
+      EU: { cite: "UN R17 via (EU) 2019/2144", records: [ece-r17] }
+      JP: { cite: "Safety Regs Art. 22", records: [jp-jvsregs-art22] }
+      KR: { cite: "KMVSS Art. 97", records: [kr-kmvss-art97] }
+      CN: { cite: "GB 15083-2019", records: [cn-gb-15083-2019] }
+      AU: { cite: "ADR 3/04", records: [au-f2017l01344] }
+
+  - id: head-restraints
+    group: Restraints & seating
+    title: Head restraints
+    description: Height, backset, energy absorption (whiplash). UN GTR 7.
+    powertrains: [all]
+    gtr: "GTR 7"
+    cells:
+      US: { cite: "FMVSS 202a", records: [us-fmvss-202a] }
+      CA: { cite: "CMVSS 202", records: [ca-mvsr-c-r-c---c--1038-s202] }
+      UN: { cite: "UN R17 (integrated); UN R25 (separate)", records: [ece-r17, ece-r25] }
+      EU: { cite: "UN R17 via (EU) 2019/2144", records: [ece-r17] }
+      JP: { cite: "Safety Regs Art. 22-4", records: [jp-jvsregs-art22-4] }
+      KR: { cite: "KMVSS Art. 26, 99", records: [kr-kmvss-art26, kr-kmvss-art99] }
+      AU: { cite: "ADR 22/00", records: [au-f2006l01410] }
+      BR: { cite: "CONTRAN 951/2022", records: [br-contran-951] }
+      GCC: { cite: "GSO 1598:2002", records: [gcc-gso-1598-2002] }
+
+  # ───────────────────────── Child occupant safety ─────────────────────────
+  - id: isofix
+    group: Child occupant safety
+    title: Child restraint anchorages (ISOFIX / LATCH / top tether)
+    description: Lower anchorages and top-tether anchorages in the vehicle.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 225 (LATCH)", records: [us-fmvss-225] }
+      CA: { cite: "CMVSS 210.1 (tether), 210.2 (UAS)", records: [ca-mvsr-c-r-c---c--1038-s210-1, ca-mvsr-c-r-c---c--1038-s210-2] }
+      UN: { cite: "UN R145 (ISOFIX / i-Size anchorages); UN R14", records: [ece-r145, ece-r14] }
+      EU: { cite: "UN R145 via (EU) 2019/2144", records: [ece-r145] }
+      JP: { cite: "Safety Regs Art. 22-5", records: [jp-jvsregs-art22-5, jp-srrv-isofix-and-child-restraint-anchorages] }
+      KR: { cite: "KMVSS Art. 27-2, 103-2", records: [kr-kmvss-art27-2, kr-kmvss-art103-2] }
+      CN: { cite: "GB 14167-2024 (incl. ISOFIX anchorages)", records: [cn-gb-14167-2024] }
+      AU: { cite: "ADR 34/03", records: [au-f2017l01351] }
+      GCC: { cite: "GSO-ECE 14", records: [gcc-gso-ece-14] }
+
+  - id: child-restraints
+    group: Child occupant safety
+    title: Child restraint systems (products)
+    description: Child seats / boosters approved as equipment.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 213 / 213a (side impact) / 213b", records: [us-fmvss-213, us-fmvss-213a, us-fmvss-213b] }
+      CA: { cite: "Motor Vehicle Restraint Systems and Booster Seats Safety Regulations SOR/2010-90 (CMVSS 213 series)", records: [ca-mvsr-sor-2010-90] }
+      UN: { cite: "UN R129 (i-Size); UN R44 (legacy)", records: [ece-r129, ece-r44] }
+      EU: { cite: "UN R129 (R44 sales ended Sept 2024)", records: [ece-r129] }
+      CN: { cite: "GB 27887-2024", records: [cn-gb-27887-2024] }
+      AU: { cite: "AS/NZS 1754 (Consumer goods safety standard, not ADR)" }
+      GCC: { cite: "GSO 1709:2005", records: [gcc-gso-1709-2005] }
+
+  - id: child-presence
+    group: Child occupant safety
+    title: Child presence detection / rear-seat reminder
+    description: Detection of a child left in a parked vehicle.
+    powertrains: [all]
+    cells:
+      US: { cite: "Rear-seat reminder required by statute (Hot Cars Act provisions in IIJA) — NHTSA rulemaking pending", status: proposed }
+      KR: { cite: "KMVSS Art. 53-4", records: [kr-kmvss-art53-4] }
+      EU: { cite: "No regulation (Euro NCAP rating item)", status: voluntary }
+
+  # ───────────────────────── Braking & stability ─────────────────────────
+  - id: brakes
+    group: Braking & stability
+    title: Service, secondary & parking brakes (light vehicles)
+    description: Brake performance incl. ABS for M1/N1.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 135", records: [us-fmvss-135] }
+      CA: { cite: "CMVSS 135", records: [ca-mvsr-c-r-c---c--1038-s135] }
+      UN: { cite: "UN R13-H (M1/N1); UN R13 (heavy)", records: [ece-r13-h, ece-r13] }
+      EU: { cite: "UN R13-H via (EU) 2019/2144", records: [ece-r13-h] }
+      JP: { cite: "UN R13-H (applied)", records: [ece-r13-h] }
+      KR: { cite: "KMVSS Art. 15, 90", records: [kr-kmvss-art15, kr-kmvss-art90] }
+      CN: { cite: "GB 21670-2025", records: [cn-gb-21670-2025] }
+      AU: { cite: "ADR 31/04", records: [au-f2017l01214] }
+      BR: { cite: "CONTRAN 915/2022", records: [br-contran-915] }
+      GCC: { cite: "GSO-ECE 13H", records: [gcc-gso-ece-13h-2012, gcc-gso-ece-13h-1-2-3] }
+
+  - id: esc
+    group: Braking & stability
+    title: Electronic stability control (ESC)
+    description: Yaw-stability control. UN GTR 8.
+    powertrains: [all]
+    gtr: "GTR 8"
+    cells:
+      US: { cite: "FMVSS 126", records: [us-fmvss-126] }
+      CA: { cite: "CMVSS 126" }
+      UN: { cite: "UN R140 (also R13-H Annex 9)", records: [ece-r140] }
+      EU: { cite: "UN R140 via (EU) 2019/2144", records: [ece-r140] }
+      JP: { cite: "UN R140 (applied)", records: [ece-r140] }
+      KR: { cite: "KMVSS Art. 15-2, 90-2", records: [kr-kmvss-art15-2, kr-kmvss-art90-2] }
+      CN: { cite: "GB/T 30677-2014 (ESC fitment mandated via GB 7258 for certain categories)", records: [cn-gb-t-30677-2014, cn-gb-7258-2017] }
+      AU: { cite: "ADR 88/00", records: [au-f2017l01229] }
+      BR: { cite: "CONTRAN 954/2022", records: [br-contran-954] }
+      GCC: { cite: "GSO-ECE 13H (ESC annex)", records: [gcc-gso-ece-13h-2012] }
+
+  - id: brake-assist
+    group: Braking & stability
+    title: Brake assist system (BAS)
+    description: Emergency brake-pressure assistance.
+    powertrains: [all]
+    cells:
+      UN: { cite: "UN R139", records: [ece-r139] }
+      EU: { cite: "UN R139 via (EU) 2019/2144", records: [ece-r139] }
+      JP: { cite: "UN R139 (applied)", records: [jp-srrv-brake-assist-systems] }
+      AU: { cite: "ADR 89/00", records: [au-f2017l01221] }
+
+  # ───────────────────────── Driver assistance & automation ─────────────────────────
+  - id: aeb
+    group: Driver assistance & automation
+    title: Automatic / advanced emergency braking (AEB) — light vehicles
+    description: Vehicle-to-vehicle and pedestrian/cyclist AEB.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 127 (incl. PAEB) — compliance Sept 2029", records: [us-fmvss-127], status: phase-in }
+      CA: { cite: "No CMVSS yet (voluntary commitment; tracking FMVSS 127)", status: proposed }
+      UN: { cite: "UN R152 (M1/N1); UN R131 (heavy)", records: [ece-r152] }
+      EU: { cite: "UN R152 via (EU) 2019/2144 (pedestrian/cyclist phases)", records: [ece-r152, eu-32019r2144] }
+      JP: { cite: "UN R152 (applied; mandatory for new cars)", records: [ece-r152] }
+      KR: { cite: "KMVSS Art. 15-3, 90-3", records: [kr-kmvss-art15-3, kr-kmvss-art90-3] }
+      CN: { cite: "Mandatory GB for light-vehicle AEB under development", status: proposed }
+      AU: { cite: "ADR 98/02 (car-to-car + pedestrian/cyclist)", records: [au-f2026l00284], status: phase-in }
+
+  - id: lane-keeping
+    group: Driver assistance & automation
+    title: Lane departure warning / emergency lane keeping (LDW / ELKS)
+    description: Lane-departure warning and corrective steering.
+    powertrains: [all]
+    cells:
+      UN: { cite: "UN R130 (LDWS, heavy); UN R79 (ELKS / corrective steering)", records: [ece-r79] }
+      EU: { cite: "(EU) 2021/646 — ELKS (M1/N1)", records: [eu-32021r0646] }
+      KR: { cite: "KMVSS Art. 14-2, 89-2 (LDWS)", records: [kr-kmvss-art14-2, kr-kmvss-art89-2] }
+      AU: { cite: "ADR 99/01 (LDW); ADR 107/00 (ELKS)", records: [au-f2024l00161, au-f2026l00278], status: phase-in }
+      US: { cite: "No FMVSS", status: none }
+
+  - id: isa
+    group: Driver assistance & automation
+    title: Intelligent speed assistance (ISA) / speed limit information
+    description: Speed-limit awareness and feedback to the driver.
+    powertrains: [all]
+    cells:
+      EU: { cite: "(EU) 2021/1958 (mandatory)", records: [eu-32021r1958] }
+      IN: { cite: "AIS-145 over-speed warning" }
+      US: { cite: "No FMVSS", status: none }
+
+  - id: driver-monitoring
+    group: Driver assistance & automation
+    title: Driver drowsiness & distraction warning (DDAW / ADDW)
+    description: Driver-state monitoring.
+    powertrains: [all]
+    cells:
+      EU: { cite: "(EU) 2021/1341 (DDAW); (EU) 2023/2590 (ADDW)", records: [eu-32021r1341, eu-32023r2590] }
+      US: { cite: "No FMVSS (IIJA directs rulemaking on driver impairment)", status: proposed }
+
+  - id: automated-driving
+    group: Driver assistance & automation
+    title: Automated driving systems (ALKS / ADS)
+    description: Level 3+ automated lane keeping and ADS approval.
+    powertrains: [all]
+    cells:
+      US: { cite: "No FMVSS — Part 555 exemptions / AV STEP framework (proposed)", status: proposed }
+      UN: { cite: "UN R157 (ALKS); UN R171 (DCAS, L2)", records: [ece-r157] }
+      EU: { cite: "(EU) 2022/1426 (ADS for fully automated vehicles, small series)", records: [eu-32022r1426] }
+      JP: { cite: "Safety Regs Art. 48 (automated operation devices)", records: [jp-jvsregs-art48, jp-srrv-automated-lane-keeping-automated-driving-systems] }
+      KR: { cite: "KMVSS Art. 111, 111-2, 111-3", records: [kr-kmvss-art111, kr-kmvss-art111-2, kr-kmvss-art111-3] }
+      CN: { cite: "GB 44497-2024 (DSSAD); L3/L4 pilot access rules", records: [cn-gb-44497] }
+
+  - id: rear-visibility
+    group: Driver assistance & automation
+    title: Rear visibility / reversing camera & detection
+    description: Rear-view camera field of view, reversing detection.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 111 (rear visibility camera)", records: [us-fmvss-111] }
+      CA: { cite: "CMVSS 111", records: [ca-mvsr-c-r-c---c--1038-s111] }
+      UN: { cite: "UN R158 (reversing motion)", records: [ece-r158] }
+      EU: { cite: "UN R158 via (EU) 2019/2144", records: [ece-r158] }
+      JP: { cite: "Safety Regs Art. 44-2 (rear proximity)", records: [jp-jvsregs-art44-2] }
+      KR: { cite: "KMVSS Art. 53-2", records: [kr-kmvss-art53-2] }
+      AU: { cite: "ADR 108/00", records: [au-f2023l01006], status: phase-in }
+      BR: { cite: "CONTRAN 759/2018", records: [br-contran-759] }
+
+  # ───────────────────────── Lighting & visibility ─────────────────────────
+  - id: lighting-installation
+    group: Lighting & visibility
+    title: Installation of lighting & light-signalling devices
+    description: Required lamps, positions, colours, switching.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 108 (single standard for devices + installation)", records: [us-fmvss-108] }
+      CA: { cite: "CMVSS 108 (DRL mandatory)", records: [ca-mvsr-c-r-c---c--1038-s108] }
+      UN: { cite: "UN R48", records: [ece-r48] }
+      EU: { cite: "UN R48 via (EU) 2019/2144", records: [ece-r48] }
+      JP: { cite: "Safety Regs Art. 32 et seq. (UN R48 applied)", records: [jp-jvsregs-art32] }
+      CN: { cite: "GB 4785-2019", records: [cn-gb-4785-2019] }
+      AU: { cite: "ADR 13/00", records: [au-f2005l03991] }
+      BR: { cite: "CONTRAN 970/2022", records: [br-contran-970] }
+      GCC: { cite: "GSO-ECE 48", records: [gcc-gso-ece-48] }
+
+  - id: headlamps
+    group: Lighting & visibility
+    title: Headlamps (road illumination devices)
+    description: Headlamp photometry & light sources.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 108; 49 CFR 564 (light-source info)", records: [us-fmvss-108, us-cfr-part-564] }
+      UN: { cite: "UN R149 (consolidates R98/R112/R113/R123); R128/R37/R99 light sources", records: [ece-r149, ece-r128, ece-r37, ece-r99] }
+      EU: { cite: "UN R149 via (EU) 2019/2144", records: [ece-r149] }
+      CN: { cite: "GB 4599-2024", records: [cn-gb-4599-2024] }
+      KR: { cite: "KMVSS Art. 38", records: [kr-kmvss-art38] }
+      AU: { cite: "ADR 46/00; ADR 77/00 (gas discharge)", records: [au-f2006l02294, au-f2006l02305] }
+      GCC: { cite: "GSO 1503:2002", records: [gcc-gso-1503-2002] }
+
+  - id: signal-lamps
+    group: Lighting & visibility
+    title: Signalling lamps (position, stop, turn, reversing, fog, DRL)
+    description: Light-signalling devices.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 108", records: [us-fmvss-108] }
+      CA: { cite: "CMVSS 108", records: [ca-mvsr-c-r-c---c--1038-s108] }
+      UN: { cite: "UN R148 (consolidates R6/R7/R23/R38/R77/R87/R91…); UN R150 (retro-reflective)", records: [ece-r148, ece-r150] }
+      EU: { cite: "UN R148 via (EU) 2019/2144", records: [ece-r148] }
+      JP: { cite: "UN R148 (applied)", records: [jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps] }
+      CN: { cite: "GB 5920-2024", records: [cn-gb-5920-2024] }
+      AU: { cite: "ADR 6/00, 1/00, 76/00 (DRL), 60/00 (CHMSL)…", records: [au-f2005l03907, au-f2005l03873, au-f2006l02306, au-f2006l02300] }
+      KR: { cite: "KMVSS Art. 39 et seq.", records: [kr-kmvss-art39] }
+
+  - id: indirect-vision
+    group: Lighting & visibility
+    title: Mirrors & devices for indirect vision (incl. camera-monitor systems)
+    description: Rear-view mirrors / CMS fields of view.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 111 (CMS not yet permitted as mirror replacement)", records: [us-fmvss-111] }
+      CA: { cite: "CMVSS 111", records: [ca-mvsr-c-r-c---c--1038-s111] }
+      UN: { cite: "UN R46", records: [ece-r46] }
+      EU: { cite: "UN R46 via (EU) 2019/2144", records: [ece-r46] }
+      JP: { cite: "Safety Regs Art. 44", records: [jp-jvsregs-art44] }
+      KR: { cite: "KMVSS Art. 50", records: [kr-kmvss-art50] }
+      CN: { cite: "GB 15084-2022", records: [cn-gb-15084-2022] }
+      AU: { cite: "ADR 14/03", records: [au-f2023l01319] }
+      BR: { cite: "CONTRAN 924/2022, 966/2022", records: [br-contran-924, br-contran-966] }
+      GCC: { cite: "GSO-ECE 46", records: [gcc-gso-ece-46] }
+
+  - id: glazing
+    group: Lighting & visibility
+    title: Safety glazing
+    description: Windscreen & window glazing materials and installation. UN GTR 6.
+    powertrains: [all]
+    gtr: "GTR 6"
+    cells:
+      US: { cite: "FMVSS 205 (ANSI/SAE Z26.1) + FMVSS 212/219 (windshield mounting/zone intrusion)", records: [us-fmvss-205, us-fmvss-212, us-fmvss-219] }
+      CA: { cite: "CMVSS 205", records: [ca-mvsr-c-r-c---c--1038-s205] }
+      UN: { cite: "UN R43", records: [ece-r43] }
+      EU: { cite: "UN R43 via (EU) 2019/2144", records: [ece-r43] }
+      JP: { cite: "Safety Regs Art. 29", records: [jp-jvsregs-art29] }
+      KR: { cite: "KMVSS Art. 34, 105", records: [kr-kmvss-art34, kr-kmvss-art105] }
+      CN: { cite: "GB 9656-2021 (CCC component)", records: [cn-gb-9656-2021] }
+      AU: { cite: "ADR 8/01", records: [au-f2005l03908] }
+      BR: { cite: "CONTRAN 960/2022 (+ INMETRO)", records: [br-contran-960] }
+      GCC: { cite: "GSO-ECE 43 / GSO 3538; GSO 1677", records: [gcc-gso-ece-43-gso-3538, gcc-gso-1677-2002] }
+
+  - id: wipers
+    group: Lighting & visibility
+    title: Windscreen wiping & washing
+    description: Wiped area, frequency, washer performance.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 104", records: [us-fmvss-104] }
+      CA: { cite: "CMVSS 104", records: [ca-mvsr-c-r-c---c--1038-s104] }
+      EU: { cite: "(EU) 2021/535 Annex (ex-Reg. 1008/2010)", records: [eu-32021r0535] }
+      JP: { cite: "Safety Regs Art. 45", records: [jp-jvsregs-art45] }
+      KR: { cite: "KMVSS Art. 109", records: [kr-kmvss-art109] }
+      CN: { cite: "GB 15085-2013", records: [cn-gb-15085-2013] }
+      BR: { cite: "CONTRAN 224/2007", records: [br-contran-224] }
+      GCC: { cite: "SASO 3007:2022", records: [gcc-saso-3007-2022] }
+
+  - id: defrost
+    group: Lighting & visibility
+    title: Windscreen defrosting & demisting
+    description: Defrost/defog performance.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 103", records: [us-fmvss-103] }
+      CA: { cite: "CMVSS 103", records: [ca-mvsr-c-r-c---c--1038-s103] }
+      EU: { cite: "(EU) 2021/535 Annex (ex-Reg. 672/2010)", records: [eu-32021r0535] }
+      CN: { cite: "GB 11555-2025", records: [cn-gb-11555-2025] }
+      GCC: { cite: "SASO 3005:2022", records: [gcc-saso-3005-2022] }
+      JP: { cite: "Safety Regs / TRIAS", records: [jp-srrv-windshield-wiping-washing-defrosting-and-defogging] }
+
+  - id: forward-vision
+    group: Lighting & visibility
+    title: Driver's forward field of vision
+    description: A-pillar obscuration and forward visibility.
+    powertrains: [all]
+    cells:
+      UN: { cite: "UN R125", records: [ece-r125] }
+      EU: { cite: "UN R125 via (EU) 2019/2144", records: [ece-r125] }
+      KR: { cite: "KMVSS Art. 94", records: [kr-kmvss-art94] }
+      CN: { cite: "GB 11562-2025", records: [cn-gb-11562] }
+      AU: { cite: "ADR 93/00", records: [au-f2018l01521] }
+      GCC: { cite: "GSO-ECE 125", records: [gcc-gso-ece-125] }
+
+  # ───────────────────────── Controls, displays & signals ─────────────────────────
+  - id: controls-telltales
+    group: Controls, displays & signals
+    title: Controls, tell-tales & indicators (symbols)
+    description: Identification and illumination of controls and warning lamps.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 101; FMVSS 102 (shift sequence)", records: [us-fmvss-101, us-fmvss-102] }
+      CA: { cite: "CMVSS 101 (bilingual/symbol rules)", records: [ca-mvsr-c-r-c---c--1038-s101] }
+      UN: { cite: "UN R121", records: [ece-r121] }
+      EU: { cite: "UN R121 via (EU) 2019/2144", records: [ece-r121] }
+      JP: { cite: "Safety Regs Art. 10 / TRIAS", records: [jp-jvsregs-art10, jp-srrv-controls-tell-tales-indicators-and-driver-information] }
+      KR: { cite: "KMVSS Art. 13", records: [kr-kmvss-art13] }
+      CN: { cite: "GB 4094-2016", records: [cn-gb-4094-2016] }
+      AU: { cite: "ADR 18/03 Instrumentation", records: [au-f2006l01392] }
+      BR: { cite: "CONTRAN 758/2018; 37/1998", records: [br-contran-758, br-contran-37] }
+      GCC: { cite: "GSO-ECE 121; SASO 3004:2022", records: [gcc-gso-ece-121, gcc-saso-3004-2022] }
+
+  - id: speedometer
+    group: Controls, displays & signals
+    title: Speedometer & odometer
+    description: Speed indication accuracy; odometer.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 101 (display only); 49 CFR 580 odometer disclosure", records: [us-cfr-part-580] }
+      UN: { cite: "UN R39", records: [ece-r39] }
+      EU: { cite: "UN R39 via (EU) 2019/2144", records: [ece-r39] }
+      JP: { cite: "Safety Regs / TRIAS", records: [jp-srrv-speedometer-and-odometer] }
+      KR: { cite: "KMVSS Art. 54, 110", records: [kr-kmvss-art54, kr-kmvss-art110] }
+      AU: { cite: "ADR 18/03", records: [au-f2006l01392] }
+
+  - id: horn
+    group: Controls, displays & signals
+    title: Audible warning device (horn)
+    description: Horn sound level and installation.
+    powertrains: [all]
+    cells:
+      UN: { cite: "UN R28", records: [ece-r28] }
+      EU: { cite: "UN R28 via (EU) 2019/2144", records: [ece-r28] }
+      JP: { cite: "UN R28 (applied)", records: [jp-srrv-audible-warning-devices] }
+      KR: { cite: "KMVSS Art. 53", records: [kr-kmvss-art53] }
+      AU: { cite: "ADR 94/00", records: [au-f2018l01513] }
+      BR: { cite: "CONTRAN 827/1998", records: [br-contran-827] }
+
+  - id: avas
+    group: Controls, displays & signals
+    title: Acoustic vehicle alerting system (AVAS) / quiet-vehicle sound
+    description: Minimum sound for hybrid & electric vehicles at low speed.
+    powertrains: [HEV, PHEV, BEV, FCEV]
+    cells:
+      US: { cite: "FMVSS 141", records: [us-fmvss-141] }
+      CA: { cite: "CMVSS 141", records: [ca-mvsr-c-r-c---c--1038-s141] }
+      UN: { cite: "UN R138", records: [ece-r138] }
+      EU: { cite: "UN R138 + (EU) 540/2014 AVAS obligation", records: [ece-r138, eu-32014r0540] }
+      JP: { cite: "Safety Regs Art. 43-7", records: [jp-jvsregs-art43-7] }
+      KR: { cite: "KMVSS Art. 53-3", records: [kr-kmvss-art53-3] }
+      AU: { cite: "ADR 113/00", records: [au-f2024l00089], status: phase-in }
+
+  # ───────────────────────── Tyres & wheels ─────────────────────────
+  - id: tyres
+    group: Tyres & wheels
+    title: Passenger car tyres (construction & performance)
+    description: Tyre strength, endurance, high speed, rolling resistance/wet grip/noise. UN GTR 16.
+    powertrains: [all]
+    gtr: "GTR 16"
+    cells:
+      US: { cite: "FMVSS 139 (+ 49 CFR 574 TIN/registration; 575.104 UTQG)", records: [us-fmvss-139, us-cfr-part-574, us-cfr575-104] }
+      CA: { cite: "Motor Vehicle Tire Safety Regulations SOR/2013-198", records: [ca-mvsr-sor-2013-198] }
+      UN: { cite: "UN R30 (construction); UN R117 (RR/wet grip/noise)", records: [ece-r30, ece-r117] }
+      EU: { cite: "UN R30/R117 via (EU) 2019/2144; tyre label (EU) 2020/740", records: [ece-r117] }
+      CN: { cite: "GB 9743-2024 (CCC component)", records: [cn-gb-9743-2024] }
+      AU: { cite: "ADR 23/03", records: [au-f2018l01518] }
+      BR: { cite: "CONTRAN 913/2022 + INMETRO certification", records: [br-contran-913] }
+      GCC: { cite: "GSO 51/52/53; GSO-ECE 30/117", records: [gcc-gso-51-2007, gcc-gso-ece-30, gcc-gso-ece-117] }
+      JP: { cite: "Safety Regs Art. 9 / TRIAS", records: [jp-jvsregs-art9, jp-srrv-tires-wheels-and-tpms] }
+
+  - id: tyre-installation
+    group: Tyres & wheels
+    title: Tyre selection, rims & installation (load/speed placard)
+    description: Fitment of tyres matching vehicle load/speed; spare wheel.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 110", records: [us-fmvss-110] }
+      CA: { cite: "CMVSS 110", records: [ca-mvsr-c-r-c---c--1038-s110] }
+      UN: { cite: "UN R142; UN R64 (temporary-use spare / run-flat)", records: [ece-r142, ece-r64] }
+      EU: { cite: "UN R142 via (EU) 2019/2144", records: [ece-r142] }
+      AU: { cite: "ADR 95/00", records: [au-f2018l01516] }
+      GCC: { cite: "GSO 1052:2002 (temporary spare)", records: [gcc-gso-1052-2000] }
+
+  - id: tpms
+    group: Tyres & wheels
+    title: Tyre pressure monitoring (TPMS)
+    description: Under-inflation detection & warning.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 138", records: [us-fmvss-138] }
+      CA: { cite: "CMVSS 138" }
+      UN: { cite: "UN R141", records: [ece-r141] }
+      EU: { cite: "UN R141 via (EU) 2019/2144", records: [ece-r141] }
+      KR: { cite: "KMVSS Art. 12-2", records: [kr-kmvss-art12-2] }
+      CN: { cite: "GB 26149-2017", records: [cn-gb-26149] }
+      GCC: { cite: "GSO-ECE 141", records: [gcc-gso-ece-141] }
+      JP: { cite: "Safety Regs / TRIAS", records: [jp-srrv-tires-wheels-and-tpms] }
+
+  # ───────────────────────── Body, interior & exterior ─────────────────────────
+  - id: door-latches
+    group: Body, interior & exterior
+    title: Door locks, latches & retention components
+    description: Door retention in crashes. UN GTR 1.
+    powertrains: [all]
+    gtr: "GTR 1"
+    cells:
+      US: { cite: "FMVSS 206", records: [us-fmvss-206] }
+      CA: { cite: "CMVSS 206", records: [ca-mvsr-c-r-c---c--1038-s206] }
+      UN: { cite: "UN R11", records: [ece-r11] }
+      EU: { cite: "UN R11 via (EU) 2019/2144", records: [ece-r11] }
+      KR: { cite: "KMVSS Art. 104", records: [kr-kmvss-art104] }
+      CN: { cite: "GB 15086-2013", records: [cn-gb-15086-2013] }
+      AU: { cite: "ADR 2/01", records: [au-f2006l01362] }
+      BR: { cite: "CONTRAN 885/2021", records: [br-contran-885] }
+
+  - id: external-projections
+    group: Body, interior & exterior
+    title: External projections
+    description: Exterior surface radii / protrusions.
+    powertrains: [all]
+    cells:
+      UN: { cite: "UN R26", records: [ece-r26] }
+      EU: { cite: "UN R26 via (EU) 2019/2144", records: [ece-r26] }
+      CN: { cite: "GB 11566-2024", records: [cn-gb-11566] }
+      AU: { cite: "ADR 92/00", records: [au-f2018l01520] }
+      GCC: { cite: "GSO-ECE 26; GSO 41", records: [gcc-gso-ece-26, gcc-gso-41-2007] }
+      JP: { cite: "Safety Regs / TRIAS", records: [jp-srrv-bumper-and-low-speed-impact-external-projections] }
+
+  - id: bumpers
+    group: Body, interior & exterior
+    title: Bumpers / low-speed impact
+    description: Low-speed damageability standards.
+    powertrains: [all]
+    cells:
+      US: { cite: "49 CFR 581 (passenger cars, 2.5 mph)", records: [us-cfr-part-581] }
+      CA: { cite: "CMVSS 215", records: [ca-mvsr-c-r-c---c--1038-s215] }
+      KR: { cite: "KMVSS Art. 93", records: [kr-kmvss-art93] }
+      UN: { cite: "UN R42 (front/rear protective devices) — rarely mandated" }
+
+  - id: power-windows
+    group: Body, interior & exterior
+    title: Power-operated windows, partitions & roof panels
+    description: Anti-pinch / switch design.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 118", records: [us-fmvss-118] }
+      CA: { cite: "CMVSS 118", records: [ca-mvsr-c-r-c---c--1038-s118] }
+      UN: { cite: "UN R21 (power-operated windows provisions)", records: [ece-r21] }
+      BR: { cite: "CONTRAN 908/2022", records: [br-contran-908] }
+
+  - id: flammability
+    group: Body, interior & exterior
+    title: Flammability of interior materials
+    description: Burn rate of interior trim materials.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 302", records: [us-fmvss-302] }
+      CA: { cite: "CMVSS 302", records: [ca-mvsr-c-r-c---c--1038-s302] }
+      UN: { cite: "UN R118 (buses only)", status: none }
+      KR: { cite: "KMVSS Art. 95", records: [kr-kmvss-art95] }
+      CN: { cite: "GB 8410-2006", records: [cn-gb-8410] }
+      GCC: { cite: "GSO 98:1988", records: [gcc-gso-98-1988] }
+
+  - id: hood-latch
+    group: Body, interior & exterior
+    title: Hood (bonnet) latch
+    description: Secondary latch requirement.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 113", records: [us-fmvss-113] }
+      CA: { cite: "CMVSS 113", records: [ca-mvsr-c-r-c---c--1038-s113] }
+      KR: { cite: "KMVSS Art. 21", records: [kr-kmvss-art21] }
+      BR: { cite: "CONTRAN 498/2014", records: [br-contran-498] }
+
+  - id: accelerator-control
+    group: Body, interior & exterior
+    title: Accelerator control systems
+    description: Return-to-idle; throttle failure modes.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 124", records: [us-fmvss-124] }
+      CA: { cite: "CMVSS 124", records: [ca-mvsr-c-r-c---c--1038-s124] }
+      KR: { cite: "KMVSS Art. 87", records: [kr-kmvss-art87] }
+      JP: { cite: "Safety Regs / TRIAS", records: [jp-srrv-accelerator-control] }
+      GCC: { cite: "SASO 3006:2022", records: [gcc-saso-3006-2022] }
+
+  - id: dimensions
+    group: Body, interior & exterior
+    title: Dimensions, masses & general construction
+    description: Maximum dimensions, axle loads, general safety specifications.
+    powertrains: [all]
+    cells:
+      EU: { cite: "(EU) 2021/535 + Directive 96/53/EC (weights & dimensions)", records: [eu-32021r0535] }
+      JP: { cite: "Safety Regs Art. 2 (length/width/height), Art. 5 (stability)", records: [jp-jvsregs-art2, jp-jvsregs-art5] }
+      KR: { cite: "KMVSS Art. 4–10", records: [kr-kmvss-art4, kr-kmvss-art6] }
+      CN: { cite: "GB 1589-2016 (dimensions, axle loads, masses); GB 7258-2017", records: [cn-gb-1589, cn-gb-7258-2017] }
+      AU: { cite: "ADR 43/04; ADR 42/04 General Safety", records: [au-f2006l01430, au-f2005l03996] }
+      GCC: { cite: "GSO 42:2015 General Requirements", records: [gcc-gso-42-2015] }
+      BR: { cite: "CONTRAN 912/2022 Mandatory Equipment", records: [br-contran-912] }
+
+  # ───────────────────────── Electrified & alternative powertrains ─────────────────────────
+  - id: ev-electrical-safety
+    group: Electrified & alternative powertrains
+    title: Electric powertrain safety (in-use high-voltage protection)
+    description: Protection against electric shock, isolation, charging. UN GTR 20.
+    powertrains: [HEV, PHEV, BEV, FCEV]
+    gtr: "GTR 20"
+    cells:
+      US: { cite: "FMVSS 305a (supersedes 305)", records: [us-fmvss-305a, us-fmvss-305] }
+      CA: { cite: "CMVSS 305", records: [ca-mvsr-c-r-c---c--1038-s305] }
+      UN: { cite: "UN R100 (Part I)", records: [ece-r100] }
+      EU: { cite: "UN R100 via (EU) 2019/2144", records: [ece-r100] }
+      JP: { cite: "Safety Regs Art. 17-2 (UN R100)", records: [jp-jvsregs-art17-2, jp-srrv-electric-vehicle-rechargeable-energy-storage-system] }
+      KR: { cite: "KMVSS Art. 18-2", records: [kr-kmvss-art18-2] }
+      CN: { cite: "GB 18384-2025", records: [cn-gb-18384-2020-gb-18384-2025] }
+      IN: { cite: "AIS-038 Rev 2", records: [in-ais-038-rev-2-ais-156] }
+      AU: { cite: "ADR 109/01", records: [au-f2023l01526], status: phase-in }
+      BR: { cite: "CONTRAN 749/2018", records: [br-contran-749] }
+      GCC: { cite: "GSO-ECE 100; MC-250905:2025 EV regulation", records: [gcc-gso-ece-100, gcc-mc-250905-2025] }
+
+  - id: ev-post-crash
+    group: Electrified & alternative powertrains
+    title: Post-crash high-voltage safety
+    description: Electrolyte spillage, isolation & REESS retention after crash tests.
+    powertrains: [HEV, PHEV, BEV, FCEV]
+    cells:
+      US: { cite: "FMVSS 305a (after FMVSS 208/214/301 tests)", records: [us-fmvss-305a] }
+      CA: { cite: "CMVSS 305", records: [ca-mvsr-c-r-c---c--1038-s305] }
+      UN: { cite: "UN R94/R95/R137/R153 HV annexes", records: [ece-r94, ece-r95, ece-r137, ece-r153] }
+      KR: { cite: "KMVSS Art. 91-3", records: [kr-kmvss-art91-3] }
+      CN: { cite: "GB 11551 / GB 20071 / GB 20072 HV provisions", records: [cn-gb-11551-2014, cn-gb-20071-2025, cn-gb-20072-2024] }
+
+  - id: reess
+    group: Electrified & alternative powertrains
+    title: Traction battery (REESS) safety
+    description: Thermal propagation, vibration, mechanical shock, fire, overcharge.
+    powertrains: [HEV, PHEV, BEV, FCEV]
+    cells:
+      US: { cite: "FMVSS 305a (REESS provisions)", records: [us-fmvss-305a] }
+      UN: { cite: "UN R100 (Part II)", records: [ece-r100] }
+      EU: { cite: "UN R100 + Battery Regulation (EU) 2023/1542 (sustainability, passport)", records: [ece-r100, eu-32023r1542] }
+      KR: { cite: "KMVSS Art. 18-3, 112-14", records: [kr-kmvss-art18-3, kr-kmvss-art112-14] }
+      CN: { cite: "GB 38031-2025 ('no fire, no explosion' — new types from Jul 2026)", records: [cn-gb-38031-2025], status: phase-in }
+      IN: { cite: "AIS-038 Rev 2 / AIS-156", records: [in-ais-038-rev-2-ais-156] }
+      AU: { cite: "ADR 109/01", records: [au-f2023l01526] }
+
+  - id: hydrogen
+    group: Electrified & alternative powertrains
+    title: Hydrogen fuel-cell vehicle safety
+    description: Compressed-hydrogen storage and fuel-system integrity. UN GTR 13.
+    powertrains: [FCEV]
+    gtr: "GTR 13"
+    cells:
+      US: { cite: "FMVSS 307 (fuel system integrity), 308 (storage)", records: [us-fmvss-307, us-fmvss-308] }
+      UN: { cite: "UN R134" }
+      JP: { cite: "Safety Regs Art. 17 (gaseous fuels); High Pressure Gas Safety Act", records: [jp-jvsregs-art17] }
+      AU: { cite: "ADR 110/00", records: [au-f2023l01530] }
+
+  # ───────────────────────── Emissions, energy & environment ─────────────────────────
+  - id: exhaust-emissions
+    group: Emissions, energy & environment
+    title: Light-duty exhaust & evaporative emissions (incl. RDE, OBD)
+    description: Pollutant limits and test procedures. UN GTR 15 (WLTP), GTR 19 (EVAP).
+    powertrains: [ICE, HEV, PHEV]
+    gtr: "GTR 15"
+    cells:
+      US: { cite: "40 CFR 86 Subpart S (Tier 3 → 2027+), 40 CFR 1066; CARB LEV IV (13 CCR 1961.4)", records: [us-40cfr-part-86, us-40cfr-part-1066, us-40cfr-part-85, us-stub-title-13-ccr-1961-4-1962-4-1962-8] }
+      CA: { cite: "On-Road Vehicle & Engine Emission Regs SOR/2003-2", records: [ca-mvsr-sor-2003-2] }
+      UN: { cite: "UN R83 (NEDC legacy); UN R154 (WLTP); UN R168 (RDE)", records: [ece-r83, ece-r154, ece-r168] }
+      EU: { cite: "Euro 6: 715/2007 + 2017/1151 → Euro 7: (EU) 2024/1257", records: [eu-32007r0715, eu-32017r1151, eu-32024r1257] }
+      JP: { cite: "Post-New Long-Term Regs (WLTC)", records: [jp-srrv-japan-passenger-vehicle-exhaust-emission-standards, jp-srrv-exhaust-emissions-and-obd] }
+      KR: { cite: "Clean Air Conservation Act; KMVSS Art. 36", records: [kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification, kr-kmvss-art36] }
+      CN: { cite: "GB 18352.6-2016 (China 6b)", records: [cn-gb-18352-6-2016] }
+      IN: { cite: "BS-VI (CMVR Rule 115)", records: [in-bs-vi-india-cafe-fuel-consumption] }
+      AU: { cite: "ADR 79/05; ADR 111/00; ADR 112/00 (RDE)", records: [au-f2024l00443, au-f2024l00446, au-f2024l00447] }
+      BR: { cite: "PROCONVE L7/L8 (CONAMA 492/2018); IBAMA IN 3/2021 (RDE)", records: [br-conama-492, br-ibama-in-3] }
+      GCC: { cite: "GSO-ECE 83 / 154; GSO MY2027 emission step", records: [gcc-gso-ece-83-gso-ece-154, gcc-gso-my2027-emission-limit-implementation] }
+
+  - id: co2-fuel-economy
+    group: Emissions, energy & environment
+    title: CO2 / fuel economy standards & consumer labels
+    description: Fleet-average CO2/fuel-economy targets and energy labels.
+    powertrains: [all]
+    cells:
+      US: { cite: "NHTSA CAFE 49 CFR 531/533; EPA GHG 40 CFR 86/600; fuel economy label 40 CFR 600", records: [us-cfr-part-531, us-cfr-part-533, us-40cfr-part-600] }
+      CA: { cite: "Passenger Automobile & Light Truck GHG Regs SOR/2010-201", records: [ca-mvsr-sor-2010-201] }
+      UN: { cite: "UN R101 (CO2/consumption measurement)", records: [ece-r101] }
+      EU: { cite: "(EU) 2019/631 fleet CO2; car labelling Dir. 1999/94/EC", records: [eu-32019r0631] }
+      JP: { cite: "FY2030 fuel-economy standards (Top Runner)", records: [jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars] }
+      KR: { cite: "KMVSS Art. 108-2; average fuel economy / GHG standards", records: [kr-kmvss-art108-2] }
+      CN: { cite: "GB 19578-2024 (limits); GB 27999-2025 (CAFC targets); dual-credit", records: [cn-gb-19578, cn-gb-27999] }
+      IN: { cite: "CAFE II/III (BEE)", records: [in-bs-vi-india-cafe-fuel-consumption] }
+      AU: { cite: "NVES Act 2024; ADR 81/03 label; ADR 114/00", records: [au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024, au-f2025l01402, au-f2026l00512] }
+      BR: { cite: "MOVER (ex-Rota 2030); INMETRO PBEV label", records: [br-mover-rota-2030] }
+      GCC: { cite: "SASO 2864 (CAFE) / SASO 2847 (label)", records: [gcc-saso-2847-saso-2864-2022] }
+
+  - id: exterior-noise
+    group: Emissions, energy & environment
+    title: Exterior noise (pass-by)
+    description: Vehicle sound level limits & test methods.
+    powertrains: [all]
+    cells:
+      US: { cite: "No federal light-vehicle noise limit (EPA 40 CFR 205 trucks only); state/local rules", status: none }
+      UN: { cite: "UN R51", records: [ece-r51] }
+      EU: { cite: "(EU) 540/2014", records: [eu-32014r0540] }
+      JP: { cite: "Noise Regulation Law; UN R51 (applied)", records: [jp-srrv-japan-motor-vehicle-noise-requirements] }
+      KR: { cite: "Noise and Vibration Control Act; KMVSS Art. 35", records: [kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise, kr-kmvss-art35] }
+      CN: { cite: "GB 1495-2002", records: [cn-gb-1495-2002] }
+      AU: { cite: "ADR 83/00", records: [au-f2005l03523] }
+      BR: { cite: "ABNT NBR 15145 / 9714 (IBAMA)", records: [br-abnt-nbr-15145] }
+      GCC: { cite: "GSO-ECE 51; GSO 1624", records: [gcc-gso-ece-51, gcc-gso-1624-2002] }
+
+  - id: mac-refrigerant
+    group: Emissions, energy & environment
+    title: Mobile air-conditioning refrigerants
+    description: Restrictions on high-GWP refrigerants (R-134a) and F-gases.
+    powertrains: [all]
+    cells:
+      US: { cite: "40 CFR 82 Subpart G (SNAP); AIM Act HFC phasedown", records: [us-40cfr-part-82] }
+      EU: { cite: "MAC Directive 2006/40/EC (GWP < 150); F-gas Reg. (EU) 2024/573", records: [eu-32006l0040, eu-32024r0573] }
+      JP: { cite: "Act on Rational Use and Proper Management of Fluorocarbons (GWP ≤150 target for cars)" }
+
+  - id: end-of-life
+    group: Emissions, energy & environment
+    title: End-of-life, recyclability & restricted substances
+    description: ELV recovery targets, heavy-metal bans, chemical restrictions.
+    powertrains: [all]
+    cells:
+      US: { cite: "No federal ELV law; California Prop 65 warnings; TSCA (PFAS reporting)", records: [us-stub-california-proposition-65] }
+      EU: { cite: "ELV Directive 2000/53/EC; REACH (EC) 1907/2006; Battery Dir./Reg.", records: [eu-32000l0053, eu-32006r1907, eu-32006l0066] }
+      JP: { cite: "Automobile Recycling Law", records: [jp-srrv-japan-automobile-recycling-law] }
+      KR: { cite: "Act on Resource Circulation of EEE and Vehicles", records: [kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles] }
+      CN: { cite: "GB/T 30512-2014 (prohibited substances); GB 26572-2025 (EEE hazardous substances)", records: [cn-gb-t-30512-2014, cn-gb-26572-2025] }
+
+  # ───────────────────────── Electronics, connectivity & cybersecurity ─────────────────────────
+  - id: emc
+    group: Electronics, connectivity & cybersecurity
+    title: Electromagnetic compatibility (vehicle & ESA)
+    description: Radiated emissions/immunity, incl. during charging.
+    powertrains: [all]
+    cells:
+      US: { cite: "47 CFR 15 (unintentional/intentional radiators) — no vehicle-level immunity regulation", records: [us-47cfr-part-15] }
+      CA: { cite: "ICES-002 (vehicles) / RSS-Gen", records: [ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices] }
+      UN: { cite: "UN R10 (06 series covers charging)", records: [ece-r10] }
+      EU: { cite: "UN R10 via (EU) 2019/2144", records: [ece-r10] }
+      JP: { cite: "UN R10 (applied)", records: [ece-r10] }
+      KR: { cite: "KMVSS Art. 107; Radio Waves Act (KC)", records: [kr-kmvss-art107, kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment] }
+      CN: { cite: "GB 34660 (vehicle EMC)", records: [cn-gb-34660] }
+      GCC: { cite: "GSO-ECE 10", records: [gcc-gso-ece-10] }
+
+  - id: radio-equipment
+    group: Electronics, connectivity & cybersecurity
+    title: Radio equipment approval (keyless, radar, telematics, Wi-Fi/BT)
+    description: Market approval for intentional radiators fitted to the vehicle.
+    powertrains: [all]
+    cells:
+      US: { cite: "FCC 47 CFR 15 / 95 (radar 76–81 GHz)", records: [us-47cfr-part-15] }
+      CA: { cite: "ISED RSS / certification", records: [ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices] }
+      EU: { cite: "Radio Equipment Directive 2014/53/EU (+ RED cybersecurity DA (EU) 2022/30 from Aug 2025)", records: [eu-32014l0053] }
+      JP: { cite: "Radio Act — MIC technical conformity (TELEC/giteki)", records: [jp-srrv-japan-radio-equipment-technical-conformity-certification] }
+      KR: { cite: "Radio Waves Act — KC conformity (RRA)", records: [kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment] }
+      CN: { cite: "SRRC type approval (MIIT)", records: [cn-china-srrc-miit-radio-transmission-equipment-type-approval] }
+      AU: { cite: "ACMA Radiocommunications Equipment (General) Rules 2021 — RCM", records: [au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma] }
+      BR: { cite: "ANATEL homologation", records: [br-anatel-cert] }
+
+  - id: cybersecurity
+    group: Electronics, connectivity & cybersecurity
+    title: Cybersecurity management system (CSMS) & vehicle type
+    description: Organisational CSMS certificate and vehicle-type cyber requirements.
+    powertrains: [all]
+    cells:
+      US: { cite: "No FMVSS — NHTSA cybersecurity best practices (2022); connected-vehicle ICTS rule 15 CFR 791 (supply-chain)", status: voluntary }
+      UN: { cite: "UN R155", records: [ece-r155] }
+      EU: { cite: "UN R155 via (EU) 2019/2144 (all new vehicles since Jul 2024)", records: [ece-r155] }
+      JP: { cite: "UN R155 (applied)", records: [ece-r155] }
+      KR: { cite: "KMVSS cybersecurity provisions (UN R155-based; 2025+)", status: phase-in }
+      CN: { cite: "GB 44495-2024 (new types Jan 2026)", records: [cn-gb-44495-2024], status: phase-in }
+      IN: { cite: "AIS-189 (UN R155-based)", status: proposed }
+      GCC: { cite: "GSO-ECE 155", records: [gcc-gso-ece-155] }
+
+  - id: software-updates
+    group: Electronics, connectivity & cybersecurity
+    title: Software update management (SUMS / OTA)
+    description: SUMS certificate, RXSWIN, OTA safety.
+    powertrains: [all]
+    cells:
+      US: { cite: "No FMVSS; OTA remedies reported under Part 573", records: [us-cfr-part-573], status: none }
+      UN: { cite: "UN R156", records: [ece-r156] }
+      EU: { cite: "UN R156 via (EU) 2019/2144", records: [ece-r156] }
+      JP: { cite: "UN R156 (applied) + RTVA software-update permission system", records: [ece-r156] }
+      CN: { cite: "GB 44496-2024 (new types Jan 2026); MIIT OTA filing", records: [cn-gb-44496-2024], status: phase-in }
+      IN: { cite: "AIS-190 (UN R156-based)", status: proposed }
+      GCC: { cite: "GSO-ECE 156", records: [gcc-gso-ece-156] }
+
+  - id: ecall
+    group: Electronics, connectivity & cybersecurity
+    title: Emergency call (eCall / AECS)
+    description: Automatic crash notification to emergency services.
+    powertrains: [all]
+    cells:
+      US: { cite: "No requirement", status: none }
+      UN: { cite: "UN R144 (AECS)", records: [ece-r144] }
+      EU: { cite: "(EU) 2015/758 eCall (NG-eCall transition)" }
+      GCC: { cite: "UAE.S 5019:2024 (UAE eCall)", records: [gcc-uae-s-5019-2024] }
+      IN: { cite: "AIS-140 (tracking + emergency button; public-service vehicles)" }
+
+  # ───────────────────────── Theft protection ─────────────────────────
+  - id: anti-theft
+    group: Theft protection
+    title: Immobilizer, anti-theft & alarm systems
+    description: Protection against unauthorized use.
+    powertrains: [all]
+    cells:
+      US: { cite: "FMVSS 114 (key/rollaway); 49 CFR 541 parts marking (or 543 exemption)", records: [us-fmvss-114, us-cfr-part-541, us-cfr-part-543] }
+      CA: { cite: "CMVSS 114 (immobilizer mandatory)", records: [ca-mvsr-c-r-c---c--1038-s114] }
+      UN: { cite: "UN R116 (legacy) → UN R161 (unauthorized use), R162 (immobilizer), R163 (alarm)", records: [ece-r116, ece-r161, ece-r162, ece-r163] }
+      EU: { cite: "UN R161/R162 via (EU) 2019/2144", records: [ece-r161, ece-r162] }
+      KR: { cite: "KMVSS Art. 22", records: [kr-kmvss-art22] }
+      CN: { cite: "GB 15740-2024", records: [cn-gb-15740] }
+      AU: { cite: "ADR 25/02; ADR 82/00 (immobilisers)", records: [au-f2006l02664, au-f2006l02665] }
+      BR: { cite: "CONTRAN 245/2007, 330/2009; 215/2006", records: [br-contran-245-330, br-contran-215] }
+      GCC: { cite: "GSO 1053:2002", records: [gcc-gso-1053-2002] }
