@@ -19,11 +19,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-586
 status: in-force
-summary: Replica motor vehicles produced by low-volume manufacturers (those with annual
-  worldwide production of no more than 5,000 vehicles) are regulated under this part,
-  which requires such manufacturers to register with NHTSA, meet eligibility and labeling
-  requirements, and limit production to no more than 325 replica...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: 49 CFR Part 586 implements 49 U.S.C. 30114(b) by letting registered low-volume
+  manufacturers (annual worldwide production of no more than 5,000 vehicles) build
+  up to 325 replica motor vehicles per year exempt from certain requirements. It sets
+  registration with NHTSA, labeling, reporting and revocation provisions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c08dff920d7f79c9a00b0d425c57275a5ba63354
 systems:
 - Vehicle identification

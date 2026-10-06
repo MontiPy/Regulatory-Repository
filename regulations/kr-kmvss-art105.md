@@ -22,11 +22,13 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Windshield safety for passenger cars requires that glazing meet mechanical
-  strength standards set by the Minister of Land, Infrastructure and Transport, and
-  that windshields withstand a 48.3 km/h frontal wall impact by maintaining specified
-  minimum attachment to the retention frame (50% for vehicles with automatic...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 105 of the Korean Motor Vehicle Safety Standards (KMVSS) sets windshield
+  safety requirements. Glazing must have the mechanical strength prescribed by the
+  Minister. In a 48.3 km/h frontal barrier impact, a passenger car windshield must
+  stay attached to a minimum share of its retention frame (50% per side with airbag
+  or automatic belt, 75% without), and exterior components must not intrude beyond
+  a 6.3 mm limit. Open-top, forward control and light-class vehicles are exempt.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9e76af8a8b689fee6fc60126f8c7f503182596fb
 systems:
 - Glazing

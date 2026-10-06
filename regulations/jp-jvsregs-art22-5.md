@@ -20,11 +20,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Passenger vehicles in Japan (with specified exclusions, including large-capacity,
-  low-speed, and wheelchair-accessible vehicles) must be fitted with child restraint
-  system anchorages that meet ministerial strength and positioning standards; child
-  restraint systems themselves must also meet structural and performance...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 22-5 of Japan's Road Transport Vehicle Safety Regulations requires
+  passenger-transport motor vehicles to be fitted with child restraint system anchorages,
+  with exclusions such as vehicles seating 10 or more and two- and three-wheeled vehicles,
+  and an exception for certain wheelchair-accessible vehicles. Anchorages and child
+  restraint systems must meet ministerial standards for strength, position, structure
+  and performance.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c7a132be6b66c47649fd2836b6dd92432cb11d2b
 systems:
 - Restraints

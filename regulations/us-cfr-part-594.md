@@ -18,11 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-594
 status: in-force
-summary: Fees required for vehicle importation-related activities under NHTSA's authority
-  — including Registered Importer registration, eligibility determinations for nonconforming
-  vehicles, and bond processing — are established by this part, which sets the amounts,
-  payment schedules, and methods that applicants and importers...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 49 CFR Part 594 establishes the fees authorized by 49 U.S.C. 30141 so NHTSA
+  recovers the cost of the importer registration program, eligibility determinations
+  for nonconforming vehicles and bond processing. It applies to Registered Importer
+  applicants and holders, to manufacturers petitioning under Part 593, and to importers
+  of vehicles under such a determination.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e39bbbb729f654508542055ef3c3b453ae2e3b00
 systems: []
 tagged_at: '2026-06-16T15:44:39+00:00'

@@ -22,11 +22,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-574
 status: in-force
-summary: Tire identification and recordkeeping for new tires, retreaded tires, and
-  non-pneumatic tires used on motor vehicles are regulated under this part, which
-  requires manufacturers, brand name owners, retreaders, distributors, and dealers
-  to identify tires, maintain purchaser records, and provide registration information...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 49 CFR Part 574 sets how new tire manufacturers, brand name owners and retreaders
+  identify tires for use on motor vehicles and how tire purchaser records are maintained.
+  It also sets registration-form duties for independent dealers and distributors and
+  reporting of purchaser names to manufacturers and brand name owners.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: cd7d79724b621e8451f7172775ffdcb70a224d3d
 systems:
 - Tires & wheels

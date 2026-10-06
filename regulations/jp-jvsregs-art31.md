@@ -23,11 +23,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Motor vehicle emission control under Japanese vehicle safety regulations
-  requires that vehicles not emit excessive smoke, harmful gases, or exhaust pollutants
-  (including CO, hydrocarbons, NOx, particulate matter, and black smoke), and mandates
-  that vehicles be equipped with compliant emission control devices, blowby...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 31 of Japan's Road Transport Vehicle Safety Regulations covers emission
+  control. Vehicles must not emit excessive smoke, malodorous or harmful gas, and
+  must meet ministerial exhaust standards by fuel type for CO, HC, NOx, particulate
+  matter and black smoke. It also sets requirements for emission control devices,
+  blowby gas recirculation, evaporative hydrocarbons from gasoline vehicles, air conditioning
+  conduits and exhaust pipe mounting.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 6dcb61000de7b49c3f20279a109e6c0f7edb23e8
 systems:
 - Emissions

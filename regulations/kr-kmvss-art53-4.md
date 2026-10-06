@@ -21,11 +21,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Child presence detection systems in school vans for children are regulated,
-  requiring a confirmation button near the rearmost seats that must be pressed within
-  3 minutes of engine shutoff or key removal; if not pressed, a warning sound of at
-  least 60 dB(A) and indicator lamp must activate and can only be deactivated...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Requires school vans for children to have a child presence detection system.
+  If the confirmation button near the rearmost seats is not pressed within 3 minutes
+  after the engine stops, a warning sound device and indicator lamp activate, with
+  the warning sound at least 60 dB(A) measured 2 m from the vehicle. Added 2019-03-21.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 62807f0e92709773db5260f4dd71cfba96100a9a
 systems:
 - Lighting & signaling

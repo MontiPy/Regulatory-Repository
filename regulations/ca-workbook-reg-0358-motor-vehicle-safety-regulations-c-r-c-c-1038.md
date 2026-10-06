@@ -19,11 +19,13 @@ region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/
 status: in-force
-summary: Canadian Motor Vehicle Safety Regulations establish the legal framework requiring
-  manufacturers and importers of prescribed vehicle classes to affix compliance labels
-  bearing the National Safety Mark, maintain specified records, submit proper import
-  declarations, and report defects or non-compliances through a formal...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: Workbook entry for Canada's Motor Vehicle Safety Regulations (C.R.C., c.
+  1038), described as the overarching framework for certification, market entry and
+  recall of vehicles sold or imported in Canada. It points to compliance labels and
+  the National Safety Mark, records, import documents and defect and non-compliance
+  reporting, alongside the CMVSS standards. The body is summary text, not the regulation
+  itself.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d761d563471a98784554ea4cdb431626a2686857
 systems:
 - Vehicle identification

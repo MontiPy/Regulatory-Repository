@@ -225,3 +225,15 @@ Worth a human look:
 - UN R83 (09 series) and R160 (01 series) say "entry into force TBC" in the OJ text.
 - The ADR 30/01 compilation header refers to ADR 79/05, which looks like an error in the source.
 - Some loose commodity and system tags remain where the taxonomy has no better value.
+
+### Phase 5: low-severity findings (2026-10-06)
+
+- **498 low findings**: 210 records were patched (257 validated fields). Many findings were already fixed by the re-pull, the re-check or earlier rounds. Findings with no evidence in the record body were skipped. The knowledge layer took 25 crosswalk fixes and 17 market/glossary fixes; uncertain facts are hedged with "verify" or "reported".
+- **Cut-off summaries**: the summary generator hard-cut text at 320 characters, which left 347 summaries ending in "...". It now cuts at a sentence boundary. 235 summaries were trimmed back to their last complete sentence and 112 were rewritten from the record text. None remain cut off.
+- **Orchestrator vetoes**: R94 was not added to GB 11551 (that standard is full-width, the R137 equivalent). ISO 24089 R156 moved to the machine-suggested field. The Suspension tag was dropped from JVSR Art. 5. Egypt's E62 is marked "reported".
+
+Left for a human (cannot be fixed from metadata):
+- `us-fmvss-224` body reads "4,356 kg" (probably 4,536). Body edits are out of scope.
+- `us-stub-nom-042-semarnat-2003` is a Mexican record with a `us-` id.
+- `kr-kmvss-art18-5` has no article text.
+- Some template-body records (GCC, some JP/ZA workbook records) say in their summary that no regulation text is held.

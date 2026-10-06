@@ -17,11 +17,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-525
 status: in-force
-summary: Low-volume passenger automobile manufacturers and their eligibility for exemption
-  from federal average fuel economy standards are regulated under this part, which
-  establishes procedures and content requirements for petitioning the NHTSA Administrator
-  for an exemption and an alternative fuel economy standard....
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 49 CFR Part 525 sets procedures for low volume manufacturers of passenger
+  automobiles to petition NHTSA for exemption from the average fuel economy standards
+  and for an alternative standard. It specifies the content and format of petitions
+  and how they are processed, and applies to passenger automobile manufacturers.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e40473fa3097fafa6d40a49bf950cd64e781a244
 systems:
 - Emissions

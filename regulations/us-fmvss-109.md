@@ -22,11 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.109
 status: in-force
-summary: New pneumatic tires for passenger cars manufactured from 1949 through 1975,
-  new bias ply tires, and T-type spare tires are regulated under this standard, which
-  establishes requirements for tire dimensions, bead unseating resistance, strength,
-  endurance, and high-speed performance, as well as load ratings and labeling....
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: FMVSS No. 109 specifies tire dimensions and laboratory test requirements
+  for bead unseating resistance, strength, endurance and high speed performance, defines
+  tire load ratings, and sets labeling requirements for passenger car tires. It applies
+  to new pneumatic radial tires for passenger cars manufactured 1949 through 1975,
+  new pneumatic bias ply tires, and T-type spare tires.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 09575f49b5a279a8956500290f6eceee10e1acc7
 systems:
 - Tires & wheels

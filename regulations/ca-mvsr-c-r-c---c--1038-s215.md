@@ -17,11 +17,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Passenger car bumpers are regulated under this section, requiring them to
-  conform to either the United Nations Regulation No. 42 low-speed-impact standards
-  (2007 version, 00 series amendments) or the U.S. Code of Federal Regulations title
-  49, part 581 bumper requirements, with full compliance mandatory as of September...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: Section 215 of Canada's Motor Vehicle Safety Regulations requires passenger
+  cars to be fitted with bumpers conforming either to UN Regulation No. 42 (paragraph
+  6 and the Annex 3 low-speed impact test, 00 series, version of 12 June 2007) or
+  to 49 CFR Part 581 (United States). Conformity has been required since 1 September
+  2009.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 81fc5a9e701f73fb547c711cf12fea4ccb14386b
 systems:
 - Crashworthiness

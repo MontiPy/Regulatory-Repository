@@ -25,11 +25,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.500
 status: in-force
-summary: Low-speed vehicles (LSVs) operated on public roads are required to have a
-  maximum attainable speed of no more than 40 km/h (25 mph) and must be equipped with
-  specified safety equipment, including headlamps, turn signals, stop and taillamps,
-  reflectors, mirrors, a parking brake, a compliant windshield, seat belts at...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: FMVSS No. 500 specifies requirements for low-speed vehicles operated on public
+  roads. A low-speed vehicle must not exceed 40 km/h (25 mph) in 1.6 km and must be
+  equipped with items including headlamps, turn signal, tail and stop lamps, reflectors,
+  mirrors, a parking brake, a windshield, a VIN and seat belts at each seating position.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eec4bf0c089b7e5726e10a4d2c259666f8ff9888
 systems:
 - Lighting & signaling

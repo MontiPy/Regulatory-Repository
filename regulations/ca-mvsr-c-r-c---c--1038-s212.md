@@ -19,11 +19,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Windshield mounting for passenger cars and certain trucks, buses, and multi-purpose
-  passenger vehicles (GVWR of 4,536 kg or less) must conform to Technical Standards
-  Document No. 212 (TSD 212), with exemptions for forward control configuration vehicles,
-  open-body vehicles with fold-down or removable windshields, and...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: Section 212 of Canada's Motor Vehicle Safety Regulations requires passenger
+  cars, and trucks, buses and multi-purpose passenger vehicles of 4 536 kg GVWR or
+  less, to conform to TSD 212 (Windshield Mounting). Forward control configuration
+  vehicles, open-body vehicles with a fold-down or removable windshield and, for non-cars,
+  walk-in vans are excluded.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 902dac89e5b6d9ad609505602e02d740d809b488
 systems:
 - Glazing

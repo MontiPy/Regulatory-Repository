@@ -21,11 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Emergency autonomous braking systems installed in most motor vehicles in
-  Korea must meet specific performance standards based on vehicle type and weight,
-  with vehicles over 3.5 tonnes (vans, trucks, and special-purpose vehicles) required
-  to comply with Attached Table 7-8, and passenger cars and vehicles at or under...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Sets performance standards for emergency autonomous braking systems in motor
+  vehicles, excluding light-class vans and ultra-compact vehicles. Vans, trucks and
+  special-purpose vehicles over 3.5 tonnes gross weight follow Attached Table 7-8,
+  and passenger cars and those of 3.5 tonnes or less follow Attached Table 7-9. Fully
+  amended 2022-10-26.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ba8c830b241828e663f673e591b0b9dafdc16f12
 systems:
 - Braking

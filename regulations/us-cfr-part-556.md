@@ -18,11 +18,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-556
 status: in-force
-summary: Manufacturers of motor vehicles and replacement equipment seeking exemption
-  from federal defect notification and remedy requirements are covered by this regulation,
-  which establishes the procedures for petitioning NHTSA to claim that a safety defect
-  or noncompliance is inconsequential to motor vehicle safety....
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: 49 CFR Part 556 sets procedures for manufacturers of motor vehicles and replacement
+  equipment to petition NHTSA for exemption from the notification and remedy requirements
+  when a safety defect or noncompliance is inconsequential to motor vehicle safety.
+  It specifies petition contents and gives interested persons an opportunity to comment.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5b43bc46bcccdb21bc4fdc54b43594be93935b7a
 systems: []
 tagged_at: '2026-06-16T15:44:35+00:00'

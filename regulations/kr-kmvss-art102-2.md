@@ -20,11 +20,13 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Pedestrian protection requirements for passenger cars, vans up to 4.5 tonnes
-  GVW, trucks, and special-purpose vehicles (excluding ultra-compact vehicles and
-  short-cab configurations) mandate that vehicles meet specified injury criteria when
-  a head form is impacted against the hood area at 35 km/h and when a leg form...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Article 102-2 of the Korean Motor Vehicle Safety Standards (KMVSS) sets pedestrian
+  protection requirements for passenger cars, vans up to 4.5 tonnes GVW, trucks and
+  special-purpose vehicles, with exclusions for ultra-compact vehicles and some vehicles
+  with a short front axle to driver seating reference point distance. Head form impact
+  at 35 km/h and leg form impacts at 40 km/h must meet the injury criteria in Attached
+  Table 14-6.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: deb003509a0bb53f223f667f739b22fc55c24423
 systems:
 - Pedestrian protection

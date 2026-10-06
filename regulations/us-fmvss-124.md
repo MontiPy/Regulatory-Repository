@@ -22,11 +22,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.124
 status: in-force
-summary: Accelerator control systems on passenger cars, multipurpose passenger vehicles,
-  trucks, and buses must be designed with at least two independent energy sources
-  capable of returning the throttle to idle when the driver releases the accelerator,
-  and must also return to idle if any single component in the system is...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: FMVSS No. 124 requires a vehicle's throttle to return to the idle position
+  when the driver removes the actuating force from the accelerator control, or if
+  the control system is severed or disconnected. It requires two sources of energy
+  for return and sets maximum return times of 1 second (GVWR 4,536 kg or less) or
+  2 seconds (above), 3 seconds at very low ambient temperatures. Applies to passenger
+  cars, multipurpose passenger vehicles, trucks and buses.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 02f4aa5a587fda1352b60c5dd6d521c1fe138f02
 systems:
 - Tell-tales & controls

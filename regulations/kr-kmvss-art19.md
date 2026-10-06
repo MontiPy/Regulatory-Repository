@@ -24,11 +24,13 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Motor vehicle frames and bodies must meet structural rigidity, attachment,
-  and safety standards, including limits on rear overhang distance, required display
-  of gross vehicle weight and payload information on certain vehicle types, and mandatory
-  side and rear underrun protection devices on heavy trucks and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'Sets requirements for the frame and body of motor vehicles: rigid structure,
+  limits on rear overhang, gross vehicle weight and payload marking on trucks, side
+  and rear underrun protection for heavy trucks, special-purpose vehicles and articulated
+  vehicles, high-pressure gas container placement, and no sharp body protrusions.
+  Also covers yellow colour, signs and stop signal devices for school vans and guard
+  panels for open-top double-decker large vans.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2225d95c82bf8bee5e8825b2de868e71aed20608
 systems:
 - Crashworthiness

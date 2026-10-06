@@ -22,11 +22,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Seat belts and seat belt anchorages in motor vehicles (excluding two-wheeled
-  vehicles and those with a maximum speed under 20 km/h) are regulated, requiring
-  fitment of Type 1 or Type 2 seat belts appropriate to each vehicle category and
-  seat position so as to restrain occupants during a collision or similar impact....
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 22-3 of Japan's Road Transport Vehicle Safety Regulations requires
+  motor vehicles (excluding two-wheelers and vehicles under 20 km/h, other than special
+  vehicles) to have seat belts and anchorages of Type 1 or Type 2 depending on vehicle
+  class and seat position. Belts and anchorages must meet ministerial standards, and
+  a seat belt non-fastening warning device is required for specified vehicle categories
+  and seats.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d7d249f964ff7a2f6dac2bad16733e9087dccd6e
 systems:
 - Restraints

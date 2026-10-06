@@ -20,11 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-523
 status: in-force
-summary: Vehicle classification under Part 523 establishes the categories of automobiles
-  and trucks subject to federal fuel economy requirements under title V of the Motor
-  Vehicle Information and Cost Savings Act, defining key terms such as vehicle classes,
-  weight ratings, cargo-carrying volume, and fuel types used to...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 49 CFR Part 523 establishes the vehicle categories (including passenger automobiles,
+  light trucks and medium-duty passenger vehicles) that are subject to title V of
+  the Motor Vehicle Information and Cost Savings Act, the fuel economy program. It
+  defines terms such as cab-complete vehicle, cargo-carrying volume and approach,
+  breakover and departure angles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c5e59363a78b9da0caf90fa35ff8860b91ed8d0c
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'

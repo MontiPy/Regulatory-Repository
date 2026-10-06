@@ -21,11 +21,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Passenger seat dimensions in Korean motor vehicles are regulated under this
-  article, which sets minimum size, spacing, and height requirements for seats across
-  different vehicle types — including passenger cars, vans, trucks, and school vans
-  for children — while also restricting sideways-facing seats and allowing...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'Sets passenger seat dimension requirements: a 5th percentile adult female
+  dummy must fit in passenger car seats, and minimum seat width, depth and spacing
+  apply to vans, trucks and special-purpose vehicles. It also sets separate seat and
+  seatback height rules for school vans for children, a 40-50 cm seat height for larger
+  vans, and conditions for removable rear seats in passenger cars.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 345aa160f395d2983ea1b5ac02dea9bb3e486a9a
 systems:
 - Restraints

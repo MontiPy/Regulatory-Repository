@@ -21,15 +21,14 @@ source_url: https://www.ecfr.gov/current/title-49/part-531
 status: in-force
 status_note: Standards reset by NHTSA SAFE Vehicles Rule III (FR 2026-19964, 30 Sep
   2026, effective 30 Nov 2026); text here predates it — re-pull.
-summary: Average fuel economy standards for passenger automobiles require manufacturers
-  to meet minimum fleet-average fuel economy levels, expressed in miles per gallon,
-  for specified model years, with separate standards applicable to domestically manufactured
-  fleets and alternative standards designated for specific low-volume...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 49 CFR Part 531 establishes minimum average fuel economy standards, in miles
+  per gallon, for passenger automobiles under 49 U.S.C. 32902. It applies to manufacturers
+  of passenger automobiles and sets fleet standards by model year, plus a minimum
+  standard for domestically manufactured passenger automobiles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2ae9de5d0b20388cd6dc74e59cfdafc838901622
 systems:
 - Emissions
-- HVAC
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 531—PASSENGER AUTOMOBILE AVERAGE FUEL ECONOMY STANDARDS

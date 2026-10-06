@@ -21,11 +21,12 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iatfglobaloversight.org/iatf-169492016/about/
 status: in-force
-summary: IATF 16949 is an automotive quality management system standard, commonly
-  required by OEMs and customers, that mandates structured processes covering advanced
-  product quality planning (APQP), production part approval (PPAP), control plans,
-  supplier management, audit records, and corrective-action systems to support...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Entry for IATF 16949, an automotive quality management system standard. The
+  record states it is not a government regulation by itself but is commonly required
+  by OEMs and customers, and is used as supporting evidence for conformity of production,
+  APQP, PPAP, control plans, supplier quality and corrective-action systems. It lists
+  ISO 9001 and UNECE CoP among related items. The record holds no standard text.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 26fdf175273e2a8a4180bc8be56df6b614f19a29
 systems: []
 tagged_at: '2026-06-16T15:44:35+00:00'

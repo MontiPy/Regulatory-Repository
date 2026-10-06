@@ -19,11 +19,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Windshield zone intrusion protection for passenger cars and light-duty trucks,
-  buses, and multi-purpose passenger vehicles (GVWR of 4,536 kg or less) requires
-  these vehicles to conform to Technical Standards Document No. 219, with exceptions
-  for forward control configuration vehicles, open-body vehicles with fold-down...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Section 219 of Canada's Motor Vehicle Safety Regulations requires passenger
+  cars, and trucks, buses and multi-purpose passenger vehicles of 4 536 kg GVWR or
+  less, to conform to TSD 219 (Windshield Zone Intrusion). Forward control configuration
+  vehicles, open-body vehicles with a fold-down or removable windshield and, for non-cars,
+  walk-in vans are excluded.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9c7782739d7f46087b65486571bfcbe709d92259
 systems:
 - Glazing

@@ -19,11 +19,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Fuel economy standards for motor vehicles sold in South Korea require that
-  actual fuel economy values not fall below the manufacturer's declared values by
-  more than 5%, measured separately for urban and highway driving for passenger cars,
-  small vans, and light trucks, and by constant-speed driving for all other...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 108-2 of the Korean Motor Vehicle Safety Standards (KMVSS) requires
+  the fuel economy of motor vehicles sold to consumers to be within -5% of the manufacturer's
+  declared values. For passenger cars, vans up to 15 seats and 3.5 tonnes GVW, and
+  light-class and small trucks, this applies to urban and highway fuel economy; for
+  other vehicles, to constant-speed fuel economy. Fully amended 2025-03-14.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5b4e362823498ebade26be922e80df6018b7c0e5
 systems:
 - Emissions

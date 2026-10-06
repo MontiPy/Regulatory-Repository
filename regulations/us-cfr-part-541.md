@@ -22,11 +22,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-541
 status: in-force
-summary: Major parts of certain passenger motor vehicles — including passenger cars,
-  multipurpose passenger vehicles, and qualifying light-duty trucks at or under 6,000
-  lbs GVWR — must have an identifying number (typically the VIN) affixed or inscribed
-  on up to 18 specified parts to help trace and recover components from...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 49 CFR Part 541, the Federal Motor Vehicle Theft Prevention Standard, specifies
+  performance requirements for identifying numbers or symbols on major parts of certain
+  passenger motor vehicles, to help trace and recover parts from stolen vehicles.
+  It covers passenger cars, multipurpose passenger vehicles up to 6,000 lb GVWR and
+  designated light-duty trucks, with exclusions for small manufacturers and low-volume
+  lines.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: fc12228c124806d9dd27bc6a47bb3e30b308849f
 systems:
 - Vehicle identification

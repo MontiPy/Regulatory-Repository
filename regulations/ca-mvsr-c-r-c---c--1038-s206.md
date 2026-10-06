@@ -20,17 +20,20 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Door locks and door retention components on buses (4,536 kg GVWR or less),
-  enclosed motorcycles, multi-purpose passenger vehicles, three-wheeled vehicles,
-  passenger cars, and trucks equipped with side or back doors must comply with either
-  Technical Standards Document No. 206 or the specified series of United Nations...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Section 206 of Canada's Motor Vehicle Safety Regulations requires buses of
+  4 536 kg GVWR or less, enclosed motorcycles, multi-purpose passenger vehicles, three-wheeled
+  vehicles, passenger cars and trucks that have side or back doors to meet either
+  TSD 206 (Door Locks and Door Retention Components) or United Nations Regulation
+  No. 11 as amended by the 03 or 04 series of amendments.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1e3c03e2a8b5d9508652e2ba39c02cbd971094ef
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 206 — Door Locks and Door Retention Components
+un_equivalent:
+- UN R11
 un_equivalent_ai:
 - UN R11
 vehicle_categories:

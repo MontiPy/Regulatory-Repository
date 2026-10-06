@@ -22,11 +22,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Built-in restraint systems and built-in booster seats installed in vehicles
-  must meet construction, material flammability, and structural requirements specified
-  under Test Method 213.4, including standards for torso and crotch restraint, belt
-  adjustability, buckle release force, webbing strength and durability, and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Section 213.4 of Canada's Motor Vehicle Safety Regulations sets requirements
+  for built-in restraint systems and built-in booster seats, tested under Test Method
+  213.4 (November 2012). Materials must meet TSD 302 flammability requirements, and
+  belts, buckles and webbing must meet specified TSD 209 provisions. Buckle release
+  forces and webbing breaking strength (at least 11 000 N) are specified.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2a68f46da26afca143f1d3ae4a79acbb0b65263f
 systems:
 - Restraints

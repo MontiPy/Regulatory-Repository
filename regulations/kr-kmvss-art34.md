@@ -21,11 +21,13 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Glazing materials for motor vehicle windows specifies that windscreens must
-  be laminated or glass-plastic composite glass, while other windows must use one
-  of several approved glass types; it also requires that electrically operated windows,
-  sunroofs, and partition doors in passenger cars and vans up to 4.5 tonnes GVW...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'Sets glazing requirements: the windscreen must be laminated or glass-plastic
+  composite glass, and other windows must be one of the listed glazing types, with
+  exceptions for convertibles, camper vehicles and towed vehicles. It also regulates
+  power-operated windows, sunroofs and partition doors in passenger cars and vans
+  of 4.5 tonnes or less, including entrapment protection that reverses or reopens
+  the window.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: bc81c1ff190b4a4b41aee7fa1b3abcb650c3a40e
 systems:
 - Glazing

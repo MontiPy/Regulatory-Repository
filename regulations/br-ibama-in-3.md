@@ -22,11 +22,12 @@ region: BR
 source_api: brazil
 source_url: https://www.ibama.gov.br/component/legislacao/?legislacao=138776&view=legislacao
 status: in-force
-summary: Real Driving Emissions (RDE) testing of light passenger and commercial vehicles
-  under Brazil's PROCONVE L7 and L8 phases are regulated by this instruction, which
-  establishes the requirements and criteria for evaluating on-road exhaust emissions
-  using a Portable Emissions Measurement System (PEMS) in accordance with...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: IBAMA Normative Instruction 3/2021 sets the requirements and criteria for
+  evaluating light passenger and light commercial vehicles by real driving emissions
+  (RDE) testing for PROCONVE phases L7 and L8, under Chapter VIII of CONAMA Resolution
+  492/2018. The technical requirements are in its annex, which also covers emissions
+  family grouping. It enters into force 10 days after publication.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 6ea7f4860017fea1854c6d00f81574ba7907984f
 systems:
 - Emissions
