@@ -28,7 +28,7 @@ TAX = yaml.safe_load((ROOT / "taxonomy.yaml").read_text(encoding="utf-8"))
 UN_RE = re.compile(r"^UN R\d+[A-Z]?$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 LIST_TAX = {"systems": "systems", "commodities": "commodities", "vehicle_categories": "vehicle_categories"}
-STRING_FIELDS = {"title", "summary", "status_note", "citation"}
+STRING_FIELDS = {"title", "summary", "status_note", "citation", "source_url"}
 ALLOWED = set(LIST_TAX) | STRING_FIELDS | {"status", "un_equivalent", "un_equivalent_ai", "effective_date", "_stub_body", "_confirmed"}
 
 
@@ -56,6 +56,8 @@ def validate(field: str, value) -> str | None:
             return "empty string"
         if value.rstrip().endswith("...") or value.rstrip().endswith("…"):
             return "truncated text"
+        if field == "source_url" and not re.match(r"^https?://[^\s]+$", value):
+            return "bad URL"
         if field == "summary" and len(value) > 700:
             return "summary too long"
     return None
