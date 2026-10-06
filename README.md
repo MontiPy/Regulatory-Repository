@@ -278,7 +278,7 @@ See `connectors/_common.py` for shared utilities (rate limiting, frontmatter wri
 
 ## Notes on Korean (KR) records
 
-The law.go.kr website renders article content via JavaScript. Without a free API key from [open.law.go.kr](https://open.law.go.kr), the KR connector captures the page structure but not the full article body text. Set the `KR_LAW_API_KEY` environment variable to enable full text retrieval.
+The KR connector works without an API key: its public HTML fallback returns the full Korean article text (verified in the 2026-10 re-pull, where it matched the stored English translations). The optional `KR_LAW_API_KEY` for [open.law.go.kr](https://open.law.go.kr) switches to the JSON API, but registration requires Korean identity verification, so most users cannot get one and do not need it.
 
 ## Notes on Japanese (JP) records
 

@@ -1,6 +1,7 @@
 """law.go.kr connector — pulls Korean motor vehicle safety standards (KMVSS).
 
-Requires a free API key from https://open.law.go.kr — set KR_LAW_API_KEY env var.
+Optional: an open.law.go.kr API key (KR_LAW_API_KEY) switches to the JSON API; the public HTML
+fallback used without it returns full article text.
 Without a key, this connector falls back to scraping the public HTML pages.
 """
 from __future__ import annotations
@@ -149,7 +150,7 @@ def pull(manifest_path: Path, dest_dir: Path) -> list[Path]:
     api_key = os.environ.get("KR_LAW_API_KEY", "").strip()
 
     if not api_key:
-        print("  NOTE: KR_LAW_API_KEY not set. Using public HTML fallback (limited content).")
+        print("  NOTE: KR_LAW_API_KEY not set. Using public HTML fallback.")
 
     session = RateLimitedSession(rate=1.0)
     pulled: list[Path] = []
