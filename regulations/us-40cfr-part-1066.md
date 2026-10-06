@@ -43,7 +43,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 ---
 
 ## PART 1066—VEHICLE-TESTING PROCEDURES

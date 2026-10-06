@@ -37,7 +37,6 @@ un_equivalent_ai:
 - UN R13
 - UN R139
 vehicle_categories:
-- Passenger car
 - Light truck
 - Heavy truck
 - Bus

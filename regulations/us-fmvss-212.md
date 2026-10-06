@@ -32,8 +32,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.212 Standard No. 212; Windshield mounting.
-un_equivalent_ai:
-- UN R43
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -28,9 +28,7 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 542—PROCEDURES FOR SELECTING LIGHT DUTY TRUCK LINES TO BE COVERED BY THE
   THEFT PREVENTION STANDARD
-un_equivalent_ai:
-- UN R116
-- UN R162
+un_equivalent_ai: []
 vehicle_categories:
 - Light truck
 - Passenger car

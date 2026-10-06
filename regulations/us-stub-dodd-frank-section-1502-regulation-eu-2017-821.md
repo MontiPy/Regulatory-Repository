@@ -26,11 +26,13 @@ region: US
 source_api: spreadsheet
 source_url: https://eur-lex.europa.eu/eli/reg/2017/821/oj
 status: in-force
-summary: Conflict minerals and responsible sourcing rules require in-scope U.S. and
-  EU companies to conduct supply-chain due diligence on regulated minerals used in
-  vehicle electronics, batteries, and components, and to provide supporting evidence
-  through supplier declarations, smelter/refiner data, and compliance reporting....
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Dodd-Frank Section 1502 (SEC Rule 13p-1, Form SD) requires SEC-registered
+  issuers to disclose due diligence on conflict minerals (tin, tantalum, tungsten,
+  gold), and Regulation (EU) 2017/821 requires EU importers of those minerals and
+  metals to carry out supply-chain due diligence. They are separate instruments and
+  neither is a vehicle type-approval requirement; they affect vehicle makers and suppliers
+  only through supply-chain declarations.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 12e4c70a70da2871e4a65d9c8fe0ba78573a8e2c
 systems: []
 tagged_at: '2026-06-16T15:44:37+00:00'

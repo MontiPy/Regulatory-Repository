@@ -23,11 +23,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-85
 status: in-force
-summary: Clean alternative fuel conversions of light-duty, medium-duty, and heavy-duty
-  vehicles and engines are regulated under this subpart, which establishes the conditions
-  under which conversion manufacturers are exempt from the Clean Air Act's tampering
-  prohibition when altering a vehicle or engine to operate on a...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: EPA rules for control of air pollution from mobile sources, including exemption
+  of clean alternative fuel conversions from the tampering prohibition (Subpart F),
+  importation of nonconforming vehicles and engines (Subpart P), exclusions and exemptions
+  (Subpart R), emission recall (Subpart S), emission defect reporting (Subpart T),
+  warranty and the voluntary aftermarket part certification program (Subpart V), and
+  model year determination and compliance fees (Subparts X and Y).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3613d734b4fedcca2314cfd42efd53e1d0235f90
 systems:
 - Emissions

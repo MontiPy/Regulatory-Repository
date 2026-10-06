@@ -24,11 +24,11 @@ region: MX
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-042-semarnat-2003/
 status: in-force
-summary: New motor vehicles with a GVWR up to 3,857 kg that run on gasoline, LPG,
-  natural gas, or diesel are subject to maximum permissible limits on exhaust and
-  evaporative emissions. The regulation requires these vehicles to meet certified
-  emission standards covering exhaust pollutants (NOx, CO, HC, PM/PN), evaporative...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Mexican standard NOM-042-SEMARNAT-2003 sets maximum permissible limits for
+  exhaust emissions of total or non-methane hydrocarbons, carbon monoxide, nitrogen
+  oxides and particulate matter (mass), and for evaporative hydrocarbons, from new
+  vehicles up to 3,857 kg GVWR running on gasoline, LPG, natural gas or diesel.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 149273d552f493ceb38608f2dfd75ac1b81080f4
 systems:
 - Emissions
@@ -40,7 +40,6 @@ title: Maximum permissible exhaust and evaporative emissions for new vehicles up
   3,857 kg GVWR
 un_equivalent_ai:
 - UN R83
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

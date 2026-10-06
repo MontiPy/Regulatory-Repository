@@ -40,7 +40,6 @@ tagging_status: llm-tagged
 title: § 571.105 Standard No. 105; Hydraulic and electric brake systems.
 un_equivalent_ai:
 - UN R13
-- UN R13H
 vehicle_categories:
 - Light truck
 - Heavy truck

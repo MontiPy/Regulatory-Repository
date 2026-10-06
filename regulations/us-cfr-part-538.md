@@ -24,6 +24,8 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-538
 status: in-force
+status_note: Dual-fuel CAFE incentive applies only to model years 1993-2019; part
+  remains in the CFR but has no effect on current model years.
 summary: Manufacturer incentives for alternative fuel vehicles establishes minimum
   driving range requirements that passenger automobiles must meet to qualify as dual-fueled
   vehicles eligible for special fuel economy calculations under CAFE standards, covering
@@ -38,8 +40,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 538—MANUFACTURING INCENTIVES FOR ALTERNATIVE FUEL VEHICLES
-un_equivalent_ai:
-- UN R101
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 ---

@@ -34,8 +34,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.104 Standard No. 104; Windshield wiping and washing systems.
-un_equivalent_ai:
-- UN R45
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

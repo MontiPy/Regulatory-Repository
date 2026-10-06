@@ -30,6 +30,8 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 89 — Speed Limitation Devices
 vehicle_categories:
+- Passenger car
+- Light truck
 - Heavy truck
 - Bus
 ---

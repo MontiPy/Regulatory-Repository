@@ -35,7 +35,7 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 301.1
 un_equivalent_ai:
-- UN R153
+- UN R67
 vehicle_categories:
 - Passenger car
 - Light truck

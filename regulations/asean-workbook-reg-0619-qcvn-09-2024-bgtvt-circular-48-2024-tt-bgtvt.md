@@ -1,5 +1,5 @@
 ---
-citation: QCVN 09:2024/BGTVT / Circular 48/2024/TT-BGTVT
+citation: QCVN 09:2024/BGTVT (promulgated by Circular 48/2024/TT-BGTVT)
 commodities:
 - Exhaust
 - Fuel system
@@ -8,6 +8,7 @@ commodities:
 - ECUs
 - Wiring
 - Body structure
+effective_date: '2025-01-01'
 id: asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:
@@ -27,11 +28,12 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/circular-48-2024-tt-bgtvt-technical-regulations-on-technical-environmental-protection-consumption-of-648713.html
 status: in-force
-summary: Vehicles manufactured, assembled, or imported into Vietnam must meet local
-  technical safety and environmental standards under QCVN 09:2024/BGTVT, covering
-  whole-vehicle type approval, conformity of production, VIN and certification labeling,
-  emissions and fuel consumption evidence, and accompanying documentation such...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: QCVN 09:2024/BGTVT is Vietnam's national technical regulation on technical
+  safety and environmental protection for automobiles, promulgated through Circular
+  48/2024/TT-BGTVT. Vehicles manufactured, assembled or imported into Vietnam need
+  type approval and conformity-of-production evidence, with correct certification
+  labels and documentation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: dc5d7c5634cba4c5a0a6e1314ad8216a34d288dd
 systems:
 - Emissions
@@ -50,7 +52,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 ---

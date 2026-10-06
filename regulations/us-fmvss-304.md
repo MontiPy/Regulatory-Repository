@@ -34,7 +34,7 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.304 Standard No. 304; Compressed natural gas fuel container integrity.
 un_equivalent_ai:
-- UN R34
+- UN R110
 vehicle_categories:
 - Passenger car
 - Light truck

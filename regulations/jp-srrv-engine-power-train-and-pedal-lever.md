@@ -4,19 +4,7 @@ commodities:
 - Pedals
 id: jp-srrv-engine-power-train-and-pedal-lever
 last_pulled: '2026-06-01T18:54:41+00:00'
-open_tags:
-- REESS
-- high-voltage isolation
-- service disconnect
-- thermal runaway protection
-- CNG storage
-- LPG storage
-- hydrogen storage
-- crash shutoff valve
-- evaporative emission control
-- contactor weld
-- pressure relief valve
-- HV interlock
+open_tags: []
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm

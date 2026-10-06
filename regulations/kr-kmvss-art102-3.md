@@ -38,7 +38,7 @@ tagging_status: llm-tagged
 title: KMVSS Article 102-3 — Full Frontal Rigid Barrier Crash Safety
 translation_status: translated
 un_equivalent_ai:
-- UN R94
+- UN R137
 vehicle_categories:
 - Passenger car
 - Light truck

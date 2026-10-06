@@ -221,3 +221,340 @@
 | `crosswalk.yaml` | cw-02 pedestrian IN | applied |
 | `crosswalk.yaml` | cw-01 frontal-full CN (reviewer finding rejected; cite clarified) | applied |
 | `crosswalk.yaml` | cw-01 roof-crush CN | applied |
+
+## Phase 3 — medium/high findings via patch writers (validated)
+
+| Record | Field | Before | After |
+|---|---|---|---|
+| `au-f2012l01123` | summary | ADR 00/00 establishes definitions and vehicle category classifications under Australian Design Rules, administered under the Motor Vehicle Standards Act 1989. T | ADR 00/00 (Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories) 2005 Amendment 6) is a historic compilation made under the Motor Vehic |
+| `au-f2005l04012` | un_equivalent_ai | ['UN R48'] | ['UN R53'] |
+| `au-f2005l04012` | commodities | ['Lighting modules', 'Wiring', 'Connectors'] | ['Lighting modules'] |
+| `au-f2006l01280` | un_equivalent_ai | ['UN R83', 'UN R168'] | ['UN R24'] |
+| `au-f2006l01429` | un_equivalent_ai | ['UN R95'] | ∅ |
+| `au-f2006l01455` | un_equivalent_ai | ['UN R94', 'UN R137'] | ['UN R137'] |
+| `au-f2006l01786` | un_equivalent_ai | ['UN R121'] | ['UN R21'] |
+| `au-f2006l02312` | un_equivalent_ai | ['UN R17'] | ['UN R80'] |
+| `au-f2006l02664` | un_equivalent_ai | ['UN R116', 'UN R162'] | ['UN R18', 'UN R116'] |
+| `au-f2006l02729` | un_equivalent_ai | ['UN R112', 'UN R113'] | ['UN R56'] |
+| `au-f2020l01254` | summary | Vehicle marking requirements for Australian road vehicles, covering the fitment and visibility of vehicle plates, engine numbers, registration plates, and tray  | ADR 61/03 is the Australian Design Rule for vehicle marking, setting requirements for the marking of road vehicles so that they can be identified, including the |
+| `au-f2023l01321` | un_equivalent_ai | ['UN R158', 'UN R159'] | ['UN R151'] |
+| `au-f2023l01321` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus'] | ['Heavy truck'] |
+| `au-f2026l00278` | un_equivalent_ai | ['UN R157'] | ['UN R79'] |
+| `br-contran-215` | body | wrong-topic template text | honest reference stub |
+| `br-contran-215` | summary | CONTRAN Resolution 215/2006 regulates the manufacture, installation and use of bull bars (quebra-mato) on motor vehicles up to 3,500 kg GVW, including an identi | CONTRAN Resolution 215/2006 regulates the manufacture, installation and use of bull bars (quebra-mato) on motor vehicles up to 3,500 kg GVW, including an identi |
+| `br-contran-245-330` | status_note | ∅ | Installation schedule suspended by CONTRAN Resolution 559/2015 (effects of Res. 245/2007 and Art. 4 of Res. 330/2009); verify whether later repealed. |
+| `br-contran-245-330` | summary | Anti-theft equipment and immobilizer requirements for vehicles in Brazil are governed by CONTRAN Resolutions 245/2007 and 330/2009, which establish a schedule m | CONTRAN Resolutions 245/2007 and 330/2009 set out a schedule for mandatory factory installation of anti-theft equipment in new vehicles in Brazil. The mandatory |
+| `br-contran-37` | body | wrong-topic template text | honest reference stub |
+| `br-contran-37` | summary | CONTRAN Resolution 37/1998 sets rules for anti-theft sound alarms and other security accessories under Art. 229 of the Brazilian Traffic Code: alarms must not i | CONTRAN Resolution 37/1998 sets rules for anti-theft sound alarms and other security accessories under Art. 229 of the Brazilian Traffic Code: alarms must not i |
+| `br-contran-498` | body | wrong-topic template text | honest reference stub |
+| `br-contran-498` | systems | ['Crashworthiness'] | ∅ |
+| `br-contran-498` | summary | CONTRAN Resolution 498/2014 requires interior lining materials of national and imported vehicles manufactured from 1 Jan 2015 to have a flame propagation rate o | CONTRAN Resolution 498/2014 requires interior lining materials of national and imported vehicles manufactured from 1 Jan 2015 to have a flame propagation rate o |
+| `br-contran-764` | body | wrong-topic template text | honest reference stub |
+| `br-contran-764` | summary | CONTRAN Resolution 764/2018 sets the sound-pressure-level test method for vehicle horns (audible warning devices). | CONTRAN Resolution 764/2018 establishes the test method for measuring the sound pressure of vehicle horns and similar audible warning devices, with limits of 87 |
+| `br-contran-924` | body | wrong-topic template text | honest reference stub |
+| `br-contran-924` | summary | Interior and exterior mirrors on vehicles in Brazil are regulated under CONTRAN 924/2022 as part of the country's vehicle type-approval process, administered th | CONTRAN Resolution 924/2022 consolidates the rules on mandatory rear-view mirrors and camera-monitor devices for vehicles used in collective school transport. |
+| `br-mover-rota-2030` | citation | MOVER / Rota 2030 | Decree 12.435/2025 (Law 14.902/2024 - MOVER) |
+| `br-mover-rota-2030` | un_equivalent_ai | ['UN R101', 'UN R154'] | ∅ |
+| `br-mover-rota-2030` | systems | ['Emissions', 'EV charging', 'Battery safety'] | ['Emissions'] |
+| `br-mover-rota-2030` | summary | Brazil's Green Mobility and Innovation Program (MOVER), established by presidential decree, regulates the country's automotive energy efficiency and green mobil | Decree 12.435 of 15 April 2025, published in the Official Gazette on 16 April 2025, regulates Brazil's Green Mobility and Innovation Program (MOVER), the succes |
+| `br-abnt-nbr-15145` | commodities | ['Exhaust', 'Horn'] | ['Exhaust'] |
+| `br-abnt-nbr-15145` | summary | Brazilian vehicle noise standards (ABNT NBR 15145 / 9714) are administered through Brazil's vehicle type-approval process and set requirements for vehicle noise | ABNT NBR 15145 (vehicle acceleration noise, engineering method) and ABNT NBR 9714 (stationary noise near the exhaust) are the Brazilian standards used to measur |
+| `br-anatel-cert` | un_equivalent_ai | ['UN R10', 'UN R155'] | ∅ |
+| `br-anatel-cert` | systems | ['EMC', 'Cybersecurity'] | ['EMC'] |
+| `br-conama-492` | summary | New light road vehicles (passenger and commercial) sold in Brazil must meet the exhaust emission limits established under PROCONVE Phase L7, effective January 1 | CONAMA Resolution 492/2018 establishes PROCONVE phases L7 and L8 for new light road vehicles: L7 exhaust emission limits apply from 1 Jan 2022, and L8 introduce |
+| `br-contran-759` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus', 'Trailer'] | ['Passenger car', 'Light truck'] |
+| `br-contran-885` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus', 'Trailer'] | ['Passenger car', 'Light truck'] |
+| `br-contran-910` | summary | The provided text contains only navigation menus, website links, and header information from the Brazilian Ministry of Transportation's website, with no substan | CONTRAN Resolution 910/2022 sets occupant-protection requirements for frontal and rear impact and fuel-system integrity after impact for automobiles and derived |
+| `br-contran-910` | status_note | ∅ | Arts. 2-3 (ABNT NBR test requirements) were valid only until 31 Dec 2025; the Annex-based requirements (Art. 4 onward) continue to apply. |
+| `br-contran-954` | summary | Electronic stability control systems for new passenger and cargo vehicles (categories M1, M2, M3, N1, N2, N3) and trailers/semi-trailers (O3 and O4) sold in Bra | CONTRAN Resolution 954/2022 requires Electronic Stability Control (ESC) on new M1 and N1 vehicles, with a Vehicle Stability Function (VSF) allowed as an alterna |
+| `br-senatran-990` | summary | SENATRAN Ordinance 990/2022 governs the vehicle homologation, CAT (Certificate of Approval of Type), and RENAVAM registration procedure in Brazil. The full regu | SENATRAN Ordinance 990/2022 governs the procedure for vehicle homologation: granting the RENAVAM brand/model/version code and issuing the CAT (Certificado de Ad |
+| `ca-mvsr-c-r-c---c--1038-s102` | commodities | ['Steering column', 'Brakes', 'Pedals'] | ['Pedals'] |
+| `ca-mvsr-c-r-c---c--1038-s102` | un_equivalent_ai | ['UN R121'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s104` | un_equivalent_ai | ['UN R45'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s105` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus'] | ['Light truck', 'Heavy truck', 'Bus'] |
+| `ca-mvsr-c-r-c---c--1038-s108` | title | MVSR s. 108 — Three-wheeled Vehicles | MVSR s. 108 — Lamps, Reflective Devices and Associated Equipment (TSD 108) |
+| `ca-mvsr-c-r-c---c--1038-s108` | summary | Three-wheeled vehicles must be equipped with lamps, reflex reflectors, and associated components meeting the same standards required for passenger cars under TS | Passenger cars, multi-purpose passenger vehicles, trucks, trailers and buses must conform to Technical Standards Document No. 108, Lamps, Reflective Devices, an |
+| `ca-mvsr-c-r-c---c--1038-s1106` | systems | ['Vehicle identification'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s1106` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus', 'Trailer'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s111` | title | MVSR s. 111 — Passenger Cars and Three-wheeled Vehicles | MVSR s. 111 — Rear Vision Mirrors |
+| `ca-mvsr-c-r-c---c--1038-s111` | vehicle_categories | ['Passenger car'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus'] |
+| `ca-mvsr-c-r-c---c--1038-s113` | un_equivalent_ai | ['UN R11'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s114` | title | MVSR s. 114 — Immobilization System | MVSR s. 114 — Theft Protection and Rollaway Prevention |
+| `ca-mvsr-c-r-c---c--1038-s114` | summary | Passenger cars, three-wheeled vehicles, and multi-purpose passenger vehicles and trucks with a GVWR of 4,536 kg or less (excluding walk-in vans and emergency ve | Passenger cars, three-wheeled vehicles, and multi-purpose passenger vehicles and trucks of 4,536 kg GVWR or less (except walk-in vans) must conform to TSD 114,  |
+| `ca-mvsr-c-r-c---c--1038-s124` | un_equivalent_ai | ['UN R161'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s131` | un_equivalent_ai | ['UN R148'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s201` | un_equivalent_ai | ['UN R21', 'UN R94'] | ['UN R21'] |
+| `ca-mvsr-c-r-c---c--1038-s206` | un_equivalent_ai | ∅ | ['UN R11'] |
+| `ca-mvsr-c-r-c---c--1038-s208` | title | MVSR s. 208 — Seat Belt Fit | MVSR s. 208 — Seat Belt Assemblies (Installation) |
+| `ca-mvsr-c-r-c---c--1038-s210` | title | MVSR s. 210 — Transitional Provision | MVSR s. 210 — Seat Belt Anchorages |
+| `ca-mvsr-c-r-c---c--1038-s210-2` | un_equivalent_ai | ['UN R129', 'UN R145'] | ['UN R145'] |
+| `ca-mvsr-c-r-c---c--1038-s215` | systems | ['Crashworthiness', 'Pedestrian protection'] | ['Crashworthiness'] |
+| `ca-mvsr-c-r-c---c--1038-s215` | un_equivalent | ∅ | ['UN R42'] |
+| `ca-mvsr-c-r-c---c--1038-s216` | un_equivalent_ai | ['UN R135'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s301-1` | un_equivalent_ai | ['UN R153'] | ['UN R67'] |
+| `ca-mvsr-c-r-c---c--1038-s301-2` | un_equivalent_ai | ['UN R153'] | ['UN R110'] |
+| `ca-mvsr-c-r-c---c--1038-s302` | un_equivalent_ai | ['UN R21'] | ∅ |
+| `ca-mvsr-c-r-c---c--1038-s401` | un_equivalent_ai | ['UN R11'] | ∅ |
+| `ca-workbook-reg-0145-eccc-sor-2003-2` | summary | Emissions from on-road passenger cars in Canada, as marked in Schedule III of the Motor Vehicle Safety Regulations, are regulated to limit pollutants such as NO | Canadian regulations under the Canadian Environmental Protection Act, 1999 setting emission standards for new on-road vehicles and engines, including light-duty |
+| `ca-workbook-reg-0145-eccc-sor-2003-2` | vehicle_categories | ['Passenger car'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus'] |
+| `ca-workbook-reg-0568-sor-2010-90` | un_equivalent_ai | ['UN R16', 'UN R129'] | ['UN R44', 'UN R129'] |
+| `ca-workbook-reg-0568-sor-2010-90` | summary | Child restraint systems and booster seats sold in Canada are regulated to keep child occupants correctly positioned and restrained during crashes and normal dri | Canada's Motor Vehicle Restraint Systems and Booster Seats Safety Regulations set safety requirements for removable child restraint systems, including infant an |
+| `cn-china-srrc-miit-radio-transmission-equipment-type-approval` | un_equivalent_ai | ['UN R10'] | ∅ |
+| `cn-gb-11552` | un_equivalent | ∅ | ['UN R21'] |
+| `cn-gb-11552` | un_equivalent_ai | ['UN R21'] | ['UN R21'] |
+| `cn-gb-11552` | systems | ['Crashworthiness', 'Pedestrian protection'] | ['Crashworthiness'] |
+| `cn-gb-11552` | commodities | ['Body structure', 'Bumpers', 'Door latches & hinges', 'Seats'] | ['Body structure', 'Door latches & hinges', 'Seats'] |
+| `cn-gb-11555-2025` | un_equivalent_ai | ['UN R125'] | ∅ |
+| `cn-gb-11562` | body | wrong-topic template text | honest reference stub |
+| `cn-gb-11562` | summary | GB 11562-2025 regulates the forward field of view for drivers of light-duty vehicles in China. It mandates requirements and measurement methods to ensure driver | GB 11562-2025 sets requirements and measurement methods for the driver's forward direct field of view of light-duty vehicles (M1 and N1). It applies from 2027-0 |
+| `cn-gb-11562` | status | in-force | upcoming |
+| `cn-gb-11562` | status_note | ∅ | Published 2025-12-31; applies from 1 Jan 2027, replacing GB 11562-2014. |
+| `cn-gb-11562` | un_equivalent_ai | ['UN R125', 'UN R46'] | ['UN R125'] |
+| `cn-gb-11566` | summary | GB 11566-2024 regulates external projections on passenger cars in China, covering structural elements such as body-in-white, closures, crash structures, and rel | GB 11566-2024 specifies requirements for external projections of passenger cars (M1) to reduce injury to pedestrians and other road users from vehicle exterior  |
+| `cn-gb-13057` | summary | Seats, head restraints, seat tracks, anchorages, and related restraint hardware in passenger vehicles are regulated to ensure occupants and child restraints rem | GB 13057-2023 specifies strength requirements and tests for seats and their vehicle anchorages in buses (客车). It applies from 2024-01-01. |
+| `cn-gb-1495-2002` | systems | ['Noise', 'Emissions', 'Pedestrian protection'] | ['Noise'] |
+| `cn-gb-1495-2002` | commodities | ['Tires', 'Exhaust', 'Horn'] | ['Tires', 'Exhaust'] |
+| `cn-gb-1495-2002` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus'] |
+| `cn-gb-1495-2002` | un_equivalent_ai | ['UN R138'] | ∅ |
+| `cn-gb-15084-2022` | un_equivalent_ai | ['UN R125'] | ∅ |
+| `cn-gb-15085-2013` | un_equivalent_ai | ['UN R45'] | ∅ |
+| `cn-gb-18384-2020-gb-18384-2025` | status_note | ∅ | GB 18384-2025 applies from 1 Jul 2026 and replaces GB 18384-2020. |
+| `cn-gb-19578` | commodities | ['Fuel system', 'Exhaust', 'ECUs', 'Fuel tanks', 'Hoses & lines'] | ['Fuel system', 'Exhaust', 'ECUs'] |
+| `cn-gb-21670-2025` | un_equivalent | ['UN R13'] | ['UN R13H'] |
+| `cn-gb-26149` | un_equivalent_ai | ['UN R141', 'UN R142'] | ['UN R141'] |
+| `cn-gb-26572-2025` | systems | ['Battery safety', 'EV charging', 'EMC'] | ∅ |
+| `cn-gb-26572-2025` | un_equivalent_ai | ['UN R100', 'UN R153'] | ∅ |
+| `cn-gb-27999` | systems | ['Emissions', 'Fuel safety', 'On-board diagnostics'] | ['Emissions'] |
+| `cn-gb-44496-2024` | un_equivalent | ['UN R155', 'UN R156'] | ['UN R156'] |
+| `cn-gb-44496-2024` | un_equivalent_ai | ∅ | ∅ |
+| `cn-gb-44497` | title | Intelligent and connected vehicle—Data storage system for automated driving | Intelligent and connected vehicles - Data recording system for automated driving |
+| `cn-gb-44497` | summary | GB 44497-2024 establishes requirements for data storage systems used in automated driving functions on intelligent connected vehicles in China. It mandates that | GB 44497-2024 specifies requirements for data recording systems of automated-driving vehicles, including data recording, storage and readout, information securi |
+| `cn-gb-44497` | un_equivalent_ai | ['UN R155', 'UN R160'] | ['UN R157', 'UN R160'] |
+| `cn-gb-5920-2024` | summary | Light-signalling devices and systems for motor vehicles and their trailers in China are regulated under GB 5920-2024, covering headlamps, daytime running lights | GB 5920-2024 covers light-signalling devices and systems for motor vehicles (M, N) and their trailers (O), such as position, stop, turn-signal, daytime running  |
+| `cn-gb-5920-2024` | un_equivalent | ['UN R148'] | ∅ |
+| `cn-gb-5920-2024` | un_equivalent_ai | ∅ | ['UN R148'] |
+| `cn-gb-7258-2017` | summary | GB 7258-2017 establishes comprehensive safety technical specifications for power-driven vehicles operating on Chinese roads, covering the whole vehicle and key  | GB 7258-2017 sets technical conditions for the operational safety of power-driven vehicles on roads, with whole-vehicle and main-assembly safety requirements su |
+| `cn-gb-7258-2017` | systems | ['Vehicle identification'] | ['Braking', 'Steering', 'Lighting & signaling', 'Tires & wheels', 'Vehicle identification'] |
+| `cn-gb-8410` | systems | ['HVAC'] | ∅ |
+| `cn-gb-8410` | commodities | ['Seats', 'Batteries', 'HVAC', 'Wiring'] | ['Seats', 'Wiring'] |
+| `cn-gb-8410` | un_equivalent_ai | ['UN R21'] | ∅ |
+| `cn-gb-t-20913-2007` | summary | Passenger car occupant protection in offset frontal collisions is regulated under this Chinese standard, which requires maintaining occupant survival space and  | GB/T 20913-2007 is the recommended standard for occupant protection in offset frontal collisions of passenger cars, specifying an offset deformable barrier cras |
+| `cn-gb-t-30512-2014` | summary | Prohibited substances in automobiles and auto parts sold in China covers hazardous materials across vehicle systems including electronics, batteries, plastics,  | GB/T 30512-2014 is a recommended standard restricting lead, mercury, cadmium, hexavalent chromium, PBB and PBDE in vehicles and their parts above specified limi |
+| `cn-gb-t-30677-2014` | un_equivalent_ai | ['UN R152'] | ∅ |
+| `cn-gb-t-30677-2014` | status_note | ∅ | A mandatory successor, GB 30677-2026, has been published; this recommended standard remains until it applies. |
+| `cn-gb-t-34590` | status_note | ∅ | Superseded by the GB/T 34590-2022 series (including Part 10), effective 2023-07-01. |
+| `ece-r100` | title | UN Regulation No. 100 — Electric Power Trained Vehicles — Construction and Functional Safety | UN Regulation No. 100 — Vehicles with Regard to Specific Requirements for the Electric Power Train |
+| `ece-r114` | title | UN Regulation No. 114 — Airbag Systems | UN Regulation No. 114 — Replacement Airbag Modules, Replacement Steering Wheels with Airbag and Replacement Airbag Systems |
+| `ece-r114` | summary | Airbag systems are the subject of this UN regulation, but the provided text contains insufficient detail beyond a reference to the UNECE WP.29 index to describe | UN R114 covers the approval of replacement (aftermarket) airbag equipment: airbag modules for a replacement airbag system, replacement steering wheels fitted wi |
+| `ece-r44` | status_note | ∅ | UN R129 (i-Size) is the successor child restraint regulation; ending new approvals to UN R44 has been proposed at WP.29 (target Sept 2027). R44 remains in force |
+| `ece-r89` | vehicle_categories | ['Heavy truck', 'Bus'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus'] |
+| `eu-32006r1907` | title | 32006R1907 | Regulation (EC) No 1907/2006 — REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) |
+| `eu-32006r1907` | summary | The provided text contains no substantive regulatory content — only a EUR-Lex website navigation page stating that the requested document does not exist. The te | Regulation (EC) No 1907/2006 of 18 December 2006 establishes the EU framework for the registration, evaluation, authorisation and restriction of chemical substa |
+| `eu-32006r1907` | effective_date | 2024-04-24 | 2007-06-01 |
+| `eu-32017r1151` | title | 32017R1151 | Commission Regulation (EU) 2017/1151 — Light-Duty Vehicle Emissions Type-Approval (Euro 5/6, WLTP, RDE) |
+| `eu-32017r1151` | summary | The document is too large to display in the excerpt provided, so its specific requirements cannot be summarized from the text alone. Based solely on what is ava | Commission Regulation (EU) 2017/1151 of 1 June 2017 supplements Regulation (EC) No 715/2007 on type-approval of motor vehicles with respect to emissions from li |
+| `eu-32017r1151` | systems | ['Emissions', 'Fuel safety', 'On-board diagnostics', 'EV charging', 'Battery safety', 'Braking', 'HVAC', 'Tires & wheels', 'Noise'] | ['Emissions', 'On-board diagnostics'] |
+| `eu-32017r1151` | commodities | ['Exhaust', 'Fuel system', 'Fuel tanks', 'ECUs', 'Batteries', 'Electric motors', 'Charging inlet', 'Power electronics', 'HVAC', 'Tires', 'Brakes', 'Wiring'] | ['Exhaust', 'Fuel system', 'Fuel tanks', 'ECUs', 'Batteries', 'Electric motors', 'HVAC'] |
+| `eu-32014l0053` | un_equivalent_ai | ['UN R10', 'UN R155'] | ['UN R10'] |
+| `eu-32014r0540` | un_equivalent | ['UN R59', 'UN R85', 'UN R117'] | ∅ |
+| `eu-32014r0540` | un_equivalent_ai | ['UN R51'] | ['UN R51', 'UN R59'] |
+| `eu-32018r0858` | un_equivalent | ['UN R3', 'UN R4', 'UN R6', 'UN R7', 'UN R10', 'UN R11', 'UN R12', 'UN R13', 'UN R14', 'UN R16', 'UN R17', 'UN R18', 'UN R19', 'UN R21', 'UN R23', 'UN R25', 'UN | ∅ |
+| `eu-32018r0985` | un_equivalent | ['UN R120'] | ∅ |
+| `eu-32018r0985` | un_equivalent_ai | ∅ | ['UN R96'] |
+| `eu-32019r2144` | effective_date | 2019-11-27 | 2022-07-06 |
+| `eu-32019r2144` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus', 'Trailer'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus', 'Trailer'] |
+| `eu-32021r0535` | effective_date | 2021-03-31 | 2022-07-06 |
+| `eu-32021r0535` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus', 'Trailer'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus', 'Trailer'] |
+| `eu-32021r0646` | effective_date | 2021-04-19 | 2022-07-06 |
+| `eu-32021r0646` | un_equivalent_ai | ['UN R157'] | ∅ |
+| `eu-32021r1341` | effective_date | 2021-04-23 | 2022-07-06 |
+| `eu-32021r1958` | effective_date | 2021-06-23 | 2022-07-06 |
+| `eu-32021r1958` | un_equivalent | ['UN R39', 'UN R46'] | ∅ |
+| `eu-32022r0545` | effective_date | 2022-01-26 | 2022-07-06 |
+| `eu-32022r1426` | effective_date | 2022-08-05 | 2022-09-15 |
+| `eu-32022r1426` | un_equivalent | ['UN R100', 'UN R155', 'UN R156', 'UN R157'] | ['UN R155', 'UN R156'] |
+| `eu-32022r1426` | un_equivalent_ai | ∅ | ['UN R157'] |
+| `eu-32023r1542` | effective_date | 2023-07-12 | 2024-02-18 |
+| `eu-32023r2590` | effective_date | 2023-07-13 | 2024-07-07 |
+| `eu-32024r0573` | effective_date | 2024-02-07 | 2024-03-11 |
+| `eu-32024r1257` | effective_date | 2024-04-24 | 2026-11-29 |
+| `eu-32024r1257` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus', 'Motorcycle'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus'] |
+| `eu-32024r1257` | status | in-force | upcoming |
+| `eu-32024r1257` | status_note | ∅ | Applies from 29 Nov 2026 to new M1/N1 types, 29 Nov 2027 to all new M1/N1 vehicles, and from 29 May 2028 / 29 May 2029 to M2, M3, N2, N3, O3 and O4. |
+| `gcc-gso-1503-2002` | un_equivalent | ['UN R48'] | ∅ |
+| `gcc-gso-1707-2005` | un_equivalent | ['UN R95'] | ∅ |
+| `gcc-gso-1709-2005` | summary | Child restraint system compatibility in motor vehicles exported or registered in GCC member states requires that vehicles allow child restraints to be correctly | GSO 1709:2005 sets requirements for child restraint systems used in motor vehicles, excluding those intended for folding or side-facing seats. Related UN regula |
+| `gcc-gso-290-1994` | title | Instruction Manuals / Owner Information | Instruction Manual for Appliances, Instruments and Equipment |
+| `gcc-gso-290-1994` | summary | GSO 290:1994 covers owner information and instruction manuals for vehicles sold in GCC markets, requiring that documentation be provided in Arabic and English a | GSO 290:1994 is a general GSO standard on instruction manuals for appliances, instruments and equipment. It is listed in the GCC motor-vehicle technical-regulat |
+| `gcc-gso-39-2005` | un_equivalent_ai | ['UN R95', 'UN R16'] | ∅ |
+| `gcc-gso-41-2007` | un_equivalent | ['UN R26'] | ∅ |
+| `gcc-gso-41-2007` | un_equivalent_ai | ['UN R127'] | ['UN R42'] |
+| `gcc-gso-96-1988` | un_equivalent | ['UN R14'] | ∅ |
+| `gcc-gso-96-1988` | un_equivalent_ai | ['UN R16'] | ['UN R16'] |
+| `gcc-gso-97-1988` | un_equivalent | ['UN R14'] | ∅ |
+| `gcc-gso-97-1988` | un_equivalent_ai | ['UN R16'] | ['UN R16', 'UN R14'] |
+| `gcc-gso-ece-100` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus'] |
+| `gcc-gso-ece-121` | summary | GSO-ECE 121 covers the identification and standardization of vehicle controls, telltales, and indicators within GCC member states, addressing exterior lamps, li | GSO-ECE 121 covers the location, identification and colour of hand controls, tell-tales and indicators on motor vehicles in GCC member states, so that drivers c |
+| `gcc-gso-ece-127` | summary | GSO-ECE 127 covers pedestrian safety performance for vehicles sold in the GCC region, addressing crashworthiness and protection for both occupants and vulnerabl | GSO-ECE 127 covers pedestrian safety performance of motor vehicles in GCC markets, limiting injury to pedestrians and other vulnerable road users in head and le |
+| `gcc-gso-ece-127` | un_equivalent_ai | ['UN R127', 'UN R114'] | ['UN R127'] |
+| `gcc-gso-ece-141` | summary | Tyre Pressure Monitoring Systems (TPMS) for passenger vehicles in the GCC region are regulated under GSO-ECE 141, covering tires, wheels, valve stems, TPMS hard | GSO-ECE 141 covers tyre pressure monitoring systems (TPMS) on passenger vehicles in the GCC region, requiring a system that warns the driver of significant tyre |
+| `gcc-gso-ece-156` | summary | GSO-ECE 156 regulates software update management systems for vehicles in the GCC region, covering electronic and electrical architecture, ECUs, telematics, gate | GSO-ECE 156 covers software update management systems for vehicles in the GCC region, requiring manufacturers to operate a process for managing software updates |
+| `gcc-gso-ece-21` | un_equivalent_ai | ['UN R21', 'UN R94'] | ['UN R21'] |
+| `gcc-gso-ece-30` | un_equivalent_ai | ['UN R30', 'UN R141'] | ['UN R30'] |
+| `gcc-gso-ece-51` | systems | ['Emissions', 'Noise', 'On-board diagnostics'] | ['Noise'] |
+| `gcc-gso-ece-94` | systems | ['Crashworthiness', 'Restraints', 'Pedestrian protection'] | ['Crashworthiness', 'Restraints'] |
+| `gcc-gso-ece-95` | systems | ['Crashworthiness', 'Restraints', 'Pedestrian protection'] | ['Crashworthiness', 'Restraints'] |
+| `gcc-gso-ece-95` | un_equivalent_ai | ['UN R95', 'UN R114'] | ['UN R95'] |
+| `gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3` | summary | The GCC/GSO Motor Vehicle Technical Regulation Framework governs type approval and homologation for vehicles placed in GCC markets, requiring manufacturers and  | Index list of the mandatory GSO and GSO-ECE (UN-based) motor vehicle technical regulations for model year 2027 in GCC markets, with references to related SASO a |
+| `gcc-saso-2847-saso-2864-2022` | summary | Saudi new light-duty vehicle fuel economy labeling and fleet CAFE compliance requires that vehicles meet certified fuel economy, CO2, and emissions standards, w | Saudi fuel economy labelling for new light-duty vehicles and fleet-average fuel economy (CAFE) requirements under SASO 2847 and SASO 2864:2022. |
+| `gcc-saso-3005-2022` | un_equivalent_ai | ['UN R125'] | ∅ |
+| `gcc-saso-3006-2022` | un_equivalent_ai | ['UN R161'] | ∅ |
+| `gcc-saso-3007-2022` | un_equivalent_ai | ['UN R45'] | ∅ |
+| `jp-jvsregs-art14` | un_equivalent_ai | ['UN R79'] | ∅ |
+| `jp-jvsregs-art17` | un_equivalent_ai | ['UN R34'] | ['UN R67', 'UN R110', 'UN R134'] |
+| `jp-jvsregs-art21` | un_equivalent_ai | ['UN R125', 'UN R123'] | ['UN R125'] |
+| `jp-jvsregs-art26` | systems | ['Lighting & signaling', 'Tell-tales & controls'] | ∅ |
+| `jp-jvsregs-art26` | un_equivalent_ai | ∅ | ['UN R107'] |
+| `jp-jvsregs-art26` | commodities | ['Door latches & hinges', 'Lighting modules'] | ['Door latches & hinges'] |
+| `jp-jvsregs-art5` | un_equivalent_ai | ['UN R140'] | ∅ |
+| `jp-srrv-automated-lane-keeping-automated-driving-systems` | body | wrong-topic template text | honest reference stub |
+| `jp-srrv-automated-lane-keeping-automated-driving-systems` | summary | Automated Lane Keeping and Automated Driving Systems under SRRV/TRIAS/UN R157 (Japan) regulate active safety and ADAS components — including cameras, radar, lid | Japan's requirements for Automated Lane Keeping Systems and automated driving systems under the Safety Regulations for Road Vehicles and TRIAS test procedures,  |
+| `jp-srrv-controls-tell-tales-indicators-and-driver-information` | body | wrong-topic template text | honest reference stub |
+| `jp-srrv-controls-tell-tales-indicators-and-driver-information` | summary | Instrument panel controls, displays, tell-tales, switches, HMI software, and labels in vehicles sold in Japan are regulated under SRRV/TRIAS to ensure the vehic | Japan's requirements for the identification and layout of driver controls, tell-tales and indicators, and driver information displays under the Safety Regulatio |
+| `jp-srrv-controls-tell-tales-indicators-and-driver-information` | un_equivalent_ai | ['UN R121', 'UN R48'] | ['UN R121'] |
+| `jp-srrv-japan-radio-equipment-technical-conformity-certification` | un_equivalent_ai | ['UN R10'] | ∅ |
+| `jp-srrv-japanese-vehicle-type-approval-type-designation-framework` | summary | Japan's vehicle type designation framework requires that passenger vehicles satisfy national safety, environmental, and fuel-consumption standards before they m | Japan's vehicle type designation framework under the Road Transport Vehicle Act is the streamlined route by which vehicles are shown to meet national safety and |
+| `jp-srrv-speedometer-and-odometer` | body | wrong-topic template text | honest reference stub |
+| `jp-srrv-speedometer-and-odometer` | systems | ['Lighting & signaling', 'Tell-tales & controls', 'Visibility'] | ['Tell-tales & controls'] |
+| `jp-srrv-speedometer-and-odometer` | commodities | ['Wiring', 'ECUs', 'Lighting modules'] | ['ECUs', 'Wiring'] |
+| `jp-srrv-speedometer-and-odometer` | summary | Speedometer and odometer equipment in Japan is regulated under SRRV/TRIAS to ensure accurate vehicle speed and distance displays for drivers. Compliance require | Japan's requirements for speedometer and odometer equipment (accuracy of displayed vehicle speed and distance) under the Safety Regulations for Road Vehicles an |
+| `jp-srrv-windshield-wiping-washing-defrosting-and-defogging` | un_equivalent_ai | ['UN R45', 'UN R48'] | ∅ |
+| `kr-kmvss-art102-3` | un_equivalent_ai | ['UN R94'] | ['UN R137'] |
+| `kr-kmvss-art109` | un_equivalent_ai | ['UN R45'] | ∅ |
+| `kr-kmvss-art111-3` | un_equivalent_ai | ['UN R157', 'UN R155'] | ['UN R79', 'UN R171'] |
+| `kr-kmvss-art18` | un_equivalent_ai | ['UN R100'] | ∅ |
+| `kr-kmvss-art19` | un_equivalent_ai | ['UN R26', 'UN R127'] | ['UN R58', 'UN R73', 'UN R26'] |
+| `kr-kmvss-art21` | un_equivalent_ai | ['UN R11'] | ∅ |
+| `kr-kmvss-art53-2` | summary | Motor vehicles must be equipped with at least one rear pedestrian safety device — a rear-view image system, an approach warning sound system for the driver, or  | Motor vehicles must be equipped with at least one rear pedestrian safety device: a rear-view image system, an approach warning sound system that alerts the driv |
+| `kr-kmvss-art87` | un_equivalent_ai | ['UN R79'] | ∅ |
+| `kr-kmvss-art89-2` | un_equivalent_ai | ['UN R157'] | ['UN R130'] |
+| `kr-kmvss-art95` | un_equivalent_ai | ['UN R21'] | ['UN R118'] |
+| `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles` | systems | ['Fuel safety', 'Battery safety', 'EV charging', 'Emissions'] | ∅ |
+| `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles` | commodities | ['Batteries', 'Fuel system', 'Fuel tanks', 'Hoses & lines', 'Power electronics', 'Connectors'] | ∅ |
+| `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles` | un_equivalent_ai | ['UN R100', 'UN R153'] | ['UN R133'] |
+| `other-workbook-reg-0643-iso-26262` | summary | ISO 26262 covers functional safety for road vehicle electrical and electronic (E/E) systems, including ECUs, ADAS controllers, braking, steering, and software-i | ISO 26262 is the road-vehicle functional safety standard for electrical and electronic (E/E) systems, covering safety lifecycle, hazard analysis and risk assess |
+| `other-workbook-reg-0644-iso-21448` | summary | ISO 21448 addresses the safety of intended functionality (SOTIF) for passenger-vehicle ADAS and automated driving systems, focusing on hazards caused by perform | ISO 21448 addresses the safety of the intended functionality (SOTIF) for ADAS and automated driving systems, focusing on hazards caused by performance limitatio |
+| `other-workbook-reg-0644-iso-21448` | systems | ['ADAS', 'Cybersecurity', 'On-board diagnostics', 'Software updates'] | ['ADAS'] |
+| `other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800` | summary | ISO 34502, ISO/TR 4804, and ISO/PAS 8800 cover safety and AI guidance standards for automated driving and ADAS systems, including E/E architecture, controllers, | ISO 34502, ISO/TR 4804 and ISO/PAS 8800 are voluntary guidance standards for automated driving and ADAS safety, covering scenario-based safety evaluation, safet |
+| `other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800` | status_note | ∅ | ISO/TR 4804:2020 was withdrawn on 29 Apr 2025 and replaced by ISO/TS 5083:2025; ISO 34502:2022 and ISO/PAS 8800:2024 remain current. |
+| `other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800` | un_equivalent | ['UN R157'] | ∅ |
+| `other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800` | un_equivalent_ai | ['UN R155'] | ∅ |
+| `asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt` | summary | Vehicles manufactured, assembled, or imported into Vietnam must meet local technical safety and environmental standards under QCVN 09:2024/BGTVT, covering whole | QCVN 09:2024/BGTVT is Vietnam's national technical regulation on technical safety and environmental protection for automobiles, promulgated through Circular 48/ |
+| `asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt` | citation | QCVN 09:2024/BGTVT / Circular 48/2024/TT-BGTVT | QCVN 09:2024/BGTVT (promulgated by Circular 48/2024/TT-BGTVT) |
+| `asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt` | effective_date | ∅ | 2025-01-01 |
+| `asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus', 'Trailer'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus', 'Trailer'] |
+| `eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements` | summary | Automatic emergency call equipment for vehicles sold in the EAEU/Russia market requires the installation of ERA-GLONASS-compatible telematics systems — includin | ERA-GLONASS is the Russia/EAEU automatic emergency call system; vehicles for this market need an ERA-GLONASS-compatible telematics unit with GNSS receiver, cell |
+| `eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements` | systems | ['EMC', 'Cybersecurity'] | ∅ |
+| `eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements` | un_equivalent | ['UN R144'] | ∅ |
+| `eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements` | un_equivalent_ai | ∅ | ['UN R144'] |
+| `in-bs-vi-india-cafe-fuel-consumption` | summary | Passenger vehicles sold in India are regulated under the BS-VI emission standards and India CAFE fuel-consumption framework, which require compliance with certi | Passenger vehicles sold in India are subject to Bharat Stage VI emission standards and India's CAFE fuel-consumption norms, covering certified emission limits,  |
+| `in-bs-vi-india-cafe-fuel-consumption` | systems | ['Emissions', 'On-board diagnostics', 'Fuel safety', 'EV charging', 'Battery safety'] | ['Emissions', 'On-board diagnostics'] |
+| `in-bs-vi-india-cafe-fuel-consumption` | citation | BS-VI / India CAFE / Fuel Consumption | CMVR 1989 Rule 115 (Bharat Stage VI emission norms); Energy Conservation Act 2001 (CAFE fuel-consumption norms) |
+| `other-workbook-reg-0546-directive-2011-65-eu-rohs` | summary | Electrical and electronic equipment — including automotive accessories, chargers, service equipment, connectors, PCBs, displays, and sensors — must restrict the | Directive 2011/65/EU (RoHS) restricts hazardous substances in electrical and electronic equipment such as chargers, service equipment and electronic accessories |
+| `other-workbook-reg-0546-directive-2011-65-eu-rohs` | status_note | ∅ | Type-approved vehicles are outside RoHS scope (Art. 2(4)(f)); applies to accessories and service equipment, while vehicle-fitted parts fall under ELV Directive  |
+| `other-workbook-reg-0546-directive-2011-65-eu-rohs` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle', 'Bus', 'Trailer', 'Off-road'] | ∅ |
+| `other-workbook-reg-0546-directive-2011-65-eu-rohs` | systems | ['EMC', 'EV charging', 'Battery safety', 'ADAS'] | ['EV charging'] |
+| `other-workbook-reg-0647-automotive-spice-aspice` | summary | Automotive SPICE (ASPICE) is an industry assessment model used by OEMs and suppliers to evaluate software development process capability for software-intensive  | Automotive SPICE (ASPICE) is an industry process assessment model used by OEMs and suppliers to evaluate software development process capability for software-in |
+| `other-workbook-reg-0647-automotive-spice-aspice` | un_equivalent_ai | ['UN R156', 'UN R155'] | ∅ |
+| `tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework` | title | Turkey vehicle type approval aligned with EU framework | Turkey MARTOY — Approval and Market Surveillance of Motor Vehicles and their Trailers |
+| `tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework` | citation | Turkey motor vehicle type approval framework | Regulation on Approval and Market Surveillance of Motor Vehicles and their Trailers (MARTOY), Official Gazette 19 April 2020 |
+| `tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework` | summary | Turkey's vehicle type approval framework governs market access for passenger vehicles sold in Turkey, requiring that vehicles hold recognized safety and environ | Turkey's MARTOY regulation, aligned with EU Regulation 2018/858, governs type approval and market surveillance of motor vehicles and their trailers. Market acce |
+| `tw-vehicle-safety-type-approval-dgst` | title | Taiwan vehicle safety type approval and DGST safety test framework | Taiwan Vehicle Safety Type Approval Management Regulations and Vehicle Safety Testing Directions |
+| `tw-vehicle-safety-type-approval-dgst` | citation | Vehicle Safety Type Approval / DGST | Vehicle Safety Type Approval Management Regulations; Vehicle Safety Testing Directions (VSTD) |
+| `tw-vehicle-safety-type-approval-dgst` | summary | Taiwan's vehicle safety type approval and DGST framework governs market access for vehicles sold in Taiwan, requiring manufacturers to obtain recognized safety  | Taiwan's vehicle safety type approval framework, administered by MOTC and VSCC, governs market access for vehicles sold in Taiwan, with safety tests carried out |
+| `us-cfr-part-525` | un_equivalent_ai | ['UN R101', 'UN R154'] | ∅ |
+| `us-cfr-part-526` | un_equivalent_ai | ['UN R101'] | ∅ |
+| `us-cfr-part-529` | un_equivalent_ai | ['UN R101', 'UN R154'] | ∅ |
+| `us-cfr-part-534` | un_equivalent_ai | ['UN R101'] | ∅ |
+| `us-cfr-part-536` | un_equivalent_ai | ['UN R101'] | ∅ |
+| `us-cfr-part-537` | un_equivalent_ai | ['UN R101', 'UN R154'] | ∅ |
+| `us-cfr-part-538` | un_equivalent_ai | ['UN R101'] | ∅ |
+| `us-cfr-part-538` | status_note | ∅ | Dual-fuel CAFE incentive applies only to model years 1993-2019; part remains in the CFR but has no effect on current model years. |
+| `us-cfr-part-523` | commodities | ['Tires', 'Steering column'] | ∅ |
+| `us-cfr-part-541` | commodities | ['Body structure', 'Bumpers', 'Steering column', 'Seats', 'Mirrors', 'Wheels'] | ['Body structure', 'Bumpers'] |
+| `us-cfr-part-541` | un_equivalent_ai | ['UN R162'] | ∅ |
+| `us-cfr-part-542` | un_equivalent_ai | ['UN R116', 'UN R162'] | ∅ |
+| `us-cfr-part-545` | un_equivalent_ai | ['UN R162', 'UN R116'] | ∅ |
+| `us-cfr-part-569` | un_equivalent_ai | ['UN R30'] | ∅ |
+| `us-cfr-part-570` | summary | Vehicles with a gross vehicle weight rating of 10,000 pounds or less (excluding motorcycles and trailers) are subject to inspection standards covering hydraulic | Vehicle in-use inspection standards for brake, steering and suspension systems, and tire and wheel assemblies, intended for adoption by State inspection program |
+| `us-cfr-part-570` | vehicle_categories | ['Passenger car', 'Light truck'] | ['Passenger car', 'Light truck', 'Heavy truck', 'Bus', 'Trailer'] |
+| `us-cfr-part-572` | un_equivalent_ai | ['UN R94', 'UN R16'] | ['UN R94'] |
+| `us-cfr-part-574` | un_equivalent_ai | ['UN R142'] | ∅ |
+| `us-cfr-part-585` | un_equivalent_ai | ['UN R114'] | ∅ |
+| `us-cfr-part-588` | un_equivalent_ai | ['UN R44', 'UN R129'] | ∅ |
+| `us-cfr-part-591` | un_equivalent_ai | ['UN R116', 'UN R162'] | ∅ |
+| `us-cfr-part-595` | un_equivalent_ai | ['UN R114'] | ∅ |
+| `us-cfr575-105` | commodities | ['Airbags'] | ∅ |
+| `us-cfr575-301` | status_note | ∅ | Applies only to vehicles not subject to § 575.302 (MY2012 and later vehicles built on or after 31 Jan 2012 use § 575.302); effectively legacy MY2008-2011 vehicl |
+| `us-fmvss-104` | un_equivalent_ai | ['UN R45'] | ∅ |
+| `us-fmvss-105` | un_equivalent_ai | ['UN R13', 'UN R13H'] | ['UN R13'] |
+| `us-fmvss-113` | un_equivalent_ai | ['UN R11'] | ∅ |
+| `us-fmvss-117` | un_equivalent_ai | ['UN R30'] | ['UN R108'] |
+| `us-fmvss-119` | un_equivalent_ai | ['UN R54', 'UN R30'] | ['UN R54', 'UN R75'] |
+| `us-fmvss-122a` | un_equivalent_ai | ['UN R13'] | ['UN R78'] |
+| `us-fmvss-123` | un_equivalent_ai | ['UN R121'] | ['UN R60'] |
+| `us-fmvss-131` | un_equivalent_ai | ['UN R150', 'UN R148'] | ∅ |
+| `us-fmvss-136` | un_equivalent_ai | ['UN R140'] | ['UN R13'] |
+| `us-fmvss-202` | status | in-force | superseded |
+| `us-fmvss-202` | status_note | ∅ | Applies only to vehicles manufactured before 1 Sep 2009 (phase-in until 1 Sep 2010); superseded by FMVSS 202a. |
+| `us-fmvss-212` | un_equivalent_ai | ['UN R43'] | ∅ |
+| `us-fmvss-213b` | status | in-force | upcoming |
+| `us-fmvss-213b` | effective_date | ∅ | 2026-12-05 |
+| `us-fmvss-213b` | status_note | ∅ | Mandatory for child restraint systems manufactured on or after 5 Dec 2026. |
+| `us-fmvss-226` | un_equivalent_ai | ['UN R95'] | ∅ |
+| `us-fmvss-302` | un_equivalent_ai | ['UN R21'] | ['UN R118'] |
+| `us-fmvss-303` | un_equivalent_ai | ['UN R34'] | ['UN R110'] |
+| `us-fmvss-304` | un_equivalent_ai | ['UN R34'] | ['UN R110'] |
+| `us-fmvss-307` | un_equivalent_ai | ['UN R34'] | ['UN R134'] |
+| `us-fmvss-500` | commodities | ['Lighting modules', 'Mirrors', 'Brakes', 'Glass', 'Seatbelts', 'Batteries', 'Horn'] | ['Lighting modules', 'Mirrors', 'Brakes', 'Glass', 'Seatbelts'] |
+| `us-stub-california-proposition-65` | systems | ['Battery safety', 'Emissions'] | ∅ |
+| `us-stub-dodd-frank-section-1502-regulation-eu-2017-821` | summary | Conflict minerals and responsible sourcing rules require in-scope U.S. and EU companies to conduct supply-chain due diligence on regulated minerals used in vehi | Dodd-Frank Section 1502 (SEC Rule 13p-1, Form SD) requires SEC-registered issuers to disclose due diligence on conflict minerals (tin, tantalum, tungsten, gold) |
+| `us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386` | un_equivalent_ai | ['UN R155', 'UN R156'] | ∅ |
+| `us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386` | status_note | ∅ | Subject to litigation: automakers' appeal to the First Circuit filed March 2025; NHTSA has stated its view that federal law preempts it. Current outcome not con |
+| `us-stub-nom-042-semarnat-2003` | summary | New motor vehicles with a GVWR up to 3,857 kg that run on gasoline, LPG, natural gas, or diesel are subject to maximum permissible limits on exhaust and evapora | Mexican standard NOM-042-SEMARNAT-2003 sets maximum permissible limits for exhaust emissions of total or non-methane hydrocarbons, carbon monoxide, nitrogen oxi |
+| `us-stub-nom-042-semarnat-2003` | un_equivalent_ai | ['UN R83', 'UN R101'] | ['UN R83'] |
+| `us-stub-title-13-ccr-1961-4-1962-4-1962-8` | summary | California's Advanced Clean Cars II regulation governs emissions and zero-emission vehicle requirements for passenger cars and light-duty trucks sold in Califor | California's Advanced Clean Cars II regulation (13 CCR 1961.4 LEV IV exhaust and evaporative emission standards for 2026 and later model years, and 13 CCR 1962. |
+| `us-40cfr-part-1066` | vehicle_categories | ['Passenger car', 'Light truck', 'Heavy truck', 'Motorcycle'] | ['Passenger car', 'Light truck', 'Heavy truck'] |
+| `us-40cfr-part-82` | summary | Production, import, export, transformation, and destruction of ozone-depleting substances are regulated under this subpart to implement the Montreal Protocol an | Implements the Montreal Protocol and Clean Air Act Title VI for stratospheric ozone protection: production and consumption controls on ozone-depleting substance |
+| `us-40cfr-part-85` | summary | Clean alternative fuel conversions of light-duty, medium-duty, and heavy-duty vehicles and engines are regulated under this subpart, which establishes the condi | EPA rules for control of air pollution from mobile sources, including exemption of clean alternative fuel conversions from the tampering prohibition (Subpart F) |
+| `us-40cfr-part-86` | summary | Emissions from new and in-use highway vehicles and engines are regulated under this part, which incorporates by reference specific ASTM International test stand | EPA emission-control regulations for new and in-use highway vehicles and engines: certification, emission standards and test procedures for light-duty vehicles  |
+| `us-workbook-reg-0451-49-cfr-part-575` | summary | Consumer information labels and ratings for vehicles sold in the US, including UTQG grades, rollover warnings, and safety-rating labels, requiring that vehicles | Consumer information requirements for new vehicles and tires, including the Uniform Tire Quality Grading system (§575.104), truck-camper loading information (§5 |
+| `us-workbook-reg-0451-49-cfr-part-575` | systems | ['Vehicle identification', 'Tires & wheels'] | ['Tires & wheels'] |
+
+## Orchestrator supplemental — wrong-topic bodies stubbed, stale open_tags cleared
+
+| Record | Field | Before | After |
+|---|---|---|---|
+| `cn-gb-34660` | body | wrong-topic template text | honest reference stub |
+| `cn-gb-34660` | open_tags | ['telematics unit', 'gateway ECU', 'OTA update module', 'event data recorder', 'EDR', 'E/E architecture', 'RF interference', 'electromagnetic immunity', 'CAN bu | ∅ |
+| `cn-gb-8410` | body | wrong-topic template text | honest reference stub |
+| `cn-gb-8410` | open_tags | ['interior trim', 'carpet', 'foam padding', 'headliner', 'door panel', 'seat upholstery', 'insulation material', 'adhesives', 'flammability testing', 'burn rate | ∅ |
+| `cn-gb-26572-2025` | body | wrong-topic template text | honest reference stub |
+| `cn-gb-26572-2025` | open_tags | ['RoHS', 'hazardous substances', 'restricted substances', 'lead-free', 'cadmium', 'hexavalent chromium', 'PBDE', 'PBB', 'material declarations', 'substance of c | ∅ |
+| `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles` | body | wrong-topic template text | honest reference stub |
+| `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles` | open_tags | ['end-of-life vehicle recycling', 'ELV directive', 'restricted substances', 'recyclability targets', 'resource circulation', 'HV battery disposal', 'REESS', 'ha | ∅ |
+| `gcc-gso-ece-121` | body | wrong-topic template text | honest reference stub |
+| `gcc-gso-ece-121` | open_tags | ['instrument cluster', 'telltale indicators', 'HMI controls', 'LED modules', 'optical lens assembly', 'beam aim adjuster', 'light-signalling devices', 'reflecto | ∅ |
+| `br-contran-215` | open_tags | ['immobilizer', 'alarm siren', 'anti-theft device', 'vehicle immobilization system', 'burglar alarm', 'electronic anti-theft', 'remote keyless entry', 'transpon | ∅ |
+| `br-contran-37` | open_tags | ['instrument cluster', 'dashboard controls', 'control identification', 'illuminated controls', 'symbol marking', 'indicator lights', 'control labeling', 'human- | ∅ |
+| `br-contran-498` | open_tags | ['hood latch', 'bonnet latch', 'secondary latch', 'hood hinge', 'hood lock', 'engine compartment cover', 'vehicle hood', 'latch mechanism'] | ∅ |
+| `br-contran-764` | open_tags | ['multimedia device', 'navigation system', 'in-vehicle infotainment', 'GPS navigation', 'touchscreen display', 'audio system', 'type approval', 'vehicle display | ∅ |
+| `br-contran-924` | open_tags | ['interior rearview mirror', 'exterior rearview mirror', 'rear-view mirror field of vision', 'mirror adjustment', 'mirror mounting', 'mirror surface area', 'con | ∅ |
+| `cn-gb-11562` | open_tags | ['windshield', 'A-pillar obstruction', 'forward visibility angle', 'driver eye point', 'transparent area', 'daylight opening', 'obscuration', 'sight line', 'vis | ∅ |
+| `jp-srrv-accelerator-control` | open_tags | ['REESS', 'high-voltage isolation', 'service disconnect', 'contactor', 'thermal runaway', 'pressure relief valve', 'crash shutoff valve', 'evaporative emission  | ∅ |
+| `jp-srrv-audible-warning-devices` | open_tags | ['audible warning device', 'horn assembly', 'AVAS', 'acoustic vehicle alerting system', 'vehicle approach warning', 'EV pedestrian warning', 'UN R28', 'TRIAS',  | ∅ |
+| `jp-srrv-automated-lane-keeping-automated-driving-systems` | open_tags | ['automated lane keeping system', 'lane departure warning', 'driver monitoring system', 'data event recorder', 'type approval documentation', 'HMI warning inter | ∅ |
+| `jp-srrv-controls-tell-tales-indicators-and-driver-information` | open_tags | ['exterior lamps', 'reflectors', 'light-signalling devices', 'lighting ECU', 'lens optics', 'LED modules', 'bulb modules', 'aim adjusters', 'instrument panel te | ∅ |
+| `jp-srrv-engine-power-train-and-pedal-lever` | open_tags | ['REESS', 'high-voltage isolation', 'service disconnect', 'thermal runaway protection', 'CNG storage', 'LPG storage', 'hydrogen storage', 'crash shutoff valve', | ∅ |
+| `jp-srrv-speedometer-and-odometer` | open_tags | ['speedometer', 'odometer', 'instrument cluster', 'driver information display', 'vehicle speed sensor', 'odometer calibration', 'analog gauge', 'digital display | ∅ |
+| `cn-gb-1495-2002` | open_tags | ['AVAS', 'acoustic cover', 'intake system', 'exterior sound calibration', 'pass-by noise', 'drive-by noise test', 'noise measurement', 'exhaust noise', 'engine  | ['acoustic cover', 'intake system', 'exterior sound calibration'] |

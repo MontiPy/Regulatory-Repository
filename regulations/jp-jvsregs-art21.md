@@ -35,7 +35,6 @@ title: JVSR Article 21 — Driver's Seat
 translation_status: translated
 un_equivalent_ai:
 - UN R125
-- UN R123
 vehicle_categories:
 - Passenger car
 - Light truck

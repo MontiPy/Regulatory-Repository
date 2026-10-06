@@ -1,0 +1,176 @@
+{
+ "group": "other",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "in-ais-038-rev-2-ais-156",
+   "field": "summary / vehicle_categories / citation",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Summary and applicability treat AIS-038 Rev.2 and AIS-156 as one set for M/N passenger-car/light-truck EV programs; source_url is the AIS-156 PDF",
+   "proposed": "AIS-038 Rev.2 = electric power train + REESS safety for M and N categories (UN R100 counterpart). AIS-156 = L-category (2W/3W/quadricycle) power train + REESS, so it is not applicable to passenger cars (M1) or light trucks (N1); point source_url to AIS-038 Rev.2 and list AIS-156 only for L-category (UN R136 counterpart)",
+   "evidence": "Search result: \"AIS-156 prescribes safety requirements with respect to the electric power train and REESS of L category vehicles\"; \"AIS-038 Rev.2 Part I covers ... motor vehicles of categories M and N\". Record body: \"AIS-156 should be applicability-filtered because it can be category-specific\".",
+   "confidence": "high"
+  },
+  {
+   "id": "other-workbook-reg-0643-iso-26262",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "un_equivalent: UN R157; un_equivalent_ai: UN R155, UN R156",
+   "proposed": "Remove R157 as an equivalent (R157 is ALKS, a regulation not a functional-safety process standard). ISO 26262 has no single UN counterpart; at most reference it as supporting evidence for R79/R13-H/R157 safety cases (R155 cyber, R156 SUMS are not counterparts)",
+   "evidence": "Repo body: \"Not generally a direct government regulation ... not a substitute for each government regulation\"; UN R157 covers Automated Lane Keeping Systems, ISO 26262 is a functional-safety standard (standard knowledge).",
+   "confidence": "high"
+  },
+  {
+   "id": "other-workbook-reg-0644-iso-21448",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R157; un_equivalent_ai: UN R155",
+   "proposed": "No direct UN equivalent. R157 (ALKS) is a legal regulation; ISO 21448 SOTIF is a voluntary engineering standard that may support ADAS approvals (e.g. R157, R79, R171). Remove R155 (cybersecurity) entirely",
+   "evidence": "Repo body: \"Not a direct government regulation\"; R155 is cybersecurity, unrelated to SOTIF.",
+   "confidence": "high"
+  },
+  {
+   "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force (for all three documents)",
+   "proposed": "Split: ISO/TR 4804:2020 withdrawn 29 Apr 2025, replaced by ISO/TS 5083:2025; ISO 34502:2022 and ISO/PAS 8800:2024 current",
+   "evidence": "WebSearch: 'ISO/TS 5083:2025 ... This first edition cancels and replaces the first edition (ISO/TR 4804:2020)'; ISO/TR 4804:2020 withdrawn 2025-04-29.",
+   "confidence": "high"
+  },
+  {
+   "id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
+   "field": "summary / vehicle_categories / citation",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Summary says QCVN 09:2024 covers \"emissions and fuel consumption evidence\"; categories include Motorcycle and Trailer; citation merges QCVN 09 with Circular 48",
+   "proposed": "QCVN 09:2024/BGTVT covers technical safety and environmental protection of automobiles (replacing QCVN 09:2015); Circular 48/2024/TT-BGTVT (15 Nov 2024, effective 1 Jan 2025) promulgates 29 separate national technical regulations (including energy consumption and component rules). Reword summary; drop Motorcycle (separate QCVNs); state effective date 1 Jan 2025",
+   "evidence": "Search results: \"QCVN 09:2024/BGTVT is the national technical regulation on technical safety and environmental protection requirements for automobiles\"; \"Circular ... promulgation of National technical regulations on technical safety, environmental protection, and energy consumption of motor vehicles; specialized machinery; components\"; \"comes into force as of January 1, 2025\"; \"introduces 29 new national technical regulations\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "EMC, Cybersecurity",
+   "proposed": "Vehicle identification / telematics-related tag only if taxonomy permits (no emergency-call system in taxonomy.yaml); remove EMC and Cybersecurity",
+   "evidence": "Record body covers emergency call/telematics (TCU, GNSS, modem, backup power); no EMC or cyber content. Taxonomy systems list has no eCall entry.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R144 as grounded equivalent",
+   "proposed": "Show as related/partial: ERA-GLONASS is a Russia/EAEU-specific system (GOST/ERA-GLONASS PSAP connection, 4G channel) imposed through TR CU 018/2011; UN R144 alignment is only being introduced by amendment",
+   "evidence": "Search result: \"UN-R144 is recognized by global markets, but the EAEU is unique in mandating connection to Russia's local ERA-GLONASS PSAP, data encoding compliance with GOST standards\". Also: proposed TR CU 018 amendments bring \"emergency call devices ... in accordance with UN Regulation No. 144\". Body says \"Claude flagged ERA-GLONASS as unique\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "in-bs-vi-india-cafe-fuel-consumption",
+   "field": "systems / citation",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "systems include Fuel safety, EV charging, Battery safety; citation lumps three instruments; source_url https://morth.gov.in (homepage)",
+   "proposed": "Drop EV charging/Battery safety/Fuel safety (body is emissions/fuel economy); cite specific instruments (CMVR Rule 115 BS-VI, Bharat Stage VI Phase 2 from 1 Apr 2023; Energy Conservation Act CAFE norms) with dates; link specific document",
+   "evidence": "Body: \"Framework row ... split into detailed Bharat Stage and fuel-consumption standards during market sign-off\"; summary lists emission limits but body has no dates/limits.",
+   "confidence": "medium"
+  },
+  {
+   "id": "other-workbook-reg-0546-directive-2011-65-eu-rohs",
+   "field": "vehicle_categories / systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "vehicle_categories: Passenger car, Light truck, Heavy truck, Motorcycle, Bus, Trailer, Off-road; systems incl. Battery safety, ADAS, EV charging",
+   "proposed": "Vehicles are outside RoHS scope (Art. 2(4)(f): means of transport for persons or goods, except non-type-approved electric two-wheelers); vehicle-fitted parts fall under ELV Directive 2000/53/EC Annex II. Limit tags to accessories/service equipment (e.g. EV charging) or clearly flag as non-applicable to type-approved vehicles; drop Battery safety/ADAS",
+   "evidence": "Search result: Directive \"excludes means of transport for persons or goods, excluding electric two-wheel vehicles which are not type-approved\"; \"RoHS compliant parts are not automatically ELV compliant\". Record body itself says relevance is \"conditional\".",
+   "confidence": "high"
+  },
+  {
+   "id": "other-workbook-reg-0642-iso-9001",
+   "field": "source_url / citation / status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "ISO 9001 with source_url https://www.iso.org/standard/62085.html (ISO 9001:2015), status in-force",
+   "proposed": "Note that ISO 9001:2026 (6th edition) was published 16 Sep 2026 and replaces ISO 9001:2015; update citation to ISO 9001:2026 / source_url to the new edition page, mention 2015 certificates valid until about Sep 2029",
+   "evidence": "Search result: \"ISO 9001:2026 was published on September 16, 2026 ... ISO 9001:2015 has been withdrawn and replaced\"; \"certified organizations have until 30 September 2029 to complete the transition\". Not independently confirmed on iso.org (snippets only).",
+   "confidence": "medium"
+  },
+  {
+   "id": "other-workbook-reg-0643-iso-26262",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R155, UN R156",
+   "proposed": "empty",
+   "evidence": "R155 = cyber security management system, R156 = software update management system; neither corresponds to functional safety of E/E systems (standard knowledge).",
+   "confidence": "high"
+  },
+  {
+   "id": "other-workbook-reg-0644-iso-21448",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "ADAS, Cybersecurity, On-board diagnostics, Software updates",
+   "proposed": "ADAS only",
+   "evidence": "SOTIF addresses hazards from performance limitations of intended function (\"performance limitations rather than component faults\" per summary); Cybersecurity/Software updates/OBD tags have no support in the body.",
+   "confidence": "medium"
+  },
+  {
+   "id": "other-workbook-reg-0647-automotive-spice-aspice",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R156, UN R155",
+   "proposed": "remove (no UN equivalent; ASPICE is a VDA QMC process assessment model)",
+   "evidence": "Body: 'Not a government regulation... Added as supporting evidence, not as a legal vehicle standard.' R155/R156 are CSMS/SUMS regulations, not process-capability assessment models.",
+   "confidence": "medium"
+  },
+  {
+   "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R157",
+   "proposed": "remove or mark as related only (R157 is ALKS regulation; ISO 34502/TR 4804/PAS 8800 are guidance)",
+   "evidence": "Body: 'Not generally direct government regulations'; R157 listed under Related Regulations only.",
+   "confidence": "medium"
+  },
+  {
+   "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+   "field": "title",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Turkey vehicle type approval aligned with EU framework",
+   "proposed": "Regulation on Approval and Market Surveillance of Motor Vehicles and their Trailers (MARTOY), Ministry of Industry and Technology",
+   "evidence": "WebSearch: MARTOY 'published in the Official Gazette on 19 April 2020, adapted based on ... 2018/858'. Record names no actual instrument.",
+   "confidence": "medium"
+  },
+  {
+   "id": "tw-vehicle-safety-type-approval-dgst",
+   "field": "title",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Taiwan vehicle safety type approval and DGST safety test framework",
+   "proposed": "Vehicle Safety Type Approval Management Regulations / Vehicle Safety Testing Directions (VSTD), MOTC/VSCC",
+   "evidence": "WebSearch: Taiwan tests are per 'Vehicle Safety Testing Direction (VSTD)', approvals by VSCC under MOTC; no source found for the acronym 'DGST'. Instrument: Vehicle Safety Type Approval Management Regulations.",
+   "confidence": "medium"
+  },
+  {
+   "id": "tw-vehicle-safety-type-approval-dgst",
+   "field": "citation",
+   "verdict": "unverifiable",
+   "severity": "medium",
+   "current": "Vehicle Safety Type Approval / DGST",
+   "proposed": "'DGST' term unverified; likely VSTD",
+   "evidence": "Search found no 'DGST' usage tied to VSCC.",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "group": "jp",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "jp-jvsregs-art43-7",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "[\"UN R159\"]",
+   "proposed": "[\"UN R138\"]",
+   "evidence": "Article body: 'shall be equipped with a vehicle approach warning device ... to notify pedestrians and others of the vehicle's approach'. UN R159 is the Moving Off Information System (MOIS) for pedestrian/cyclist detection on M2/M3/N2/N3; the AVAS regulation is UN R138 (Quiet Road Transport Vehicles).",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-accelerator-control",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Accelerator Control ... regulates fuel systems, high-voltage energy storage ... to prevent fire, explosion",
+   "proposed": "Rewrite for accelerator control (accelerator pedal/control behaviour); summary and body are the generic fuel/EV-safety template, not accelerator content",
+   "evidence": "Body: \"Regulated Area: Fuel / EV / high-voltage safety ... Fuel tanks, lines, valves, filler systems\" under title \"Accelerator Control\"",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-accelerator-control",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R34, UN R100",
+   "proposed": "empty",
+   "evidence": "R34 (fire prevention) and R100 (EV safety) do not correspond to accelerator control; tags/equivalents derived from the wrong template",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-audible-warning-devices",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "... compliance intent focuses on preventing fire, explosion, electric shock, and...",
+   "proposed": "Horn/audible warning performance (sound level, tone); AVAS where applicable",
+   "evidence": "Body \"Key Compliance Intent: Prevent fire, explosion, shock and hazardous leakage\" is fuel/EV template for a horn record",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-electric-vehicle-rechargeable-energy-storage-system",
+   "field": "citation",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "SRRV / TRIAS / UN R136",
+   "proposed": "SRRV / TRIAS / UN R100 (passenger cars, M1/N1)",
+   "evidence": "UN R136 is for category L (two/three-wheelers, light quadricycles) electric power train and REESS. Search: \"UN Regulation No. 136 ... approval of vehicles of category L with regard to specific requirements for the electric power train\". Record scope is passenger car/light truck",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-engine-power-train-and-pedal-lever",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Fuel systems, EV energy storage ... are regulated under SRRV Article 8 to prevent fire, explosion...",
+   "proposed": "SRRV Art. 8 covers engine and power transmission; rewrite. Fuel devices are Art. 15 (as the record itself says)",
+   "evidence": "Body Related Regulations: \"Article 15 - Fuel Device / Fuel Leakage Prevention\" contradicts summary attributing fuel content to Art. 8",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-engine-power-train-and-pedal-lever",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R34, UN R100",
+   "proposed": "empty (R85 engine power measurement possible, unverified)",
+   "evidence": "R34 fire prevention and R100 EV safety are not engine/power-train/pedal regulations",
+   "confidence": "medium"
+  },
+  {
+   "id": "jp-jvsregs-art14",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "[\"UN R79\"]",
+   "proposed": "[] (no direct UN counterpart)",
+   "evidence": "Body: 'springs or other suspension components ... sufficient capacity to absorb ground impacts'. UN R79 is steering equipment, unrelated to suspension.",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-jvsregs-art17",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "[\"UN R34\"]",
+   "proposed": "[\"UN R67\",\"UN R110\",\"UN R134\"]",
+   "evidence": "Body covers high-pressure gas, LPG, and compressed hydrogen fuel systems. UN R34 is fire-risk prevention (liquid fuel tanks); gaseous fuel counterparts are R67 (LPG), R110 (CNG/LNG), R134 (hydrogen).",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-jvsregs-art21",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "[\"UN R125\",\"UN R123\"]",
+   "proposed": "[\"UN R125\"] (R125 driver forward field of vision); drop R123",
+   "evidence": "Body: driver's field of vision, cargo partition, head-up display. UN R123 is Adaptive Front-lighting Systems, unrelated.",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-jvsregs-art26",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "[\"Lighting & signaling\",\"Tell-tales & controls\"]",
+   "proposed": "[\"Passenger accommodation / egress\"] (no emergency-exit tag in taxonomy; remove lighting tags); also add un_equivalent_ai UN R107",
+   "evidence": "Body is emergency exit location/size and marking of exit and opening method; no lighting or tell-tale requirement. Bus counterpart UN R107 not mapped.",
+   "confidence": "medium"
+  },
+  {
+   "id": "jp-jvsregs-art5",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R140",
+   "proposed": "empty (no direct UN counterpart; Art. 5 is vehicle stability/tilt, not ESC)",
+   "evidence": "Body: \"Motor vehicles shall comply with the standards for stability prescribed by ministerial notice, as necessary to ensure stable travel.\" R140 is Electronic Stability Control, a different requirement",
+   "confidence": "medium"
+  },
+  {
+   "id": "jp-srrv-accelerator-control",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Fuel safety, Battery safety, EV charging (commodities fuel tanks, batteries, charging inlet)",
+   "proposed": "Powertrain/Pedals",
+   "evidence": "Template content is fuel/EV; title is accelerator control",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-audible-warning-devices",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Noise, Fuel safety, Battery safety, Pedestrian protection; commodities Fuel system, Batteries, Fuel tanks, Hoses & lines, Power electronics",
+   "proposed": "Noise (Horn; optionally Pedestrian protection for AVAS)",
+   "evidence": "Fuel/battery tags come from the mismatched template body",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "... ensure vehicles can be legally placed on market with proper type approval, certification labeling, production...",
+   "proposed": "Describe ALKS / automated driving system requirements (R157-based; SRRV Art. 48 and Road Vehicles Act Art. 75-3)",
+   "evidence": "Body Key Compliance Intent: \"Ensure the vehicle and compliance record can be legally placed on market, traced, recalled\" - certification/recall template, not ALKS",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-controls-tell-tales-indicators-and-driver-information",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R121, UN R48",
+   "proposed": "UN R121 only",
+   "evidence": "R48 is installation of lighting/light-signalling devices; R121 is identification of controls, tell-tales and indicators",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-controls-tell-tales-indicators-and-driver-information",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "... to ensure the vehicle is visible, signals driver intent clearly, and provides adequate road illumination without glare",
+   "proposed": "Describe controls/tell-tale identification and driver information",
+   "evidence": "Body is lighting template (\"Exterior lamps, reflectors ... aim adjusters\") under a controls/tell-tales title",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-engine-power-train-and-pedal-lever",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Fuel safety, Battery safety, EV charging",
+   "proposed": "Powertrain-related; no matching taxonomy confirmed",
+   "evidence": "Tags derived from fuel/EV template, title is engine/power train/pedal lever",
+   "confidence": "medium"
+  },
+  {
+   "id": "jp-srrv-japan-radio-equipment-technical-conformity-certification",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R10",
+   "proposed": "empty",
+   "evidence": "R10 covers vehicle electromagnetic compatibility; MIC technical conformity under Radio Act is spectrum/radio-equipment approval (the record itself says \"FCC Part 15; EU RED; China SRRC\")",
+   "confidence": "medium"
+  },
+  {
+   "id": "jp-srrv-japanese-vehicle-type-approval-type-designation-framework",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "... requires that passenger vehicles satisfy national standards before they may be sold or registered",
+   "proposed": "Type designation (Road Vehicles Act Art. 75) is the streamlined route; vehicles without it must pass individual inspection for registration",
+   "evidence": "Body: \"exact article and implementing notice applicability should be confirmed in Japanese legal text\"; record cites no article",
+   "confidence": "medium"
+  },
+  {
+   "id": "jp-srrv-speedometer-and-odometer",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Lighting & signaling; commodities Lighting modules, Wiring",
+   "proposed": "Tell-tales & controls",
+   "evidence": "Body Key Compliance Intent is lighting template (\"provides adequate road illumination without glare\") for a speedometer record",
+   "confidence": "high"
+  },
+  {
+   "id": "jp-srrv-tires-wheels-and-tpms",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R141, UN R142",
+   "proposed": "UN R30/R54/R117 for tyres; R141 (TPMS) only if Japan mandates TPMS - unverified",
+   "evidence": "Japan TPMS adoption not evidenced in record; JVSR Art. 9 record maps tyres to R117/R30",
+   "confidence": "low"
+  },
+  {
+   "id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R45, UN R48",
+   "proposed": "empty",
+   "evidence": "UN R45 is headlamp cleaners; R48 is lighting installation. Search: \"UN Regulation No. 45 ... approval of headlamp cleaners\". Neither covers windshield wipers/washers/defrost",
+   "confidence": "high"
+  }
+ ]
+}

@@ -4,17 +4,7 @@ commodities:
 - Bumpers
 id: br-contran-215
 last_pulled: '2026-06-01T18:53:17+00:00'
-open_tags:
-- immobilizer
-- alarm siren
-- anti-theft device
-- vehicle immobilization system
-- burglar alarm
-- electronic anti-theft
-- remote keyless entry
-- transponder key
-- vehicle security system
-- type approval
+open_tags: []
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
@@ -24,7 +14,7 @@ summary: CONTRAN Resolution 215/2006 regulates the manufacture, installation and
   plate and INMETRO-registered manufacturers, because they can affect frontal airbag
   performance and pedestrian injury risk.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: eab6d7f803e0e4b41785dea300ffb40fac4419ad
+summary_hash: bcd7dbe8d65177e9347364b6c654adf8fbeaee14
 systems:
 - Pedestrian protection
 - Crashworthiness
@@ -38,10 +28,6 @@ vehicle_categories:
 - Light truck
 ---
 
-# Burglar Alarm / Anti-theft Equipment
+# Bull bars (quebra-mato) on vehicles up to 3,500 kg GVW
 
-**Citation:** CONTRAN 215/2006
-
-**Source:** [https://www.atic-ts.com/brazilian-whole-vehicle-certfication/](https://www.atic-ts.com/brazilian-whole-vehicle-certfication/)
-
-This regulation is administered through Brazil's vehicle type-approval process. Full text is accessible via the official certification body (ATIC) or SENATRAN resolution archive.
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

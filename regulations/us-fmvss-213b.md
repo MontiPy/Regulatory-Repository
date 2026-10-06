@@ -3,6 +3,7 @@ citation: 49 CFR §571.213b
 commodities:
 - Seats
 - Seatbelts
+effective_date: '2026-12-05'
 id: us-fmvss-213b
 last_pulled: '2026-06-01T18:41:01+00:00'
 open_tags:
@@ -21,7 +22,9 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213b
-status: in-force
+status: upcoming
+status_note: Mandatory for child restraint systems manufactured on or after 5 Dec
+  2026.
 summary: Child restraint systems used in motor vehicles and aircraft are regulated
   under this standard, which mandates safety performance requirements for all such
   systems — including add-on, built-in, and belt-positioning types — applicable to

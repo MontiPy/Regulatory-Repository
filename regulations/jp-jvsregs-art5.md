@@ -33,8 +33,7 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 5 — Stability
 translation_status: translated
-un_equivalent_ai:
-- UN R140
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

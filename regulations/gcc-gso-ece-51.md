@@ -30,9 +30,7 @@ summary: GSO-ECE 51 regulates external (pass-by) noise emissions from motor vehi
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: e3ec63bc630e8f0b43b888f9f8d5b9e2f5d52bef
 systems:
-- Emissions
 - Noise
-- On-board diagnostics
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: External Noise Emissions

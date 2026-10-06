@@ -1,0 +1,54 @@
+{
+  "group": "kr",
+  "patches": {
+    "kr-kmvss-art102-3": {
+      "un_equivalent_ai": ["UN R137"],
+      "_why": "Body is full frontal rigid barrier (Table 14-7); R94 is 40% offset deformable barrier, R137 is full-width rigid barrier."
+    },
+    "kr-kmvss-art109": {
+      "un_equivalent_ai": [],
+      "_why": "Body covers wipers/defroster/demister/washer performance; UN R45 is headlamp cleaners, no UN counterpart."
+    },
+    "kr-kmvss-art111-3": {
+      "un_equivalent_ai": ["UN R79", "UN R171"],
+      "_why": "Partial (Level 2) driving automation: R79 (ACSF) and R171 (DCAS) are plausible counterparts; R157 is Level 3 ALKS and R155 is cybersecurity management."
+    },
+    "kr-kmvss-art18": {
+      "un_equivalent_ai": [],
+      "_why": "Body is conventional wiring insulation/terminal covers/battery fixing; R100 covers electric power train safety, not applicable."
+    },
+    "kr-kmvss-art19": {
+      "un_equivalent_ai": ["UN R58", "UN R73", "UN R26"],
+      "_why": "Body has rear underrun (para 4), side underrun (para 3) and sharp edges/protrusions (para 6); no pedestrian-protection content so R127 removed."
+    },
+    "kr-kmvss-art21": {
+      "un_equivalent_ai": [],
+      "_why": "Body is bonnet/hood latch with secondary catch; UN R11 covers door latches and hinges."
+    },
+    "kr-kmvss-art53-2": {
+      "summary": "Motor vehicles must be equipped with at least one rear pedestrian safety device: a rear-view image system, an approach warning sound system that alerts the driver, or a reversing warning sound system that alerts pedestrians. School vans for children must have both the rear-view image system (item 1) and the reversing warning sound system (item 3).",
+      "_why": "Body para 1: school vans need items 1 and 3 (rear-view image + reversing warning sound), not the approach warning; old summary also truncated."
+    },
+    "kr-kmvss-art87": {
+      "un_equivalent_ai": [],
+      "_why": "Body concerns accelerator return to idle within 1 s; UN R79 is steering equipment, no direct UN counterpart."
+    },
+    "kr-kmvss-art89-2": {
+      "un_equivalent_ai": ["UN R130"],
+      "_why": "Body is lane departure warning system standards; UN R130 is LDWS, R157 is ALKS."
+    },
+    "kr-kmvss-art95": {
+      "un_equivalent_ai": ["UN R118"],
+      "_why": "Body is burn-rate limit of interior materials (102 mm/min); R21 is interior fittings impact. R118 is closest burning-behaviour regulation (scope M3 only)."
+    },
+    "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles": {
+      "systems": [],
+      "commodities": [],
+      "un_equivalent_ai": ["UN R133"],
+      "_why": "Act concerns end-of-life recycling/restricted substances; fuel/battery/charging/emissions tags came from mismatched template body; R133 (recyclability) is closest UN counterpart."
+    }
+  },
+  "skipped": [
+    {"id": "kr-kmvss-art14-2", "field": "vehicle_categories", "reason": "Low-confidence finding; the Korean category behind 'passenger vehicles (excluding light-class vans)' is not verifiable from the English body, so Passenger car/Bus cannot be stated exactly."}
+  ]
+}

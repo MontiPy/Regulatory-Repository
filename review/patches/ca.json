@@ -1,0 +1,147 @@
+{
+ "group": "ca",
+ "patches": {
+  "ca-mvsr-c-r-c---c--1038-s102": {
+   "commodities": [
+    "Pedals"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Body covers transmission control sequence/start interlocks, no brake or steering hardware; taxonomy has no transmission tag so only Pedals (clutch interlock) kept; UN R121 covers control identification, not transmission sequencing."
+  },
+  "ca-mvsr-c-r-c---c--1038-s104": {
+   "un_equivalent_ai": [],
+   "_why": "UN R45 is headlamp cleaners; s. 104 is windshield wipers/washers (SAE J903a), no UN counterpart identified."
+  },
+  "ca-mvsr-c-r-c---c--1038-s105": {
+   "vehicle_categories": [
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "105(1) applies to MPVs, trucks and buses only; passenger cars are under s. 135."
+  },
+  "ca-mvsr-c-r-c---c--1038-s108": {
+   "title": "MVSR s. 108 — Lamps, Reflective Devices and Associated Equipment (TSD 108)",
+   "summary": "Passenger cars, multi-purpose passenger vehicles, trucks, trailers and buses must conform to Technical Standards Document No. 108, Lamps, Reflective Devices, and Associated Equipment. Three-wheeled vehicles must be equipped as required for passenger cars, with additional width-indicating reflex reflectors where the outermost lamps or reflectors are mounted far from the vehicle sides.",
+   "_why": "Body 108(1) is the main requirement; three-wheeled vehicles are only subsec. (2)."
+  },
+  "ca-mvsr-c-r-c---c--1038-s1106": {
+   "systems": [],
+   "vehicle_categories": [],
+   "_why": "Body is a URL-only stub; no text supports Vehicle identification or any vehicle category."
+  },
+  "ca-mvsr-c-r-c---c--1038-s111": {
+   "title": "MVSR s. 111 — Rear Vision Mirrors",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus"
+   ],
+   "_why": "Body covers passenger cars/three-wheelers (7)-(12), motorcycles (13), school buses (16)-(25), and MPVs/trucks/buses by GVWR (26)-(27)."
+  },
+  "ca-mvsr-c-r-c---c--1038-s113": {
+   "un_equivalent_ai": [],
+   "_why": "UN R11 is door latches/hinges; s. 113 is hood latch systems."
+  },
+  "ca-mvsr-c-r-c---c--1038-s114": {
+   "title": "MVSR s. 114 — Theft Protection and Rollaway Prevention",
+   "summary": "Passenger cars, three-wheeled vehicles, and multi-purpose passenger vehicles and trucks of 4,536 kg GVWR or less (except walk-in vans) must conform to TSD 114, Theft Protection and Rollaway Prevention. Such vehicles other than walk-in vans and emergency vehicles must also have an immobilization system meeting CAN/ULC-S338-98, UN Regulation No. 97 Part III, UN Regulation No. 116 Part IV, or the section's own performance requirements.",
+   "_why": "Body 114(1) and 114(4)(a)(i)-(iii)."
+  },
+  "ca-mvsr-c-r-c---c--1038-s124": {
+   "un_equivalent_ai": [],
+   "_why": "UN R161 is protection against unauthorized use, not accelerator controls."
+  },
+  "ca-mvsr-c-r-c---c--1038-s131": {
+   "un_equivalent_ai": [],
+   "_why": "UN R148 is light-signalling devices; s. 131 is school-bus stop signal arms/image recording."
+  },
+  "ca-mvsr-c-r-c---c--1038-s201": {
+   "un_equivalent_ai": [
+    "UN R21"
+   ],
+   "_why": "s. 201 head impact area corresponds to UN R21 interior fittings; R94 is frontal collision."
+  },
+  "ca-mvsr-c-r-c---c--1038-s206": {
+   "un_equivalent_ai": [
+    "UN R11"
+   ],
+   "_why": "Body 206(1)(b) names UN Regulation No. 11 as the alternative compliance route; recorded as AI-plausible rather than stated-equivalent."
+  },
+  "ca-mvsr-c-r-c---c--1038-s208": {
+   "title": "MVSR s. 208 — Seat Belt Assemblies (Installation)",
+   "_why": "Body 208(1)-(2) prescribes seat belt assembly types per seating position; not about fit."
+  },
+  "ca-mvsr-c-r-c---c--1038-s210": {
+   "title": "MVSR s. 210 — Seat Belt Anchorages",
+   "_why": "Section is about seat belt anchorages and TSD 210; transitional rule is only subsec. (4)."
+  },
+  "ca-mvsr-c-r-c---c--1038-s210-2": {
+   "un_equivalent_ai": [
+    "UN R145"
+   ],
+   "_why": "Lower universal anchorage systems in vehicle match UN R145; R129 approves child restraints, not vehicle anchorages."
+  },
+  "ca-mvsr-c-r-c---c--1038-s215": {
+   "systems": [
+    "Crashworthiness"
+   ],
+   "un_equivalent": [
+    "UN R42"
+   ],
+   "_why": "Low-speed bumper requirements protect bodywork, not pedestrians; body cites UN R42 as a compliance route."
+  },
+  "ca-mvsr-c-r-c---c--1038-s216": {
+   "un_equivalent_ai": [],
+   "_why": "UN R135 is pole side impact; no direct UN roof crush counterpart for passenger cars."
+  },
+  "ca-mvsr-c-r-c---c--1038-s301-1": {
+   "un_equivalent_ai": [
+    "UN R67"
+   ],
+   "_why": "LPG fuel system integrity; R153 is rear-impact for liquid-fuel/EV; R67 covers LPG systems."
+  },
+  "ca-mvsr-c-r-c---c--1038-s301-2": {
+   "un_equivalent_ai": [
+    "UN R110"
+   ],
+   "_why": "CNG fuel system integrity; R110 covers CNG systems; R153 is rear-impact."
+  },
+  "ca-mvsr-c-r-c---c--1038-s302": {
+   "un_equivalent_ai": [],
+   "_why": "UN R21 is interior fittings impact, not flammability; R118 applies to buses only so left out."
+  },
+  "ca-mvsr-c-r-c---c--1038-s401": {
+   "un_equivalent_ai": [],
+   "_why": "UN R11 has no interior trunk release requirement."
+  },
+  "ca-workbook-reg-0145-eccc-sor-2003-2": {
+   "summary": "Canadian regulations under the Canadian Environmental Protection Act, 1999 setting emission standards for new on-road vehicles and engines, including light-duty vehicles, heavy-duty vehicles and engines, and motorcycles, and governing use of the National Emissions Mark. They are not part of the Motor Vehicle Safety Regulations or Schedule III.",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus"
+   ],
+   "_why": "Record body wrongly ties scope to MVSR Schedule III; SOR/2003-2 is a CEPA 1999 instrument covering light-duty, heavy-duty and motorcycle on-road vehicles/engines."
+  },
+  "ca-workbook-reg-0568-sor-2010-90": {
+   "un_equivalent_ai": [
+    "UN R44",
+    "UN R129"
+   ],
+   "summary": "Canada's Motor Vehicle Restraint Systems and Booster Seats Safety Regulations set safety requirements for removable child restraint systems, including infant and child restraints, booster seats, car beds and custom restraint systems for disabled persons. Vehicle seat belt assemblies and anchorages are covered separately by MVSR sections 208 and 210 to 210.2.",
+   "_why": "Sibling record ca-mvsr-sor-2010-90 definitions; R16 is adult belts, child restraints are R44/R129."
+  }
+ },
+ "skipped": [
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+   "field": "status",
+   "reason": "Already status 'withdrawn' with status_note 'Repealed by SOR/2018-43'; 'repealed' is not a taxonomy value."
+  }
+ ]
+}

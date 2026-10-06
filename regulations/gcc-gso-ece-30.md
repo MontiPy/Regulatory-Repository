@@ -37,7 +37,6 @@ title: Pneumatic Tyres for Passenger Cars
 translation_status: untranslated
 un_equivalent_ai:
 - UN R30
-- UN R141
 vehicle_categories:
 - Passenger car
 ---

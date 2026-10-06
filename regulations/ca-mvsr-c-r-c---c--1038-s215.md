@@ -25,10 +25,11 @@ summary_generated_at: '2026-06-22T17:48:27+00:00'
 summary_hash: 81fc5a9e701f73fb547c711cf12fea4ccb14386b
 systems:
 - Crashworthiness
-- Pedestrian protection
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 215
+un_equivalent:
+- UN R42
 vehicle_categories:
 - Passenger car
 ---

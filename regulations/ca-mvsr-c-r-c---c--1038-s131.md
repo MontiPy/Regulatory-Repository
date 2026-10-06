@@ -32,8 +32,7 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 131 — Stop Signals
-un_equivalent_ai:
-- UN R148
+un_equivalent_ai: []
 vehicle_categories:
 - Bus
 ---

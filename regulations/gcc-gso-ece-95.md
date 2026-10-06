@@ -36,14 +36,12 @@ summary_hash: 385005c05ffa9c7c742662a781e83244fdc0ca12
 systems:
 - Crashworthiness
 - Restraints
-- Pedestrian protection
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Protection of Occupants in Lateral Collision
 translation_status: untranslated
 un_equivalent_ai:
 - UN R95
-- UN R114
 vehicle_categories:
 - Passenger car
 - Light truck

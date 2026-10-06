@@ -38,8 +38,9 @@ tagging_status: llm-tagged
 title: KMVSS Article 19 — Frame and Body
 translation_status: translated
 un_equivalent_ai:
+- UN R58
+- UN R73
 - UN R26
-- UN R127
 vehicle_categories:
 - Light truck
 - Heavy truck

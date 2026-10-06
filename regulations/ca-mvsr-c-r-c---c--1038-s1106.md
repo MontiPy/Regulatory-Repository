@@ -21,18 +21,11 @@ summary: The text provided contains only a reference URL and does not include su
   or mandates are present in the supplied text.
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: d55584c85c923efc0d3c27f7daa668daeecc4c2f
-systems:
-- Vehicle identification
+systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR C.R.C.,_c._1038 s. 1106
-vehicle_categories:
-- Passenger car
-- Light truck
-- Heavy truck
-- Motorcycle
-- Bus
-- Trailer
+vehicle_categories: []
 ---
 
 # MVSR C.R.C.,_c._1038 s. 1106

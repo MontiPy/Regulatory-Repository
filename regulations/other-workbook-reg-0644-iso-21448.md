@@ -23,17 +23,15 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/77490.html
 status: in-force
-summary: ISO 21448 addresses the safety of intended functionality (SOTIF) for passenger-vehicle
+summary: ISO 21448 addresses the safety of the intended functionality (SOTIF) for
   ADAS and automated driving systems, focusing on hazards caused by performance limitations
-  rather than component faults. It requires manufacturers to identify, mitigate, and
-  validate risks arising from false detections, edge-case...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  rather than component faults. It is a voluntary engineering standard used as supporting
+  evidence for identifying, mitigating and validating risks such as false detections
+  and edge cases.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 815b6b13268c7cddbe321729c17131f2ca490334
 systems:
 - ADAS
-- Cybersecurity
-- On-board diagnostics
-- Software updates
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Safety of the intended functionality

@@ -1,5 +1,6 @@
 ---
-citation: BS-VI / India CAFE / Fuel Consumption
+citation: CMVR 1989 Rule 115 (Bharat Stage VI emission norms); Energy Conservation
+  Act 2001 (CAFE fuel-consumption norms)
 commodities:
 - Exhaust
 - Fuel system
@@ -27,18 +28,15 @@ region: IN
 source_api: ais
 source_url: https://morth.gov.in
 status: in-force
-summary: Passenger vehicles sold in India are regulated under the BS-VI emission standards
-  and India CAFE fuel-consumption framework, which require compliance with certified
-  emissions limits (NOx, CO, HC, PM, PN, CO2), evaporative and OBD system requirements,
-  accurate road-load and fuel/energy consumption data, and fleet-level...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: Passenger vehicles sold in India are subject to Bharat Stage VI emission
+  standards and India's CAFE fuel-consumption norms, covering certified emission limits,
+  evaporative and on-board diagnostic requirements, road-load and fuel/energy consumption
+  data, and fleet-level reporting.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3ac3e3a18f8bb74badb39dd466a50d8d2b756909
 systems:
 - Emissions
 - On-board diagnostics
-- Fuel safety
-- EV charging
-- Battery safety
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: India emission and fuel-consumption compliance framework

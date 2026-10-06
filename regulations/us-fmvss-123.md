@@ -38,7 +38,7 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.123 Standard No. 123; Motorcycle controls and displays.
 un_equivalent_ai:
-- UN R121
+- UN R60
 vehicle_categories:
 - Motorcycle
 ---

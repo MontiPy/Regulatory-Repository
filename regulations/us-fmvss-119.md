@@ -36,7 +36,7 @@ title: § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with 
   of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.
 un_equivalent_ai:
 - UN R54
-- UN R30
+- UN R75
 vehicle_categories:
 - Heavy truck
 - Light truck

@@ -29,9 +29,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.131 Standard No. 131; School bus pedestrian safety devices.
-un_equivalent_ai:
-- UN R150
-- UN R148
+un_equivalent_ai: []
 vehicle_categories:
 - Bus
 ---

@@ -21,17 +21,18 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Three-wheeled vehicles must be equipped with lamps, reflex reflectors, and
-  associated components meeting the same standards required for passenger cars under
-  TSD 108, with additional width-indicating reflex reflectors required when outermost
-  parking lamps or tail lamps/rear reflex reflectors are installed more than...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Passenger cars, multi-purpose passenger vehicles, trucks, trailers and buses
+  must conform to Technical Standards Document No. 108, Lamps, Reflective Devices,
+  and Associated Equipment. Three-wheeled vehicles must be equipped as required for
+  passenger cars, with additional width-indicating reflex reflectors where the outermost
+  lamps or reflectors are mounted far from the vehicle sides.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eeb66aa67712ce2bb4f28f8f01e77630befc783a
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 108 — Three-wheeled Vehicles
+title: MVSR s. 108 — Lamps, Reflective Devices and Associated Equipment (TSD 108)
 un_equivalent_ai:
 - UN R112
 - UN R148

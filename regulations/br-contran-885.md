@@ -36,9 +36,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
-- Bus
-- Trailer
 ---
 
 # Door Retention Systems, Latches and Hinges

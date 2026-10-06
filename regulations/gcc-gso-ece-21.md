@@ -43,7 +43,6 @@ title: Interior Fittings
 translation_status: untranslated
 un_equivalent_ai:
 - UN R21
-- UN R94
 vehicle_categories:
 - Passenger car
 - Light truck

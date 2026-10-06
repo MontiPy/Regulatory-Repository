@@ -23,12 +23,10 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Tyre Pressure Monitoring Systems (TPMS) for passenger vehicles in the GCC
-  region are regulated under GSO-ECE 141, covering tires, wheels, valve stems, TPMS
-  hardware, placards, and tire markings to ensure structural suitability, correct
-  identification, and proper matching to the vehicle configuration. Applicability
-  is...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: GSO-ECE 141 covers tyre pressure monitoring systems (TPMS) on passenger vehicles
+  in the GCC region, requiring a system that warns the driver of significant tyre
+  under-inflation through a tell-tale.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b8fb8e90237393112b039b9d7195294742c4d756
 systems:
 - Tires & wheels

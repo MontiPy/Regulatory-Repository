@@ -24,11 +24,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9542022.pdf/@@download/file
 status: in-force
-summary: Electronic stability control systems for new passenger and cargo vehicles
-  (categories M1, M2, M3, N1, N2, N3) and trailers/semi-trailers (O3 and O4) sold
-  in Brazil, whether domestically produced or imported. It mandates that these vehicles
-  be equipped with either Electronic Stability Control (ESC) or a Vehicle...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: CONTRAN Resolution 954/2022 requires Electronic Stability Control (ESC) on
+  new M1 and N1 vehicles, with a Vehicle Stability Function (VSF) allowed as an alternative
+  only for N1 and for M1 above 1,735 kg. VSF is mandatory for M2, M3, N2 and N3, and
+  roll-stability VSF is required for O3 and O4 trailers; it is optional for exclusively
+  urban M3 but mandatory for school vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 41505b48537c1a0fc04e32b5f3654e226cfe08b3
 systems:
 - Braking

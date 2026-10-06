@@ -39,8 +39,8 @@ systems:
 - EMC
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 100 — Electric Power Trained Vehicles — Construction and
-  Functional Safety
+title: UN Regulation No. 100 — Vehicles with Regard to Specific Requirements for the
+  Electric Power Train
 vehicle_categories:
 - Passenger car
 - Light truck

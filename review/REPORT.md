@@ -170,3 +170,30 @@ python scripts/review_aggregate.py         # → review/findings_all.json (cover
 ```
 All findings (including medium/low) with evidence are in `review/findings/<shard>.json` and the merged
 `review/findings_all.json`.
+
+## Fix status (applied on branch `review/content-accuracy`)
+
+| Phase | What | Status |
+|---|---|---|
+| 1 | Accepted high-severity record and knowledge fixes | Applied (see `CHANGES.md`) |
+| 2 | Labels in the UI: what kind of text each record holds (`content_kind`: full, summary, index or link), AI-suggested UN equivalents marked unverified, `upcoming` status plus `status_note` | Applied |
+| 3 | Medium and high findings turned into structured patches by 11 patch writers, then checked by `apply_patches.py` (taxonomy, UN-ref format, dates, truncation) | Applied: 199 records, 304 fields, 0 rejected |
+| 3+ | Orchestrator follow-up: 5 record bodies copied from a wrong-topic template replaced with reference stubs; stale template `open_tags` cleared (18 records) | Applied |
+| 4 | Re-pull the regulation text from official sources (government sites are blocked in this environment) | Not done |
+| 5 | Low-severity findings | Not done |
+
+Held for human verification (not applied):
+- `au-f2006l01279` (ADR 28/01): the supersession by ADR 83/00 is unconfirmed.
+- `eu-workbook-reg-0637`: Omnibus I (Directive (EU) 2026/470) could not be verified.
+- `gcc-gso-ece-26` `un_equivalent_ai`, `cn-gb-20072-2024` `un_equivalent` (low confidence), `br-contran-749` categories, and a 2026 ISO 9001 edition.
+- Knowledge items: Macau authority and Euro 6c, JP IWVTA wording, Canada certification label, India cybersecurity status, and AE/IL/SA `un_1958` notes.
+
+Judgement calls worth checking (taken from the patch writers' notes):
+- ADR 19/02→R53; ADR 105/00 set to Heavy truck only.
+- JVSR Art. 26→R107; the ALKS and controls records in jp-srrv still carry template tags.
+- `eu-32014r0540`: R51 and R59 kept as machine-suggested equivalents, not stated ones.
+- `eu-32024r1257` (Euro 7) and FMVSS 213b set to `upcoming`; FMVSS 202 set to `superseded` by 202a.
+- `br-contran-245-330` suspension note and the Massachusetts 93K litigation note come only from search snippets and are worded with hedges.
+- India BS-VI citation and Brazil MOVER citation (Law 14.902/2024) come from the patch writers' own knowledge.
+- ERA-GLONASS, `br-contran-498` and `cn-gb-26572-2025`/`8410` have `systems` set to [], because the taxonomy has no eCall, flammability or substances value.
+- 0652 bundles ISO 34502, ISO/TR 4804 and PAS 8800, so it may need splitting into separate records.

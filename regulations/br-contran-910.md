@@ -25,11 +25,14 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-910-de-28-de-marco-de-2022
 status: in-force
-summary: The provided text contains only navigation menus, website links, and header
-  information from the Brazilian Ministry of Transportation's website, with no substantive
-  regulatory content about occupant protection or fuel system integrity. The text
-  does not include the actual provisions, requirements, or mandates of...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+status_note: Arts. 2-3 (ABNT NBR test requirements) were valid only until 31 Dec 2025;
+  the Annex-based requirements (Art. 4 onward) continue to apply.
+summary: CONTRAN Resolution 910/2022 sets occupant-protection requirements for frontal
+  and rear impact and fuel-system integrity after impact for automobiles and derived
+  vehicles, referencing ABNT NBR 15300, NBR 15240 and NBR 15241, with Annex-based
+  frontal-impact biomechanical criteria from 1 Jan 2024. Test results to UN R32, R34
+  and R94 or FMVSS 203, 208 and 301 are accepted as an alternative.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 252e683a54dc0e584f5f15a8c8271648938a3b8c
 systems:
 - Crashworthiness

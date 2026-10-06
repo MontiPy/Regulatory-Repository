@@ -20,7 +20,9 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202
-status: in-force
+status: superseded
+status_note: Applies only to vehicles manufactured before 1 Sep 2009 (phase-in until
+  1 Sep 2010); superseded by FMVSS 202a.
 summary: Head restraints in passenger cars and light-duty multipurpose passenger vehicles,
   trucks, and buses (GVWR of 4,536 kg or less) manufactured before September 1, 2009,
   are regulated to reduce neck injury frequency and severity in collisions. The standard

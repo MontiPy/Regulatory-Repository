@@ -23,6 +23,9 @@ region: US
 source_api: spreadsheet
 source_url: https://malegislature.gov/Laws/SessionLaws/Acts/2020/Chapter386
 status: in-force
+status_note: 'Subject to litigation: automakers'' appeal to the First Circuit filed
+  March 2025; NHTSA has stated its view that federal law preempts it. Current outcome
+  not confirmed.'
 summary: Massachusetts's right-to-repair telematics law requires that model year 2022
   and later vehicles sold with telematics systems provide vehicle owners and independent
   repairers access to the same diagnostic and repair data available to authorized
@@ -36,9 +39,7 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Motor vehicle right-to-repair telematics data access
-un_equivalent_ai:
-- UN R155
-- UN R156
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

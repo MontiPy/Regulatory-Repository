@@ -1,0 +1,67 @@
+{
+  "group": "au",
+  "patches": {
+    "au-f2012l01123": {
+      "summary": "ADR 00/00 (Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories) 2005 Amendment 6) is a historic compilation made under the Motor Vehicle Standards Act 1989. It was in force from 30 May 2012 to 18 March 2014 and is no longer current.",
+      "_why": "Finding: summary read as live and was truncated with '...'; record body says 'No longer in force', 30 May 2012 - 18 March 2014. Status/title already correct in record."
+    },
+    "au-f2005l04012": {
+      "un_equivalent_ai": ["UN R53"],
+      "commodities": ["Lighting modules"],
+      "_why": "ADR 19/02 is installation of lighting on L-group vehicles; R48 covers M/N/O only, R53 is the L3 installation counterpart. Wiring/Connectors not supported by title/body."
+    },
+    "au-f2006l01280": {
+      "un_equivalent_ai": ["UN R24"],
+      "_why": "ADR 30/01 is diesel smoke opacity, which adopts UN R24; R83/R168 are pollutant/RDE emissions."
+    },
+    "au-f2006l01429": {
+      "un_equivalent_ai": [],
+      "_why": "ADR 29/00 is static side door crush resistance (FMVSS 214 static alternative); R95 corresponds to dynamic side impact ADR 72/00."
+    },
+    "au-f2006l01455": {
+      "un_equivalent_ai": ["UN R137"],
+      "_why": "ADR 69/00 is full frontal impact; R94 is the offset-barrier regulation (ADR 73/00)."
+    },
+    "au-f2006l01786": {
+      "un_equivalent_ai": ["UN R21"],
+      "_why": "ADR 21/00 Instrument Panel is an occupant-impact interior-fittings standard (UN R21); R121 covers control identification (ADR 18)."
+    },
+    "au-f2006l02312": {
+      "un_equivalent_ai": ["UN R80"],
+      "_why": "ADR 66 covers seat/anchorage strength in omnibuses; R80 is the large-passenger-vehicle seat regulation, R17 is for M1/N."
+    },
+    "au-f2006l02664": {
+      "un_equivalent_ai": ["UN R18", "UN R116"],
+      "_why": "R162 is immobilizers, not locks; ADR 25/02 corresponds to R18 (Protection Against Unauthorised Use), now superseded by R116."
+    },
+    "au-f2006l02729": {
+      "un_equivalent_ai": ["UN R56"],
+      "_why": "ADR 54/00 is headlamps for mopeds; UN R56 is headlamps for mopeds. R112/R113 are for motor vehicles."
+    },
+    "au-f2020l01254": {
+      "summary": "ADR 61/03 is the Australian Design Rule for vehicle marking, setting requirements for the marking of road vehicles so that they can be identified, including the vehicle identification plate.",
+      "_why": "Finding: engine numbers, registration plates and tray visibility are not supported by the body (metadata page only); replaced with a conservative description supported by title and VIN plate tag."
+    },
+    "au-f2023l01321": {
+      "un_equivalent_ai": ["UN R151"],
+      "vehicle_categories": ["Heavy truck"],
+      "_why": "ADR 105/00 applies UN R151 (BSIS for bicycle detection) to medium/heavy goods vehicles; R158/R159 are reversing and MOIS. Not for passenger cars."
+    },
+    "au-f2026l00278": {
+      "un_equivalent_ai": ["UN R79"],
+      "_why": "ADR 107/00 is harmonised with UN R79 rev.4 (corrective steering function), not R157 (ALKS)."
+    }
+  },
+  "skipped": [
+    {"id": "au-f2011l02016", "field": "status", "reason": "Record already in-force with status_note about ADR 79/05 supersession; status in-force is correct."},
+    {"id": "au-f2011l02016", "field": "un_equivalent_ai", "reason": "Already ['UN R83']."},
+    {"id": "au-f2012l01123", "field": "status", "reason": "Already superseded with note."},
+    {"id": "au-f2012l01123", "field": "title", "reason": "Current title already 'ADR Definitions and Vehicle Categories 2005 - Amendment 6 (historic compilation)'; finding's 'current' is stale and the proposed wording is not a better title."},
+    {"id": "au-f2023l01530", "field": "un_equivalent_ai", "reason": "Already ['UN R134']."},
+    {"id": "au-f2024l00161", "field": "un_equivalent_ai", "reason": "Already ['UN R130']."},
+    {"id": "au-f2024l00161", "field": "vehicle_categories", "reason": "Already Heavy truck, Bus."},
+    {"id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024", "field": "summary", "reason": "Already corrected to fleet-average CO2 scheme."},
+    {"id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024", "field": "systems", "reason": "Already ['Emissions']."},
+    {"id": "au-f2006l01279", "field": "status", "reason": "Supersession by ADR 83/00 for new vehicles rests on a web snippet with uncertain dates; cannot state an exact status_note confidently. Orchestrator should verify against ADR 83/00 applicability."}
+  ]
+}

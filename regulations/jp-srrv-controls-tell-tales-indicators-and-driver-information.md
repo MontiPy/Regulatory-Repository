@@ -6,29 +6,17 @@ commodities:
 - ECUs
 id: jp-srrv-controls-tell-tales-indicators-and-driver-information
 last_pulled: '2026-06-01T18:54:41+00:00'
-open_tags:
-- exterior lamps
-- reflectors
-- light-signalling devices
-- lighting ECU
-- lens optics
-- LED modules
-- bulb modules
-- aim adjusters
-- instrument panel telltales
-- HMI display
-- tell-tale logic
-- type-approval
+open_tags: []
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-summary: Instrument panel controls, displays, tell-tales, switches, HMI software,
-  and labels in vehicles sold in Japan are regulated under SRRV/TRIAS to ensure the
-  vehicle is visible, signals driver intent clearly, and provides adequate road illumination
-  without glare. Compliance requires correct color, intensity, and logic...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 7de4e1c274d7314c76016a80584b1478183c18f8
+summary: Japan's requirements for the identification and layout of driver controls,
+  tell-tales and indicators, and driver information displays under the Safety Regulations
+  for Road Vehicles and TRIAS test procedures. This record is a reference stub without
+  regulation text.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: aea249e34417c3be6cb6d9ee692defb6b1209434
 systems:
 - Lighting & signaling
 - Visibility
@@ -39,7 +27,6 @@ title: Controls, Tell-tales, Indicators and Driver Information
 translation_status: translated
 un_equivalent_ai:
 - UN R121
-- UN R48
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -47,23 +34,4 @@ vehicle_categories:
 
 # Controls, Tell-tales, Indicators and Driver Information
 
-**Regulated Area:** Visibility / lighting / HMI
-
-**Applicability:** Instrument panel, controls, displays, telltales, switches, HMI software, labels Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.
-
-## Primary Vehicle Systems and Components
-
-Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.
-
-## Failure Modes and Symptoms
-
-Lighting nonconformance, wrong color/intensity, lamp out or flicker, mis-aimed beams, glare, visibility/conspicuity loss, incorrect tell-tale logic.
-
-## Engineering Considerations
-
-Regional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

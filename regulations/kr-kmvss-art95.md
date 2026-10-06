@@ -36,7 +36,7 @@ tagging_status: llm-tagged
 title: KMVSS Article 95 — Flame Resistance of Interior Materials
 translation_status: translated
 un_equivalent_ai:
-- UN R21
+- UN R118
 vehicle_categories:
 - Passenger car
 - Light truck

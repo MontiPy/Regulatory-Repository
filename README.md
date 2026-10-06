@@ -20,7 +20,7 @@ python -m http.server -d dist 8000      # then open http://localhost:8000/
 
 | Question | Where | What you get |
 |---|---|---|
-| "What governs this part/system?" | **Regulations** (search + facets) | 728 regulations (FMVSS, CMVSS, UN R, EU, JVSR, KMVSS, GB, ADR, CONTRAN, GSO, AIS…) with full text where public, classified by system / commodity / vehicle category. |
+| "What governs this part/system?" | **Regulations** (search + facets) | 726 regulations (FMVSS, CMVSS, UN R, EU, JVSR, KMVSS, GB, ADR, CONTRAN, GSO, AIS…) with full text where public, classified by system / commodity / vehicle category. |
 | "How do I get a vehicle approved in country X?" | **Markets** (`?view=markets`, `?view=market&code=JP`) | 48 market profiles covering 155 countries and territories, grouped by world region (plus sanctioned/restricted markets flagged as such): certification regime (self-certification, type approval, hybrid, recognition, registration/inspection), authorities with links, UN 1958/1998 Agreement status, accepted foreign approvals, mandatory marks/labels/certificates, emissions level, language, step-by-step approval process, upcoming changes, and a per-market requirement map. |
 | "What is this requirement called in every other market?" | **Crosswalk** (`?view=crosswalk`, `?view=topic&t=side-pole`) | 69 requirement topics (frontal/side/pole impact, belts, ISOFIX, ESC, AEB, lighting, glazing, TPMS, EV safety, REESS, emissions, CO2, EMC, cybersecurity, OTA, VIN, recalls…) × 11 regimes (US, CA, UN R, EU, JP, KR, CN, IN, AU, BR, GCC). Each cell carries the citation, status (mandatory / phase-in / proposed / voluntary / none), engineering notes and one-click links to the regulation text. |
 | "What's my compliance checklist for this launch?" | **Launch planner** (`?view=planner&m=US,EU,CN&pt=BEV`) | Pick target markets + powertrain (ICE/HEV/PHEV/BEV/FCEV) → per-market approval routes and a requirement checklist mapped to each market's governing regulation (UN R basis inferred for 1958-Agreement markets). **Export CSV** for a compliance matrix / DVP&R, or print. Every plan is a shareable URL. |
@@ -34,6 +34,26 @@ terms** above the regulation results (e.g. "Saudi", "ISOFIX", "R94").
 > memberships are shown as "?" rather than guessed. Confirm the current instrument, series and
 > transitional dates with the authority before any certification decision.
 
+## Data quality — what to trust
+
+A full content-and-accuracy review was run in October 2026 (47 reviewer agents + orchestrator
+adjudication; see [`review/REPORT.md`](review/REPORT.md) and the change log
+[`review/CHANGES.md`](review/CHANGES.md)). Its key conclusions are built into the site:
+
+- **Only about 45 % of records hold the regulation text itself.** The build classifies every body
+  (`content_kind`): `full` (regulation text), `summary` (curated/AI-written description), `index`
+  (the source site's landing page only — all Australian ADRs today) or `link` (a pointer only — all
+  UN Regulations today). Cards are labelled ("Summary only", "Link only", "Index page only"), the
+  reader shows a "Not the regulation text" banner, and the **Availability** filter can narrow
+  results to full regulation text.
+- **Machine-suggested UN equivalents (`un_equivalent_ai`) are unreliable** — the review found
+  hundreds of wrong mappings. They are shown separately with a warning; verify before use.
+- **Status** now distinguishes `upcoming` (adopted, not yet applicable) and carries an optional
+  `status_note` for nuance (e.g. "being superseded by ADR 79/05", "federal waiver revoked, in
+  litigation").
+- Reproduce or extend the review with `scripts/review_precheck.py`, the shard/brief files in
+  `review/`, and `scripts/review_aggregate.py`.
+
 ---
 
 ## Regulation corpus
@@ -42,7 +62,7 @@ Vehicle engineers need to know which regulations apply to a given commodity (e.g
 
 This repository pulls regulation text from official APIs, classifies each record against a controlled taxonomy (commodity / vehicle system / vehicle category), and renders everything into a static web bundle with faceted search.
 
-Current coverage: **728 records** across **21 regions** — 697 from live connectors plus 31 reference stubs for markets without a public source.
+Current coverage: **726 records** across **21 regions** — 697 from live connectors plus 31 reference stubs for markets without a public source.
 
 | Region | Code | Source connector | Records |
 |--------|------|-----------|---------|

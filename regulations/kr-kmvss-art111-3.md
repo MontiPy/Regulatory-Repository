@@ -33,8 +33,8 @@ title: KMVSS Article 111-3 — Safety Standards for Partial Autonomous Driving S
   in Passenger Cars
 translation_status: translated
 un_equivalent_ai:
-- UN R157
-- UN R155
+- UN R79
+- UN R171
 vehicle_categories:
 - Passenger car
 ---

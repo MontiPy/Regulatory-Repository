@@ -1,0 +1,162 @@
+{
+  "group": "eu",
+  "patches": {
+    "eu-32006r1907": {
+      "title": "Regulation (EC) No 1907/2006 — REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals)",
+      "summary": "Regulation (EC) No 1907/2006 of 18 December 2006 establishes the EU framework for the registration, evaluation, authorisation and restriction of chemical substances (REACH) and created the European Chemicals Agency. For vehicle makers and suppliers it drives material compliance, including substances of very high concern (Annex XIV authorisation list) and restricted substances (Annex XVII).",
+      "effective_date": "2007-06-01",
+      "_why": "Findings: title is bare CELEX number, summary describes a scrape failure, date matches no REACH milestone; REACH entered into force 1 Jun 2007 (adopted 18 Dec 2006)."
+    },
+    "eu-32017r1151": {
+      "title": "Commission Regulation (EU) 2017/1151 — Light-Duty Vehicle Emissions Type-Approval (Euro 5/6, WLTP, RDE)",
+      "summary": "Commission Regulation (EU) 2017/1151 of 1 June 2017 supplements Regulation (EC) No 715/2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6). It sets the WLTP and real-driving-emissions test procedures, CO2 and fuel consumption measurement, on-board diagnostics and evaporative emission requirements, and replaced Regulation (EC) No 692/2008.",
+      "systems": [
+        "Emissions",
+        "On-board diagnostics"
+      ],
+      "commodities": [
+        "Exhaust",
+        "Fuel system",
+        "Fuel tanks",
+        "ECUs",
+        "Batteries",
+        "Electric motors",
+        "HVAC"
+      ],
+      "_why": "Findings: weak title, scrape-failure summary, systems/commodities drift (Braking, HVAC, Tires, Noise, EV charging, Battery safety; Tires/Brakes/Wiring/Charging inlet/Power electronics commodities). effective_date finding already applied (2017-07-27), so skipped. Fuel safety dropped (evaporative covered under Emissions); HVAC commodity kept as doubtful."
+    },
+    "eu-32014l0053": {
+      "un_equivalent_ai": [
+        "UN R10"
+      ],
+      "_why": "UN R155 is vehicle cybersecurity management; RED is a radio-equipment directive. R10 (EMC) kept as related counterpart."
+    },
+    "eu-32014r0540": {
+      "un_equivalent": [],
+      "un_equivalent_ai": [
+        "UN R51",
+        "UN R59"
+      ],
+      "_why": "Body cites R85 only for rated net power and R117 as exclusion; R51 (noise test method) and R59 (replacement silencing systems) are cited by the body as the UN counterparts. R51 moved from AI to un_equivalent.",
+      "_why_orch": "Orchestrator: R51/R59 are cited test methods, not stated adoption -> kept as machine-suggested"
+    },
+    "eu-32018r0858": {
+      "un_equivalent": [],
+      "_why": "Framework type-approval regulation, not equivalent to any individual UN Regulation; the 65 listed are only UN Regs referenced in annexes."
+    },
+    "eu-32018r0985": {
+      "un_equivalent": [],
+      "un_equivalent_ai": [
+        "UN R96"
+      ],
+      "_why": "Body cites R120 only in the definition of net power (test method), so not an equivalent; UN R96 (CI engines for tractors, pollutant emissions) is the plausible emissions counterpart."
+    },
+    "eu-32019r2144": {
+      "effective_date": "2022-07-06",
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus",
+        "Trailer"
+      ],
+      "_why": "Applies from 6 Jul 2022 (2019-11-27 is the adoption date); Art 2 scope is categories M, N, O so Motorcycle removed."
+    },
+    "eu-32021r0535": {
+      "effective_date": "2022-07-06",
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus",
+        "Trailer"
+      ],
+      "_why": "Applies from 6 Jul 2022 (2021-03-31 is adoption date); scope is categories M, N, O so Motorcycle removed."
+    },
+    "eu-32021r0646": {
+      "effective_date": "2022-07-06",
+      "un_equivalent_ai": [],
+      "_why": "Applies from 6 Jul 2022 (adoption 2021-04-19). UN R157 is ALKS (Level 3), not ELKS; R130 already in un_equivalent, no better AI counterpart asserted."
+    },
+    "eu-32021r1341": {
+      "effective_date": "2022-07-06",
+      "_why": "Body: 'It shall apply from 6 July 2022' (2021-04-23 is adoption date)."
+    },
+    "eu-32021r1958": {
+      "effective_date": "2022-07-06",
+      "un_equivalent": [],
+      "_why": "Body: applies from 6 Jul 2022. No UN regulation covers ISA; R39 cited only for speedometer calibration, R46 not in body."
+    },
+    "eu-32022r0545": {
+      "effective_date": "2022-07-06",
+      "_why": "Body: 'It shall apply from 6 July 2022' (2022-01-26 is adoption date)."
+    },
+    "eu-32022r1426": {
+      "effective_date": "2022-09-15",
+      "un_equivalent": [
+        "UN R155",
+        "UN R156"
+      ],
+      "un_equivalent_ai": [
+        "UN R157"
+      ],
+      "_why": "Body: enters into force on 20th day after OJ publication of 26.8.2022 = 15 Sep 2022. Body cites R155 (8.1) and R156 (8.2); R100 not in body; R157 (ALKS) moved to AI as a partial analogue."
+    },
+    "eu-32023r1542": {
+      "effective_date": "2024-02-18",
+      "_why": "Body: 'It shall apply from 18 February 2024' (some provisions later); 2023-07-12 is adoption date."
+    },
+    "eu-32023r2590": {
+      "effective_date": "2024-07-07",
+      "_why": "Body: 'It shall apply from 7 July 2024' (2023-07-13 is adoption date). un_equivalent finding already applied ([])."
+    },
+    "eu-32024r0573": {
+      "effective_date": "2024-03-11",
+      "_why": "Body: enters into force 20th day after OJ publication of 20.2.2024 = 11 Mar 2024; Arts 12, 17(5) apply from 1 Jan 2025, others from 3 Mar 2025."
+    },
+    "eu-32024r1257": {
+      "effective_date": "2026-11-29",
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus"
+      ],
+      "status": "upcoming",
+      "status_note": "Applies from 29 Nov 2026 to new M1/N1 types, 29 Nov 2027 to all new M1/N1 vehicles, and from 29 May 2028 / 29 May 2029 to M2, M3, N2, N3, O3 and O4.",
+      "_why": "Body Art 21 application dates; first date is still in the future (today 2026-10-06), so status set to upcoming per taxonomy. Motorcycle removed (only M/N/O categories)."
+    }
+  },
+  "skipped": [
+    {
+      "id": "eu-32006l0066",
+      "field": "status",
+      "reason": "Already superseded with correct status_note in the record."
+    },
+    {
+      "id": "eu-32009r0078",
+      "field": "status",
+      "reason": "Already superseded with correct status_note."
+    },
+    {
+      "id": "eu-32009r0661",
+      "field": "status",
+      "reason": "Already superseded with correct status_note."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "effective_date",
+      "reason": "Already 2017-07-27 (entry into force), which is correct."
+    },
+    {
+      "id": "eu-32023r2590",
+      "field": "un_equivalent",
+      "reason": "Already [] in the record."
+    },
+    {
+      "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+      "field": "status",
+      "reason": "Status stays in-force; the Omnibus I amendment (Directive (EU) 2026/470) cannot be verified from the record or taxonomy, so no status_note written; orchestrator may add one if confirmed."
+    }
+  ]
+}

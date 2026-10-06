@@ -20,14 +20,14 @@ region: US
 source_api: spreadsheet
 source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-575
 status: in-force
-summary: Consumer information labels and ratings for vehicles sold in the US, including
-  UTQG grades, rollover warnings, and safety-rating labels, requiring that vehicles
-  carry accurate disclosures and that compliance records support market placement,
-  traceability, and recall reporting.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Consumer information requirements for new vehicles and tires, including the
+  Uniform Tire Quality Grading system (§575.104), truck-camper loading information
+  (§575.103), the utility-vehicle rollover warning (§575.105) and NCAP safety-rating
+  labeling on the Monroney label (§§575.301-575.302). Traceability and recall reporting
+  are covered by other parts, not Part 575.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 68806a8b0d683b78693127983b63ef5d6e079b79
 systems:
-- Vehicle identification
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged

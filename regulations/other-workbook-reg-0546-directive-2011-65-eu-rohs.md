@@ -29,28 +29,21 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en
 status: in-force
-summary: Electrical and electronic equipment — including automotive accessories, chargers,
-  service equipment, connectors, PCBs, displays, and sensors — must restrict the use
-  of certain hazardous substances in accordance with RoHS requirements, with applicability
-  to passenger vehicles requiring careful filtering against ELV...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+status_note: Type-approved vehicles are outside RoHS scope (Art. 2(4)(f)); applies
+  to accessories and service equipment, while vehicle-fitted parts fall under ELV
+  Directive 2000/53/EC.
+summary: Directive 2011/65/EU (RoHS) restricts hazardous substances in electrical
+  and electronic equipment such as chargers, service equipment and electronic accessories.
+  Vehicles are outside its scope, so parts fitted to vehicles are addressed under
+  the ELV Directive 2000/53/EC instead.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: af6edcef06c8378bd04b2fed6a91c4daf645bb78
 systems:
-- EMC
 - EV charging
-- Battery safety
-- ADAS
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Materials / Electronics - RoHS
-vehicle_categories:
-- Passenger car
-- Light truck
-- Heavy truck
-- Motorcycle
-- Bus
-- Trailer
-- Off-road
+vehicle_categories: []
 ---
 
 # Materials / Electronics - RoHS

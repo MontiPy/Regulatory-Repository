@@ -4,27 +4,17 @@ commodities:
 - Horn
 id: br-contran-764
 last_pulled: '2026-06-01T18:53:17+00:00'
-open_tags:
-- multimedia device
-- navigation system
-- in-vehicle infotainment
-- GPS navigation
-- touchscreen display
-- audio system
-- type approval
-- vehicle display unit
-- IVI system
-- head unit
-- CONTRAN regulation
-- Brazilian vehicle certification
+open_tags: []
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
-summary: CONTRAN Resolution 764/2018 sets the sound-pressure-level test method for
-  vehicle horns (audible warning devices).
+summary: CONTRAN Resolution 764/2018 establishes the test method for measuring the
+  sound pressure of vehicle horns and similar audible warning devices, with limits
+  of 87-112 dB(A) (83-112 dB(A) for category L vehicles up to 7 kW). It applies from
+  1 Jan 2022 and revokes CONTRAN Resolution 35/1998.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 28efd0450c17e6028471ddd339e03c015ef552bb
+summary_hash: af880e08b98f77a701548485a150343e491377de
 systems:
 - Noise
 tagged_at: '2026-06-16T15:44:35+00:00'
@@ -41,10 +31,6 @@ vehicle_categories:
 - Bus
 ---
 
-# Multimedia and Navigation Device
+# Horn (audible warning device) sound-pressure test method
 
-**Citation:** CONTRAN 764/2018
-
-**Source:** [https://www.atic-ts.com/brazilian-whole-vehicle-certfication/](https://www.atic-ts.com/brazilian-whole-vehicle-certfication/)
-
-This regulation is administered through Brazil's vehicle type-approval process. Full text is accessible via the official certification body (ATIC) or SENATRAN resolution archive.
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

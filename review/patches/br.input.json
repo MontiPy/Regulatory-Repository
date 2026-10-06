@@ -1,0 +1,316 @@
+{
+ "group": "br",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "br-contran-215",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Burglar Alarm / Anti-theft Equipment",
+   "proposed": "\"Quebra-mato\" (bull bar / front protection) devices on vehicles up to 3,500 kg GVW",
+   "evidence": "WebSearch: \"Resolução CONTRAN nº 215, de 14 de dezembro de 2006 regulamenta a fabricação, instalação e uso de dispositivo denominado quebra-mato em veículos automotores com peso bruto total de até 3.500 kg\"",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-245-330",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "suspended (CONTRAN 559/2015); verify later repeal",
+   "evidence": "WebSearch: \"Resolução CONTRAN nº 559, de 15/10/2015 suspended the effects of Resolutions CONTRAN nº 245 of July 27, 2007 and nº 485 ... and article 4 of Resolução CONTRAN nº 330 of August 14, 2009, which provided for the installation and cronograma of the mandatory anti-theft equipment\"",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-37",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Identification and Lighting of Controls",
+   "proposed": "Anti-theft Alarms and Security Accessories (sound alarms, blocking devices)",
+   "evidence": "WebSearch: \"Resolução CONTRAN nº 37 de 21 de maio de 1998 fixa normas de utilização de alarmes sonoros e outros acessórios de segurança contra furto ou roubo para os veículos automotores\" (LegisWeb / gov.br). Controls identification/lighting is CONTRAN 758/2018 (replaced 225/2007).",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-498",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Cover / Hood Latch",
+   "proposed": "Flammability of Vehicle Interior Materials",
+   "evidence": "WebSearch: \"Resolução CONTRAN nº 498 ... addresses requirements applicable to materials used in internal covering of vehicle cabins ... flame propagation speed of no more than 100 mm per minute\" (not hood latches).",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-498",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R11 (door latches)",
+   "proposed": "UN R118 (burning behaviour of interior materials) / FMVSS 302",
+   "evidence": "UN R11 covers door latches and hinges; CONTRAN 498/2014 is flammability of interior materials.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-764",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Multimedia and Navigation Device",
+   "proposed": "Horn / Audible Warning Device sound pressure test method",
+   "evidence": "WebSearch: \"RESOLUÇÃO Nº 764, DE 20 DE DEZEMBRO DE 2018 estabelece método de ensaio para medição de pressão sonora por buzina ou equipamento similar\"; 87-112 dB(A). Multimedia screens are regulated by CONTRAN 242/2007 (updated by 1.030/2026).",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-924",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Interior and Exterior Mirrors",
+   "proposed": "Mirrors / camera-monitor devices for school transport vehicles",
+   "evidence": "WebSearch: \"Resolução CONTRAN nº 924, de 28 de março de 2022, consolida normas sobre a utilização obrigatória de espelhos retrovisores, equipamento do tipo câmera-monitor ... nos veículos destinados ao transporte coletivo de escolares\" (revoked 504/14 and 763/18). General mirror technical requirements are CONTRAN 966/2022.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-mover-rota-2030",
+   "field": "citation",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "MOVER / Rota 2030",
+   "proposed": "Decree 12.435/2025 (regulating Law 14.902/2024, MOVER)",
+   "evidence": "Body is a Planalto news item: \"signed a decree ... Published in this Wednesday's (16) Official Gazette ... decreto-n-12.435-de-15-de-abril-de-2025 ... as of June 2025\".",
+   "confidence": "high"
+  },
+  {
+   "id": "br-abnt-nbr-15145",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Exhaust, Horn",
+   "proposed": "Exhaust (silencer); Horn not covered",
+   "evidence": "WebSearch: NBR 15145:2004 = acceleration noise (engineering method); NBR 9714:2000 = stationary noise near exhaust. Horn sound is CONTRAN 764/2018.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-anatel-cert",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R10, UN R155",
+   "proposed": "none (R10 EMC only loosely)",
+   "evidence": "ANATEL certifies radio/telecom products (RF spectrum); UN R155 is cybersecurity management and unrelated. Body: \"Full text not available from this page.\"",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-anatel-cert",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "EMC, Cybersecurity",
+   "proposed": "EMC / Telecommunications (drop Cybersecurity)",
+   "evidence": "Same: ANATEL scope is radiofrequency/telecom homologation.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-conama-492",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Only L7 effective 1 Jan 2022 and NMOG reporting",
+   "proposed": "Add PROCONVE L8 (corporate fleet-average limits from 1 Jan 2025, tightening 2027/2029/2031), RDE chapter and OBD Br2",
+   "evidence": "Body Art. 4: \"a partir de 1º de janeiro de 2025, novos limites máximos de emissão ... de forma corporativa ... Fase PROCONVE L8\"; Table 3 dates 01/01/2025, 2027, 2029, 2031.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-215",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R116, UN R163",
+   "proposed": "none (closest topics: pedestrian protection UN R127 / external projections)",
+   "evidence": "Subject is bull bars, not anti-theft.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-215",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Theft prevention, EMC",
+   "proposed": "Crashworthiness / Pedestrian protection (no EMC)",
+   "evidence": "Subject is bull bars affecting airbag and pedestrian safety.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-245-330",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "...establish a schedule mandating the installation of such devices",
+   "proposed": "Note that the mandatory installation schedule (SINIAV/anti-theft) was suspended in 2015",
+   "evidence": "Same CONTRAN 559/2015 suspension; summary reads as a live mandate.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-37",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R121, UN R48",
+   "proposed": "UN R97 / R116 / R161-R163 (vehicle alarm / anti-theft) or none",
+   "evidence": "Resolution 37/1998 concerns alarms/anti-theft accessories, not control identification or lighting, so R121/R48 do not apply.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-37",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Tell-tales & controls, Lighting & signaling",
+   "proposed": "Theft prevention (Vehicle identification not needed)",
+   "evidence": "Same: subject is anti-theft alarms.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-498",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Crashworthiness; commodities Door latches & hinges, Body structure",
+   "proposed": "Fire safety / interior materials (e.g. Interior trim, Seats)",
+   "evidence": "Subject is interior material flame propagation.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-749",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Motorcycle, Bus",
+   "proposed": "Passenger car, Light truck, Bus, Heavy truck (no motorcycle)",
+   "evidence": "WebSearch: applies to \"automobiles, light trucks, commercial vehicles, utility vehicles, minibuses, buses, trucks, truck-tractors and chassis-platforms ... produced or imported starting January 1, 2023\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-759",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Heavy truck, Motorcycle, Bus, Trailer",
+   "proposed": "Passenger car, Light truck (automobiles, camionetas, caminhonetes, utilitários)",
+   "evidence": "WebSearch: \"Vehicles classified as automobiles, pickup trucks, utilities, and small trucks ... must be equipped with either a rear warning system and/or a rear monitoring system ... from January 1, 2025 (new projects) and 1 January 2027 (all)\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-764",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R155, UN R10",
+   "proposed": "UN R28 (audible warning devices)",
+   "evidence": "Horn test method; R155 cybersecurity/R10 EMC unrelated.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-764",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Tell-tales & controls, EMC; commodities Infotainment, ECUs",
+   "proposed": "Noise; commodity Horn",
+   "evidence": "Subject is horn sound pressure.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-764",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Multimedia and navigation devices ... regulated under type-approval",
+   "proposed": "Rewrite: horns/similar devices must emit 87-112 dB(A) (83-112 for category L up to 7 kW); applies from 1 Jan 2022, revoking CONTRAN 35/1998",
+   "evidence": "Search snippet for Res. 764/2018.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-885",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Heavy truck, Bus, Trailer",
+   "proposed": "Passenger car, Light truck",
+   "evidence": "WebSearch: Res. 885/2021 applies to \"automobile, pickup truck, light commercial vehicle and utility vehicle\" (new projects from 3 Jan 2022, all vehicles from 1 Jan 2024); no heavy vehicles/buses/trailers.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-910",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "The provided text contains only navigation menus, website links, and header information ... no substantive regulatory content",
+   "proposed": "Frontal-impact occupant protection (ABNT NBR 15300), rear-impact cabin structure (NBR 15240) and fuel system integrity (NBR 15241) for automobiles and derived vans; UN R94/R32/R34 or FMVSS 208/203/301 accepted",
+   "evidence": "Body Art. 1: \"Esta Resolução estabelece requisitos de proteção aos ocupantes e integridade do sistema de combustível decorrente de impacto nos veículos\" and Art. 2 lists NBR 15.300, 15.240, 15.241; Art. 6 accepts UN R32, R34, R94.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-910",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force",
+   "proposed": "in-force, but Arts. 2-3 (ABNT NBR test requirements) lapsed 31 Dec 2025; Art. 4+ (Annex-based requirements from 1 Jan 2024/2026) apply",
+   "evidence": "Body Art. 11: \"Os arts. 2º e 3º vigorarão até 31 de dezembro de 2025.\" (today 2026-10)",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-924",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Passenger car ... Trailer (all)",
+   "proposed": "Bus (school transport) only",
+   "evidence": "Scope limited to school transport vehicles.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-contran-954",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "mandates either ESC or a Vehicle Stability Function",
+   "proposed": "ESC mandatory for M1/N1 (VSF alternative only for N1 and M1 > 1,735 kg; VSF mandatory for M2/M3/N2/N3; O3/O4 roll-stability VSF); urban M3 optional but school M3 mandatory",
+   "evidence": "Body Art. 3 §1: \"Os veículos das categorias M1 e N1 devem ser equipados com ESC.\" §2: alternative VSF only for N1 and M1 with mass > 1.735 kg.",
+   "confidence": "high"
+  },
+  {
+   "id": "br-mover-rota-2030",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R101, UN R154",
+   "proposed": "none",
+   "evidence": "MOVER is an industrial/tax-incentive and energy-efficiency programme, not a vehicle technical regulation; R101 (CO2 measurement) and R154 (WLTP) are not counterparts.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-mover-rota-2030",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Emissions, EV charging, Battery safety",
+   "proposed": "Emissions / energy efficiency only (no EV charging or battery-safety requirements in text)",
+   "evidence": "News article text mentions only energy efficiency, recyclability and security parameters.",
+   "confidence": "medium"
+  },
+  {
+   "id": "br-senatran-990",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "CAT (Certificate of Approval of Type)",
+   "proposed": "CAT = Certificado de Adequação à Legislação de Trânsito (Certificate of Compliance with Traffic Legislation)",
+   "evidence": "Body of br-contran-954 Art. 5: \"Certificado de Adequação a Legislação de Trânsito (CAT)\"; WebSearch Portaria 990/2022: procedure to grant RENAVAM brand/model/version code and issue the CAT via SISCAT, in force 1 Sep 2022.",
+   "confidence": "high"
+  }
+ ]
+}

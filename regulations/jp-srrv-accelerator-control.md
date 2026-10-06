@@ -4,19 +4,7 @@ commodities:
 - Pedals
 id: jp-srrv-accelerator-control
 last_pulled: '2026-06-01T18:54:41+00:00'
-open_tags:
-- REESS
-- high-voltage isolation
-- service disconnect
-- contactor
-- thermal runaway
-- pressure relief valve
-- crash shutoff valve
-- evaporative emission control
-- CNG storage
-- LPG storage
-- hydrogen storage
-- HV interlock
+open_tags: []
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm

@@ -22,6 +22,9 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
+status_note: UN R129 (i-Size) is the successor child restraint regulation; ending
+  new approvals to UN R44 has been proposed at WP.29 (target Sept 2027). R44 remains
+  in force for existing approvals.
 summary: Child restraint systems for use in motor vehicles are the subject of this
   regulation, but the provided text contains insufficient detail to summarize specific
   requirements or mandates beyond its title and subject matter.

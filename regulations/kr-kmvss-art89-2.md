@@ -30,7 +30,7 @@ tagging_status: llm-tagged
 title: KMVSS Article 89-2 — Lane Departure Warning System Standards
 translation_status: translated
 un_equivalent_ai:
-- UN R157
+- UN R130
 vehicle_categories: []
 ---
 

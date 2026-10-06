@@ -1,8 +1,6 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 102
 commodities:
-- Steering column
-- Brakes
 - Pedals
 id: ca-mvsr-c-r-c---c--1038-s102
 last_pulled: '2026-06-01T18:52:49+00:00'
@@ -36,8 +34,7 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 102
-un_equivalent_ai:
-- UN R121
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

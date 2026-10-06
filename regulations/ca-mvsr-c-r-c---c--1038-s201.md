@@ -38,7 +38,6 @@ tagging_status: llm-tagged
 title: MVSR s. 201
 un_equivalent_ai:
 - UN R21
-- UN R94
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -1,0 +1,126 @@
+{
+ "group": "ece",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "ece-r149",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN Regulation No. 149 — Road Illumination Devices (except headlamps)",
+   "proposed": "UN Regulation No. 149 — Road Illumination Devices (RID)",
+   "evidence": "Search result: R149 \"applies to headlamps emitting a driving-beam and/or an asymmetrical passing-beam for vehicles of categories L, M, N and T, adaptive front-lighting systems (AFS)...\" i.e. it covers headlamps.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r149",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Road illumination devices (excluding headlamps) are regulated under UN R149...",
+   "proposed": "R149 (RID) is the consolidated headlamp regulation: driving/passing-beam headlamps and AFS, replacing R112/R113/R123 etc. for new approvals.",
+   "evidence": "Search result (Dun-Bri/UNECE): R149 covers headlamps with driving-beam and/or passing-beam and AFS; \"unique identifier\" etc. Excluding headlamps is the opposite of its scope.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r153",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN Regulation No. 153 — Fuel System Integrity in a Frontal Collision",
+   "proposed": "UN Regulation No. 153 — Fuel System Integrity and Safety of Electric Power Train in the Event of a Rear-End Collision",
+   "evidence": "Search result: \"UN Regulation concerning the approval of vehicles with regard to fuel system integrity and safety of electric power train in the event of a rear-end collision\"; applies to M1 (<=3,500 kg) and N1; in force 22 Jan 2021; aligns with R34 and R100.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r153",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "...addresses fuel system integrity in passenger vehicles during a frontal collision...",
+   "proposed": "Fuel system integrity and high-voltage electric power train safety after a rear-end collision (M1/N1).",
+   "evidence": "R153 is the rear-end collision regulation, not frontal (frontal fuel/HV safety is covered by R94/R137/R100 pathways).",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r161",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN Regulation No. 161 — Pedal Misapplication Mitigation Systems",
+   "proposed": "UN Regulation No. 161 — Devices against Unauthorized Use",
+   "evidence": "Search result: UN Regulation No. 161 is titled \"Devices against Unauthorized Use\" - uniform provisions concerning the protection of motor vehicles against unauthorized use and approval of the device against unauthorized use (by means of a locking system); published 25/10/2021.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r161",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Pedal misapplication mitigation systems are the subject of this regulation...",
+   "proposed": "UN R161 covers devices against unauthorized use (locking systems) for vehicles; not pedal misapplication.",
+   "evidence": "Same source as title finding; summary and systems tags (ADAS, Braking) derive from the wrong title. Repo body: \"See the UNECE WP.29 Regulations index\" only.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r100",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN Regulation No. 100 — Electric Power Trained Vehicles — Construction and Functional Safety",
+   "proposed": "UN Regulation No. 100 — Vehicles with Regard to Specific Requirements for the Electric Power Train",
+   "evidence": "Official title: \"Uniform provisions concerning the approval of vehicles with regard to specific requirements for the electric power train.\" Record says \"Electric Power Trained Vehicles\".",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r114",
+   "field": "title",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN Regulation No. 114 — Airbag Systems",
+   "proposed": "UN Regulation No. 114 — Replacement Airbag Modules, Replacement Steering Wheels with Airbag and Replacement Airbag Systems",
+   "evidence": "Official: \"approval of: I. An airbag module for a replacement airbag system; II. A replacement steering wheel equipped with an airbag module of an approved type; III. A replacement airbag system other than that installed in a steering wheel.\" (M1/N1 aftermarket equipment). Title \"Airbag Systems\" implies OE airbag requirements.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r114",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Airbag systems are the subject of this UN regulation...",
+   "proposed": "Applies to replacement (aftermarket) airbag modules/steering wheels/airbag systems for M1 and N1 vehicles.",
+   "evidence": "Same source: R114 is about replacement airbag equipment, not OE airbag systems generally.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r161",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "[\"ADAS\",\"Braking\"]",
+   "proposed": "[\"Theft prevention\"]",
+   "evidence": "R161 is a device against unauthorized use (locking system), per UNECE title; ADAS/Braking tags follow the wrong title.",
+   "confidence": "high"
+  },
+  {
+   "id": "ece-r44",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force, no note",
+   "proposed": "Keep in force but note R129 (i-Size) is the successor; EU stopped allowing sale of R44-approved seats from 1 Sept/30 Sept 2024 and WP.29 proposal to end new R44 approvals (Sept 2027)",
+   "evidence": "'A proposal from the STCBC informal group seeks to end mutual recognition of new approvals to UN R44 from September 2027.' and 'from 30th of September 2024 it is only allowed to sell child car seats approved to UN R.129 in the EU.' (web search snippets; the 2024 date comes from secondary sources, not verified against the EU regulation itself)",
+   "confidence": "medium"
+  },
+  {
+   "id": "ece-r89",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Heavy truck, Bus",
+   "proposed": "Add Passenger car and Light truck (ASLD applies to all M and N categories; SLD to M2, M3, N2, N3)",
+   "evidence": "'Speed Limitation Devices (SLD): vehicles of categories M2, M3, N2 and N3. Adjustable Speed Limitation Devices (ASLD): vehicles of categories M and N.'",
+   "confidence": "medium"
+  }
+ ]
+}

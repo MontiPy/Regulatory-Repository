@@ -39,10 +39,6 @@ un_equivalent_ai:
 vehicle_categories:
 - Passenger car
 - Light truck
-- Heavy truck
-- Motorcycle
-- Bus
-- Trailer
 ---
 
 # Rear Alert / Monitoring System

@@ -1,0 +1,301 @@
+{
+ "group": "cn",
+ "patches": {
+  "cn-china-srrc-miit-radio-transmission-equipment-type-approval": {
+   "un_equivalent_ai": [],
+   "_why": "R10 is vehicle EMC; SRRC is radio spectrum/transmitter approval."
+  },
+  "cn-gb-11552": {
+   "un_equivalent": [
+    "UN R21"
+   ],
+   "un_equivalent_ai": [
+    "UN R21"
+   ],
+   "systems": [
+    "Crashworthiness"
+   ],
+   "commodities": [
+    "Body structure",
+    "Door latches & hinges",
+    "Seats"
+   ],
+   "_why": "Interior protrusion standard, modified adoption of ECE R21 (record summary says so); no pedestrian/bumper content; R127 already dropped."
+  },
+  "cn-gb-11555-2025": {
+   "un_equivalent_ai": [],
+   "_why": "UN R125 is forward field of vision, not demisting/defrosting."
+  },
+  "cn-gb-11562": {
+   "_stub_body": true,
+   "summary": "GB 11562-2025 sets requirements and measurement methods for the driver's forward direct field of view of light-duty vehicles (M1 and N1). It applies from 2027-01-01 and replaces GB 11562-2014.",
+   "status": "upcoming",
+   "status_note": "Published 2025-12-31; applies from 1 Jan 2027, replacing GB 11562-2014.",
+   "un_equivalent_ai": [
+    "UN R125"
+   ],
+   "_why": "Body describes exterior lighting (wrong topic) so stub; effective date 2027-01-01 is after today (2026-10); R46 is indirect vision."
+  },
+  "cn-gb-11566": {
+   "summary": "GB 11566-2024 specifies requirements for external projections of passenger cars (M1) to reduce injury to pedestrians and other road users from vehicle exterior protrusions. It applies to new type approvals from 2026-01-01.",
+   "_why": "Existing summary is generic body-in-white boilerplate; scope M1 external projections."
+  },
+  "cn-gb-13057": {
+   "summary": "GB 13057-2023 specifies strength requirements and tests for seats and their vehicle anchorages in buses (客车). It applies from 2024-01-01.",
+   "_why": "Summary still described passenger-vehicle seats and child restraints; title/categories/UN already fixed."
+  },
+  "cn-gb-1495-2002": {
+   "systems": [
+    "Noise"
+   ],
+   "commodities": [
+    "Tires",
+    "Exhaust"
+   ],
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "GB 1495-2002 is accelerating pass-by exterior noise limits for M/N vehicles; no AVAS/horn/emissions/pedestrian content; motorcycles covered by GB 16169; R51 already in un_equivalent. open_tags 'AVAS' and body 'Noise and AVAS' not patchable here."
+  },
+  "cn-gb-15084-2022": {
+   "un_equivalent_ai": [],
+   "_why": "Indirect vision counterpart is R46 (already in un_equivalent); R125 is forward field of vision."
+  },
+  "cn-gb-15085-2013": {
+   "un_equivalent_ai": [],
+   "_why": "UN R45 is headlamp cleaners, not windscreen wipers/washers."
+  },
+  "cn-gb-18384-2020-gb-18384-2025": {
+   "status_note": "GB 18384-2025 applies from 1 Jul 2026 and replaces GB 18384-2020.",
+   "_why": "Body finding not patchable (rule 3); status_note carries the supported replacement fact."
+  },
+  "cn-gb-19578": {
+   "commodities": [
+    "Fuel system",
+    "Exhaust",
+    "ECUs"
+   ],
+   "_why": "Fuel tanks/hoses unrelated to a fuel-consumption limit standard; summary/systems already fixed; no taxonomy tag for fuel economy so Emissions kept."
+  },
+  "cn-gb-21670-2025": {
+   "un_equivalent": [
+    "UN R13H"
+   ],
+   "_why": "M1 braking; R13H is the passenger-car regulation; body cites UNECE R13-H."
+  },
+  "cn-gb-26149": {
+   "un_equivalent_ai": [
+    "UN R141"
+   ],
+   "_why": "R142 is tyre installation, not TPMS."
+  },
+  "cn-gb-26572-2025": {
+   "systems": [],
+   "un_equivalent_ai": [],
+   "_why": "China RoHS-type hazardous-substance standard; no matching systems tag and no UN counterpart."
+  },
+  "cn-gb-27999": {
+   "systems": [
+    "Emissions"
+   ],
+   "_why": "Fuel consumption evaluation standard; fuel safety/OBD out of scope."
+  },
+  "cn-gb-44496-2024": {
+   "un_equivalent": [
+    "UN R156"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Software-update standard; body says counterpart to UNECE R156; R155 is cybersecurity (GB 44495)."
+  },
+  "cn-gb-44497": {
+   "title": "Intelligent and connected vehicles - Data recording system for automated driving",
+   "summary": "GB 44497-2024 specifies requirements for data recording systems of automated-driving vehicles, including data recording, storage and readout, information security, crashworthiness and environmental requirements. It applies from 2026-01-01.",
+   "un_equivalent_ai": [
+    "UN R157",
+    "UN R160"
+   ],
+   "_why": "Official title is 自动驾驶数据记录系统; R155 removed; R157 (DSSAD)/R160 (EDR) partial analogues."
+  },
+  "cn-gb-5920-2024": {
+   "summary": "GB 5920-2024 covers light-signalling devices and systems for motor vehicles (M, N) and their trailers (O), such as position, stop, turn-signal, daytime running and rear fog lamps. Headlamps are covered by GB 4599-2024.",
+   "un_equivalent": [],
+   "un_equivalent_ai": [
+    "UN R148"
+   ],
+   "_why": "Summary copied headlamp boilerplate; R148 is only a broad analogue (not stated by record), so moved to AI field; R48 is installation (GB 4785)."
+  },
+  "cn-gb-7258-2017": {
+   "summary": "GB 7258-2017 sets technical conditions for the operational safety of power-driven vehicles on roads, with whole-vehicle and main-assembly safety requirements such as dimensions, brakes, steering, lighting and tyres.",
+   "systems": [
+    "Braking",
+    "Steering",
+    "Lighting & signaling",
+    "Tires & wheels",
+    "Vehicle identification"
+   ],
+   "_why": "Summary described conformity/production controls; standard is 机动车运行安全技术条件."
+  },
+  "cn-gb-8410": {
+   "systems": [],
+   "commodities": [
+    "Seats",
+    "Wiring"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Interior-material burn-rate standard; HVAC/Batteries and R21 not applicable; no matching systems tag."
+  },
+  "cn-gb-t-20913-2007": {
+   "summary": "GB/T 20913-2007 is the recommended standard for occupant protection in offset frontal collisions of passenger cars, specifying an offset deformable barrier crash test and occupant injury criteria.",
+   "_why": "Removed unsupported 'restraint system timing' claim; wording kept conservative (low confidence finding)."
+  },
+  "cn-gb-t-30512-2014": {
+   "summary": "GB/T 30512-2014 is a recommended standard restricting lead, mercury, cadmium, hexavalent chromium, PBB and PBDE in vehicles and their parts above specified limits.",
+   "_why": "Existing summary claimed supplier declarations/recycling info; substances list from finding evidence."
+  },
+  "cn-gb-t-30677-2014": {
+   "un_equivalent_ai": [],
+   "status_note": "A mandatory successor, GB 30677-2026, has been published; this recommended standard remains until it applies.",
+   "_why": "R152 is AEBS (ESC is R140, already in un_equivalent); successor note from search evidence, dates deliberately omitted."
+  },
+  "cn-gb-t-34590": {
+   "status_note": "Superseded by the GB/T 34590-2022 series (including Part 10), effective 2023-07-01.",
+   "_why": "Status already superseded; successor now stated."
+  }
+ },
+ "skipped": [
+  {
+   "id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+   "field": "citation",
+   "reason": "No exact instrument number can be stated confidently; SRRC is an administrative scheme."
+  },
+  {
+   "id": "cn-cnca-c11-01-2020",
+   "field": "summary",
+   "reason": "Already corrected in record."
+  },
+  {
+   "id": "cn-cnca-c11-01-2020",
+   "field": "vehicle_categories",
+   "reason": "Already corrected in record."
+  },
+  {
+   "id": "cn-gb-11552",
+   "field": "summary",
+   "reason": "Already corrected in record."
+  },
+  {
+   "id": "cn-gb-11562",
+   "field": "body",
+   "reason": "Body edits not allowed; handled via _stub_body."
+  },
+  {
+   "id": "cn-gb-13057",
+   "field": "title",
+   "reason": "Already corrected."
+  },
+  {
+   "id": "cn-gb-13057",
+   "field": "un_equivalent_ai",
+   "reason": "Already UN R80."
+  },
+  {
+   "id": "cn-gb-14166-2024",
+   "field": "un_equivalent",
+   "reason": "Already UN R16."
+  },
+  {
+   "id": "cn-gb-14167-2024",
+   "field": "un_equivalent_ai",
+   "reason": "R16 already absent (current is R145)."
+  },
+  {
+   "id": "cn-gb-17675",
+   "field": "status",
+   "reason": "In force since 2026-07-01 and today is 2026-10; current status correct."
+  },
+  {
+   "id": "cn-gb-18384-2020-gb-18384-2025",
+   "field": "body",
+   "reason": "Body edits not allowed; status_note added instead."
+  },
+  {
+   "id": "cn-gb-19578",
+   "field": "summary",
+   "reason": "Already corrected."
+  },
+  {
+   "id": "cn-gb-19578",
+   "field": "systems",
+   "reason": "Already only Emissions; no taxonomy tag for fuel economy."
+  },
+  {
+   "id": "cn-gb-20071-2025",
+   "field": "status",
+   "reason": "Effective 2026-07-01 is past; in-force is correct."
+  },
+  {
+   "id": "cn-gb-20072-2024",
+   "field": "un_equivalent",
+   "reason": "Low confidence; record body does not state R153 equivalence (R153 stays AI-suggested)."
+  },
+  {
+   "id": "cn-gb-26572-2025",
+   "field": "status",
+   "reason": "Already upcoming."
+  },
+  {
+   "id": "cn-gb-27887-2024",
+   "field": "summary",
+   "reason": "Already corrected."
+  },
+  {
+   "id": "cn-gb-34660",
+   "field": "status",
+   "reason": "Already upcoming."
+  },
+  {
+   "id": "cn-gb-34660",
+   "field": "summary",
+   "reason": "Already corrected."
+  },
+  {
+   "id": "cn-gb-34660",
+   "field": "un_equivalent_ai",
+   "reason": "Already UN R10."
+  },
+  {
+   "id": "cn-gb-34660",
+   "field": "systems",
+   "reason": "Already EMC only."
+  },
+  {
+   "id": "cn-gb-4599-2024",
+   "field": "summary",
+   "reason": "Already corrected."
+  },
+  {
+   "id": "cn-gb-4599-2024",
+   "field": "un_equivalent",
+   "reason": "Already UN R149."
+  },
+  {
+   "id": "cn-gb-9743-2024",
+   "field": "summary",
+   "reason": "Already corrected."
+  },
+  {
+   "id": "cn-gb-9743-2024",
+   "field": "un_equivalent_ai",
+   "reason": "Already empty."
+  },
+  {
+   "id": "cn-gb-t-34590",
+   "field": "status",
+   "reason": "Already superseded; only note added."
+  }
+ ]
+}

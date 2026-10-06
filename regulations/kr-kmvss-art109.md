@@ -36,8 +36,7 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 109 — Windshield Wiper and Washer System
 translation_status: translated
-un_equivalent_ai:
-- UN R45
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

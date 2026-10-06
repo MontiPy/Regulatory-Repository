@@ -37,7 +37,6 @@ tagging_status: llm-tagged
 title: PART 572—ANTHROPOMORPHIC TEST DEVICES
 un_equivalent_ai:
 - UN R94
-- UN R16
 vehicle_categories:
 - Passenger car
 - Light truck

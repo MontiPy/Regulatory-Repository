@@ -22,11 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-86
 status: in-force
-summary: Emissions from new and in-use highway vehicles and engines are regulated
-  under this part, which incorporates by reference specific ASTM International test
-  standards for measuring fuel properties — such as distillation, flash point, viscosity,
-  cetane number, octane number, sulfur content, and aromatic content —...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 'EPA emission-control regulations for new and in-use highway vehicles and
+  engines: certification, emission standards and test procedures for light-duty vehicles
+  and trucks, heavy-duty engines and vehicles, and motorcycles, plus selective enforcement
+  auditing, general compliance provisions (Subpart S) and incorporation by reference
+  of the referenced test standards (§86.1).'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0f2de0c7f6b2fba815e839390fd6bfc38ab40107
 systems:
 - Emissions

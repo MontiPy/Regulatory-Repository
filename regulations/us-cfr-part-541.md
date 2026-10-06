@@ -3,10 +3,6 @@ citation: 49 CFR Part 541
 commodities:
 - Body structure
 - Bumpers
-- Steering column
-- Seats
-- Mirrors
-- Wheels
 id: us-cfr-part-541
 last_pulled: '2026-06-01T18:43:34+00:00'
 open_tags:
@@ -38,8 +34,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 541—FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD
-un_equivalent_ai:
-- UN R162
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -4,19 +4,7 @@ commodities:
 - Horn
 id: jp-srrv-audible-warning-devices
 last_pulled: '2026-06-01T18:54:41+00:00'
-open_tags:
-- audible warning device
-- horn assembly
-- AVAS
-- acoustic vehicle alerting system
-- vehicle approach warning
-- EV pedestrian warning
-- UN R28
-- TRIAS
-- SRRV
-- sound emitter
-- approach warning speaker
-- NVH
+open_tags: []
 region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
