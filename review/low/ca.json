@@ -1,0 +1,329 @@
+{
+ "group": "ca",
+ "patches": {
+  "ca-mvsr-c-r-c---c--1038-s101": {
+   "title": "MVSR s. 101 — Controls and Displays (TSD 101)",
+   "systems": [
+    "Tell-tales & controls",
+    "Lighting & signaling"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s102": {
+   "title": "MVSR s. 102 — Transmission Control Systems",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s103": {
+   "title": "MVSR s. 103 — Windshield Defrosting and Defogging",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s104": {
+   "title": "MVSR s. 104 — Windshield Wiping and Washing",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s105": {
+   "title": "MVSR s. 105 — Hydraulic and Electric Brake Systems",
+   "un_equivalent_ai": [
+    "UN R13"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s106": {
+   "title": "MVSR s. 106 — Brake Hoses",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s108-1": {
+   "title": "MVSR s. 108.1 — Repealed",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s110": {
+   "title": "MVSR s. 110 — Tire Selection and Rims (GVWR 4,536 kg or less)",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s113": {
+   "title": "MVSR s. 113 — Hood Latch Systems",
+   "commodities": [
+    "Body structure"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s115": {
+   "title": "MVSR s. 115 — Vehicle Identification Number",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s116": {
+   "title": "MVSR s. 116 — Motor Vehicle Brake Fluids",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s118": {
+   "title": "MVSR s. 118 — Power-Operated Window, Partition and Roof Panel Systems",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s120": {
+   "title": "MVSR s. 120 — Tire Selection and Rims (GVWR over 4,536 kg)",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s121": {
+   "title": "MVSR s. 121 — Air Brake Systems",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s124": {
+   "title": "MVSR s. 124 — Accelerator Control Systems",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s126": {
+   "title": "MVSR s. 126 — Electronic Stability Control Systems",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s135": {
+   "title": "MVSR s. 135 — Light Vehicle Brake Systems",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s141": {
+   "title": "MVSR s. 141 — Minimum Sound Requirements for Hybrid and Electric Vehicles",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s2": {
+   "title": "MVSR s. 2 — Interpretation and Definitions",
+   "systems": [],
+   "commodities": [],
+   "vehicle_categories": [],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s201": {
+   "title": "MVSR s. 201 — Occupant Protection in Interior Impact",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s202": {
+   "title": "MVSR s. 202 — Head Restraints",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s203": {
+   "title": "MVSR s. 203 — Steering Control System Impact Protection",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s204": {
+   "title": "MVSR s. 204 — Steering Control Rearward Displacement",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s205": {
+   "title": "MVSR s. 205 — Glazing Materials",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s206": {
+   "title": "MVSR s. 206 — Door Locks and Door Retention Components",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s207": {
+   "title": "MVSR s. 207 — Seat Anchorage",
+   "un_equivalent_ai": [
+    "UN R17"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s209": {
+   "title": "MVSR s. 209 — Seat Belt Assemblies",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s210-1": {
+   "title": "MVSR s. 210.1 — Tether Anchorages",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s210-2": {
+   "title": "MVSR s. 210.2 — Lower Universal Anchorage Systems (ISOFIX/LATCH)",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s212": {
+   "title": "MVSR s. 212 — Windshield Mounting",
+   "un_equivalent_ai": [],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s213-4": {
+   "title": "MVSR s. 213.4 — Built-in Restraint Systems and Booster Seats",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s214": {
+   "title": "MVSR s. 214 — Side Impact Protection",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s215": {
+   "title": "MVSR s. 215 — Bumpers",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s216": {
+   "title": "MVSR s. 216 — Roof Crush Resistance",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s219": {
+   "title": "MVSR s. 219 — Windshield Zone Intrusion",
+   "un_equivalent_ai": [],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s226": {
+   "title": "MVSR s. 226 — Ejection Mitigation",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s301": {
+   "title": "MVSR s. 301 — Fuel System Integrity",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s301-1": {
+   "title": "MVSR s. 301.1 — LPG Fuel System Integrity",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s301-2": {
+   "title": "MVSR s. 301.2 — CNG Fuel System Integrity",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s302": {
+   "title": "MVSR s. 302 — Flammability of Interior Materials",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s305": {
+   "title": "MVSR s. 305 — Electrolyte Spillage and Electrical Shock Protection",
+   "systems": [
+    "Battery safety"
+   ],
+   "commodities": [
+    "Batteries",
+    "Wiring",
+    "Connectors",
+    "Charging inlet",
+    "Power electronics",
+    "Electric motors"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s401": {
+   "title": "MVSR s. 401 — Interior Trunk Release",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s114": {
+   "systems": [
+    "Theft prevention"
+   ],
+   "commodities": [
+    "ECUs"
+   ],
+   "un_equivalent_ai": [
+    "UN R116",
+    "UN R97",
+    "UN R162"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-c-r-c---c--1038-s131": {
+   "commodities": [
+    "Lighting modules"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-sor-2003-2": {
+   "citation": "SOR/2003-2",
+   "un_equivalent_ai": [
+    "UN R83",
+    "UN R49"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-sor-2010-201": {
+   "citation": "SOR/2010-201",
+   "systems": [
+    "Emissions"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-sor-2010-90": {
+   "citation": "SOR/2010-90",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-mvsr-sor-2013-198": {
+   "citation": "SOR/2013-198",
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-workbook-reg-0145-eccc-sor-2003-2": {
+   "un_equivalent_ai": [],
+   "_why": "low-severity finding; confirmed against current record/body"
+  },
+  "ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201": {
+   "systems": [
+    "Emissions"
+   ],
+   "_why": "low-severity finding; confirmed against current record/body"
+  }
+ },
+ "skipped": [
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s1106",
+   "field": "title",
+   "reason": "body is only a URL stub; no subject identifiable"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s108",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence, no body evidence; proposal not a clean list"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s113",
+   "field": "systems/vehicle_categories",
+   "reason": "no concrete proposal; only commodities patched"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s213-4",
+   "field": "vehicle_categories",
+   "reason": "body states no vehicle scope; medium confidence"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s301-1",
+   "field": "vehicle_categories",
+   "reason": "low confidence; no motorcycle evidence either way in body"
+  },
+  {
+   "id": "ca-mvsr-sor-2003-2",
+   "field": "vehicle_categories",
+   "reason": "low; heavy-duty bus coverage not clearly stated"
+  },
+  {
+   "id": "ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038",
+   "field": "title",
+   "reason": "record body is about certification/records provisions, so the current title fits; proposal would misdescribe it"
+  },
+  {
+   "id": "ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198",
+   "field": "summary",
+   "reason": "summary matches this record body (identification/labeling); finding refers to the sibling record"
+  },
+  {
+   "id": "ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence; R154 also covers CO2; no body evidence"
+  },
+  {
+   "id": "ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201",
+   "field": "citation",
+   "reason": "duplicate-record note, not a citation value"
+  },
+  {
+   "id": "ca-workbook-reg-0568-sor-2010-90",
+   "field": "citation",
+   "reason": "duplicate-record note, not a citation value"
+  },
+  {
+   "id": "ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices",
+   "field": "source_url",
+   "reason": "low confidence; no replacement URL verified"
+  }
+ ]
+}

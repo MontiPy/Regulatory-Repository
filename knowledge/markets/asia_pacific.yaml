@@ -46,7 +46,7 @@
   members: [Hong Kong SAR, Macau SAR]
   drive: RHD
   regime: type-approval
-  basis: "Hong Kong: Road Traffic (Construction and Maintenance of Vehicles) Regulations; Transport Department type approval; EPD emission standards"
+  basis: "Hong Kong: Road Traffic (Construction and Maintenance of Vehicles) Regulations; Transport Department type approval; EPD emission standards (Air Pollution Control (Vehicle Design Standards) (Emission) Regulations; Noise Control (Motor Vehicles) Regulation). Macau is not separately profiled here (traffic authority: DSAT) — verify"
   un_1958: false
   un_1998: null
   authorities:
@@ -54,7 +54,7 @@
     - { name: "HK Environmental Protection Department", scope: "Emission type approval (Euro 6 / US / JP accepted)", url: "https://www.epd.gov.hk" }
   accepts: ["EU, Japanese or US standards evidence for emissions and safety"]
   marks: ["Transport Department type approval"]
-  emissions: "Euro 6 (or Japanese/US equivalents) for petrol private cars"
+  emissions: "Hong Kong: Euro 6c (or Japanese/US equivalents) for petrol private cars; Macau not profiled"
   language: Chinese (Traditional) / English
   process: ["Type approval with TD; emission approval with EPD before first registration."]
   records: []
@@ -178,7 +178,7 @@
     - "Agency issues TAC; vehicle data uploaded to VAHAN; annual CoP."
     - "Bharat NCAP (AIS-197) star rating is voluntary consumer testing."
   watch:
-    - "AIS-189 / AIS-190 cybersecurity & software-update requirements (aligned with UN R155/156) — reported applicable to new types from Oct 2025; verify notification. (The 2022 six-airbag M1 proposal was not made mandatory.)"
+    - "AIS-189 / AIS-190 cybersecurity & software-update requirements (aligned with UN R155/156) — reported applicable to new types from 1 Oct 2025 and all types from 1 Oct 2028 (secondary sources); verify MoRTH notification. (The 2022 six-airbag M1 proposal was not made mandatory.)"
     - "Battery safety (AIS-156 / AIS-038 Rev 2) for EVs; CAFE III."
   records: [in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework, in-ais-038-rev-2-ais-156, in-bs-vi-india-cafe-fuel-consumption]
   confidence: medium
@@ -200,10 +200,10 @@
     - { name: "Bangladesh — BRTA", scope: "Registration / fitness", url: "https://brta.gov.bd" }
   accepts: ["Japanese (JIS/JASIC) and UN R evidence widely used"]
   marks: []
-  emissions: "Pakistan Euro 2→Euro 5 transition; Sri Lanka/Bangladesh Euro 4/5 references"
+  emissions: "Pakistan fuel moved from Euro 2 to Euro 5 (petrol Aug 2020, diesel Jan 2021; vehicle emission-standard dates to be verified separately); Sri Lanka/Bangladesh Euro 4/5 references"
   language: English / Urdu / Bengali / Sinhala / Tamil / Nepali
   process: ["Pakistan: comply with the EDB-notified UN R list for locally assembled and imported vehicles; others verify at import/registration."]
-  notes: ["Pakistan acceded to the 1958 Agreement (reported). Sri Lanka has had periodic vehicle-import suspensions — check current import policy."]
+  notes: ["Pakistan acceded to the 1958 Agreement (E64, reported 2020; confirm against the UNECE status table). Sri Lanka has had periodic vehicle-import suspensions — check current import policy."]
   records: []
   confidence: low
 
@@ -359,7 +359,7 @@
   emissions: "Euro 2–5 references depending on country"
   language: National languages
   process: ["Verified at import/registration."]
-  notes: ["Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
+  notes: ["Authorities are listed for Brunei only; none listed for Cambodia, Laos, Myanmar or Timor-Leste (Timor-Leste joined ASEAN in Oct 2025 and is not an APMRA signatory). Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
   records: [asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra]
   confidence: low
 
@@ -389,7 +389,7 @@
     - "Apply for type approval in ROVER with evidence (UN R approvals/test reports) against each applicable ADR."
     - "Enter each vehicle on RAV; maintain CoP (conformity of production) arrangements."
     - "Recalls: notify the department (RVSA) — voluntary recalls published on the vehicle recalls site."
-  watch: ["ADR 98/02 (AEB incl. pedestrian/cyclist), ADR 107 (ELKS), ADR 109 (EV powertrain safety), ADR 113 (AVAS), ADR 114 (CO2 measurement) phase-in dates."]
+  watch: ["ADR 98/02 (AEB; adds bicyclist detection to the earlier pedestrian-capable AEB), ADR 107 (ELKS), ADR 109 (EV powertrain safety), ADR 113 (AVAS), ADR 114 (CO2 measurement; reported to cover vehicles over 3.5 t GVM) phase-in dates — ADR 98/02 and 107 reported from 1 Mar 2028 (new models) / 1 Mar 2029 (all vehicles); verify."]
   records: [au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019, au-workbook-reg-0371-register-of-approved-vehicles-rav, au-workbook-reg-0372-australian-road-vehicle-recall-framework, au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024, au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma]
   confidence: high
 

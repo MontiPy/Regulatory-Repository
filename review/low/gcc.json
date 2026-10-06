@@ -1,0 +1,252 @@
+{
+ "group": "gcc",
+ "patches": {
+  "gcc-ecas-moiat-conformity-certificates": {
+   "summary": "Regulated products entering the UAE market, including passenger vehicles and components within MOIAT/ECAS scope, must hold valid UAE conformity certificates and complete market-entry documentation beyond the baseline GCC/GSO requirements, such as type-approval certificates, conformity-of-production records, labels and owner manuals.",
+   "_why": "Current summary is cut off with '...'; rewritten from body. source_url already 200 and official, kept."
+  },
+  "gcc-gcc-ev-technical-regulation-draft": {
+   "source_url": "https://www.gso.org.sa/wp-content/uploads/2025/12/MC-250905-Technical-Regulation-for-Electric-Vehicles-En.pdf",
+   "commodities": [
+    "Batteries",
+    "Connectors",
+    "Charging inlet",
+    "Power electronics",
+    "Wiring"
+   ],
+   "systems": [
+    "Battery safety",
+    "EV charging"
+   ],
+   "_why": "Official GSO MC-250905 PDF returns 200 and replaces third-party TUV page; fuel tags are template residue for a BEV-only draft."
+  },
+  "gcc-gso-1052-2000": {
+   "un_equivalent_ai": [
+    "UN R64"
+   ],
+   "summary": "GSO 1052:2000 covers temporary-use spare wheels and tyres for passenger cars and multipurpose vehicles in the GCC region, together with their test methods.",
+   "_why": "R141 is TPMS, not a spare-wheel counterpart; summary dropped unsupported marking/load-rating detail; scope per GSO store title."
+  },
+  "gcc-gso-1503-2002": {
+   "summary": "GSO 1503:2002 sets requirements for motor vehicle head lamps in GCC member states, including lamp intensity, aiming and operability, so that drivers can see the road without causing glare.",
+   "_why": "Title is Head Lamps only; summary was cut off and listed other lamps from template."
+  },
+  "gcc-gso-1680-1685-2003": {
+   "summary": "GSO 1680-1685:2003 specifies methods of test for gaseous pollutants (such as CO, HC and NOx) emitted from unleaded gasoline-engined vehicles registered or exported in GCC member states.",
+   "_why": "Title is test methods; summary was cut off and added durability/OBD template content."
+  },
+  "gcc-gso-1707-2005": {
+   "title": "Motor Vehicles - Methods of Test for Impact Strength - Part 3B: Moving Barrier Side Impact (US Standards)",
+   "_why": "GSO store page for GSO:481694 confirms 'part 3b: Moving barrier side impact' (checked)."
+  },
+  "gcc-gso-1708-2005": {
+   "title": "Motor Vehicles - Methods of Test for Impact Strength - Part 3C: Moving Barrier Side Impact (European Standards)",
+   "_why": "Consistent with sibling GSO 38 (Part 3A) and GSO 1707 (Part 3B); finding cites GSO store wording for Part 3C."
+  },
+  "gcc-gso-1709-2005": {
+   "un_equivalent_ai": [
+    "UN R44"
+   ],
+   "_why": "GSO store title is 'Motor vehicles child restraint system'; R145 is ISOFIX anchorages. R44 is the CRS regulation of that era; R129 already in un_equivalent."
+  },
+  "gcc-gso-51-2007": {
+   "un_equivalent_ai": [],
+   "_why": "R141 is TPMS; record is tyre nomenclature/dimensions (R30 already in un_equivalent)."
+  },
+  "gcc-gso-53-2007": {
+   "un_equivalent_ai": [],
+   "_why": "R141 is TPMS; record is tyre test methods (R30 already in un_equivalent)."
+  },
+  "gcc-gso-645-646-647": {
+   "un_equivalent_ai": [
+    "UN R54"
+   ],
+   "_why": "R141 is TPMS, not a counterpart to commercial-vehicle tyre standards."
+  },
+  "gcc-gso-ece-100": {
+   "systems": [
+    "Battery safety",
+    "EV charging"
+   ],
+   "commodities": [
+    "Batteries",
+    "Electric motors",
+    "Connectors",
+    "Power electronics",
+    "Wiring",
+    "Charging inlet"
+   ],
+   "un_equivalent_ai": [
+    "UN R100"
+   ],
+   "_why": "UN R100 has no fuel-system requirements; R34 is fuel-fire regulation. Fuel tags are template residue."
+  },
+  "gcc-gso-ece-117": {
+   "un_equivalent_ai": [
+    "UN R117"
+   ],
+   "_why": "R141 is TPMS; record is rolling resistance/wet grip/noise (R117)."
+  },
+  "gcc-gso-ece-121": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "un_equivalent_ai": [
+    "UN R121"
+   ],
+   "_why": "UN R121 applies to M and N; motorcycle controls are R60; R48 is lighting installation and body says it is not covered."
+  },
+  "gcc-gso-ece-125": {
+   "vehicle_categories": [
+    "Passenger car"
+   ],
+   "_why": "UN R125 and the record summary are M1 only."
+  },
+  "gcc-gso-ece-141": {
+   "un_equivalent_ai": [
+    "UN R141"
+   ],
+   "_why": "UN R142 is tyre installation, not TPMS."
+  },
+  "gcc-gso-ece-155": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Trailer"
+   ],
+   "summary": "GSO-ECE 155 covers cybersecurity management systems for vehicle electrical and electronic architecture, including ECUs, telematics, gateways and backend services. It requires risk assessment and mitigation of cyber threats across the vehicle lifecycle as a condition of type approval.",
+   "_why": "R155 excludes motorcycles; old summary was cut off and carried data-recording boilerplate."
+  },
+  "gcc-gso-ece-21": {
+   "systems": [
+    "Crashworthiness"
+   ],
+   "commodities": [
+    "Seats",
+    "Body structure"
+   ],
+   "summary": "GSO-ECE 21 covers interior fittings of passenger vehicles in the GCC region (UN R21): interior surfaces and fittings in occupant head-impact zones must be designed to reduce injury risk in a collision.",
+   "_why": "R21 is interior fittings, not pedestrian protection; airbag/bumper/latch tags and truncated restraint-heavy summary were template residue."
+  },
+  "gcc-gso-ece-26": {
+   "summary": "GSO-ECE 26 covers external projections on the bodywork of passenger vehicles in the GCC region (UN R26), limiting sharp edges and protrusions that could injure pedestrians and other road users on contact.",
+   "_why": "Old summary was cut off and listed bumpers/restraints from boilerplate."
+  },
+  "gcc-gso-ece-30": {
+   "summary": "GSO-ECE 30 covers pneumatic tyres for passenger cars sold in GCC markets (UN R30): tyre dimensions, load and speed capability, markings and performance requirements.",
+   "_why": "Old summary was cut off; inflation warnings belong to TPMS (R141) and wheels are not covered."
+  },
+  "gcc-gso-ece-51": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "un_equivalent_ai": [
+    "UN R51"
+   ],
+   "_why": "UN R51 applies to M and N; motorcycle noise is R41; R138 (AVAS) is a separate regulation."
+  },
+  "gcc-gso-ece-79": {
+   "summary": "GSO-ECE 79 covers steering equipment of passenger vehicles in the GCC region (UN R79), including steering performance and failure requirements and driver-assistance steering functions.",
+   "_why": "Old summary was generic boilerplate and cut off."
+  },
+  "gcc-gso-ece-83-gso-ece-154": {
+   "un_equivalent": [
+    "UN R83",
+    "UN R154"
+   ],
+   "_why": "Instrument citation and title name GSO-ECE 83 and GSO-ECE 154 explicitly."
+  },
+  "gcc-saso-3004-2022": {
+   "systems": [
+    "Tell-tales & controls"
+   ],
+   "_why": "Record covers controls, tell-tales and indicators (R121 mapping); exterior lighting not in scope."
+  },
+  "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles": {
+   "un_equivalent_ai": [],
+   "_why": "Body: conformity platform and label overlay, not a technical regulation."
+  },
+  "gcc-uae-s-5019-2024": {
+   "systems": [
+    "Tell-tales & controls"
+   ],
+   "summary": "UAE.S 5019:2024 sets requirements for the eCall emergency call system in UAE light vehicles, covering telematics, GNSS, cellular and backend functions that place an emergency call after an accident.",
+   "_why": "Body states no cybersecurity scope; old summary was generic boilerplate and cut off."
+  }
+ },
+ "skipped": [
+  {
+   "id": "gcc-ecas-moiat-conformity-certificates",
+   "field": "source_url",
+   "reason": "current URL returns 200 and is the official MOIAT service page; no better URL"
+  },
+  {
+   "id": "gcc-gso-1040-1041-1042",
+   "field": "source_url",
+   "reason": "no verified per-standard official URL; shared GSO list is the only working official source"
+  },
+  {
+   "id": "gcc-gso-98-1988",
+   "field": "systems",
+   "reason": "taxonomy has no flammability value; Crashworthiness left as nearest fit"
+  },
+  {
+   "id": "gcc-gso-ece-13h-1-2-3",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence; body lists ESC/ABS so R140 not clearly wrong"
+  },
+  {
+   "id": "gcc-gso-ece-13h-1-2-3",
+   "field": "citation",
+   "reason": "no evidence to determine a correct citation"
+  },
+  {
+   "id": "gcc-gso-ece-13h-2012",
+   "field": "un_equivalent_ai",
+   "reason": "body Related Regulations explicitly lists R13-H/R140; un_equivalent already UN R13H"
+  },
+  {
+   "id": "gcc-gso-ece-48",
+   "field": "source_url",
+   "reason": "finding proposes no change; URL works and is the official GSO list"
+  },
+  {
+   "id": "gcc-gso-ece-94",
+   "field": "un_equivalent_ai",
+   "reason": "finding itself says R137 acceptable as related; body lists R94/R137"
+  },
+  {
+   "id": "gcc-gso-my2027-emission-limit-implementation",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence, unverifiable, no evidence in body"
+  },
+  {
+   "id": "gcc-gso-my2027-emission-limit-implementation",
+   "field": "status",
+   "reason": "record covers per-state limits (Euro 5 Saudi/Kuwait, Euro 6b UAE); framework already applies, so in-force not clearly wrong"
+  },
+  {
+   "id": "gcc-mc-250905-2025",
+   "field": "un_equivalent",
+   "reason": "low confidence; no change effectively proposed, UN R100 is body-supported"
+  },
+  {
+   "id": "gcc-mc-250905-2025",
+   "field": "citation",
+   "reason": "MC-250905 confirmed as official GSO document number (EV technical regulation); no change needed"
+  },
+  {
+   "id": "gcc-saso-2847-saso-2864-2022",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence; R154 is plausible as WLTP test basis for fuel-economy figures, no evidence to remove"
+  }
+ ]
+}

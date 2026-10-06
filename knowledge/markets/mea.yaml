@@ -62,7 +62,7 @@
   un_1998: null
   authorities:
     - { name: GSO (GCC Standardization Organization), scope: "Common vehicle technical regulations and GSO standards", url: "https://www.gso.org.sa" }
-    - { name: "National standards bodies (Kuwait PAI/KUCAS, Qatar MoCI, Bahrain MoIC, Oman MoCIIP)", scope: "National conformity procedures", url: "https://www.gso.org.sa" }
+    - { name: "National standards bodies (Kuwait PAI/KUCAS, Qatar MoCI, Bahrain MoIC, Oman MoCIIP)", scope: "National conformity procedures" }
   accepts: ["UN R / FMVSS evidence via GSO standards"]
   marks: ["GCC/national conformity certificate"]
   emissions: "GSO MY2027 step: Euro 5 for Kuwait per the GSO record; Qatar, Bahrain, Oman not verified"
@@ -110,7 +110,7 @@
   emissions: "Euro 2–5 references"
   language: Arabic
   process: ["Pre-shipment/import conformity verification; registration."]
-  notes: ["Syria: US comprehensive sanctions were revoked (EO 14312, effective 1 Jul 2025) and the EU lifted economic sanctions (May 2025); targeted listings and export controls remain — check with trade compliance."]
+  notes: ["No Lebanon authority is listed here (members only). Syria: US comprehensive sanctions were revoked (EO 14312, effective 1 Jul 2025) and the EU lifted economic sanctions (May 2025); targeted listings and export controls remain — check with trade compliance."]
   records: []
   confidence: low
 
@@ -133,7 +133,7 @@
   emissions: "n/a"
   language: n/a
   process: ["Do not engage without trade-compliance/legal clearance."]
-  notes: ["Iran has its own ISIRI national standards (85-item quality/safety scheme); Yemen is listed for conflict-related restrictions — verify current sanctions scope."]
+  notes: ["Iran has its own ISIRI national standards; Yemen is listed for conflict-related restrictions — verify current sanctions scope."]
   records: []
   confidence: medium
 
@@ -168,7 +168,7 @@
   aliases: [EOS, GOEIC]
   drive: LHD
   regime: type-approval
-  basis: "Egyptian standards (EOS) largely transposing UN Regulations; 1958 Agreement CP; GOEIC import conformity"
+  basis: "Egyptian standards (EOS) largely transposing UN Regulations; 1958 Agreement CP (E62); GOEIC import conformity"
   un_1958: true
   un_1998: null
   authorities:

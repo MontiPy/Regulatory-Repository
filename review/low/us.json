@@ -1,0 +1,344 @@
+{
+ "group": "us",
+ "patches": {
+  "us-40cfr-part-1066": {
+   "systems": [
+    "Emissions",
+    "Fuel safety"
+   ],
+   "_why": "Part 1066 is test procedures/measurement equipment; no OBD requirements (those are in Part 86)"
+  },
+  "us-40cfr-part-82": {
+   "commodities": [
+    "HVAC"
+   ],
+   "_why": "Part 82 is ozone-depleting substances/refrigerants; nothing on fuel system or exhaust"
+  },
+  "us-40cfr-part-85": {
+   "un_equivalent_ai": [],
+   "_why": "Part 85 is administrative (import, recall, defect reporting, warranty, tampering); R83/R168 are emission test approval regs, no counterpart"
+  },
+  "us-40cfr-part-86": {
+   "systems": [
+    "Emissions",
+    "On-board diagnostics",
+    "Fuel safety"
+   ],
+   "_why": "Body contains OBD sections (86.007-17, 86.010-18, 86.1806) and evaporative emission provisions"
+  },
+  "us-47cfr-part-15": {
+   "systems": [
+    "EMC"
+   ],
+   "_why": "Part 15 covers RF radiators only; no ADAS or cybersecurity content (Infotainment is not a systems value)"
+  },
+  "us-cfr-part-526": {
+   "summary": "Procedural and content requirements for petitions and plans submitted to NHTSA under the Automobile Fuel Efficiency Act of 1980: general provisions (§526.1), petitions based on U.S. production by a foreign manufacturer (§526.2), plans to transfer vehicles from the non-domestic to the domestic fleet (§526.3), and plans for earning offsetting monetary credits in future model years (§526.5).",
+   "_why": "Current summary cut off with '...'; rewritten from body sections 526.1-526.5 (also supports domestic content/value-added/offsetting-credit tags)"
+  },
+  "us-cfr-part-531": {
+   "commodities": [
+    "Fuel system"
+   ],
+   "_why": "HVAC only appears via A/C efficiency credit mention; no HVAC requirements"
+  },
+  "us-cfr-part-538": {
+   "systems": [
+    "Emissions"
+   ],
+   "_why": "Part sets driving-range criteria and gallon-equivalent factors for CAFE accounting; no safety/charging/battery requirements"
+  },
+  "us-cfr-part-545": {
+   "status_note": "Spent: reporting deadlines passed in 2007 (production year ending 31 Aug 2007); text remains in the CFR but imposes no current reporting obligation.",
+   "_why": "Body 545.4/545.5 dates all expired by 2007; status kept in-force, note added"
+  },
+  "us-cfr-part-561": {
+   "commodities": [
+    "Batteries"
+   ],
+   "systems": [
+    "Battery safety",
+    "Tell-tales & controls"
+   ],
+   "_why": "Part 561 is documentation (rescue sheets, ERGs, REESS warning); no charging inlet/wiring/motor requirements"
+  },
+  "us-cfr-part-564": {
+   "un_equivalent_ai": [
+    "UN R37",
+    "UN R128",
+    "UN R99"
+   ],
+   "_why": "Body covers HID light source / discharge arc specs in Appendix A; UN R99 is gas-discharge light sources"
+  },
+  "us-cfr-part-567": {
+   "commodities": [],
+   "_why": "Part 567 is the certification label rule; bumper/mirror/suspension appear only in definitions"
+  },
+  "us-cfr-part-568": {
+   "commodities": [],
+   "_why": "Part 568 is IVD/certification documentation; no component requirements"
+  },
+  "us-cfr-part-570": {
+   "un_equivalent_ai": [],
+   "_why": "570.3: part imposes no requirements itself, only for State in-use inspection programs; R13/R79 are new-vehicle type approval"
+  },
+  "us-cfr-part-573": {
+   "commodities": [],
+   "_why": "573.1/573.3 scope is all vehicles and equipment; Tires not specific"
+  },
+  "us-cfr-part-591": {
+   "summary": "Importation of motor vehicles and motor vehicle equipment into the United States requires importers to file a declaration with U.S. Customs and Border Protection stating whether the item conforms to applicable Federal safety, bumper and theft prevention standards. The part sets the declarations and accompanying documents required, restrictions on importation, conformance bond conditions, and petitions for remission or mitigation of forfeiture.",
+   "_why": "Summary truncated mid-sentence; rewritten from body sections 591.5-591.10"
+  },
+  "us-cfr-part-596": {
+   "un_equivalent_ai": [],
+   "_why": "Part 596 specifies AEB test devices, not vehicle requirements; R152 is a related subject, not an equivalent"
+  },
+  "us-cfr575-105": {
+   "systems": [
+    "Crashworthiness"
+   ],
+   "_why": "Rollover warning label/owner's manual disclosure; no restraint requirement"
+  },
+  "us-cfr575-301": {
+   "commodities": [],
+   "_why": "Monroney NCAP rating label content; no body structure hardware requirement"
+  },
+  "us-cfr575-401": {
+   "un_equivalent_ai": [],
+   "_why": "Point-of-sale fuel economy label; R101/R154 are test/approval regs, not labelling"
+  },
+  "us-fmvss-105": {
+   "systems": [
+    "Braking"
+   ],
+   "commodities": [
+    "Brakes",
+    "Wheels",
+    "Pedals",
+    "Electric motors",
+    "Hoses & lines"
+   ],
+   "_why": "Battery text only in EV definitions/test conditions; standard does not regulate batteries"
+  },
+  "us-fmvss-108": {
+   "commodities": [
+    "Lighting modules",
+    "Wiring"
+   ],
+   "_why": "Mirrors/sensors appear only in exclusions or test equipment, not as requirements"
+  },
+  "us-fmvss-118": {
+   "systems": [
+    "Glazing"
+   ],
+   "_why": "Body S1 concerns accidental operation injury; no theft-prevention content"
+  },
+  "us-fmvss-122": {
+   "systems": [
+    "Braking"
+   ],
+   "commodities": [
+    "Brakes",
+    "Pedals"
+   ],
+   "un_equivalent_ai": [
+    "UN R78"
+   ],
+   "_why": "Motorcycle brake standard (ABS is a brake feature); tires/wheels only test conditions; UN R78 is the motorcycle braking regulation"
+  },
+  "us-fmvss-135": {
+   "un_equivalent_ai": [
+    "UN R13H"
+   ],
+   "_why": "Body S3 light vehicle brakes (passenger cars, GVWR <=3,500 kg); UN R13-H counterpart"
+  },
+  "us-fmvss-141": {
+   "commodities": [
+    "Electric motors"
+   ],
+   "_why": "Pedestrian alert sound is not a horn; Batteries tag unsupported by body; no sound-generator value in taxonomy"
+  },
+  "us-fmvss-201": {
+   "un_equivalent_ai": [
+    "UN R21"
+   ],
+   "_why": "Head impact against interior surfaces corresponds to UN R21; R94 is frontal crash"
+  },
+  "us-fmvss-203": {
+   "summary": "Steering control systems in passenger cars and in multipurpose passenger vehicles, trucks and buses with a GVWR of 4,536 kg or less are regulated to minimize chest, neck and facial injuries to the driver. The steering control must not transmit more than 11,120 N of force to the driver in the S5.1 impact test. The standard does not apply to vehicles that meet the frontal barrier crash requirements (S5.1) of FMVSS 208 by means other than seat belt assemblies, nor to walk-in vans or vehicles without a steering control.",
+   "_why": "Body S2 exemptions omitted from truncated summary"
+  },
+  "us-fmvss-208": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "Body S3(a) applies to all trucks and buses with no GVWR cap"
+  },
+  "us-fmvss-218": {
+   "un_equivalent_ai": [
+    "UN R22"
+   ],
+   "_why": "Motorcycle helmet standard; UN R22 is protective helmets and visors"
+  },
+  "us-fmvss-219": {
+   "commodities": [
+    "Glass",
+    "Body structure"
+   ],
+   "_why": "Standard limits intrusion into windshield area; steering column/wipers not subject to requirements"
+  },
+  "us-fmvss-220": {
+   "un_equivalent_ai": [
+    "UN R66"
+   ],
+   "_why": "School bus rollover protection; UN R66 is bus superstructure strength (approximate counterpart)"
+  },
+  "us-fmvss-223": {
+   "un_equivalent_ai": [
+    "UN R58"
+   ],
+   "_why": "Rear impact guard; UN R58 rear underrun protective devices (placed in AI field since body does not state equivalence)"
+  },
+  "us-fmvss-224": {
+   "un_equivalent_ai": [
+    "UN R58"
+   ],
+   "_why": "Rear underride installation requirement; UN R58 (AI field since body does not state equivalence)"
+  },
+  "us-fmvss-227": {
+   "un_equivalent_ai": [
+    "UN R66"
+   ],
+   "_why": "Bus rollover structural integrity; UN R66 (AI field since body does not state equivalence)"
+  },
+  "us-fmvss-308": {
+   "un_equivalent_ai": [
+    "UN R134"
+   ],
+   "_why": "Hydrogen vehicle safety / storage system; UN R134 (GTR 13 not an 'UN R' value)"
+  },
+  "us-fmvss-403": {
+   "summary": "Platform lifts installed in motor vehicles to assist persons with limited mobility are regulated for lifts manufactured on or after April 1, 2005, to prevent injuries and fatalities to passengers and bystanders. Lifts must meet requirements for all lifts (threshold warning, velocity and acceleration limits, platform, edge guards, wheelchair retention, controls, backup operation, interlocks) plus either public-use or private-use requirements, and be labeled 'DOT-Public Use Lift' or 'DOT-Private Use Lift'.",
+   "_why": "Summary truncated with '...'; rewritten from body S3, S6"
+  },
+  "us-stub-us-epa-40-cfr-part-86-tier-3": {
+   "title": "EPA Tier 3 Motor Vehicle Emission and Fuel Standards (40 CFR Part 86)",
+   "_why": "Generic title omitted Tier 3/Part 86; official rule name is Tier 3 Motor Vehicle Emission and Fuel Standards"
+  },
+  "us-workbook-reg-0451-49-cfr-part-575": {
+   "title": "Consumer Information (49 CFR Part 575)",
+   "_why": "eCFR title of Part 575 is Consumer Information"
+  }
+ },
+ "skipped": [
+  {
+   "id": "us-40cfr-part-85",
+   "field": "commodities",
+   "reason": "confidence low; finding itself says acceptable"
+  },
+  {
+   "id": "us-47cfr-part-15",
+   "field": "un_equivalent_ai",
+   "reason": "R10 is a plausible partial analogue; finding proposes no concrete replacement, low confidence"
+  },
+  {
+   "id": "us-cfr-part-561",
+   "field": "un_equivalent_ai",
+   "reason": "R100 mapping is already a plausible AI analogue; no field to label it 'partial'"
+  },
+  {
+   "id": "us-cfr-part-568",
+   "field": "body",
+   "reason": "Body edits not permitted by brief"
+  },
+  {
+   "id": "us-cfr-part-579",
+   "field": "systems",
+   "reason": "low confidence; part has tire/air bag/child seat subpart-specific reporting so tags are partly supported; no clear replacement"
+  },
+  {
+   "id": "us-cfr-part-585",
+   "field": "systems",
+   "reason": "finding wrong: body has only Subparts A, D, N, O, P (B-C, E-M reserved); no tires/TPMS/ESC/roof crush subparts; current tags fit"
+  },
+  {
+   "id": "us-cfr575-104",
+   "field": "un_equivalent_ai",
+   "reason": "R117 is a plausible partial counterpart (tyre wet grip/noise); finding proposes none/partial, medium - leave"
+  },
+  {
+   "id": "us-fmvss-111",
+   "field": "un_equivalent_ai",
+   "reason": "R158 is a plausible analogue for rear visibility/reversing; no field to flag partial; low confidence"
+  },
+  {
+   "id": "us-fmvss-122a",
+   "field": "title",
+   "reason": "finding itself says keep; title matches official eCFR wording"
+  },
+  {
+   "id": "us-fmvss-202",
+   "field": "un_equivalent_ai",
+   "reason": "finding states no error"
+  },
+  {
+   "id": "us-fmvss-222",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence; R16/R17 mapping not clearly wrong, R80 not certain enough"
+  },
+  {
+   "id": "us-fmvss-222",
+   "field": "summary",
+   "reason": "already fixed: summary is no longer truncated and is accurate"
+  },
+  {
+   "id": "us-fmvss-224",
+   "field": "body",
+   "reason": "Body edits not permitted by brief; S3 shows 4,356 kg vs 4,536 elsewhere - orchestrator should check eCFR"
+  },
+  {
+   "id": "us-fmvss-403",
+   "field": "systems",
+   "reason": "low confidence; no clearly fitting taxonomy value for platform lifts"
+  },
+  {
+   "id": "us-fmvss-404",
+   "field": "vehicle_categories",
+   "reason": "MPVs fall under Light truck in this taxonomy; low confidence"
+  },
+  {
+   "id": "us-fmvss-500",
+   "field": "vehicle_categories",
+   "reason": "no taxonomy value fits low-speed vehicles; low confidence"
+  },
+  {
+   "id": "us-stub-nom-042-semarnat-2003",
+   "field": "id",
+   "reason": "ids cannot be patched; orchestrator may consider renaming us-stub-... to mx-..."
+  },
+  {
+   "id": "us-stub-nom-042-semarnat-2003",
+   "field": "summary",
+   "reason": "already fixed: summary complete and limited to supported content"
+  },
+  {
+   "id": "us-stub-nom-042-semarnat-2003",
+   "field": "status",
+   "reason": "unverifiable, no evidence in body"
+  },
+  {
+   "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+   "field": "un_equivalent_ai",
+   "reason": "R83/R101 are loose analogues; no clear replacement"
+  },
+  {
+   "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+   "field": "source_url",
+   "reason": "programme page is official CARB page for ACC II; no verified better URL"
+  }
+ ]
+}

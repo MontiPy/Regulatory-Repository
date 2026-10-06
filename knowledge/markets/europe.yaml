@@ -23,7 +23,7 @@
     - "Statutory plate (manufacturer's plate) and VIN per (EU) 2021/535"
     - "E-marked / e-marked components (lamps, glazing, tyres, mirrors, belts, CRS)"
     - "Tyre label (EU) 2020/740; CO2/fuel consumption car label (Dir. 1999/94/EC)"
-  emissions: "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and all new vehicles from 29 Nov 2027 (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review."
+  emissions: "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and all new vehicles from 29 Nov 2027 (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review (Commission proposal COM(2025) 995 of 16 Dec 2025 would lower it to 90 %; still a proposal)."
   language: "Official language(s) of the member state of sale for owner info, labels, recall notices"
   process:
     - "Choose approving authority (any member state); appoint technical service; establish initial assessment of the QMS for Conformity of Production (CoP)."
@@ -97,6 +97,7 @@
   emissions: "EU Euro 6/7 and CO2 rules (Switzerland applies EU-equivalent CO2 rules nationally)"
   language: "Norwegian; Icelandic; German; Swiss national languages (DE/FR/IT)"
   process: ["Register using EU CoC; check national add-ons (e.g. Swiss CO2 sanction scheme, Norwegian registration tax data)."]
+  notes: ["un_1958 true reflects Norway (E16) and Switzerland (E14); Iceland and Liechtenstein have no E-number recorded here."]
   records: []
   confidence: medium
 
@@ -159,7 +160,7 @@
   emissions: "Euro 6 (most), Euro 5 references in some"
   language: National languages
   process: ["Homologation per vehicle type based on EU CoC / UN approvals."]
-  notes: ["Kosovo is not a UN member; it applies its own homologation based on EU documentation."]
+  notes: ["Kosovo is not a UN member; it applies its own homologation based on EU documentation. un_1958 true is a group-level value; E-numbers and per-country processes for Moldova, Georgia and Kosovo are not recorded here."]
   records: []
   confidence: low
 

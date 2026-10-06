@@ -169,7 +169,7 @@
   process:
     - "Compliance verified at import/registration; used-vehicle age limits common."
   notes:
-    - "Drive side differs: LHD — Dominican Republic, Haiti, Cuba, Puerto Rico; RHD (drive on left) — Jamaica, Trinidad & Tobago, Bahamas, Barbados, Guyana, Suriname, most Eastern Caribbean."
+    - "Drive side differs: LHD — Dominican Republic, Haiti, Cuba, Puerto Rico; Drive on the left — Jamaica, Trinidad & Tobago, Barbados, Guyana, Suriname, most Eastern Caribbean (mostly RHD, often Japanese/UK-spec vehicles); the Bahamas also drives on the left but mostly uses US-spec LHD vehicles."
   records: []
   confidence: low
 
@@ -206,7 +206,7 @@
     - "CONTRAN phase-ins: side pole impact (949/2022), ESC (954/2022), seat-belt reminder (936/2022)."
   notes:
     - "Mercosur trade with Argentina often uses shared test evidence, but each country issues its own approval."
-  records: [br-senatran-990, br-conama-492, br-ibama-in-3, br-contran-910, br-contran-949, br-contran-954, br-contran-912, br-anatel-cert, br-mover-rota-2030]
+  records: [br-senatran-990, br-conama-492, br-ibama-in-3, br-contran-910, br-contran-949, br-contran-954, br-contran-912, br-contran-936, br-anatel-cert, br-mover-rota-2030]
   confidence: medium
 
 - code: AR
