@@ -32,8 +32,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 111 — Rear Vision Mirrors
-un_equivalent_ai:
-- UN R46
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -1,7 +1,7 @@
 ---
 citation: UN R55
 commodities:
-- Connectors
+- Couplings & towing
 id: ece-r55
 last_pulled: '2026-10-06T03:34:39+00:00'
 open_tags:

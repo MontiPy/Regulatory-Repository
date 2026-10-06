@@ -39,7 +39,7 @@ summary: Directive 2011/65/EU (RoHS) restricts hazardous substances in electrica
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: af6edcef06c8378bd04b2fed6a91c4daf645bb78
 systems:
-- EV charging
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Materials / Electronics - RoHS

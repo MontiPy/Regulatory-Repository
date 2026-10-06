@@ -33,8 +33,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.
-un_equivalent_ai:
-- UN R30
 vehicle_categories:
 - Passenger car
 - Light truck

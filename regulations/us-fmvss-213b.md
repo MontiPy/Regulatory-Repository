@@ -39,9 +39,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability
   beginning December 5, 2026.
-un_equivalent_ai:
-- UN R129
-- UN R44
 vehicle_categories:
 - Passenger car
 - Light truck

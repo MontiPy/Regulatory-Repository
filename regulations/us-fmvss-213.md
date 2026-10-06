@@ -36,9 +36,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint
   system is certified to § 571.213b.
-un_equivalent_ai:
-- UN R44
-- UN R129
 vehicle_categories:
 - Passenger car
 - Light truck

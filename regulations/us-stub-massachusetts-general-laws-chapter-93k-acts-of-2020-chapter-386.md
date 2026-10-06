@@ -4,6 +4,7 @@ commodities:
 - ECUs
 - Infotainment
 - Connectors
+- Telematics unit
 id: us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386
 last_pulled: '2026-06-01T18:54:42+00:00'
 open_tags:
@@ -39,7 +40,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Motor vehicle right-to-repair telematics data access
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

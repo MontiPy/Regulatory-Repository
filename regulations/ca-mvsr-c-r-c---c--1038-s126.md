@@ -34,9 +34,6 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 126 — Electronic Stability Control Systems
-un_equivalent_ai:
-- UN R140
-- UN R13H
 vehicle_categories:
 - Passenger car
 - Light truck

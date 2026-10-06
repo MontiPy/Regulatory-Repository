@@ -37,10 +37,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 17 — Fuel System for Gaseous Fuels
 translation_status: translated
-un_equivalent_ai:
-- UN R67
-- UN R110
-- UN R134
 vehicle_categories:
 - Passenger car
 - Light truck

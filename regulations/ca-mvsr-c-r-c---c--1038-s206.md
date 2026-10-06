@@ -34,8 +34,6 @@ tagging_status: llm-tagged
 title: MVSR s. 206 — Door Locks and Door Retention Components
 un_equivalent:
 - UN R11
-un_equivalent_ai:
-- UN R11
 vehicle_categories:
 - Passenger car
 - Light truck

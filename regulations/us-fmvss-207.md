@@ -35,8 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.207 Standard No. 207; Seating systems.
-un_equivalent_ai:
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -28,7 +28,7 @@ summary: Motor vehicle dimensions in Korea are regulated under this article, whi
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 44bd653984a8ebd3639074657b0a343e2449de27
 systems:
-- Visibility
+- Dimensions & weights
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 4 — Length, Width, and Height

@@ -35,10 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 38 — Headlamps
 translation_status: translated
-un_equivalent_ai:
-- UN R112
-- UN R113
-- UN R123
 vehicle_categories:
 - Passenger car
 - Light truck

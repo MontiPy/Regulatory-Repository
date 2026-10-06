@@ -35,10 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 22_5 — Child Restraint Anchorages
 translation_status: translated
-un_equivalent_ai:
-- UN R14
-- UN R145
-- UN R129
 vehicle_categories:
 - Passenger car
 - Light truck

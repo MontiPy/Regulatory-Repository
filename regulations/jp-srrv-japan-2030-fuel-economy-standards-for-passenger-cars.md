@@ -38,9 +38,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Japan 2030 Fuel Economy Standards for Passenger Cars
 translation_status: translated
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Passenger car
 ---

@@ -34,10 +34,6 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 114 — Theft Protection and Rollaway Prevention
-un_equivalent_ai:
-- UN R116
-- UN R97
-- UN R162
 vehicle_categories:
 - Passenger car
 - Light truck

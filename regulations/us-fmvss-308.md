@@ -37,8 +37,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.308 Standard No. 308; Compressed hydrogen storage system integrity.
-un_equivalent_ai:
-- UN R134
 vehicle_categories:
 - Passenger car
 - Light truck

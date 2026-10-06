@@ -41,8 +41,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.136 Standard No. 136; Electronic stability control systems for heavy
   vehicles.
-un_equivalent_ai:
-- UN R13
 vehicle_categories:
 - Heavy truck
 - Bus

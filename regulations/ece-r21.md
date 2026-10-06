@@ -6,6 +6,7 @@ commodities:
 - Door latches & hinges
 - Steering column
 - Bumpers
+- Interior trim
 id: ece-r21
 last_pulled: '2026-10-06T03:32:09+00:00'
 open_tags:

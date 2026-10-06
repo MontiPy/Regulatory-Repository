@@ -31,8 +31,6 @@ systems:
 tagging_status: llm-tagged
 title: KMVSS Article 18-4 — Cybersecurity
 translation_status: translated
-un_equivalent_ai:
-- UN R155
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -35,8 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
-un_equivalent_ai:
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

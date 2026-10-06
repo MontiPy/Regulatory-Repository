@@ -31,8 +31,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 53 — Horn
 translation_status: translated
-un_equivalent_ai:
-- UN R28
 vehicle_categories:
 - Passenger car
 - Light truck

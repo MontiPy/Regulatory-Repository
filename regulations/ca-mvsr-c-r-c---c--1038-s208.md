@@ -36,9 +36,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 208 — Seat Belt Assemblies (Installation)
-un_equivalent_ai:
-- UN R16
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

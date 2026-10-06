@@ -228,6 +228,9 @@ MAX_RELATED = 12
 
 
 def validate_un_equivalent_ai(metadata: dict[str, Any], issues: list[BuildIssue]) -> None:
+    # Machine-suggested equivalents are no longer published (2026-10 review: too many were wrong).
+    if metadata.get("un_equivalent_ai"):
+        issues.append(BuildIssue("WARNING", "un_equivalent_ai is not published; list only text-stated equivalents in un_equivalent"))
     for value in as_list(metadata.get("un_equivalent_ai"), "un_equivalent_ai", issues):
         if not isinstance(value, str) or not UN_EQUIVALENT_RE.match(value):
             issues.append(BuildIssue("ERROR", f"un_equivalent_ai value '{value}' must match ^UN R\\d+[A-Za-z]?$"))
@@ -475,7 +478,6 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "systems": as_list(metadata.get("systems"), "systems", []),
         "vehicle_categories": as_list(metadata.get("vehicle_categories"), "vehicle_categories", []),
         "un_equivalent": as_list(metadata.get("un_equivalent"), "un_equivalent", []),
-        "un_equivalent_ai": as_list(metadata.get("un_equivalent_ai"), "un_equivalent_ai", []),
         "related": [],  # derived after all records load (see derive_related)
         "tags": as_list(metadata.get("tags"), "tags", []),
         "open_tags": as_list(metadata.get("open_tags"), "open_tags", []),

@@ -28,7 +28,8 @@ summary: ISO 22628 establishes a standardized calculation method for determining
   recyclability and recoverability rates of passenger vehicles at end of life.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a2bedd4c25547722532bad494444ee4620a8bd24
-systems: []
+systems:
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Recyclability and recoverability calculation method

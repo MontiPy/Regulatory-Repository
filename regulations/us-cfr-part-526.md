@@ -34,7 +34,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 526—PETITIONS AND PLANS FOR RELIEF UNDER THE AUTOMOBILE FUEL EFFICIENCY
   ACT OF 1980
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

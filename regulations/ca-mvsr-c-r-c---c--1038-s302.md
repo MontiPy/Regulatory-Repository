@@ -3,6 +3,7 @@ citation: MVSR C.R.C.,_c._1038 s. 302
 commodities:
 - Seats
 - Body structure
+- Interior trim
 id: ca-mvsr-c-r-c---c--1038-s302
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -28,11 +29,10 @@ summary: Interior materials in passenger cars, multi-purpose passenger vehicles,
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: e5a3a7e7dd3c944ea531ef30f2b703c46bc73fb0
 systems:
-- Crashworthiness
+- Fire safety & flammability
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 302 — Flammability of Interior Materials
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

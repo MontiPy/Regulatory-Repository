@@ -32,9 +32,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 120 — Tire Selection and Rims (GVWR over 4,536 kg)
-un_equivalent_ai:
-- UN R54
-- UN R142
 vehicle_categories:
 - Heavy truck
 - Motorcycle

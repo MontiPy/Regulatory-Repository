@@ -37,11 +37,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Signal Lamps, Position Lamps, Stop Lamps and Reverse Lamps
 translation_status: translated
-un_equivalent_ai:
-- UN R6
-- UN R7
-- UN R23
-- UN R38
 vehicle_categories:
 - Passenger car
 - Light truck

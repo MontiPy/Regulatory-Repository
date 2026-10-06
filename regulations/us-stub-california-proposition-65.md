@@ -35,7 +35,8 @@ summary: Products sold in California that expose consumers to listed toxic or ca
   parts, and accessories.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c6a44392a56e3fa922c21ee30a7da2dcc2ce8f14
-systems: []
+systems:
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Safe Drinking Water and Toxic Enforcement Act warning requirements

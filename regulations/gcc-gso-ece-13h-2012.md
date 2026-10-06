@@ -39,8 +39,6 @@ title: Braking System of Passenger Cars and Multi Purpose Vehicles
 translation_status: untranslated
 un_equivalent:
 - UN R13H
-un_equivalent_ai:
-- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

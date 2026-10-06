@@ -42,8 +42,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 13 — Controls and Indicators
 translation_status: translated
-un_equivalent_ai:
-- UN R121
 vehicle_categories:
 - Passenger car
 - Light truck

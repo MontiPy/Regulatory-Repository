@@ -24,7 +24,8 @@ summary: Commercial vehicles subject to mandatory digital tachograph installatio
   and the installation standards to Article 55(1) of the Traffic Safety Act.
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 0b9edd7ac79623b8ed690535dd6ef0857139b80e
-systems: []
+systems:
+- Event & data recording
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 56 — Digital Tachograph

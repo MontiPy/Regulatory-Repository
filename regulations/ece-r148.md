@@ -33,16 +33,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 148 — Light-Signalling Devices (except headlamps)
-un_equivalent_ai:
-- UN R4
-- UN R6
-- UN R7
-- UN R23
-- UN R38
-- UN R50
-- UN R77
-- UN R87
-- UN R91
 vehicle_categories:
 - Passenger car
 - Light truck

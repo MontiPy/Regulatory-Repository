@@ -2,8 +2,7 @@
 citation: 49 CFR §571.302
 commodities:
 - Seats
-- Seatbelts
-- Airbags
+- Interior trim
 id: us-fmvss-302
 last_pulled: '2026-06-01T18:41:54+00:00'
 open_tags:
@@ -31,12 +30,10 @@ summary: FMVSS No. 302 specifies burn resistance requirements for materials used
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c77c65db012d66546113e8597e31ec5e9fdc9bc7
 systems:
-- Crashworthiness
+- Fire safety & flammability
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.302 Standard No. 302; Flammability of interior materials.
-un_equivalent_ai:
-- UN R118
 vehicle_categories:
 - Passenger car
 - Light truck

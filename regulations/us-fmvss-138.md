@@ -36,8 +36,6 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.138 Standard No. 138; Tire pressure monitoring systems.
-un_equivalent_ai:
-- UN R141
 vehicle_categories:
 - Passenger car
 - Light truck

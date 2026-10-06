@@ -305,13 +305,11 @@
       if (record.citation) chips.push(`<span class="reader-trust-chip">${escapeHtml(record.citation)}</span>`);
       if (record.source_url) chips.push(`<span class="reader-trust-chip source">Source: ${sourceLinkHtml(record)}</span>`);
       if (record.last_pulled) chips.push(`<span class="reader-trust-chip">Pulled ${escapeHtml(record.last_pulled.slice(0, 10))}</span>`);
-      if ((record.un_equivalent_ai || []).length) chips.push(`<span class="reader-trust-chip">AI equivalent needs verification</span>`);
       return chips.join("");
     }
 
     // Honest provenance: systems/commodities/vehicle categories come from the
-    // automated tagging pass, so flag them as AI-classified (mirrors the
-    // verified-vs-AI treatment already used for UN equivalents).
+    // automated tagging pass, so flag them as AI-classified .
     function classificationNote(record) {
       const hasTags = (record.systems || []).length
         || (record.commodities || []).length
@@ -335,8 +333,7 @@
                 ${facetChips("Systems", record.systems)}
                 ${facetChips("Vehicle Categories", record.vehicle_categories)}
                 ${facetChips("Open Tags", record.open_tags, "open")}
-                ${unChips("UN Equivalent", record.un_equivalent, false)}
-                ${unChips("Machine-suggested equivalent (unverified)", record.un_equivalent_ai, true)}
+                ${unChips("UN equivalent (stated in the regulation)", record.un_equivalent, false)}
                 ${relatedLinks(record.related)}
                 ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
                 ${record.effective_date ? `<div class="meta-item"><strong>Effective Date</strong><span>${escapeHtml(record.effective_date)}</span></div>` : ""}

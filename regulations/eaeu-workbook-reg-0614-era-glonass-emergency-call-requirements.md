@@ -4,6 +4,7 @@ commodities:
 - ECUs
 - Wiring
 - Connectors
+- Telematics unit
 id: eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:
@@ -30,15 +31,14 @@ summary: ERA-GLONASS is the Russia/EAEU automatic emergency call system; vehicle
   is linked to vehicle approval.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 802b0960772e1e17cea59ea4e82df5a0baa35072
-systems: []
+systems:
+- Emergency call (eCall)
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Automatic emergency call equipment requirements linked to EAEU/Russia vehicle
   approval
 translation_status: untranslated
 un_equivalent: []
-un_equivalent_ai:
-- UN R144
 vehicle_categories:
 - Passenger car
 - Light truck

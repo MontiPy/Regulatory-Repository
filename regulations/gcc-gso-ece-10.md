@@ -39,8 +39,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Electromagnetic Compatibility
 translation_status: untranslated
-un_equivalent_ai:
-- UN R10
 vehicle_categories:
 - Passenger car
 ---

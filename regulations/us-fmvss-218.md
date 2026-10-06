@@ -31,8 +31,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.218 Standard No. 218; Motorcycle helmets.
-un_equivalent_ai:
-- UN R22
 vehicle_categories:
 - Motorcycle
 ---

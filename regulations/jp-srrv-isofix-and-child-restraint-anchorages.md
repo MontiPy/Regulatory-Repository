@@ -36,9 +36,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: ISOFIX and Child Restraint Anchorages
 translation_status: translated
-un_equivalent_ai:
-- UN R145
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

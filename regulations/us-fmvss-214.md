@@ -35,9 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.214 Standard No. 214; Side impact protection.
-un_equivalent_ai:
-- UN R95
-- UN R135
 vehicle_categories:
 - Passenger car
 - Light truck

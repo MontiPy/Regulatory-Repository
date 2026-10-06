@@ -30,10 +30,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 564—REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION
-un_equivalent_ai:
-- UN R37
-- UN R128
-- UN R99
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -30,6 +30,7 @@ summary_hash: 5fe9654f9585c5146dd198e7787bea620c56031f
 systems:
 - Emissions
 - HVAC
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: PART 82—PROTECTION OF STRATOSPHERIC OZONE

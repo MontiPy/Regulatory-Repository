@@ -36,9 +36,6 @@ tagging_status: llm-tagged
 title: Philippines vehicle and component certification, COC and emissions/environmental
   framework
 translation_status: untranslated
-un_equivalent_ai:
-- UN R83
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

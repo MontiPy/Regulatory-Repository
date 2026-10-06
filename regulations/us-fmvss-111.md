@@ -35,9 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.111 Standard No. 111; Rear visibility.
-un_equivalent_ai:
-- UN R46
-- UN R158
 vehicle_categories:
 - Passenger car
 - Light truck

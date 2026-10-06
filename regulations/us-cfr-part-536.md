@@ -29,7 +29,6 @@ systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 536—TRANSFER AND TRADING OF FUEL ECONOMY CREDITS
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

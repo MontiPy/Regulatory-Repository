@@ -25,7 +25,7 @@ summary: Gross vehicle weight, axle load, and wheel load limits for vehicles in 
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: fd477955d1c91d76a08313980ddbbb76e394a71e
 systems:
-- Tires & wheels
+- Dimensions & weights
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 6 — Gross Vehicle Weight, Axle Load, and Wheel Load

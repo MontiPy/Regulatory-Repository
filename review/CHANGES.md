@@ -1551,3 +1551,65 @@ Rejected by validator / orchestrator:
 - `us-stub-nom-042-semarnat-2003` renamed to `mx-workbook-reg-0611-nom-042-semarnat-2003` (Mexican standard; manifest and MX market profile updated).
 - `kr-kmvss-art18-5` filled with the official Article 18-5 (Software, OTA updates; in force 2025-08-14), with English translation and the Korean original.
 - `kr-kmvss-art18-4` held the superseded camper-vehicle text; the 14 Aug 2025 amendment moved that to Article 18-6. Record renamed to `kr-kmvss-art18-6`, and a new `kr-kmvss-art18-4` (Cybersecurity) written from the official text.
+
+## Taxonomy extension — new system/commodity tags applied
+
+| Record | Field | Before | After |
+|---|---|---|---|
+| `au-f2006l01430` | systems | ∅ | ['Dimensions & weights'] |
+| `cn-gb-1589` | systems | ∅ | ['Dimensions & weights'] |
+| `cn-gb-7258-2017` | systems | ['Braking', 'Steering', 'Lighting & signaling', 'Tires & wheels', 'Vehicle identification'] | ['Braking', 'Steering', 'Lighting & signaling', 'Tires & wheels', 'Vehicle identification', 'Dimensions & weights'] |
+| `kr-kmvss-art4` | systems | ['Visibility'] | ['Dimensions & weights'] |
+| `kr-kmvss-art6` | systems | ['Tires & wheels'] | ['Dimensions & weights'] |
+| `au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma` | systems | ['EMC', 'ADAS', 'Theft prevention'] | ['EMC', 'ADAS', 'Theft prevention', 'Radio & telecom'] |
+| `br-anatel-cert` | systems | ['EMC'] | ['EMC', 'Radio & telecom'] |
+| `ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices` | systems | ['EMC', 'ADAS', 'Theft prevention'] | ['EMC', 'ADAS', 'Theft prevention', 'Radio & telecom'] |
+| `cn-china-srrc-miit-radio-transmission-equipment-type-approval` | systems | ['EMC', 'ADAS', 'Cybersecurity', 'Theft prevention'] | ['EMC', 'ADAS', 'Cybersecurity', 'Theft prevention', 'Radio & telecom'] |
+| `eu-32014l0053` | systems | ['EMC'] | ['EMC', 'Radio & telecom'] |
+| `jp-srrv-japan-radio-equipment-technical-conformity-certification` | systems | ['EMC', 'ADAS', 'Theft prevention'] | ['EMC', 'ADAS', 'Theft prevention', 'Radio & telecom'] |
+| `kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment` | systems | ['EMC', 'ADAS', 'Theft prevention'] | ['EMC', 'ADAS', 'Theft prevention', 'Radio & telecom'] |
+| `br-contran-498` | systems | ∅ | ['Fire safety & flammability'] |
+| `br-contran-498` | commodities | ['Seats', 'Body structure'] | ['Seats', 'Body structure', 'Interior trim'] |
+| `ca-mvsr-c-r-c---c--1038-s302` | systems | ['Crashworthiness'] | ['Fire safety & flammability'] |
+| `ca-mvsr-c-r-c---c--1038-s302` | commodities | ['Seats', 'Body structure'] | ['Seats', 'Body structure', 'Interior trim'] |
+| `cn-gb-8410` | systems | ∅ | ['Fire safety & flammability'] |
+| `cn-gb-8410` | commodities | ['Seats', 'Wiring'] | ['Seats', 'Interior trim'] |
+| `gcc-gso-98-1988` | systems | ['Crashworthiness'] | ['Fire safety & flammability'] |
+| `gcc-gso-98-1988` | commodities | ['Seats'] | ['Seats', 'Interior trim'] |
+| `kr-kmvss-art95` | systems | ∅ | ['Fire safety & flammability'] |
+| `kr-kmvss-art95` | commodities | ['Seats', 'Seatbelts'] | ['Seats', 'Interior trim'] |
+| `us-fmvss-302` | systems | ['Crashworthiness'] | ['Fire safety & flammability'] |
+| `us-fmvss-302` | commodities | ['Seats', 'Seatbelts', 'Airbags'] | ['Seats', 'Interior trim'] |
+| `ece-r21` | commodities | ['Seats', 'Body structure', 'Door latches & hinges', 'Steering column', 'Bumpers'] | ['Seats', 'Body structure', 'Door latches & hinges', 'Steering column', 'Bumpers', 'Interior trim'] |
+| `gcc-gso-ece-21` | commodities | ['Seats', 'Body structure'] | ['Seats', 'Body structure', 'Interior trim'] |
+| `cn-gb-11552` | commodities | ['Body structure', 'Door latches & hinges', 'Seats'] | ['Body structure', 'Door latches & hinges', 'Seats', 'Interior trim'] |
+| `cn-gb-26572-2025` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `eu-32000l0053` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `eu-32006l0066` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `eu-32006r1907` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `eu-32023r1542` | systems | ['Battery safety'] | ['Battery safety', 'Hazardous substances & recycling'] |
+| `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `other-workbook-reg-0650-iso-22628` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `us-stub-california-proposition-65` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `us-stub-dodd-frank-section-1502-regulation-eu-2017-821` | systems | ∅ | ['Hazardous substances & recycling'] |
+| `eu-32024r0573` | systems | ['Emissions', 'HVAC'] | ['Emissions', 'HVAC', 'Hazardous substances & recycling'] |
+| `us-40cfr-part-82` | systems | ['Emissions', 'HVAC'] | ['Emissions', 'HVAC', 'Hazardous substances & recycling'] |
+| `jp-srrv-japan-automobile-recycling-law` | systems | ['HVAC', 'Restraints'] | ['HVAC', 'Hazardous substances & recycling'] |
+| `other-workbook-reg-0546-directive-2011-65-eu-rohs` | systems | ['EV charging'] | ['Hazardous substances & recycling'] |
+| `eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements` | systems | ∅ | ['Emergency call (eCall)'] |
+| `eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements` | commodities | ['ECUs', 'Wiring', 'Connectors'] | ['ECUs', 'Wiring', 'Connectors', 'Telematics unit'] |
+| `ece-r144` | systems | ['ADAS', 'Cybersecurity', 'On-board diagnostics'] | ['Emergency call (eCall)'] |
+| `ece-r144` | commodities | ['ECUs', 'Wiring', 'Connectors', 'ADAS sensors'] | ['ECUs', 'Wiring', 'Connectors', 'ADAS sensors', 'Telematics unit'] |
+| `gcc-uae-s-5019-2024` | systems | ['Tell-tales & controls'] | ['Tell-tales & controls', 'Emergency call (eCall)'] |
+| `gcc-uae-s-5019-2024` | commodities | ['ECUs', 'Wiring', 'Connectors', 'Infotainment'] | ['ECUs', 'Wiring', 'Connectors', 'Infotainment', 'Telematics unit'] |
+| `us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386` | commodities | ['ECUs', 'Infotainment', 'Connectors'] | ['ECUs', 'Infotainment', 'Connectors', 'Telematics unit'] |
+| `ece-r160` | systems | ['On-board diagnostics', 'Crashworthiness'] | ['Crashworthiness', 'Event & data recording'] |
+| `eu-32022r0545` | systems | ['Crashworthiness', 'Cybersecurity'] | ['Crashworthiness', 'Event & data recording'] |
+| `jp-jvsregs-art46-2` | systems | ['Crashworthiness', 'On-board diagnostics'] | ['Crashworthiness', 'Event & data recording'] |
+| `kr-kmvss-art56-2` | systems | ['Crashworthiness', 'Restraints'] | ['Crashworthiness', 'Event & data recording'] |
+| `kr-kmvss-art56` | systems | ∅ | ['Event & data recording'] |
+| `us-cfr-part-563` | systems | ['Crashworthiness', 'Restraints', 'On-board diagnostics'] | ['Crashworthiness', 'Event & data recording'] |
+| `cn-gb-44497` | systems | ['ADAS', 'Cybersecurity', 'Software updates', 'On-board diagnostics'] | ['ADAS', 'Cybersecurity', 'Software updates', 'On-board diagnostics', 'Event & data recording'] |
+| `au-f2007l02226` | commodities | ['Connectors'] | ['Couplings & towing'] |
+| `ece-r55` | commodities | ['Connectors'] | ['Couplings & towing'] |
+| `au-f2006l02299` | commodities | ['Wiring', 'Connectors'] | ['Wiring', 'Connectors', 'Couplings & towing'] |

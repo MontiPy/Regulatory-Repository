@@ -41,7 +41,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Automated-driving scenario, safety and AI guidance standards
 un_equivalent: []
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

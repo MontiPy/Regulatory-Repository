@@ -33,9 +33,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 110 — Tire Selection and Rims (GVWR 4,536 kg or less)
-un_equivalent_ai:
-- UN R30
-- UN R142
 vehicle_categories:
 - Passenger car
 - Light truck

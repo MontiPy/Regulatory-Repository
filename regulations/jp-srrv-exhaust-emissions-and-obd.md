@@ -38,9 +38,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Exhaust Emissions and OBD
 translation_status: translated
-un_equivalent_ai:
-- UN R83
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

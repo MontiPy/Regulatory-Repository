@@ -14,13 +14,12 @@ summary: Reference record for Korea's Act on Resource Circulation of Electrical 
   obligations are not summarised.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 438a9b706ca6bffd00947bcc2222ccf5c379b917
-systems: []
+systems:
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Korea Vehicle Resource Circulation / Recycling Requirements
 translation_status: untranslated
-un_equivalent_ai:
-- UN R133
 vehicle_categories:
 - Passenger car
 - Light truck

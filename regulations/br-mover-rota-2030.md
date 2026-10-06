@@ -39,7 +39,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework
 translation_status: untranslated
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -32,13 +32,6 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 149 — Road Illumination Devices (RID)
-un_equivalent_ai:
-- UN R19
-- UN R98
-- UN R112
-- UN R113
-- UN R119
-- UN R123
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -36,8 +36,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: RDE Requirements for PROCONVE L7/L8 Light Passenger and Commercial Vehicles
 translation_status: untranslated
-un_equivalent_ai:
-- UN R168
 vehicle_categories:
 - Passenger car
 - Light truck

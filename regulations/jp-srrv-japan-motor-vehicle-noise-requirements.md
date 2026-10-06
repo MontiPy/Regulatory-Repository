@@ -39,8 +39,6 @@ title: Japan Motor Vehicle Noise Requirements
 translation_status: translated
 un_equivalent:
 - UN R51
-un_equivalent_ai:
-- UN R138
 vehicle_categories:
 - Passenger car
 - Light truck

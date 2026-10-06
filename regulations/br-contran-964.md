@@ -31,9 +31,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Driver and Front Passenger Frontal Airbag
 translation_status: untranslated
-un_equivalent_ai:
-- UN R114
-- UN R137
 vehicle_categories:
 - Passenger car
 - Light truck

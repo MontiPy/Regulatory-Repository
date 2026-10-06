@@ -3,6 +3,7 @@ citation: CONTRAN 498/2014
 commodities:
 - Seats
 - Body structure
+- Interior trim
 id: br-contran-498
 last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags: []
@@ -15,13 +16,12 @@ summary: CONTRAN Resolution 498/2014 requires interior lining materials of natio
   of no more than 100 mm/min; test certificates recognised in the EU or USA are accepted.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 6418f5c86c793b6f1189beda250be938d8205ca0
-systems: []
+systems:
+- Fire safety & flammability
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Flammability of vehicle interior lining materials
 translation_status: untranslated
-un_equivalent_ai:
-- UN R118
 vehicle_categories:
 - Passenger car
 - Light truck

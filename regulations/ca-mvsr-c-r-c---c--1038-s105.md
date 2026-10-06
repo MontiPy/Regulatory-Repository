@@ -31,8 +31,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 105 — Hydraulic and Electric Brake Systems
-un_equivalent_ai:
-- UN R13
 vehicle_categories:
 - Light truck
 - Heavy truck

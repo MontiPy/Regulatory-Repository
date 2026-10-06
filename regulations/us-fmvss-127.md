@@ -37,8 +37,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.
-un_equivalent_ai:
-- UN R152
 vehicle_categories:
 - Passenger car
 - Light truck

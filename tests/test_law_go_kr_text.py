@@ -23,3 +23,9 @@ def test_new_article_found_without_label():
 
 def test_missing_article_returns_none():
     assert _parse_article_text(PAGE, "99") is None
+
+
+def test_ignores_supplementary_provisions():
+    page = PAGE + " 부칙 <제1234호, 2026. 6. 5.> 제18조의4(다른 법령의 개정) 부칙 내용."
+    title, _ = _parse_article_text(page, "18-4")
+    assert title.endswith("제18조의4(사이버보안)")

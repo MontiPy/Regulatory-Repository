@@ -39,6 +39,9 @@ commodities:
   - Horn
   - Wipers & washers
   - Pedals
+  - Couplings & towing
+  - Interior trim
+  - Telematics unit
 
 systems:
   - Lighting & signaling
@@ -64,6 +67,12 @@ systems:
   - Tell-tales & controls
   - On-board diagnostics
   - Software updates
+  - Emergency call (eCall)
+  - Fire safety & flammability
+  - Hazardous substances & recycling
+  - Radio & telecom
+  - Event & data recording
+  - Dimensions & weights
 
 vehicle_categories:
   - Passenger car

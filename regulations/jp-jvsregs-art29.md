@@ -32,9 +32,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 29 — Glazing
 translation_status: translated
-un_equivalent_ai:
-- UN R43
-- UN R125
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -53,6 +53,10 @@ def _parse_article_text(text: str, article: str) -> tuple[str, str] | None:
     Articles added by recent amendments are not always wrapped in <label> headings, and the page can
     list a superseded version first, so the last occurrence is the current one.
     """
+    # Supplementary provisions (부칙) restart article numbering; only search the main body.
+    addenda = re.search(r"부\s*칙\s*<", text)
+    if addenda:
+        text = text[: addenda.start()]
     pattern = re.compile(_article_label_pattern(article).pattern + r"\s*\(([^)]{1,60})\)")
     hits = list(pattern.finditer(text))
     if not hits:
@@ -72,7 +76,9 @@ def _parse_article(full_html: str, article: str) -> tuple[str, str]:
     soup = BeautifulSoup(full_html, "html.parser")
     pattern = _article_label_pattern(article)
     plain = re.sub(r"\s+", " ", soup.get_text(" "))
-    text_hits = len(re.findall(pattern.pattern + r"\s*\(", plain))
+    addenda = re.search(r"부\s*칙\s*<", plain)
+    main_text = plain[: addenda.start()] if addenda else plain
+    text_hits = len(re.findall(pattern.pattern + r"\s*\(", main_text))
     label_hits = sum(1 for lbl in soup.find_all("label") if pattern.search(lbl.get_text()))
     if text_hits > label_hits:
         parsed = _parse_article_text(plain, article)

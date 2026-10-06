@@ -34,13 +34,10 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c36c4acf9dc61c04bedbf920d593a969ec81ba34
 systems:
 - Crashworthiness
-- Restraints
-- On-board diagnostics
+- Event & data recording
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 563—EVENT DATA RECORDERS
-un_equivalent_ai:
-- UN R160
 vehicle_categories:
 - Passenger car
 - Light truck

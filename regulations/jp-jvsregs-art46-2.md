@@ -29,13 +29,11 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eb837d30ad066aa1786d1bb7859392394a8fefca
 systems:
 - Crashworthiness
-- On-board diagnostics
+- Event & data recording
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 46_2 — Accident Data Recorder
 translation_status: translated
-un_equivalent_ai:
-- UN R160
 vehicle_categories:
 - Passenger car
 - Light truck

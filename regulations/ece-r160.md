@@ -27,8 +27,8 @@ summary: UN Regulation No. 160 (01 series) covers approval of vehicles of catego
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a99284dbca9029f43e9554fda197df97f984085f
 systems:
-- On-board diagnostics
 - Crashworthiness
+- Event & data recording
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 160 — Event Data Recorders (EDR)

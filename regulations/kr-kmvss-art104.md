@@ -35,8 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 104 — Door System
 translation_status: translated
-un_equivalent_ai:
-- UN R11
 vehicle_categories:
 - Passenger car
 - Light truck

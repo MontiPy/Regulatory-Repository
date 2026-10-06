@@ -37,9 +37,6 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 101 — Controls and Displays (TSD 101)
-un_equivalent_ai:
-- UN R121
-- UN R39
 vehicle_categories:
 - Passenger car
 - Light truck

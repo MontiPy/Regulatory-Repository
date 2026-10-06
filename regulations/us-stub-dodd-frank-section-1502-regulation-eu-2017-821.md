@@ -34,7 +34,8 @@ summary: Dodd-Frank Section 1502 (SEC Rule 13p-1, Form SD) requires SEC-register
   only through supply-chain declarations.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 12e4c70a70da2871e4a65d9c8fe0ba78573a8e2c
-systems: []
+systems:
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Conflict-minerals due diligence — US Dodd-Frank §1502 (SEC Rule 13p-1) and

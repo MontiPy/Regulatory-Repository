@@ -33,8 +33,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.121 Standard No. 121; Air brake systems.
-un_equivalent_ai:
-- UN R13
 vehicle_categories:
 - Heavy truck
 - Bus

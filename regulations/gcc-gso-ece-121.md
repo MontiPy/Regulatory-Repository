@@ -26,8 +26,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Identification of Controls, Telltales and Indicators
 translation_status: untranslated
-un_equivalent_ai:
-- UN R121
 vehicle_categories:
 - Passenger car
 - Light truck

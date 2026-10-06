@@ -30,8 +30,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Rear-view Mirrors
 translation_status: untranslated
-un_equivalent_ai:
-- UN R46
 vehicle_categories:
 - Passenger car
 - Light truck

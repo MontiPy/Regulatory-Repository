@@ -46,11 +46,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 17_2 — Electrical Devices
 translation_status: translated
-un_equivalent_ai:
-- UN R10
-- UN R155
-- UN R156
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -33,8 +33,6 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.227 Standard No. 227; Bus rollover structural integrity.
-un_equivalent_ai:
-- UN R66
 vehicle_categories:
 - Bus
 ---

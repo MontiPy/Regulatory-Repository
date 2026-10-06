@@ -39,7 +39,6 @@ tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
 un_equivalent:
 - UN R83
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

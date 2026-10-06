@@ -37,7 +37,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 591—IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER
   AND THEFT PREVENTION STANDARDS
-un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

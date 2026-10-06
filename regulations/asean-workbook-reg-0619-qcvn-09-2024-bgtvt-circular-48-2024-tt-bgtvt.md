@@ -45,9 +45,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Vietnam technical and environmental safety requirements for vehicles
 translation_status: untranslated
-un_equivalent_ai:
-- UN R83
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -3,6 +3,7 @@ citation: GSO-ECE 21
 commodities:
 - Seats
 - Body structure
+- Interior trim
 id: gcc-gso-ece-21
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:
@@ -34,8 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Interior Fittings
 translation_status: untranslated
-un_equivalent_ai:
-- UN R21
 vehicle_categories:
 - Passenger car
 - Light truck

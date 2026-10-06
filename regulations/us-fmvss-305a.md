@@ -47,8 +47,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: '§ 571.305a Standard No. 305a; electric-powered vehicles: Electric powertrain
   integrity; mandatory applicability begins on September 1, 2027.'
-un_equivalent_ai:
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

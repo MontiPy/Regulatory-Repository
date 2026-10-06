@@ -32,9 +32,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 106 — Brake Hoses
-un_equivalent_ai:
-- UN R13
-- UN R13H
 vehicle_categories:
 - Passenger car
 - Light truck

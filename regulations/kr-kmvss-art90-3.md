@@ -35,9 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 90-3 — Emergency Autonomous Braking System Performance Standards
 translation_status: translated
-un_equivalent_ai:
-- UN R152
-- UN R131
 vehicle_categories:
 - Passenger car
 - Light truck

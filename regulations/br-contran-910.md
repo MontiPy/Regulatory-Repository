@@ -46,8 +46,6 @@ un_equivalent:
 - UN R32
 - UN R34
 - UN R94
-un_equivalent_ai:
-- UN R153
 vehicle_categories:
 - Passenger car
 - Light truck

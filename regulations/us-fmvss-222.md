@@ -35,9 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.222 Standard No. 222; School bus passenger seating and crash protection.
-un_equivalent_ai:
-- UN R16
-- UN R17
 vehicle_categories:
 - Bus
 ---

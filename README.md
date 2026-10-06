@@ -42,12 +42,15 @@ adjudication; see [`review/REPORT.md`](review/REPORT.md) and the change log
 
 - **Only about 45 % of records hold the regulation text itself.** The build classifies every body
   (`content_kind`): `full` (regulation text), `summary` (curated/AI-written description), `index`
-  (the source site's landing page only — all Australian ADRs today) or `link` (a pointer only — all
-  UN Regulations today). Cards are labelled ("Summary only", "Link only", "Index page only"), the
+  (the source site's landing page only) or `link` (a pointer only). After the 2026-10 re-pull,
+  486 records hold full text (UN Regulations via the EU Official Journal, Australian ADRs via the
+  FRL API). Cards are labelled ("Summary only", "Link only", "Index page only"), the
   reader shows a "Not the regulation text" banner, and the **Availability** filter can narrow
   results to full regulation text.
-- **Machine-suggested UN equivalents (`un_equivalent_ai`) are unreliable** — the review found
-  hundreds of wrong mappings. They are shown separately with a warning; verify before use.
+- **UN equivalents are only those the regulation itself states** (`un_equivalent`, e.g. an ADR's
+  "alternative standards" clause, or a GSO/GB standard that adopts a UN Regulation). Machine-suggested
+  equivalents were removed in 2026-10 after the review found hundreds of wrong mappings; the removed
+  values are kept in `review/removed_un_equivalent_ai.json` for anyone re-checking them.
 - **Status** now distinguishes `upcoming` (adopted, not yet applicable) and carries an optional
   `status_note` for nuance (e.g. "being superseded by ADR 79/05", "federal waiver revoked, in
   litigation").
@@ -254,9 +257,9 @@ Regulatory Repository/
 
 Four search facets, controlled vocabularies, AND across facets / OR within:
 
-**Commodities** (Tier 1/2 supplier perspective): Seats, Glass, Lighting modules, Tires, Brakes, Airbags, Seatbelts, Mirrors, Wheels, Wiring, ECUs, ADAS sensors, Batteries, Electric motors, Fuel system, Exhaust, HVAC, Infotainment, Body structure, Bumpers, Door latches & hinges, Steering column, Suspension, Fuel tanks, Hoses & lines, Connectors, Charging inlet, Power electronics, Horn, Wipers & washers, Pedals
+**Commodities** (Tier 1/2 supplier perspective): Seats, Glass, Lighting modules, Tires, Brakes, Airbags, Seatbelts, Mirrors, Wheels, Wiring, ECUs, ADAS sensors, Batteries, Electric motors, Fuel system, Exhaust, HVAC, Infotainment, Body structure, Bumpers, Door latches & hinges, Steering column, Suspension, Fuel tanks, Hoses & lines, Connectors, Charging inlet, Power electronics, Horn, Wipers & washers, Pedals, Couplings & towing, Interior trim, Telematics unit
 
-**Systems**: Lighting & signaling, Braking, Steering, Tires & wheels, Crashworthiness, Restraints, Visibility, Emissions, Fuel safety, EMC, EV charging, Battery safety, ADAS, Cybersecurity, Noise, Glazing, HVAC, Vehicle identification, Pedestrian protection, Theft prevention, Tell-tales & controls, On-board diagnostics, Software updates
+**Systems**: Lighting & signaling, Braking, Steering, Tires & wheels, Crashworthiness, Restraints, Visibility, Emissions, Fuel safety, EMC, EV charging, Battery safety, ADAS, Cybersecurity, Noise, Glazing, HVAC, Vehicle identification, Pedestrian protection, Theft prevention, Tell-tales & controls, On-board diagnostics, Software updates, Emergency call (eCall), Fire safety & flammability, Hazardous substances & recycling, Radio & telecom, Event & data recording, Dimensions & weights
 
 **Vehicle categories**: Passenger car, Light truck, Heavy truck, Motorcycle, Bus, Trailer, Off-road
 

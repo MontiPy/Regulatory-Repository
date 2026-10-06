@@ -32,7 +32,7 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 27ec2346fd20b6b022eb7415fef55312d8af2f34
 systems:
 - HVAC
-- Restraints
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Japan Automobile Recycling Law
