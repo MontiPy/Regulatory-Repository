@@ -6,7 +6,7 @@
   regions: [EU, ECE]
   aliases: [Europe, EU27, WVTA, Germany, France, Italy, Spain, Netherlands, Belgium, Poland, Sweden, Austria, Czechia, Czech Republic, Hungary, Romania, Portugal, Greece, Ireland, Denmark, Finland, Slovakia, Slovenia, Croatia, Bulgaria, Lithuania, Latvia, Estonia, Luxembourg, Cyprus, Malta, KBA, UTAC, RDW, IDIADA]
   members: ["Germany (E1)", "France (E2)", "Italy (E3)", "Netherlands (E4)", "Sweden (E5)", "Belgium (E6)", "Hungary (E7)", "Czechia (E8)", "Spain (E9)", "Austria (E12)", "Luxembourg (E13)", "Finland (E17)", "Denmark (E18)", "Romania (E19)", "Poland (E20)", "Portugal (E21)", "Greece (E23)", "Ireland (E24)", "Croatia (E25)", "Slovenia (E26)", "Slovakia (E27)", "Estonia (E29)", "Latvia (E32)", "Bulgaria (E34)", "Lithuania (E36)", "Cyprus (E49)", "Malta (E50)"]
-  drive: LHD
+  drive: mixed
   regime: type-approval
   basis: "EU Whole Vehicle Type Approval — Regulation (EU) 2018/858 framework; General Safety Regulation (EU) 2019/2144; UN Regulations made mandatory via Annex I of 2019/2144; Euro 6 (715/2007 & 2017/1151) → Euro 7 (EU) 2024/1257; CO2 (EU) 2019/631"
   un_1958: true
@@ -153,7 +153,7 @@
   un_1958: true
   un_1998: null
   authorities:
-    - { name: "Serbia — Agency for Safety in Traffic / Ministry of Interior (homologation)", scope: "Vehicle homologation", url: "https://www.abs.gov.rs" }
+    - { name: "Serbia — Road Traffic Safety Agency (ABS)", scope: "Vehicle homologation; technical services authorised by the transport ministry", url: "https://www.abs.gov.rs" }
   accepts: ["EU WVTA / CoC", "UN R approvals"]
   marks: ["National homologation certificate based on CoC"]
   emissions: "Euro 6 (most), Euro 5 references in some"
@@ -190,7 +190,7 @@
     - "EPTS created per vehicle; emergency call system certified (ERA-GLONASS in Russia)."
   notes:
     - "SANCTIONS: EU/US/UK/Japanese export controls and sanctions restrict vehicle and component exports to Russia and Belarus — consult trade compliance before any work."
-    - "Kyrgyzstan's 1958 Agreement accession was reported in 2025."
+    - "Kyrgyzstan is reported as a 1958 Agreement CP (accession reported 21 Aug 2023 — verify at UNECE)."
   records: [eaeu-workbook-reg-0613-tr-cu-018-2011, eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements]
   confidence: medium
 
@@ -213,7 +213,7 @@
   language: National languages / Russian
   process: ["National certificate of conformity per vehicle type; check import rules."]
   notes:
-    - "Uzbekistan's 1958 Agreement accession was reported in 2025; Tajikistan is a 1958 Agreement CP — verify current status at UNECE."
+    - "Uzbekistan acceded to the 1958 Agreement (reported 20 Oct 2025, also the 1998 Agreement) and Mongolia's accession is reported for 29 Apr 2026; Tajikistan and Turkmenistan status not confirmed — verify all at UNECE."
     - "Mongolia drives on the right but permits RHD (Japanese-used) imports."
   records: []
   confidence: low

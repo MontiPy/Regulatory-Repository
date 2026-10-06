@@ -38,7 +38,7 @@ tagging_status: llm-tagged
 title: Braking System of Passenger Cars and Multi Purpose Vehicles
 translation_status: untranslated
 un_equivalent:
-- UN R13
+- UN R13H
 un_equivalent_ai:
 - UN R13H
 - UN R140

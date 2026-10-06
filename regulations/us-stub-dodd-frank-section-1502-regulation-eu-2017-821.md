@@ -32,12 +32,11 @@ summary: Conflict minerals and responsible sourcing rules require in-scope U.S. 
   through supplier declarations, smelter/refiner data, and compliance reporting....
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 12e4c70a70da2871e4a65d9c8fe0ba78573a8e2c
-systems:
-- Battery safety
-- EV charging
+systems: []
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: Conflict minerals and responsible sourcing due-diligence frameworks
+title: Conflict-minerals due diligence — US Dodd-Frank §1502 (SEC Rule 13p-1) and
+  EU Regulation 2017/821 (two separate instruments)
 vehicle_categories:
 - Passenger car
 - Light truck

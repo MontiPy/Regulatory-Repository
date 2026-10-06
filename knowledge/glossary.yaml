@@ -88,7 +88,7 @@
   markets: [US]
 
 - term: CMVSS
-  definition: "Canada Motor Vehicle Safety Standards in Schedule IV of the Motor Vehicle Safety Regulations; numbering mirrors FMVSS with Canadian-unique standards (e.g. 108 DRL, 114 immobilizer)."
+  definition: "Canada Motor Vehicle Safety Standards in Schedule III of the Motor Vehicle Safety Regulations (C.R.C., c. 1038); numbering mirrors FMVSS with Canadian-unique standards (e.g. 108 DRL, 114 immobilizer)."
   markets: [CA]
 
 - term: Part 567 certification label

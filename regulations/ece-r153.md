@@ -22,23 +22,22 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
-summary: The full regulatory text was not provided, so only what is plainly established
-  can be stated. UN Regulation No. 153 addresses fuel system integrity in passenger
-  vehicles during a frontal collision, requiring that fuel systems meet specified
-  standards to prevent fuel leakage or failure upon frontal impact.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 5260c33f1e5a71fd3ac09976bfaa0004037a2e93
+summary: UN R153 covers the integrity of the fuel system and the safety of the high-voltage
+  electric power train of M1 and N1 vehicles after a rear-end collision.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: c62605df661a015cc419cdf2e91e8f1449bdc4a0
 systems:
 - Fuel safety
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 153 — Fuel System Integrity in a Frontal Collision
+title: UN Regulation No. 153 — Fuel System Integrity and Electric Power Train Safety
+  in a Rear-End Collision
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-# UN Regulation No. 153 — Fuel System Integrity in a Frontal Collision
+# UN Regulation No. 153 — Fuel System Integrity and Electric Power Train Safety in a Rear-End Collision
 
 See the [UNECE WP.29 Regulations index](https://unece.org/transport/vehicle-regulations-wp29/Regulations) for the full text of UN Regulation No. 153.

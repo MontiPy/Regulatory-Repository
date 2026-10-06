@@ -2,9 +2,6 @@
 citation: GSO-ECE 46
 commodities:
 - Mirrors
-- Lighting modules
-- Wiring
-- ECUs
 id: gcc-gso-ece-46
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:
@@ -25,22 +22,18 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Mirrors and camera-monitor systems used as devices for indirect vision are
-  regulated under this GCC standard to ensure adequate visibility, clear signaling
-  of driver intent, and proper road illumination without glare. Compliance requires
-  conformance in light color, intensity, aim, and tell-tale logic, while avoiding...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: 'GSO-ECE 46 adopts UN R46 on devices for indirect vision (mirrors and camera-monitor
+  systems): fields of view, installation and performance.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d65fb07175018782fefc9d9d26e70bddfc55aedc
 systems:
 - Visibility
-- Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Devices for Indirect Vision
 translation_status: untranslated
 un_equivalent_ai:
 - UN R46
-- UN R48
 vehicle_categories:
 - Passenger car
 - Light truck

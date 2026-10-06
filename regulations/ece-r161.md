@@ -1,9 +1,8 @@
 ---
 citation: UN R161
 commodities:
-- Pedals
+- Steering column
 - ECUs
-- ADAS sensors
 id: ece-r161
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:
@@ -21,23 +20,21 @@ region: ECE
 source_api: unece
 source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
 status: in-force
-summary: Pedal misapplication mitigation systems are the subject of this regulation,
-  but the provided text contains only a reference link to the full regulatory text
-  rather than its substantive requirements, so no specific mandates or performance
-  criteria can be summarized from the content given.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 3c212fb923cacd1dcfcdf40d6a6c43c0d666d54e
+summary: UN R161 sets uniform provisions for protecting motor vehicles against unauthorized
+  use and for approving the locking device used for this purpose. (Pedal-misapplication
+  control is UN R175.)
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 3aa9dc7046b09cff55e9217d1fb3c0b38cbe6fa4
 systems:
-- ADAS
-- Braking
+- Theft prevention
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 161 — Pedal Misapplication Mitigation Systems
+title: UN Regulation No. 161 — Devices against Unauthorized Use
 vehicle_categories:
 - Passenger car
 - Light truck
 ---
 
-# UN Regulation No. 161 — Pedal Misapplication Mitigation Systems
+# UN Regulation No. 161 — Devices against Unauthorized Use
 
 See the [UNECE WP.29 Regulations index](https://unece.org/transport/vehicle-regulations-wp29/Regulations) for the full text of UN Regulation No. 161.

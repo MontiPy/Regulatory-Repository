@@ -28,7 +28,8 @@ paywall: true
 region: GCC
 source_api: spreadsheet
 source_url: https://www.tuv.com/regulations-and-standards/en/gso-technical-requirements-for-electric-vehicle.html
-status: in-force
+status: proposed
+status_note: Draft technical regulation — not yet in force.
 summary: Battery electric vehicles capable of exceeding 25 km/h and their associated
   high-voltage systems — including the REESS/battery, contactors, inverters, and service
   disconnect — are regulated to prevent fire, explosion, electric shock, and hazardous

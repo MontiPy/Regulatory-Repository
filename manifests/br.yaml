@@ -133,12 +133,6 @@ records:
     url_type: stub
 
   # ── Warning Devices ───────────────────────────────────────────────────────────
-  - id: br-contran-827
-    title: Horn / Audible Warning Device
-    citation: "CONTRAN 827/1998"
-    source_url: "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/"
-    url_type: atic
-
   # ── EV / Alternative Powertrains ─────────────────────────────────────────────
   - id: br-contran-749
     title: Specific Requirements for Hybrid, Plug-in Hybrid and Electric Vehicles

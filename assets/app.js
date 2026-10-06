@@ -13,7 +13,7 @@
       { key: "systems",            label: "System",           taxonomyKey: "systems",              tooltip: "The functional vehicle system the regulation governs, e.g. braking, ADAS, or emissions. Higher-level grouping than Commodity." },
       { key: "commodities",        label: "Commodity",        taxonomyKey: "commodities",          tooltip: "The specific physical part or component targeted, e.g. airbags, tires, or charging inlet. More granular than System — a single regulation may cover several commodities." },
       { key: "vehicle_categories", label: "Vehicle Category", taxonomyKey: "vehicle_categories",   tooltip: "The type of vehicle the regulation applies to." },
-      { key: "status",             label: "Status",           taxonomyKey: "statuses",             tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Proposed (open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
+      { key: "status",             label: "Status",           taxonomyKey: "statuses",             tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Upcoming (adopted but not yet applicable), Proposed (draft / open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
       { key: "tagging_status",     label: "Tagging Status",   taxonomyKey: "tagging_statuses",     tooltip: "Whether the regulation has been classified with metadata (systems, commodities, vehicle categories). Untagged = not yet processed; LLM-tagged = classified automatically." },
       { key: "translation_status", label: "Translation",      taxonomyKey: "translation_statuses", tooltip: "Whether the regulation text has been translated to English. Untranslated = original language only." },
     ];
@@ -295,6 +295,7 @@
     function readerTrustHtml(record) {
       const chips = [];
       if (record.status) chips.push(`<span class="reader-trust-chip">${escapeHtml(displayLabel(record.status))}</span>`);
+      if (record.status_note) chips.push(`<span class="reader-trust-chip status-note">${escapeHtml(record.status_note)}</span>`);
       if (record.citation) chips.push(`<span class="reader-trust-chip">${escapeHtml(record.citation)}</span>`);
       if (record.source_url) chips.push(`<span class="reader-trust-chip source">Source: ${sourceLinkHtml(record)}</span>`);
       if (record.last_pulled) chips.push(`<span class="reader-trust-chip">Pulled ${escapeHtml(record.last_pulled.slice(0, 10))}</span>`);

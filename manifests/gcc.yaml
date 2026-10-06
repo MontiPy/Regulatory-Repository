@@ -183,9 +183,6 @@ records:
 - id: gcc-saso-saber-fuel-economy-label-for-new-light-vehicles
   citation: SASO SABER / Fuel Economy Label for New Light Vehicles
   source_url: https://saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?serviceid=419
-- id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
-  citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
-  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
 - id: gcc-uae-s-5019-2024
   citation: UAE.S 5019:2024
   source_url: https://uaelegislation.gov.ae/en/legislations/2548

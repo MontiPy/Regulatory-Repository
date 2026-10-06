@@ -1,5 +1,5 @@
 ---
-citation: SRRV / TRIAS / UN R136
+citation: SRRV / TRIAS / UN R100
 commodities:
 - Batteries
 - Wiring

@@ -19,7 +19,7 @@
     - "SABER Product Certificate of Conformity (PCoC) per model + Shipment Certificate (SCoC) per consignment"
     - "Fuel-economy label (SASO 2847) and CAFE compliance (SASO 2864)"
     - "Arabic labels/owner info; GCC-spec climate requirements"
-  emissions: "GSO Euro-level limits (MY2027 step to Euro 6-equivalent per GSO plan — verify)"
+  emissions: "GSO MY2027 step: Euro 5 limits for Saudi Arabia (Euro 6b applies in the UAE) — per the GSO MY2027 emission-limit record; verify dates"
   language: Arabic (English accepted alongside)
   process:
     - "Notified body issues PCoC via SABER against the Saudi vehicle technical regulation; register importer/manufacturer CAFE fleet data."
@@ -42,11 +42,11 @@
     - { name: MOIAT (Ministry of Industry & Advanced Technology), scope: "ECAS conformity certificates for vehicles/tyres/EVs; UAE.S standards", url: "https://moiat.gov.ae" }
     - { name: TDRA, scope: "RF equipment registration", url: "https://tdra.gov.ae" }
   accepts: ["UN R / FMVSS evidence via GSO standards"]
-  marks: ["ECAS vehicle conformity certificate", "UAE fuel-economy label", "eCall (UAE.S 5019) compliance"]
-  emissions: "Euro 4–6 references per GSO plan"
+  marks: ["ECAS vehicle conformity certificate", "UAE fuel-economy label (standard number not verified)", "eCall (UAE.S 5019) compliance"]
+  emissions: "Euro 6b under the GSO MY2027 step (reported from Jan 2026 — verify)"
   language: Arabic / English
   process: ["Obtain MOIAT conformity certificate (ECAS) per model before registration; TDRA approval for radios."]
-  records: [gcc-ecas-moiat-conformity-certificates, gcc-uae-s-5019-2024, gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011]
+  records: [gcc-ecas-moiat-conformity-certificates, gcc-uae-s-5019-2024]
   confidence: medium
 
 - code: GCC-OTHER
@@ -65,7 +65,7 @@
     - { name: "National standards bodies (Kuwait PAI/KUCAS, Qatar MoCI, Bahrain MoIC, Oman MoCIIP)", scope: "National conformity procedures", url: "https://www.gso.org.sa" }
   accepts: ["UN R / FMVSS evidence via GSO standards"]
   marks: ["GCC/national conformity certificate"]
-  emissions: "GSO Euro-level limits"
+  emissions: "GSO MY2027 step: Euro 5 for Kuwait per the GSO record; Qatar, Bahrain, Oman not verified"
   language: Arabic / English
   process: ["Conformity certification per GSO regulation; national registration."]
   records: [gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3, gcc-gso-42-2015]
@@ -92,11 +92,11 @@
   confidence: low
 
 - code: LEVANT
-  name: Jordan, Lebanon, Iraq
+  name: Jordan, Lebanon, Iraq, Syria
   group: Middle East
   regions: []
-  aliases: [Jordan, Lebanon, Iraq, JSMO, COSQC]
-  members: [Jordan, Lebanon, Iraq]
+  aliases: [Jordan, Lebanon, Iraq, Syria, JSMO, COSQC]
+  members: [Jordan, Lebanon, Iraq, Syria]
   drive: LHD
   regime: registration-inspection
   basis: "National standards (Jordan JSMO technical regulations referencing GSO/UN R; Iraq COSQC with pre-shipment verification)"
@@ -110,18 +110,19 @@
   emissions: "Euro 2–5 references"
   language: Arabic
   process: ["Pre-shipment/import conformity verification; registration."]
+  notes: ["Syria: US comprehensive sanctions were revoked (EO 14312, effective 1 Jul 2025) and the EU lifted economic sanctions (May 2025); targeted listings and export controls remain — check with trade compliance."]
   records: []
   confidence: low
 
 - code: SANCTIONED
-  name: Iran, Syria, North Korea, Cuba, Yemen (restricted / sanctioned)
+  name: Iran, North Korea, Cuba, Yemen (restricted / sanctioned)
   group: Middle East
   regions: []
-  aliases: [Iran, Syria, North Korea, Cuba, Yemen]
-  members: [Iran, Syria, North Korea (DPRK), Cuba, Yemen]
-  drive: mixed
+  aliases: [Iran, North Korea, Cuba, Yemen]
+  members: [Iran, North Korea (DPRK), Cuba, Yemen]
+  drive: LHD
   regime: restricted
-  basis: "Comprehensive or sectoral sanctions (US OFAC, EU, UK, UN) restrict vehicle/part exports and engagement"
+  basis: "Sanctions restrict vehicle/part exports and engagement — regimes differ: Iran and North Korea (UN, US, EU, UK); Cuba (US embargo only); Yemen (targeted listings)"
   un_1958: null
   un_1998: null
   authorities:
@@ -201,7 +202,7 @@
   emissions: "Euro 4–6 references"
   language: Arabic / French
   process: ["National homologation using EU/UN documentation; Algeria has periodic import quotas/restrictions — verify."]
-  notes: ["Tunisia is a 1958 Agreement CP (E58); Morocco and Algeria status unverified here."]
+  notes: ["Tunisia is a 1958 Agreement CP (E58) and reported 1998 Agreement CP; Morocco and Algeria status unverified here."]
   records: []
   confidence: low
 
@@ -213,7 +214,7 @@
   drive: LHD
   regime: registration-inspection
   basis: "SON product conformity (SONCAP) and Nigerian Industrial Standards; NADDC automotive policy"
-  un_1958: null
+  un_1958: true
   un_1998: null
   authorities:
     - { name: Standards Organisation of Nigeria (SON), scope: "SONCAP certificates for imports", url: "https://son.gov.ng" }
@@ -223,7 +224,7 @@
   emissions: "Euro 2–4 references"
   language: English
   process: ["SONCAP product certificate + shipment certificate; registration."]
-  notes: ["Nigeria's 1958 Agreement accession status should be checked at UNECE."]
+  notes: ["Nigeria is a 1958 Agreement CP (E63); SONCAP remains the import conformity route and does not itself rest on E-mark approvals."]
   records: []
   confidence: low
 
@@ -232,7 +233,7 @@
   group: Africa
   regions: []
   aliases: [Kenya, Tanzania, Uganda, Rwanda, Ethiopia, KEBS, PVoC, TBS, UNBS]
-  members: [Kenya, Tanzania, "Uganda (1958 CP, reported)", Rwanda, Ethiopia]
+  members: [Kenya, Tanzania, Uganda, Rwanda, Ethiopia]
   drive: mixed
   regime: registration-inspection
   basis: "Pre-export Verification of Conformity (PVoC) by national bureaus of standards; road-worthiness standards (e.g. Kenya KS 1515); used-import age limits"

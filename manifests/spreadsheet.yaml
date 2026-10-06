@@ -837,14 +837,6 @@ records:
   citation: SASO 2847 / SASO 2864:2022
   title: Saudi Fuel Economy Labeling and CAFE
   source_url: https://www.saso.gov.sa/ar/sectors/certificates/efficiency_card/Documents/FINAL_REPORT_2024.pdf
-- id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
-  workbook_id: REG-0457
-  market_family: GCC / Middle East
-  region_body: GCC / GSO
-  region: GCC
-  citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
-  title: UAE Fuel Economy Program / Labeling
-  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
 - id: cn-cnca-c11-01-2020
   workbook_id: REG-0463
   market_family: China

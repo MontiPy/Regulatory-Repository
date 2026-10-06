@@ -32,7 +32,7 @@ tagging_status: llm-tagged
 title: JVSR Article 43_7 — Vehicle Approach Warning Device
 translation_status: translated
 un_equivalent_ai:
-- UN R159
+- UN R138
 vehicle_categories:
 - Passenger car
 - Light truck
