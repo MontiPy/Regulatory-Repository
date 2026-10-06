@@ -271,6 +271,29 @@ def clean_body(content: str, source_api: str) -> str:
     return "\n".join(lines).strip()
 
 
+# What a record's body actually contains — drives the UI's "Full text" label.
+#   full    — regulation text (even a short one-paragraph article)
+#   summary — curated/AI-written template description, not the instrument's text
+#   index   — the source site's landing page / table of contents only
+#   link    — a pointer to the official source (or a fetch error page)
+CONTENT_KINDS = ("full", "summary", "index", "link")
+_TEMPLATE_MARKERS = ("**Regulated Area:**", "## Key Compliance Intent", "**Regulatory Domain:**")
+_INDEX_MARKERS = ("Save this title to My Account", "Set up an alert")
+_LINK_PHRASES = ("full text", "official source", "excerpt from the eur-lex", "document does not exist")
+
+
+def content_kind(cleaned_body: str) -> str:
+    text = cleaned_body.strip()
+    if any(marker in text for marker in _TEMPLATE_MARKERS):
+        return "summary"
+    if any(marker in text for marker in _INDEX_MARKERS):
+        return "index"
+    lower = text.lower()
+    if len(text) < 100 or (len(text) < 1500 and any(p in lower for p in _LINK_PHRASES)):
+        return "link"
+    return "full"
+
+
 def _body_hash(cleaned_body: str) -> str:
     """SHA-1 of the cleaned body — the stable key for summary staleness."""
     return hashlib.sha1(cleaned_body.encode("utf-8")).hexdigest()
@@ -456,6 +479,7 @@ def build_record(path: Path, taxonomy_sets: dict[str, set[str]], draft: bool) ->
         "paywall": bool(metadata.get("paywall", False)),
         "translation_status": stringify(metadata.get("translation_status", "")),
         "body_html": body_html,
+        "content_kind": content_kind(cleaned_body),
         "summary_text": authored_summary or summarize(body_html),
         "summary_ai": summary_ai,
         "summary_stale": summary_stale,
