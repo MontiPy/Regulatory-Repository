@@ -1,0 +1,16 @@
+{
+ "shard": "cw-01",
+ "kind": "crosswalk",
+ "items": [
+  "approval-framework",
+  "vin",
+  "certification-label",
+  "recalls",
+  "frontal-full",
+  "frontal-offset",
+  "side-mdb",
+  "side-pole",
+  "rear-impact",
+  "roof-crush"
+ ]
+}

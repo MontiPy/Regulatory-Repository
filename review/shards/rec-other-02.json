@@ -1,0 +1,17 @@
+{
+ "shard": "rec-other-02",
+ "kind": "records",
+ "items": [
+  "other-workbook-reg-0647-automotive-spice-aspice",
+  "other-workbook-reg-0648-iso-6469-series",
+  "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3",
+  "other-workbook-reg-0650-iso-22628",
+  "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+  "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+  "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+  "tw-vehicle-safety-type-approval-dgst",
+  "us-stub-nom-042-semarnat-2003",
+  "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+  "za-workbook-reg-0623-vc-8056"
+ ]
+}

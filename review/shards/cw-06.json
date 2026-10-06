@@ -1,0 +1,16 @@
+{
+ "shard": "cw-06",
+ "kind": "crosswalk",
+ "items": [
+  "flammability",
+  "hood-latch",
+  "accelerator-control",
+  "dimensions",
+  "ev-electrical-safety",
+  "ev-post-crash",
+  "reess",
+  "hydrogen",
+  "exhaust-emissions",
+  "co2-fuel-economy"
+ ]
+}

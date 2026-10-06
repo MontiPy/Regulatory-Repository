@@ -1,0 +1,12 @@
+{
+ "shard": "mk-06",
+ "kind": "markets",
+ "items": [
+  "EFTA",
+  "TR",
+  "UA",
+  "BALKANS",
+  "EAEU",
+  "CENTRAL-ASIA"
+ ]
+}

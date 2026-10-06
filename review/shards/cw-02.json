@@ -1,0 +1,16 @@
+{
+ "shard": "cw-02",
+ "kind": "crosswalk",
+ "items": [
+  "pedestrian",
+  "interior-impact",
+  "steering-impact",
+  "edr",
+  "seat-belts",
+  "belt-anchorages",
+  "seat-belt-reminder",
+  "seats",
+  "head-restraints",
+  "isofix"
+ ]
+}

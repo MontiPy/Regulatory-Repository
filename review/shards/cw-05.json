@@ -1,0 +1,16 @@
+{
+ "shard": "cw-05",
+ "kind": "crosswalk",
+ "items": [
+  "speedometer",
+  "horn",
+  "avas",
+  "tyres",
+  "tyre-installation",
+  "tpms",
+  "door-latches",
+  "external-projections",
+  "bumpers",
+  "power-windows"
+ ]
+}

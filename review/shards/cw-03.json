@@ -1,0 +1,16 @@
+{
+ "shard": "cw-03",
+ "kind": "crosswalk",
+ "items": [
+  "child-restraints",
+  "child-presence",
+  "brakes",
+  "esc",
+  "brake-assist",
+  "aeb",
+  "lane-keeping",
+  "isa",
+  "driver-monitoring",
+  "automated-driving"
+ ]
+}

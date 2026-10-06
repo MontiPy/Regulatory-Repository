@@ -1,0 +1,12 @@
+{
+ "shard": "mk-05",
+ "kind": "markets",
+ "items": [
+  "ASEAN-OTHER",
+  "AU",
+  "NZ",
+  "PACIFIC",
+  "EU",
+  "GB"
+ ]
+}
