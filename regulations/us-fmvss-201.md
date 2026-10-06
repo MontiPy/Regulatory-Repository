@@ -35,9 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.201 Standard No. 201; Occupant protection in interior impact.
-un_equivalent_ai:
-- UN R21
-- UN R94
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -1,0 +1,12 @@
+{
+ "shard": "mk-08",
+ "kind": "markets",
+ "items": [
+  "ZA",
+  "EG",
+  "MAGHREB",
+  "NG",
+  "EAST-AFRICA",
+  "AFRICA-OTHER"
+ ]
+}

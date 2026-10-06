@@ -1,0 +1,205 @@
+{
+ "shard": "cw-06",
+ "reviewed": [
+  "flammability",
+  "hood-latch",
+  "accelerator-control",
+  "dimensions",
+  "ev-electrical-safety",
+  "ev-post-crash",
+  "reess",
+  "hydrogen",
+  "exhaust-emissions",
+  "co2-fuel-economy"
+ ],
+ "findings": [
+  {
+   "id": "hood-latch",
+   "field": "cells.BR.cite / cells.BR.records",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "CONTRAN 498/2014 -> br-contran-498 (hood latch)",
+   "proposed": "Replace with CONTRAN 426/2012 (hood two-stage lock / secondary latch); CONTRAN 498/2014 is the interior-material flammability resolution (see flammability BR)",
+   "evidence": "LegisWeb/gov.br search: 'Resolucao CONTRAN 498 de 29/07/2014 addresses requirements applicable to internal cabin lining materials ... flame propagation speed no more than 100 mm/min'; 'the regulation that does cover hood locking (trava do capo) is Resolucao CONTRAN 426 de 05/12/2012 ... two-stage locking system or a second lock'. Repo record br-contran-498 is titled 'Cover / Hood Latch' with no regulation text.",
+   "evidence_url": "https://www.legisweb.com.br/legislacao/?id=273318",
+   "confidence": "medium"
+  },
+  {
+   "id": "flammability",
+   "field": "cells.BR (missing)",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "No BR cell",
+   "proposed": "Add BR: CONTRAN 498/2014 (interior lining flame propagation <=100 mm/min), record br-contran-498 (after its title/summary are corrected)",
+   "evidence": "Search result: CONTRAN 498/2014 'requires that materials used in internal cabin linings must have a flame propagation speed of no more than 100 mm/min'.",
+   "evidence_url": "https://sitefiespstorage.blob.core.windows.net/uploads/2014/09/edicao-8-resolucao-contran-498-karell.pdf",
+   "confidence": "medium"
+  },
+  {
+   "id": "accelerator-control",
+   "field": "cells.JP.records",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "jp-srrv-accelerator-control (cite 'Safety Regs / TRIAS')",
+   "proposed": "Remove or re-point to a record that actually contains the Japanese accelerator-control requirement; no article cited",
+   "evidence": "Record body is about fuel/EV safety, not accelerator control: 'Regulated Area: Fuel / EV / high-voltage safety ... Fuel tanks, lines, valves, filler systems, CNG/LPG/H2 storage, EV energy containment ... Prevent fire, explosion, shock and hazardous leakage'; un_equivalent_ai R34/R100. It is a broad-scope placeholder with a mislabelled title.",
+   "evidence_url": "regulations/jp-srrv-accelerator-control.md",
+   "confidence": "high"
+  },
+  {
+   "id": "accelerator-control",
+   "field": "cells.JP.cite",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Safety Regs / TRIAS",
+   "proposed": "Cite the specific JVSR article / notification",
+   "evidence": "Cite names no article, unlike every other JP cell in this file.",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "low"
+  },
+  {
+   "id": "co2-fuel-economy",
+   "field": "cells.US.cite",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "NHTSA CAFE 49 CFR 531/533; EPA GHG 40 CFR 86/600; fuel economy label 40 CFR 600",
+   "proposed": "Remove EPA GHG fleet standards (rescinded, effective 20 Apr 2026); keep NHTSA CAFE (49 CFR 531/533) and the 40 CFR 600 fuel-economy test/label provisions, with a note that CAFE civil penalties/reset are in flux",
+   "evidence": "'EPA ... rescinding the 2009 findings ... and repealing all GHG emission standards for light-duty, medium-duty and heavy-duty vehicles ... removing regulations in 40 CFR parts 85, 86, 600, 1036, and 1037 pertaining to GHG ... Published Feb 18, 2026, effective April 20.'",
+   "evidence_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission",
+   "confidence": "high"
+  },
+  {
+   "id": "co2-fuel-economy",
+   "field": "cells.KR.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "KMVSS Art. 108-2; average fuel economy / GHG standards",
+   "proposed": "Describe Art. 108-2 as fuel-economy label accuracy (actual within -5% of declared); fleet average fuel-economy/GHG standards are a separate instrument with no linked record",
+   "evidence": "Record body: 'the values shall be within the following ranges compared with the values declared by the manufacturer: Urban -5%, Highway -5%' - no fleet target.",
+   "evidence_url": "regulations/kr-kmvss-art108-2.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "exhaust-emissions",
+   "field": "cells.US.cite",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "CARB LEV IV (13 CCR 1961.4) presented as current; record us-stub-title-13-ccr... status in-force",
+   "proposed": "State that the EPA waiver for ACC II (LEV IV/ZEV) was revoked under the CRA (signed 12 Jun 2025); LEV III still applies, LEV IV only optional pending litigation. Also note EPA proposed (May 2026) delaying Tier 4 (40 CFR 86 subpart S, 2027+) to MY2029",
+   "evidence": "'President Trump signed it into law on June 12, 2025 ... emergency rulemaking ... clarified that the emissions standards for criteria pollutants from ACC I (LEV III standards) still apply ... manufacturers may opt to certify to LEV IV while litigation continues.' EPA: 'proposed ... adjusts the implementation timeline from model year 2027 to MY 2029 for the Tier 4 standards'.",
+   "evidence_url": "https://dieselnet.com/news/2025/05us2.php",
+   "confidence": "medium"
+  },
+  {
+   "id": "ev-electrical-safety",
+   "field": "cells.US.cite / status",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "FMVSS 305a (supersedes 305); no status",
+   "proposed": "'FMVSS 305 currently applies; 305a mandatory 1 Sep 2027 (GVWR<=4,536 kg; 1 Sep 2028 heavier), optional earlier'; status: phase-in",
+   "evidence": "'FMVSS No. 305 remains applicable unless a vehicle is certified to FMVSS No. 305a ... compliance date is September 1, 2027 ... September 1, 2028 for vehicles over 4,536 kg.' Repo title: 'mandatory applicability begins on September 1, 2027'.",
+   "evidence_url": "https://www.federalregister.gov/documents/2024/12/20/2024-28707/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain",
+   "confidence": "high"
+  },
+  {
+   "id": "ev-electrical-safety",
+   "field": "cells.IN.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "AIS-038 Rev 2 (also AIS-156 in reess cell)",
+   "proposed": "Cite AIS-038 Rev 2 only for M/N vehicles; AIS-156 is for L-category (two/three-wheel) vehicles; reess IN cell should not offer AIS-156 for cars",
+   "evidence": "'Amendment 3 to AIS-156 - Specific Requirements for L Category Electric Power Train Vehicles'. Repo record itself warns: 'AIS-156 should be applicability-filtered because it can be category-specific'; record title/summary claim M/N.",
+   "evidence_url": "https://morth.nic.in/amendment-3-ais-156-specific-requirements-l-category-electric-power-train-vehicles",
+   "confidence": "high"
+  },
+  {
+   "id": "reess",
+   "field": "cells.IN.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "AIS-038 Rev 2 / AIS-156",
+   "proposed": "AIS-038 Rev 2 for M/N; AIS-156 only for L category",
+   "evidence": "Same as ev-electrical-safety IN: AIS-156 is the L-category REESS/power-train standard.",
+   "evidence_url": "https://morth.nic.in/amendment-3-ais-156-specific-requirements-l-category-electric-power-train-vehicles",
+   "confidence": "high"
+  },
+  {
+   "id": "ev-post-crash",
+   "field": "cells.UN.records (ece-r153)",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "ece-r153 titled 'Fuel System Integrity in a Frontal Collision'",
+   "proposed": "Linked topic is right (R153 has HV provisions) but the record is wrong: R153 covers fuel system integrity and electric power train safety in a REAR-END collision (M1, N1 <=3.5 t)",
+   "evidence": "'UN Regulation No. 153 ... fuel system integrity and safety of electric power train in the event of a rear-end collision ... entered into force 22 January 2021'. Repo record title and summary say frontal.",
+   "evidence_url": "https://international.vlex.com/vid/united-nations-regulation-no-1045770530",
+   "confidence": "high"
+  },
+  {
+   "id": "dimensions",
+   "field": "cells.CN.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "GB 1589-2016; GB 7258-2017 (both current)",
+   "proposed": "GB 1589-2016 is being replaced: GB 1589-2026 published 27 Aug 2026, effective 1 Jul 2027 for new type approvals (1 Jan 2028 for existing types); GB 7258-2026 also reported published - verify",
+   "evidence": "'GB 1589-2026 ... will take effect on July 1, 2027 ... new type approval from 2027-07-01; already-approved types from 2028-01-01'; headline 'GB 7258-2026, GB 1589-2026 published'.",
+   "evidence_url": "https://news.qq.com/rain/a/20260915A09HDJ00",
+   "confidence": "medium"
+  },
+  {
+   "id": "dimensions",
+   "field": "cells.GCC.records",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "GSO 42:2015 General Requirements (dimensions, masses & general construction)",
+   "proposed": "Do not present as dimensions/axle-load standard unless confirmed; record covers VIN, labels, conformity",
+   "evidence": "Record body: 'Regulated Area: General safety / conformity ... VIN, certification labels, conformity documentation, production quality controls, recall'; no dimension or mass content.",
+   "evidence_url": "regulations/gcc-gso-42-2015.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "dimensions",
+   "field": "cells.BR.records",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "CONTRAN 912/2022 Mandatory Equipment",
+   "proposed": "Replace with the Brazilian dimension/weight limits resolution, or remove cell",
+   "evidence": "Record body is mandatory equipment (fire extinguisher, triangle, first-aid kit, jack, spare tyre); nothing on dimensions, axle loads or masses; no regulation text.",
+   "evidence_url": "regulations/br-contran-912.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "hydrogen",
+   "field": "cells.UN.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R134 cited, no records linked",
+   "proposed": "Add a UN R134 record (ece-r134 does not exist) so the UN cell links to text",
+   "evidence": "regulations/ece-r134.md absent; UN R134 is the 1958-Agreement transposition of GTR 13 (Rev.1 Am.3 in force 15 Jun 2024).",
+   "evidence_url": "https://unece.org/sites/default/files/2025-01/R134r1am3e.pdf",
+   "confidence": "high"
+  },
+  {
+   "id": "hydrogen",
+   "field": "cells (EU, CN, KR missing)",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "Only US, UN, JP, AU cells",
+   "proposed": "Consider EU (R134 via 2019/2144 / 2021/535 un_equivalent), CN (GB 24549), KR cells",
+   "evidence": "eu-32021r0535 un_equivalent lists UN R134, so EU applies; CN/KR not verified.",
+   "evidence_url": "regulations/eu-32021r0535.md",
+   "confidence": "low"
+  },
+  {
+   "id": "ev-electrical-safety",
+   "field": "cells.JP.records (jp-srrv-electric-vehicle-rechargeable-energy-storage-system)",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "citation 'SRRV / TRIAS / UN R136'",
+   "proposed": "UN R136 covers L-category EVs, not passenger cars; use R100 / TRIAS reference",
+   "evidence": "Record citation includes UN R136; body is a generic 'broad-scope review' placeholder (fuel, hydrogen/CNG storage too).",
+   "evidence_url": "regulations/jp-srrv-electric-vehicle-rechargeable-energy-storage-system.md",
+   "confidence": "medium"
+  }
+ ],
+ "notes": "Several linked 'jp-srrv-*' records are generic auto-generated broad-scope placeholders whose titles do not match their bodies (jp-srrv-accelerator-control is fuel/EV text); Brazil CONTRAN records (498, 749, 912) are link-only stubs, and br-contran-498 is mislabelled hood latch though it is the flammability rule. Many CA records have subject-less titles ('MVSR s. 302'). US/CARB cells are stale after 2025-26 changes (CRA revocation of ACC II waiver, EPA GHG repeal). gb 18384 record body says 2020 version is current though 2025 version is effective 2026-07-01. Dated claims in this file otherwise checked OK: GB 38031-2025 (Jul 2026), GB 19578-2024/GB 27999-2025 (1 Jan 2026), ADR 109/01 phase-in, GB 8410-2006 still current, UN R168 = RDE."
+}

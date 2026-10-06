@@ -25,17 +25,14 @@ status: in-force
 summary: Motor vehicles with a GVWR of 4,536 kg or less (excluding certain motorcycles,
   restricted-use vehicles, three-wheeled vehicles, and low-speed vehicles) and their
   tire rims must conform to Technical Standards Document No. 110 on tire selection
-  and rims. The regulation also specifies how required tire and loading...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  and rims.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 262718714430e51191575ec39d4b6f84cdeeaf99
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 110 — Technical Standards Document No. 110
-un_equivalent_ai:
-- UN R30
-- UN R142
+title: MVSR s. 110 — Tire Selection and Rims (GVWR 4,536 kg or less)
 vehicle_categories:
 - Passenger car
 - Light truck

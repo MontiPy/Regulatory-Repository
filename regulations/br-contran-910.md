@@ -9,7 +9,7 @@ commodities:
 - Airbags
 - Bumpers
 id: br-contran-910
-last_pulled: '2026-06-01T18:53:07+00:00'
+last_pulled: '2026-10-06T03:24:34+00:00'
 open_tags:
 - frontal impact
 - side impact
@@ -25,12 +25,15 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-910-de-28-de-marco-de-2022
 status: in-force
-summary: The provided text contains only navigation menus, website links, and header
-  information from the Brazilian Ministry of Transportation's website, with no substantive
-  regulatory content about occupant protection or fuel system integrity. The text
-  does not include the actual provisions, requirements, or mandates of...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 252e683a54dc0e584f5f15a8c8271648938a3b8c
+status_note: Arts. 2-3 (ABNT NBR test requirements) were valid only until 31 Dec 2025;
+  the Annex-based requirements (Art. 4 onward) continue to apply.
+summary: CONTRAN Resolution 910/2022 sets occupant-protection requirements for frontal
+  and rear impact and fuel-system integrity after impact for automobiles and derived
+  vehicles, referencing ABNT NBR 15300, NBR 15240 and NBR 15241, with Annex-based
+  frontal-impact biomechanical criteria from 1 Jan 2024. Test results to UN R32, R34
+  and R94 or FMVSS 203, 208 and 301 are accepted as an alternative.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 5b1e1d894a86651e9c93c93834f9b1617322ab22
 systems:
 - Crashworthiness
 - Fuel safety
@@ -43,8 +46,6 @@ un_equivalent:
 - UN R32
 - UN R34
 - UN R94
-un_equivalent_ai:
-- UN R153
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -79,25 +80,24 @@ Atenção!
 
 Termos mais buscados
 
-- [imposto de renda](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=imposto de renda)
+- [Desenrola Brasil](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=Desenrola Brasil)
 - [assinatura](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=assinatura)
-- [inss](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=inss)
 - [mei](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=mei)
-- [enem](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=enem)
+- [imposto de renda](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=imposto de renda)
+- [inss](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=inss)
 
 Termos mais buscados
 
-- [imposto de renda](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=imposto de renda)
+- [Desenrola Brasil](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=Desenrola Brasil)
 - [assinatura](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=assinatura)
-- [inss](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=inss)
+- [mei](https://www.gov.br/transportes/pt-br/search?origem=termos&SearchableText=mei)
 
 - [Assuntos](https://www.gov.br/transportes/pt-br/assuntos)
-  - [Notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias)
-    - [Últimas Notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias)
-    - [Avisos de Pauta](https://www.gov.br/transportes/pt-br/canais_atendimento/avisos-de-pauta)
-    - [Notícias por UF](http://www.gov.br/transportes/pt-br/assuntos/noticias/noticias-por-uf-1)
+  - [Notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias-)
+    - [Últimas notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias-1)
+    - [Avisos de Pauta](https://www.gov.br/transportes/pt-br/assuntos/noticias-/avisos-de-pauta)
   - [Rodovias](https://www.gov.br/transportes/pt-br/assuntos/rodovias)
-    - [Concessões Rodoviárias 2026](https://www.gov.br/transportes/pt-br/assuntos/rodovias/concessoes-2026)
+    - [Concessões Rodoviárias 2026](https://www.gov.br/transportes/pt-br/assuntos/concessoes/concessoes-rodoviarias-2026)
     - [Otimizações Rodoviárias](http://www.gov.br/transportes/pt-br/assuntos/otimizacao-de-contratos-rodoviarios)
     - [Obras Públicas](https://www.gov.br/transportes/pt-br/assuntos/rodovias/obras-publicas-)
     - [Novo PAC](https://www.gov.br/transportes/pt-br/assuntos/rodovias/novo-pac-)
@@ -113,8 +113,7 @@ Termos mais buscados
     - [Senatran](https://www.gov.br/transportes/pt-br/assuntos/transito/senatran)
     - [Contran](https://www.gov.br/transportes/pt-br/assuntos/transito/contran)
     - [Pnatrans](https://www.gov.br/transportes/pt-br/assuntos/transito/pnatrans)
-    - [Prêmio Senatran](https://www.gov.br/transportes/pt-br/assuntos/transito/premio-senatran)
-    - [Campanhas de Trânsito](https://www.gov.br/transportes/pt-br/assuntos/transito/campanhas-de-transito)
+    - [Prêmio Senatran 2026](https://www.gov.br/transportes/pt-br/assuntos/transito/senatran/premio-senatran-2026)
   - [Sustentabilidade](https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade)
     - [SUST/Equipe](https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade)
     - [Diretrizes Interministeriais de Sustentabilidade](https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade/diretrizes-interministeriais-de-sustentabilidade)
@@ -127,6 +126,7 @@ Termos mais buscados
     - [Atas do Comitê de Gestão de Riscos, Transparência, Controle e Integridade - CRTCI](https://www.gov.br/transportes/pt-br/assuntos/governanca/atas-do-comite-de-gestao-de-riscos-transparencia-controle-e-integridade-crtci)
     - [Programa de Integridade](https://www.gov.br/transportes/pt-br/assuntos/governanca/programa-de-integridade-2/programa-de-integridade-1/)
     - [Avaliação de Desempenho Institucional](https://www.gov.br/transportes/pt-br/assuntos/governanca/avaliacao-de-desempenho-institucional)
+    - [Governança regulatória](https://www.gov.br/transportes/pt-br/assuntos/transito/senatran/governanca-regulatoria-1/governanca-regulatoria)
   - [Comissão de Ética](https://www.gov.br/transportes/pt-br/assuntos/comissao-de-etica)
   - [Transformação Digital](https://www.gov.br/transportes/pt-br/assuntos/governanca/plano-de-transformacao-digital-ptd)
   - [Laboratório de Inovação](https://www.gov.br/transportes/pt-br/assuntos/inovacao/laboratorio-de-inovacao-/laboratorio-de-inovacao_)
@@ -134,20 +134,13 @@ Termos mais buscados
   - [Fomento e Incentivos](https://www.gov.br/transportes/pt-br/assuntos/incentivos/fomento)
   - [Planejamento (PIT)](https://www.gov.br/transportes/pt-br/assuntos/PIT)
   - [Dados, Mapas – BIT](http://www.gov.br/transportes/pt-br/assuntos/dados-de-transportes/bit)
-  - [Concessões](https://www.gov.br/transportes/pt-br/assuntos/concessoes)
-    - [Concessões Rodoviárias 2026](https://www.gov.br/transportes/pt-br/assuntos/concessoes/concessoes-rodoviarias-2026)
-    - [Projetos](https://www.gov.br/transportes/pt-br/assuntos/concessoes/projetos-1)
   - [Orçamento e Gestão](https://www.gov.br/transportes/pt-br/assuntos/orcamento-e-gestao)
-    - [Órgãos Extintos](https://www.gov.br/transportes/pt-br/assuntos/orcamento-e-gestao/orgaos-extintos)
     - [Relatórios Orçamentários](https://www.gov.br/transportes/pt-br/assuntos/orcamento-e-gestao/copy_of_relatorios-orcamentarios)
   - [Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria)
     - [Equipe - Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/equipe-corregedoria)
     - [Conheça a Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/conheca-a-corregedoria)
     - [Contato da Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/contato-da-corregedoria)
     - [Câmara Técnica de Correição](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/camara-tecnica-de-correicao)
-    - [Relatórios de Atividades](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/relatorios-de-atividades)
-    - [Modelo de Maturidade CGU](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/modelo-de-maturidade-cgu)
-    - [Relatórios de Gestão TCU](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/relatorios-de-gestao-tcu)
   - [Conjur](https://www.gov.br/transportes/pt-br/assuntos/conjur)
     - [Atos da Advocacia-Geral da União (AGU)](https://www.gov.br/transportes/pt-br/assuntos/conjur/pareceres-advocacia-geral-da-uniao-agu)
     - [Bases Normativas do Governo Federal](https://www.gov.br/transportes/pt-br/assuntos/conjur/pareceres-governo-federal)
@@ -163,12 +156,11 @@ Termos mais buscados
     - [Pregão e Concorrência e Contratação Direta](https://www.gov.br/transportes/pt-br/assuntos/conjur/pregao-e-concorrencia-e-contratacao-direta)
   - [Emendas Parlamentares](https://www.gov.br/transportes/pt-br/assuntos/emendas-parlamentares)
   - [Conselhos](https://www.gov.br/transportes/pt-br/assuntos/conselhos)
-    - [Colegiados](https://www.gov.br/transportes/pt-br/assuntos/conselhos/colegiados)
     - [Comissão Nacional de Autoridades de Transportes Terrestres](https://www.gov.br/transportes/pt-br/assuntos/conselhos/conatt)
   - [Legislação](https://www.gov.br/transportes/pt-br/acesso-a-informacao/legislacao)
 - [Acesso à Informação](https://www.gov.br/transportes/pt-br/acesso-a-informacao)
   - [Institucional](https://www.gov.br/transportes/pt-br/acesso-a-informacao/institucional-1)
-    - [Estrutura Organizacional (organograma)](https://www.gov.br/transportes/pt-br/acesso-a-informacao/institucional-1/estrutura-organizacional-1)
+    - [Estrutura Organizacional (organograma)](https://www.gov.br/transportes/pt-br/acesso-a-informacao/institucional-1/organograma)
     - [Competências](http://www.gov.br/transportes/pt-br/acesso-a-informacao/competencias)
     - [Base Jurídica da Estrutura Organizacional e das Competências](http://www.gov.br/transportes/pt-br/acesso-a-informacao/base-juridica/base-juridica)
     - [Principais Cargos e Respectivos Ocupantes (QUEM É QUEM)](https://www.gov.br/transportes/pt-br/composicao/quem-e-quem)
@@ -237,17 +229,11 @@ Termos mais buscados
   - [Fale Conosco](https://www.gov.br/transportes/pt-br/ouvidoria/canais-de-atendimento)
   - [Sala de Imprensa](https://www.gov.br/transportes/pt-br/canais_atendimento/sala-de-imprensa-1)
   - [FalaBR](https://falabr.cgu.gov.br/PainelServidor/Principal.aspx)
-  - [Chatbot](https://chat.transportes.gov.br/maua)
+  - [Chatbot](https://plataformamaua.transportes.gov.br/embed-flow/FD7241B1-CFE5-404F-99DC-2161644ED2B9)
   - [Encarregado pelo Tratamento de Dados Pessoais](https://www.gov.br/transportes/pt-br/ouvidoria/privacidade-e-protecao-de-dados-pessoais-lgpd/)
-- [Central de Conteúdos](https://www.gov.br/transportes/pt-br/central-de-conteudos)
-  - [Galeria de Imagens](https://www.flickr.com/photos/mtransportes/albums)
-  - [Galeria de Vídeos](http://www.youtube.com/channel/UC63U9DEAYyKNIqtV9ZG9Eow)
-  - [Galeria de Áudios](https://www.gov.br/transportes/pt-br/central-de-conteudos/conteudos-de-radio)
-  - [Publicidade](https://www.gov.br/transportes/pt-br/central-de-conteudos/publicidade)
-  - [Campanhas](https://www.gov.br/transportes/pt-br/canais_atendimento/campanhas)
+  - [Informa.BR](https://informabr.cgu.gov.br/)
 - [Serviços](https://www.gov.br/transportes/pt-br/servicos)
   - [Protocolo Eletrônico – SEI!](https://www.gov.br/transportes/pt-br/servicos/protocolo-eletronico-sei)
-  - [Cartas de Serviços](https://www.gov.br/transportes/pt-br/servicos/cartas-de-servicos/)
   - [Protocolo Digital - Gov.br](https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-dos-transportes)
   - [Gestão de Pessoas](https://www.gov.br/transportes/pt-br/servicos/gestao-de-pessoas)
   - [Programa de Gestão e Desempenho](https://www.gov.br/transportes/pt-br/servicos/gestao-de-pessoas/programa-de-gestao-e-desempenho-mt)
@@ -266,7 +252,7 @@ Termos mais buscados
       - [Servidor Público](https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor)
   - [Temas em Destaque](https://www.gov.br/pt-br/temas-em-destaque)
     - [Orçamento Nacional](https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional)
-    - [Redes de Atendimento do Governo Federal](https://www.gov.br/pt-br/temas/redes-civis-de-unidades-de-atendimento-do-governo-federal)
+    - [Redes de Atendimento da Administração Pública Federal](https://www.gov.br/pt-br/temas/redes-civis-de-unidades-de-atendimento-do-governo-federal)
     - [Proteção de Dados Pessoais](https://www.gov.br/pt-br/temas/protecao-de-dados-pessoais)
     - [Serviços para Imigrantes](https://www.gov.br/pt-br/temas/servicos-para-imigrantes)
     - [Política e Orçamento Educacionais](https://www.gov.br/pt-br/temas/politica-e-orcamento-educacional)
@@ -282,22 +268,6 @@ Termos mais buscados
     - [Habitação Popular](https://www.gov.br/pt-br/temas/habitacao-popular)
     - [Controle de Poluição e Resíduos Sólidos](https://www.gov.br/pt-br/temas/controle-da-poluicao-e-outras-medidas-de-precaucao)
   - [Notícias](https://www.gov.br/pt-br/noticias)
-    - [Serviços para o cidadão](https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao)
-    - [Saúde](https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria)
-    - [Agricultura e Pecuária](https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria)
-    - [Cidadania e Assistência Social](https://www.gov.br/pt-br/noticias/assistencia-social)
-    - [Ciência e Tecnologia](https://www.gov.br/pt-br/noticias/ciencia-e-tecnologia)
-    - [Comunicação](https://www.gov.br/pt-br/noticias/comunicacao)
-    - [Cultura e Esporte](https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes)
-    - [Economia e Gestão Pública](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica)
-    - [Educação e Pesquisa](https://www.gov.br/pt-br/noticias/educacao-e-pesquisa)
-    - [Energia](https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis)
-    - [Forças Armadas e Defesa Civil](https://www.gov.br/pt-br/noticias/forcas-armadas)
-    - [Infraestrutura](https://www.gov.br/pt-br/noticias/transito-e-transportes)
-    - [Justiça e Segurança](https://www.gov.br/pt-br/noticias/justica-e-seguranca)
-    - [Meio Ambiente](https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima)
-    - [Trabalho e Previdência](https://www.gov.br/pt-br/noticias/trabalho-e-previdencia)
-    - [Turismo](https://www.gov.br/pt-br/noticias/viagens-e-turismo)
   - [Galeria de Aplicativos](https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos)
   - [Acompanhe o Planalto](/planalto)
   - [Navegação](https://www.gov.br/pt-br/navegacao)
@@ -316,10 +286,10 @@ Termos mais buscados
     - [Governo Digital](https://www.gov.br/governodigital/pt-br)
     - [Guia de Edição de Serviços do Portal Gov.br](https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor)
   - [Canais do Executivo Federal](https://www.gov.br/pt-br/canais-do-executivo-federal)
-  - [Dados do Governo Federal](https://www.gov.br/pt-br/dados-do-governo-federal)
+  - [Dados da Administração Pública Federal](https://www.gov.br/pt-br/dados-da-administracao-publica-federal)
     - [Dados Abertos](/governodigital/pt-br/dados-abertos)
     - [Painel Estatístico de Pessoal](https://www.gov.br/gestao/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal)
-    - [Painel de Compras do Governo Federal](http://paineldecompras.economia.gov.br)
+    - [Painel de Compras da Administração Pública Federal](http://paineldecompras.economia.gov.br)
     - [Acesso à Informação](https://www.gov.br/acessoainformacao/pt-br)
   - [Empresas e Negócios](https://www.gov.br/empresas-e-negocios/pt-br)
 
@@ -493,12 +463,11 @@ Compartilhe:
 [link para Copiar para área de transferência](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-910-de-28-de-marco-de-2022 "Copiar para área de transferência")
 
 - [Assuntos](https://www.gov.br/transportes/pt-br/assuntos)
-  - [Notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias)
-    - [Últimas Notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias)
-    - [Avisos de Pauta](https://www.gov.br/transportes/pt-br/canais_atendimento/avisos-de-pauta)
-    - [Notícias por UF](http://www.gov.br/transportes/pt-br/assuntos/noticias/noticias-por-uf-1)
+  - [Notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias-)
+    - [Últimas notícias](https://www.gov.br/transportes/pt-br/assuntos/noticias-1)
+    - [Avisos de Pauta](https://www.gov.br/transportes/pt-br/assuntos/noticias-/avisos-de-pauta)
   - [Rodovias](https://www.gov.br/transportes/pt-br/assuntos/rodovias)
-    - [Concessões Rodoviárias 2026](https://www.gov.br/transportes/pt-br/assuntos/rodovias/concessoes-2026)
+    - [Concessões Rodoviárias 2026](https://www.gov.br/transportes/pt-br/assuntos/concessoes/concessoes-rodoviarias-2026)
     - [Otimizações Rodoviárias](http://www.gov.br/transportes/pt-br/assuntos/otimizacao-de-contratos-rodoviarios)
     - [Obras Públicas](https://www.gov.br/transportes/pt-br/assuntos/rodovias/obras-publicas-)
     - [Novo PAC](https://www.gov.br/transportes/pt-br/assuntos/rodovias/novo-pac-)
@@ -514,8 +483,7 @@ Compartilhe:
     - [Senatran](https://www.gov.br/transportes/pt-br/assuntos/transito/senatran)
     - [Contran](https://www.gov.br/transportes/pt-br/assuntos/transito/contran)
     - [Pnatrans](https://www.gov.br/transportes/pt-br/assuntos/transito/pnatrans)
-    - [Prêmio Senatran](https://www.gov.br/transportes/pt-br/assuntos/transito/premio-senatran)
-    - [Campanhas de Trânsito](https://www.gov.br/transportes/pt-br/assuntos/transito/campanhas-de-transito)
+    - [Prêmio Senatran 2026](https://www.gov.br/transportes/pt-br/assuntos/transito/senatran/premio-senatran-2026)
   - [Sustentabilidade](https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade)
     - [SUST/Equipe](https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade)
     - [Diretrizes Interministeriais de Sustentabilidade](https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade/diretrizes-interministeriais-de-sustentabilidade)
@@ -528,6 +496,7 @@ Compartilhe:
     - [Atas do Comitê de Gestão de Riscos, Transparência, Controle e Integridade - CRTCI](https://www.gov.br/transportes/pt-br/assuntos/governanca/atas-do-comite-de-gestao-de-riscos-transparencia-controle-e-integridade-crtci)
     - [Programa de Integridade](https://www.gov.br/transportes/pt-br/assuntos/governanca/programa-de-integridade-2/programa-de-integridade-1/)
     - [Avaliação de Desempenho Institucional](https://www.gov.br/transportes/pt-br/assuntos/governanca/avaliacao-de-desempenho-institucional)
+    - [Governança regulatória](https://www.gov.br/transportes/pt-br/assuntos/transito/senatran/governanca-regulatoria-1/governanca-regulatoria)
   - [Comissão de Ética](https://www.gov.br/transportes/pt-br/assuntos/comissao-de-etica)
   - [Transformação Digital](https://www.gov.br/transportes/pt-br/assuntos/governanca/plano-de-transformacao-digital-ptd)
   - [Laboratório de Inovação](https://www.gov.br/transportes/pt-br/assuntos/inovacao/laboratorio-de-inovacao-/laboratorio-de-inovacao_)
@@ -535,20 +504,13 @@ Compartilhe:
   - [Fomento e Incentivos](https://www.gov.br/transportes/pt-br/assuntos/incentivos/fomento)
   - [Planejamento (PIT)](https://www.gov.br/transportes/pt-br/assuntos/PIT)
   - [Dados, Mapas – BIT](http://www.gov.br/transportes/pt-br/assuntos/dados-de-transportes/bit)
-  - [Concessões](https://www.gov.br/transportes/pt-br/assuntos/concessoes)
-    - [Concessões Rodoviárias 2026](https://www.gov.br/transportes/pt-br/assuntos/concessoes/concessoes-rodoviarias-2026)
-    - [Projetos](https://www.gov.br/transportes/pt-br/assuntos/concessoes/projetos-1)
   - [Orçamento e Gestão](https://www.gov.br/transportes/pt-br/assuntos/orcamento-e-gestao)
-    - [Órgãos Extintos](https://www.gov.br/transportes/pt-br/assuntos/orcamento-e-gestao/orgaos-extintos)
     - [Relatórios Orçamentários](https://www.gov.br/transportes/pt-br/assuntos/orcamento-e-gestao/copy_of_relatorios-orcamentarios)
   - [Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria)
     - [Equipe - Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/equipe-corregedoria)
     - [Conheça a Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/conheca-a-corregedoria)
     - [Contato da Corregedoria](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/contato-da-corregedoria)
     - [Câmara Técnica de Correição](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/camara-tecnica-de-correicao)
-    - [Relatórios de Atividades](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/relatorios-de-atividades)
-    - [Modelo de Maturidade CGU](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/modelo-de-maturidade-cgu)
-    - [Relatórios de Gestão TCU](https://www.gov.br/transportes/pt-br/assuntos/corregedoria/relatorios-de-gestao-tcu)
   - [Conjur](https://www.gov.br/transportes/pt-br/assuntos/conjur)
     - [Atos da Advocacia-Geral da União (AGU)](https://www.gov.br/transportes/pt-br/assuntos/conjur/pareceres-advocacia-geral-da-uniao-agu)
     - [Bases Normativas do Governo Federal](https://www.gov.br/transportes/pt-br/assuntos/conjur/pareceres-governo-federal)
@@ -564,12 +526,11 @@ Compartilhe:
     - [Pregão e Concorrência e Contratação Direta](https://www.gov.br/transportes/pt-br/assuntos/conjur/pregao-e-concorrencia-e-contratacao-direta)
   - [Emendas Parlamentares](https://www.gov.br/transportes/pt-br/assuntos/emendas-parlamentares)
   - [Conselhos](https://www.gov.br/transportes/pt-br/assuntos/conselhos)
-    - [Colegiados](https://www.gov.br/transportes/pt-br/assuntos/conselhos/colegiados)
     - [Comissão Nacional de Autoridades de Transportes Terrestres](https://www.gov.br/transportes/pt-br/assuntos/conselhos/conatt)
   - [Legislação](https://www.gov.br/transportes/pt-br/acesso-a-informacao/legislacao)
 - [Acesso à Informação](https://www.gov.br/transportes/pt-br/acesso-a-informacao)
   - [Institucional](https://www.gov.br/transportes/pt-br/acesso-a-informacao/institucional-1)
-    - [Estrutura Organizacional (organograma)](https://www.gov.br/transportes/pt-br/acesso-a-informacao/institucional-1/estrutura-organizacional-1)
+    - [Estrutura Organizacional (organograma)](https://www.gov.br/transportes/pt-br/acesso-a-informacao/institucional-1/organograma)
     - [Competências](http://www.gov.br/transportes/pt-br/acesso-a-informacao/competencias)
     - [Base Jurídica da Estrutura Organizacional e das Competências](http://www.gov.br/transportes/pt-br/acesso-a-informacao/base-juridica/base-juridica)
     - [Principais Cargos e Respectivos Ocupantes (QUEM É QUEM)](https://www.gov.br/transportes/pt-br/composicao/quem-e-quem)
@@ -638,17 +599,11 @@ Compartilhe:
   - [Fale Conosco](https://www.gov.br/transportes/pt-br/ouvidoria/canais-de-atendimento)
   - [Sala de Imprensa](https://www.gov.br/transportes/pt-br/canais_atendimento/sala-de-imprensa-1)
   - [FalaBR](https://falabr.cgu.gov.br/PainelServidor/Principal.aspx)
-  - [Chatbot](https://chat.transportes.gov.br/maua)
+  - [Chatbot](https://plataformamaua.transportes.gov.br/embed-flow/FD7241B1-CFE5-404F-99DC-2161644ED2B9)
   - [Encarregado pelo Tratamento de Dados Pessoais](https://www.gov.br/transportes/pt-br/ouvidoria/privacidade-e-protecao-de-dados-pessoais-lgpd/)
-- [Central de Conteúdos](https://www.gov.br/transportes/pt-br/central-de-conteudos)
-  - [Galeria de Imagens](https://www.flickr.com/photos/mtransportes/albums)
-  - [Galeria de Vídeos](http://www.youtube.com/channel/UC63U9DEAYyKNIqtV9ZG9Eow)
-  - [Galeria de Áudios](https://www.gov.br/transportes/pt-br/central-de-conteudos/conteudos-de-radio)
-  - [Publicidade](https://www.gov.br/transportes/pt-br/central-de-conteudos/publicidade)
-  - [Campanhas](https://www.gov.br/transportes/pt-br/canais_atendimento/campanhas)
+  - [Informa.BR](https://informabr.cgu.gov.br/)
 - [Serviços](https://www.gov.br/transportes/pt-br/servicos)
   - [Protocolo Eletrônico – SEI!](https://www.gov.br/transportes/pt-br/servicos/protocolo-eletronico-sei)
-  - [Cartas de Serviços](https://www.gov.br/transportes/pt-br/servicos/cartas-de-servicos/)
   - [Protocolo Digital - Gov.br](https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-ao-ministerio-dos-transportes)
   - [Gestão de Pessoas](https://www.gov.br/transportes/pt-br/servicos/gestao-de-pessoas)
   - [Programa de Gestão e Desempenho](https://www.gov.br/transportes/pt-br/servicos/gestao-de-pessoas/programa-de-gestao-e-desempenho-mt)

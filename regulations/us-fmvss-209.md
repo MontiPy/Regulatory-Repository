@@ -22,10 +22,8 @@ source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.209
 status: in-force
 summary: Seat belt assemblies for use in passenger cars, multipurpose passenger vehicles,
-  trucks, and buses are regulated by this standard. It establishes definitions for
-  assembly components and requires that assemblies be designed for single-occupant
-  use, provide proper pelvic and upper torso restraint, include safe and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  trucks, and buses are regulated by this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2430c92e83f125bc86731a61647d3bbf478ab7b3
 systems:
 - Restraints
@@ -33,8 +31,6 @@ systems:
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.209 Standard No. 209; Seat belt assemblies.
-un_equivalent_ai:
-- UN R16
 vehicle_categories:
 - Passenger car
 - Light truck

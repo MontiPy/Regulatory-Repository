@@ -25,11 +25,11 @@ region: KR
 source_api: spreadsheet
 source_url: https://law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=5001&urlMode=engLsInfoR&viewCls=engLsInfoR
 status: in-force
-summary: Motor vehicle emissions certification under Korea's Clean Air Conservation
-  Act covers passenger and imported vehicles and requires compliance with certified
-  limits for exhaust pollutants (NOx, CO, HC, PM, PN), CO2, fuel economy, evaporative
-  emissions, and OBD functionality. It mandates that vehicles meet these...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Reference record for Korea's motor vehicle emissions certification and permissible
+  emission standards under the Clean Air Conservation Act, covering exhaust and evaporative
+  emission limits and on-board diagnostics for vehicles manufactured or imported into
+  Korea. This repository does not hold the Korean legal text.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: be94bd1c2c2e97ea9ce1eba0faf45f3eafbefc36
 systems:
 - Emissions
@@ -39,9 +39,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Korea Motor Vehicle Emissions Certification and Permissible Emission Standards
 translation_status: untranslated
-un_equivalent_ai:
-- UN R83
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

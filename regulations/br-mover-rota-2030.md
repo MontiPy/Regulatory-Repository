@@ -1,5 +1,5 @@
 ---
-citation: MOVER / Rota 2030
+citation: Decree 12.435/2025 (Law 14.902/2024 - MOVER)
 commodities:
 - Batteries
 - Electric motors
@@ -26,23 +26,19 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/planalto/en/latest-news/2025/04/president-lula-signs-decree-that-regulates-green-mobility-and-innovation-program
 status: in-force
-summary: Brazil's Green Mobility and Innovation Program (MOVER), established by presidential
-  decree, regulates the country's automotive energy efficiency and green mobility
-  framework as a successor to the Rota 2030 program. The provided text contains only
-  a headline and navigation elements and does not specify the program's...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Decree 12.435 of 15 April 2025, published in the Official Gazette on 16 April
+  2025, regulates Brazil's Green Mobility and Innovation Program (MOVER), the successor
+  to Rota 2030. It sets technical and environmental parameters for energy efficiency,
+  recyclability and security that vehicle makers and importers must meet to commercialize
+  vehicles in Brazil from June 2025.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b122a6e449a60f08e020bcf12cbd5812d26dee3d
 systems:
 - Emissions
-- EV charging
-- Battery safety
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Brazil Green Mobility and Innovation / Rota 2030 Energy Efficiency Framework
 translation_status: untranslated
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Passenger car
 - Light truck

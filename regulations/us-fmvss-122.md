@@ -2,8 +2,6 @@
 citation: 49 CFR §571.122
 commodities:
 - Brakes
-- Wheels
-- Tires
 - Pedals
 id: us-fmvss-122
 last_pulled: '2026-06-01T18:39:28+00:00'
@@ -24,16 +22,15 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.122
 status: in-force
-summary: Motorcycle service brake systems (and where applicable, parking brake systems)
-  are regulated under this standard, which requires that all covered motorcycle categories
-  meet specified braking performance requirements under normal and emergency riding
-  conditions, with compliance mandatory for most motorcycle categories...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: FMVSS No. 122 specifies requirements for motorcycle service brake systems
+  and, where applicable, associated parking brake systems, to ensure safe braking
+  performance under normal and emergency riding conditions. It applies to category
+  3-1 to 3-5 motorcycles, from September 1, 2014 (3-1 to 3-4) and September 1, 2015
+  (3-5), with optional earlier compliance.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 10cd4e048d04c5f8bfc2466f27c6eb2a8004c3e8
 systems:
 - Braking
-- Tires & wheels
-- ADAS
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.122 Standard No. 122; Motorcycle brake systems.

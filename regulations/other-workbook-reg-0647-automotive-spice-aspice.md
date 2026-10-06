@@ -22,22 +22,17 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://vda-qmc.de/en/publications/automotive-spice/
 status: in-force
-summary: Automotive SPICE (ASPICE) is an industry assessment model used by OEMs and
-  suppliers to evaluate software development process capability for software-intensive
-  vehicle systems. It requires evidence of robust processes across requirements, architecture,
-  verification, change management, and release records to...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Automotive SPICE (ASPICE) is an industry process assessment model used by
+  OEMs and suppliers to evaluate software development process capability for software-intensive
+  vehicle systems, covering requirements, architecture, verification, change management
+  and release records. It is not a government regulation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 627db9430d999cc9adab14ac8b3f4222613ec39c
 systems:
 - Software updates
-- Cybersecurity
-- On-board diagnostics
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Automotive software process assessment model
-un_equivalent_ai:
-- UN R156
-- UN R155
 vehicle_categories: []
 ---
 

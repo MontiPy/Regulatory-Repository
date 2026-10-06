@@ -1,8 +1,6 @@
 ---
 citation: MVSR C.R.C.,_c._1038 s. 102
 commodities:
-- Steering column
-- Brakes
 - Pedals
 id: ca-mvsr-c-r-c---c--1038-s102
 last_pulled: '2026-06-01T18:52:49+00:00'
@@ -25,9 +23,7 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Automatic and manual vehicle transmissions are regulated with respect to
   control sequencing, gear position displays, and engine start-inhibit requirements.
-  Automatic transmissions must sequence positions so that shifting between forward
-  and reverse passes through neutral, must provide engine braking in a forward drive...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9ef4b8a032ababc5994a87ccf8fcc6fba9ba6a80
 systems:
 - Tell-tales & controls
@@ -35,9 +31,7 @@ systems:
 - Theft prevention
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 102
-un_equivalent_ai:
-- UN R121
+title: MVSR s. 102 — Transmission Control Systems
 vehicle_categories:
 - Passenger car
 - Light truck

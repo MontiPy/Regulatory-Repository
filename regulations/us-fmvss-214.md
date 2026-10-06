@@ -6,7 +6,7 @@ commodities:
 - Seats
 - Airbags
 id: us-fmvss-214
-last_pulled: '2026-06-01T18:41:02+00:00'
+last_pulled: '2026-10-06T03:26:42+00:00'
 open_tags:
 - side door crush resistance
 - moving deformable barrier
@@ -22,21 +22,19 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.214
 status: in-force
-summary: Side impact protection for passenger cars, multipurpose passenger vehicles,
-  trucks, and buses with a GVWR of 10,000 lb or less requires these vehicles to meet
-  specified performance standards — including side door crush resistance, a moving
-  deformable barrier crash test, and a vehicle-to-pole test — to reduce the risk...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 62d14e9aea4cffffb544a3dc3e6020a6bed1d757
+summary: FMVSS No. 214 specifies performance requirements for occupant protection
+  in side impacts, to reduce the risk of serious and fatal injury. It applies to passenger
+  cars and to MPVs, trucks and buses with a GVWR of 4,536 kg (10,000 lb) or less (walk-in
+  vans excepted), through side door strength requirements and limits on forces, deflections
+  and accelerations measured on dummies in crash tests.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a99ed1af98ae06942b6f7f0f4eebc6ee55590625
 systems:
 - Crashworthiness
 - Restraints
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.214 Standard No. 214; Side impact protection.
-un_equivalent_ai:
-- UN R95
-- UN R135
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -65,7 +63,7 @@ Lowered floor means the replacement floor on a motor vehicle whose original floo
 
 Modified roof means the replacement roof on a motor vehicle whose original roof has been removed, in part or in total.
 
-Raised roof is used as defined in paragraph S4 of 49 CFR 571.216.
+Raised roof means, with respect to a roof which includes an area that protrudes above the surrounding exterior roof structure, that protruding area of the roof.
 
 Walk-in van means a special cargo/mail delivery vehicle that has only one designated seating position. That designated seating position must be forward facing and for use only by the driver. The vehicle usually has a thin and light sliding (or folding) side door for easy operation and a high roof clearance that a person of medium stature can enter the passenger compartment area in an up-right position.
 
@@ -95,7 +93,7 @@ S5 General exclusions.
 
 (2) Passenger cars with a wheelbase greater than 130 inches need not meet the requirements of S7 as applied to the rear seat.
 
-(3) Passenger cars, multipurpose passenger vehicles, trucks and buses need not meet the requirements of S7 (moving deformable barrier test) as applied to the rear seat for side-facing rear seats and for rear seating areas that are so small that a Part 572 Subpart V dummy representing a 5th percentile adult female cannot be accommodated according to the positioning procedure specified in S12.3.4 of this standard. Vehicles that are manufactured before September 1, 2010, and vehicles that manufactured on or after September 1, 2010, that are not part of the percentage of a manufacturer's production meeting the moving deformable barrier test requirements with advanced test dummies (S7.2 of this section) or are otherwise excluded from the phase-in requirements of S7.2, need not meet the requirements of the moving deformable barrier test as applied to the rear seat for rear seating areas that are so small that a Subpart F dummy (SID) cannot be accommodated according to the positioning procedure specified in S12.1 of this standard.
+(3) Passenger cars, multipurpose passenger vehicles, trucks and buses need not meet the requirements of S7 (moving deformable barrier test) as applied to the rear seat for side-facing rear seats and for rear seating areas that are so small that a Part 572 Subpart V dummy representing a 5th percentile adult female cannot be accommodated according to the positioning procedure specified in S12.3.4 of this standard.
 
 (4) Multipurpose passenger vehicles, trucks and buses with a GVWR of more than 2,722 kg (6,000 lb) need not meet the requirements of S7 (moving deformable barrier test).
 
@@ -173,49 +171,19 @@ S6.3 Test procedures for door crush resistance. The following procedures apply t
 
 S7 Moving Deformable Barrier (MDB) Requirements. Except as provided in section S5, when tested under the conditions of S8 each vehicle shall meet S7.3 and the following requirements in a 53 ±1.0 km/h (33.5 mph) impact in which the vehicle is struck on either side by a moving deformable barrier.
 
-S7.1 MDB test with SID. For vehicles manufactured before September 1, 2010, the following requirements must be met. The following requirements also apply to vehicles manufactured on or after September 1, 2010 that are not part of the percentage of a manufacturer's production meeting the MDB test with advanced test dummies (S7.2 of this section) or are otherwise excluded from the phase-in requirements of S7.2. (Vehicles manufactured before September 1, 2010 may meet S7.2, at the manufacturer's option.)
-
-S7.1.1 The test dummy specified in 49 CFR Part 572 Subpart F (SID) is placed in the front and rear outboard seating positions on the struck side of the vehicle, as specified in S11 and S12 of this standard (49 CFR 571.214).
-
-S7.1.2 When using the Part 572 Subpart F dummy (SID), the following performance requirements must be met.
-
-(a) Thorax. The Thoracic Trauma Index (TTI(d)) shall not exceed:
-
-(1) 85 g for a passenger car with four side doors, and for any multipurpose passenger vehicle, truck, or bus; and,
-
-(2) 90 g for a passenger car with two side doors, when calculated in accordance with the following formula:
-
-Where the term “GR” is the greater of the peak accelerations of either the upper or lower rib, expressed in g's and the term “GLS” is the lower spine (T12) peak acceleration, expressed in g's. The peak acceleration values are obtained in accordance with the procedure specified in S11.5.
-
-(b) Pelvis. The peak lateral acceleration of the pelvis, as measured in accordance with S11.5, shall not exceed 130 g's.
+S7.1 [Reserved]
 
 S7.2 MDB test with advanced test dummies.
 
-S7.2.1 Vehicles manufactured on or after September 1, 2010 to August 31, 2014.
-
-(a) Except as provided in S7.2.4 of this section, for vehicles manufactured on or after September 1, 2010 to August 31, 2014, a percentage of each manufacturer's production, as specified in S13.1.1, S13.1.2, S13.1.3, and S13.1.4, shall meet the requirements of S7.2.5 and S7.2.6 when tested with the test dummy specified in those sections. Vehicles manufactured before September 1, 2014 may be certified as meeting the requirements of S7.2.5 and S7.2.6.
-
-(b) For vehicles manufactured on or after September 1, 2010 that are not part of the percentage of a manufacturer's production meeting S7.2.1 of this section, the requirements of S7.1 of this section must be met.
+S7.2.1 [Reserved]
 
 (c) Place the Subpart U ES-2re 50th percentile male dummy in the front seat and the Subpart V SID-IIs 5th percentile female test dummy in the rear seat. The test dummies are placed and positioned in the front and rear outboard seating positions on the struck side of the vehicle, as specified in S11 and S12 of this standard (49 CFR 571.214).
 
-S7.2.2 Vehicles manufactured on or after September 1, 2014.
-
-(a) Subject to S7.2.4 of this section, each vehicle manufactured on or after September 1, 2014 must meet the requirements of S7.2.5 and S7.2.6, when tested with the test dummy specified in those sections.
-
-(b) Place the Subpart U ES-2re 50th percentile male dummy in the front seat and the Subpart V SID-IIs 5th percentile female test dummy in the rear seat. The test dummies are placed and positioned in the front and rear outboard seating positions on the struck side of the vehicle, as specified in S11 and S12 of this standard (49 CFR 571.214).
+S7.2.2 Each vehicle must meet the requirements of S7.2.5 and S7.2.6, when tested with the test dummy specified in those sections. Place the Subpart U ES-2re 50th percentile male dummy in the front seat and the Subpart V SID-IIs 5th percentile female test dummy in the rear seat. The test dummies are placed and positioned in the front and rear outboard seating positions on the struck side of the vehicle, as specified in S11 and S12 of this standard (49 CFR 571.214).
 
 S7.2.3 [Reserved]
 
-S7.2.4 Exceptions from the MDB phase-in; special allowances.
-
-(a)(1) Vehicles that are manufactured by an original vehicle manufacturer that produces or assembles fewer than 5,000 vehicles annually for sale in the United States are not subject to S7.2.1 of this section (but vehicles that will be manufactured on or after September 1, 2014 are subject to S7.2.2);
-
-(2) Vehicles that are manufactured by a limited line manufacturer are not subject to S7.2.1 of this section (but vehicles that will be manufactured on or after September 1, 2014 are subject to S7.2.2).
-
-(3) Convertibles manufactured before September 1, 2015, are not subject to S7.2.1 or S7.2.2 of this section. These vehicles may be voluntarily certified to meet the MDB test requirements prior to September 1, 2015. Vehicles manufactured on or after September 1, 2015 are subject to S7 and S7.2.2.
-
-(b) Vehicles that are altered (within the meaning of 49 CFR 567.7) before September 1, 2016 after having been previously certified in accordance with part 567 of this chapter, and vehicles manufactured in two or more stages before September 1, 2016, are not subject to S7.2.1. Vehicles that are altered on or after September 1, 2016, and vehicles that are manufactured in two or more stages on or after September 1, 2016, must meet the requirements of S7.2.5 and S7.2.6, when tested with the test dummy specified in those sections. Place the Subpart U ES-2re 50th percentile male dummy in the front seat and the Subpart V SID-IIs 5th percentile female test dummy in the rear seat. The test dummies are placed and positioned in the front and rear outboard seating positions on the struck side of the vehicle, as specified in S11 and S12 of this standard (49 CFR 571.214).
+S7.2.4 [Reserved]
 
 S7.2.5 Dynamic performance requirements using the Part 572 Subpart U dummy (ES-2re 50th percentile male) dummy. Use the 49 CFR Part 572 Subpart U ES-2re dummy specified in S11 with measurements in accordance with S11.5. The following criteria shall be met:
 
@@ -331,23 +299,9 @@ S9. Vehicle-To-Pole Requirements.
 
 S9.1 Except as provided in S5, when tested under the conditions of S10:
 
-S9.1.1 Except as provided in S9.1.3 of this section, for vehicles manufactured on or after September 1, 2010 to August 31, 2014, a percentage of each manufacturer's production, as specified in S13.1.1, S13.1.2, S13.1.3, and S13.1.4 shall meet the requirements of S9.2.1, S9.2.2, and S9.2.3 when tested under the conditions of S10 into a fixed, rigid pole of 254 mm (10 inches) in diameter, at any velocity between 26 km/h to 32 km/h (16 to 20 mph) inclusive. Vehicles manufactured before September 1, 2014 that are not subject to the phase-in may be certified as meeting the requirements specified in this section.
+S9.1.1 [Reserved]
 
-S9.1.2 Except as provided in S9.1.3 of this section, each vehicle manufactured on or after September 1, 2014, must meet the requirements of S9.2.1, S9.2.2 and S9.2.3, when tested under the conditions specified in S10 into a fixed, rigid pole of 254 mm (10 inches) in diameter, at any speed up to and including 32 km/h (20 mph). All vehicles manufactured on or after September 1, 2014 must meet S9.1.2 without the use of advance credits.
-
-S9.1.3 Exceptions from the phase-in; special allowances.
-
-(a)(1) Vehicles that are manufactured by an original vehicle manufacturer that produces or assembles fewer than 5,000 vehicles annually for sale in the United States are not subject to S9.1.1 of this section (but vehicles manufactured on or after September 1, 2014 by these manufacturers are subject to S9.1.2);
-
-(2) Vehicles that are manufactured by a limited line manufacturer are not subject to S9.1.1 of this section (but vehicles manufactured on or after September 1, 2014 by these manufacturers are subject to S9.1.2).
-
-(b) Vehicles that are altered (within the meaning of 49 CFR 567.7) before September 1, 2016 after having been previously certified in accordance with part 567 of this chapter, and vehicles manufactured in two or more stages before September 1, 2016, are not subject to S9.1.1. Vehicles that are altered on or after September 1, 2016, and vehicles that are manufactured in two or more stages on or after September 1, 2016, must meet the requirements of S9.1.2, when tested under the conditions specified in S10 into a fixed, rigid pole of 254 mm (10 inches) in diameter, at any speed up to and including 32 km/h (20 mph).
-
-(c) Vehicles with a gross vehicle weight rating greater than 3,855 kg (8,500 lb) manufactured before September 1, 2015 are not subject to S9.1.1 or S9.1.2 of this section. These vehicles may be voluntarily certified to meet the pole test requirements prior to September 1, 2015. Vehicles with a gross vehicle weight rating greater than 3,855 kg (8,500 lb) manufactured on or after September 1, 2015 must meet the requirements of S9.2.1, S9.2.2 and S9.2.3, when tested under the conditions specified in S10 into a fixed, rigid pole of 254 mm (10 inches) in diameter, at any speed up to and including 32 km/h (20 mph).
-
-(d)(1) Convertibles manufactured before September 1, 2015 are not subject to S9.1.1 or S9.1.2 of this section. These vehicles may be voluntarily certified to meet the pole test requirements prior to September 1, 2015.
-
-(2) Convertibles manufactured on or after September 1, 2015 must meet the requirements of S9.2.1, S9.2.2 and S9.2.3, when tested under the conditions specified in S10 into a fixed, rigid pole of 254 mm (10 inches) in diameter, at any speed up to and including 32 km/h (20 mph).
+S9.1.2 Each vehicle must meet the requirements of S9.2.1, S9.2.2 and S9.2.3, when tested under the conditions specified in S10 into a fixed, rigid pole of 254 mm (10 inches) in diameter, at any speed up to and including 32 km/h (20 mph).
 
 S9.2 Requirements. Each vehicle shall meet these vehicle-to-pole test requirements when tested under the conditions of S10 of this standard. At NHTSA's option, either the 50th percentile adult male test dummy (ES-2re dummy, 49 CFR Part 572 Subpart U) or the 5th percentile adult female test dummy (SID-IIs, 49 CFR Part 572 Subpart V) shall be used in the test. At NHTSA's option, either front outboard seating position shall be tested. The vehicle shall meet the specific requirements at all front outboard seating positions.
 
@@ -455,27 +409,7 @@ S11.4 Acceleration data. Accelerometers are installed on the head, rib, spine an
 
 S11.5 Processing Data.
 
-(a) Subpart F (SID) test dummy.
-
-(1) Process the acceleration data from the accelerometers mounted on the ribs, spine and pelvis of the Subpart F dummy with the FIR100 software specified in 49 CFR 572.44(d). Process the data in the following manner:
-
-(i) Filter the data with a 300 Hz, SAE Class 180 filter;
-
-(ii) Subsample the data to a 1600 Hz sampling rate;
-
-(iii) Remove the bias from the subsampled data; and
-
-(iv) Filter the data with the FIR100 software specified in 49 CFR 572.44(d), which has the following characteristics—
-
-(A) Passband frequency 100 Hz.
-
-(B) Stopband frequency 189 Hz.
-
-(C) Stopband gain −50 db.
-
-(D) Passband ripple 0.0225 db.
-
-(2) [Reserved]
+(a) [Reserved]
 
 (b) Subpart U (ES-2re 50th percentile male) test dummy.
 
@@ -753,8 +687,6 @@ S12.3.4 5th percentile female in rear outboard seating positions.
 
 (l) Passenger arm/hand positioning. Place the rear dummy's upper arm such that the angle between the projection of the arm centerline on the midsagittal plane of the dummy and the torso reference line is 45° ±5°. The torso reference line is defined as the thoracic spine centerline. The shoulder-arm joint allows for discrete arm positions at 0, ±45, ±90, ±135, and 180 degree settings where positive is forward of the spine.
 
-S13 Phase-in of moving deformable barrier and vehicle-to-pole performance requirements.
-
 S13.1 Vehicles manufactured on or after September 1, 2010 and before September 1, 2014. At anytime during the production years ending August 31, 2011, August 31, 2012, August 31, 2013, and August 31, 2014, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with the moving deformable barrier test with advanced test dummies (S7.2), or the vehicles (by make, model and vehicle identification number) that have been certified as complying with the vehicle-to-pole test requirements (S9.1) of this standard. The manufacturer's designation of a vehicle as a certified vehicle meeting S7.2 or S9.1 is irrevocable.
 
 S13.1.1 Vehicles manufactured on or after September 1, 2010 and before September 1, 2011.
@@ -851,4 +783,4 @@ S13.4 Calculation of complying vehicles.
 
 (e) For the purposes of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer, each vehicle that is excluded from having to meet the applicable requirement is not counted.
 
-*[72 FR 51957, Sept. 11, 2007, as amended at 73 FR 32483, June 9, 2008; 75 FR 12139, Mar. 15, 2010; 77 FR 767, Jan. 6, 2012; 76 FR 52884, Aug. 24, 2011; 77 FR 70914, Nov. 28, 2012; 85 FR 85535, Dec. 29, 2020; 87 FR 39310, June 30, 2022; 87 FR 18597, Mar. 30, 2022]*
+*[72 FR 51957, Sept. 11, 2007, as amended at 73 FR 32483, June 9, 2008; 75 FR 12139, Mar. 15, 2010; 77 FR 767, Jan. 6, 2012; 76 FR 52884, Aug. 24, 2011; 77 FR 70914, Nov. 28, 2012; 85 FR 85535, Dec. 29, 2020; 87 FR 39310, June 30, 2022; 87 FR 18597, Mar. 30, 2022; 91 FR 33115, June 3, 2026]*

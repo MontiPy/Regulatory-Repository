@@ -21,9 +21,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-595
 status: in-force
 summary: Retrofit air bag on-off switches installed by motor vehicle dealers and repair
   businesses are exempted from the federal prohibition against making safety equipment
-  inoperative, provided specific conditions are met. Dealers and repair businesses
-  must obtain NHTSA authorization, install switches that meet defined...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  inoperative, provided specific conditions are met.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: da463b22b0cb51294d1a0214ad4f00eaff4556ce
 systems:
 - Restraints
@@ -31,8 +30,6 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 595—MAKE INOPERATIVE EXEMPTIONS
-un_equivalent_ai:
-- UN R114
 vehicle_categories:
 - Passenger car
 - Light truck

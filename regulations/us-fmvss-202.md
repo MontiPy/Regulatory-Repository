@@ -20,12 +20,13 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.202
-status: in-force
+status: superseded
+status_note: Applies only to vehicles manufactured before 1 Sep 2009 (phase-in until
+  1 Sep 2010); superseded by FMVSS 202a.
 summary: Head restraints in passenger cars and light-duty multipurpose passenger vehicles,
   trucks, and buses (GVWR of 4,536 kg or less) manufactured before September 1, 2009,
-  are regulated to reduce neck injury frequency and severity in collisions. The standard
-  requires head restraints at front outboard seating positions (and...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  are regulated to reduce neck injury frequency and severity in collisions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d05be27c4bc28d66d673c50eb8c88f8b69f00c96
 systems:
 - Restraints
@@ -34,9 +35,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers
   option until September 1, 2009.
-un_equivalent_ai:
-- UN R17
-- UN R25
 vehicle_categories:
 - Passenger car
 - Light truck

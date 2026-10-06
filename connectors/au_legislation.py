@@ -1,8 +1,10 @@
 """Australian Federal Register of Legislation connector — pulls ADR instruments."""
 from __future__ import annotations
 
+import io
 import re
 import sys
+import zipfile
 from pathlib import Path
 from typing import Any
 
@@ -17,6 +19,37 @@ BROWSE_BASE = "https://www.legislation.gov.au"
 
 def _instrument_url(instrument_id: str) -> str:
     return f"https://www.legislation.gov.au/Details/{instrument_id}"
+
+
+def _fetch_epub_text(session: RateLimitedSession, instrument_id: str) -> str:
+    """Latest compiled text, from the FRL API's EPUB rendition (zipped XHTML, in spine order)."""
+    url = (
+        f"{API_BASE}/documents/find(titleId='{instrument_id}',asAtSpecification='Latest',type='Primary',"
+        "format='Epub',uniqueTypeNumber=0,volumeNumber=0,rectificationVersionNumber=0)"
+    )
+    try:
+        data = session.get(url).content
+        zf = zipfile.ZipFile(io.BytesIO(data))
+    except Exception:
+        return ""
+    opf_name = next((n for n in zf.namelist() if n.endswith(".opf")), None)
+    if opf_name:
+        opf = zf.read(opf_name).decode("utf-8", errors="replace")
+        base = opf_name.rsplit("/", 1)[0] + "/" if "/" in opf_name else ""
+        hrefs = dict(re.findall(r'<item[^>]*id="([^"]+)"[^>]*href="([^"]+)"', opf))
+        hrefs.update({k: v for v, k in re.findall(r'<item[^>]*href="([^"]+)"[^>]*id="([^"]+)"', opf)})
+        order = [base + hrefs[i] for i in re.findall(r'<itemref[^>]*idref="([^"]+)"', opf) if i in hrefs]
+    else:
+        order = sorted(n for n in zf.namelist() if n.endswith((".xhtml", ".html", ".htm")))
+    parts = []
+    for name in order:
+        try:
+            html = zf.read(name).decode("utf-8", errors="replace")
+        except KeyError:
+            continue
+        m = re.search(r"<body[^>]*>(.*?)</body>", html, re.DOTALL | re.IGNORECASE)
+        parts.append(markdownify(m.group(1) if m else html))
+    return re.sub(r"\n{3,}", "\n\n", "\n\n".join(parts)).strip()
 
 
 def _fetch_instrument(session: RateLimitedSession, instrument_id: str, hint_title: str) -> tuple[dict[str, Any], str]:
@@ -40,15 +73,8 @@ def _fetch_instrument(session: RateLimitedSession, instrument_id: str, hint_titl
     else:
         citation = instrument_id
 
-    html_url = f"{BROWSE_BASE}/Details/{instrument_id}/Download"
-    try:
-        html_resp = session.get(f"{BROWSE_BASE}/Details/{instrument_id}")
-        html_text = html_resp.text
-        md_body = markdownify(html_text)
-        md_body = re.sub(r"\n{3,}", "\n\n", md_body).strip()
-        if not md_body:
-            md_body = f"# {title}\n\nSee {_instrument_url(instrument_id)} for full text."
-    except Exception:
+    md_body = _fetch_epub_text(session, instrument_id)
+    if not md_body:
         md_body = f"# {title}\n\nSee {_instrument_url(instrument_id)} for full text."
 
     record: dict[str, Any] = {

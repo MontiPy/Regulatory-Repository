@@ -1,0 +1,15 @@
+{
+ "shard": "cw-07",
+ "kind": "crosswalk",
+ "items": [
+  "exterior-noise",
+  "mac-refrigerant",
+  "end-of-life",
+  "emc",
+  "radio-equipment",
+  "cybersecurity",
+  "software-updates",
+  "ecall",
+  "anti-theft"
+ ]
+}

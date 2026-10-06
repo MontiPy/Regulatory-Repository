@@ -22,11 +22,13 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Seat belt anchorage systems and installed seat belts in motor vehicles must
-  meet specified adjustment and static strength standards, including minimum load
-  thresholds (varying by vehicle class and seating row) that anchorages must withstand,
-  defined angular and spacing requirements for lap anchorage positioning, and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 103 of the Korean Motor Vehicle Safety Standards (KMVSS) sets seat
+  belt and seat belt anchorage requirements. Belts must meet the adjustment and static
+  strength standards in Attached Tables 15 and 16. Anchorages must withstand specified
+  static loads (for example 2,270 kg lap and 1,360 kg shoulder/lap for 10 seconds,
+  lower for light-class vehicles and non-front van seats) and meet geometry rules,
+  with shoulder anchorage positions per Attached Table 17.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 324886706f05b4b135af899d55a7c71b111b872d
 systems:
 - Restraints
@@ -35,8 +37,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 103 — Seat Belt Anchorage System
 translation_status: translated
-un_equivalent_ai:
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

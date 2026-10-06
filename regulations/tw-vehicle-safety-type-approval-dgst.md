@@ -1,5 +1,6 @@
 ---
-citation: Vehicle Safety Type Approval / DGST
+citation: Vehicle Safety Type Approval Management Regulations; Vehicle Safety Testing
+  Directions (VSTD)
 commodities: []
 id: tw-vehicle-safety-type-approval-dgst
 last_pulled: '2026-06-01T18:54:42+00:00'
@@ -20,11 +21,11 @@ region: TW
 source_api: spreadsheet
 source_url: https://www.vscc.org.tw/Home/Content/509
 status: in-force
-summary: Taiwan's vehicle safety type approval and DGST framework governs market access
-  for vehicles sold in Taiwan, requiring manufacturers to obtain recognized safety
-  and environmental approvals, maintain complete and traceable compliance documentation,
-  and ensure correct certification labels, variant data, and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Taiwan's vehicle safety type approval framework, administered by MOTC and
+  VSCC, governs market access for vehicles sold in Taiwan, with safety tests carried
+  out under the Vehicle Safety Testing Directions. Manufacturers must keep traceable
+  approval documentation and correct certification labels and variant data.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ee13a0bf3518be9d76ed6daaf0e489cc5dfbed94
 systems:
 - Lighting & signaling
@@ -37,7 +38,8 @@ systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
-title: Taiwan vehicle safety type approval and DGST safety test framework
+title: Taiwan Vehicle Safety Type Approval Management Regulations and Vehicle Safety
+  Testing Directions
 vehicle_categories:
 - Passenger car
 - Light truck

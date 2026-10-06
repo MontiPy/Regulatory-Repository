@@ -22,11 +22,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Seat belt installation in Korean motor vehicles requires that all seats be
-  fitted with seat belts, with defined exceptions such as certain city and rural bus
-  passenger seats and seats approved by the Minister, and mandates three-point or
-  higher belts for all passenger car seats and driver-adjacent seats, seat belt...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Requires seat belts at all vehicle seats, with listed exceptions such as
+  patient transport seats and city, rural and village bus seats not used on expressways.
+  Specifies three-point belts for passenger car seats and front-row seats of other
+  vehicles, a seat belt reminder warning device, compliance with Article 112-3, and
+  belts adjustable to children's body size in school vans.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: da73611378d79deccd8941519fc15e283ed277ab
 systems:
 - Restraints
@@ -36,9 +37,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 27 — Seat Belt System
 translation_status: translated
-un_equivalent_ai:
-- UN R16
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

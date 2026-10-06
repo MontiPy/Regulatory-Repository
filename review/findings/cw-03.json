@@ -1,0 +1,194 @@
+{
+ "shard": "cw-03",
+ "reviewed": [
+  "child-restraints",
+  "child-presence",
+  "brakes",
+  "esc",
+  "brake-assist",
+  "aeb",
+  "lane-keeping",
+  "isa",
+  "driver-monitoring",
+  "automated-driving"
+ ],
+ "findings": [
+  {
+   "id": "aeb",
+   "field": "cells.CN",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "cite: 'Mandatory GB for light-vehicle AEB under development'; status: proposed",
+   "proposed": "GB 39901-2025 (Light-duty vehicle AEBS requirements and test methods), mandatory, published 2026-01-29, effective 2028-01-01 for new M1 type approvals (full content 2030-01-01; N1 phased from 2029); status phase-in. Verify against the SAMR notice before changing.",
+   "evidence": "Search snippet: '强制性国家标准《轻型汽车自动紧急制动系统技术要求及试验方法》(GB 39901-2025)于2026年1月29日正式发布，将于2028年1月1日正式实施 ... 新标准由推荐性转为强制性'. Not a single official-source confirmation (gov sites blocked).",
+   "evidence_url": "https://www.huxiu.com/moment/1217143.html",
+   "confidence": "medium"
+  },
+  {
+   "id": "aeb",
+   "field": "cells.AU",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "cite 'ADR 98/02 (car-to-car + pedestrian/cyclist)', status phase-in, only record au-f2026l00284",
+   "proposed": "ADR 98/02 appears to be the newer cyclist-detection stage layered on ADR 98/00 (car-to-car) and 98/01 (pedestrian). Reword cite to name 98/00, 98/01 and 98/02 separately; car-to-car and pedestrian AEB are already applied to new and all vehicles, so status is not simply phase-in. Records for ADR 98/00 and 98/01 are not in the repo. Application dates for 98/02 are unverified (consultation draft said 1 Nov 2027 new models / 1 Nov 2028 all).",
+   "evidence": "Search: 'ADR 98/02 ... prevent or mitigate collisions with bicyclists and expands on earlier ADR provisions that already address rear-end collisions and impacts involving pedestrians ... ADR 98/00 car-to-car ... ADR 98/01 pedestrian ... new models since August 2024'. Record au-f2026l00284 body is only the Federal Register page chrome; no dates in text.",
+   "evidence_url": "https://www.infrastructure.gov.au/have-your-say/advanced-emergency-braking-passenger-vehicles-and-light-goods-vehicles-australian-design-rule-9802",
+   "confidence": "medium"
+  },
+  {
+   "id": "aeb",
+   "field": "cells.CA",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "'No CMVSS yet (voluntary commitment; tracking FMVSS 127)', status proposed",
+   "proposed": "Reword: Transport Canada consulted in 2020 on mandating AEB; no Canada Gazette proposal found. 'voluntary commitment' and 'tracking FMVSS 127' not supported by anything found; status 'proposed' may overstate (no published proposal).",
+   "evidence": "Search: TC consultation 1 Sep-7 Oct 2020; 'Canada Gazette Part I and Part II publications for this specific regulation have not been published yet'.",
+   "evidence_url": "https://tc.canada.ca/en/corporate-services/consultations/should-automatic-emergency-braking-systems-be-required-new-vehicles",
+   "confidence": "low"
+  },
+  {
+   "id": "brakes",
+   "field": "cells.BR",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "CONTRAN 915/2022 (record br-contran-915) listed as light-vehicle (M1/N1) brake performance regulation",
+   "proposed": "CONTRAN 915/2022 concerns brake-system evaluation procedures and mandatory ABS or CBS for L-category vehicles (L3-L7, motorcycles/tricycles/quadricycles), not M1/N1. Remove from this light-vehicle row (or note 'motorcycles only') and say no Brazilian M1/N1 brake cell found. Record br-contran-915 also has no regulation text (summary admits 'only a title... without any substantive content').",
+   "evidence": "Search: 'Resolução CONTRAN 915/2022 ... obrigatoriedade do ABS e/ou CBS nos veículos das categorias L3, L4, L5, L6 e L7 ... motocicletas, motonetas, triciclos e quadricíclos'. Record body: 'Full text requires visiting the official CONTRAN resolution archive'; record tags vehicle_categories include Passenger car/Light truck.",
+   "evidence_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-915-de-28-de-marco-de-2022",
+   "confidence": "high"
+  },
+  {
+   "id": "brakes",
+   "field": "cells.CA.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "ca-mvsr-c-r-c---c--1038-s135 has title 'MVSR s. 135' (no subject)",
+   "proposed": "Retitle record as 'MVSR s. 135 - Light Vehicle Brake Systems (TSD 135)'. (Crosswalk citation CMVSS 135 itself is correct.)",
+   "evidence": "Record body: '135(1)Every passenger car... GVWR of 3 500 kg or less shall conform to ... Technical Standards Document No. 135, Light Vehicle Brake Systems (TSD 135)'.",
+   "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s135.md",
+   "confidence": "high"
+  },
+  {
+   "id": "esc",
+   "field": "cells.CA.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "CMVSS 126 cell has no records link",
+   "proposed": "Add records: ca-mvsr-c-r-c---c--1038-s126 (exists in repo; MVSR s. 126 incorporating TSD 126, with Annex 9 of UN R13H alternative).",
+   "evidence": "Record body: '126(1)Every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less must conform to ... TSD 126, Electronic Stability Control Systems for Light Vehicles'.",
+   "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s126.md",
+   "confidence": "high"
+  },
+  {
+   "id": "esc",
+   "field": "cells.CN",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite GB/T 30677-2014 listed first, no status",
+   "proposed": "Add status note: GB/T 30677-2014 is a recommended (GB/T) standard, not mandatory; mandatory ESC fitment comes only via GB 7258 for specified categories, not generally for M1.",
+   "evidence": "'GB/T' prefix denotes recommended national standard; record title 'Performance requirements and testing methods for ESC for light vehicles'. Scope of GB 7258 ESC mandate not verified here.",
+   "evidence_url": "regulations/cn-gb-t-30677-2014.md",
+   "confidence": "low"
+  },
+  {
+   "id": "lane-keeping",
+   "field": "cells.UN",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "cite 'UN R130 (LDWS, heavy); UN R79 (ELKS / corrective steering)', records only ece-r79",
+   "proposed": "ELKS is not defined in UN R79; the EU 2021/646 ELKS text (LDWS + corrective directional control function) is tagged un_equivalent UN R130 in repo. Re-cite: UN R130 (LDWS; ELKS-equivalent requirements) and note R79 covers ACSF/corrective steering separately; add an R130 record (none in repo) and link it instead of/in addition to R79.",
+   "evidence": "eu-32021r0646 body: '2.1. An emergency lane-keeping system (ELKS) shall comprise a lane departure warning system (LDWS) and a corrective directional control function (CDCF)'; frontmatter un_equivalent: UN R130. ece-r79 body is a stub.",
+   "evidence_url": "regulations/eu-32021r0646.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "lane-keeping",
+   "field": "cells.EU",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite '(EU) 2021/646 - ELKS (M1/N1)' only",
+   "proposed": "Topic is LDW/ELKS but EU cell omits LDW for M2/M3/N2/N3 (UN R130 via 2019/2144) and gives no mandatory status or dates; add status and the 2019/2144 link (eu-32019r2144 exists).",
+   "evidence": "2021/646 title: 'type-approval of motor vehicles with regard to their emergency lane-keeping systems (ELKS)'; scope limited to M1/N1.",
+   "evidence_url": "regulations/eu-32021r0646.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "child-presence",
+   "field": "cells.KR",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "cite 'KMVSS Art. 53-4', no status, no scope",
+   "proposed": "Add scope: applies only to school vans for children (bus category), not general passenger cars; status mandatory for those vans. Otherwise the row implies a general child-presence requirement in Korea.",
+   "evidence": "Record body: 'School vans for children shall be equipped with a child presence detection system ...'",
+   "evidence_url": "regulations/kr-kmvss-art53-4.md",
+   "confidence": "high"
+  },
+  {
+   "id": "automated-driving",
+   "field": "cells.UN",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite 'UN R157 (ALKS); UN R171 (DCAS, L2)', records only ece-r157",
+   "proposed": "R171 has no repository record; L2 DCAS is outside the topic title (ALKS/ADS L3+). Either add an R171 record or drop it from the cite.",
+   "evidence": "No regulations/ece-r171.md present (ls of regulations/).",
+   "evidence_url": "regulations/",
+   "confidence": "medium"
+  },
+  {
+   "id": "automated-driving",
+   "field": "cells.CN",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite 'GB 44497-2024 (DSSAD); L3/L4 pilot access rules', record cn-gb-44497",
+   "proposed": "GB 44497-2024 is a data-storage (DSSAD) standard, not an ADS approval requirement; make clear it does not by itself approve L3+ ADS and cite the pilot access notice only if a source is added. Record summary/body are generic (cyber/ADAS boilerplate, 'Regulated Area: Active safety / braking / ADAS') and do not match the DSSAD title.",
+   "evidence": "Record body: 'Ensure electronic systems are resilient to cyber/software risks...' and 'Possible functional overlap: GB 4094-2016 - Symbols for Controls...' vs title 'Data storage system for automated driving'.",
+   "evidence_url": "regulations/cn-gb-44497.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "isa",
+   "field": "cells.IN",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite 'AIS-145 over-speed warning'",
+   "proposed": "AIS-145 speed alert (beeps at 80 and 120 km/h, M1) is a fixed-threshold overspeed alert, not speed-limit awareness ISA; add note that it is not equivalent to (EU) 2021/1958, and no repository record backs the cell.",
+   "evidence": "Search: 'speed alert system ... beep sound twice in a minute above 80 km/h, continuous above 120 km/h ... applicable to M1'.",
+   "evidence_url": "https://morth.nic.in/sites/default/files/ASI/110201922646PMAIS_145_F.pdf",
+   "confidence": "medium"
+  },
+  {
+   "id": "child-restraints",
+   "field": "cells.CN.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cn-gb-27887-2024 body/summary describe vehicle-side ISOFIX anchorages and CRS fit zones",
+   "proposed": "GB 27887-2024 is the child restraint product standard (replaces GB 27887-2011, effective 2025-07-01, mandatory, CCC-covered); record text/summary describe anchorage requirements (that is GB 14167), so it does not support the 'products' topic. Dates in crosswalk are correct.",
+   "evidence": "Search: 'GB 27887-2024 机动车儿童乘员用约束系统 ... 实施日期 2025-07-01 ... 完全替代 GB 27887-2011'. Record body: 'ISOFIX/LATCH lower anchors, top tether anchors, child restraint fit zones'; body is generic boilerplate, paywalled.",
+   "evidence_url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=C0E44B876CDAA2864F33723A0DB03CA0",
+   "confidence": "medium"
+  },
+  {
+   "id": "child-restraints",
+   "field": "cells.UN.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "ece-r44 and ece-r129 records have no regulation text (link-only stub), status in-force",
+   "proposed": "Records are stubs ('See the UNECE WP.29 Regulations index'); R44 summary admits no detail. Note R44/04 new approvals/sales ended (EU sales ban Sept 2024) in the cite; status 'in-force' without qualifier could mislead.",
+   "evidence": "ece-r44 body: 'See the UNECE WP.29 Regulations index for the full text of UN Regulation No. 44.'",
+   "evidence_url": "regulations/ece-r44.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "brake-assist",
+   "field": "cells.JP",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "JP cite 'UN R139 (applied)' linked to jp-srrv-brake-assist-systems whose citation is 'SRRV / TRIAS / UN R139'",
+   "proposed": "Acceptable but cite should name the Japanese instrument (Safety Regulations Art. 12 / TRIAS) and not only UN R139; weak citation form.",
+   "evidence": "Record citation: 'SRRV / TRIAS / UN R139'.",
+   "evidence_url": "regulations/jp-srrv-brake-assist-systems.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Systemic: most UN R records (R44, R129, R13/R13-H, R139, R140, R152, R79, R157) are link-only stubs with no regulation text, so the crosswalk 'records' links for UN/EU/JP columns do not give the engineer text. Several crosswalk cells (CN AEB, AU AEB) look stale relative to 2025-26 publications. Not verified: GSO 1709:2005, KMVSS article scopes beyond stub text, FMVSS 213b date, EU GSR2 phase-in dates, JP/KR cells, GB 7258 ESC scope. Confirmed OK: FMVSS 127 compliance 1 Sept 2029, GB 21670-2025 effective 2026-01-01, GB 27887-2024 effective 2025-07-01, EU 2021/1958 ISA, 2021/1341 DDAW, 2023/2590 ADDW, 2022/1426 ADS, R44 EU sales end Sept 2024, Hot Cars rulemaking still pending."
+}

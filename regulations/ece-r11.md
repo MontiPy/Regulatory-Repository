@@ -4,7 +4,7 @@ commodities:
 - Door latches & hinges
 - Body structure
 id: ece-r11
-last_pulled: '2026-06-01T18:53:05+00:00'
+last_pulled: '2026-10-06T03:31:56+00:00'
 open_tags:
 - door latch
 - door hinge
@@ -20,13 +20,13 @@ open_tags:
 - door integrity
 region: ECE
 source_api: unece
-source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42019X1354
 status: in-force
 summary: Door latches and door retention components on vehicles are regulated under
   UN R11, which establishes requirements to ensure that vehicle doors remain securely
   closed during normal operation and in the event of a crash.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: ef245a3fea16cfbbbcbd5d9b62fa6e1b0fa11a83
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 3337f717b1a95170005a4c98c00bc05771a7d2d7
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -35,11 +35,1101 @@ title: UN Regulation No. 11 — Door Latches and Door Retention Components
 vehicle_categories:
 - Passenger car
 - Light truck
-- Bus
-- Heavy truck
-- Trailer
 ---
 
-# UN Regulation No. 11 — Door Latches and Door Retention Components
+> **Source:** text as published in the Official Journal of the European Union (CELEX 42019X1354, 2019-08-21). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.
 
-See the [UNECE WP.29 Regulations index](https://unece.org/transport/vehicle-regulations-wp29/Regulations) for the full text of UN Regulation No. 11.
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 21.8.2019 | EN | Official Journal of the European Union | L 218/1 |
+
+---
+
+Only the original UN/ECE texts have legal effect under international public law. The status and date of entry into force of this Regulation should be checked in the latest version of the UN/ECE status document TRANS/WP.29/343, available at:
+
+http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html
+
+Regulation No 11 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles with regard to door latches and door retention components [2019/1354]
+
+Incorporating all valid text up to:
+
+Supplement 2 to the 04 series of amendments — Date of entry into force: 28 May 2019
+
+CONTENTS
+
+REGULATION
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Scope |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Definitions |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Application for approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5. | General requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6. | Performance requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 7. | Test procedures |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 8. | Modification and extension of approval of the vehicle type |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 9. | Conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 10. | Penalties for non-conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 11. | Production definitively discontinued |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 12. | Names and addresses of Technical Services responsible for conducting approval tests, and of Type Approval Authorities |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 13. | Transitional provisions |  |
+
+ANNEXES
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Communication |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Arrangements of approval marks |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Latch test for load tests one, two, and three, force application |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Inertial test procedures |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5. | Hinge test procedure |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6. | Sliding side door — Full door test |  |
+
+1.   SCOPE
+
+This Regulation applies to vehicles of categories M1 and N1
+ [(1)](#ntr1-L_2019218EN.01000101-E0001) with respect to latches and door retention components such as hinges and other supporting means on doors, which can be used for the entry or exit of the occupants and/or can present the risk of occupants being thrown from a vehicle as a result of impact.
+
+2.   DEFINITIONS
+
+For the purposes of this Regulation:
+
+2.1.   
+‘Approval of a vehicle’ means the approval of a vehicle type with regard to door latches and door retention components.
+
+2.2.   
+‘Vehicle type’ means a category of motor vehicles which do not differ in such essential respects as:
+
+|  |  |
+| --- | --- |
+| 2.2.1. | Designation of the vehicle type by the manufacturer; |
+
+|  |  |
+| --- | --- |
+| 2.2.2. | The type of latch; |
+
+|  |  |
+| --- | --- |
+| 2.2.3. | The type of door retention component; |
+
+|  |  |
+| --- | --- |
+| 2.2.4. | The way in which the latches and door retention components are fitted to and retained by the structure of the vehicle; |
+
+|  |  |
+| --- | --- |
+| 2.2.5. | Type of sliding doors; |
+
+2.3.   
+‘Auxiliary door latch’ is a latch equipped with a fully latched position with or without a secondary latch position, and fitted to a door or door system equipped with a primary door latch system.
+
+2.4.   
+‘Auxiliary door latch system’ consists, at a minimum, of an auxiliary door latch and a striker.
+
+2.5.   
+‘Back door’ is a door or door system on the back end of a motor vehicle through which passengers can gain ingress or egress (including ejection), or through which cargo can be loaded or unloaded. It does not include:
+
+|  |  |
+| --- | --- |
+| (a) | A trunk lid; or |
+
+|  |  |
+| --- | --- |
+| (b) | A door or window composed entirely of glazing material and whose latches and/or hinge systems are attached directly to the glazing material; |
+
+2.6.   
+‘Body member’ is that portion of the hinge normally affixed to the body structure;
+
+2.7.   Additional protections
+
+|  |  |
+| --- | --- |
+| 2.7.1. | ‘Child safety lock system’ is a locking device which can be engaged and released independently of other locking devices and which, when engaged, prevents operation of the interior door handle or other release device. The lock release/engagement device may be manual or electric and may be located anywhere on or in the vehicle; |
+
+|  |  |
+| --- | --- |
+| 2.7.2. | ‘Full locking system’ is a system that renders the interior door release handle or any other door interior latch release control of any of the vehicles doors inoperable other than by operation of the system locks; |
+
+2.8.   
+‘Doors’ means hinged or sliding doors which lead directly into a compartment that contains one or more seating positions and which are not folding doors, roll-up doors and doors that are designed to be easily attached to or removed from motor vehicles manufactured for operation without doors;
+
+2.9.   
+‘Door closure warning system’ is a system that will activate a visual signal located where it can be clearly seen by the driver when a door latch system is not in its fully latched position and while the vehicle ignition is activated;
+
+2.10.   
+‘Door hinge system’ is one or more hinges used to support a door;
+
+2.11.   
+‘Door latch system’ consists, at a minimum, of a latch and a striker;
+
+2.12.   
+‘Door member’ is that portion of the hinge normally affixed to the door structure and constituting the swinging member;
+
+2.13.   
+‘Door system’ is the door, latch, striker, hinges, sliding track combinations and other door retention components on a door and its surrounding doorframe. The door system of a double door includes both doors;
+
+2.14.   
+‘Double door’ is a system of two doors where the front door or wing door opens first and connects to the rear door or bolted door, which opens second;
+
+2.15.   
+‘Fork-bolt’ is the part of the latch that engages and retains the striker when in a latched position;
+
+2.16.   
+‘Fork-bolt opening direction’ is the direction opposite to that in which the striker enters the latch to engage the fork-bolt;
+
+2.17.   
+‘Fully latched position’ is the coupling condition of the latch that retains the door in a completely closed position;
+
+2.18.   
+‘Hinge’ is a device used to position the door relative to the body structure and control the path of the door swing for passenger ingress and egress;
+
+2.19.   
+‘Hinge pin’ is that portion of the hinge normally interconnecting the body and door members and establishing the swing axis;
+
+2.20.   
+‘Latch’ is a device employed to maintain the door in a closed position relative to the vehicle body with provisions for deliberate release (or operation);
+
+2.21.   
+‘Primary door latch’ is a latch equipped with both a fully latched position and a secondary latched position and is designated as a ‘primary door latch’ by the manufacturer. The manufacturer may not thereafter change such designation. Each manufacturer shall, upon request, provide information regarding which latches are ‘primary door latches’ for a particular vehicle or make/model;
+
+2.22.   
+‘Primary door latch system’ consists, at a minimum, of a primary door latch and a striker;
+
+2.23.   
+‘Secondary latched position’ refers to the coupling condition of the latch that retains the door in a partially closed position;
+
+2.24.   
+‘Side front door’ is a door that, in a side view, has 50 per cent or more of its opening area forward of the rearmost point on the driver's seat back, when the seat back is adjusted to its most vertical and rearward position, providing direct access for passengers to enter or depart the vehicle;
+
+2.25.   
+‘Side rear door’ is a door that, in a side view, has 50 per cent or more of its opening area to the rear of the rearmost point on the driver's seat back, when the driver's seat is adjusted to its most vertical and rearward position, providing direct access for passengers to enter or depart the vehicle;
+
+2.26.   
+‘Striker’ is a device with which the latch engages to maintain the door in the fully latched or secondary latched position;
+
+2.27.   
+‘Trunk lid’ is a movable body panel that provides access from outside the vehicle to a space wholly partitioned from the occupant compartment by a permanently attached partition or fixed or fold-down seat back.
+
+3.   APPLICATION FOR APPROVAL
+
+3.1.   The application for approval of a vehicle type with regard to door latches and door retention components shall be submitted by the vehicle manufacturer or by his duly accredited representative.
+
+3.2.   It shall be accompanied by the undermentioned documents in triplicate and the following particulars:
+
+|  |  |
+| --- | --- |
+| 3.2.1. | Drawings of the doors and of their latches and door retention components on an appropriate scale and in sufficient detail; |
+
+|  |  |
+| --- | --- |
+| 3.2.2. | A technical description of the latches and door retention components. |
+
+3.3.   The application shall also be accompanied by:
+
+|  |  |
+| --- | --- |
+| 3.3.1. | A batch of five sets of retention components per door. When, however, the same sets are used for several doors, it will be sufficient to submit one batch of sets. Sets of door retention components which are distinguishable only because they are designed to be fitted on the left or on the right are not regarded as different; |
+
+|  |  |
+| --- | --- |
+| 3.3.2. | A batch of five complete latches, including actuating mechanism, per door. When, however, the same complete latches are used for several doors, it will be sufficient to submit one batch of latches. Latches which are distinguishable only because they are designed to be fitted on the left or on the right are not regarded as different. |
+
+3.4.   A vehicle, representative of the vehicle type to be approved, shall be submitted to the technical service responsible for conducting approval tests.
+
+4.   APPROVAL
+
+4.1.   If the vehicle type submitted for approval pursuant to this Regulation meets the requirements of paragraphs 5, 6 and 7 below, approval of that vehicle type shall be granted.
+
+4.2.   An approval number shall be assigned to each type approved. Its first two digits (03) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to the same vehicle type either if the doors are not equipped with latches or door retention components of the same type, or if the latches and door retention components are not fitted in the same manner as on the vehicle submitted for approval; on the other hand, it may assign the same number to another vehicle type whose doors are equipped with the same latches and door retention components fitted in the same manner as on the vehicle submitted for approval.
+
+4.3.   Notice of approval or of extension or refusal of approval of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation, by means of a form conforming to the model in Annex 1 to this Regulation.
+
+4.4.   There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation, an international approval mark consisting of:
+
+|  |  |
+| --- | --- |
+| 4.4.1. | A circle surrounding the letter ‘E’ followed by the distinguishing number of the country which has granted approval [(2)](#ntr2-L_2019218EN.01000101-E0002); |
+
+|  |  |
+| --- | --- |
+| 4.4.2. | The number of this Regulation, followed by the letter ‘R’, a dash and the approval number to the right of the circle described in paragraph 4.4.1. |
+
+4.5.   If the vehicle conforms to a vehicle type approved, under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1 need not be repeated; in such a case the Regulation and approval numbers and the additional symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1.
+
+4.6.   The approval mark shall be clearly legible and be indelible.
+
+4.7.   The approval mark shall be placed close to or on the vehicle data plate.
+
+4.8.   Annex 2 to this Regulation gives examples of arrangements of the approval marks.
+
+5.   GENERAL REQUIREMENTS
+
+5.1.   The requirements apply to all side and back doors and door components that are in the scope, except for those on folding doors, roll-up doors, detachable doors, and doors that are designated to provide emergency egress.
+
+5.2.   Door latches
+
+5.2.1.   Each hinged door system shall be equipped with at least one primary door latch system.
+
+5.2.2.   Each sliding door system shall be equipped with either:
+
+|  |  |
+| --- | --- |
+| (a) | A primary door latch system, or |
+
+|  |  |
+| --- | --- |
+| (b) | A door latch system with a fully latched position and a door closure warning system. |
+
+6.   PERFORMANCE REQUIREMENTS
+
+6.1.   Hinged doors
+
+6.1.1.   Load test one
+
+6.1.1.1.   Each primary door latch system and auxiliary door latch system, when in the fully latched position, shall not separate when a load of 11 000 N is applied in the direction perpendicular to the face of the latch such that the latch and the striker anchorage are not compressed against each other, when tested in accordance with paragraph 7.1.1.1.
+
+6.1.1.2.   When in the secondary latched position, the primary latch system shall not separate when a load of 4 500 N is applied in the same direction as in paragraph 6.1.1.1, when tested in accordance with paragraph 7.1.1.1.
+
+6.1.2.   Load test two
+
+6.1.2.1.   Each primary door latch system and auxiliary door latch system, when in the fully latched position, shall not separate when a load of 9 000 N is applied in the fork-bolt opening direction and parallel to the face of the latch, when tested in accordance with paragraph 7.1.1.1.
+
+6.1.2.2.   When in the secondary latched position, the primary latch system shall not separate when a load of 4 500 N is applied in the same direction, as in paragraph 6.1.2.1, when tested in accordance with paragraph 7.1.1.1.
+
+6.1.3.   Load test three (applicable to doors that open in a vertical direction)
+
+6.1.3.1.   Each primary door latch system shall not disengage from the fully latched position when a vertical load of 9 000 N is applied.
+
+6.1.4.   Inertial load
+
+Each primary door latch system and auxiliary door latch system shall meet the dynamic requirements of either paragraphs 6.1.4.1 and 6.1.4.2 or the calculation of inertial load resistance requirements of paragraph 6.1.4.3.
+
+6.1.4.1.   Each primary door latch system and auxiliary door latch system on each hinged door shall not disengage from the fully latched position when an inertial load of 30 g is applied to the door latch system, including the latch and its activation device, in the directions parallel to the vehicle's longitudinal and transverse axes with the locking device disengaged and when tested in accordance with paragraph 7.1.1.2.
+
+6.1.4.2.   Each primary door latch system and auxiliary door latch system on each hinged back door shall also not disengage from the fully latched position when an inertial load of 30 g is applied to the door latch system, including the latch and its activation device, in the direction parallel to the vehicle's vertical axis, with the locking device disengaged and when tested in accordance with paragraph 7.1.1.2.
+
+6.1.4.3.   Each component or subassembly can be calculated for its minimum inertial load resistance in a particular direction. The combined resistance to the unlatching operation must assure that the door latch system, when properly assembled in the vehicle door, will remain latched when subjected to an inertial load of 30 g in the vehicle directions specified in paragraphs 6.1.4.1 and 6.1.4.2, as applicable, in accordance with paragraph 7.1.1.2.
+
+6.1.5.   Door hinges
+
+6.1.5.1.   Each door hinge system shall:
+
+|  |  |
+| --- | --- |
+| (a) | Support the door; |
+
+|  |  |
+| --- | --- |
+| (b) | Not separate when a longitudinal load of 11 000 N is applied; |
+
+|  |  |
+| --- | --- |
+| (c) | Not separate when a transverse load of 9 000 N is applied; and |
+
+|  |  |
+| --- | --- |
+| (d) | On doors which open in a vertical direction, not separate when a vertical load of 9 000 N is applied. |
+
+6.1.5.2.   All tests required by paragraph 6.1.5.1 are conducted in accordance with paragraph 7.1.2.
+
+6.1.5.3.   If a single hinge within the hinge system is tested instead of the entire hinge system, the hinge must bear a load proportional to the total number of hinges in the hinge system.
+
+6.1.5.4.   On side doors with rear mounted hinges that can be operated independently of other doors,
+
+|  |  |
+| --- | --- |
+| (a) | The interior door handle shall be inoperative when the speed of the vehicle is greater than or equal to 4 km/h; and |
+
+|  |  |
+| --- | --- |
+| (b) | A door closure warning system shall be provided for those doors. |
+
+6.2.   Sliding side doors
+
+6.2.1.   Load test one
+
+6.2.1.1.   At least one door latch system, when in the fully latched position, shall not separate when a load of 11 000 N is applied in the direction perpendicular to the face of the latch, when tested in accordance with paragraph 7.2.1.1.
+
+6.2.1.2.   In the case of a primary door latch system, when in the secondary latched position, the door latch system shall not separate when a load of 4 500 N is applied in the same direction as in paragraph 6.2.1.1, when tested in accordance with paragraph 7.2.1.1.
+
+6.2.2.   Load test two
+
+6.2.2.1.   At least one door latch system, when in the fully latched position, shall not separate when a load of 9 000 N is applied in the direction of the fork-bolt opening and parallel to the face of the latch when tested in accordance with paragraph 7.2.1.1.
+
+6.2.2.2.   In the case of a primary door latch system, when in the secondary latched position, the primary latch system shall not separate when a load of 4 500 N is applied in the same direction as paragraph 6.2.2.1, when tested in accordance with paragraph 7.2.1.1.
+
+6.2.3.   Inertial load
+
+Each door latch system meeting the requirements of paragraphs 6.2.1 and 6.2.2 shall meet the dynamic requirements of either paragraph 6.2.3.1 or the calculation of inertial requirements of paragraph 6.2.3.2.
+
+6.2.3.1.   The door latch system shall not disengage from the fully latched position when an inertial load of 30 g is applied to the door latch system, including the latch and its activation device, in the directions parallel to the vehicle's longitudinal and transversal axes with the locking device disengaged and when tested in accordance with paragraph 7.2.1.2.
+
+6.2.3.2.   The minimum inertial load resistance can be calculated for each component or subassembly. Their combined resistance to the unlatching operation must assure that the door latch system, when properly assembled in the vehicle door, will remain latched when subjected to an inertial load of 30 g in the vehicle directions specified in paragraph 6.2.1 or 6.2.2, as applicable, in accordance with paragraph 7.2.1.2.
+
+6.2.4.   Door system
+
+6.2.4.1.   The track and slide combination or other supporting means for each sliding door, while in the closed fully latched position, shall not separate from the door frame when a total force of 18 000 N along the vehicle transverse axis is applied to the door in accordance with paragraph 7.2.2.
+
+6.2.4.2.   The sliding door, when tested in accordance with paragraph 7.2.2, fails this requirement if any one of the following occurs:
+
+|  |  |
+| --- | --- |
+| 6.2.4.2.1. | A separation which permits a sphere with a diameter of 100 mm to pass unobstructed from the interior of the vehicle to the exterior of the vehicle, while the required force is maintained. |
+
+|  |  |
+| --- | --- |
+| 6.2.4.2.2. | Either force application device reaches a total displacement of 300 mm. |
+
+6.3.   Door locks
+
+6.3.1.   Each door shall be equipped with at least one locking device which, when engaged, shall prevent operation of the exterior door handle or other exterior latch release control and which has an operating means and a lock release/engagement device located within the interior of the vehicle.
+
+6.3.1.1.   If fitted, a full locking system may only be activated when the ignition key is not in the engine running mode and shall be installed in combination with at least one of the following measures:
+
+|  |  |
+| --- | --- |
+| (a) | An alarm system with interior detection in accordance with Regulation No 116 or Regulation No 97, or other equipment which is able to detect an occupant's movement. The setting of the full locking system shall be prohibited where an occupant's movement is detected within the passenger compartment; or |
+
+|  |  |
+| --- | --- |
+| (b) | An acoustic warning device (e.g. horn) which can be activated from the interior of the vehicle in case that the ignition is switched off and the full locking system is activated. |
+
+6.3.2.   Rear side doors
+
+Each rear side door shall be equipped with at least one locking device which, when engaged, prevents operation of the interior door handle or other interior latch release control and requires separate actions to unlock the door and operate the interior door handle or other interior latch release control.
+
+6.3.2.1.   The locking device may be:
+
+|  |  |
+| --- | --- |
+| (a) | a child safety lock system; or |
+
+|  |  |
+| --- | --- |
+| (b) | a lock release/engagement device located within the interior of the vehicle and readily accessible to the driver of the vehicle or an occupant seated adjacent to the door. |
+
+6.3.2.2.   Either system described in paragraph 6.3.2.1(a) and (b) shall be permitted as an additional locking feature.
+
+6.3.3.   Back doors
+
+Each back door equipped with an interior door handle or other interior latch release control, shall be equipped with at least one locking device located within the interior of the vehicle which, when engaged, prevents operation of the interior door handle or other interior latch release control and requires separate actions to unlock the door and operate the interior door handle or other interior latch release control.
+
+6.3.3.1.   The locking device may be:
+
+|  |  |
+| --- | --- |
+| (a) | A child safety lock system; or |
+
+|  |  |
+| --- | --- |
+| (b) | A lock release/engagement device located within the interior of the vehicle and readily accessible; or |
+
+|  |  |
+| --- | --- |
+| (c) | A system which renders the interior door handle or other interior latch release control for this door inoperative when the speed of the vehicle is greater than or equal to 4 km/h; or |
+
+|  |  |
+| --- | --- |
+| (d) | Any combination of items (a), (b) or (c) above. |
+
+7.   TEST PROCEDURES
+
+7.1.   Hinged doors
+
+7.1.1.   Door latches
+
+7.1.1.1.   Load tests one, two, and three, force application
+
+Compliance with paragraphs 6.1.1, 6.1.2 and 6.1.3 is demonstrated in accordance with Annex 3.
+
+7.1.1.2.   Inertial force application
+
+Compliance with paragraph 6.1.4 is demonstrated in accordance with Annex 4.
+
+7.1.2.   Door hinges
+
+Compliance with paragraph 6.1.5 is demonstrated in accordance with Annex 5.
+
+7.2.   Sliding side doors
+
+7.2.1.   Door latches
+
+7.2.1.1.   Load tests one and two, force application
+
+Compliance with paragraphs 6.2.1 and 6.2.2 is demonstrated in accordance with Annex 3.
+
+7.2.1.2.   Inertial force application
+
+Compliance with paragraph 6.2.3 is demonstrated in accordance with Annex 4.
+
+7.2.2.   Door system
+
+Compliance with paragraph 6.2.4 is demonstrated in accordance with Annex 6.
+
+8.   MODIFICATION AND EXTENSION OF APPROVAL OF THE VEHICLE TYPE
+
+8.1.   Every modification of the vehicle type shall be notified to the Type Approval Authority which approved the vehicle type. The Type Approval Authority may then either:
+
+|  |  |
+| --- | --- |
+| 8.1.1. | Consider that the modifications made are unlikely to have appreciable adverse effects and that in any case the vehicle still complies with the requirements; or |
+
+|  |  |
+| --- | --- |
+| 8.1.2. | Require a further test report from the Technical Service responsible for conducting the tests. |
+
+8.2.   Confirmation or refusal of approval, specifying the alterations, shall be communicated by the procedure specified in paragraph 4.3 above to the Parties to the Agreement which apply this Regulation.
+
+8.3.   The Type Approval Authority issuing the extension of approval shall assign a series number to each communication form drawn up for such an extension.
+
+9.   CONFORMITY OF PRODUCTION
+
+9.1.   Every vehicle bearing an approval mark as prescribed under this Regulation shall conform to the vehicle type approved as regards features capable of modifying the characteristics of door latches and door retention components or the manner in which they are fitted.
+
+9.2.   In order to verify conformity as prescribed in paragraph 9.1 above, a sufficient number of random checks shall be made on serially manufactured vehicles bearing the approval mark required by this Regulation.
+
+9.3.   As a general rule the checks as aforesaid shall be confined to the taking of measurements. However, if necessary, the latches and door retention components shall be subjected to tests referred to in paragraphs 5 and 6 above, selected by the technical service responsible for conducting approval tests.
+
+10.   PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+
+10.1.   The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 9.1 above are not complied with, or if the said latches and door retention components fail to pass the tests provided for in paragraph 9.2 above.
+
+10.2.   If a Party to the Agreement which applies this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a copy of the approval form bearing at the end, in large letters, the signed and dated annotation ‘APPROVAL WITHDRAWN’.
+
+11.   PRODUCTION DEFINITIVELY DISCONTINUED
+
+If the holder of the approval completely ceases to manufacture a type of vehicle under this Regulation, he shall so inform the Type Approval Authority which granted the approval. Upon receiving the relevant communication that Authority shall inform thereof the other Parties to the Agreement applying this Regulation by means of a copy of the approval form bearing at the end, in large letters, the signed and dated annotation: ‘PRODUCTION DISCONTINUED’.
+
+12.   NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF TYPE APPROVAL AUTHORITY
+
+The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authority which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent.
+
+13.   TRANSITIONAL PROVISIONS
+
+13.1.   As from the official date of entry into force of the 03 series of amendments, no Contracting Party applying this Regulation shall refuse to grant approval under this Regulation as amended by the 03 series of amendments.
+
+13.2.   Until 12 August 2012, Contracting Parties applying this Regulation shall continue to grant approvals to those types of vehicles which comply with the requirements of this Regulation as amended by the preceding series of amendments.
+
+13.3.   As from 12 August 2012, Contracting Parties applying this Regulation shall grant approvals only if the vehicle type to be approved meets the requirements of this Regulation as amended by the 03 series of amendments.
+
+13.4.   No Contracting Party applying this Regulation shall refuse national or regional type approval of a vehicle type approved to the 03 series of amendments to this Regulation.
+
+13.5.   Until 12 August 2012, no Contracting Party applying this Regulation shall refuse national or regional type approval of a vehicle type approved to the preceding series of amendments to this Regulation.
+
+13.6.   As from 12 August 2012, Contracting Parties applying this Regulation may refuse first national or regional registration (first entry into service) of a vehicle which does not meet the requirements of the 03 series of amendments to this Regulation.
+
+13.7.   As from the official date of entry into force of the 04 series of amendments, no Contracting Party applying this Regulation shall refuse to grant or refuse to accept type approvals under this Regulation as amended by the 04 series of amendments.
+
+13.8.   As from 1 September 2016, Contracting Parties applying this Regulation shall grant type approvals only if the vehicle type to be approved meets the requirements of this Regulation as amended by the 04 series of amendments.
+
+13.9.   Contracting Parties applying this Regulation shall not refuse to grant extensions of type approvals for existing types which have been granted according to the preceding series of amendments to this Regulation.
+
+13.10.   Contracting Parties applying this Regulation shall continue to accept type approvals issued according to the preceding series of amendments to this Regulation first issued before 1 September 2016.
+
+---
+
+[(1)](#ntc1-L_2019218EN.01000101-E0001)  As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.6, para. 2. — http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+
+[(2)](#ntc2-L_2019218EN.01000101-E0002)  The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev. 6, Annex 3 — http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+
+---
+
+ANNEX 1
+
+*[Figure omitted — see the official source]*
+[Text of image](javascript:void(0);)
+
+COMMUNICATION
+
+(maximum format: A4 (210 × 297 mm))
+
+(1)
+
+Issued by: Name of administration:
+
+concerning (2): Approval granted
+
+Approval extended
+
+Approval refused
+
+Approval withdrawn
+
+Production definitively discontinued
+
+of a vehicle type with regard to the door latches and door retention components pursuant to Regulation No 11
+
+Approval No Extension No
+
+1. Trade name or mark of the motor vehicle:
+
+2. Vehicle type:
+
+3. Manufacturer’s name and address:
+
+4. Name and address of the manufacturer’s representative (if applicable):
+
+5. Vehicle submitted for approval on:
+
+6. Technical Service responsible for conducting approval tests:
+
+7. Date of test report:
+
+8. Number of test report:
+
+9. Remarks: the type of vehicle with the number of doors (sedan 2 doors, 4 doors — station wagon 4 doors …)
+
+10. Position of approval mark:
+
+11. Reason(s) of extension (if applicable):
+
+12. Approval granted/refused/extended/withdrawn (2):
+
+13. Place:
+
+14. Date:
+
+15. Signature:
+
+16. The list of documents deposited at the Type Approval Authority which has granted approval is annexed to this communication and available upon request.
+
+(1) Distinguishing number of the country which has granted, extended, refused or withdrawn approval (see approval provisions in the Regulation).
+
+(2) Strike out which does not apply.
+
+---
+
+ANNEX 2
+
+ARRANGEMENTS OF APPROVAL MARKS
+
+MODEL A
+
+(See paragraph 4.4 of this Regulation)
+
+*[Figure omitted — see the official source]*
+
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has, with regard to door latches and door retention components, been approved in the Netherlands (E4) pursuant to Regulation No 11, under approval number 042439. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No 11 as amended by the 04 series of amendments.
+
+MODEL B
+
+(See paragraph 4.5 of this Regulation)
+
+*[Figure omitted — see the official source]*
+
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has been approved in the Netherlands (E4) pursuant to Regulation No 11 as amended by the 04 series of amendments and Regulation No 39, as amended by the 04 series of amendments [(1)](#ntr1-L_2019218EN.01001101-E0001).
+
+---
+
+[(1)](#ntc1-L_2019218EN.01001101-E0001)  The second number is given merely as an example.
+
+---
+
+ANNEX 3
+
+LATCH TEST FOR LOAD TESTS ONE, TWO, AND THREE, FORCE APPLICATION
+
+1.   PURPOSE
+
+These tests are intended to establish minimum performance requirements and test procedures for evaluating and testing vehicle door latch systems for their ability to resist force loads in directions perpendicular to the latch face and parallel to the latch face in the fork-bolt opening direction. For doors which open in a vertical direction, the tests are intended to also establish minimum performance requirements and a test procedure for evaluating the primary latch system in a direction orthogonal to the first two directions. Primary door latch systems must demonstrate the ability to resist applicable force loads in both the fully and secondary latched positions; auxiliary door latch systems, and other door latch systems with only a fully-latched position, must demonstrate the ability to resist force loads in directions perpendicular to the latch face and parallel to the latch face in the fork-bolt opening direction at the levels specified for the fully latched position.
+
+2.   TEST OPERATION
+
+2.1.   Load test one
+
+2.1.1.   Equipment: Tensile testing fixture (see Figure 3-1).
+
+2.1.2.   Procedures
+
+2.1.2.1.   Fully latched position
+
+2.1.2.1.1.   Attach the test fixture to the mounting provisions of the latch and striker. Align in the direction of engagement parallel to the linkage of the test fixture. Mount the test fixture with the latch and striker in the fully latched position in the test machine.
+
+2.1.2.1.2.   Locate weights to apply a 900 N load tending to separate the latch and striker in the direction of the door opening.
+
+2.1.2.1.3.   Apply the test load, in the direction specified in paragraph 6.1.1 of this Regulation and Figure 3-4, at a rate not to exceed 5 mm/min until the required load has been achieved. Record the maximum load achieved.
+
+2.1.2.2.   Secondary latched position
+
+2.1.2.2.1.   Attach the test fixture to the mounting provisions of the latch and striker. Align in the direction of engagement parallel to the linkage of the test fixture. Mount the test fixture with the latch and striker in the secondary latched position in the test machine.
+
+2.1.2.2.2.   Locate weights to apply a 900 N load tending to separate the latch and striker in the direction of the door opening.
+
+2.1.2.2.3.   Apply the test load, in the direction specified in paragraph 6.1.1 of this Regulation and Figure 3-4, at a rate not to exceed 5 mm/min until the required load has been achieved. Record the maximum load achieved.
+
+2.1.2.2.4.   The test plate on which the door latch is mounted will have a striker cut-out configuration similar to the environment in which the door latch will be mounted on normal vehicle doors.
+
+2.2.   Load test two
+
+2.2.1.   Equipment: Tensile testing fixture (see Figure 3-2).
+
+2.2.2.   Procedures
+
+2.2.2.1.   Fully latched position
+
+2.2.2.1.1.   Attach the test fixture to the mounting provisions of the latch and striker. Mount the test fixture with the latch and striker in the fully latched position in the test machine.
+
+2.2.2.1.2.   Apply the test load, in the direction specified in paragraph 6.1.2 of this Regulation and Figure 3-4, at a rate not to exceed 5 mm/min until the required load has been achieved. Record the maximum load achieved.
+
+2.2.2.2.   Secondary latched position
+
+2.2.2.2.1.   Attach the test fixture to the mounting provision of the latch and striker. Mount the test fixture with the latch and striker in the secondary latched position in the test machine.
+
+2.2.2.2.2.   Apply the test load, in the direction specified in paragraph 6.1.2 of this Regulation and Figure 3-4, at a rate not to exceed 5 mm/min until the required load has been achieved. Record the maximum load achieved.
+
+2.3.   Load test three (For doors that open in a vertical direction)
+
+2.3.1.   Equipment: Tensile testing fixture (see Figure 3-3).
+
+2.3.2.   Procedure
+
+2.3.2.1.   Attach the test fixture to the mounting provisions of the latch and striker. Mount the test fixture with the latch and striker in the fully latched position in the test machine.
+
+2.3.2.2.   Apply the test load, in the direction specified in paragraph 6.1.3 of this Regulation and Figure 3-4, at a rate not to exceed 5 mm/min until the required load has been achieved. Record the maximum load achieved.
+
+Figure 3-1
+
+Door latch — Tensile testing fixture for load test one
+
+*[Figure omitted — see the official source]*
+
+Figure 3-2
+
+Door latch — Tensile testing fixture for load test two
+
+*[Figure omitted — see the official source]*
+
+Figure 3-3
+
+Door latch — Tensile testing fixture for load test three (For doors that open in a vertical direction)
+
+*[Figure omitted — see the official source]*
+
+Figure 3-4
+
+Door static load test directions
+
+*[Figure omitted — see the official source]*
+
+---
+
+ANNEX 4
+
+INERTIAL TEST PROCEDURES
+
+1.   PURPOSE
+
+To determine the ability of the vehicle latch system to resist inertial loading by means of a mathematical analysis of the component parts in their true car relationship or by evaluation using a dynamic test.
+
+2.   TEST PROCEDURES
+
+2.1.   Option 1, Calculation.
+
+2.1.1.   The procedure described in this annex provides a means for analytically determining the ability of a door latch system to withstand inertial loading. Spring forces are the average of the minimum spring output in the installed position and the minimum spring output in the release position. Friction effects and work to be done are not considered in the calculations. Gravitational pull on components may also be omitted if it tends to restrict unlatching. These omissions from the calculations are permissible because they provide additional factors of safety.
+
+2.1.2.   Calculation Consideration — Each component or subassembly can be calculated for its minimum inertial load resistance in a particular direction. Their combined resistance to the unlatching operation must assure that the door latch system (when properly assembled in the vehicle door) will remain latched when subjected to an inertial load of 30 g in any direction. Figure 4-1 is an example of the components and combinations of components to be considered.
+
+2.2.   Option 2, Full vehicle dynamic test
+
+2.2.1.   Test equipment
+
+2.2.1.1.   An acceleration (or deceleration) device.
+
+2.2.1.2.   One of the following vehicles:
+
+|  |  |
+| --- | --- |
+| 2.2.1.2.1. | A full vehicle including at least door(s), door latch(es), exterior door handle(s) with mechanical latch operation, interior door opening lever(s), the locking device(s), interior trim and door seal. |
+
+|  |  |
+| --- | --- |
+| 2.2.1.2.2. | A vehicle body in white (i.e., vehicle frame, doors and other door retention components) including at least door(s), door latch(es), exterior door handle(s) with mechanical latch operation, interior door opening lever(s), and the locking device(s). |
+
+2.2.1.3.   A device or means for recording door opening.
+
+2.2.1.4.   Equipment for measuring and recording accelerations.
+
+2.2.2.   Test setup
+
+2.2.2.1.   Rigidly secure the full vehicle or vehicle body in white to a device that when accelerated together will assure that all points on the crash pulse curve are within the corridor defined in Table 4-1 and Figure 4-2.
+
+2.2.2.2.   The doors may be tethered to avoid damaging the equipment used to record door opening.
+
+2.2.2.3.   Install the equipment used to record door opening.
+
+2.2.2.4.   Close the door(s) to be tested and ensure that the door latch(es) are in the fully-latched position, that the door(s) are unlocked, and that all windows, if provided, are closed.
+
+2.2.3.   Test directions (see Figure 4-3)
+
+2.2.3.1.   Longitudinal setup 1. Orient the vehicle or body in white so that its longitudinal axis is aligned with the axis of the acceleration device, simulating a frontal impact.
+
+2.2.3.2.   Longitudinal setup 2. Orient the vehicle or body in white so that its longitudinal axis is aligned with the axis of the acceleration device, simulating a rear impact.
+
+2.2.3.3.   Transverse setup 1. Orient the vehicle or body in white so that its transverse axis is aligned with the axis of the acceleration device, simulating a driver-side impact.
+
+2.2.3.4.   Transverse setup 2 (Only for vehicles having different door arrangements on each side). Orient the vehicle or body in white so that its transverse axis is aligned with the axis of the acceleration device, simulating a side impact in the direction opposite to that described in paragraph 2.2.3.3 of this annex.
+
+2.3.   Option 3, Door dynamic test
+
+2.3.1.   Test equipment
+
+2.3.1.1.   The door assembly(ies) including, at least, the door latch(es), exterior door handle(s) with mechanical latch operation, interior door opening lever(s), and the locking device(s)
+
+2.3.1.2.   A test fixture to mount the door(s).
+
+2.3.1.3.   An acceleration (or deceleration) device.
+
+2.3.1.4.   A tether.
+
+2.3.1.5.   A device or means for recording door opening.
+
+2.3.1.6.   Equipment for measuring and recording accelerations.
+
+2.3.2.   Test setup
+
+2.3.2.1.   Mount the door assemblies either separately or combined to the test fixture. Each door and striker should be mounted to correspond to its orientation on the vehicle and to the direction required for inertial load tests (paragraph 2.3.3 of this annex).
+
+2.3.2.2.   Mount the test fixture to the acceleration device.
+
+2.3.2.3.   Install the equipment used to record door opening.
+
+2.3.2.4.   Ensure that the door latch is in the fully-latched position, that the door is tethered, unlocked, and that the window, if provided, is closed.
+
+2.3.3.   Test directions (see Figure 4-3)
+
+2.3.3.1.   Longitudinal setup 1. Orient the door subsystem(s) on the acceleration device in the direction of a frontal impact.
+
+2.3.3.2.   Longitudinal setup 2. Orient the door subsystem(s) on the acceleration device in the direction of a rear impact.
+
+2.3.3.3.   Transverse setup 1. Orient the door subsystem(s) on the acceleration device in the direction of a driver-side impact.
+
+2.3.3.4.   Transverse setup 2. Orient the door subsystem(s) on the acceleration device in the direction opposite to that described in paragraph 2.3.3.3 of this annex.
+
+2.3.3.5.   Vertical setup 1. (Applicable to doors that open in a vertical direction). Orient the door subsystem(s) on the acceleration device so that its vertical axis (when mounted in a vehicle) is aligned with the axis of the acceleration device, simulating a rollover impact where the force is applied in the direction from the top to the bottom of the door (when mounted in a vehicle).
+
+2.3.3.6.   Vertical setup 2. (Applicable to doors that open in a vertical direction). Orient the door subsystem(s) on the acceleration device so that its vertical axis (when mounted in a vehicle) is aligned with the axis of the acceleration device, simulating a rollover impact where the force is applied in the direction opposite to that described in paragraph 2.3.3.5 of this annex.
+
+2.4.   Test operation for options 2 and 3
+
+2.4.1.   A minimum acceleration level of 30 g shall be maintained over a period of at least 30 ms, while keeping the acceleration within the pulse corridor as defined in Table 4-1 and graphically shown in Figure 4-2.
+
+2.4.2.   Accelerate the test fixture(s) in the following directions:
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.4.2.1. | For option 2 tests:   |  |  | | --- | --- | | 2.4.2.1.1. | In the direction specified in paragraph 2.2.3.1 of this annex. |  |  |  | | --- | --- | | 2.4.2.1.2. | In the direction specified in paragraph 2.2.3.2 of this annex. |  |  |  | | --- | --- | | 2.4.2.1.3. | In the direction specified in paragraph 2.2.3.3 of this annex. |  |  |  | | --- | --- | | 2.4.2.1.4. | In the direction specified in paragraph 2.2.3.4 of this annex. | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.4.2.2. | For Option 3 tests:   |  |  | | --- | --- | | 2.4.2.2.1. | In the direction specified in paragraph 2.3.3.1 of this annex. |  |  |  | | --- | --- | | 2.4.2.2.2. | In the direction specified in paragraph 2.3.3.2 of this annex. |  |  |  | | --- | --- | | 2.4.2.2.3. | In the direction specified in paragraph 2.3.3.3 of this annex. |  |  |  | | --- | --- | | 2.4.2.2.4. | In the direction specified in paragraph 2.3.3.4 of this annex. |  |  |  | | --- | --- | | 2.4.2.2.5. | In the direction specified in paragraph 2.3.3.5 of this annex. |  |  |  | | --- | --- | | 2.4.2.2.6. | In the direction specified in paragraph 2.3.3.6 of this annex. | |
+
+2.4.3.   If at any point in time the pulse exceeds 36 g and the test requirements are fulfilled, the test shall be considered valid.
+
+2.4.4.   Ensure that the door did not open and close during the test.
+
+Figure 4-1
+
+Inertial loading — Sample calculation
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Given:   |  |  | | --- | --- | |  | Door latch system subjected to a 30 g deceleration |  |  |  | | --- | --- | |  | Average Push-Button Spring Output Force = 0,459 kgf |  |  |  | | --- | --- | |  | Pawl Spring Output Torque = 0,0459 kgf m |  |  |  | | --- | --- | |  | a = 30g (m/s2) |  |  |  | | --- | --- | |  | F = ma = m × 30g = m × 294,2 | | | Image 8 |
+|  | |
+| M1 = 0,0163 kg  M2 = 0,0227 kg  M3 = 0,0122 kg  M4 = 0,0422 kg | d1 = 31,50 mm  d2 = 10,67 mm  d3 = 4,83 mm  d4 = 31,50 mm  d5 = 37,59 mm  d6 = 1,90 mm |
+
+|  |  |  |
+| --- | --- | --- |
+| F1 | = | M1 × a – Average load on knob spring = (0,0163 kg × 30g) – 0,459 kgf = 0,03 kgf |
+| F2 | = | M2 × a = 0,0227 kg × 30 g = 0,681 kgf |
+| F3 | = | M3/2 × a = 0,0122 kg/2 × 30 g = 0,183 kgf |
+| Σ Mo | = | F1 × d1 + F2 × d2 – F3 × d3  = 0,03 × 31,5 + 0,681 × 10,67 – 0,183 × 4,83  = 7,33 kgf mm |
+| F5 | = | Mo/d4 = 7,33/31,5 = 0,2328 kgf |
+| F6 | = | M4 × a = 0,0422 kg × 30 g = 1,266 kgf |
+| Σ Mo | = | Pawl spring output torque- (F5 d5 + F6 d6)/1 000  = 0,0459 – (0,2328 × 37,59 + 1,266 × 1,9)/1 000  = 0,0347 kgf m |
+
+Table 4-1
+
+Acceleration pulse corridor
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Upper Bound | | | Lower Bound | | |
+| Point | Time (ms) | Acceleration  (g) | Point | Time (ms) | Acceleration  (g) |
+| A | 0 | 6 | E | 5 | 0 |
+| B | 20 | 36 | F | 25 | 30 |
+| C | 60 | 36 | G | 55 | 30 |
+| D | 100 | 0 | H | 70 | 0 |
+
+Figure 4-2
+
+Acceleration pulse
+
+*[Figure omitted — see the official source]*
+
+Figure 4-3
+
+Vehicle coordinate reference system for inertial testing
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| X | = | longitudinal direction |
+| Y | = | transervsal direction |
+| Z | = | vertical direction |
+
+---
+
+ANNEX 5
+
+HINGE TEST PROCEDURE
+
+1.   PURPOSE
+
+These tests are conducted to determine the ability of the vehicle hinge system to withstand test loads:
+
+|  |  |
+| --- | --- |
+| (a) | In the longitudinal and transversal directions; and, in addition |
+
+|  |  |
+| --- | --- |
+| (b) | For doors that open in a vertical direction, vertical vehicle direction. |
+
+2.   TEST PROCEDURE
+
+2.1.   Multiple hinge system
+
+2.1.1.   Longitudinal load test
+
+2.1.1.1.   Equipment
+
+2.1.1.1.1.   Tensile testing fixture.
+
+2.1.1.1.2.   A typical static test fixture is illustrated in Figure 5-1.
+
+2.1.1.2.   Procedure
+
+2.1.1.2.1.   Attach the hinge system to the mounting provision of the test fixture. Hinge attitude must simulate vehicle position (door fully closed) relative to the hinge centreline. For test purposes, the distance between the extreme ends of one hinge in the system to the extreme end of another hinge in the system is to be set at 406 ± 4 mm. The load is to be applied equidistant between the linear centre of the engaged portions of the hinge pin and through the centreline of the hinge pin in the longitudinal vehicle direction (see Figure 5-2).
+
+2.1.1.2.2.   Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
+
+2.1.2.   Transverse load test
+
+2.1.2.1.   Equipment
+
+2.1.2.1.1.   Tensile testing fixture.
+
+2.1.2.1.2.   A typical static test fixture is illustrated in Figure 5-1.
+
+2.1.2.2.   Procedure
+
+2.1.2.2.1.   Attach the hinge system to the mounting provisions of the test fixture. Hinge attitude must simulate vehicle position (door fully closed) relative to the hinge centreline. For test purposes, the distance between the extreme ends of one hinge in the system to the extreme opposite end of another hinge in the system is to be set at 406 ± 4 mm. The load is to be applied equidistant between the linear centre of the engaged portions of the hinge pins and through the centreline of the hinge pin in the transverse vehicle direction (see Figure 5-2).
+
+2.1.2.2.2.   Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
+
+2.1.3.   Vertical load test (For doors that open in the vertical direction)
+
+2.1.3.1.   Equipment
+
+2.1.3.1.1.   Tensile testing fixture.
+
+2.1.3.1.2.   A typical static test fixture is illustrated in Figure 5-1.
+
+2.1.3.2.   Procedure
+
+2.1.3.2.1.   Attach the hinge system to the mounting provisions of the test fixture. Hinge attitude must simulate vehicle position (door fully closed) relative to the hinge centreline. For test purposes, the distance between the extreme ends of one hinge in the system to the extreme opposite end of another hinge in the system is to be set at 406 ± 4 mm. The load is to be applied through the centreline of the hinge pin in a direction orthogonal to the longitudinal and transverse loads. (see Figure 5-2).
+
+2.1.3.2.2.   Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
+
+2.2.   Single hinge evaluation. In some circumstances, it may be necessary to test the individual hinges of a hinge system. In such cases, the results for an individual hinge, when tested in accordance with the procedures below, shall be such as to indicate that system requirements in paragraph 6.1.5.1. of this Regulation are met. (For example, an individual hinge in a two-hinge system must be capable of withstanding 50 per cent of the load requirements of the total system.)
+
+2.2.1.   Test procedures
+
+2.2.1.1.   Longitudinal load. Attach the hinge system to the mounting provision of the test fixture. Hinge attitude must simulate the vehicle position (door fully closed) relative to the hinge centreline. For test purposes, the load is to be applied equidistant between the linear centre of the engaged portions of the hinge pin and through the centreline of the hinge pin in the longitudinal vehicle direction. Apply the test load at a rate not to exceed 5 mm/min until the required load has been achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
+
+2.2.1.2.   Transverse load. Attach the hinge system to the mounting provision of the test fixture. Hinge attitude must simulate the vehicle position (door fully closed) relative to the hinge centreline. For test purposes, the load is to be applied equidistant between the linear centre of the engaged positions of the hinge pin and through the centreline of the hinge pin in the transverse vehicle direction. Apply the test load at a rate not to exceed 5 mm/min until the required load is achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
+
+2.2.1.3.   Vertical load. Attach the hinge system to the mounting provision of the test fixture. Hinge attitude must simulate the vehicle position (door fully closed) relative to the hinge centreline. For test purposes, the load is to be applied centreline of the hinge pin in a direction orthogonal to the longitudinal and transverse loads. Apply the test load at a rate not to exceed 5 mm/min until the required load is achieved. Failure consists of a separation of either hinge. Record the maximum load achieved.
+
+2.3.   For piano-type hinges, the hinge spacing requirements are not applicable and arrangement of the test fixture is altered so that the test forces are applied to the complete hinge.
+
+Figure 5-1
+
+Static test fixtures
+
+*[Figure omitted — see the official source]*
+
+Figure 5-2
+
+Static load test directions for doors that open in the vertical direction
+
+*[Figure omitted — see the official source]*
+
+---
+
+ANNEX 6
+
+SLIDING SIDE DOOR — FULL DOOR TEST
+
+1.   PURPOSE
+
+This test is intended to establish minimum performance requirements and a test procedure for evaluation and testing sliding door retention components when installed on both the door and the doorframe. This test complements the applicable tests in Annex 3 and Annex 4.
+
+2.   GENERAL PROVISIONS
+
+2.1.   Tests are conducted using a full vehicle or a body in white with the sliding door and its retention components.
+
+2.2.   The test is conducted using two force application devices capable of applying the outward transverse forces specified in paragraph 6.2.4 of this Regulation. The test setup is shown in Figure 6-1. The force application system shall include the following:
+
+|  |  |
+| --- | --- |
+| 2.2.1. | Two force application plates. |
+
+|  |  |
+| --- | --- |
+| 2.2.2. | Two force application devices capable of applying the outward transverse load requirements for a minimum displacement of 300 mm. |
+
+|  |  |
+| --- | --- |
+| 2.2.3. | Two load cells of sufficient capacity to measure the applied loads. |
+
+|  |  |
+| --- | --- |
+| 2.2.4. | Two linear displacement measurement devices required for measuring force application device displacement during the test. |
+
+|  |  |
+| --- | --- |
+| 2.2.5. | Equipment for measuring at least 100 mm of separation between the interior of the door and the exterior edge of the doorframe, while respecting all relevant safety and health requirements. |
+
+3.   TEST SETUP
+
+3.1.   Remove all interior trim and decorative components from the sliding door assembly.
+
+3.2.   Remove seats and any interior components that may interfere with the mounting and operation of the test equipment and all pillar trim and any non-structural components that overlap the door and cause improper placement of the force application plates.
+
+3.3.   Mount the force application devices and associated support structure to the floor of the test vehicle. Each force application device and associated support structure is rigidly fixed on a horizontal surface on the vehicle floor, while applying the loads.
+
+3.4.   Determine the forward and aft edge of the sliding door, or its adjoining vehicle structure, that contains a latch/striker.
+
+3.5.   Close the sliding door, ensuring that all door retention components are fully engaged.
+
+3.6.   For any tested door edge that contains one latch/striker, the following setup procedures are used:
+
+|  |  |
+| --- | --- |
+| 3.6.1. | The force application plate is 150 mm in length, and 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm ± 1 mm. |
+
+|  |  |
+| --- | --- |
+| 3.6.2. | Place the force application device and force application plate against the door so that the applied force is horizontal and normal to the vehicle's longitudinal centreline, and vertically centred on the door-mounted portion of the latch/striker. |
+
+|  |  |
+| --- | --- |
+| 3.6.3. | The force application plate is positioned such that the long edge of the plate is as close to, and parallel to, the interior edge of the door as possible, but not such that the forward edge of the plate is more than 12,5 mm from the interior edge. |
+
+3.7.   For any tested door edge that contains more than one latch/striker, the following setup procedures are used:
+
+|  |  |
+| --- | --- |
+| 3.7.1. | The force application plate is 300 mm in length, and 50 mm in width, and at least 15 mm in thickness. The plate edges are rounded to a radius of 6 mm ± 1 mm. |
+
+|  |  |
+| --- | --- |
+| 3.7.2. | Place the force application device and force application plate against the door so that the applied force is horizontal and normal to the vehicle's longitudinal centreline, and vertically centred on a point mid-way between the outermost edges of the latch/striker assemblies. |
+
+|  |  |
+| --- | --- |
+| 3.7.3. | The force application plate is positioned such that the long edge of the plate is as close to, and parallel to, the interior edge of the door as possible, but not such that the forward edge of the plate is more than 12,5 mm from the interior edge. |
+
+3.8.   For any tested door edge that does not contain at least one latch/striker, the following setup procedures are used:
+
+|  |  |
+| --- | --- |
+| 3.8.1. | The force application plate is 300 mm in length, 50 mm in width, and at least 15 mm in thickness. |
+
+|  |  |
+| --- | --- |
+| 3.8.2. | Place the force application device and force application plate against the door so that the applied force is horizontal and normal to the vehicle's longitudinal centreline, and vertically centred on a point mid-way along the length of the door edge ensuring that the loading device avoids contact with the window glazing. |
+
+|  |  |
+| --- | --- |
+| 3.8.3. | The force application plate is positioned as close to the edge of the door as possible. It is not necessary for the force application plate to be vertical. |
+
+3.9.   The door is unlocked. No extra fixtures or components may be welded or affixed to the sliding side door or any of its components.
+
+3.10.   Attach any equipment used for measuring door separation that will be used to determine separation levels during the test procedure.
+
+3.11.   Place the load application structure so that the force application plates are in contact with the interior of the sliding door.
+
+4.   TEST PROCEDURE
+
+4.1.   Move each force application device at a rate up to 2 000 N per minute, as specified by the manufacturer, until a force of 9 000 N is achieved on each force application device or until either force application device reaches a total displacement of 300 mm.
+
+4.2.   If one of the force application devices reaches the target force of 9 000 N prior to the other, maintain the 9 000 N force with that force application device until the second force application device reaches the 9 000 N force.
+
+4.3.   Once both force application devices have achieved 9 000 N each, stop forward movement of the force application devices and hold under the resulting load for a minimum of 10 seconds.
+
+4.4.   Maintain the force application device position of paragraph 4.3, and within 60 seconds, measure the separation between the exterior edge of the doorframe and the interior of the door along the perimeter of the door.
+
+Figure 6-1
+
+Sliding side door full vehicle test procedure
+
+(Note: Sliding door is shown separated from the vehicle)
+
+*[Figure omitted — see the official source]*
+
+---

@@ -22,11 +22,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: GSO-ECE 156 regulates software update management systems for vehicles in
-  the GCC region, covering electronic and electrical architecture, ECUs, telematics,
-  gateways, and related cybersecurity controls. It requires that electronic systems
-  be resilient to cyber and software risks and that safety-relevant data are...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: GSO-ECE 156 covers software update management systems for vehicles in the
+  GCC region, requiring manufacturers to operate a process for managing software updates,
+  including over-the-air updates, with software identification (RXSWIN) and update
+  records.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3a04e8fff19438a2a23cfe7f92c9c2393b07859d
 systems:
 - Cybersecurity
@@ -35,9 +35,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Software Update Management System
 translation_status: untranslated
-un_equivalent_ai:
-- UN R156
-- UN R155
 vehicle_categories:
 - Passenger car
 - Light truck

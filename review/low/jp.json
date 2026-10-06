@@ -1,0 +1,155 @@
+{
+  "group": "jp",
+  "patches": {
+    "jp-jvsregs-art12": {
+      "un_equivalent_ai": [],
+      "_why": "Body is a fuel-quality premise clause, no CO2/emissions requirement; R101/R83 not supported"
+    },
+    "jp-jvsregs-art17-2": {
+      "un_equivalent_ai": [
+        "UN R10",
+        "UN R155",
+        "UN R156",
+        "UN R100"
+      ],
+      "_why": "Body para 3 cybersecurity, para 4 reliable software modification (R156), para 5-6 high-voltage occupant protection (R100)"
+    },
+    "jp-jvsregs-art22-5": {
+      "un_equivalent_ai": [
+        "UN R14",
+        "UN R145",
+        "UN R129"
+      ],
+      "_why": "Body para 1-2 is child restraint anchorages (ISOFIX/i-Size anchorages = UN R145); para 3 CRS itself = R129"
+    },
+    "jp-jvsregs-art45": {
+      "un_equivalent_ai": [],
+      "_why": "Body covers wipers/washers/defroster; UN R125 is forward field of vision, not a counterpart"
+    },
+    "jp-jvsregs-art48": {
+      "un_equivalent_ai": [
+        "UN R157"
+      ],
+      "systems": [
+        "ADAS"
+      ],
+      "_why": "Body covers only function/performance standards of automated driving devices; no cybersecurity or software-update text"
+    },
+    "jp-jvsregs-art5": {
+      "systems": [],
+      "commodities": [],
+      "_why": "Body says only 'stability'; steering/tire/wheel tags unsupported (no matching taxonomy system)"
+    },
+    "jp-srrv-automated-lane-keeping-automated-driving-systems": {
+      "un_equivalent_ai": [
+        "UN R157"
+      ],
+      "systems": [
+        "ADAS"
+      ],
+      "_why": "R155 is cybersecurity, not ALKS counterpart; Vehicle identification is template leakage"
+    },
+    "jp-srrv-controls-tell-tales-indicators-and-driver-information": {
+      "commodities": [
+        "Wiring",
+        "ECUs"
+      ],
+      "_why": "Lighting modules not relevant to controls/tell-tales/driver information"
+    },
+    "jp-srrv-electric-vehicle-rechargeable-energy-storage-system": {
+      "systems": [
+        "Battery safety",
+        "EV charging",
+        "Crashworthiness"
+      ],
+      "_why": "Subject is EV REESS; Fuel safety tag from shared fuel/EV template"
+    },
+    "jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars": {
+      "systems": [
+        "Emissions"
+      ],
+      "_why": "Scope is fleet fuel-economy/CO2 targets; battery safety and EV charging not covered"
+    },
+    "jp-srrv-japan-automobile-recycling-law": {
+      "systems": [
+        "HVAC",
+        "Restraints"
+      ],
+      "_why": "Body/summary cover airbags and fluorocarbons only; battery safety not covered"
+    },
+    "jp-srrv-japanese-vehicle-type-approval-type-designation-framework": {
+      "commodities": [],
+      "_why": "Framework is whole-vehicle certification; component commodity tags are over-broad"
+    },
+    "jp-srrv-mlit-vehicle-recall-and-improvement-measures": {
+      "citation": "Road Transport Vehicle Act Art. 63-2 (recall notification) / Japan Vehicle Recall System",
+      "_why": "Recall notification basis is Art. 63-2 of the Road Transport Vehicle Act (well-established); record had no legal citation"
+    },
+    "jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps": {
+      "un_equivalent_ai": [
+        "UN R6",
+        "UN R7",
+        "UN R23",
+        "UN R38"
+      ],
+      "_why": "Citation and summary state R6/R7/R23/R38; list omitted R23 and R38"
+    }
+  },
+  "skipped": [
+    {
+      "id": "jp-jvsregs-art26",
+      "field": "commodities",
+      "reason": "already fixed (Lighting modules no longer present)"
+    },
+    {
+      "id": "jp-srrv-speedometer-and-odometer",
+      "field": "summary",
+      "reason": "already fixed (summary now describes accuracy and is not truncated)"
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "citation",
+      "reason": "stub record with no body; specific SRRV article cannot be established from the record"
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "citation",
+      "reason": "stub with no body evidence; Art. 43-7 reference not present in current record; not certain enough"
+    },
+    {
+      "id": "jp-srrv-body-structure-and-load-path",
+      "field": "un_equivalent_ai",
+      "reason": "confidence low; proposal itself says 'confirm'; body only lists Art. 18 pedestrian protection overlap (R127 present already)"
+    },
+    {
+      "id": "jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars",
+      "field": "citation",
+      "reason": "confidence low; legal basis not stated in body"
+    },
+    {
+      "id": "jp-srrv-japan-motor-vehicle-noise-requirements",
+      "field": "citation",
+      "reason": "confidence low; article numbers not supported by body"
+    },
+    {
+      "id": "jp-srrv-japan-passenger-vehicle-exhaust-emission-standards",
+      "field": "un_equivalent_ai",
+      "reason": "unverifiable/low; body cites GTR 15/WLTP alignment, R83/R154 are plausible AI counterparts, no evidence to remove"
+    },
+    {
+      "id": "jp-srrv-japan-radio-equipment-technical-conformity-certification",
+      "field": "systems",
+      "reason": "confidence low; no taxonomy value for radio/telecom, EMC is valid and radar/keyless tags are arguable"
+    },
+    {
+      "id": "jp-srrv-tires-wheels-and-tpms",
+      "field": "body",
+      "reason": "body edits not allowed; DOT/TIN leak remains in body failure-modes and open_tags (orchestrator may fix separately)"
+    },
+    {
+      "id": "jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity",
+      "field": "summary",
+      "reason": "summary is accurate and not truncated; overlap with the framework record is a style/dedup matter"
+    }
+  ]
+}

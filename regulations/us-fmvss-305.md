@@ -28,9 +28,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305
 status: in-force
 summary: Electric-powered passenger cars and light trucks/buses (GVWR ≤ 4,536 kg)
   using high-voltage propulsion systems (>60 VDC or >30 VAC) and manufactured before
-  September 1, 2027, are subject to this standard. It requires limiting electrolyte
-  spillage, preventing intrusion of electric energy storage/conversion devices into...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  September 1, 2027, are subject to this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 33ab46d597869d7f18c70abf32394066ddb2a919
 systems:
 - Battery safety
@@ -40,8 +39,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: '§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage
   and electrical shock protection; applicable unless a vehicle is certified to § 571.305a.'
-un_equivalent_ai:
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

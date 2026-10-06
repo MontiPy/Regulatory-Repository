@@ -4,8 +4,9 @@ commodities:
 - Fuel system
 - Fuel tanks
 - Hoses & lines
+effective_date: '2028-09-01'
 id: us-fmvss-307
-last_pulled: '2026-06-01T18:42:15+00:00'
+last_pulled: '2026-10-06T03:27:41+00:00'
 open_tags:
 - compressed hydrogen storage system
 - thermally-activated pressure relief device
@@ -22,20 +23,20 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.307
-status: in-force
-summary: The fuel system integrity of hydrogen vehicles covers requirements for compressed
-  hydrogen fuel systems in motor vehicles manufactured on or after September 1, 2028.
-  It mandates that hydrogen fuel systems prevent leakage and reverse flow, includes
-  labeling requirements near fueling receptacles, and establishes...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 94aab1cb186cc9949db8bbf8a30be62900c8464e
+status: upcoming
+status_note: Applies to vehicles manufactured on or after 1 Sep 2028.
+summary: FMVSS No. 307 specifies requirements for the integrity of motor vehicle hydrogen
+  fuel systems, to reduce deaths and injuries from fires caused by hydrogen leakage
+  during operation and after crashes. It applies to each motor vehicle manufactured
+  on or after September 1, 2028 that uses compressed hydrogen gas as a fuel source
+  to propel the vehicle.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 61031845a218895b1b22675eb4c0c5b145a4cec1
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.
-un_equivalent_ai:
-- UN R34
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -109,7 +110,7 @@ S5.1.1. Fueling receptacle requirements. (a) A compressed hydrogen fueling recep
 
 (1) The statement, “Compressed hydrogen gas only.”
 
-(2) The statement, “Service pressure ______MPa (_____psig).”
+(2) The statement, “Service pressure ____________MPa (_________psig).”
 
 (3) The statement, “See instructions on fuel container(s) for inspection and service life.”
 
@@ -185,7 +186,7 @@ S6.1.1. Frontal barrier crash. The test vehicle, with test dummies in accordance
 
 S6.1.2. Rear moving barrier impact. The test vehicle, with test dummies in accordance with S6.1 of § 571.301, is impacted from the rear by a barrier that conforms to S7.3(b) of § 571.301 and that is moving at any speed up to and including 80.0 km/h.
 
-S6.1.3. Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in § 571.214 (FMVSS No. 214) at positions required for testing by S7.1.1, S7.2.1, or S7.2.2 of Standard 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
+S6.1.3. Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in FMVSS No. 214 (§ 571.214) at positions required for testing by S7.2.2 of FMVSS No. 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
 
 S6.1.4. Moving contoured barrier crash. The test vehicle is impacted at any point and at any angle by the moving contoured barrier assembly, specified in S7.5 and S7.6 in § 571.301, traveling longitudinally forward at any speed up to and including 48.0 km/h.
 
@@ -318,4 +319,4 @@ S7. Test conditions. The requirements of S5.2 shall be met under the following c
 
 (3) A school bus with a GVWR greater than 10,000 pounds, whose fuel system is filled as specified in S7(d), is loaded to its unloaded vehicle weight, plus 54.4 kg of unsecured weight at each designated seating position.
 
-*[90 FR 6277, Jan. 17, 2025]*
+*[90 FR 6277, Jan. 17, 2025, as amended at 91 FR 33115, June 3, 2026]*

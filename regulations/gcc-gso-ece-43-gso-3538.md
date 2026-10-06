@@ -2,9 +2,6 @@
 citation: GSO-ECE 43 / GSO 3538
 commodities:
 - Glass
-- Lighting modules
-- Wiring
-- ECUs
 id: gcc-gso-ece-43-gso-3538
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:
@@ -25,23 +22,17 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Safety glazing and optical test methods for automotive glazing in GCC markets
-  are regulated under GSO-ECE 43 / GSO 3538, covering visibility, lighting, and human-machine
-  interface requirements. The regulation mandates that vehicles meet standards ensuring
-  adequate road illumination, clear signaling of driver intent,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'GSO-ECE 43 / GSO 3538 adopt UN R43 on safety glazing materials and their
+  installation: windscreens and windows, impact, optical and light-transmission tests.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b9ebfdb287baef7a4e95b20f26d0fe796cee897f
 systems:
 - Glazing
-- Lighting & signaling
 - Visibility
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Safety Glazing and Optical Test Methods
 translation_status: untranslated
-un_equivalent_ai:
-- UN R43
-- UN R48
 vehicle_categories:
 - Passenger car
 - Light truck

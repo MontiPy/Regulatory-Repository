@@ -24,11 +24,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Cybersecurity management systems for vehicle electronic and electrical architecture
-  — including ECUs, telematics, gateways, and backend services — in the GCC region.
-  It requires that these systems be resilient to cyber and software risks, with controlled
-  software update processes and proper management of...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: GSO-ECE 155 covers cybersecurity management systems for vehicle electrical
+  and electronic architecture, including ECUs, telematics, gateways and backend services.
+  It requires risk assessment and mitigation of cyber threats across the vehicle lifecycle
+  as a condition of type approval.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 76c14ef06fc3fbd6a11dea9324f761b0e1e21cc4
 systems:
 - Cybersecurity
@@ -38,14 +38,10 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Cyber Security Management System
 translation_status: untranslated
-un_equivalent_ai:
-- UN R155
-- UN R156
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 ---

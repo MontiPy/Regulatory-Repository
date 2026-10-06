@@ -1,5 +1,5 @@
 ---
-citation: MVSR SOR-2010-201
+citation: SOR/2010-201
 commodities:
 - Exhaust
 - Electric motors
@@ -26,19 +26,14 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullTex
 status: in-force
 summary: Greenhouse gas emissions from passenger automobiles and light trucks are
   regulated under Canada's Environmental Protection Act, 1999, requiring manufacturers
-  to meet specified emission standards for these vehicles. The regulations establish
-  definitions and compliance requirements applicable to covered vehicles,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  to meet specified emission standards for these vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 463e54a7dc7865128fbb69a1a5a637fd1839bf65
 systems:
 - Emissions
-- EV charging
-- Battery safety
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations
-un_equivalent_ai:
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

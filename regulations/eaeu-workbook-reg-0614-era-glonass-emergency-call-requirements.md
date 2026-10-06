@@ -4,6 +4,7 @@ commodities:
 - ECUs
 - Wiring
 - Connectors
+- Telematics unit
 id: eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:
@@ -23,22 +24,21 @@ region: EAEU
 source_api: spreadsheet
 source_url: https://en.glonassunion.ru/era-glonass/info
 status: in-force
-summary: Automatic emergency call equipment for vehicles sold in the EAEU/Russia market
-  requires the installation of ERA-GLONASS-compatible telematics systems — including
-  a GNSS receiver, cellular modem, crash-signal input, backup power, and call interface
-  — capable of automatically or manually initiating emergency response...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: ERA-GLONASS is the Russia/EAEU automatic emergency call system; vehicles
+  for this market need an ERA-GLONASS-compatible telematics unit with GNSS receiver,
+  cellular modem, crash-signal input, backup power and call interface that can initiate
+  an emergency call automatically or manually. It is specific to the EAEU/Russia and
+  is linked to vehicle approval.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 802b0960772e1e17cea59ea4e82df5a0baa35072
 systems:
-- EMC
-- Cybersecurity
+- Emergency call (eCall)
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Automatic emergency call equipment requirements linked to EAEU/Russia vehicle
   approval
 translation_status: untranslated
-un_equivalent:
-- UN R144
+un_equivalent: []
 vehicle_categories:
 - Passenger car
 - Light truck

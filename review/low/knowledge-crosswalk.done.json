@@ -1,0 +1,276 @@
+{
+ "applied": [
+  {
+   "id": "esc",
+   "field": "cells.CA.records",
+   "change": "added ca-mvsr-c-r-c---c--1038-s126"
+  },
+  {
+   "id": "seat-belts",
+   "field": "cells.CA.records",
+   "change": "added ...-s208"
+  },
+  {
+   "id": "speedometer",
+   "field": "cells.US.records",
+   "change": "added us-fmvss-101"
+  },
+  {
+   "id": "tyres",
+   "field": "cells.EU.records",
+   "change": "added ece-r30"
+  },
+  {
+   "id": "tyres",
+   "field": "cells.GCC.records",
+   "change": "added gcc-gso-52-2007, gcc-gso-53-2007"
+  },
+  {
+   "id": "rear-impact",
+   "field": "cells.EU.records",
+   "change": "added ece-r34, eu-32019r2144"
+  },
+  {
+   "id": "head-restraints",
+   "field": "cells.EU",
+   "change": "cite UN R17 / R25; records add ece-r25"
+  },
+  {
+   "id": "pedestrian",
+   "field": "cells.US.cite",
+   "change": "named FMVSS 228 NPRM (Nov 2024); status kept none"
+  },
+  {
+   "id": "seat-belt-reminder",
+   "field": "cells.US.cite",
+   "change": "S7.3 front 1 Sep 2026, S7.4 rear 1 Sep 2027, final rule 3 Jan 2025"
+  },
+  {
+   "id": "interior-impact",
+   "field": "description",
+   "change": "removed power windows; sun visors, armrests, upper interior"
+  },
+  {
+   "id": "vin",
+   "field": "cells.CN.note",
+   "change": "removed unsourced windscreen/ECU claim"
+  },
+  {
+   "id": "vin",
+   "field": "cells.JP.cite",
+   "change": "removed unsourced export-VIN claim; note says verify"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells.CN",
+   "change": "added reported dates with verify, status phase-in"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells.JP.cite",
+   "change": "named Safety Regs / TRIAS (UN R6/R7/R23/R38 applied) per record citation"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells.BR",
+   "change": "added CONTRAN 970/2022 br-contran-970"
+  },
+  {
+   "id": "tyres",
+   "field": "cells.BR.cite",
+   "change": "913/2022 is tyre use in service; INMETRO certifies new tyres"
+  },
+  {
+   "id": "ecall",
+   "field": "cells.GCC.cite",
+   "change": "labelled UAE national, not GSO-wide"
+  },
+  {
+   "id": "esc",
+   "field": "cells.CN.note",
+   "change": "GB/T recommended; mandatory only via GB 7258"
+  },
+  {
+   "id": "isa",
+   "field": "cells.IN.note",
+   "change": "AIS-145 fixed-threshold alert, not equivalent to 2021/1958"
+  },
+  {
+   "id": "lane-keeping",
+   "field": "cells.EU",
+   "change": "added LDW M2/M3/N2/N3 via 2019/2144 (R130), record eu-32019r2144"
+  },
+  {
+   "id": "aeb",
+   "field": "cells.CA",
+   "change": "reworded: 2020 TC consultation, no Gazette proposal, status none"
+  },
+  {
+   "id": "software-updates",
+   "field": "cells.IN.cite",
+   "change": "added notification status to verify"
+  },
+  {
+   "id": "automated-driving",
+   "field": "cells.UN.cite",
+   "change": "R171 marked outside L3+ scope, no record"
+  },
+  {
+   "id": "automated-driving",
+   "field": "cells.CN.cite",
+   "change": "DSSAD does not by itself approve ADS"
+  },
+  {
+   "id": "headlamps",
+   "field": "cells.CA / cells.BR",
+   "change": "added CMVSS 108 and CONTRAN 970/2022 cells"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "accelerator-control",
+   "field": "cells.JP.cite",
+   "reason": "no verifiable specific article"
+  },
+  {
+   "id": "anti-theft",
+   "field": "cells.CA.records",
+   "reason": "record-level frontmatter fix, outside crosswalk.yaml"
+  },
+  {
+   "id": "approval-framework",
+   "field": "cells.CA.cite",
+   "reason": "unverified section numbers"
+  },
+  {
+   "id": "approval-framework",
+   "field": "cells.CN.cite",
+   "reason": "record stub issue, cite fine"
+  },
+  {
+   "id": "avas",
+   "field": "cells.CN",
+   "reason": "unverified"
+  },
+  {
+   "id": "brake-assist",
+   "field": "cells.JP",
+   "reason": "Japanese article unverified"
+  },
+  {
+   "id": "brakes",
+   "field": "cells.CA.records",
+   "reason": "record title fix, outside file"
+  },
+  {
+   "id": "bumpers",
+   "field": "cells.GCC",
+   "reason": "already fixed"
+  },
+  {
+   "id": "child-restraints",
+   "field": "cells.CN.records",
+   "reason": "record content issue"
+  },
+  {
+   "id": "child-restraints",
+   "field": "cells.UN.records",
+   "reason": "record stub issue"
+  },
+  {
+   "id": "cybersecurity",
+   "field": "cells.KR",
+   "reason": "only commercial source; no KMVSS record"
+  },
+  {
+   "id": "defrost",
+   "field": "cells.CN.records",
+   "reason": "record metadata issue"
+  },
+  {
+   "id": "ecall",
+   "field": "cells.EU.records",
+   "reason": "no 2015/758 record exists"
+  },
+  {
+   "id": "exterior-noise",
+   "field": "cells.CN.cite",
+   "reason": "unresolved"
+  },
+  {
+   "id": "frontal-full",
+   "field": "cells.JP.cite",
+   "reason": "unverified"
+  },
+  {
+   "id": "frontal-full",
+   "field": "cells.IN",
+   "reason": "unverified"
+  },
+  {
+   "id": "headlamps",
+   "field": "cells.UN.records[ece-r149]",
+   "reason": "record title issue; JP already present"
+  },
+  {
+   "id": "horn",
+   "field": "cells.CN",
+   "reason": "unverified"
+  },
+  {
+   "id": "hydrogen",
+   "field": "cells.UN.records",
+   "reason": "no ece-r134 record exists"
+  },
+  {
+   "id": "hydrogen",
+   "field": "cells",
+   "reason": "unverified"
+  },
+  {
+   "id": "power-windows",
+   "field": "cells.UN.records",
+   "reason": "record stub, cite fine"
+  },
+  {
+   "id": "power-windows",
+   "field": "cells.BR.records",
+   "reason": "record stub, cite fine"
+  },
+  {
+   "id": "radio-equipment",
+   "field": "cells.CA.cite",
+   "reason": "already fixed"
+  },
+  {
+   "id": "rear-visibility",
+   "field": "cells.CA.cite",
+   "reason": "unverified"
+  },
+  {
+   "id": "rear-visibility",
+   "field": "cells.EU.cite",
+   "reason": "dates contradictory"
+  },
+  {
+   "id": "side-pole",
+   "field": "cells",
+   "reason": "unverified"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells",
+   "reason": "GCC left; BR added"
+  },
+  {
+   "id": "tpms",
+   "field": "cells.CA.records",
+   "reason": "no CMVSS 138 record exists"
+  },
+  {
+   "id": "ev-electrical-safety",
+   "field": "cells.JP.records",
+   "reason": "record-level issue"
+  }
+ ]
+}

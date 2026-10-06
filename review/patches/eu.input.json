@@ -1,0 +1,336 @@
+{
+ "group": "eu",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "eu-32006l0066",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "superseded (repealed by Regulation (EU) 2023/1542 with effect from 18 August 2025, with limited transitional exceptions)",
+   "evidence": "WebSearch: 'Regulation (EU) 2023/1542 repeals Directive 2006/66/EC on batteries and accumulators and waste batteries and accumulators from August 18, 2025, with some limited exceptions.' Repo body only contains the 2006 original (repeal clause covers only Dir 91/157/EEC), so the later repeal is not visible in the file.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32009r0078",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "superseded (repealed by Regulation (EU) 2019/2144 with effect from 6 July 2022)",
+   "evidence": "WebSearch: 'Regulation (EU) 2019/2144 repeals, with effect from 6 July 2022, Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009.' Title of 2019/2144: '...amending Regulation (EU) 2018/858 ... and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009'.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32009r0661",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "superseded (repealed by Regulation (EU) 2019/2144 with effect from 6 July 2022; tyre requirements moved to Reg (EU) 2019/2144 / Reg (EU) 2020/740 labelling)",
+   "evidence": "WebSearch: 'Regulation (EU) 2019/2144 repeals, with effect from 6 July 2022, Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009.'",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32017r1151",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "2018-05-30",
+   "proposed": "2017-06-01 (adoption) / in force 2017-07-27",
+   "evidence": "2018-05-30 is the date of Reg 2018/858, not 2017/1151. EUR-Lex shows the first consolidated version as 02017R1151-20170727; regulation is 'of 1 June 2017'.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32023r2590",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R167",
+   "proposed": "empty (no UN equivalent for ADDW)",
+   "evidence": "UN R167 is \"Uniform provisions concerning the approval of motor vehicles with regard to their direct vision\" (adopted 15 Nov 2022, in force 8 Jun 2023) - unrelated to driver distraction. Repo body only cites R167 in a footnote about direct vision.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32006r1907",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "32006R1907",
+   "proposed": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)",
+   "evidence": "Title is just the CELEX number; open_tags in the record itself say 'REACH regulation'. Precheck flagged weak-title.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32006r1907",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "'The provided text contains no substantive regulatory content - only a EUR-Lex website navigation page...'",
+   "proposed": "Replace with a real summary after body is fixed (REACH: registration, evaluation, authorisation and restriction of chemicals; SVHC/Annex XIV/XVII substance restrictions affecting vehicle materials)",
+   "evidence": "Summary describes the scraping failure rather than the instrument; shown to users as the regulation summary.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32006r1907",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2024-04-24",
+   "proposed": "2007-06-01 (entry into force; adopted 2006-12-18)",
+   "evidence": "REACH Regulation (EC) 1907/2006 entered into force on 1 June 2007; the repo body contains no date and 2024-04-24 matches no REACH milestone (likely a consolidated-version date).",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32014l0053",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R10, UN R155",
+   "proposed": "UN R10 only (vehicle EMC) as a partial/related counterpart; remove UN R155",
+   "evidence": "UN R155 is the cyber security management system regulation for vehicles; RED 2014/53/EU is a radio-equipment placing-on-market directive (spectrum, EMC, safety) and has no vehicle-cybersecurity counterpart relationship.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32014r0540",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R59, UN R85, UN R117",
+   "proposed": "UN R51 (vehicle noise) and UN R59 (replacement silencing systems); remove R85 (engine net power) and R117 (tyre noise)",
+   "evidence": "Body references R85 only for measuring rated maximum net power ('Regulation No 85 ... rated maximum net power') and R117 only as an exclusion for tyre noise ('Regulation No 117 shall be excluded during type-approval...'); they are not counterparts. R51 (core counterpart) is only in un_equivalent_ai while the body cites it ('Regulation No 51 of the ... UNECE on noise emissions').",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32017r1151",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "32017R1151",
+   "proposed": "Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) (WLTP/RDE)",
+   "evidence": "WebSearch: 'Commission Regulation (EU) 2017/1151 of 1 June 2017 supplements Regulation (EC) No 715/2007 ... (Euro 5 and Euro 6) ... replaces and repeals Commission Regulation (EC) No 692/2008'. Precheck flagged weak-title.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32017r1151",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "'The document is too large to display ... its specific requirements cannot be summarized'",
+   "proposed": "Real summary: implementing rules for Reg 715/2007 - WLTP, RDE, OBD, evaporative, CO2/fuel consumption test procedures for M1/M2/N1/N2 Euro 6 vehicles; replaced Reg 692/2008",
+   "evidence": "Summary reports a scraping failure rather than the instrument.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32017r1151",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Emissions, Fuel safety, OBD, EV charging, Battery safety, Braking, HVAC, Tires & wheels, Noise (+12 commodities)",
+   "proposed": "Emissions, On-board diagnostics (Fuel safety only if evaporative); remove Braking, HVAC, Tires & wheels, Noise, EV charging, Battery safety and unrelated commodities (Tires, Brakes, Wiring, Charging inlet, Power electronics)",
+   "evidence": "Tags appear LLM-generated with no body text available (body is a stub); the act is an emissions/OBD test-procedure regulation.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32018r0858",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "65 UN Regulations (R3 ... R125)",
+   "proposed": "clear, or relabel as 'referenced UN Regulations' - 2018/858 is the EU type-approval framework regulation, not equivalent to any individual UN R",
+   "evidence": "Body only references the UN 1958 Agreement (recital 48: 'The Union is a Contracting Party to the Agreement of the United Nations Economic Commission for Europe of 20 March 1958') and lists applicable UN Regs in annexes; none is a counterpart of the framework regulation.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32018r0985",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R120",
+   "proposed": "UN R96 (emissions of CI engines for tractors/NRMM) as the emissions counterpart; R120 (net power/torque measurement) is only a referenced test method",
+   "evidence": "Body cites R120 only in the definition of 'net power' ('measured in accordance with the method ... specified in UNECE Regulation No 120'). WebSearch: 'UN Regulation No. 96 ... approval of compression ignition engines ... for agricultural and forestry tractors ... with regard to the emissions of pollutants'. R96 is not in the repo.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32019r2144",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2019-11-27",
+   "proposed": "Applies from 6 July 2022 (some Articles from 5 January 2020); 2019-11-27 is the adoption date",
+   "evidence": "It shall apply from 6 July 2022. However, Article 4(3), (6) and (7) ... shall apply from 5 January 2020.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32019r2144",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "includes Motorcycle",
+   "proposed": "Passenger car, Light truck, Heavy truck, Bus, Trailer (remove Motorcycle)",
+   "evidence": "This Regulation applies to vehicles of categories M, N and O ... (Article 2); L-category is out of scope",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32021r0535",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2021-03-31",
+   "proposed": "Applies from 6 July 2022 (31 Mar 2021 is adoption date)",
+   "evidence": "It shall apply from 6 July 2022.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32021r0535",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "includes Motorcycle",
+   "proposed": "remove Motorcycle",
+   "evidence": "This Regulation lays down provisions ... for EU type-approval of vehicles of categories M, N and O",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32021r0646",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2021-04-19",
+   "proposed": "Applies from 6 July 2022 (19 Apr 2021 is adoption date)",
+   "evidence": "It shall apply from 6 July 2022.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32021r0646",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R157",
+   "proposed": "remove; R157 is ALKS (Automated Lane Keeping Systems), a Level-3 system, not emergency lane keeping. Closest are R130 (LDWS, already listed) and R79 (ACSF)",
+   "evidence": "Body cites only UN Regulation No 130 (Annex 3 lane markings); no mention of R157. ELKS is a corrective-steering safety function, not automated driving.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32021r1341",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2021-04-23",
+   "proposed": "Applies from 6 July 2022 (23 Apr 2021 is adoption date)",
+   "evidence": "It shall apply from 6 July 2022.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32021r1958",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2021-06-23",
+   "proposed": "Applies from 6 July 2022 (23 Jun 2021 is adoption date)",
+   "evidence": "It shall apply from 6 July 2022.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32021r1958",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R39, UN R46",
+   "proposed": "empty (no UN regulation covers ISA); R39 only referenced for speedometer calibration",
+   "evidence": "Body line 369 only cites UN Regulation No 39 for speedometer calibration; no mention of UN Regulation No 46 in the file. R46 is indirect vision devices, unrelated to ISA.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32022r0545",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2022-01-26",
+   "proposed": "Applies from 6 July 2022 (26 Jan 2022 is adoption date)",
+   "evidence": "It shall apply from 6 July 2022.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32022r1426",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2022-08-05",
+   "proposed": "Entered into force on the twentieth day after publication (26.8.2022, i.e. 15 Sep 2022); 5 Aug 2022 is adoption date",
+   "evidence": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32022r1426",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R100, UN R155, UN R156, UN R157",
+   "proposed": "R155, R156 are referenced by the body (8.1, 8.2); R94/95/137 are referenced for data retrievability; remove R100 (EV safety) - not referenced; R157 only a partial analogue (ALKS)",
+   "evidence": "Body 8.1: \"The ADS shall be protected from unauthorised access in accordance with UN Regulation No 155\"; 8.2: \"...compliance with UN Regulation No 156\". No mention of UN Regulation No 100 in file.",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32023r1542",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2023-07-12",
+   "proposed": "Applies from 18 February 2024 (several Articles later, e.g. Art 11 from 18 Feb 2027); 12 Jul 2023 is adoption date",
+   "evidence": "It shall apply from 18 February 2024, save as set out in the second subparagraph and in other provisions of this Regulation.",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32023r2590",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2023-07-13",
+   "proposed": "Applies from 7 July 2024 (13 Jul 2023 is adoption date; published 22.11.2023)",
+   "evidence": "It shall apply from 7 July 2024. However, from 1 January 2024, national authorities shall not refuse to grant EU type approval ...",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32024r0573",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2024-02-07",
+   "proposed": "Entered into force 20th day after publication of 20.2.2024 (11 Mar 2024); 7 Feb 2024 is adoption date. Some Articles apply from 1 Jan 2025 / 3 Mar 2025",
+   "evidence": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal",
+   "confidence": "medium"
+  },
+  {
+   "id": "eu-32024r1257",
+   "field": "effective_date",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "2024-04-24",
+   "proposed": "Applies from 29 Nov 2026 (new M1/N1 types), 29 Nov 2027 (all new M1/N1), 29 May 2028/2029 (M2,M3,N2,N3,O3,O4); 24 Apr 2024 is adoption date",
+   "evidence": "It shall apply from 29 November 2026 for new types of vehicles of categories M1 and N1 ...",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-32024r1257",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "includes Motorcycle",
+   "proposed": "Passenger car, Light truck, Heavy truck, Bus (remove Motorcycle)",
+   "evidence": "Applicability (Article 21) lists only M1, N1, M2, M3, N2, N3, O3, O4; no L-category wording found in the file (grep for L-category/L1e/motorcycle returned nothing)",
+   "confidence": "high"
+  },
+  {
+   "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force (CSRD and CSDDD as originally adopted)",
+   "proposed": "in-force but materially amended: scope and obligations cut by Omnibus I Directive (EU) 2026/470",
+   "evidence": "\"Directive (EU) 2026/470 (Omnibus I) published in the OJ 26 Feb 2026, in force 18 March 2026 ... amends the Accounting Directive, CSRD and CSDDD ... reporting limited to undertakings above EUR 450 million turnover and 1,000 employees\" - CMS/HSF Kramer summaries",
+   "confidence": "medium"
+  }
+ ]
+}

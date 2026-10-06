@@ -2,8 +2,7 @@
 citation: 49 CFR §571.302
 commodities:
 - Seats
-- Seatbelts
-- Airbags
+- Interior trim
 id: us-fmvss-302
 last_pulled: '2026-06-01T18:41:54+00:00'
 open_tags:
@@ -23,19 +22,18 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.302
 status: in-force
-summary: Flammability of interior materials in motor vehicle occupant compartments
-  (including seats, trim panels, headlining, floor coverings, and other components)
-  is regulated by this standard, which requires that these materials not burn or transmit
-  a flame front across their surface at a rate exceeding 102 mm per minute...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: FMVSS No. 302 specifies burn resistance requirements for materials used in
+  occupant compartments, to reduce deaths and injuries from vehicle fires originating
+  in the interior. It covers components such as seat cushions, seat belts, headlining
+  and trim panels, and applies to passenger cars, multipurpose passenger vehicles,
+  trucks and buses.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c77c65db012d66546113e8597e31ec5e9fdc9bc7
 systems:
-- Crashworthiness
+- Fire safety & flammability
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.302 Standard No. 302; Flammability of interior materials.
-un_equivalent_ai:
-- UN R21
 vehicle_categories:
 - Passenger car
 - Light truck

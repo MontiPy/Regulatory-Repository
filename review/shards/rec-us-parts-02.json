@@ -1,0 +1,22 @@
+{
+ "shard": "rec-us-parts-02",
+ "kind": "records",
+ "items": [
+  "us-cfr-part-541",
+  "us-cfr-part-542",
+  "us-cfr-part-543",
+  "us-cfr-part-545",
+  "us-cfr-part-551",
+  "us-cfr-part-554",
+  "us-cfr-part-555",
+  "us-cfr-part-556",
+  "us-cfr-part-557",
+  "us-cfr-part-561",
+  "us-cfr-part-563",
+  "us-cfr-part-564",
+  "us-cfr-part-565",
+  "us-cfr-part-566",
+  "us-cfr-part-567",
+  "us-cfr-part-568"
+ ]
+}

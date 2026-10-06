@@ -1,5 +1,5 @@
 ---
-citation: AIS-038 Rev.2 / AIS-156
+citation: AIS-038 (Rev. 2); AIS-156 applies to L-category only
 commodities:
 - Batteries
 - Wiring
@@ -28,11 +28,11 @@ region: IN
 source_api: ais
 source_url: https://morth.gov.in/sites/default/files/ASI/AIS-156.pdf
 status: in-force
-summary: Electric vehicle battery and high-voltage powertrain safety for Indian-market
-  M/N category vehicles, covering traction batteries, BMS, HV wiring, charging systems,
-  and related components. AIS-038 Rev.2 and AIS-156 require designs to prevent thermal
-  events, electric shock, and unsafe powertrain behavior, with...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: AIS-038 Rev. 2 sets electric power train and traction-battery (REESS) safety
+  requirements for M and N category vehicles (UN R100 counterpart). AIS-156 is the
+  equivalent standard for L-category two- and three-wheelers and does not apply to
+  passenger cars or light trucks.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d74816ac21ca703accda8a2d5521fd69e75a2e28
 systems:
 - Battery safety
@@ -40,7 +40,7 @@ systems:
 - EMC
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: India electric powertrain / traction battery safety standards
+title: India electric power train and REESS safety — AIS-038 Rev. 2 (M & N categories)
 un_equivalent:
 - UN R100
 vehicle_categories:

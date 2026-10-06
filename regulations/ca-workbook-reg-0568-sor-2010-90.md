@@ -22,11 +22,12 @@ region: CA
 source_api: spreadsheet
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-90/
 status: in-force
-summary: Child restraint systems and booster seats sold in Canada are regulated to
-  keep child occupants correctly positioned and restrained during crashes and normal
-  driving. Compliance covers seats, belt assemblies, retractors, buckles, anchorages,
-  and ISOFIX/LATCH/tether hardware, requiring these components to meet...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Canada's Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
+  set safety requirements for removable child restraint systems, including infant
+  and child restraints, booster seats, car beds and custom restraint systems for disabled
+  persons. Vehicle seat belt assemblies and anchorages are covered separately by MVSR
+  sections 208 and 210 to 210.2.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 91e202d39afe92716bad35ab345778cf94ef04e8
 systems:
 - Restraints
@@ -34,9 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
-un_equivalent_ai:
-- UN R16
-- UN R129
 vehicle_categories:
 - Passenger car
 - Light truck

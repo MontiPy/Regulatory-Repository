@@ -27,8 +27,8 @@ status: in-force
 summary: Motor vehicle fuel systems — including tanks, filler ports, and gas outlets
   — must be structured to prevent fuel leakage, meet minimum distance requirements
   from exhaust pipes and electrical components, and be physically separated from the
-  passenger compartment. Vehicles powered by hydrogen gas must additionally limit...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  passenger compartment.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 42f04760234ec084893bf82752ffbe6ada362488
 systems:
 - Fuel safety
@@ -37,8 +37,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 17 — Fuel System
 translation_status: translated
-un_equivalent_ai:
-- UN R34
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -25,21 +25,19 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-47/part-15
 status: in-force
-summary: Radio frequency (RF) devices — including intentional, unintentional, and
-  incidental radiators — are regulated under this part, which establishes the technical
-  specifications, administrative requirements, and equipment authorization conditions
-  under which such devices may be operated or marketed without an individual...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 47 CFR Part 15 sets the rules under which intentional, unintentional and
+  incidental radiators may operate without an individual FCC license, with technical
+  specifications and conditions for marketing such devices. Operation or marketing
+  of non-compliant devices is prohibited unless exempted, and prior equipment authorization
+  is required where applicable. Subparts cover unintentional and intentional radiators,
+  UWB, U-NII and white space devices.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 73061180678a578fcff88a0e2af8f598f5146a1f
 systems:
 - EMC
-- ADAS
-- Cybersecurity
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 15—RADIO FREQUENCY DEVICES
-un_equivalent_ai:
-- UN R10
 vehicle_categories: []
 ---
 

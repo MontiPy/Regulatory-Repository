@@ -27,9 +27,8 @@ source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 summary: Exhaust emissions and OBD requirements under Japan's SRRV/TRIAS standards
   regulate powertrains, fuel systems, evaporative systems, calibration, and OBD across
-  passenger and light vehicles. Covered vehicles must meet certified limits for pollutants
-  (NOx, CO, HC, PM, PN) and CO2, satisfy fuel economy reporting...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  passenger and light vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ae8a2f362e8d49270d7d585f3e9c5d2a5a42c381
 systems:
 - Emissions
@@ -39,9 +38,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Exhaust Emissions and OBD
 translation_status: translated
-un_equivalent_ai:
-- UN R83
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

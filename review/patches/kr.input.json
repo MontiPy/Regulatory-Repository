@@ -1,0 +1,146 @@
+{
+ "group": "kr",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "kr-kmvss-art102-3",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R94",
+   "proposed": "UN R137 (full-width frontal, rigid barrier)",
+   "evidence": "Body: 'full frontal rigid barrier collision standards in Attached Table 14-7'. UN R94 is 40% offset deformable barrier; R137 is the 50 km/h full-width rigid barrier regulation (search: GAR/ATS R137 pages)",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-kmvss-art109",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R45",
+   "proposed": "remove (no UN counterpart for wipers/washers/defrost; EU Dir 78/318 equivalent); UN R45 covers headlamp cleaners",
+   "evidence": "Search: 'UN Regulation No 45 contains uniform provisions concerning the approval of headlamp cleaners'. Body of Art 109 covers windshield wipers, defroster, demister",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-kmvss-art111-3",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R157, UN R155",
+   "proposed": "UN R79 / UN R171 (DCAS) for partial (Level 2) systems; drop R155 (cybersecurity)",
+   "evidence": "Body: 'partial autonomous driving systems installed in passenger cars'. R157 covers ALKS (Level 3 motorway); R155 is cyber security management, not an ADS performance counterpart (standard knowledge, not searched)",
+   "confidence": "medium"
+  },
+  {
+   "id": "kr-kmvss-art14-2",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car, Heavy truck",
+   "proposed": "Bus, Heavy truck (verify Korean wording)",
+   "evidence": "Body 'Passenger vehicles (excluding light-class vans)' implies the Korean 승합 (van/bus) category since a light-class van exclusion is cited; 'Passenger car' tag likely wrong; Bus missing. Not verified against Korean text",
+   "confidence": "low"
+  },
+  {
+   "id": "kr-kmvss-art18",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R100",
+   "proposed": "none",
+   "evidence": "Body: wiring insulation, terminal covers, battery fixing. UN R100 covers electric power train/REESS safety of BEVs, not conventional wiring",
+   "confidence": "medium"
+  },
+  {
+   "id": "kr-kmvss-art19",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R26, UN R127",
+   "proposed": "UN R58 (rear underrun), UN R73 (lateral protection), UN R26 (external projections, para 6); remove R127",
+   "evidence": "Body of Art 19 covers frame, rear overhang, GVW display, side/rear underrun protection, sharp edges; no pedestrian-protection content",
+   "confidence": "medium"
+  },
+  {
+   "id": "kr-kmvss-art21",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R11",
+   "proposed": "none (R11 covers door latches and hinges, not bonnet/hood latches)",
+   "evidence": "Body: 'Motor vehicles shall be equipped with a secure hood latch...secondary locking'. UN R11 = door latches and door retention components (standard knowledge, not searched)",
+   "confidence": "medium"
+  },
+  {
+   "id": "kr-kmvss-art53-2",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "...children's school vans must have both the approach warning and reversing warning sound systems.",
+   "proposed": "School vans must have both the rear-view image system (item 1) and the reversing warning sound system (item 3).",
+   "evidence": "Body: 'However, school vans for children shall be equipped with both the devices in items 1 and 3' (item 1 = rear-view image system, item 2 = approach warning, item 3 = reversing warning sound).",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-kmvss-art87",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R79",
+   "proposed": "none (no direct UN counterpart for accelerator control return-to-idle); remove R79",
+   "evidence": "UN R79 covers steering equipment; Article 87 body only concerns accelerator pedal return to idle within 1 s after releasing force / circuit fault.",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-kmvss-art89-2",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R157",
+   "proposed": "UN R130",
+   "evidence": "UN R157 is Automated Lane Keeping Systems (L3). The Lane Departure Warning System regulation is UN R130 ('establishes uniform provisions for approval of motor vehicles equipped with a Lane Departure Warning System (LDWS)').",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-kmvss-art95",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R21",
+   "proposed": "UN R118 (closest, burning behaviour of interior materials; scope M3 only) or none",
+   "evidence": "UN R21 is interior fittings (impact), not flammability. Art 95 sets a 102 mm/min burn-rate limit. R118 'applies to the burning behaviour (ignitibility, burning rate...) of materials used in vehicles of categories M3 Classes II and III' (limit 100 mm/min).",
+   "confidence": "medium"
+  },
+  {
+   "id": "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Fuel safety, Battery safety, EV charging, Emissions",
+   "proposed": "none of these (materials / recycling not in taxonomy); at most leave empty",
+   "evidence": "Tags derived from the mismatched body; the Act governs end-of-life recycling/restricted substances ('Applies to vehicle-related recycling/resource-circulation duties').",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Batteries, Fuel system, Fuel tanks, Hoses & lines, Power electronics, Connectors",
+   "proposed": "empty or materials-related only",
+   "evidence": "Same cause: tags follow the erroneous fuel/HV battery body text rather than the recycling Act.",
+   "confidence": "high"
+  },
+  {
+   "id": "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R100, UN R153",
+   "proposed": "UN R133 (reusability, recyclability and recoverability of M1/N1 vehicles) or none",
+   "evidence": "R100 (electric safety) and R153 (fuel system integrity) do not correspond to a recycling/resource-circulation act; closest is UN R133 (recyclability/recoverability).",
+   "confidence": "medium"
+  }
+ ]
+}

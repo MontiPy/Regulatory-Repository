@@ -3,7 +3,7 @@ citation: 49 CFR §571.205
 commodities:
 - Glass
 id: us-fmvss-205
-last_pulled: '2026-06-01T18:40:31+00:00'
+last_pulled: '2026-10-06T03:26:20+00:00'
 open_tags:
 - windshield glazing
 - safety glazing
@@ -21,12 +21,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.205
 status: in-force
-summary: Glazing materials used in motor vehicles — including passenger cars, trucks,
-  buses, motorcycles, and certain campers — are regulated to reduce occupant injuries
-  from impact, ensure driver visibility, and prevent occupants from being ejected
-  through windows. Manufacturers must conform to ANSI/SAE Z26.1-1996 standards...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 6fdae376ae8ecc4a25d1c6074d459a6fa93f7be2
+summary: FMVSS No. 205 specifies requirements for glazing materials in motor vehicles
+  and equipment to reduce injuries from impact with glazing, ensure transparency for
+  driver visibility and limit occupant ejection. It applies to passenger cars, MPVs,
+  trucks, buses, motorcycles, slide-in campers, pickup covers designed to carry persons,
+  and low speed vehicles. Glazing must conform to ANSI/SAE Z26.1-1996, including aftermarket
+  replacement glazing.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b8c001aca73387e5d8cc447464b21eb1b01b66af
 systems:
 - Glazing
 - Visibility
@@ -34,8 +36,6 @@ systems:
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.205 Standard No. 205, Glazing materials.
-un_equivalent_ai:
-- UN R43
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -50,11 +50,7 @@ S1. Scope. This standard specifies requirements for glazing materials for use in
 
 S2. Purpose. The purpose of this standard is to reduce injuries resulting from impact to glazing surfaces, to ensure a necessary degree of transparency in motor vehicle windows for driver visibility, and to minimize the possibility of occupants being thrown through the vehicle windows in collisions.
 
-S3. Application.
-
-(a) This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, buses, motorcycles, slide-in campers, pickup covers designed to carry persons while in motion and low speed vehicles, and to glazing materials for use in those vehicles.
-
-(b) For glazing materials manufactured before September 1, 2006, and for motor vehicles, slide-in campers and pickup covers designed to carry persons while in motion, manufactured before November 1, 2006, the manufacturer may, at its option, comply with 49 CFR 571.205(a) of this section.
+S3. Application. This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, buses, motorcycles, slide-in campers, pickup covers designed to carry persons while in motion and low speed vehicles, and to glazing materials for use in those vehicles.
 
 S4. Definitions.
 
@@ -76,7 +72,7 @@ S5.1 Glazing materials for use in motor vehicles must conform to ANSI/SAE Z26.1-
 
 S5.1.1 Multipurpose passenger vehicles. Except as otherwise specifically provided by this standard, glazing for use in multipurpose passenger vehicles shall conform to the requirements for glazing for use in trucks as specified in ANSI/SAE Z26.1-1996 (incorporated by reference, see § 571.5).
 
-S5.1.2 Aftermarket replacement glazing. Glazing intended for aftermarket replacement is required to meet the requirements of this standard or the requirements of 49 CFR 571.205(a) applicable to the glazing being replaced.
+S5.1.2 Aftermarket replacement glazing. Glazing intended for aftermarket replacement is required to meet the requirements of this standard.
 
 S5.1.3 Location of arrow within “AS” markings. In ANSI/SAE Z26.1-1996 (incorporated by reference, see § 571.5) Section 7. “Marking of Safety Glazing Materials,” on page 33, in the right column, in the first complete sentence, the example markings “AS↓1”, “AS↓14” and “AS↑2” are corrected to read “A↓S1”, “A↓S14” and “A↑S2”. Note that the arrow indicating the portion of the material that complies with Test 2 is placed with its base adjacent to a horizontal line.
 

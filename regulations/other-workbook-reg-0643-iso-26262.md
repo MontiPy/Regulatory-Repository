@@ -25,27 +25,21 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/68383.html
 status: in-force
-summary: ISO 26262 covers functional safety for road vehicle electrical and electronic
-  (E/E) systems, including ECUs, ADAS controllers, braking, steering, and software-intensive
-  components. It requires a structured process to identify and manage E/E malfunction
-  hazards and is widely expected as supporting safety evidence for...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: ISO 26262 is the road-vehicle functional safety standard for electrical and
+  electronic (E/E) systems, covering safety lifecycle, hazard analysis and risk assessment,
+  ASIL classification and fault handling for items such as ECUs, ADAS controllers,
+  braking and steering. It is a voluntary standard rather than a government regulation,
+  but is widely expected as supporting safety-case evidence.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 18977b11ce5bc5f17ad5db58dcd9852dea899f96
 systems:
 - ADAS
 - Braking
 - Steering
-- On-board diagnostics
-- Software updates
-- Cybersecurity
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Functional safety
-un_equivalent:
-- UN R157
-un_equivalent_ai:
-- UN R155
-- UN R156
+un_equivalent: []
 vehicle_categories:
 - Passenger car
 - Light truck

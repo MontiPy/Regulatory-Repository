@@ -1,0 +1,12 @@
+{
+ "shard": "mk-04",
+ "kind": "markets",
+ "items": [
+  "TH",
+  "MY",
+  "ID",
+  "PH",
+  "VN",
+  "SG"
+ ]
+}

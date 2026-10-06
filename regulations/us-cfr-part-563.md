@@ -6,7 +6,7 @@ commodities:
 - Seatbelts
 - Brakes
 id: us-cfr-part-563
-last_pulled: '2026-06-01T18:44:10+00:00'
+last_pulled: '2026-10-06T03:29:17+00:00'
 open_tags:
 - event data recorder
 - EDR
@@ -24,21 +24,20 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-563
 status: in-force
-summary: Event data recorders (EDRs) in eligible motor vehicles are regulated for
-  how they collect, store, and make retrievable crash event data. Manufacturers of
-  passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of
-  8,500 lbs or less (if equipped with an EDR) manufactured on or after September 1,...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 086770e9f1494fe6eec970a7a5a901977f4b22d2
+summary: '49 CFR Part 563 sets uniform requirements for event data recorders (EDRs)
+  in vehicles so equipped: collection, storage and retrievability of crash event data,
+  data elements and format, crash-test survivability, owner''s manual information
+  and commercial availability of data retrieval tools. It applies to vehicles made
+  on or after 1 September 2012 up to 3,855 kg GVWR and 2,495 kg unloaded weight, with
+  a phase-in certification for production years ending 2029-2032.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: c36c4acf9dc61c04bedbf920d593a969ec81ba34
 systems:
 - Crashworthiness
-- Restraints
-- On-board diagnostics
+- Event & data recording
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: PART 563—EVENT DATA RECORDERS
-un_equivalent_ai:
-- UN R160
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -61,7 +60,21 @@ This part applies to the following vehicles manufactured on or after September 1
 
 *[73 FR 2179, Jan. 14, 2008]*
 
-### § 563.4 xxx
+### § 563.4 Certification for Phase-in.
+
+(a) Vehicle certification information. At any time during the production years ending August 31, 2029, August 31, 2030, August 31, 2031, and August 31, 2032, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been equipped with EDRs meeting the requirements of § 563.7(a) and (b). The manufacturer's designation of a vehicle as equipped with an EDR meeting these requirements is irrevocable.
+
+(b) Vehicles produced by more than one manufacturer. For the purpose of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under § 563.4(a), a vehicle produced by more than one manufacturer shall be attributed to a single manufacturer as follows:
+
+(1) A vehicle which is imported shall be attributed to the importer.
+
+(2) A vehicle manufactured in the United States by more than one manufacturer, one of which also markets the vehicle, shall be attributed to the manufacturer which markets the vehicle.
+
+(c) Attributability by express written contract of vehicles produced by more than one manufacturer. A vehicle produced by more than one manufacturer shall be attributed to any one of the vehicle's manufacturers specified by an express written contract, reported to the National Highway Traffic Safety Administration under 49 CFR part 585, between the manufacturer so specified and the manufacturer to which the vehicle would otherwise be attributed under § 563.4(b).
+
+(d) Average annual production. For the purposes of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under § 563.4(a), only count vehicles to which this regulation is applicable as specified § 563.3 and are equipped with an EDR.
+
+*[91 FR 28440, May 18, 2026]*
 
 ### § 563.5 Definitions.
 
@@ -206,7 +219,7 @@ Each vehicle equipped with an EDR must meet the requirements specified in § 563
 
 [Table — see source for details]
 
-*[89 FR 102832, Dec. 18, 2024]*
+*[89 FR 102832, Dec. 18, 2024, as amended at 91 FR 28440, May 18, 2026]*
 
 ### § 563.8 Data format.
 

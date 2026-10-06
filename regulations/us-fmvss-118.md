@@ -23,13 +23,11 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.118
 status: in-force
 summary: Power-operated window, partition, and roof panel systems in passenger cars,
   multipurpose passenger vehicles, and trucks up to 4,536 kg GVWR are regulated to
-  minimize accidental operation injuries or deaths. The standard mandates specific
-  conditions under which these systems may close, requires automatic reversal when...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  minimize accidental operation injuries or deaths.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1b31bcb78d08d3fded02b941bc102a46aeddb68a
 systems:
 - Glazing
-- Theft prevention
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.118 Standard No. 118; Power-operated window, partition, and roof panel

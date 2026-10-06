@@ -30,9 +30,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 588—CHILD RESTRAINT SYSTEMS RECORDKEEPING REQUIREMENTS
-un_equivalent_ai:
-- UN R44
-- UN R129
 vehicle_categories:
 - Passenger car
 - Light truck

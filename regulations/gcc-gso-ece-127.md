@@ -26,11 +26,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: GSO-ECE 127 covers pedestrian safety performance for vehicles sold in the
-  GCC region, addressing crashworthiness and protection for both occupants and vulnerable
-  road users. It requires that vehicle structures, restraint systems, and pedestrian
-  protection components reduce injury risk and maintain post-crash...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: GSO-ECE 127 covers pedestrian safety performance of motor vehicles in GCC
+  markets, limiting injury to pedestrians and other vulnerable road users in head
+  and leg impacts with the vehicle front, such as the bonnet, bumper and windscreen
+  area.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 782544bfcef5cd955f2070921ded0b141347cd7f
 systems:
 - Crashworthiness
@@ -40,9 +40,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Pedestrian Safety Performance
 translation_status: untranslated
-un_equivalent_ai:
-- UN R127
-- UN R114
 vehicle_categories:
 - Passenger car
 - Light truck

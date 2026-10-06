@@ -24,9 +24,8 @@ source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 summary: Body structure and load path requirements under Japan's SRRV/TRIAS framework
   regulate BIW, closures, crash structures, pedestrian protection, adhesives, welds,
-  and related structural parts for passenger vehicles. Programs must identify and
-  satisfy all applicable structural regulatory obligations — including...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  and related structural parts for passenger vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0bcd1b50d78a9ab7fb23cda983b52950ecab55c1
 systems:
 - Crashworthiness
@@ -35,9 +34,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Body Structure and Load Path
 translation_status: translated
-un_equivalent_ai:
-- UN R94
-- UN R127
 vehicle_categories:
 - Passenger car
 - Light truck

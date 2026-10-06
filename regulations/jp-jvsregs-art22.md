@@ -23,10 +23,8 @@ source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 summary: Seats in motor vehicles must be arranged and dimensioned to allow safe seating,
-  in accordance with ministerial standards for space, orientation, and size. Seats
-  and their mounting devices must also be structurally capable of withstanding collision
-  loads, with rear seat-back protection required in certain vehicle...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  in accordance with ministerial standards for space, orientation, and size.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: bece5581f9a5fa30fc3ff028959a18e804a2928d
 systems:
 - Crashworthiness
@@ -35,9 +33,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 22 — Seats
 translation_status: translated
-un_equivalent_ai:
-- UN R17
-- UN R21
 vehicle_categories:
 - Passenger car
 - Light truck

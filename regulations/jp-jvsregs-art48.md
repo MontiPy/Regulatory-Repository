@@ -22,20 +22,15 @@ status: in-force
 summary: Automated driving devices installed in eligible motor vehicles (excluding
   two-wheeled, three-wheeled, crawler-tracked, and towed vehicles) must meet function
   and performance standards prescribed by ministerial notice to ensure safe program-controlled
-  operation. Devices receiving type designation under the Road...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  operation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f854ee089eff593a88a1c4acd60483d1f130e1d1
 systems:
 - ADAS
-- Cybersecurity
-- Software updates
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 48 — Automated Driving Devices
 translation_status: translated
-un_equivalent_ai:
-- UN R157
-- UN R155
 vehicle_categories:
 - Passenger car
 - Light truck

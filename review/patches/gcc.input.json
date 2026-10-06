@@ -1,0 +1,406 @@
+{
+ "group": "gcc",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "gcc-gcc-ev-technical-regulation-draft",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "draft / proposed (not in force)",
+   "evidence": "Record's own citation and slug say 'Draft'; body 'Possible functional overlap: GCC / GSO MC-250905:2025'. Search: 'The GCC draft of technical regulation is concerned with all battery electric vehicles with a speed of more than 25 km/h'; draft referred to GSO conformity committee after Technical Council meeting no. 59 (Oct 2024).",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-125",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Summary: lamp/illumination/glare/driver-intent signalling requirements",
+   "proposed": "UN R125 is Forward Field of Vision of motor vehicle drivers (M1 only): driver's forward visibility/obstruction angles, not lighting. Rewrite summary accordingly.",
+   "evidence": "Body is title 'Forward Field of Vision' but boilerplate intent says 'provides adequate road illumination without glare'; UN R125 title is 'Forward field of vision of motor vehicle drivers'.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-13h-2012",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R13",
+   "proposed": "UN R13-H (passenger cars/M1); UN R13 covers heavy vehicles M2/M3/N/O",
+   "evidence": "Title 'Braking System of Passenger Cars and Multi Purpose Vehicles'; body related regs cite 'UNECE R13-H/R140'. UN R13 is the heavy-vehicle braking regulation.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-43-gso-3538",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Summary: road illumination, signalling driver intent, lighting/HMI",
+   "proposed": "UN R43: safety glazing materials and their installation (windscreen, windows, impact/optical/light transmission)",
+   "evidence": "Body title 'Safety Glazing and Optical Test Methods' contradicts the boilerplate illumination text.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-46",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Summary: mirrors ... light color, intensity, aim and tell-tale logic",
+   "proposed": "UN R46: devices for indirect vision (mirrors, camera-monitor systems): fields of view, installation, performance",
+   "evidence": "Body title 'Devices for Indirect Vision'; lighting text is boilerplate.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-1503-2002",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R48",
+   "proposed": "UN R112 / R98 / R8 / R20 (headlamp performance); R48 is installation",
+   "evidence": "Record title 'Motor Vehicles - Head Lamps'; UN R48 covers installation of lighting devices, not headlamp units. AI value R112 is the closer match.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-1707-2005",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R95",
+   "proposed": "none (FMVSS 214 is the US counterpart); R95 is the European moving-deformable-barrier regulation",
+   "evidence": "GSO 1707 is the US-standard variant; GSO 1708 (Part 3C) is the European variant that maps to R95.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-1709-2005",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "vehicles allow child restraints to be correctly installed ... ISOFIX/LATCH lower anchors, top tether anchors",
+   "proposed": "describe as child restraint system requirements/approval",
+   "evidence": "GSO store: GSO 1709:2005 'is concerned with the child restraint system to be used in motor vehicles and which are not intended for use with folding or with side facing seats' (CRS product standard; testing is separate GSO 1710).",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-290-1994",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "owner information and instruction manuals for vehicles ... Arabic and English",
+   "proposed": "Generic manual standard, not vehicle-specific; verify language requirement",
+   "evidence": "GSO list: 'GSO 290:1994 - Instruction Manual for Appliances Instruments and Equipment'. Vehicle-specific scope and Arabic/English mandate not established.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-290-1994",
+   "field": "title",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Instruction Manuals / Owner Information",
+   "proposed": "Instruction Manual for Appliances, Instruments and Equipment",
+   "evidence": "Official title per GSO MV technical regulation list (search snippet).",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-39-2005",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R95, UN R16",
+   "proposed": "none (US FMVSS 216 analogue); UN R66 covers only large passenger vehicle superstructure",
+   "evidence": "R95 is side impact and R16 is seat belts; neither is a roof-strength regulation.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-41-2007",
+   "field": "un_equivalent",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R26",
+   "proposed": "UN R42 (front and rear protective devices)",
+   "evidence": "GSO store: GSO 41:2007 covers 'protection devices (front and rear) of passenger cars when involved in a collision at low speed' = UN R42; R26 is external projections.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-96-1988",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R14",
+   "proposed": "UN R16 (belt assemblies)",
+   "evidence": "Record title is 'Methods of Testing of Safety Belt' (belt assemblies); R14 covers anchorages, R16 belts.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-97-1988",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R14 (R16 only AI)",
+   "proposed": "UN R16 (and R14 for anchorages)",
+   "evidence": "Summary: 'adult safety belt assemblies - buckles, retractors, pretensioners' which is UN R16 content; R14 only anchorages.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-ece-100",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Heavy truck, Motorcycle, Bus",
+   "proposed": "Passenger car, Light truck, Heavy truck, Bus (UN R100 applies to M and N categories; not L)",
+   "evidence": "UN R100 scope is road vehicles of categories M and N with electric power train; motorcycles are outside scope (standard knowledge).",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-ece-121",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "covers ... exterior lamps, light-signaling devices ... clear visibility, proper signaling of driver intent",
+   "proposed": "Scope is identification of controls, tell-tales and indicators only (HMI symbols/colours); lamps are UN R48",
+   "evidence": "UN R121 is limited to location, identification, colour of hand controls, tell-tales and indicators; exterior lamps belong to R48/R7/R6.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-125",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Lighting & signaling, Visibility",
+   "proposed": "Visibility only (drop Lighting & signaling; commodities Lighting modules/Wiring/ECUs also wrong - glazing/body structure)",
+   "evidence": "Frontmatter systems/commodities derive from lighting boilerplate; R125 concerns A-pillar/dashboard sightlines.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-125",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R125, UN R121",
+   "proposed": "UN R125 only (R121 is controls/tell-tales identification)",
+   "evidence": "UN R121 = identification of controls, tell-tales and indicators; unrelated to forward field of vision.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-127",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R127, UN R114",
+   "proposed": "UN R127 only",
+   "evidence": "UN R114 covers replacement airbag modules/steering wheels, not pedestrian safety.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-127",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Summary says requirements cover occupants and restraint systems",
+   "proposed": "Limit to pedestrian protection (head/leg impact areas of bonnet, bumper, windscreen frame)",
+   "evidence": "UN R127 (pedestrian safety) concerns vulnerable road users; summary and tags (Restraints; Airbags, Seatbelts, Seats) are boilerplate.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-ece-141",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Summary describes tires, wheels, valve stems, placards, tire markings, structural suitability",
+   "proposed": "TPMS: requirements for tyre pressure monitoring systems (warning of under-inflation, tell-tale, detection thresholds)",
+   "evidence": "UN R141 is the TPMS regulation (tyre pressure monitoring); summary is tire-markings boilerplate.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-156",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "'safety-relevant data are recorded and managed' and cybersecurity framing",
+   "proposed": "UN R156: software update management system (SUMS) and RXSWIN, OTA update process controls",
+   "evidence": "Summary copies cyber/data boilerplate.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-ece-21",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R21, UN R94",
+   "proposed": "UN R21 only",
+   "evidence": "UN R94 is frontal collision, not interior fittings.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-26",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R26, UN R127",
+   "proposed": "UN R26 only (R127 is pedestrian safety; arguably related)",
+   "evidence": "Boilerplate; R26 covers external projections of M1 vehicles.",
+   "confidence": "low"
+  },
+  {
+   "id": "gcc-gso-ece-30",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R30, UN R141",
+   "proposed": "UN R30 only",
+   "evidence": "UN R141 is TPMS, not passenger car tyre approval.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-43-gso-3538",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Glazing, Lighting & signaling, Visibility",
+   "proposed": "Glazing, Visibility",
+   "evidence": "Lighting tag derived from boilerplate. Also un_equivalent_ai UN R48 is wrong (R48 is lamp installation); proposed UN R43.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-43-gso-3538",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R43, UN R48",
+   "proposed": "UN R43",
+   "evidence": "R48 is lighting installation.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-46",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R46, UN R48",
+   "proposed": "UN R46",
+   "evidence": "R48 is lamp installation.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-46",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Visibility, Lighting & signaling",
+   "proposed": "Visibility",
+   "evidence": "Lighting not part of R46.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-51",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Emissions, Noise, On-board diagnostics; commodities Exhaust, ECUs, Fuel system",
+   "proposed": "Noise (not Emissions/OBD); commodities Exhaust/tyres as appropriate",
+   "evidence": "Summary is about pass-by noise, but body intent text says 'certified emissions, fuel economy, CO2 and OBD' (boilerplate).",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-94",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Crashworthiness, Restraints, Pedestrian protection",
+   "proposed": "Crashworthiness, Restraints",
+   "evidence": "Frontal collision regulation; no pedestrian content.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-95",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Crashworthiness, Restraints, Pedestrian protection",
+   "proposed": "Crashworthiness, Restraints",
+   "evidence": "Side impact regulation; no pedestrian content.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-ece-95",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R95, UN R114",
+   "proposed": "UN R95 only",
+   "evidence": "R114 covers replacement airbag modules.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+   "field": "source_url",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "URL file ends MY-D2 while citation says MY2027-D3",
+   "proposed": "Use the D3/D4 list (e.g. https://www.gso.org.sa/wp-content/uploads/2025/10/GSO-Technical-Regulations-MV-2027-MY-D4.pdf) or reconcile",
+   "evidence": "Citation 'MY2027-D3' vs source_url '..._MV_2027_MY-D2.pdf'; search shows a D4 version exists.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "VIN/certification labels, owner manuals, type approval files, traceability",
+   "proposed": "It is an index list of mandatory GSO/UN technical regulations by model year; the summary invents documentation requirements",
+   "evidence": "Body: 'GSO-ECE listed regulations; SASO/UAE national fuel economy and EV requirements' only.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-saso-2847-saso-2864-2022",
+   "field": "source_url",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "SASO efficiency card FINAL_REPORT_2024.pdf",
+   "proposed": "Cite the SASO standards themselves",
+   "evidence": "Citation names SASO 2847/2864:2022 but URL is an energy-efficiency card report.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-saso-2847-saso-2864-2022",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Fleet CAFE compliance, OBD, evaporative, hybrid/EV systems",
+   "proposed": "Fuel economy label and fleet efficiency requirements only",
+   "evidence": "Body states 'Saudi new light-duty vehicle fuel economy label and fleet CAFE'; the OBD/evap detail is boilerplate.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-saso-3005-2022",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R125",
+   "proposed": "No UN equivalent (FMVSS 103, ADR 42 analogues)",
+   "evidence": "R125 is forward field of vision; body lists 'FMVSS/CMVSS 103; GB 11555; ADR 42'.",
+   "confidence": "high"
+  },
+  {
+   "id": "gcc-saso-3006-2022",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R161",
+   "proposed": "No known UN equivalent (FMVSS 124 is the analogue)",
+   "evidence": "Body Related Regulations: 'FMVSS/CMVSS 102, 124; SASO 3006'. No UN regulation on accelerator control return known.",
+   "confidence": "medium"
+  },
+  {
+   "id": "gcc-saso-3007-2022",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R45",
+   "proposed": "No UN equivalent (FMVSS 104)",
+   "evidence": "UN R45 is headlamp cleaners; body related regulations: 'FMVSS/CMVSS 104; GB 15085'.",
+   "confidence": "high"
+  }
+ ]
+}

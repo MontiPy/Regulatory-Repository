@@ -28,8 +28,8 @@ status: in-force
 summary: Braking systems of passenger cars and multipurpose vehicles (M1 category)
   exported or registered in GCC member states are regulated to ensure predictable
   stopping performance, braking stability, and residual braking capability after system
-  faults. The regulation covers foundation brakes, hydraulic circuits, ABS, ESC,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  faults.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5a435cd5b0b47fa919ba16faf85a1a95606341aa
 systems:
 - Braking
@@ -38,10 +38,7 @@ tagging_status: llm-tagged
 title: Braking System of Passenger Cars and Multi Purpose Vehicles
 translation_status: untranslated
 un_equivalent:
-- UN R13
-un_equivalent_ai:
 - UN R13H
-- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

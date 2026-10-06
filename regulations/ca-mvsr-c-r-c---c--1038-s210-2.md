@@ -2,7 +2,7 @@
 citation: MVSR C.R.C.,_c._1038 s. 210.2
 commodities:
 - Seats
-- Airbags
+- Seatbelts
 id: ca-mvsr-c-r-c---c--1038-s210-2
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -22,21 +22,19 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Lower universal anchorage systems (LUAS) for child restraints in passenger
-  cars, three-wheeled vehicles, light trucks, MPVs, buses, and school buses are regulated
-  by this section, which specifies the physical specifications of the anchorage bars
-  and mandates where they must be installed based on vehicle type, seating...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Section 210.2 of Canada's Motor Vehicle Safety Regulations applies to passenger
+  cars, three-wheeled vehicles, multi-purpose passenger vehicles and trucks up to
+  3 856 kg GVWR and 2 495 kg unloaded weight, buses up to 4 536 kg GVWR, and school
+  buses, with exclusions such as walk-in vans and hearses. It sets requirements for
+  lower universal anchorage systems (two 6 mm horizontal bars) to attach child restraints.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 288abc6821cb7781a51992eba4b3e2f4f98bb8b8
 systems:
 - Restraints
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 210.2 — General
-un_equivalent_ai:
-- UN R129
-- UN R145
+title: MVSR s. 210.2 — Lower Universal Anchorage Systems (ISOFIX/LATCH)
 vehicle_categories:
 - Passenger car
 - Light truck

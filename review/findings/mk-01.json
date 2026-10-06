@@ -1,0 +1,124 @@
+{
+ "shard": "mk-01",
+ "reviewed": [
+  "US",
+  "CA",
+  "MX",
+  "CENTAM",
+  "CARIB",
+  "BR"
+ ],
+ "findings": [
+  {
+   "id": "CA",
+   "field": "watch[1] / emissions / notes",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Electric Vehicle Availability Standard \u2014 2026 model-year target status; emissions: 'EV Availability Standard (ZEV sales targets) adopted 2023 \u2014 check for amendments/pauses'",
+   "proposed": "State that the EVAS was paused (Sept 2025) and then repealed (announced Feb 2026), to be replaced by tightened GHG standards (Canada Gazette Part I proposal Aug 2026); remove EVAS as a live watch item and update the emissions text",
+   "evidence": "Search result: 'In February 2026, Prime Minister Mark Carney announced that the EVAS will be repealed ... replaced with more stringent greenhouse gas emission standards'; Canada Gazette Pt I Vol 160 No 33 (2026-08-15): Regulations Amending the Passenger Automobile and Light Truck GHG Emission Regulations",
+   "evidence_url": "https://electricautonomy.ca/policy-regulations/2026-02-05/canada-repeals-ev-availability-standard-restores-5000-vehicle-incentives-with-new-automotive-policy/",
+   "confidence": "high"
+  },
+  {
+   "id": "CA",
+   "field": "emissions",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "GHG standards aligned with US",
+   "proposed": "Note that US federal vehicle GHG standards were repealed Feb 2026, so Canadian GHG regs are no longer simply 'aligned with US'; Canada is amending its own GHG regs",
+   "evidence": "EPA final rule (FR 2026-02-18) repeals federal GHG standards for MY2012-2027+ vehicles; Canada Gazette Aug 2026 proposes amendments to the Passenger Automobile and Light Truck GHG Regulations",
+   "evidence_url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-08-15/html/reg2-eng.html",
+   "confidence": "medium"
+  },
+  {
+   "id": "US",
+   "field": "emissions",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "EPA Tier 3 -> 2027+ multi-pollutant standards (light-/medium-duty); CARB LEV III -> LEV IV / ACC II ... litigated \u2014 verify",
+   "proposed": "Update: EPA rescinded the GHG endangerment finding and all federal vehicle GHG standards (final rule published 2026-02-18); only criteria-pollutant parts of the 2027 multi-pollutant rule remain. Also verify CARB ACC II waiver status (not verified here)",
+   "evidence": "Search result: 'On February 12, 2026, EPA ... announced the repeal of the 2009 GHG Endangerment Finding and the repeal of all federal GHG emission standards for light-duty, medium-duty and heavy-duty vehicles and engines. The final rule was published on February 18, 2026.'",
+   "evidence_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission",
+   "confidence": "high"
+  },
+  {
+   "id": "US",
+   "field": "basis / authorities[1].scope / records (us-40cfr-part-600)",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Basis 'EPA/CARB emissions & GHG'; EPA scope lists GHG",
+   "proposed": "Qualify that federal vehicle GHG standards were repealed in Feb 2026 (fuel-economy labeling under 40 CFR 600 continues)",
+   "evidence": "Same EPA rescission final rule, 91 FR (2026-02-18)",
+   "evidence_url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission",
+   "confidence": "medium"
+  },
+  {
+   "id": "US",
+   "field": "watch[0]",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "FMVSS 127 ... compliance phase-in from Sept 2029; subject to reconsideration petitions",
+   "proposed": "Date is correct (Sept 1, 2029; small-volume Sept 2030). Consider adding that DOT told the court (Feb 2025) it plans a proposed rule to extend lead time ~2 years; current status of that rulemaking not confirmed",
+   "evidence": "Search snippet: 'DOT filed an unopposed motion to hold an appeal in abeyance pending a review of FMVSS 127, with a proposed rule change that would extend the compliance lead time for OEMs by two years'",
+   "evidence_url": "https://natlawreview.com/article/road-ahead-fmvss-127-whither-automatic-emergency-braking-mandate",
+   "confidence": "low"
+  },
+  {
+   "id": "MX",
+   "field": "watch[0] / process[0]",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "NOM-194 phase-in items (pedestrian protection, ESC, side impact) \u2014 verify the current applicability table",
+   "proposed": "Pedestrian protection is an optional device (Table 4) in NOM-194-SE-2021, not a mandatory phase-in. ESC and ISOFIX/LATCH are mandatory from MY2025; tire-pressure monitoring from MY2026. Reword watch item accordingly",
+   "evidence": "Search result: 'Technologies like AEB, lane departure warning, pedestrian protection, and black box remain optional ... For 2025 model year vehicles, ESC is mandatory ... Tire pressure monitoring will be mandatory by 2026'; applies to MY2025+ vehicles, in force 2023-04-01",
+   "evidence_url": "https://expansion.mx/empresas/2022/11/22/nom-194-autos-cambios-seguridad",
+   "confidence": "medium"
+  },
+  {
+   "id": "MX",
+   "field": "un_1998",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "null",
+   "proposed": "keep null unless UNECE status list confirms",
+   "evidence": "Could not find the 1998 Agreement contracting-party list via search; no evidence either way for Mexico",
+   "evidence_url": "https://unece.org/status-1998-agreement",
+   "confidence": "low"
+  },
+  {
+   "id": "BR",
+   "field": "un_1998",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "null",
+   "proposed": "keep null unless UNECE status list confirms",
+   "evidence": "Search snippet: 'Brazil, Chile, and others have either initiated the accession to the Agreement or are considering their possible accession' (UNECE material); completion not confirmed",
+   "evidence_url": "https://unece.org/status-1998-agreement",
+   "confidence": "low"
+  },
+  {
+   "id": "CARIB",
+   "field": "notes (drive side)",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "RHD (drive on left) \u2014 Jamaica, Trinidad & Tobago, Bahamas, Barbados, Guyana, Suriname...",
+   "proposed": "Distinguish traffic side from vehicle steering: these countries drive on the left, but the Bahamas in particular mostly uses US-spec LHD vehicles, so 'RHD' and 'RHD markets source Japanese/UK spec' do not hold for all listed",
+   "evidence": "Internal inconsistency with accepts: 'RHD markets largely source Japanese/UK spec' and 'US-spec vehicles are common'; from general knowledge, not searched",
+   "evidence_url": "knowledge/markets/americas.yaml",
+   "confidence": "low"
+  },
+  {
+   "id": "BR",
+   "field": "records / process[1]",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "SENATRAN issues the CAT (Portaria 990/2022 procedure); records br-senatran-990, br-contran-912 etc.",
+   "proposed": "Linked records br-senatran-990, br-contran-910, br-contran-912, br-anatel-cert, br-mover-rota-2030 have only stub/navigation bodies (no regulation text); br-senatran-990 source_url is a commercial site (atic-ts.com), not SENATRAN. br-contran-936 (seat-belt reminder, cited in watch) is not in records list",
+   "evidence": "br-senatran-990 body: 'Full text is accessible via the official certification body (ATIC) or SENATRAN resolution archive.'; br-senatran-990 source_url https://www.atic-ts.com/...",
+   "evidence_url": "regulations/br-senatran-990.md",
+   "confidence": "medium"
+  }
+ ],
+ "notes": "Markets file is knowledge/markets/americas.yaml. Main systemic issue: emissions/GHG regulatory-status text is stale relative to 2026 events (US federal GHG repeal Feb 2026, Canada EVAS repeal Feb 2026). Core regime facts (US/CA 1998-only, BR PROCONVE L8 2025, CAT, HS-7 box 2A, FMVSS 127 2029, Parts 565/566/573, CMVSS 108/114) checked consistent. CENTAM and CARIB are low-confidence summaries with no verifiable specifics; no errors found beyond drive-side wording. 1998 membership for MX/BR left null (unverifiable via search)."
+}

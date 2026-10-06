@@ -3,8 +3,9 @@ citation: 49 CFR §571.213b
 commodities:
 - Seats
 - Seatbelts
+effective_date: '2026-12-05'
 id: us-fmvss-213b
-last_pulled: '2026-06-01T18:41:01+00:00'
+last_pulled: '2026-10-06T03:26:42+00:00'
 open_tags:
 - child restraint system
 - ISOFIX anchorage
@@ -21,13 +22,16 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213b
-status: in-force
-summary: Child restraint systems used in motor vehicles and aircraft are regulated
-  under this standard, which mandates safety performance requirements for all such
-  systems — including add-on, built-in, and belt-positioning types — applicable to
-  vehicles and restraints manufactured on or after December 5, 2026. Its purpose is...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: c40ed46cd48767353e5f2dbc2c809fbba29bab1d
+status: upcoming
+status_note: Mandatory for child restraint systems manufactured on or after 5 Dec
+  2026.
+summary: FMVSS No. 213b sets requirements for child restraint systems used in motor
+  vehicles and aircraft, to reduce child deaths and injuries in crashes. It applies
+  to passenger cars, MPVs, trucks and buses and to child restraint systems manufactured
+  on or after December 5, 2026, and replaces FMVSS No. 213 for products made from
+  that date.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 44194500db4449471b286338453045949d338612
 systems:
 - Restraints
 - Crashworthiness
@@ -35,9 +39,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability
   beginning December 5, 2026.
-un_equivalent_ai:
-- UN R129
-- UN R44
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -304,7 +305,7 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (b) The manufacturer's name. A distributor's name may be used instead if the distributor assumes responsibility for all duties and liabilities imposed on the manufacturer with respect to the system by the National Traffic and Motor Vehicle Safety Act, as amended.
 
-(c) The statement: “Manufactured in __,” inserting the month and year of manufacture.
+(c) The statement: “Manufactured in ____,” inserting the month and year of manufacture.
 
 (d) The place of manufacture (city and State, or foreign country). However, if the manufacturer uses the name of the distributor, then it shall state the location (city and State, or foreign country) of the principal offices of the distributor.
 
@@ -400,7 +401,7 @@ S5.5.5 The information specified in paragraphs (a) through (l) of this section t
 
 (b) The manufacturer's name. A distributor's or dealer's name may be used instead if the distributor or dealer assumes responsibility for all duties and liabilities imposed on the manufacturer with respect to the system by the National Traffic and Motor Vehicle Safety Act, as amended.
 
-(c) The statement: “Manufactured in ____,” inserting the month and year of manufacture.
+(c) The statement: “Manufactured in ________,” inserting the month and year of manufacture.
 
 (d) The place of manufacture (city and State, or foreign country). However, if the manufacturer uses the name of the distributor or dealer, then it shall state the location (city and State, or foreign country) of the principal offices of the distributor or dealer.
 

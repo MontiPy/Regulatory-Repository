@@ -18,11 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-593
 status: in-force
-summary: Importation eligibility for vehicles not originally manufactured to comply
-  with Federal Motor Vehicle Safety Standards (FMVSS) is regulated here, covering
-  the petition process by which Registered Importers or manufacturers may request
-  a determination from NHTSA that such a vehicle can be imported because it is capable...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: 49 CFR Part 593 sets procedures for NHTSA to determine whether a vehicle
+  not originally manufactured to conform to the Federal motor vehicle safety standards
+  may be imported because it can be modified to meet them. It specifies petition content
+  and format for Registered Importers and manufacturers, and applies to such vehicles
+  offered for importation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7559c90c31fa3a12dd38e7bb5d27d94a22dd0144
 systems: []
 tagged_at: '2026-06-16T15:44:39+00:00'

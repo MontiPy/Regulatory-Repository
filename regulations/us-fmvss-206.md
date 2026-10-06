@@ -4,7 +4,7 @@ commodities:
 - Door latches & hinges
 - Body structure
 id: us-fmvss-206
-last_pulled: '2026-06-01T18:40:32+00:00'
+last_pulled: '2026-10-06T03:26:20+00:00'
 open_tags:
 - door latch
 - door hinge
@@ -22,19 +22,19 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.206
 status: in-force
-summary: Door locks and door retention components (latches, hinges, and other supporting
-  means) on passenger cars, multipurpose passenger vehicles, trucks carrying at least
-  one person, and buses with a GVWR of 4,536 kg or less are regulated to minimize
-  occupant ejection during a crash. The standard establishes definitions for...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 84d125da48f4a341992f1db99b6b35c91a6e4330
+summary: FMVSS No. 206 specifies requirements for vehicle door locks and door retention
+  components (latches, hinges and other supporting means) to minimize occupant ejection
+  in impacts. It applies to passenger cars, multipurpose passenger vehicles, trucks
+  designed to carry at least one person, and buses with a GVWR of 4,536 kg or less.
+  It defines primary and auxiliary latch systems, back doors, double and folding doors,
+  and door closure warning systems.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a09f4e62ec94b7ce1647d328de85d9149c60168e
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.206 Standard No. 206; Door locks and door retention components.
-un_equivalent_ai:
-- UN R11
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -154,8 +154,6 @@ S4.1.2.3 On side doors with rear mounted hinges that can be operated independent
 (a) The interior door handle shall be inoperative when the speed of the vehicle is greater than or equal to 4 km/h, and
 
 (b) A door closure warning system shall be provided for those doors. The door closure warning system shall be located where it can be clearly seen by the driver.
-
-S4.1.3.2 Side Rear Door Locks. In passenger cars and multipurpose passenger vehicles, when the locking mechanism is engaged both the outside and inside door handles or other latch release controls shall be inoperative.
 
 S4.2 Sliding Side Doors.
 
@@ -453,4 +451,4 @@ S5.2.2.4 Test Procedure.
 
 S5.3 Sliding Side Doors. Compliance with S4.3 shall be demonstrated by applying an outward transverse load of 8,900 Newtons (2,000 pounds) to the load-bearing members at the opposite edges of the door (17,800 Newtons (4,000 pounds) total). The demonstration may be performed either in the vehicle or with the door retention components in a bench test fixture.
 
-*[36 FR 22902, Dec. 2, 1971, as amended at 37 FR 284, Jan. 8, 1972; 50 FR 12031, Mar. 27, 1985; 60 FR 13646, Mar. 14, 1995; 60 FR 50134, Sept. 28, 1995; 61 FR 39907, July 31, 1996; 72 FR 5399, June 27, 2007; 74 FR 35135, July 20, 2009; 74 FR 37176, July 28, 2009; 75 FR 7382, Feb. 19, 2010; 77 FR 764, Jan. 6, 2012; 87 FR 18588, Mar. 30, 2022]*
+*[36 FR 22902, Dec. 2, 1971, as amended at 37 FR 284, Jan. 8, 1972; 50 FR 12031, Mar. 27, 1985; 60 FR 13646, Mar. 14, 1995; 60 FR 50134, Sept. 28, 1995; 61 FR 39907, July 31, 1996; 72 FR 5399, June 27, 2007; 74 FR 35135, July 20, 2009; 74 FR 37176, July 28, 2009; 75 FR 7382, Feb. 19, 2010; 77 FR 764, Jan. 6, 2012; 87 FR 18588, Mar. 30, 2022; 91 FR 33084, June 3, 2026]*

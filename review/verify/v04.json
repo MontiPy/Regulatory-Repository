@@ -1,0 +1,77 @@
+{
+ "group": "v04",
+ "patches": {
+  "au-f2026l00278": {
+   "summary": "Australian Design Rule 107/00 requires Emergency Lane Keeping Systems that warn the driver and correct the vehicle's trajectory when it unintentionally leaves its lane. It applies to category MA, MB, MC and NA vehicles from 1 March 2028 (new models) and 1 March 2029 (all vehicles), and accepts UN Regulation No. 178 (00 series) as an alternative standard.",
+   "un_equivalent": ["UN R178"],
+   "_why": "Clause 2 (function), clause 3.1 dates and clause 7.1 name UN R178 as the alternative standard."
+  },
+  "au-f2026l00284": {
+   "summary": "Australian Design Rule 98/02 requires Advanced Emergency Braking Systems on passenger vehicles (other than omnibuses) and light goods vehicles to avoid or mitigate rear-end collisions with cars and impacts with pedestrians or bicycles. It applies to MA, MB, MC and NA vehicles from 1 March 2028 (new models) and 1 March 2029 (all vehicles), and is based on UN Regulation No. 152 (Appendix A).",
+   "un_equivalent": ["UN R152"],
+   "_why": "Clause 2 function, clause 3.1 dates; Appendix A reproduces UN Regulation No. 152 with clause 6 variations. Old summary was truncated with '...'."
+  },
+  "au-f2026l00512": {
+   "summary": "Australian Design Rule 114/00 prescribes how the carbon dioxide emissions of vehicles with a gross vehicle mass over 3,500 kg are determined. It applies to MA, MB, MC and NB category vehicles of 3,500-3,855 kg GVM supplied from 30 June 2027, excludes NB1 work vans and work trucks, and accepts testing to UN R101, UN R154, EU 2017/1151, EU 2025/1706 or US 40 CFR Part 600.",
+   "un_equivalent": ["UN R101", "UN R154"],
+   "_why": "Clauses 2, 3.1-3.3 and 7.1-7.5 give function, scope, date and alternative standards (UN R101 and R154 named)."
+  },
+  "br-anatel-cert": {
+   "summary": "ANATEL web page on product certification and homologation in Brazil. It states that certification and homologation ensure telecommunications products meet regulated standards of quality, safety and technical function, supporting efficient use of the radio spectrum and electromagnetic compatibility. The page is a landing page that links to certification procedures, the Certifica platform (which replaces SCH) and requirements, and sets no vehicle-specific rules.",
+   "_why": "Page intro text and 'Novo Sistema de Certificação' box; no automotive requirements in body."
+  },
+  "br-conama-492": {"_confirmed": true, "_why": "Arts. 1, 2, 4 and 'OBD Br2 until OBD Br3' paragraph match summary; R83 methods cited for Ki factors and groupings."},
+  "br-contran-910": {"_confirmed": true, "_why": "Arts. 1-6 match: ABNT NBR 15300/15240/15241, Annex criteria from 1 Jan 2024, FMVSS 203/208/301 or UN R32/R34/R94 alternative accepted."},
+  "ece-r0": {
+   "summary": "UN Regulation No. 0 sets uniform provisions for International Whole Vehicle Type Approval (IWVTA), under which a whole-vehicle approval is built from the type approvals issued under the UN Regulations listed in its annexes. It applies to vehicles of category M1. Entry into force 19 July 2018.",
+   "vehicle_categories": ["Passenger car"],
+   "_why": "Para 1.1: 'applies to vehicles of category M1'; 'Date of entry into force: 19 July 2018'. Old summary wrongly said the text was not provided."
+  },
+  "ece-r10": {"_confirmed": true, "_why": "Para 1 scope: EMC of vehicles of categories L, M, N, O, T, R, S and their components/STUs."},
+  "ece-r100": {
+   "summary": "UN Regulation No. 100 sets safety requirements for the electric power train of road vehicles of categories M, N and O (design speed above 25 km/h, excluding vehicles permanently connected to the grid). Part I covers electric power train safety including electric shock, Part II the Rechargeable Electrical Energy Storage System (REESS), and Part III installation of an approved REESS. Latest text incorporates the 05 series (entry into force 26 September 2025).",
+   "systems": ["Battery safety", "EV charging"],
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus", "Trailer"],
+   "_why": "Para 1.1-1.3 scope covers categories M, N and O, Parts I-III; no EMC content in scope."
+  },
+  "ece-r101": {"_confirmed": true, "_why": "Para 1: applies to M1 and N1 for CO2, fuel consumption, electric energy consumption and range."},
+  "ece-r11": {
+   "vehicle_categories": ["Passenger car", "Light truck"],
+   "_confirmed": true,
+   "_why": "Para 1: applies to vehicles of categories M1 and N1 only; summary is accurate."
+  },
+  "ece-r112": {
+   "summary": "UN Regulation No. 112 sets uniform approval provisions for motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both, fitted with filament lamps and/or LED modules. It covers markings, general and photometric specifications, and conformity of production, and applies to headlamps for vehicles of categories L, M, N and T. Text incorporates Supplement 4 to the 01 series (15 July 2013).",
+   "_why": "Title line, Scope 'categories L, M, N and T', and incorporation note."
+  },
+  "ece-r113": {
+   "summary": "UN Regulation No. 113 sets uniform approval provisions for motor vehicle headlamps emitting a symmetrical passing beam or a driving beam or both, equipped with filament lamps, gas-discharge light sources or LED modules. It applies to headlamps for vehicles of categories L and T only. Text incorporates Supplement 3 to the 01 series.",
+   "vehicle_categories": ["Motorcycle", "Off-road"],
+   "_why": "Scope: 'applies to headlamps for vehicles of categories L and T'; T (tractors) mapped to Off-road."
+  },
+  "ece-r116": {
+   "summary": "UN Regulation No. 116 sets uniform technical prescriptions for protecting motor vehicles against unauthorised use. It covers devices to prevent unauthorised use (Part I), vehicle alarm systems (Parts II and III) and immobilisers (Part IV), for vehicles of category M1 and N1 (alarm and immobiliser parts limited to N1 up to 2 tonnes). Text incorporates Supplement 3 to the original version (23 June 2011).",
+   "systems": ["Theft prevention"],
+   "vehicle_categories": ["Passenger car", "Light truck"],
+   "_why": "Scope 1.1-1.4 lists Parts I-IV for M1 and N1 vehicles; nothing on cybersecurity or vehicle identification."
+  },
+  "ece-r117": {"_confirmed": true, "_why": "Para 1.1: new C1, C2, C3 tyres for sound emissions, rolling resistance and wet adhesion."},
+  "ece-r119": {
+   "summary": "UN Regulation No. 119 sets uniform provisions for approval of cornering lamps for power-driven vehicles, including definitions, markings, general specifications and photometric requirements. It applies to cornering lamps for vehicles of categories M, N and T. Text incorporates Supplement 3 to the 01 series (3 November 2013).",
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus", "Off-road"],
+   "_why": "Scope: 'cornering lamps for vehicles of categories M, N and T'; L and O are not covered."
+  },
+  "ece-r12": {"_confirmed": true, "_why": "Para 1.1: steering mechanism behaviour in frontal collision for M1 and N1 (under 1,500 kg) vehicles."},
+  "ece-r121": {
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus"],
+   "_confirmed": true,
+   "_why": "Para 1 scope: vehicles of categories M and N; location, identification, colour and illumination of hand controls, tell-tales, indicators. Summary accurate."
+  },
+  "ece-r123": {
+   "summary": "UN Regulation No. 123 sets uniform approval provisions for adaptive front-lighting systems (AFS) for motor vehicles of categories M and N, including definitions, markings, general specifications, and the photometric requirements for the AFS lighting classes. Text incorporates Supplement 9 to the 01 series (10 February 2018).",
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus"],
+   "_why": "Scope: 'AFS for motor vehicles of categories M and N'; header incorporates Supplement 9 to 01 series."
+  }
+ },
+ "skipped": []
+}

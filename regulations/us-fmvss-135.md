@@ -25,11 +25,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.135
 status: in-force
-summary: Brake systems on light vehicles — including passenger cars (from September
-  1, 2000) and multipurpose passenger vehicles, trucks, and buses with a GVWR of 3,500
-  kg or less (from September 1, 2002) — must meet specified performance requirements
-  for service brake and parking brake systems to ensure safe braking under...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: FMVSS No. 135 specifies requirements for service brake and associated parking
+  brake systems on light vehicles, to ensure safe braking under normal and emergency
+  conditions. It applies to passenger cars manufactured on or after September 1, 2000
+  and to multipurpose passenger vehicles, trucks and buses of 3,500 kg GVWR or less
+  manufactured on or after September 1, 2002.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 62c5c6e77256fe9638ea208fedaf20b1bd1f7124
 systems:
 - Braking

@@ -2,8 +2,6 @@
 citation: MVSR C.R.C.,_c._1038 s. 114
 commodities:
 - ECUs
-- Wiring
-- Connectors
 id: ca-mvsr-c-r-c---c--1038-s114
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -24,20 +22,18 @@ source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 summary: Passenger cars, three-wheeled vehicles, and multi-purpose passenger vehicles
-  and trucks with a GVWR of 4,536 kg or less (excluding walk-in vans and emergency
-  vehicles) must be equipped with an electronic immobilization system that automatically
-  arms, prevents the vehicle from moving more than 3 m under its own power...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  and trucks of 4,536 kg GVWR or less (except walk-in vans) must conform to TSD 114,
+  Theft Protection and Rollaway Prevention. Such vehicles other than walk-in vans
+  and emergency vehicles must also have an immobilization system meeting CAN/ULC-S338-98,
+  UN Regulation No. 97 Part III, UN Regulation No. 116 Part IV, or the section's own
+  performance requirements.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: daae7bef0ff3f46379dea7c53e8f1cd744ec2b71
 systems:
 - Theft prevention
-- Cybersecurity
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 114 — Immobilization System
-un_equivalent_ai:
-- UN R162
-- UN R116
+title: MVSR s. 114 — Theft Protection and Rollaway Prevention
 vehicle_categories:
 - Passenger car
 - Light truck

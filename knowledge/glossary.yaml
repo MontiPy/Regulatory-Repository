@@ -68,7 +68,7 @@
   markets: [EU]
 
 - term: Market surveillance
-  definition: "Authority checks of vehicles and components already on the market (EU 2018/858 Ch. XI; JRC verification tests); can lead to recalls, fines up to €30,000 per non-compliant vehicle in the EU."
+  definition: "Authority checks of vehicles and components already on the market (EU 2018/858 Arts. 8-9 and Ch. XI safeguard clauses; JRC verification tests); can lead to recalls and penalties. Member States set penalties (Art. 84); the Commission may separately impose administrative fines of up to €30,000 per non-compliant vehicle, system, component or separate technical unit (Art. 85)."
   markets: [EU]
 
 - term: CSMS
@@ -88,7 +88,7 @@
   markets: [US]
 
 - term: CMVSS
-  definition: "Canada Motor Vehicle Safety Standards in Schedule IV of the Motor Vehicle Safety Regulations; numbering mirrors FMVSS with Canadian-unique standards (e.g. 108 DRL, 114 immobilizer)."
+  definition: "Canada Motor Vehicle Safety Standards in Schedule III of the Motor Vehicle Safety Regulations (C.R.C., c. 1038); numbering mirrors FMVSS with Canadian-unique standards (e.g. 108 DRL, 114 immobilizer)."
   markets: [CA]
 
 - term: Part 567 certification label
@@ -212,7 +212,7 @@
   markets: [US, EU, CN, IN, AU]
 
 - term: Functional safety (ISO 26262) & SOTIF (ISO 21448)
-  definition: "Industry standards for E/E system safety lifecycle and safety of the intended functionality; not law in most markets but referenced by UN R79, R152, R157, R155 audits and by GB/AIS standards."
+  definition: "Industry standards for E/E system safety lifecycle and safety of the intended functionality; not law in most markets but referenced by UN R79, R152, R157 and by GB/AIS standards."
   records: [other-workbook-reg-0643-iso-26262, other-workbook-reg-0644-iso-21448]
 
 - term: PPAP / APQP

@@ -1,0 +1,16 @@
+{
+ "shard": "cw-04",
+ "kind": "crosswalk",
+ "items": [
+  "rear-visibility",
+  "lighting-installation",
+  "headlamps",
+  "signal-lamps",
+  "indirect-vision",
+  "glazing",
+  "wipers",
+  "defrost",
+  "forward-vision",
+  "controls-telltales"
+ ]
+}

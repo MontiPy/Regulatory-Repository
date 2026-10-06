@@ -17,11 +17,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Minimum ground clearance for vehicles requires that, in an unloaded condition,
-  the gap between the ground and all non-contact parts of the vehicle must be at least
-  10 centimeters, with exceptions granted for special-purpose work vehicles, racing
-  cars, and other vehicles the Minister of Land, Infrastructure and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Requires that, in an unloaded condition, the clearance between the ground
+  and the non-contact parts of the vehicle is at least 10 centimetres. Special-purpose
+  work vehicles, racing cars and other vehicles that the Minister recognises as needing
+  an exception are excluded.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: dbcff4386ce927c214dc505d15a4a350acd659dc
 systems: []
 tagged_at: '2026-06-16T15:44:36+00:00'

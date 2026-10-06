@@ -2,10 +2,6 @@
 citation: 49 CFR Part 561
 commodities:
 - Batteries
-- Electric motors
-- Wiring
-- Power electronics
-- Charging inlet
 id: us-cfr-part-561
 last_pulled: '2026-06-01T18:44:06+00:00'
 open_tags:
@@ -25,21 +21,20 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-561
 status: in-force
-summary: Documentation requirements for electric-powered vehicles (passenger cars,
-  multipurpose vehicles, trucks, and buses operating above 60 VDC or 30 VAC) mandate
-  that manufacturers submit standardized rescue sheets and emergency response guides
-  to support first and second responders, as well as additional documentation to...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 49 CFR Part 561 requires standardized emergency response guides and rescue
+  sheets for electric-powered vehicles, and further documentation on low temperature
+  operation, REESS malfunction and thermal event warnings, and thermal runaway and
+  propagation risk mitigation. It applies to passenger cars, MPVs, trucks and buses
+  above 60 VDC or 30 VAC; rescue sheets from December 22, 2025, other documentation
+  from September 1, 2027 (GVWR 4,536 kg or less) or 2028 (over).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c825a38a5841653c14538c123d2c4e884376eeb1
 systems:
 - Battery safety
-- EV charging
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 561—DOCUMENTATION FOR ELECTRIC-POWERED VEHICLES
-un_equivalent_ai:
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

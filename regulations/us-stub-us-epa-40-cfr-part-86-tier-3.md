@@ -23,11 +23,11 @@ region: US
 source_api: spreadsheet
 source_url: https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3
 status: in-force
-summary: US EPA 40 CFR Part 86 Tier 3 regulates emissions from light-duty passenger
-  vehicles, requiring that pollutants such as NOx, HC, CO, and PM be limited over
-  the vehicle's useful life and that emission control faults be detected via onboard
-  diagnostics. Compliance applies to passenger cars as listed in 49 CFR Part 571,...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: EPA Tier 3 (40 CFR Part 86, Subpart S) sets exhaust and evaporative emission
+  standards for light-duty vehicles, light-duty trucks and medium-duty passenger vehicles,
+  plus a 10 ppm gasoline sulfur limit. It is a Clean Air Act rule, separate from the
+  FMVSS in 49 CFR Part 571.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 56ce6e6589138eb00aabdfba87e9b7ffa27c7875
 systems:
 - Emissions
@@ -35,13 +35,12 @@ systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: Light-duty Vehicle and Fuel Emission Standards
+title: EPA Tier 3 Motor Vehicle Emission and Fuel Standards (40 CFR Part 86)
 un_equivalent:
 - UN R83
-un_equivalent_ai:
-- UN R168
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 # Light-duty Vehicle and Fuel Emission Standards

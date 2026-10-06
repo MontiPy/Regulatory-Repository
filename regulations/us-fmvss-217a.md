@@ -25,8 +25,8 @@ status: in-force
 summary: Anti-ejection glazing for side and roof portals on over-the-road buses and
   heavy buses (GVWR greater than 11,793 kg) manufactured on or after October 30, 2027,
   is regulated by this standard, excluding school, transit, prison, and perimeter-seating
-  buses. It requires that portal glazing withstand impactor strikes at...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  buses.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a84928bbc9f976c19b56d5dd6895442957e7aa19
 systems:
 - Glazing

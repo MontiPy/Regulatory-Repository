@@ -4,7 +4,7 @@ commodities:
 - Seats
 - Seatbelts
 id: us-fmvss-213
-last_pulled: '2026-06-01T18:40:56+00:00'
+last_pulled: '2026-10-06T03:26:36+00:00'
 open_tags:
 - child restraint system
 - ISOFIX anchorage
@@ -22,12 +22,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213
 status: in-force
-summary: Child restraint systems used in motor vehicles and aircraft, manufactured
-  before December 5, 2026, are regulated under this standard to reduce child deaths
-  and injuries in crashes. It sets safety requirements for add-on and built-in child
-  restraint systems, including booster seats, car beds, harnesses, and rear-facing...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: f30d3c1095c38b20309263fd56d3c2020fc5d160
+summary: FMVSS No. 213 sets requirements for child restraint systems used in motor
+  vehicles and aircraft, including add-on, built-in, booster, belt-positioning and
+  car-bed types, to reduce child deaths and injuries in crashes. It applies to passenger
+  cars, MPVs, trucks and buses and to child restraint systems manufactured before
+  December 5, 2026; FMVSS No. 213b applies from that date.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 25b54292a5d1392408296a20e56710a3b2ebf466
 systems:
 - Restraints
 - Crashworthiness
@@ -35,9 +36,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint
   system is certified to § 571.213b.
-un_equivalent_ai:
-- UN R44
-- UN R129
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -332,13 +330,13 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (1) One of the following statements, as appropriate, inserting the manufacturer's recommendations for the maximum mass of children who can safely occupy the system, except that booster seats shall not be recommended for children whose masses are less than 13.6 kg. For child restraint systems that can only be used as belt-positioning seats, manufacturers must include the maximum and minimum recommended height, but may delete the reference to weight:
 
-(i) Use only with children who weigh __ pounds (__ kg) or less and whose height is (insert values in English and metric units; use of word “mass” in label is optional) or less; or
+(i) Use only with children who weigh ____ pounds (____ kg) or less and whose height is (insert values in English and metric units; use of word “mass” in label is optional) or less; or
 
-(ii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less and who are capable of sitting upright alone; or
+(ii) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less and who are capable of sitting upright alone; or
 
-(iii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less.
+(iii) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less.
 
-(iv) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is between __ and __ (insert appropriate values in English and metric units).
+(iv) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is between ____ and ____ (insert appropriate values in English and metric units).
 
 (2) For child restraint systems manufactured on or after June 30, 2025: Statements or a combination of statements and pictograms specifying the manufacturer's recommendations for the mass and height ranges (in English and metric units) of children who can safely occupy the system in each applicable mode (rear-facing, forward facing, booster), except manufacturers shall not recommend forward-facing use for child restraint systems with internal harnesses for children of masses less than 12 kg (26.5 lb), and shall not recommend booster seats for children of masses less than 18 kg (40 lb).
 

@@ -4,7 +4,7 @@ commodities:
 - Exhaust
 - Fuel system
 id: br-conama-492
-last_pulled: '2026-06-01T18:53:23+00:00'
+last_pulled: '2026-10-06T03:24:48+00:00'
 open_tags:
 - NMOG emissions
 - NOx limits
@@ -22,12 +22,13 @@ region: BR
 source_api: brazil
 source_url: https://conama.mma.gov.br/?id=765&option=com_sisconama&task=arquivo.download
 status: in-force
-summary: New light road vehicles (passenger and commercial) sold in Brazil must meet
-  the exhaust emission limits established under PROCONVE Phase L7, effective January
-  1, 2022, with optional early compliance allowed. The regulation also specifies how
-  non-methane organic gas (NMOG) emissions must be reported and calculated,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: dfd550716dd91d724197d8baba2f7968461e8add
+summary: 'CONAMA Resolution 492/2018 establishes PROCONVE phases L7 and L8 for new
+  light road vehicles: L7 exhaust emission limits apply from 1 Jan 2022, and L8 introduces
+  corporate fleet-average limits from 1 Jan 2025, tightening in 2027, 2029 and 2031.
+  It also specifies NMOG reporting and calculation, and requires L7/L8 vehicles to
+  meet OBD Br2 until an OBD Br3 standard is regulated.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 7c74cd89d5a7e71da6c4e975ee9b7c31b509c9f0
 systems:
 - Emissions
 - On-board diagnostics
@@ -37,8 +38,6 @@ title: PROCONVE L7/L8 Emission Requirements for New Light Road Vehicles
 translation_status: untranslated
 un_equivalent:
 - UN R83
-un_equivalent_ai:
-- UN R168
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -696,9 +695,9 @@ abastecimento(5)
 
 6 
 
-15 
-
 80 
+
+15 
 
 1000 
 
@@ -1085,11 +1084,11 @@ IPM = Índice potência massa = (Pn/mro) * 1000 kg/kW, onde:
 - mro é a massa em ordem de marcha do veículo definida pela Res. CONAMA 15/95, expressa em 
 kg 
 
+78 
+
 75 
 
 76 
-
-78 
 
   
   

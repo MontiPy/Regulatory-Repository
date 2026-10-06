@@ -23,11 +23,13 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Windshield wiper, defroster, demister, and washer fluid spray systems on
-  passenger cars and light-class vans in Korea must meet specific performance standards
-  for cleaning coverage of designated windshield zones, cold-weather operability at
-  −18 °C, and frost/fog removal within defined time limits; ultra-compact...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 109 of the Korean Motor Vehicle Safety Standards (KMVSS) sets windshield
+  wiper, defroster, demister and washer performance standards for passenger cars and
+  light-class vans, measured against zones in Attached Table 25. Examples are 98%
+  cleaning of zone A, defrosting after 10 hours at minus 18 C, and washer operation
+  after soaking at minus 18 C and plus 60 C. Ultra-compact vehicles have separate
+  wiper and washer standards.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 273ee08b8596df73b83eb9ab3253deb2d8748c5c
 systems:
 - Visibility
@@ -36,8 +38,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 109 — Windshield Wiper and Washer System
 translation_status: translated
-un_equivalent_ai:
-- UN R45
 vehicle_categories:
 - Passenger car
 - Light truck

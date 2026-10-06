@@ -25,14 +25,14 @@ status: in-force
 summary: Hydraulic brake fluid composition for passenger cars, multi-purpose passenger
   vehicles, trucks, buses, three-wheeled vehicles, motorcycles, trailers, and trailer
   converter dollies must conform to Technical Standards Document No. 116 (Motor Vehicle
-  Brake Fluids). The regulation also specifies updated ASTM standard...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  Brake Fluids).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a3253693a32ba2a5d5ce8767d9bddc002a2a905d
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 116
+title: MVSR s. 116 — Motor Vehicle Brake Fluids
 vehicle_categories:
 - Passenger car
 - Light truck

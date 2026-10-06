@@ -1,0 +1,306 @@
+{
+ "group": "ca",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "repealed",
+   "evidence": "Body: \"108.1[Repealed, SOR/2018-43, s. 4]\"; the record summary itself says the section \"has been repealed and contains no active requirements\".",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s102",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Steering column, Brakes, Pedals",
+   "proposed": "Pedals (clutch/brake pedal interlock) plus a transmission-related tag if the taxonomy allows; drop Brakes/Steering column",
+   "evidence": "Body covers automatic/manual transmission control positions, engine start inhibit, park-position brake interlock and clutch interlock; no brake or steering-column hardware requirements.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s102",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R121",
+   "proposed": "none identified; remove R121",
+   "evidence": "UN R121 covers location and identification of hand controls, tell-tales and indicators; s. 102 sets transmission control sequence/display/start-interlock requirements (FMVSS 102 analogue).",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s104",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R45",
+   "proposed": "none (wipers/washers are not covered by a UN Regulation); remove R45",
+   "evidence": "UN R45 is \"Headlamp cleaners\"; s. 104 regulates windshield wiping and washing systems (SAE J903a/J942).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s105",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Heavy truck, Bus",
+   "proposed": "Light truck, Heavy truck, Bus (MPV)",
+   "evidence": "Body: \"every multi-purpose passenger vehicle, truck and bus shall conform to ... TSD 105\"; passenger cars are covered by s. 135 (TSD 135).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s108",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "MVSR s. 108 — Three-wheeled Vehicles",
+   "proposed": "MVSR s. 108 — Lamps, Reflective Devices and Associated Equipment (TSD 108)",
+   "evidence": "Body: \"108(1) Every passenger car, multi-purpose passenger vehicle, truck, trailer and bus shall conform to ... TSD 108, Lamps, Reflective Devices, and Associated Equipment\"; three-wheeled vehicles are only subsec. (2).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s108",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Summary describes only three-wheeled-vehicle subsection",
+   "proposed": "Lead with subsec. (1): passenger cars, MPVs, trucks, trailers and buses must conform to TSD 108; then three-wheeled vehicle additions",
+   "evidence": "Summary omits the main requirement of s. 108(1).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s1106",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "systems: Vehicle identification; 6 vehicle categories",
+   "proposed": "clear tags (unsupported by any text)",
+   "evidence": "Tags are AI-assigned from a body that contains no regulatory content; nothing supports \"Vehicle identification\".",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s111",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "MVSR s. 111 — Passenger Cars and Three-wheeled Vehicles",
+   "proposed": "MVSR s. 111 — Rearward Field of View / Mirrors",
+   "evidence": "Body also contains \"(13) Every motorcycle shall have, mounted on each side ... mirror\" and \"(16) Every school bus shall have the following two outside mirror systems\".",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s111",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car",
+   "proposed": "Passenger car, Motorcycle, Bus (school bus), Light truck",
+   "evidence": "Body subsecs. (13) motorcycle mirrors and (16)-(25) school bus System A/B mirrors; summary also limited to passenger cars and three-wheeled vehicles.",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s113",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R11",
+   "proposed": "none; remove R11",
+   "evidence": "UN R11 covers door latches and hinges (the s206 record body says \"Regulation No. 11 ... Door Latches and Door Retention Components\"); s. 113 concerns hood latch systems.",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s114",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "MVSR s. 114 — Immobilization System",
+   "proposed": "MVSR s. 114 — Theft Protection and Rollaway Prevention",
+   "evidence": "Body: \"114(1) ... shall conform to ... TSD 114, Theft Protection and Rollaway Prevention\"; immobilization is only subsec. (4).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s114",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Summary covers only the immobilization system",
+   "proposed": "Add that subsec. (1) requires TSD 114 theft protection and rollaway prevention; immobilizer can alternatively meet ULC-S338-98, UN R97 Part III or UN R116 Part IV",
+   "evidence": "Body (4)(a)(i)-(iii) lists CAN/ULC-S338-98, UN R97 Part III, UN R116 Part IV.",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s124",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R161",
+   "proposed": "none identified; remove R161",
+   "evidence": "UN R161 is \"protection of motor vehicles against unauthorized use (locking system)\", not accelerator controls. EUR-Lex: \"UN Regulation No 161\" https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42021X2274 ; snippet: \"protection of motor vehicles against unauthorized use and the approval of the device against unauthorized use (by mean of a locking system)\".",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s131",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R148",
+   "proposed": "none identified; remove R148",
+   "evidence": "UN R148 is light-signalling devices; s. 131 covers school-bus stop signal arms and an image recording system (TSD 131 School Bus Pedestrian Safety Devices).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s201",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R21, UN R94",
+   "proposed": "UN R21 only",
+   "evidence": "UN R94 is frontal-collision occupant protection; s. 201 (interior impact / head impact area) corresponds to UN R21 interior fittings. Body: \"head impact area means the non-glazed surfaces of the interior of the vehicle ...\"",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s206",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "null",
+   "proposed": "UN R11",
+   "evidence": "Body: \"(b) ... United Nations Regulation No. 11, Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components\"; the regulation itself names R11 as the alternative, yet no equivalent is recorded.",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s208",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "MVSR s. 208 — Seat Belt Fit",
+   "proposed": "MVSR s. 208 — Seat Belt Assemblies (Installation)",
+   "evidence": "Body 208(1)-(2) prescribes Type 1/Type 2 seat belt assemblies at each designated seating position; nothing concerns \"fit\".",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s210",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "MVSR s. 210 — Transitional Provision",
+   "proposed": "MVSR s. 210 — Seat Belt Anchorages",
+   "evidence": "Section is about seat belt anchorages conforming to TSD 210; the transitional rule is only subsection (4).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s210-2",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R129, UN R145",
+   "proposed": "UN R145 (i-Size/ISOFIX anchorage systems); drop R129",
+   "evidence": "Body regulates \"lower universal anchorage system ... two straight horizontal bars\" in the vehicle. UN R129 approves child restraint systems, not vehicle anchorages.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s215",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Crashworthiness, Pedestrian protection",
+   "proposed": "Crashworthiness (remove Pedestrian protection)",
+   "evidence": "Body: low-speed-impact bumper requirements of UN R42 / 49 CFR 581 protect vehicle bodywork, not pedestrians.",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s215",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "(none; un_equivalent_ai absent)",
+   "proposed": "UN R42",
+   "evidence": "Body itself cites \"United Nations Regulation No. 42 — ... Front and Rear Protective Devices (Bumpers, etc.)\" as one compliance route; the record lists no UN equivalent.",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s216",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R135",
+   "proposed": "none (no direct UN equivalent for passenger-car roof crush)",
+   "evidence": "Body: \"shall conform to the requirements of Technical Standards Document No. 216, Roof Crush Resistance\". UN R135 is the pole side impact regulation, not roof strength (R66 is bus superstructure only).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s301-1",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R153",
+   "proposed": "UN R67 (LPG systems); R153 covers liquid-fuel/EV rear impact only",
+   "evidence": "Body: LPG fuel system integrity, \"Test Method 301.1 — LPG Fuel System Integrity\". Search: R153 \"fuel system integrity and safety of electric power train in the event of a rear-end collision ... M1 <=3,500 kg and N1\"; gas systems are under R67/R110.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s301-2",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R153",
+   "proposed": "UN R110 (CNG systems)",
+   "evidence": "Body: \"Test Method 301.2 — CNG Fuel System Integrity\". UN R110 is the CNG components/installation regulation; R153 is rear-end collision for M1/N1.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s302",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R21",
+   "proposed": "none, or UN R118 (burning behaviour of materials; buses only) as partial",
+   "evidence": "Body: \"Technical Standards Document No. 302, Flammability of Interior Materials\". UN R21 covers interior fittings (head-impact energy absorption), not flammability.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-mvsr-c-r-c---c--1038-s401",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R11",
+   "proposed": "none / remove",
+   "evidence": "Body: \"Interior Trunk Release (TSD 401)\". UN R11 covers door latches and hinges; it has no interior trunk-release requirement.",
+   "confidence": "medium"
+  },
+  {
+   "id": "ca-workbook-reg-0145-eccc-sor-2003-2",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "\"Emissions from on-road passenger cars ... as marked in Schedule III of the Motor Vehicle Safety Regulations\"; vehicle_categories Passenger car only",
+   "proposed": "Scope: on-road vehicles and engines (light-duty, heavy-duty, motorcycles) under CEPA 1999; companies authorised to apply the National Emissions Mark",
+   "evidence": "The sibling record body: \"Class I motorcycle ... heavy-duty engines are prescribed ... Class 3 vehicle\". The regulation is under CEPA, not Schedule III of C.R.C. c. 1038 (a CMVSS schedule).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-workbook-reg-0568-sor-2010-90",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R16, UN R129",
+   "proposed": "UN R44, UN R129",
+   "evidence": "Regs apply to \"child restraint systems, booster seats, car beds\" (sibling record ca-mvsr-sor-2010-90). UN R16 covers adult seat belts/ISOFIX-type belt hardware, not child restraint systems (R44/R129).",
+   "confidence": "high"
+  },
+  {
+   "id": "ca-workbook-reg-0568-sor-2010-90",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "\"Compliance covers seats, belt assemblies, retractors, buckles, anchorages, and ISOFIX/LATCH/tether hardware\"",
+   "proposed": "Child restraint systems, booster seats, infant/child restraints, car beds and custom restraints; vehicle anchorages and belts are in MVSR s. 209/210/210.1/210.2",
+   "evidence": "Regulation body definitions: \"booster seat\", \"car bed\", \"custom restraint system for a disabled person\". Vehicle belt/anchorage items belong to the MVSR sections; the record itself says \"ensure not confused with vehicle anchorage standards\".",
+   "confidence": "medium"
+  }
+ ]
+}

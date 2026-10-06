@@ -27,11 +27,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Electrical devices in motor vehicles must meet ministerial standards for
-  mounting position, performance, and construction to prevent occupant injury from
-  electrical sparks, avoid radio wave interference with wireless equipment and vehicle
-  control systems, ensure cybersecurity, enable reliable software updates, and...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: Article 17-2 of Japan's Road Transport Vehicle Safety Regulations sets ministerial
+  performance standards for vehicle electrical devices. They cover spark injury to
+  occupants, radio-wave interference with wireless equipment and with vehicle control,
+  cybersecurity, reliable software modification, and protection of occupants from
+  high voltage in electrically powered vehicles, including after a collision or rear-end
+  impact. Exclusions vary by paragraph.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: deb9d2cdcc1cec7b4e9ffa3c6ec5e6e5a8912f0c
 systems:
 - EMC
@@ -44,9 +46,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 17_2 — Electrical Devices
 translation_status: translated
-un_equivalent_ai:
-- UN R10
-- UN R155
 vehicle_categories:
 - Passenger car
 - Light truck

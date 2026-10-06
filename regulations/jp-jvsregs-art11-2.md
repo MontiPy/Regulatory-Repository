@@ -24,8 +24,7 @@ status: in-force
 summary: Locking devices fitted to the engine, power transmission, running gear, transmission,
   steering, or braking systems of qualifying passenger and freight motor vehicles
   (within specified weight and seating-capacity limits) are regulated under this article.
-  It requires that such devices, including electronic immobilizers...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e521e8fc3ec250cbe295be0ba25ad1a9213cdfbf
 systems:
 - Braking
@@ -35,9 +34,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 11_2 — Locking Devices
 translation_status: translated
-un_equivalent_ai:
-- UN R162
-- UN R116
 vehicle_categories:
 - Passenger car
 - Light truck

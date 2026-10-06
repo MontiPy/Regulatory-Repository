@@ -27,8 +27,8 @@ status: in-force
 summary: Japanese passenger vehicle exhaust emission standards limit harmful pollutants
   (NOx, CO, HC, PM/PN) and CO2 output, requiring compliance with certified emissions
   levels, fuel economy reporting, OBD functionality, and evaporative emission controls
-  across engine, aftertreatment, and hybrid/EV systems. Certification and...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  across engine, aftertreatment, and hybrid/EV systems.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e4e93dce74d7278e557d587e4d3990b6d76b457a
 systems:
 - Emissions
@@ -38,9 +38,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Japan Passenger Vehicle Exhaust Emission Standards
 translation_status: translated
-un_equivalent_ai:
-- UN R83
-- UN R154
 vehicle_categories:
 - Passenger car
 ---

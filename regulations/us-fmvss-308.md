@@ -4,8 +4,9 @@ commodities:
 - Fuel system
 - Fuel tanks
 - Hoses & lines
+effective_date: '2028-09-01'
 id: us-fmvss-308
-last_pulled: '2026-06-01T18:42:20+00:00'
+last_pulled: '2026-10-06T03:27:47+00:00'
 open_tags:
 - compressed hydrogen storage system
 - CHSS
@@ -22,13 +23,15 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.308
-status: in-force
-summary: Compressed hydrogen storage systems (CHSS) used in motor vehicles are regulated
-  to reduce deaths and injuries from hydrogen fuel leaks and pressurized container
-  explosions. The standard applies to vehicles manufactured on or after September
-  1, 2028, that use compressed hydrogen gas as a propellant, and requires each...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 2618f9a7637a31084ec92b1ac6b83d97f0fb7e52
+status: upcoming
+status_note: Applies to vehicles manufactured on or after 1 Sep 2028.
+summary: FMVSS No. 308 specifies requirements for compressed hydrogen storage systems
+  used in motor vehicles, to reduce deaths and injuries from hydrogen leaks and burst
+  of pressurized containers. It applies to vehicles manufactured on or after September
+  1, 2028 with compressed hydrogen as propulsion fuel, and not to vehicles with only
+  cryo-compressed or solid-state hydrogen storage.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b912d102fceef0601c5d5d88597e4dd793694a1d
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -258,17 +261,17 @@ S5.1.5.2. Check valve and shut-off valve requirements. This section applies to b
 S5.1.6. Labeling. Each vehicle container shall be permanently labeled with the information specified in paragraphs S5.1.6(a) through (g). Any label affixed to the container in compliance with this section shall remain in place and be legible for the vehicle manufacturer's recommended service life of the container. The information shall be in English and in letters and numbers that are at least 6.35 millimeters (
 1/4 inch) high.
 
-(a) The statement: “If there is a question about the proper use, installation, or maintenance of this compressed hydrogen storage system, contact ______,” inserting the vehicle manufacturer's name, address, and telephone number. The name provided shall be consistent with the vehicle manufacturer's filing in accordance with 49 CFR part 566.
+(a) The statement: “If there is a question about the proper use, installation, or maintenance of this compressed hydrogen storage system, contact ____________,” inserting the vehicle manufacturer's name, address, and telephone number. The name provided shall be consistent with the vehicle manufacturer's filing in accordance with 49 CFR part 566.
 
 (b) The container serial number.
 
-(c) The statement: “Manufactured in ______,” inserting the month and year of manufacture of the container.
+(c) The statement: “Manufactured in ____________,” inserting the month and year of manufacture of the container.
 
-(d) The statement “Nominal Working Pressure ______MPa (_____psig),” Inserting the nominal working pressure which shall be no greater than 70 MPa.
+(d) The statement “Nominal Working Pressure ____________MPa (_________psig),” Inserting the nominal working pressure which shall be no greater than 70 MPa.
 
 (e) The statement “Compressed Hydrogen Gas Only.”
 
-(f) The statement: “Do Not Use After ______,” inserting the month and year that mark the end of the vehicle manufacturer's recommended service life for the container.
+(f) The statement: “Do Not Use After ____________,” inserting the month and year that mark the end of the vehicle manufacturer's recommended service life for the container.
 
 (g) The statement: “This container should be visually inspected for damage and deterioration after a motor vehicle accident or fire, and either: (i) at least every 12 months when installed on a vehicle with a GVWR greater than 4,536 kg, or (ii) at least every 36 months or 36,000 miles, whichever comes first, when installed on a vehicle with a GVWR less than or equal to 4,536 kg.”
 

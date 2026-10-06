@@ -1,0 +1,1312 @@
+{
+  "counts": {
+    "body-thin": 152,
+    "dup-citation": 10,
+    "status-text": 15,
+    "weak-title": 40
+  },
+  "findings": [
+    {
+      "id": "au-f2012l01123",
+      "check": "status-text",
+      "detail": "status in-force but body says 'No longer in force' near start",
+      "source_api": "au_legislation"
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "check": "body-thin",
+      "detail": "396 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-anatel-cert",
+      "check": "body-thin",
+      "detail": "332 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-215",
+      "check": "body-thin",
+      "detail": "390 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-224",
+      "check": "body-thin",
+      "detail": "409 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-245-330",
+      "check": "body-thin",
+      "detail": "438 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-37",
+      "check": "body-thin",
+      "detail": "392 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-498",
+      "check": "body-thin",
+      "detail": "372 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-749",
+      "check": "body-thin",
+      "detail": "452 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-758",
+      "check": "body-thin",
+      "detail": "417 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-759",
+      "check": "body-thin",
+      "detail": "412 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-764",
+      "check": "body-thin",
+      "detail": "386 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-827",
+      "check": "body-thin",
+      "detail": "383 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-885",
+      "check": "body-thin",
+      "detail": "424 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-908",
+      "check": "body-thin",
+      "detail": "429 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-912",
+      "check": "body-thin",
+      "detail": "401 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-913",
+      "check": "body-thin",
+      "detail": "394 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-915",
+      "check": "body-thin",
+      "detail": "420 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-924",
+      "check": "body-thin",
+      "detail": "383 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-936",
+      "check": "body-thin",
+      "detail": "400 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-960",
+      "check": "body-thin",
+      "detail": "430 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-964",
+      "check": "body-thin",
+      "detail": "423 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-966",
+      "check": "body-thin",
+      "detail": "399 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "check": "body-thin",
+      "detail": "413 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "br-senatran-990",
+      "check": "body-thin",
+      "detail": "412 chars from a full-text connector (brazil)",
+      "source_api": "brazil"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s102",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 102' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s103",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 103' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s104",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 104' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s105",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 105' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s106",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 106' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+      "check": "body-thin",
+      "detail": "34 chars from a full-text connector (justice_ca)",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 108.1' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s1106",
+      "check": "body-thin",
+      "detail": "128 chars from a full-text connector (justice_ca)",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s1106",
+      "check": "weak-title",
+      "detail": "title 'MVSR C.R.C.,_c._1038 s. 1106' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s113",
+      "check": "body-thin",
+      "detail": "561 chars from a full-text connector (justice_ca)",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s113",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 113' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s115",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 115' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s116",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 116' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s118",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 118' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s121",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 121' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s124",
+      "check": "body-thin",
+      "detail": "342 chars from a full-text connector (justice_ca)",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s124",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 124' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s126",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 126' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s135",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 135' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s141",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 141' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s2",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 2' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s201",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 201' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s202",
+      "check": "body-thin",
+      "detail": "432 chars from a full-text connector (justice_ca)",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s202",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 202' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s203",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 203' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s204",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 204' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s205",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 205' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s206",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 206' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s207",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 207' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s209",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 209' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s212",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 212' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s213-4",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 213.4' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s215",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 215' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s216",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 216' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s219",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 219' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s226",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 226' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s301-1",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 301.1' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s301-2",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 301.2' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s301",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 301' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s302",
+      "check": "body-thin",
+      "detail": "396 chars from a full-text connector (justice_ca)",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s302",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 302' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s305",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 305' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s401",
+      "check": "weak-title",
+      "detail": "title 'MVSR s. 401' has no subject",
+      "source_api": "justice_ca"
+    },
+    {
+      "id": "ece-r0",
+      "check": "body-thin",
+      "detail": "222 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r10",
+      "check": "body-thin",
+      "detail": "210 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r100",
+      "check": "body-thin",
+      "detail": "245 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r101",
+      "check": "body-thin",
+      "detail": "228 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r11",
+      "check": "body-thin",
+      "detail": "217 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r112",
+      "check": "body-thin",
+      "detail": "220 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r113",
+      "check": "body-thin",
+      "detail": "236 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r114",
+      "check": "body-thin",
+      "detail": "191 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r116",
+      "check": "body-thin",
+      "detail": "230 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r117",
+      "check": "body-thin",
+      "detail": "241 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r119",
+      "check": "body-thin",
+      "detail": "192 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r12",
+      "check": "body-thin",
+      "detail": "248 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r121",
+      "check": "body-thin",
+      "detail": "217 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r123",
+      "check": "body-thin",
+      "detail": "214 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r125",
+      "check": "body-thin",
+      "detail": "225 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r127",
+      "check": "body-thin",
+      "detail": "194 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r128",
+      "check": "body-thin",
+      "detail": "217 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r129",
+      "check": "body-thin",
+      "detail": "218 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r13-h",
+      "check": "body-thin",
+      "detail": "204 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r13",
+      "check": "body-thin",
+      "detail": "214 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r135",
+      "check": "body-thin",
+      "detail": "193 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r137",
+      "check": "body-thin",
+      "detail": "220 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r138",
+      "check": "body-thin",
+      "detail": "213 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r139",
+      "check": "body-thin",
+      "detail": "203 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r14",
+      "check": "body-thin",
+      "detail": "231 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r140",
+      "check": "body-thin",
+      "detail": "211 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r141",
+      "check": "body-thin",
+      "detail": "216 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r142",
+      "check": "body-thin",
+      "detail": "194 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r144",
+      "check": "body-thin",
+      "detail": "208 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r145",
+      "check": "body-thin",
+      "detail": "227 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r148",
+      "check": "body-thin",
+      "detail": "220 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r149",
+      "check": "body-thin",
+      "detail": "221 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r150",
+      "check": "body-thin",
+      "detail": "211 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r152",
+      "check": "body-thin",
+      "detail": "233 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r153",
+      "check": "body-thin",
+      "detail": "221 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r154",
+      "check": "body-thin",
+      "detail": "219 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r155",
+      "check": "body-thin",
+      "detail": "227 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r156",
+      "check": "body-thin",
+      "detail": "231 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r157",
+      "check": "body-thin",
+      "detail": "214 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r158",
+      "check": "body-thin",
+      "detail": "207 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r159",
+      "check": "body-thin",
+      "detail": "214 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r16",
+      "check": "body-thin",
+      "detail": "209 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r160",
+      "check": "body-thin",
+      "detail": "203 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r161",
+      "check": "body-thin",
+      "detail": "216 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r162",
+      "check": "body-thin",
+      "detail": "189 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r163",
+      "check": "body-thin",
+      "detail": "198 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r168",
+      "check": "body-thin",
+      "detail": "205 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r17",
+      "check": "body-thin",
+      "detail": "218 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r19",
+      "check": "body-thin",
+      "detail": "190 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r21",
+      "check": "body-thin",
+      "detail": "192 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r23",
+      "check": "body-thin",
+      "detail": "190 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r25",
+      "check": "body-thin",
+      "detail": "202 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r26",
+      "check": "body-thin",
+      "detail": "195 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r27",
+      "check": "body-thin",
+      "detail": "192 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r28",
+      "check": "body-thin",
+      "detail": "198 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r3",
+      "check": "body-thin",
+      "detail": "197 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r30",
+      "check": "body-thin",
+      "detail": "245 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r34",
+      "check": "body-thin",
+      "detail": "211 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r37",
+      "check": "body-thin",
+      "detail": "197 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r38",
+      "check": "body-thin",
+      "detail": "189 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r39",
+      "check": "body-thin",
+      "detail": "196 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r4",
+      "check": "body-thin",
+      "detail": "213 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r43",
+      "check": "body-thin",
+      "detail": "222 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r44",
+      "check": "body-thin",
+      "detail": "198 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r45",
+      "check": "body-thin",
+      "detail": "192 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r46",
+      "check": "body-thin",
+      "detail": "215 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r48",
+      "check": "body-thin",
+      "detail": "228 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r51",
+      "check": "body-thin",
+      "detail": "215 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r54",
+      "check": "body-thin",
+      "detail": "233 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r55",
+      "check": "body-thin",
+      "detail": "205 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r6",
+      "check": "body-thin",
+      "detail": "193 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r64",
+      "check": "body-thin",
+      "detail": "237 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r7",
+      "check": "body-thin",
+      "detail": "243 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r77",
+      "check": "body-thin",
+      "detail": "188 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r79",
+      "check": "body-thin",
+      "detail": "193 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r83",
+      "check": "body-thin",
+      "detail": "228 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r85",
+      "check": "body-thin",
+      "detail": "228 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r87",
+      "check": "body-thin",
+      "detail": "202 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r89",
+      "check": "body-thin",
+      "detail": "199 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r90",
+      "check": "body-thin",
+      "detail": "233 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r91",
+      "check": "body-thin",
+      "detail": "192 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r94",
+      "check": "body-thin",
+      "detail": "203 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r95",
+      "check": "body-thin",
+      "detail": "200 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r98",
+      "check": "body-thin",
+      "detail": "217 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "ece-r99",
+      "check": "body-thin",
+      "detail": "202 chars from a full-text connector (unece)",
+      "source_api": "unece"
+    },
+    {
+      "id": "eu-32006r1907",
+      "check": "weak-title",
+      "detail": "title '32006R1907' has no subject",
+      "source_api": "eurlex"
+    },
+    {
+      "id": "eu-32017r1151",
+      "check": "weak-title",
+      "detail": "title '32017R1151' has no subject",
+      "source_api": "eurlex"
+    },
+    {
+      "id": "jp-jvsregs-art12",
+      "check": "body-thin",
+      "detail": "334 chars from a full-text connector (egov_jp)",
+      "source_api": "egov_jp"
+    },
+    {
+      "id": "jp-jvsregs-art28",
+      "check": "body-thin",
+      "detail": "280 chars from a full-text connector (egov_jp)",
+      "source_api": "egov_jp"
+    },
+    {
+      "id": "jp-jvsregs-art5",
+      "check": "body-thin",
+      "detail": "160 chars from a full-text connector (egov_jp)",
+      "source_api": "egov_jp"
+    },
+    {
+      "id": "kr-kmvss-art10",
+      "check": "body-thin",
+      "detail": "493 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art102-3",
+      "check": "body-thin",
+      "detail": "297 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art102-4",
+      "check": "body-thin",
+      "detail": "443 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art107",
+      "check": "body-thin",
+      "detail": "232 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art111-3",
+      "check": "body-thin",
+      "detail": "350 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art112-11",
+      "check": "body-thin",
+      "detail": "299 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art112-14",
+      "check": "body-thin",
+      "detail": "315 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art112-2",
+      "check": "body-thin",
+      "detail": "295 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art112-4",
+      "check": "body-thin",
+      "detail": "301 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art112-7",
+      "check": "body-thin",
+      "detail": "199 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art18-2",
+      "check": "body-thin",
+      "detail": "249 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art18-3",
+      "check": "body-thin",
+      "detail": "543 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art18-5",
+      "check": "body-thin",
+      "detail": "47 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art18-5",
+      "check": "weak-title",
+      "detail": "title 'KMVSS Article 18-5' has no subject",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art18",
+      "check": "body-thin",
+      "detail": "577 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art21",
+      "check": "body-thin",
+      "detail": "277 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art3",
+      "check": "body-thin",
+      "detail": "179 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art30",
+      "check": "body-thin",
+      "detail": "211 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art31",
+      "check": "body-thin",
+      "detail": "342 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art35",
+      "check": "body-thin",
+      "detail": "253 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art36",
+      "check": "body-thin",
+      "detail": "225 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art5",
+      "check": "body-thin",
+      "detail": "466 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art53-3",
+      "check": "body-thin",
+      "detail": "336 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art53",
+      "check": "body-thin",
+      "detail": "367 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art56",
+      "check": "body-thin",
+      "detail": "263 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art7",
+      "check": "body-thin",
+      "detail": "404 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art89-2",
+      "check": "body-thin",
+      "detail": "251 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art9",
+      "check": "body-thin",
+      "detail": "425 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art90-2",
+      "check": "body-thin",
+      "detail": "334 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art91-3",
+      "check": "body-thin",
+      "detail": "423 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art91",
+      "check": "body-thin",
+      "detail": "393 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art92",
+      "check": "body-thin",
+      "detail": "462 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art93",
+      "check": "body-thin",
+      "detail": "223 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art95",
+      "check": "body-thin",
+      "detail": "396 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "kr-kmvss-art99",
+      "check": "body-thin",
+      "detail": "462 chars from a full-text connector (law_go_kr)",
+      "source_api": "law_go_kr"
+    },
+    {
+      "id": "us-40cfr-part-82",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-40cfr-part-85",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-cfr-part-531",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-cfr-part-551",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-cfr-part-581",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-cfr-part-593",
+      "check": "status-text",
+      "detail": "status in-force but body says 'revoked' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-cfr-part-594",
+      "check": "status-text",
+      "detail": "status in-force but body says 'revoked' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-117",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-202",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-203",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-209",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-301",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-302",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "us-fmvss-500",
+      "check": "status-text",
+      "detail": "status in-force but body says '[Reserved]' near start",
+      "source_api": "ecfr"
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-body-structure-and-load-path",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-bumper-and-low-speed-impact-external-projections",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-controls-tell-tales-indicators-and-driver-information",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-exhaust-emissions-and-obd",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-fuel-system-and-fire-prevention",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-speedometer-and-odometer",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-steering-equipment-and-steering-effort",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-tires-wheels-and-tpms, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-tires-wheels-and-tpms",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "source_api": null
+    },
+    {
+      "id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "check": "dup-citation",
+      "detail": "citation shared with jp-srrv-accelerator-control, jp-srrv-body-structure-and-load-path, jp-srrv-bumper-and-low-speed-impact-external-projections, jp-srrv-controls-tell-tales-indicators-and-driver-information, jp-srrv-exhaust-emissions-and-obd, jp-srrv-fuel-system-and-fire-prevention, jp-srrv-speedometer-and-odometer, jp-srrv-steering-equipment-and-steering-effort, jp-srrv-tires-wheels-and-tpms",
+      "source_api": null
+    }
+  ]
+}

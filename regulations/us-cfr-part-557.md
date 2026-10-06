@@ -21,8 +21,8 @@ status: in-force
 summary: Petitions by interested persons requesting NHTSA hearings on whether a vehicle
   or replacement equipment manufacturer has adequately fulfilled its obligations to
   notify owners and dealers of, or remedy, a safety-related defect or noncompliance
-  with a Federal motor vehicle safety standard. It establishes the...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  with a Federal motor vehicle safety standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 4b726a9be359f67cc1452e3e69accfdc7b8b7e2e
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'

@@ -31,8 +31,8 @@ status: in-force
 summary: Fuel systems, high-voltage energy storage, and alternative-fuel components
   (CNG, LPG, hydrogen) in passenger and light vehicles are regulated to prevent fire,
   explosion, hazardous leakage, and electrical shock during normal use, abuse, and
-  post-crash conditions. Compliance requires that tanks, fuel lines, EV...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  post-crash conditions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c1c1a52a90c9d172e12b65ae283e3125ec188721
 systems:
 - Fuel safety
@@ -43,9 +43,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Fuel System and Fire Prevention
 translation_status: translated
-un_equivalent_ai:
-- UN R34
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

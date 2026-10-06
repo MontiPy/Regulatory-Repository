@@ -1,0 +1,173 @@
+{
+ "group": "gcc",
+ "patches": {
+  "gcc-gso-1503-2002": {
+   "un_equivalent": [],
+   "_why": "UN R48 is lighting installation, not headlamp units; body only lists R48 under Related Regulations (no adoption statement), so un_equivalent emptied; ai already UN R112."
+  },
+  "gcc-gso-1707-2005": {
+   "un_equivalent": [],
+   "_why": "GSO 1707 is the US-standard (FMVSS 214) variant; body lists R95/R135 only as related, not adopted. ai (R135) left unchanged."
+  },
+  "gcc-gso-1709-2005": {
+   "summary": "GSO 1709:2005 sets requirements for child restraint systems used in motor vehicles, excluding those intended for folding or side-facing seats. Related UN regulations include R129 and R145; testing is covered by separate GSO standards.",
+   "_why": "GSO store scope describes a child restraint system product standard, not vehicle anchorage/ISOFIX installation requirements."
+  },
+  "gcc-gso-290-1994": {
+   "title": "Instruction Manual for Appliances, Instruments and Equipment",
+   "summary": "GSO 290:1994 is a general GSO standard on instruction manuals for appliances, instruments and equipment. It is listed in the GCC motor-vehicle technical-regulation lists; its vehicle-specific scope and any Arabic/English language requirement should be verified against the standard.",
+   "_why": "Official GSO title per technical regulation list; body says scope is general instruction manuals; Arabic/English mandate not established."
+  },
+  "gcc-gso-39-2005": {
+   "un_equivalent_ai": [],
+   "_why": "R95 (side impact) and R16 (belts) are not roof-strength regulations; FMVSS 216 analogue only."
+  },
+  "gcc-gso-41-2007": {
+   "un_equivalent": [],
+   "un_equivalent_ai": [
+    "UN R42"
+   ],
+   "_why": "Title/scope is front and rear protection devices = UN R42; R26 is external projections. Body says R26/R42 only 'where adopted', so R42 is AI-level; R127 AI replaced."
+  },
+  "gcc-gso-96-1988": {
+   "un_equivalent": [],
+   "un_equivalent_ai": [
+    "UN R16"
+   ],
+   "_why": "Belt assembly test methods map to R16, not R14 (anchorages); adoption not stated in body so un_equivalent emptied."
+  },
+  "gcc-gso-97-1988": {
+   "un_equivalent": [],
+   "un_equivalent_ai": [
+    "UN R16",
+    "UN R14"
+   ],
+   "_why": "Belt assemblies = R16, anchorages = R14; body lists both as related only, so both AI-level."
+  },
+  "gcc-gso-ece-100": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "UN R100 applies to categories M and N; motorcycles (L) out of scope."
+  },
+  "gcc-gso-ece-121": {
+   "summary": "GSO-ECE 121 covers the location, identification and colour of hand controls, tell-tales and indicators on motor vehicles in GCC member states, so that drivers can recognise standardised symbols and warnings. It does not cover exterior lamps, which fall under the lighting regulations such as UN R48.",
+   "_why": "Summary was lamp/signalling boilerplate; UN R121 scope is controls, tell-tales and indicators."
+  },
+  "gcc-gso-ece-127": {
+   "summary": "GSO-ECE 127 covers pedestrian safety performance of motor vehicles in GCC markets, limiting injury to pedestrians and other vulnerable road users in head and leg impacts with the vehicle front, such as the bonnet, bumper and windscreen area.",
+   "un_equivalent_ai": [
+    "UN R127"
+   ],
+   "_why": "UN R127 is pedestrian protection; summary had occupant restraint boilerplate; R114 is replacement airbag modules."
+  },
+  "gcc-gso-ece-141": {
+   "summary": "GSO-ECE 141 covers tyre pressure monitoring systems (TPMS) on passenger vehicles in the GCC region, requiring a system that warns the driver of significant tyre under-inflation through a tell-tale.",
+   "_why": "UN R141 is TPMS; prior summary was tyre-markings boilerplate."
+  },
+  "gcc-gso-ece-156": {
+   "summary": "GSO-ECE 156 covers software update management systems for vehicles in the GCC region, requiring manufacturers to operate a process for managing software updates, including over-the-air updates, with software identification (RXSWIN) and update records.",
+   "_why": "UN R156 is SUMS/RXSWIN; prior summary was cyber/data boilerplate."
+  },
+  "gcc-gso-ece-21": {
+   "un_equivalent_ai": [
+    "UN R21"
+   ],
+   "_why": "R94 is frontal collision, not interior fittings."
+  },
+  "gcc-gso-ece-30": {
+   "un_equivalent_ai": [
+    "UN R30"
+   ],
+   "_why": "R141 is TPMS, not passenger car tyre approval."
+  },
+  "gcc-gso-ece-51": {
+   "systems": [
+    "Noise"
+   ],
+   "_why": "R51 is pass-by noise; Emissions/OBD tags came from boilerplate. Commodities left unchanged."
+  },
+  "gcc-gso-ece-94": {
+   "systems": [
+    "Crashworthiness",
+    "Restraints"
+   ],
+   "_why": "Frontal collision regulation; no pedestrian content."
+  },
+  "gcc-gso-ece-95": {
+   "systems": [
+    "Crashworthiness",
+    "Restraints"
+   ],
+   "un_equivalent_ai": [
+    "UN R95"
+   ],
+   "_why": "Side impact regulation; no pedestrian content; R114 is replacement airbag modules."
+  },
+  "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3": {
+   "summary": "Index list of the mandatory GSO and GSO-ECE (UN-based) motor vehicle technical regulations for model year 2027 in GCC markets, with references to related SASO and UAE national fuel economy and EV requirements. It is a list of applicable regulations rather than a technical standard itself.",
+   "_why": "Summary invented documentation requirements; body describes only the regulation list."
+  },
+  "gcc-saso-2847-saso-2864-2022": {
+   "summary": "Saudi fuel economy labelling for new light-duty vehicles and fleet-average fuel economy (CAFE) requirements under SASO 2847 and SASO 2864:2022.",
+   "_why": "Body scope is label and fleet CAFE; OBD/evaporative detail was boilerplate."
+  },
+  "gcc-saso-3005-2022": {
+   "un_equivalent_ai": [],
+   "_why": "R125 is forward field of vision; body cites FMVSS 103, GB 11555, ADR 42 analogues only."
+  },
+  "gcc-saso-3006-2022": {
+   "un_equivalent_ai": [],
+   "_why": "No known UN regulation on accelerator control; body cites FMVSS 124 analogue only."
+  },
+  "gcc-saso-3007-2022": {
+   "un_equivalent_ai": [],
+   "_why": "R45 is headlamp cleaners; body cites FMVSS 104."
+  }
+ },
+ "skipped": [
+  {
+   "id": "gcc-gcc-ev-technical-regulation-draft",
+   "field": "status",
+   "reason": "Already status: proposed with draft status_note."
+  },
+  {
+   "id": "gcc-gso-ece-125",
+   "field": "summary/systems/un_equivalent_ai",
+   "reason": "Already corrected in record."
+  },
+  {
+   "id": "gcc-gso-ece-13h-2012",
+   "field": "un_equivalent",
+   "reason": "Already UN R13H."
+  },
+  {
+   "id": "gcc-gso-ece-43-gso-3538",
+   "field": "summary/systems/un_equivalent_ai",
+   "reason": "Already corrected in record."
+  },
+  {
+   "id": "gcc-gso-ece-46",
+   "field": "summary/un_equivalent_ai/systems",
+   "reason": "Already corrected in record."
+  },
+  {
+   "id": "gcc-gso-ece-26",
+   "field": "un_equivalent_ai",
+   "reason": "Low confidence; R127 arguably related, so left unchanged."
+  },
+  {
+   "id": "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+   "field": "source_url",
+   "reason": "source_url is not a patchable field."
+  },
+  {
+   "id": "gcc-saso-2847-saso-2864-2022",
+   "field": "source_url",
+   "reason": "source_url is not a patchable field."
+  }
+ ]
+}

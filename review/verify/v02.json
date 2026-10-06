@@ -1,0 +1,194 @@
+{
+ "group": "v02",
+ "patches": {
+  "au-f2006l03254": {
+   "summary": "ADR 51/00 prescribes the dimensional and photometric requirements for filament lamp light sources so that they are interchangeable and function correctly in a lamp unit. It applies where another lamp ADR requires its light source to comply, and incorporates UN Regulation No. 37 as its technical Appendix A.",
+   "un_equivalent": [
+    "UN R37"
+   ],
+   "_why": "Scope and clause 2 (applicability), clause 7.1 lists UN R37 editions as alternative; Appendix A is UN R37/03; summary was truncated with '...'"
+  },
+  "au-f2007l02226": {
+   "summary": "ADR 62/02 specifies requirements for devices for mechanical connections between vehicles (fifth wheel assemblies, kingpins, pin and ball couplings, hook couplings, towbars, drawbars) and their fitment, so that couplings stay positively engaged in normal use. It applies to L, M, N and T category vehicles fitted with couplings designed to be separated, from 2009.",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus",
+    "Trailer"
+   ],
+   "un_equivalent": [
+    "UN R55"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2.3 applies to L, M, N and T categories; clause 15.1 deems ECE R55/01 equivalent; summary was truncated with '...'"
+  },
+  "au-f2007l04077": {
+   "_confirmed": true,
+   "un_equivalent": [
+    "UN R66"
+   ],
+   "_why": "Clause 3.1 applies to single-deck buses carrying over 16 passengers; alternative standard lists UN R66 (00 to 02 series) as equivalent"
+  },
+  "au-f2008l02387": {
+   "summary": "ADR 10/02 sets minimum performance requirements for steering mechanisms to minimise crushing or penetrating injury to drivers from the steering column in a frontal impact. It applies from 1 January 2010 to new-model passenger cars (MA, MB, MC, the latter forward-control only) and forward-control light goods vehicles (NA), and accepts UN Regulation No. 12 as an alternative.",
+   "un_equivalent": [
+    "UN R12"
+   ],
+   "un_equivalent_ai": [
+    "UN R94"
+   ],
+   "_why": "Clause 2 scope, clauses 3.1-3.4 applicability, clause 7.1 accepts ECE R12 up to 03 series; R79 not relevant to frontal-impact column"
+  },
+  "au-f2012l01123": {
+   "title": "ADR Definitions and Vehicle Categories 2005 — Amendment 6",
+   "summary": "Amendment 6 to the Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories) 2005, determined on 20 May 2012 under the Motor Vehicle Standards Act 1989. It adds a definition of 'Pedalec' (an EN 15194 electrically power-assisted cycle) and amends the definition of power-assisted pedal cycle (AB) to include Pedalecs. It is an amending instrument, not a full compilation, and is superseded.",
+   "_why": "Body is a 2-clause amending instrument with Schedule 1 adding 'Pedalec' and amending clause 4.2.2; not a compilation"
+  },
+  "au-f2015l02109": {
+   "summary": "ADR 85/00 aims to reduce the risk of serious and fatal injury to occupants in side impact crashes by limiting forces, accelerations and deflections measured by test dummies in pole side impact tests. It applies to MA, MB and MC vehicles up to 3,500 kg (new models from 1 November 2017, all vehicles from 1 November 2021) and to certain NA vehicles, and accepts UN Regulation No. 135 as equivalent.",
+   "un_equivalent": [
+    "UN R135"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3 applicability, clauses 7.1-7.2 deem UN R135 equivalent; old summary says text lacks requirements"
+  },
+  "au-f2017l01214": {
+   "summary": "ADR 31/04 prescribes braking system requirements for passenger cars. It applies to MA, MB, MC and NA vehicles (and certain LEP tricycles) from 1 July 2019 and accepts UN Regulation No. 13-H (01 series) as deemed equivalent.",
+   "un_equivalent": [
+    "UN R13H"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3.1 applicability, clause 7.1 deems UN R13-H/01 equivalent; old summary truncated with '...'"
+  },
+  "au-f2017l01221": {
+   "summary": "ADR 89/00 specifies requirements for Brake Assist Systems on passenger cars and light commercial vehicles to maximise braking performance in emergency conditions. It applies to MA, MB, MC and NA vehicles from 1 July 2019 and deems UN Regulation No. 139 (00 series) equivalent.",
+   "un_equivalent": [
+    "UN R139"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3.1 applicability, clause 7.1 deems UN R139 equivalent; old summary truncated with '...'"
+  },
+  "au-f2017l01229": {
+   "summary": "ADR 88/00 specifies requirements for Electronic Stability Control (ESC) systems on passenger cars and light commercial vehicles to reduce the risk of crashes involving loss of directional control, including rollover. It applies to MA, MB, MC and NA vehicles from 1 July 2019 and deems UN Regulation No. 140 and GTR No. 8 equivalent.",
+   "commodities": [
+    "ECUs",
+    "ADAS sensors",
+    "Brakes"
+   ],
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck"
+   ],
+   "un_equivalent": [
+    "UN R140"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3.1 limits to MA/MB/MC/NA (no heavy trucks or buses), clause 7 deems UN R140 equivalent; steering column not relevant"
+  },
+  "au-f2017l01344": {
+   "_confirmed": true,
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Off-road"
+   ],
+   "un_equivalent": [
+    "UN R17"
+   ],
+   "_why": "Clause 3 applies to LEP, LEG and M/N categories, not trailers; clause 7 deems UN R17 (08-11 series) equivalent"
+  },
+  "au-f2017l01351": {
+   "_confirmed": true,
+   "un_equivalent": [
+    "UN R14",
+    "UN R145"
+   ],
+   "un_equivalent_ai": [
+    "UN R16"
+   ],
+   "_why": "Clauses 14.2 and 14.3 deem UN R14 and R145 equivalent; R16 only for the child restraint fixture definition"
+  },
+  "au-f2017l01484": {
+   "summary": "ADR 87/00 prescribes photometric requirements for cornering lamps, which give supplementary illumination near the forward corner of the vehicle on the side it is turning towards. Whether cornering lamps are mandatory, optional or prohibited is set by ADR 13 or ADR 67, and UN Regulation No. 119 (01 series) is accepted as equivalent.",
+   "un_equivalent": [
+    "UN R119"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3.1 defers to ADR 13/67, clause 7.1 deems UN R119/01 equivalent"
+  },
+  "au-f2017l01497": {
+   "summary": "ADR 86/00 prescribes photometric requirements for parking lamps, which draw attention to a stationary vehicle. Whether parking lamps are mandatory, optional or prohibited is set by ADR 13, 19 or 67, and UN Regulation No. 77 in its original form is accepted as equivalent.",
+   "un_equivalent": [
+    "UN R77"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3.1 defers to ADR 13/19/67, clause 7.1 deems UN R77 equivalent"
+  },
+  "au-f2017l01554": {
+   "_confirmed": true,
+   "un_equivalent": [
+    "UN R78"
+   ],
+   "_why": "Clause 3.4 applies to L-category mopeds and motorcycles; clause 7 deems UN R78 (03-04 series) and GTR 3 equivalent"
+  },
+  "au-f2018l00692": {
+   "_confirmed": true,
+   "un_equivalent": [
+    "UN R13"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 3 applies to trailers over 750 kg GTM (O2-O4); clause 23 deems UN R13 (11 series) equivalent with listed exceptions"
+  },
+  "au-f2018l01513": {
+   "summary": "ADR 94/00 specifies requirements for audible warning devices (horns) fitted to vehicles. It applies to all category L, M and N vehicles from 1 July 2019, and deems UN Regulation No. 28 (00 series) equivalent for categories LC, LD, LE, M and N.",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus"
+   ],
+   "un_equivalent": [
+    "UN R28"
+   ],
+   "_why": "Clause 3.1 applies to L, M and N categories only (trailers not covered); clause 7.1 deems UN R28/00 equivalent"
+  },
+  "au-f2018l01515": {
+   "summary": "ADR 90/00 specifies requirements to ensure safe steering under normal operating and failure conditions. It applies from 1 July 2019 to category LB, LD, LE, M and N vehicles, and deems UN Regulation No. 79 (01 to 02 series) equivalent for category M and N vehicles.",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus"
+   ],
+   "un_equivalent": [
+    "UN R79"
+   ],
+   "_why": "Clause 2 function, clause 3.1 applicability excludes trailers; clause 7.1 deems UN R79 equivalent"
+  },
+  "au-f2018l01516": {
+   "summary": "ADR 95/00 specifies requirements for the installation of pneumatic tyres on vehicles. It applies to all vehicle categories from 1 July 2019, and for MA, MB and MC vehicles accepts UN Regulation No. 142 as an alternative.",
+   "un_equivalent": [
+    "UN R142"
+   ],
+   "un_equivalent_ai": [],
+   "_why": "Clause 2 function, clause 3.1 applies to all categories, clause 7.1 accepts UN R142; old summary says text lacks requirements"
+  },
+  "au-f2018l01517": {
+   "summary": "ADR 96/00 specifies requirements for new pneumatic tyres designed primarily for commercial vehicles (light truck and truck/bus tyres). It excludes passenger car (Class C1) tyres, retreaded trailer tyres and temporary-use spares, applies as set out in ADR 95, and accepts UN Regulation No. 54 as an alternative.",
+   "un_equivalent": [
+    "UN R54"
+   ],
+   "un_equivalent_ai": [
+    "UN R117"
+   ],
+   "_why": "Clause 2 function, clause 3 applicability and exclusions, clause 7.1 lists UN R54; old summary says text lacks requirements"
+  }
+ },
+ "skipped": []
+}

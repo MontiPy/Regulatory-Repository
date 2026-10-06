@@ -4,7 +4,7 @@ commodities:
 - Seats
 - Seatbelts
 id: us-fmvss-210
-last_pulled: '2026-06-01T18:40:46+00:00'
+last_pulled: '2026-10-06T03:26:31+00:00'
 open_tags:
 - seat belt anchorage
 - ISOFIX anchorage
@@ -22,20 +22,19 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.210
 status: in-force
-summary: Seat belt assembly anchorages in passenger cars, multipurpose passenger vehicles,
-  trucks, buses, and school buses are regulated to ensure proper location for effective
-  occupant restraint and to reduce the likelihood of anchorage failure. The standard
-  requires that appropriate seat belt anchorages be installed at each...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 58d239b504e35533bab40eac88e9fe6d8a227c11
+summary: FMVSS No. 210 establishes requirements for seat belt assembly anchorages
+  to ensure proper location for effective occupant restraint and to reduce the likelihood
+  of anchorage failure. It applies to passenger cars, multipurpose passenger vehicles,
+  trucks, buses and school buses, and sets strength tests using force application
+  devices (FAD1 and FAD2) for Type 1 and Type 2 belt assemblies.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 0647492bfd4ac7e46da8887288c279ecb1d1533c
 systems:
 - Restraints
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.210 Standard No. 210; Seat belt assembly anchorages.
-un_equivalent_ai:
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -77,15 +76,17 @@ S4.1 Type.
 
 S4.1.1 Seat belt anchorages for a Type 1 or a Type 2 seat belt assembly shall be installed for each designated seating position for which a Type 1 or a Type 2 seat belt assembly is required by Standard No. 208 (49 CFR 571.208). Seat belt anchorages for a Type 2 seat belt assembly shall be installed for each designated seating position for which a Type 2 seat belt assembly is required by Standard No. 208 (49 CFR 571.208).
 
-S4.1.2 (a) Notwithstanding the requirement of S4.1.1, each vehicle manufactured on or after September 1, 1987 that is equipped with an automatic restraint at the front right outboard designated seating position, which automatic restraint cannot be used for securing a child restraint system or cannot be adjusted by the vehicle owner to secure a child restraint system solely through the use of attachment hardware installed as an item of original equipment by the vehicle manufacturer, shall have, at the manufacturer's option, either anchorages for a Type 1 seat belt assembly installed at that position or a Type 1 or Type 2 seat belt assembly installed at that position. If a manufacturer elects to install anchorages for a Type 1 seat belt assembly to comply with this requirement, those anchorages shall consist of, at a minimum, holes threaded to accept bolts that comply with S4.1(f) of Standard No. 209 (49 CFR 571.209).
+S4.1.2 (a) Notwithstanding the requirement of S4.1.1, each vehicle that is equipped with an automatic restraint at the front right outboard designated seating position, which automatic restraint cannot be used for securing a child restraint system or cannot be adjusted by the vehicle owner to secure a child restraint system solely through the use of attachment hardware installed as an item of original equipment by the vehicle manufacturer, shall have, at the manufacturer's option, either anchorages for a Type 1 seat belt assembly installed at that position or a Type 1 or Type 2 seat belt assembly installed at that position. If a manufacturer elects to install anchorages for a Type 1 seat belt assembly to comply with this requirement, those anchorages shall consist of, at a minimum, holes threaded to accept bolts that comply with S4.1(f) of Standard No. 209 (49 CFR 571.209).
 
 (b) The requirement in S4.1.1 of this standard that seat belt anchorages for a Type 1 or a Type 2 seat belt assembly shall be installed for certain designated seating positions does not apply to any such seating positions that are equipped with a seat belt assembly that meets the frontal crash protection requirements of S5.1 of Standard No. 208 (49 CFR 571.208).
 
 S4.1.3 School bus passenger seats.
 
-S4.1.3.1 For school buses manufactured on or after October 21, 2011, seat belt anchorages for school bus passenger seats must be attached to the school bus seat structure, including seats with wheelchair positions or side emergency doors behind them. Seats with no other seats behind them, no wheelchair positions behind them and no side emergency door behind them are excluded from the requirement that the seat belt anchorages must be attached to the school bus seat structure. For school buses with a GVWR less than or equal to 4,536 kg (10,000 pounds), the seat belt shall be Type 2 as defined in S3. of FMVSS No. 209 (49 CFR 571.209). For school buses with a GVWR greater than 4,536 kg (10,000 pounds), the seat belt shall be Type 1 or Type 2 as defined in S3. of FMVSS No. 209 (49 CFR 571.209).
+S4.1.3.1 Seat belt anchorages for school bus passenger seats must be attached to the school bus seat structure, including seats with wheelchair positions or side emergency doors behind them. Seats with no other seats behind them, no wheelchair positions behind them and no side emergency door behind them are excluded from the requirement that the seat belt anchorages must be attached to the school bus seat structure. For school buses with a GVWR less than or equal to 4,536 kg (10,000 pounds), the seat belt shall be Type 2 as defined in S3. of FMVSS No. 209 (49 CFR 571.209). For school buses with a GVWR greater than 4,536 kg (10,000 pounds), the seat belt shall be Type 1 or Type 2 as defined in S3. of FMVSS No. 209 (49 CFR 571.209).
 
-S4.1.3.2 Type 2 seat belt anchorages on school buses manufactured on or after October 21, 2011 must meet the following location requirements.
+S4.1.3.2 Type 2 seat belt anchorages on school buses must meet the following location requirements.
+
+S4.1.3.2 Type 2 seat belt anchorages on school buses must meet the following location requirements.
 
 (a) For a small occupant seating position of a flexible occupancy seat, as defined in 49 CFR 571.222, the school bus torso belt anchor point must be 400 mm or more vertically above the seating reference point (SgRP) or adjustable to 400 mm or more vertically above the SgRP. For all other seating positions, the school bus torso belt anchor point must be 520 mm or more vertically above the SgRP or adjustable to 520 mm or more vertically above the SgRP. The school bus torso belt adjusted height at each seating position shall be adjustable to no more than 280 mm vertically above the SgRP in the lowest position and no less than the required vertical height of the school bus torso belt anchor point for that seating position in the highest position. (See Figure 4.)
 
@@ -97,9 +98,9 @@ S4.1.3.2 Type 2 seat belt anchorages on school buses manufactured on or after Oc
 
 S4.1.3.3 School buses with a GVWR less than or equal to 4,536 kg (10,000 pounds) must meet the requirements of S4.2.2 of this standard.
 
-S4.1.3.4 School buses with a GVWR greater than 4,536 kg (10,000 pounds) manufactured on or after October 21, 2011, with Type 1 seat belt anchorages, must meet the strength requirements specified in S4.2.1 of this standard.
+S4.1.3.4 School buses with a GVWR greater than 4,536 kg (10,000 pounds), with Type 1 seat belt anchorages, must meet the strength requirements specified in S4.2.1 of this standard.
 
-S4.1.3.5 School buses with a GVWR greater than 4,536 kg (10,000 pounds) manufactured on or after October 21, 2011, with Type 2 seat belt anchorages, must meet the strength requirements specified in S4.2.2 of this standard.
+S4.1.3.5 School buses with a GVWR greater than 4,536 kg (10,000 pounds), with Type 2 seat belt anchorages, must meet the strength requirements specified in S4.2.2 of this standard.
 
 S4.2 Strength.
 
@@ -243,7 +244,7 @@ S5.5 FAD Positioning Procedure.
 
 (f) If testing a Type 2 or Type 2A seat belt assembly, attach one actuator to the eye bolt attached to the pull bracket of the torso pull yoke on the FAD and one to the thru hole on the pelvis of the FAD. If testing a Type 1 seat belt assembly, attach the actuator to the actuator attachment point on the bridged pull yoke attached to the FAD.
 
-S6. Owner's Manual Information. The owner's manual in each vehicle with a gross vehicle weight rating of 4,536 kg or less manufactured after September 1, 1987 shall include:
+S6. Owner's Manual Information. The owner's manual in each vehicle with a gross vehicle weight rating of 4,536 kg or less shall include:
 
 (a) A section explaining that all child restraint systems are designed to be secured in vehicle seats by lap belts or the lap belt portion of a lap-shoulder belt. The section shall also explain that children could be endangered in a crash if their child restraints are not properly secured in the vehicle.
 

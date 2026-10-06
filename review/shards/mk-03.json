@@ -1,0 +1,12 @@
+{
+ "shard": "mk-03",
+ "kind": "markets",
+ "items": [
+  "HK-MO",
+  "TW",
+  "JP",
+  "KR",
+  "IN",
+  "SOUTH-ASIA"
+ ]
+}

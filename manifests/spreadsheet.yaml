@@ -837,14 +837,6 @@ records:
   citation: SASO 2847 / SASO 2864:2022
   title: Saudi Fuel Economy Labeling and CAFE
   source_url: https://www.saso.gov.sa/ar/sectors/certificates/efficiency_card/Documents/FINAL_REPORT_2024.pdf
-- id: gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011
-  workbook_id: REG-0457
-  market_family: GCC / Middle East
-  region_body: GCC / GSO
-  region: GCC
-  citation: UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)
-  title: UAE Fuel Economy Program / Labeling
-  source_url: https://www.gso.org.sa/wp-content/uploads/2023/09/GSO-Technical-Regulations-MV-2025-MY-D2.pdf
 - id: cn-cnca-c11-01-2020
   workbook_id: REG-0463
   market_family: China
@@ -1287,9 +1279,9 @@ records:
   citation: NOM-194-SE-2021
   title: Safety devices for new light vehicles - requirements and specifications
   source_url: https://sidof.segob.gob.mx/notas/docFuente/5666804
-- id: us-stub-nom-042-semarnat-2003
+- id: mx-workbook-reg-0611-nom-042-semarnat-2003
   workbook_id: REG-0611
-  market_family: Mexico  # workbook lists "United States"; NOM-042 is a Mexican standard (id kept stable)
+  market_family: Mexico  # workbook lists "United States"; NOM-042 is a Mexican standard
   region_body: Mexico / SEMARNAT / PROFEPA
   region: MX
   citation: NOM-042-SEMARNAT-2003

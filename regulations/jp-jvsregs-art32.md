@@ -23,11 +23,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Motor vehicles in Japan must be equipped at the front with driving beam and
-  passing beam headlights meeting ministerial standards for light color, brightness,
-  mounting position, and installation method; adaptive driving beam headlights may
-  substitute for these on eligible vehicles and, when of sufficient luminous...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 32 of Japan's Road Transport Vehicle Safety Regulations requires
+  motor vehicles (excluding towed vehicles) to have driving beam and passing beam
+  headlights meeting ministerial standards for colour, brightness and mounting. It
+  also covers adaptive driving beam headlights, optional headlight leveling devices,
+  and headlight cleaning devices required for adaptive beam headlights meeting a luminous
+  output threshold, with exceptions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1193a372a87c7808c6493148b048c6d47caf6fd3
 systems:
 - Lighting & signaling
@@ -37,9 +39,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 32 — Headlights
 translation_status: translated
-un_equivalent_ai:
-- UN R123
-- UN R113
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -3,7 +3,7 @@ citation: UN R43
 commodities:
 - Glass
 id: ece-r43
-last_pulled: '2026-06-01T18:53:05+00:00'
+last_pulled: '2026-10-06T03:33:30+00:00'
 open_tags:
 - windshield
 - laminated glass
@@ -19,13 +19,13 @@ open_tags:
 - abrasion resistance
 region: ECE
 source_api: unece
-source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0212(01)
 status: in-force
 summary: Safety glazing materials and their installation on motor vehicles are regulated
   under UN R43, which establishes requirements for the approval, performance, and
   fitting of glazing used in vehicle windows and windscreens.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 683ac2f766f70b7c56fab863313df18bf3e38cd9
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 06cfd4afcbd5b999b27ca4c82601269f0c6fc30d
 systems:
 - Glazing
 - Visibility
@@ -42,6 +42,5742 @@ vehicle_categories:
 - Off-road
 ---
 
-# UN Regulation No. 43 — Safety Glazing Materials and their Installation
+> **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0212(01), 2014-02-12). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.
 
-See the [UNECE WP.29 Regulations index](https://unece.org/transport/vehicle-regulations-wp29/Regulations) for the full text of UN Regulation No. 43.
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 12.2.2014 | EN | Official Journal of the European Union | L 42/1 |
+
+---
+
+Only the original UN/ECE texts have legal effect under international public law. The status and date of entry into force of this Regulation should be checked in the latest version of the UN/ECE status document TRANS/WP.29/343, available at:
+
+http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html
+
+Regulation No 43 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of safety glazing materials and their installation on vehicles
+
+Incorporating all valid text up to:
+
+Supplement 2 to the 01 series of amendments — Date of entry into force: 3 November 2013
+
+CONTENTS
+
+REGULATION
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Scope |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Definitions |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Application for approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Markings |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5. | Approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6. | General requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 7. | Particular requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 8. | Tests |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 9. | Modification or extension of approval of a type of safety glazing material |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 10. | Conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 11. | Penalties for non-conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 12. | Transitional provisions |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 13. | Production definitively discontinued |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 14. | Names and addresses of Technical Services responsible for conducting approval tests, and of Type Approval Authorities |  |
+
+ANNEXES
+
+|  |  |  |
+| --- | --- | --- |
+| 1 | Communication |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 1A | Communication |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2 | Arrangements of approval marks for components |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2A | Arrangements of approval marks for vehicles |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3 | General test conditions |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4 | Toughened-glass windscreens |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5 | Uniformly-toughened glass panes |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6 | Ordinary laminated-glass windscreens |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 7 | Laminated-glass panes |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 8 | Treated laminated-glass windscreens |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 9 | Safety glazing faced with plastics material (on the inside) |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 10 | Glass-plastics windscreens |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 11 | Glass-plastics panes |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 12 | Multiple-glazed units |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 13 | Grouping of windscreens for approval testing |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 14 | Rigid plastic panes |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 15 | Flexible plastic panes |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 16 | Rigid plastic multiple-glazed units |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 17 | Measurement of the height of segment and position of the points of impact |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 18 | Procedure for determining test areas on windscreens of vehicles in relation to the ‘V’ points |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 19 | Procedure for determining the ‘H’ point and the actual torso angle for seating positions in motor vehicles |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 20 | Checks on conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 21 | Provisions regarding the installation of safety glazing on vehicles |  |
+
+1.   SCOPE
+
+This Regulation applies to:
+
+|  |  |
+| --- | --- |
+| (a) | Safety glazing materials intended for installation as windscreens or other panes, or as partitioning, on vehicles of category L with bodywork, M, N, O, and T [(1)](#ntr1-L_2014042EN.01000101-E0001); |
+
+|  |  |
+| --- | --- |
+| (b) | Vehicles of category M, N and O with regard to the installation of these materials; |
+
+In both cases, to the exclusion of glazing for lighting and light-signalling devices and instrument panels, of special bullet-proof glazing and of double-windows.
+
+2.   DEFINITIONS
+
+For the purpose of this Regulation:
+
+|  |  |
+| --- | --- |
+| 2.1. | ‘Toughened-glass’ means glazing consisting of a single layer of glass which has been subjected to special treatment to increase its mechanical strength and to condition its fragmentation after shattering. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.2. | ‘Laminated-glass’ means glazing consisting of two or more layers of glass held together by one or more interlayer of plastics material; it may be:   |  |  | | --- | --- | | 2.2.1. | ‘Ordinary laminated glass’, when none of the layers of glass of which it is composed has been treated; or |  |  |  | | --- | --- | | 2.2.2. | ‘Treated laminated glass’, when at least one of the layers of glass, of which it is composed, has been specially treated to increase its mechanical strength and to condition its fragmentation after shattering; | |
+
+|  |  |
+| --- | --- |
+| 2.3. | ‘Interlayer’ means any material designed to be used to hold together the component layers of laminated-glass. |
+
+|  |  |
+| --- | --- |
+| 2.4. | ‘Safety-glass faced with plastics material’ means glazing as defined in paragraphs 2.1 or 2.2 with a layer of plastics material on its inner face. |
+
+|  |  |
+| --- | --- |
+| 2.5. | ‘Glass-plastics’ means glazing consisting of any glazing material that comprises one layer of glass and one or more layers of plastic in which a plastic surface of the product faces the inner side. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.6. | ‘Plastic glazing’ is a glazing material that contains as an essential ingredient one or more organic polymeric substances of large molecular weight, is solid in its finished state and, at some stage in its manufacture of processing into finished articles, can be shaped by flow.   |  |  | | --- | --- | | 2.6.1. | ‘Rigid plastic glazing’ means a plastic glazing material which does not deflect vertically more than 50 mm in the flexibility test (Annex 3, paragraph 12). |  |  |  | | --- | --- | | 2.6.2. | ‘Flexible plastic glazing’ means a plastic glazing material which deflects vertically more than 50 mm in the flexibility test (Annex 3, paragraph 12). | |
+
+|  |  |
+| --- | --- |
+| 2.7. | ‘Double window’ means an assembly of two panes separately installed within the same opening of the vehicle. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.8. | ‘Multiple-glazed unit’ means an assembly of at least two parallel panes permanently assembled in manufacture and separated by one or more gap(s).   |  |  | | --- | --- | | 2.8.1. | ‘Symmetrical multiple-glazed unit’ means a multiple-glazed unit where all component panes are identical (e.g. all uniform toughened glass). |  |  |  | | --- | --- | | 2.8.2. | ‘Asymmetrical multiple-glazed unit’ means a multiple-glazed unit other than a symmetrical multiple-glazed unit). | |
+
+|  |  |
+| --- | --- |
+| 2.9. | ‘Bullet resistant glazing’ or ‘Bullet-proof glazing’, means glazing constructed so as to be resistant to firearms. |
+
+|  |  |
+| --- | --- |
+| 2.10. | ‘Principal characteristic’ means a characteristic that appreciably modifies the optical and/or mechanical properties of a safety glazing material in a way not without significance to the function which it is intended to perform in a vehicle. The term also covers the trade names or marks as specified by the holder of the approval. |
+
+|  |  |
+| --- | --- |
+| 2.11. | ‘Secondary characteristic’ means a characteristic capable of modifying the optical and/or mechanical properties of a safety glazing material in a way which is of significance to the function which it is intended to perform in a vehicle. The extent of such modification is assessed in relation to the indices of difficulty. |
+
+|  |  |
+| --- | --- |
+| 2.12. | The term ‘indices of difficulty’ covers a two-stage grading system applying to the variations observed in practice in each secondary characteristic. A change from index ‘1’ to index ‘2’ indicates the need for additional tests. |
+
+|  |  |
+| --- | --- |
+| 2.13. | ‘Windscreen’ means the glazing in front of the driver through which the driver views the road ahead. |
+
+|  |  |
+| --- | --- |
+| 2.14. | ‘Developed area of windscreen’ means the minimum rectangular area of glass from which a windscreen can be manufactured. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.15. | ‘Inclination angle of a windscreen’ means the angle included between on the one hand a vertical line and on the other hand a straight line passing through the top and bottom edges of the windscreen, both lines being contained in a vertical plane containing the longitudinal axis of the vehicle;   |  |  | | --- | --- | | 2.15.1. | Measurement of the inclination angle shall be performed on a vehicle standing on level ground, and in the case of a passenger-transport vehicle the vehicle shall be in running order, shall be fully charged with fuel, coolant and lubricant, and shall be equipped with tools and the spare wheel or wheels (if they are provided as standard equipment by the vehicle manufacturer); allowance shall be made for the mass of the driver, and also, in the case of a passenger-transport vehicle, for that of one front-seat passenger, the mass of the driver and that of the passenger each being deemed to be 75 ± 1 kg; |  |  |  | | --- | --- | | 2.15.2. | Vehicles equipped with hydropneumatic, hydraulic or pneumatic suspension or with a device for automatic adjustment of ground clearance according to load shall be tested in the normal running conditions specified by the manufacturer. | |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.16. | ‘Group of windscreens’ means a group comprising windscreens of differing sizes and shapes subjected to an examination of their mechanical properties, their mode of fragmentation and their behaviour in environmental-aggression resistance tests.   |  |  | | --- | --- | | 2.16.1. | ‘Flat windscreen’ means a windscreen exhibiting no normal curvature resulting in a height of segment greater than 10 mm per linear meter; |  |  |  | | --- | --- | | 2.16.2. | ‘Curved windscreen’ means a windscreen exhibiting a normal curvature resulting in a height of segment greater than 10 mm per linear meter. | |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.17. | ‘Pane’ means any single piece of glazing other than a windscreen;   |  |  | | --- | --- | | 2.17.1. | ‘Curved pane’ means a pane with a height of segment ‘h’ greater than 10 mm per linear meter; |  |  |  | | --- | --- | | 2.17.2. | ‘Flat pane’ means a pane with a height of segment equal to or less than 10 mm per linear meter. | |
+
+|  |  |
+| --- | --- |
+| 2.18. | ‘Height of segment “h” ’ means the maximum distance, measured at right angles approximately to the glazing, separating the inner surface of the glazing from a plane passing through the ends of the glazing (see Annex 17, Figure 1). |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.19. | ‘Type of safety glazing material’ means a glazing as defined in paragraphs 2.1 to 2.7 not exhibiting any essential differences, with respect, in particular, to the principal and secondary characteristics defined in Annexes 4 to 12 and 14 to 16;   |  |  | | --- | --- | | 2.19.1. | Although a change in the principal characteristics implies that the product is of a new type, it is recognised that in certain cases a change in shape and dimension does not necessarily require a complete set of tests to be carried out. For certain of the tests prescribed in the individual annexes, glazings may be grouped if it is evident that they have similar principal characteristics; |  |  |  | | --- | --- | | 2.19.2. | Types of glazing exhibiting differences only as regards their secondary characteristics may be deemed to be of the same type. Certain tests may however be carried out on samples of such glazings if the performance of those tests is explicitly stipulated in the test condition; | |
+
+|  |  |
+| --- | --- |
+| 2.20. | ‘Nominal thickness’: means the manufacturer's design thickness with a tolerance of ± (n × 0,2 mm) where n equals the number of glass layers in the glazing. |
+
+|  |  |
+| --- | --- |
+| 2.21. | ‘Curvature “r” ’ means the approximate value of the smallest radius of arc of the windscreen as measured in the most curved area. |
+
+|  |  |
+| --- | --- |
+| 2.22. | ‘HIC (Head Injury Criteria)’ value means a value for the characteristics of skull-brain injury arising from the deceleration forces which result from a blunt perpendicular impact with the glazing. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.23. | ‘Safety glazing material requisite for driver visibility’   |  |  | | --- | --- | | 2.23.1. | ‘Safety glazing material requisite for the driver’s forward field of vision’ means all the glazing situated in front of a plane passing through the driver's R point and perpendicular to the longitudinal median plane of the vehicle through which the driver can view the road when driving or manoeuvring the vehicle. |  |  |  | | --- | --- | | 2.23.2. | ‘Safety glazing material requisite for the driver’s rearward field of vision’ means all glazing situated behind a plane passing through the driver's R point and perpendicular to the longitudinal median plane of the vehicle through which the driver can view the road when driving or manoeuvring the vehicle. | |
+
+|  |  |
+| --- | --- |
+| 2.24. | ‘Opaque obscuration’ means any area of the glazing preventing light transmission, including any screen-printed area, whether solid or dot-printed, but excluding any shade band. |
+
+|  |  |
+| --- | --- |
+| 2.25. | ‘Shade band’ means any area of the glazing with a reduced light transmittance, excluding any opaque obscuration. |
+
+|  |  |
+| --- | --- |
+| 2.26. | ‘Transparent area of the windscreen’ means the glazing area contained within the design glass outline, excluding any allowed opaque obscuration (see Annex 18), but including any shade band. |
+
+|  |  |
+| --- | --- |
+| 2.27. | ‘Design glass outline’ means the design maximum unobstructed vehicle aperture designated to be glazed, before the glazing is installed or mounted, including all trims, but excluding obscuration bands. |
+
+|  |  |
+| --- | --- |
+| 2.28. | ‘Optical distortion’ means an optical defect in a windscreen that changes the appearance of an object viewed through the windscreen. |
+
+|  |  |
+| --- | --- |
+| 2.29. | ‘Secondary image’ means a spurious or ghost image, in addition to the bright primary image, usually seen at night when the object being viewed is very bright in relation to its surroundings, for example, the headlights of an approaching vehicle. |
+
+|  |  |
+| --- | --- |
+| 2.30. | ‘Secondary image separation’ means the angular distance between the position of the primary and secondary images. |
+
+|  |  |
+| --- | --- |
+| 2.31. | ‘Regular light transmittance’ means light transmittance measured perpendicularly to the glazing. |
+
+|  |  |
+| --- | --- |
+| 2.32. | ‘Design seat-back angle’ means the angle between the vertical line through the R point and the torso line defined by the vehicle manufacturer. |
+
+|  |  |
+| --- | --- |
+| 2.33. | ‘Sample’ means a specially prepared piece of glazing representative of a finished product or a piece cut from a finished product. |
+
+|  |  |
+| --- | --- |
+| 2.34. | ‘Test piece’ means a sample or a finished product of glazing. |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.35. | ‘Type of vehicle’, as regards the installation of safety glazing, means vehicles belonging to the same category which do not differ in at least the following essential respects:   |  |  | | --- | --- | | (a) | The manufacturer; |  |  |  | | --- | --- | | (b) | The manufacturer's type designation; |  |  |  | | --- | --- | | (c) | Essential aspects of construction and design. | |
+
+|  |  |
+| --- | --- |
+| 2.36. | ‘Central driving position’ is defined when Y co-ordinate of the R point is in Y0 position within + or – 60 mm. |
+
+3.   APPLICATION FOR APPROVAL
+
+3.1.   Approval for a type of glazing
+
+The application for approval of a type of glazing shall be submitted by the manufacturer or by his duly accredited representative in the country where the application is made.
+
+3.2.   For each type of glazing the application shall be accompanied by the undermentioned documents in triplicate and by the following particulars:
+
+3.2.1.   A technical description comprising all principal and secondary characteristics, and
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.2.1.1. | In the case of glazings other than windscreens, diagrams in a format not exceeding A4 or folded to that format showing:   |  |  | | --- | --- | |  | The maximum area, |  |  |  | | --- | --- | |  | The smallest angle between two adjacent sides of the piece, |  |  |  | | --- | --- | |  | The greatest height of segment, where applicable. | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.2.1.2. | In the case of windscreens,   |  |  | | --- | --- | | 3.2.1.2.1. | A list of the models of windscreens for which approval is sought, specifying the name of the vehicle manufacturer and the type and category of the vehicle. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 3.2.1.2.2. | Drawings on a scale 1:1 for M1 category and 1:1 or 1:10 for all other categories, and diagrams of the windscreen and its positioning in the vehicle in sufficient detail to show:   |  |  | | --- | --- | | 3.2.1.2.2.1. | The position of the windscreen relative to the R point of the driver’s seat, where applicable, |  |  |  | | --- | --- | | 3.2.1.2.2.2. | The inclination angle of the windscreen, |  |  |  | | --- | --- | | 3.2.1.2.2.3. | The inclination angle of the seat-back, |  |  |  | | --- | --- | | 3.2.1.2.2.4. | The position and size of the zones in which the optical qualities are verified and, where appropriate, the area subjected to differential toughening, |  |  |  | | --- | --- | | 3.2.1.2.2.5. | The developed area of the windscreen, |  |  |  | | --- | --- | | 3.2.1.2.2.6. | The maximum height of segment of the windscreen, |  |  |  | | --- | --- | | 3.2.1.2.2.7. | The minimum radius curvature of the windscreen (for windscreen-grouping purposes only). | | |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.2.1.3. | In the case of multiple-glazed units, diagrams in a format not exceeding A4 or folded to that format, showing, in addition to the information referred to in paragraph 3.2.1.1:   |  |  | | --- | --- | |  | The type of each component pane, |  |  |  | | --- | --- | |  | The type of sealing, |  |  |  | | --- | --- | |  | The nominal width of the gap between the two panes. | |
+
+3.3.   In addition, the applicant for approval shall submit a sufficient number of test pieces and samples of the finished pieces of the models considered, the number being if necessary determined by agreement with the technical service responsible for conducting the tests.
+
+3.4.   Approval for a type of vehicle
+
+The application for approval of a vehicle type with regard to the installation of its safety glazing shall be submitted by the vehicle manufacturer or by his duly accredited representative.
+
+3.5.   It shall be accompanied by the under mentioned documents in triplicate and the following particulars:
+
+3.5.1.   Drawings of the vehicle on an appropriate scale showing:
+
+|  |  |
+| --- | --- |
+| 3.5.1.1. | The position of the windscreen relative to the R point of the vehicle, |
+
+|  |  |
+| --- | --- |
+| 3.5.1.2. | The inclination angle of the windscreen, |
+
+|  |  |
+| --- | --- |
+| 3.5.1.3. | The inclination angle of the seat back; |
+
+3.5.2.   Technical details concerning the windscreen and all other glazings, in particular:
+
+|  |  |
+| --- | --- |
+| 3.5.2.1. | The materials used, |
+
+|  |  |
+| --- | --- |
+| 3.5.2.2. | Approval numbers, |
+
+|  |  |
+| --- | --- |
+| 3.5.2.3. | Any additional markings, as described in paragraph 5.5. |
+
+3.6.   A vehicle representative of the vehicle type to be approved shall be submitted to the technical service responsible for conducting the approval tests.
+
+4.   MARKINGS
+
+4.1.   Every piece of safety glazing material, including the samples and test pieces submitted for approval, shall bear a trade name or mark of the manufacturer as listed under item 3 of Annex 1. Manufactured parts shall bear the UN/ECE Regulation No 43 number allocated to the prime manufacturer. The marking shall be clearly legible and indelible.
+
+5.   APPROVAL
+
+5.1.   Approval for a type of glazing
+
+If the samples submitted for approval meet the requirements of paragraphs 6 to 8 of this Regulation, approval of the pertinent type of safety glazing material shall be granted.
+
+5.2.   An approval number shall be assigned to each type as defined in Annexes 5, 7, 11, 12, 14, 15 and 16 or, in the case of windscreens, to each group approved. Its first two digits (at present 01 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type or group of safety glazing material.
+
+5.3.   Notice of approval or extension of approval or refusal of approval of a type of safety glazing material pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation, by means of a form conforming to the model in Annex 1 — and its appendices — to this Regulation.
+
+5.3.1.   In the case of windscreens, the notice of approval shall be accompanied by a document listing every windscreen model in the approved group, together with the characteristics of the group pursuant to Annex 1, Appendix 8.
+
+5.4.   There shall be affixed conspicuously to every piece of glazing and multiple-glazed unit conforming to a type approved under this Regulation, in addition to the marking prescribed in paragraph 4.1, an international approval mark. Any specific approval mark assigned to each pane forming a multiple-glazed unit may also be affixed. This approval mark shall consist of:
+
+5.4.1.   A circle surrounding the letter ‘E’ followed by the distinguishing number of the country which has granted approval [(2)](#ntr2-L_2014042EN.01000101-E0002);
+
+5.4.2.   The number of this Regulation, followed by the letter ‘R’, a dash and the approval number to the right of the circle prescribed in paragraph 5.4.1.
+
+5.5.   The following additional symbols shall be affixed near the above approval mark:
+
+5.5.1.   In the case of a windscreen:
+
+|  |  |
+| --- | --- |
+| I | for toughened glass |
+
+|  |  |
+| --- | --- |
+| II | for ordinary laminated glass |
+
+|  |  |
+| --- | --- |
+| III | for treated laminated glass |
+
+|  |  |
+| --- | --- |
+| IV | for glass-plastics glazing. |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.2. | V | in the case of safety glazing having a regular light transmittance less than 70 percent. |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.3. | VI | in the case of multiple-glazed unit |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.4. | VII | in the case of uniformly-toughened glass glazing which can be used as windscreens for slow-moving vehicles which, by construction, cannot exceed 40 km/h. |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.5.5. | VIII | In the case of rigid plastic glazing. In addition the appropriate application will be signified by:  |  |  | | --- | --- | | A | for forward facing panes |  |  |  | | --- | --- | | B | for side, rear and roof glazings |  |  |  | | --- | --- | | C | in locations where there is little or no chance of head impact | |
+
+In addition, for plastic glazing which has been submitted to the abrasion resistance tests described in Annex 3, paragraph 4, the following markings shall also be applied as appropriate:
+
+|  |  |
+| --- | --- |
+| /L | for glazing with a light scatter not exceeding 2 per cent after 1 000 cycles on the outer surface and 4 per cent after 100 cycles on the inner surface (see Annexes 14 and 16, paragraph 6.1.3.1) |
+
+|  |  |
+| --- | --- |
+| /M | for glazing with a light scatter not exceeding 10 per cent after 500 cycles on the outer surface and 4 per cent after 100 cycles on the inner surface (see Annexes 14 and 16, paragraph 6.1.3.2) |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.6. | IX | in the case of flexible-plastic glazing |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.7. | X | in the case of a rigid plastic multiple-glazed unit. In addition, the appropriate application will be signified by: |
+
+|  |  |
+| --- | --- |
+| /A | for forward facing panes |
+
+|  |  |
+| --- | --- |
+| /B | for side, rear and roof glazings |
+
+|  |  |
+| --- | --- |
+| /C | in locations where there is little or no chance of head impact |
+
+For plastic glazing which has been submitted to the abrasion resistance test described in Annex 3, paragraph 4, the following markings shall also be applied as appropriate:
+
+|  |  |
+| --- | --- |
+| /L | for glazing with a light scatter not exceeding 2 per cent after 1 000 cycles on the outer surface and 4 per cent after 100 cycles on the inner surface (see Annex 16, paragraph 6.1.3.1.) |
+
+|  |  |
+| --- | --- |
+| /M | for glazing with a light scatter not exceeding 10 per cent after 500 cycles on the outer surface and 4 per cent after 100 cycles on the inner surface (see Annex 16, paragraph 6.1.3.2.). |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.8. | XI | in the case of a laminated-glass panes. |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.9. | XII | in the case of glass-plastic panes |
+
+|  |  |  |
+| --- | --- | --- |
+| 5.5.10. | /P | in the case of a safety glazing made of glass, with a layer of plastics material on its inner face |
+
+5.6.   The approval mark and symbol shall be clearly legible and be indelible. Additional symbols shall be combined within the approval marking.
+
+5.7.   Annex 2 to this Regulation gives examples of arrangements of approval marks.
+
+5.8.   Approval for a type of vehicle
+
+If the vehicle submitted for approval pursuant to this Regulation meets the requirements of Annex 21 to this Regulation, approval of that vehicle type shall be granted.
+
+5.9.   An approval number shall be assigned to each type approved. Its first two digits (at present 01 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party shall not assign the same number to another vehicle type as defined in paragraph 2.35 above.
+
+5.10.   Notice of approval or of extension or refusal or withdrawal of approval or production definitely discontinued of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the 1958 Agreement which apply this Regulation by means of a form conforming to the model in Annex 1A to this Regulation.
+
+5.11.   There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation an international approval mark consisting of:
+
+5.11.1.   A circle surrounding the letter ‘E’ followed by the distinguishing number of the country which has granted approval [(3)](#ntr3-L_2014042EN.01000101-E0003);
+
+5.11.2.   The number of this Regulation, followed by the letter R, a dash and the approval number to the right of the circle prescribed in paragraph 5.11.1.
+
+5.12.   If the vehicle conforms to a vehicle type approved, under one or more other Regulations annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 5.11.1 need not be repeated; in such a case the additional numbers and symbols of all the Regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 5.11.1.
+
+5.13.   The approval mark shall be clearly legible and be indelible.
+
+5.14.   The approval mark shall be placed close to or on the vehicle data plate affixed by the manufacturer.
+
+5.15.   Annex 2A to this Regulation gives examples of arrangements of approval marks.
+
+6.   GENERAL REQUIREMENTS
+
+6.1.   All glazing materials, including glazing material for the manufacture of windscreens, shall be such that, in the event of shattering, the danger of bodily injury is reduced as far as possible. The glazing material shall be sufficiently resistant to the incidents likely to occur in normal traffic, and to atmospheric and temperature conditions, chemical action, combustion and abrasion.
+
+6.2.   Safety glazing materials shall in addition be sufficiently transparent, shall not cause any noticeable distortions of objects as seen through the windscreen, and shall not give rise to any confusion between the colours used in road-traffic signs and signals. In the event of the windscreen's shattering, the driver shall still be able to see the road clearly enough to be able to brake and stop his vehicle safely.
+
+7.   PARTICULAR REQUIREMENTS
+
+All types of safety glazing shall, depending on the category to which they belong, comply with the following particular requirements:
+
+|  |  |
+| --- | --- |
+| 7.1. | As regards toughened-glass windscreens, the requirements contained in Annex 4; |
+
+|  |  |
+| --- | --- |
+| 7.2. | As regards uniformly-toughened glass panes, the requirements contained in Annex 5; |
+
+|  |  |
+| --- | --- |
+| 7.3. | As regards ordinary laminated-glass windscreens, the requirements contained in Annex 6; |
+
+|  |  |
+| --- | --- |
+| 7.4. | As regards ordinary laminated-glass panes, the requirements contained in Annex 7; |
+
+|  |  |
+| --- | --- |
+| 7.5. | As regards treated laminated-glass windscreens, the requirements contained in Annex 8; |
+
+|  |  |
+| --- | --- |
+| 7.6. | As regards safety glazing faced with plastics material, in addition to the relevant requirements listed above, the requirements contained in Annex 9; |
+
+|  |  |
+| --- | --- |
+| 7.7. | As regards glass-plastics windscreens, the requirements contained in Annex 10; |
+
+|  |  |
+| --- | --- |
+| 7.8. | As regards glass-plastics panes, the requirements contained in Annex 11; |
+
+|  |  |
+| --- | --- |
+| 7.9. | As regards multiple-glazed units, the requirements contained in Annex 12; |
+
+|  |  |
+| --- | --- |
+| 7.10. | As regards rigid plastic panes, the requirements contained in Annex 14; |
+
+|  |  |
+| --- | --- |
+| 7.11. | As regards flexible plastic panes, the requirements contained in Annex 15; |
+
+|  |  |
+| --- | --- |
+| 7.12. | As regards rigid plastic multiple-glazed units, the requirements contained in Annex 16. |
+
+8.   TESTS
+
+8.1.   The following tests are prescribed in this Regulation:
+
+8.1.1.   Fragmentation test
+
+The purpose of this test is:
+
+|  |  |
+| --- | --- |
+| 8.1.1.1. | To verify that the fragments and splinters produced by fracture of the glass pane are such as to minimise the risk of injury, and |
+
+|  |  |
+| --- | --- |
+| 8.1.1.2. | In the case of windscreens, to check residual visibility after shattering. |
+
+8.1.2.   Mechanical strength test
+
+8.1.2.1.   Ball-impact test
+
+There are two forms of tests, one using a 227 g ball and one using a 2 260 g ball.
+
+|  |  |
+| --- | --- |
+| 8.1.2.1.1. | 227 g ball test: The purpose of this test is to assess the adhesion of the interlayer of laminated glass and the mechanical strength of uniformly-toughened glass and plastic glazings. |
+
+|  |  |
+| --- | --- |
+| 8.1.2.1.2. | 2 260 g ball test: The purpose of this test is to assess ball-penetration resistance of laminated glass. |
+
+8.1.2.2.   Headform test
+
+The purpose of this test is to verify the compliance of glazing with the requirements relating to the limitation of injury in the event of impact of the head against the windscreen, laminated glass and glazing of glass-plastic and rigid plastic other than windscreens, together with the multiple-glazed units used in the side windows.
+
+8.1.3.   Test of resistance to the environment
+
+8.1.3.1.   Test of resistance to abrasion
+
+The purpose of this test is to determine whether the resistance of a safety glazing to abrasion exceeds a specified value.
+
+8.1.3.2.   Test of resistance to high temperature
+
+The purpose of this test is to verify that no bubbles or other defects occur in the interlayer in laminated glass or glass-plastics glazing when exposed to high temperatures over an extended period of time.
+
+8.1.3.3.   Resistance-to-radiation test
+
+The purpose of this test is to determine whether the light transmittance of laminated-glass panes, glass-plastics glazing or glass glazing faced with plastics material when exposed to radiation over an extended period of time is significantly reduced thereby or whether the glazing is significantly discoloured.
+
+8.1.3.4.   Resistance-to-humidity test
+
+The purpose of this test is to determine whether laminated-glass panes, glass-plastic panes, glass glazing faced with plastic material and rigid plastic material will withstand, without significant deterioration, the effects of prolonged exposure to atmospheric humidity.
+
+8.1.3.5.   Resistance-to-temperature-changes test
+
+The purpose of this test is to check that plastics material(s) used in safety glazing above will withstand the effects of prolonged exposure to extremes of temperature without significant deterioration.
+
+8.1.3.6.   Resistance to simulated weathering test
+
+The purpose of this test is to verify that plastic safety glazing is resistant to simulated weathering conditions.
+
+8.1.3.7.   Cross cut test
+
+The purpose of this test is to examine whether any abrasive resistant coating of a rigid plastic glazing has sufficient adherence.
+
+8.1.4.   Optical qualities
+
+8.1.4.1.   Light-transmission test
+
+The purpose of this test is to determine whether the regular transmittance of safety glazing exceeds a specified value.
+
+8.1.4.2.   Optical-distortion test
+
+The purpose of this test is to verify that the distortion of objects as seen through the windscreen is not of such extent as to be likely to confuse the driver.
+
+8.1.4.3.   Secondary-image-separation test
+
+The purpose of this test is to verify that the angular separation of the secondary image from the primary image does not exceed a specified value.
+
+8.1.5.   Burning-behaviour (fire-resistance) test
+
+The purpose of this test is to verify that a safety glazing material has a sufficiently low burn rate.
+
+8.1.6.   Test of resistance to chemicals
+
+The purpose of this test is to determine whether the safety glazing material will withstand the effects of exposure to chemicals likely to be normally present or used within the vehicle (e.g. cleaning compounds) without significant deterioration.
+
+8.1.7.   Flexibility and fold test
+
+The purpose of this test is to determine whether a plastic glazing material falls within the rigid or flexible category.
+
+8.2.   Tests prescribed
+
+8.2.1.   Safety glazing materials shall be subjected to the tests listed in the following tables: 8.2.1.1 and 8.2.1.2.
+
+8.2.1.1.   Safety glazing shall be subjected to the tests listed in the following table:
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tests | Windscreen | | | | | | | Glasspanes | | |
+| Toughened glass | | Ordinary laminated glass | | Treated laminated glass | | Glass-plastics | Toughened glass | Laminated glass | Glass-plastics |
+| I | I-P | II | II-P | III | III-P | IV |  |  |  |
+| Fragmentation: | A4/2 | A4/2 | — | — | A8/4 | A8/4 | — | A5/2 | — | — |
+| Mechanical strength |  |  |  |  |  |  |  |  |  |  |
+| |  |  | | --- | --- | | — | 227 g ball | | — | — | A6/4.3 | A6/4.3 | A6/4.3 | A6/4.3 | A6/4.3 | A5/3.1 | A7/3 | A11/3 |
+| |  |  | | --- | --- | | — | 2 260  g ball | | — | — | A6/4.2 | A6/4.2 | A6/4.2 | A6/4.2 | A6/4.2 | — | — | — |
+| Headform test[(4)](#ntr4-L_2014042EN.01000101-E0004) | A4/3 | A4/3 | A6/3 | A6/3 | A6/3 | A6/3 | A10/3 | — | — | — |
+| Abrasion |  |  |  |  |  |  |  |  |  |  |
+| Outer face | — | — | A6/5.1 | A6/5.1 | A6/5.1 | A6/5.1 | A6/5.1 | — | A6/5.1 | A6/5.1 |
+| Inner face | — | A9/2 | — | A9/2 | — | A9/2 | A9/2 | A9/2[(5)](#ntr5-L_2014042EN.01000101-E0005) | A9/2[(5)](#ntr5-L_2014042EN.01000101-E0005) | A9/2 |
+| High temperature | — | — | A3/5 | A3/5 | A3/5 | A3/5 | A3/5 | — | A3/5 | A3/5 |
+| Radiation | — | A3/6 | A3/6 | A3/6 | A3/6 | A3/6 | A3/6 | — | A3/6 | A3/6 |
+| Humidity | — | A3/7 | A3/7 | A3/7 | A3/7 | A3/7 | A3/7 | A3/7[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/7 | A3/7 |
+| Light transmission | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 | A3/9.1 |
+| Optical distortion | A3/9.2 | A3/9.2 | A3/9.2 | A3/9.2 | A3/9.2 | A3/9.2 | A3/9.2 | A3/9.2[(6)](#ntr6-L_2014042EN.01000101-E0006) | — | — |
+| Secondary image | A3/9.3 | A3/9.3 | A3/9.3 | A3/9.3 | A3/9.3 | A3/9.3 | A3/9.3 | A3/9.3[(6)](#ntr6-L_2014042EN.01000101-E0006) | — | — |
+| Resistance to temperature changes | — | A3/8 | — | A3/8 | — | A3/8 | A3/8 | A3/8[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/8[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/8 |
+| Fire resistance | — | A3/10 | — | A3/10 | — | A3/10 | A3/10 | A3/10[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/10[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/10 |
+| Resistance to chemicals | — | A3/11.2.1 | — | A3/11.2.1 | — | A3/11.2.1 | A3/11.2.1 | A3/11.2.1[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/11.2.1[(5)](#ntr5-L_2014042EN.01000101-E0005) | A3/11.2.1 |
+| |  |  | | --- | --- | | Note: | A reference such as A4/3 in the table indicates the Annex 4 and paragraph 3 of that annex, where the relevant test is described and the acceptance requirements are specified. | | | | | | | | | | | |
+
+8.2.1.2.   Plastic glazing materials shall be subjected to the tests listed in the following table:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Plastics other than windscreens | | | | |
+|  | Rigid plastics | | Multiple glazing | |  |
+| Test | Motorised vehicles | Trailers and unoccupied vehicles | Motorised vehicles | Trailers and unoccupied vehicles | Flexible plastics |
+| Flexibility | A3/12 | A3/12 | A3/12 | A3/12 | A3/12 |
+| 227 g ball | A14/5 | A14/5 | A16/5 | A16/5 | A15/4 |
+| Headform[(7)](#ntr7-L_2014042EN.01000101-E0007) | A14/4 | — | A16/4 | — | — |
+| Light transmission[(8)](#ntr8-L_2014042EN.01000101-E0008) | A3/9.1 | — | A3/9.1 | — | A3/9.1 |
+| Fire resistance | A3/10 | A3/10 | A3/10 | A3/10 | A3/10 |
+| Chemical resistance | A3/11 | A3/11 | A3/11 | A3/11 | A3/11.2.1 |
+| Abrasion | A14/6.1 | — | A16/6.1 | — | — |
+| Weathering | A3/6.4 | A3/6.4 | A3/6.4 | A3/6.4 | A3/6.4 |
+| Humidity | A14/6.4 | A14/6.4 | A16/6.4 | A16/6.4 | — |
+| Cross-cut[(8)](#ntr8-L_2014042EN.01000101-E0008) | A3/13 | — | A3/13 | — | — |
+
+8.2.2.   A safety glazing material shall be approved if it meets all the requirements prescribed in the relevant provisions referred to in the paragraphs 8.2.1.1 and 8.2.1.2.
+
+9.   MODIFICATION OR EXTENSION OF APPROVAL OF A TYPE OF SAFETY GLAZING MATERIAL
+
+9.1.   Every modification of a type of safety glazing material, or in the case of windscreens every addition of a windscreen to a group, shall be notified to the Type Approval Authority which approved the type of safety glazing material. The department may then either:
+
+|  |  |
+| --- | --- |
+| 9.1.1. | Consider that the modifications made are unlikely to have an appreciable adverse effect and, in the case of windscreens, that the new type comes within the approved group of windscreens, and that in any case the safety glazing material still complies with the requirements; or |
+
+|  |  |
+| --- | --- |
+| 9.1.2. | Require a further test report from the technical service responsible for conducting the tests. |
+
+9.2.   Communication
+
+9.2.1.   Confirmation or refusal of approval (or extension of approval) shall be communicated by the procedure specified in paragraph 5.3 above to the Parties to the Agreement applying this Regulation.
+
+9.2.2.   The competent authority which has granted an extension of approval shall enter a serial number on each communication of extension.
+
+10.   CONFORMITY OF PRODUCTION
+
+10.1.   The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2), with the following requirements:
+
+10.2.   Special provisions
+
+The checks referred to in paragraph 2.2 of Appendix 2 of the Agreement shall include compliance with the requirements of Annex 20 to this Regulation.
+
+10.3.   The normal frequency of inspection as referred to in paragraph 2.4 of Appendix 2 of the Agreement shall be one per year.
+
+11.   PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+
+11.1.   The approval granted in respect of a type of safety glazing material pursuant to this Regulation may be withdrawn if the requirement laid down in paragraph 10.1 above is not complied with.
+
+11.2.   If a Party to the Agreement which applies this Regulation withdraws an approval it had previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation thereof by means of a copy of a communication form conforming to the model in Annex 1 to this Regulation.
+
+12.   TRANSITIONAL PROVISIONS
+
+12.1.   As from the official date of entry into force of Supplement 12 to this Regulation, no Contracting Party applying this Regulation shall refuse to grant approval under this Regulation as amended by Supplement 12 to the Regulation in its original form.
+
+12.2.   As from 24 months after the date of entry into force, Contracting Parties applying this Regulation shall grant approvals only if the type of component or separate unit to be approved meets the requirements of Supplement 12 to the Regulation.
+
+12.3.   As from 24 months after the date of entry into force of Supplement 12, the Contracting Parties applying this Regulation may refuse to recognise the approval of safety glazing not bearing the symbols prescribed in paragraph 5.5 of this Regulation.
+
+12.4.   As from the official date of entry into force of the 01 series of amendments, no Contracting Party applying this Regulation shall refuse to grant approval under this Regulation as amended by the 01 series of amendments.
+
+12.5.   As from 24 months after the date of entry into force, Contracting Parties applying this Regulation shall grant approvals only if the type of safety glazing material to be approved meets the requirements of this Regulation as amended by the 01 series of amendments.
+
+12.6.   Even after the entry into force of the 01 series of amendments to this Regulation, approvals of safety glazing materials to the 00 series of amendments to this Regulation shall remain valid and Contracting Parties applying this Regulation shall continue to accept them, and Contracting Parties shall not refuse to grant extensions of approvals to the 00 series of amendments to this Regulation.
+
+12.7.   Even after the date of entry into force of the 01 series of amendments, approvals of a vehicle type to the 00 series of amendments to this Regulation shall remain valid and Contracting Parties applying the Regulation shall continue to accept them, and Contracting Parties shall not refuse to grant extensions of approvals to the 00 series of amendments to this Regulation.
+
+13.   PRODUCTION DEFINITIVELY DISCONTINUED
+
+If the holder of the approval completely ceases to manufacture a type of safety glazing material approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the Agreement which apply this Regulation by means of a copy of a communication form conforming to the model in Annex 1 to this Regulation.
+
+14.   NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS, AND OF TYPE APPROVAL AUTHORITIES
+
+The Parties to the Agreement which apply this Regulation shall communicate to the United Nations Secretariat the names and addresses of the technical services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent.
+
+The Technical Services responsible for conducting approval tests shall comply with the harmonised standards concerning the operation of testing laboratories (ISO/CEI Guide 25). In addition they should be designated by the Type Approval Authority for which they carry out the approval tests.
+
+---
+
+[(1)](#ntc1-L_2014042EN.01000101-E0001)  As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.2, para. 2
+
+[(2)](#ntc2-L_2014042EN.01000101-E0002)  The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev.2/Amend.1.
+
+[(3)](#ntc3-L_2014042EN.01000101-E0003)  See footnote 2.
+
+[(4)](#ntc4-L_2014042EN.01000101-E0004)  Furthermore this test shall be carried out on multiple-glazed units pursuant to Annex 12, paragraph 3 (A12/3).
+
+[(5)](#ntc5-L_2014042EN.01000101-E0005)  If coated on the inner side with plastics material.
+
+[(6)](#ntc6-L_2014042EN.01000101-E0006)  This test shall only be carried out on uniformly-toughened glass-panes to be used as windscreens of slow-moving vehicles which, by construction, cannot exceed 40 km/h.
+
+[(7)](#ntc7-L_2014042EN.01000101-E0007)  Test requirements are dependent on the location of the glazing within the vehicle.
+
+[(8)](#ntc8-L_2014042EN.01000101-E0008)  Applies only if the glazing is to be used in a location requisite for driving visibility.
+
+---
+
+ANNEX 1
+
+COMMUNICATION
+
+(Maximum format: A4 (210 x 297 mm))
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+issued by:
+
+Name of administration
+
+Concerning (2):
+
+APPROVAL GRANTED
+
+APPROVAL EXTENDED
+
+APPROVAL REFUSED
+
+APPROVAL WITHDRAWN
+
+PRODUCTION DEFINITIVELY DISCONTINUED
+
+of a type of safety glazing material pursuant to Regulation No 43
+
+Approval No …
+
+Extension No …
+
+1. Class of safety glazing material: …
+
+2. Description of the type of glazing: please refer to appendices 1, 2, 3, 4, 5, 6, 7, 8, and 9 (2), and in the case of windscreens, the list conforming to Appendix 10.
+
+3. Trade names or marks …
+
+4. Manufacturer's name and address …
+
+5. If applicable, name and address of manufacturer’s representative …
+
+6. Submitted for approval on: …
+
+7. Technical Service responsible for conducting approval tests: …
+
+8. Date of report issued by that Service: …
+
+9. Number of report issued by that Service: …
+
+10. Approval is granted/refused/extended/withdrawn (2)
+
+11. Reason(s) for extension of approval: …
+
+12. Remarks: …
+
+13. Place …
+
+14. Date …
+
+15. Signature …
+
+16. The list of documents filed with the Type Approval Authority which has granted approval and available on request is annexed to this communication.
+
+(1) Distinguishing number of the country which has granted/extended/refused/withdrawn approval (see approval provisions in the Regulation).
+
+(2) Strike out what does not apply.
+
+Appendix 1
+
+Toughened-glass windscreens
+
+(Principal and secondary characteristics as defined in Annex 4 or Annex 9 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics:
+
+Shape category: …
+
+Thickness category: …
+
+Nominal thickness of the windscreen: …
+
+Nature and type of plastics coating(s): …
+
+Nominal thickness of plastics coating(s): …
+
+Secondary characteristics:
+
+Nature of the material (plate, float, sheet glass): …
+
+Colouring of glass: …
+
+Colouring of plastics coating(s): …
+
+Conductors incorporated (yes/no): …
+
+Opaque obscuration incorporated (yes/no): …
+
+Remarks: …
+
+Documents attached: list of windscreens (see Appendix 10)
+
+Appendix 2
+
+Uniformly-toughened glass panes
+
+(Principal and secondary characteristics as defined in Annex 5 or Annex 9 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics
+
+Other than windscreens (yes/no): …
+
+Windscreen(s) for slow moving vehicles: …
+
+Shape category: …
+
+Nature of toughening process: …
+
+Thickness category: …
+
+Nature and type of plastics coating(s): …
+
+Nominal thickness of plastic coating(s): …
+
+Secondary characteristics
+
+Nature of the material (plate, float, sheet glass): …
+
+Colouring of glass: …
+
+Colouring of plastics coating(s): …
+
+Conductors incorporated (yes/no): …
+
+Opaque obscuration incorporated (yes/no): …
+
+Approved criteria
+
+Greatest area (flat glass): …
+
+Smallest angle: …
+
+Greatest developed area (curved glass): …
+
+Greatest height of segment: …
+
+Remarks …
+
+Documents attached: list of windscreens (if applicable) (see Appendix 10)
+
+Appendix 3
+
+Laminated-glass windscreens
+
+(Principal and secondary characteristics as defined in Annexes 6, 8 or 9 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics:
+
+Number of layers of glass: …
+
+Number of layers of interlayer: …
+
+Nominal thickness of the windscreen: …
+
+Nominal thickness of interlayer(s): …
+
+Special treatment of glass: …
+
+Nature and type of interlayer(s): …
+
+Nature and type of plastics coating(s): …
+
+Nominal thickness of plastic coating(s): …
+
+Colouring of interlayer (total/partial): …
+
+Secondary characteristics:
+
+Nature of the material (plate, float, sheet glass): …
+
+Colouring of glass (colourless/tinted): …
+
+Colouring of plastics coating(s): …
+
+Conductors incorporated (yes/no): …
+
+Opaque obscuration incorporated (yes/no): …
+
+Remarks: …
+
+Documents attached: list of windscreens (see Appendix 10)
+
+Appendix 4
+
+Laminated-glass panes
+
+(Principal and secondary characteristics as defined in Annex 7 or Annex 9 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics:
+
+Number of layers of glass: …
+
+Number of layers of interlayer: …
+
+Thickness category: …
+
+Nominal thickness of interlayer(s): …
+
+Special treatment of glass: …
+
+Nature and type of interlayer(s): …
+
+Nature and type of plastics coating(s): …
+
+Nominal thickness of plastics coating(s): …
+
+Secondary characteristics:
+
+Nature of the material (plate, float, sheet glass): …
+
+Colouring of interlayer (total/partial): …
+
+Colouring of glass: …
+
+Colouring of plastics coating(s): …
+
+Conductors incorporated (yes/no): …
+
+Opaque obscuration incorporated (yes/no): …
+
+Remarks: …
+
+Appendix 5
+
+Glass-plastics windscreens
+
+(Principal and secondary characteristics as defined in Annex 10 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics
+
+Shape category: …
+
+Number of layers of plastics: …
+
+Normal thickness of glass: …
+
+Treatment of the glass (yes/no): …
+
+Nominal thickness of the windscreen: …
+
+Nominal thickness of the layer(s) of plastics acting as interlayer: …
+
+Nature and type of layer(s) of plastics acting as interlayer: …
+
+Nature and type of the outer layer of plastics: …
+
+Secondary characteristics
+
+Nature of the material (plate, float, sheet glass): …
+
+Colouring of glass: …
+
+Colouring of the layer(s) of plastics (total/partial): …
+
+Conductors incorporated (yes/no): …
+
+Opaque obscuration incorporated (yes/no): …
+
+Remarks …
+
+Documents attached: list of windscreens (see Appendix 10)
+
+Appendix 6
+
+Glass-plastics panes
+
+(Principal and secondary characteristics as defined in Annex 11 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics
+
+Number of layers of plastics: …
+
+Thickness of the glass component: …
+
+Treatment of the glass component (yes/no): …
+
+Nominal thickness of the pane: …
+
+Nominal thickness of the layer(s) of plastics acting as interlayer: …
+
+Nature and type of layer(s) of plastics acting as interlayer: …
+
+Nature and type of the outer layer of plastics: …
+
+Secondary characteristics
+
+Nature of the material (plate, float, sheet glass): …
+
+Colouring of glass (colourless/tinted): …
+
+Colouring of the layer(s) of plastics (total/partial): …
+
+Conductors incorporated (yes/no): …
+
+Opaque obscuration incorporated (yes/no): …
+
+Remarks …
+
+Appendix 7
+
+Multiple glazed units
+
+(Principal and secondary characteristics as defined in Annex 12 or Annex 16 to Regulation No 43)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics
+
+Composition of multiple-glazed units (symmetrical/asymmetrical): …
+
+Nominal thickness of the gap(s): …
+
+Method of assembly: …
+
+Type of each glazing component as defined in Annexes 5, 7, 9, 11 or 14: …
+
+Documents attached
+
+One form for all panes of a symmetrical multiple–glazed unit in accordance with the annex under which the panes have been tested or approved.
+
+One form for each different pane of an asymmetrical multiple–glazed unit in accordance with the annexes under which these panes have been tested or approved.
+
+Remarks …
+
+Appendix 8
+
+Rigid plastic panes
+
+(Principal and secondary characteristics in accordance with Annex 14)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics:
+
+Chemical designation of the material: …
+
+The classification of the material by the manufacturer: …
+
+Process of manufacture: …
+
+Shape and dimensions: …
+
+Nominal thickness: …
+
+Colouring of the rigid plastic material: …
+
+Nature and type of surface coating: …
+
+Secondary characteristics:
+
+Conductors incorporated (yes/no): …
+
+Remarks: …
+
+Appendix 9
+
+Flexible plastic panes
+
+(Principal and secondary characteristics in accordance with Annex 15)
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Approval No …
+
+Extension No …
+
+Principal characteristics
+
+Chemical designation of the material:…
+
+Process of manufacture: …
+
+Nominal thickness: …
+
+Colouring of the plastic product: …
+
+Nature and type of surface coating: …
+
+Secondary characteristics
+
+No secondary characteristic is involved.
+
+Remarks …
+
+Appendix 10
+
+Contents of the list of windscreens
+ [(1)](#ntr1-L_2014042EN.01002701-E0001)
+
+For each of the windscreens covered by this approval, at least the following particulars shall be provided:
+
+|  |  |
+| --- | --- |
+|  | Vehicle manufacturer |
+
+|  |  |
+| --- | --- |
+|  | Type of vehicle |
+
+|  |  |
+| --- | --- |
+|  | Vehicle category |
+
+|  |  |
+| --- | --- |
+|  | Developed area (F) |
+
+|  |  |
+| --- | --- |
+|  | Height of segment (h) |
+
+|  |  |
+| --- | --- |
+|  | Curvature (r) |
+
+|  |  |
+| --- | --- |
+|  | Installation angle (α) |
+
+|  |  |
+| --- | --- |
+|  | Seat-back angle (β) |
+
+|  |  |
+| --- | --- |
+|  | R-point coordinates (A, B, C) relative to the centre of the upper edge of the windscreen. |
+
+*[Figure omitted — see the official source]*
+
+---
+
+[(1)](#ntc1-L_2014042EN.01002701-E0001)  These particulars shall be attached to appendices 1, 2 (if applicable), 3 and 5 to this annex.
+
+---
+
+ANNEX 1A
+
+COMMUNICATION
+
+(Maximum format: A4 (210 × 297 mm))
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+issued by:
+
+Name of administration
+
+Concerning (2):
+
+APPROVAL GRANTED
+
+APPROVAL EXTENDED
+
+APPROVAL REFUSED
+
+APPROVAL WITHDRAWN
+
+PRODUCTION DEFINITELY DISCONTINUED
+
+of a vehicle type with regard to its safety glazing pursuant to Regulation No 43
+
+Approval No …
+
+Extension No …
+
+1. Make (name of manufacturer) of vehicle: …
+
+2. Type, where appropriate, and trade description of vehicle: …
+
+3. Name and address of manufacturer: …
+
+4. Name and address of manufacturer's representative where applicable: …
+
+5. Description of the type of glazing used:
+
+5.1. In the case of windscreens: …
+
+5.2. Side windows:
+
+5.2.1. In the case of front side windows: …
+
+5.2.2. In the case of rear side windows: …
+
+5.3. In the case of rear windows: …
+
+5.4. In the case of opening roofs: …
+
+5.5. In the case of glazing other than the above:
+
+6. ECE component type approval mark for a windscreen: …
+
+7. ECE component type approval mark(s) for:
+
+7.1. Front side windows: …
+
+7.2. Rear side windows: …
+
+7.3. Rear windows: …
+
+7.4. Opening roofs: …
+
+7.5. Other glazing: …
+
+8. The fitting requirements have/have not (2) been met.
+
+9. Vehicle submitted for approval on: …
+
+10. Technical service responsible for conducting approval tests: …
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+11. Date of report issued by that service: …
+
+12. Number of report issued by that service: …
+
+13. Approval is granted/refused/extended/withdrawn (2)
+
+14. Reason(s) for extension of approval: …
+
+15. Remarks: …
+
+16. Place …
+
+17. Date …
+
+18. Signature …
+
+19. The list of documents deposited with the Type Approval Authority which has granted approval is annexed to the communication and may be obtained upon request.
+
+(1) Distinguishing number of the country which has granted/extended/refused/withdrawn approval see approval provisions in the Regulation).
+
+(2) Strike out what does not apply.
+
+---
+
+ANNEX 2
+
+ARRANGEMENTS OF APPROVAL MARKS FOR COMPONENTS
+
+(See paragraph 5.5 of this Regulation)
+
+Toughened-glass windscreens
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a toughened-glass windscreen shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Toughened-glass windscreens faced with plastics material
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a toughened-glass windscreen faced with plastics material shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Ordinary laminated-glass windscreens
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to an ordinary laminated-glass windscreen shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Ordinary laminated-glass windscreens faced with plastics material
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to an ordinary laminated-glass windscreen faced with plastics material shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Treated laminated-glass windscreens
+
+*[Figure omitted — see the official source]*
+
+The above approval mark affixed to a treated laminated-glass windscreen shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Glass-plastics windscreens
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a glass-plastics windscreen shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Glass panes having a regular light transmittance < 70 per cent
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a glass pane to which the requirements of Annex 3, paragraph 9.1.4, are applicable shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Multiple-glazed units having a regular light transmittance < 70 per cent
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a multiple-glazed unit shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Uniformly-toughened glass to be used as windscreen for slow-moving vehicles which by construction cannot exceed 40 km/h
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a uniformly-toughened glass shows that the component concerned intended to be used as a windscreen on a slow-moving vehicle which, by construction, cannot exceed 40 km/h, has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Uniformly toughened glass panes having a regular light transmittance ≥ 70 per cent
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a glass pane to which the requirements of Annex 3, paragraph 9.1.4, are applicable shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Rigid plastic panes
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a rigid plastic pane for forward facing panels with a light scatter not exceeding 2 per cent after 1 000 cycles on the outer surface and 4 per cent after 100 cycles on the inner surface shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Flexible plastic panes
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a flexible plastic pane shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Rigid plastic multiple-glazed units
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a rigid plastic multiple-glazed unit shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Laminated glass panes
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a laminated glass pane, shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+Glass-plastic panes
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to glass-plastic pane, shows that the component concerned has been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+---
+
+ANNEX 2A
+
+ARRANGEMENTS OF APPROVAL MARKS FOR VEHICLES
+
+MODEL A
+
+(See paragraph 5.11 of this Regulation)
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has, with regard to installation of glazing, been approved in the Netherlands (E4) pursuant to Regulation No 43 under approval No 012439. The approval number indicates that the approval was granted in accordance with the requirements of Regulation No 43, as amended by the 01 series of amendments.
+
+MODEL B
+
+(See paragraph 5.12 of this Regulation)
+
+*[Figure omitted — see the official source]*
+
+|  |  |  |
+| --- | --- | --- |
+| a | = | 8 mm minimum |
+
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has been approved in the Netherlands (E4) pursuant to Regulations Nos 43 and 52. The approval numbers indicate that, at the date when the respective approvals were given, Regulation No 43 included the 01 series of amendments and Regulation No 52 included the 01 series of amendments.
+
+---
+
+ANNEX 3
+
+GENERAL TEST CONDITIONS
+
+1.   FRAGMENTATION TEST
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.1. | The glass pane to be tested shall not be rigidly secured; it may however be fastened on an identical glass pane by means of adhesive tape applied all round the edge. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.2. | To obtain fragmentation, a hammer of about 75 g or some other appliance giving equivalent results shall be used. The radius of curvature of the point shall be 0,2 ± 0,05 mm. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.3. | One test shall be carried out at each prescribed point of impact. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.4. | The examination of the fragments shall be made using any method validated on its accuracy of the counting itself and on its ability to find the correct location where the minimum and the maximum counting shall be done. Permanent recording of the fragmentation pattern shall start within 10 seconds and shall end within 3 minutes after the impact. The technical service shall keep the permanent recordings of the fragmentation pattern. |
+
+2.   BALL-IMPACT TESTS
+
+2.1.   227 g ball test
+
+2.1.1.   Apparatus
+
+2.1.1.1.   Hardened-steel ball with a mass of 227 g ± 2 g and a diameter of approximately 38 mm.
+
+2.1.1.2.   Means for dropping the ball freely from a height to be specified, or a means for giving the ball a velocity equivalent to that obtained by the free fall. When a device to project the ball is used, the tolerance on velocity shall be ± 1 per cent of the velocity equivalent to that obtained by the free fall.
+
+2.1.1.3.   Supporting fixture, such as that shown in Figure 1, composed of steel frames, with machined borders 15 mm wide, fitting one over the other and faced with rubber gaskets about 3 mm thick and 15 mm wide and of hardness 50 IRHD.
+
+The lower frame rests on a steel box about 150 mm high. The test piece is held in place by the upper frame, the mass of which is about 3 kg. The supporting frame is welded onto a sheet of steel of about 12 mm thick resting on the floor with an interposed sheet of rubber about 3 mm thick and of hardness 50 IRHD.
+
+Figure 1
+
+Support for ball tests
+
+*[Figure omitted — see the official source]*
+
+2.1.2.   Test conditions
+
+Temperature: 20 °C ± 5 °C
+
+Pressure: 860 to 1 060 mbar
+
+Relative humidity: 60 ± 20 per cent
+
+2.1.3.   Test piece
+
+The test piece shall be a flat square of side 300 + 10/–0 mm or shall be cut from the flattest part of a windscreen or other curved pane.
+
+Alternatively a curved pane may be tested. In this case care shall be taken to ensure adequate contact between the safety glazing and the support.
+
+2.1.4.   Procedure
+
+Condition the test piece at the specified temperature for at least four hours immediately preceding the test.
+
+Place the test piece in the fixture (paragraph 2.1.1.3). The plane of the test piece shall be perpendicular, within 3°, to the incident direction of the ball.
+
+In the case of flexible plastic glazing the test piece shall be clamped to the support.
+
+The point of impact shall be within 25 mm of the geometric centre of the test piece for a drop height less than or equal to 6 m, and within 50 mm of the centre of the test piece for a drop height greater than 6 m. The ball shall strike that face of the test piece which represents the outside face of the safety glazing pane when mounted on the vehicle. The ball shall be allowed to make only one impact.
+
+2.2.   2 260 g ball test
+
+2.2.1.   Apparatus
+
+2.2.1.1.   Hardened-steel ball with a mass of 2 260 g ± 20 g and a diameter of approximately 82 mm.
+
+2.2.1.2.   Means for dropping the ball freely from height to be specified, or means for giving the ball a velocity equivalent to that obtained by the free fall. When a device to project the ball is used, the tolerance on velocity shall be ± 1 per cent of the velocity equivalent to that obtained by the free fall.
+
+2.2.1.3.   The supporting fixture shall be as shown in Figure 1 and identical with that described in paragraph 2.1.1.3.
+
+2.2.2.   Test conditions
+
+Temperature: 20 °C ± 5 °C
+
+Pressure: 860 to 1 060 mbar
+
+Relative humidity: 60 ± 20 per cent.
+
+2.2.3.   Test piece
+
+The test piece shall be a flat square of side 300 + 10/–0 mm or shall be cut out from the flattest part of a windscreen or other curved pane of safety glazing.
+
+Alternatively, the whole windscreen or other curved pane of safety glazing may be tested. In this case care shall be taken to ensure adequate contact between the safety glazing pane and the support.
+
+2.2.4.   Procedure
+
+Condition the test piece at the specified temperature for at least four hours immediately preceding the test.
+
+Place the test piece in the fixture (paragraph 2.1.1.3). The plane of the test piece shall be perpendicular, within 3°, to the incident direction of the ball.
+
+In the case of glass-plastics glazing the test piece shall be clamped to the support.
+
+The point of impact shall be within 25 mm of the geometric centre of the test piece.
+
+The ball shall strike that face of the test piece which represents the inward face of the safety-glass pane when the latter is mounted on the vehicle.
+
+The ball shall be allowed to make only one impact.
+
+3.   HEADFORM TEST
+
+3.1.   Headform test without deceleration measurement
+
+3.1.1.   Apparatus
+
+Headform weight with a spherical or semi-spherical headform made of laminated hardwood covered with replaceable felt and with or without a cross-beam made of wood. There is a neck-shaped intermediate piece between the spherical part and the cross-beam and a mounting rod on the other side of the cross-beam.
+
+The dimensions shall be in accordance with Figure 2. The total mass of the apparatus shall be 10 kg ± 0,2 kg.
+
+Figure 2
+
+Headform weight
+
+*[Figure omitted — see the official source]*
+
+3.1.2.   Means for dropping the headform weight freely from a height to be specified, or means for giving the weight a velocity equivalent to that obtained by the free fall. When a device to project the headform weight is used, the tolerance on velocity shall be ± 1 per cent of the velocity equivalent to that obtained by the free fall.
+
+3.1.3.   Supporting fixture, as shown in Figure 3, for testing flat test pieces. The fixture is composed of two steel frames, with machined borders 50 mm wide, fitting one over the other and faced with rubber gaskets about 3 mm thick and 15 mm ± 1 mm wide and of hardness 70 IRHD. The upper frame is held pressed against the lower frame by at least eight bolts.
+
+3.1.4.   Test conditions
+
+Temperature: 20 °C ± 5 °C
+
+Pressure: 860 to 1 060 mbar
+
+Relative humidity: 60 ± 20 per cent.
+
+3.1.5.   Procedure
+
+3.1.5.1.   Test on a flat test piece
+
+The flat test piece, having a length of 1 100 + 5/–2 mm and a width of 500 + 5/–2 mm, shall be kept at a constant temperature of 20 °C ± 5 °C for at least four hours immediately preceding the test.
+
+Figure 3
+
+Support for headform tests
+
+*[Figure omitted — see the official source]*
+
+Fix the test piece in the supporting frames (paragraph 3.1.3); the torque on the bolts shall ensure that the movement of the test piece during the test will not exceed 2 mm. The plane of the test piece shall be substantially perpendicular to the incident direction of the weight. The weight shall strike the test piece within 40 mm of its geometric centre on that face which represents the inward face of the safety glazing when the latter is mounted on the vehicle, and shall be allowed to make only one impact.
+
+The impact surface of the felt cover shall be replaced after 12 tests.
+
+3.1.5.2.   Tests on a complete windscreen (used only for a drop height of less than or equal to 1,5 m)
+
+Place the windscreen freely on a support with an interposed strip of rubber of hardness 70 IRHD and thickness about 3 mm, the width of contact over the whole perimeter being about 15 mm.
+
+The support shall consist of a rigid piece corresponding to the shape of the windscreen so that the headform weight strikes the internal surface. If necessary the windscreen shall be clamped to the support.
+
+The support shall rest on a rigid stand with an interposed sheet of rubber of hardness 70 IRHD and thickness about 3 mm. The surface of the windscreen shall be substantially perpendicular to the incident direction of the headform weight.
+
+The headform weight shall strike the windscreen at a point within 40 mm of its geometric centre on that face which represents the inward face of the safety glazing when the latter is mounted on the vehicle, and shall be allowed to make only one impact.
+
+The impact surface of the felt cover shall be replaced after 12 tests.
+
+3.2.   Headform test with deceleration measurement
+
+3.2.1   Apparatus
+
+In the case of headform tests with simultaneous determination of HIC-values the drop body is the phantom head as in Figure 2.1. The total mass of the phantom head should be 10,0 + 0,2/ – 0,0 kg.
+
+In the middle of the base plate (24) the triaxial mounting block (26) is mounted in the centre of gravity to receive the acceleration gauges (27). The acceleration gauges should be arranged vertically to each other.
+
+The basin (18) and cover (19) situated under the base plate (24) share, to a great extent, the elastic properties of the human skull. The elastic properties of the phantom head on impact are determined by the hardness and the thickness of the intermediate ring (13) and the basin.
+
+Figure 2.1
+
+10 kg Headform
+
+*[Figure omitted — see the official source]*
+
+List of pieces for the 10 kg headform concerning Figure 2.1
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Position No | Number of pieces | Standard notation | Material | Remarks |
+| 1 | 1 | Magnetic holding device | Steel DIN 17100 | — |
+| 2 | 1 | Vibration damper | Rubber/steel | Diameter: 50 mm  Thickness: 30 mm  Thread: M10 |
+| 3 | 4 | HF connector BNC | — | — |
+| 4 | 1 | Hexagonal nut DIN 985 | — | — |
+| 5 | 6 | Disc DIN 125 | — | — |
+| 6 | 3 | Transition piece | — | — |
+| 7 | 6 | Cylinder screw DIN 912 | — | — |
+| 8 | 3 | Hexagonal nut | — | — |
+| 9 | 3 | Disc | Steel DIN 17100 | Hole Diameter: 8 mm  Outer Diameter: 35 mm  Thickness: 1,5 mm |
+| 10 | 3 | Rubber ring | Rubber, hardness 60 IRHD | Hole Diameter: 8 mm  Outer Diameter: 30 mm  Thickness: 10 mm |
+| 11 | 1 | Damping ring | Packing with paper | Hole Diameter: 120 mm  Outer Diameter: 199 mm  Thickness: 0,5 mm |
+| 12 | — | — | — | — |
+| 13 | 1 | Intermediate ring | Butadien-rubber, hardness IRHD about 80 | Hole Diameter: 129 mm  Outer Diameter: 192 mm  Thickness: 4 mm |
+| 14 | 3 | Guide tube | Polytetra-fluorethen (PTFE) | Inner Diameter: 8 mm  Outer Diameter: 10 mm  Length: 40 mm |
+| 15 | 3 | Hexagonal nut | — | — |
+| 16 | 3 | Threaded bolt DIN 976 | — | — |
+| 17 | 3 | Screwed insert | Cast alloy  DIN 1709-GD-  CuZn 37Pb | — |
+| 18 | 1 | Basin | Polyamid 12 | — |
+| 19 | 1 | Cover | Butadien-rubber | Thickness: 6 mm  Rib on one side |
+| 20 | 1 | Guide bush | Steel DIN 17100 | — |
+| 21 | 4 | Counter sunk screw | — | — |
+| 22 | 1 | Damping disc | Packing with paper | Diameter: 65 mm  Thickness: 0,5 mm |
+| 23 | — | — | — | — |
+| 24 | 1 | Base plate | Steel DIN 17100 | — |
+| 25 | 1 | Set screw with hexagonal socket | Class of strength 45H | — |
+| 26 | 1 | Triaxial mounting block | — | — |
+| 27 | 3 | Acceleration gauge | — | — |
+| 28 | 1 | Wood component | Hornbeam, glued in layers | — |
+| 29 | 1 | Cover plate | Alloy (AlMg5) | — |
+| 30 | 1 | Protective cap | Polyamid 12 | — |
+
+3.2.2.   Adjustment and calibration
+
+To perform the headform test the phantom head is fixed to the cross arm of the guide system (Figure 2.2) and moved to the required drop height by means of a lifting device. During the headform test the cross arm with the phantom head is released. After passing the height adjustable light barrier the phantom head is released from the cross arm, the cross arm's fall is dampened and the phantom head falls onto the sample.
+
+No impulse may be given to the phantom head by the drop appliance or by the measuring cable, so that it is accelerated only by gravity and falls vertically.
+
+Figure 2.2
+
+Test apparatus for the headform experiment with deceleration measurement
+
+*[Figure omitted — see the official source]*
+
+3.2.2.1.   Measuring device which allows determining HIC-values with the headform described under paragraph 3.2.1.
+
+3.2.2.2.   Equipment to calibrate the phantom head
+
+The drop appliance shall allow drop heights between 50 mm and 254 mm to be adjusted exactly to within 1 mm. A guide system is not necessary for these small drop heights.
+
+A steel impact plate which is made of steel is 600 mm × 600 mm in size and at least 50 mm thick. The impact surface shall be polished:
+
+surface roughness Rmax = 1 μm, flatness tolerance t = 0,05 mm.
+
+3.2.2.3.   Calibration and adjustment of the phantom head
+
+Before each test series and no later than each 50 tests within a series, the phantom head shall be calibrated and adjusted if necessary.
+
+The impact plate shall be clean and dry and during the test shall lie non-positively on a concrete base.
+
+The phantom head is allowed to hit the impact plate vertically. The drop heights (measured from the lowest point of the phantom head to the surface of the impact plate) are 50, 100, 150 and 254 mm. The deceleration curves should be recorded.
+
+The greatest deceleration az from the various drop heights on the z-axis shall lie within the limits given in the table:
+
+|  |  |
+| --- | --- |
+| Drop height mm | Greatest deceleration az as a multiple of acceleration due to gravity g |
+| 50 | 64 ± 5 |
+| 100 | 107 ± 5 |
+| 150 | 150 ± 7 |
+| 254 | 222 ± 12 |
+
+The deceleration curves should be based on a unimodal vibration. The deceleration curve of the drop height of 254 mm shall run at least 1,2 ms and at most 1,5 ms over 100 g.
+
+If the requirements given in paragraph 3.2.2.3 are not met, the elastic properties of the phantom head shall be adjusted by varying the thickness of the intermediate ring (13) in the base plate (24). Corrections can be carried out by adjusting the three self-locking hexagonal nuts (8) on the threaded bolts (16) with which the basin (18) is fixed to the base plate (24). The rubber rings (10) under the hexagon nuts (8) should not be brittle or cracked.
+
+The cover (19) of the impact surface and the intermediate ring (13) should always be replaced immediately if damaged, especially when the phantom head can no longer be adjusted.
+
+3.2.3.   Supporting fixture for testing flat test pieces is as described in paragraph 3.1.3.
+
+3.2.4.   Test conditions are specified in paragraph 3.1.4.
+
+3.2.5.   Tests on complete glazing (used for a drop height between 1,5 m and 3 m). Place the glazing freely on a support with an interposed strip of rubber of hardness 70 IRHD and thickness of about 3 mm.
+
+The glazing shall be clamped to the supporting structure by means of appropriate devices. The surface of the glazing shall be substantially perpendicular to the incident direction of the headform weight. The headform weight shall strike the glazing at a point within 40 mm of its geometric centre on that face which represents the inward face of the plastic glazing when the latter is mounted on the vehicle, and shall be allowed to make only one impact.
+
+Starting from a selected initial drop height, the drop heights should be raised by 0,5 m respectively in each further experiment. The deceleration curves occurring on impact on the sample for ax, ay and az should be recorded according to time t.
+
+After the headform test, it should be checked whether a glazing edge has moved more than 2 mm in the mount and whether the requirement for the point of impact was met. The acceleration components ax and ay should be smaller for vertical impact than 0,1 az.
+
+3.2.6.   Evaluation
+
+The deceleration curves should be evaluated as follows:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | The resulting deceleration ares(t) in the centre of gravity according to equation (1) from the measured deceleration curves ax(t), ay(t) and az(t) is to be compounded as multiples of the acceleration due to gravity.   |  |  | | --- | --- | | (1) | Formula | |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | The time for which a deceleration of 80 g with ares is continually exceeded and the greatest deceleration of ares should be determined. The HIC-value should be calculated as a measurement of the danger of blunt skull-brain-injuries using the following equation (2):   |  |  | | --- | --- | | (2) | Formula | |
+
+|  |  |
+| --- | --- |
+|  | The integral limits t1 and t2 should be selected in such a way that the integral takes a maximal value. |
+
+4.   TEST OF RESISTANCE TO ABRASION
+
+4.1.   Apparatus
+
+4.1.1.   Abrading instrument [(1)](#ntr1-L_2014042EN.01003601-E0001) shown diagrammatically in Figure 4 and consisting of: A horizontal turntable, with centre clamp, which revolves counter-clockwise at 65 to 75 rev/min.;
+
+Figure 4
+
+Diagram of abrading instrument
+
+*[Figure omitted — see the official source]*
+
+Two weighted parallel arms each carrying a special abrasive wheel freely rotating on a ball-bearing horizontal spindle; each wheel rests on the test specimen under the pressure exerted by a mass of 500 g.
+
+The turntable of the abrading instrument shall rotate regularly, substantially in one plane (the deviation from this plane shall not be greater than ± 0,05 mm at a distance of 1,6 mm from the turntable periphery).
+
+The wheels shall be mounted in such a way that when they are in contact with the rotating test piece they rotate in opposite directions so as to exert, twice during each rotation of the test piece, a compressive and abrasive action along curved lines over an annular area of about 30 cm2.
+
+4.1.2.   Abrasive wheels [(2)](#ntr2-L_2014042EN.01003601-E0002), each 45 to 50 mm in diameter and 12,5 mm thick, composed of a special finely-screened abrasive embedded in a medium-hard rubber. The wheels shall have a hardness of 72 ± 5 IRHD, as measured at four points equally spaced on the centreline of the abrading surface, the pressure being applied vertically along a diameter of the wheel and the readings being taken 10 seconds after full application of the pressure.
+
+The abrasive wheels shall be prepared for use by very slow rotation against a sheet of flat glass to ensure that their surface is completely even.
+
+4.1.3.   Light source consisting of an incandescent lamp with its filament contained within a parallelepiped measuring 1,5 mm × 1,5 mm × 3 mm. The voltage at the lamp filament shall be such that the colour temperature is 2 856 ± 50 K. This voltage shall be stabilised within ± 1/1 000. The instrument used to check the voltage shall be of appropriate accuracy.
+
+4.1.4.   Optical system consisting of a lens with a focal length f of at least 500 mm and corrected for chromatic aberrations. The full aperture of the lens shall not exceed f/20. The distance between the lens and the light source shall be adjusted in order to obtain a light beam which is substantially parallel. A diaphragm shall be inserted to limit the diameter of the light beam to 7 mm ± 1 mm. This diaphragm shall be situated at a distance of 100 mm ± 50 mm from the lens on the side remote from the light source.
+
+4.1.5.   Equipment for measuring scattered light (see Figure 5), consisting of a photoelectric cell with an integrating sphere 200 to 250 mm in diameter. The sphere shall be equipped with entrance and exit ports for the light. The entrance port shall be circular and have a diameter at least twice that of the light beam. The exit port of the sphere shall be provided with either a light trap or a reflectance standard, according to the procedure described in paragraph 4.4.3 below. The light trap shall absorb all the light when no test piece is inserted in the light beam.
+
+The axis of the light beam shall pass through the centre of the entrance and exit ports. The diameter b of the light-exit port shall be equal to 2 a.tan 4°, where a. is the diameter of the sphere. The photoelectric cell shall be mounted in such a way that it cannot be reached by light coming directly from the entrance port or from the reflectance standard.
+
+The surfaces of the interior of the integrating sphere and the reflectance standard shall be of substantially equal reflectance and shall be matt and non-selective.
+
+The output of the photoelectric cell shall be linear within ± 2 per cent over the range of luminous intensities used. The design of the instrument shall be such that there is no galvanometer deflection when the sphere is dark.
+
+The whole apparatus shall be checked at regular intervals by means of calibration standards of defined haze.
+
+If haze measurements are made using equipment or methods differing from those defined above, the results shall be corrected, if necessary, to bring them into agreement with those obtained by the apparatus described above.
+
+Figure 5
+
+Hazemeter
+
+*[Figure omitted — see the official source]*
+
+4.2.   Test conditions
+
+Temperature: 20 °C ± 5 °C
+
+Pressure: 860 to 1 060 mbar
+
+Relative humidity: 60 ± 20 per cent.
+
+4.3.   Test pieces
+
+The test pieces shall be flat squares of side 100 mm having both surfaces substantially plane and parallel and having a fixing hole 6,4 mm + 2/ – 0 in diameter drilled in the centre, if necessary.
+
+4.4.   Procedure
+
+The abrasion test shall be carried out on that surface of the test piece which represents the outside face of the glazing when the latter is mounted on the vehicle and also on the inner face if of plastics material.
+
+4.4.1.   Immediately before and after the abrasion, clean the test pieces in the following manner:
+
+|  |  |
+| --- | --- |
+| (a) | Wipe with a linen cloth under clear running water, |
+
+|  |  |
+| --- | --- |
+| (b) | Rinse with distilled or demineralised water, |
+
+|  |  |
+| --- | --- |
+| (c) | Blow dry with oxygen or nitrogen, |
+
+|  |  |
+| --- | --- |
+| (d) | Remove possible traces of water by dabbing softly with a damp linen cloth. If necessary, dry by pressing lightly between two linen cloths. |
+
+Any treatment with ultrasonic equipment shall be avoided. After cleaning, the test pieces shall be handled only by their edges and shall be stored to prevent damage to, or contamination of, their surfaces.
+
+4.4.2.   Condition the test pieces for a minimum time of 48 hours at 20 °C ± 5 °C and 60 ± 20 per cent relative humidity.
+
+4.4.3.   Immediately place the test piece against the entrance port of the integrating sphere. The angle between the normal (perpendicular) to the surface of the test piece and the axis of the light beam shall not exceed 8°.
+
+Take four readings as indicated in the following table:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Reading | With test piece | With light-trap | With reflectance standard | Quantity represented |
+| T1 | No | No | Yes | Incident light |
+| T2 | Yes | No | Yes | Total light transmitted by test-piece |
+| T3 | No | Yes | No | Light scattered by instrument |
+| T4 | Yes | Yes | No | Light scattered by instrument and test piece |
+
+Repeat readings for T1, T2, T3, and T4 with other specified positions of the test piece to determine uniformity.
+
+Calculate the total transmittance 
+*[Figure omitted — see the official source]*
+.
+
+Calculate the diffuse transmittance Td as follows:
+
+*[Figure omitted — see the official source]*
+
+Calculate the percentage haze, or light, or both, scattered, as follows:
+
+*[Figure omitted — see the official source]*
+
+Measure the initial haze of the test piece at a minimum of four equally-spaced points in the unabraded area in accordance with the formula above. Average the results for each test piece. In lieu of the four measurements, an average value may be obtained by rotating the piece uniformly at 3 rev/sec or more.
+
+For each type of safety glazing, carry out three tests with the same load. Use the haze as a measure of the subsurface abrasion, after the test piece has been subjected to the abrasion test.
+
+Measure the light scattered by the abraded track at a minimum of four equally-spaced points along the track in accordance with the formula above. Average the results for each test piece. In lieu of the four measurements, an average value may be obtained by rotating the piece uniformly at 3 rev/sec or more.
+
+4.5.   The abrasion test will be carried out only at the discretion of the laboratory conducting the test with due regard to the information already at its disposal.
+
+Except for glass-plastics materials, changes in the interlayer or materials thickness will not normally necessitate further testing.
+
+4.6.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristics are involved.
+
+5.   TEST OF RESISTANCE TO HIGH TEMPERATURE
+
+5.1.   Procedure
+
+Heat to 100 °C three samples or three square test pieces of at least 300 mm × 300 mm which have been cut by the laboratory from three windscreens or three glass panes as the case may be, one edge of which corresponds to the upper edge of the glazing. Maintain this temperature for a period of two hours, then allow the samples or test pieces to cool to room temperature. If the safety glazing has both external surfaces of inorganic material, the test may be carried out by immersing the sample vertically in boiling water for the specified period of time, care being taken to avoid undue thermal shock. If samples are cut from windscreens, one edge of each such sample shall be part of an edge of the windscreen.
+
+5.2.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of the interlayer | 1 | 2 |
+
+The other secondary characteristics are not involved.
+
+5.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.3.1. | The test for resistance to high temperature shall be considered to give a positive result if bubbles or other defects are not formed more than 15 mm from an uncut edge or 25 mm from a cut edge of the test piece or sample or more than 10 mm away of any cracks which may occur during the test. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.3.2. | A set of test pieces or samples submitted for approval shall be considered satisfactory from the point of view of the test for resistance to high temperature if all the tests have given a satisfactory result. |
+
+6.   RESISTANCE-TO-RADIATION TEST
+
+6.1   Test method
+
+6.1.1.   Apparatus
+
+6.1.1.1.   Radiation source consisting of a medium-pressure mercury-vapour arc lamp with a tubular quartz bulb of ozone-free type; the bulb axis shall be vertical. The nominal dimensions of the lamp shall be 360 mm in length by 9,5 mm in diameter. The arc length shall be 300 mm ± 4 mm. The lamp shall be operated at 750 W ± 50 W.
+
+Any other source of radiation which produces the same effect as the lamp specified above may be used. To check that the effects of another source are the same, a comparison shall be made by measuring the amount of energy emitted within a wavelength range of 300 to 450 nanometers, all other wavelengths being removed by the use of suitable filters. The alternative source shall then be used with these filters.
+
+In the case of safety glazing for which there is no satisfactory correlation between this test and the conditions of use it will be necessary to review the test conditions.
+
+6.1.1.2.   Power-supply transformer and capacitor capable of supplying to the lamp (paragraph 6.1.1.1) a starting peak voltage of 1 100 V minimum and an operating voltage of 500 V ± 50 V.
+
+6.1.1.3.   Device for mounting and rotating the test pieces at 1 to 5 rev/min about the centrally-located radiation source in order to ensure even exposure.
+
+6.1.2.   Test pieces
+
+6.1.2.1.   The size of the test pieces shall be 76 mm × 300 mm.
+
+6.1.2.2.   The test pieces shall be cut by the laboratory from the upper part of the glazing in such a way that:
+
+In the case of glass panes, the upper edge of the test piece coincides with the upper edge of the glass pane.
+
+In the case of windscreens, the upper edge of the test piece coincides with the upper limit of the zone in which regular transmittance shall be measured, determined in accordance with paragraph 9.1.2.2 of this annex.
+
+6.1.3.   Procedure
+
+Check the regular light transmittance, determined according to paragraphs 9.1.1 to 9.1.2 of this annex, of three test pieces before exposure. Protect a portion of each test piece from the radiation, and then place the test pieces in the test apparatus 230 mm from and parallel lengthwise to the lamp axis. Maintain the temperature of the test pieces at 45 °C ± 5 °C throughout the test.
+
+That face of each test piece which would constitute a glazed exterior part of the vehicle shall face the lamp. For the type of lamp specified in paragraph 6.1.1.1 the exposure time shall be 100 hours. After exposure, measure the regular light transmittance again in the exposed area of each test piece.
+
+6.1.4.   Each test piece or sample (total number 3 pieces) shall be subjected, in accordance with the procedure above, to radiation such that the radiation on each point of the test piece or sample produces on the interlayer used the same effect as that which would be produced by solar radiation of 1 400 W/m2 for 100 hours.
+
+6.2.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of glass | 2 | 1 |
+| Colouring of interlayer | 1 | 2 |
+
+The other secondary characteristics are not involved.
+
+6.3.   Interpretation of results
+
+6.3.1.   The test for resistance to radiation shall be deemed to have given a positive result if the following conditions are fulfilled:
+
+6.3.1.1.   The total light transmittance when measured pursuant to paragraphs 9.1.1 and 9.1.2 of this annex does not fall below 95 per cent of the original value before irradiation and in any event does not fall:
+
+6.3.1.1.1.   Below 70 per cent in the case of windscreens and other glazing located in a position requisite for driving visibility.
+
+6.3.2.   A set of test pieces or samples submitted for approval shall be considered satisfactory from the point of view of the resistance to radiation test if all the tests have given a satisfactory result.
+
+6.4.   Resistance to simulated weathering
+
+6.4.1.   Test method
+
+6.4.1.1.   Apparatus
+
+6.4.1.1.1.   Long arc xenon lamp
+
+The exposure apparatus [(3)](#ntr3-L_2014042EN.01003601-E0003) shall utilise a long arc xenon lamp as the source of irradiation, but other methods giving the required level of ultraviolet radiant exposure shall be allowed. The long arc xenon lamp is advantageous in that it can, when correctly filtered and maintained, yield a spectrum most closely approximating that of natural sunlight. To this end, the quartz xenon burner tube shall be fitted with suitable borosilicate glass optical filter(s) [(4)](#ntr4-L_2014042EN.01003601-E0004). The xenon lamps employed shall be operated, from a suitable 50 or 60 Hz power supply suitable reactance transformers and electrical equipment.
+
+The exposure apparatus shall include equipment necessary for measuring and/or controlling the following:
+
+|  |  |
+| --- | --- |
+| (a) | Irradiance |
+
+|  |  |
+| --- | --- |
+| (b) | Black standard temperature |
+
+|  |  |
+| --- | --- |
+| (c) | Water spray |
+
+|  |  |
+| --- | --- |
+| (d) | Operating schedule or cycle |
+
+The exposure apparatus shall be made from inert materials which do not contaminate the water employed in the test.
+
+Irradiance shall be measured at the surface of the test piece surface and shall be controlled according to the recommendations of the exposure apparatus manufacturer.
+
+Total ultraviolet [(5)](#ntr5-L_2014042EN.01003601-E0005) radiant exposure (Joules per square metre) shall be measured or computed and shall be considered the primary measure of test piece exposure.
+
+6.4.1.2.   Test pieces
+
+The dimensions of the test pieces shall normally be those specified in the appropriate test method for the property or properties to be measured after exposure.
+
+The number of control and test pieces for each test condition or exposure stage shall be determined, in addition to those required for visual evaluations by the number required by the test methods.
+
+It is recommended that visual evaluations be conducted on the largest test pieces tested.
+
+6.4.1.3.   Procedure
+
+Measure, according to paragraph 9.1 of this annex the luminous transmission of the test specimen(s) to be exposed. Measure, according to paragraph 4 of this annex, the resistance to abrasion of the surface(s) of the control piece(s). That face of each test pieces, which would represent the surface glazed to the exterior of the road vehicle, shall face the lamp. Other exposure conditions shall be as follows:
+
+6.4.1.3.1.   The irradiance shall not vary more than ± 10 per cent over the whole test specimen area.
+
+6.4.1.3.2.   At appropriate intervals, clean lamp filters by washing with detergent and water. Xenon arc filters shall be replaced according to the recommendations of the equipment manufacturer.
+
+6.4.1.3.3.   The temperature within the exposure apparatus during the dry portion of the cycle shall be controlled by circulation of sufficient air to maintain a constant black standard temperature.
+
+In the xenon arc exposure apparatus, this temperature shall be 70 °C ± 3 °C as indicated by a Black standard thermometer or equivalent.
+
+The black panel thermometer shall be mounted in the test specimen rack and readings shall be taken at the point where maximum heat is developed due to light exposure.
+
+6.4.1.3.4.   The relative humidity within the exposure apparatus shall be controlled at 50 ± 5 per cent during the dry portions of the cycle.
+
+6.4.1.3.5.   The deionized water used in the spray cycle shall contain less than 1 ppm silicon dioxide solids and shall leave no permanent deposit or residue on the test specimens which would interfere with subsequent measurements.
+
+6.4.1.3.6.   The pH of the water shall be between 6,0 and 8,0, and the conductivity shall be less than 5 microsiemens.
+
+6.4.1.3.7.   The temperature of the water in the line where it enters the exposure apparatus shall be the ambient water temperature.
+
+6.4.1.3.8.   The water shall strike the test specimens in the form of a fine spray in sufficient volume to wet the test specimens uniformly, immediately upon impact.
+
+Water spray will be directed only against the test specimen surface facing the light source. No recirculation of the spray water or immersion of the test specimens in the water shall be permitted.
+
+6.4.1.3.9.   The test specimens shall be rotated about the arc in order to provide uniform distribution of the light. All positions in the exposure apparatus shall be filled with test specimens or surrogates to ensure that a uniform temperature distribution is maintained. Test specimens shall be held in frames with backs exposed to the cabinet environment. However, reflections from cabinet walls shall not be permitted to strike the back surface of specimens. If necessary, samples may be backed to block such reflections so long as free circulation of air at the specimen surface is not impeded.
+
+6.4.1.3.10.   The exposure apparatus shall be operated to provide continuous light and intermittent water spray in 2 h cycles. Each 2 h cycle shall be divided into periods during which the test specimens are exposed to light without water spray for 102 minutes and to light with water spray for 18 minutes.
+
+6.4.1.4.   Evaluation
+
+After exposure, the test pieces may be cleaned, if necessary, by a practice recommended by their manufacturer to remove any residues present.
+
+Evaluate the exposed test pieces visually with respect to the following properties:
+
+|  |  |
+| --- | --- |
+| (a) | Bubbles |
+
+|  |  |
+| --- | --- |
+| (b) | Colour |
+
+|  |  |
+| --- | --- |
+| (c) | Haze |
+
+|  |  |
+| --- | --- |
+| (d) | Noticeable decomposition |
+
+Measure the luminous transmission of the exposed test pieces.
+
+6.4.1.5.   Expression of results
+
+Report visual evaluations of exposed test pieces, comparing the appearance of each with that of the unexposed control.
+
+The regular light transmittance measured shall not differ from the original test on unexposed samples by more than 5 per cent and shall not fall below:
+
+70 per cent in the case of a windscreen and other glazing that is located in a position requisite for driving visibility.
+
+7.   RESISTANCE-TO-HUMIDITY TEST
+
+7.1.   Procedure
+
+Keep three samples or three square test pieces of at least 300 mm × 300 mm in a vertical position for two weeks in a closed container in which the temperature is maintained at 50 °C ± 2 °C and the relative humidity at 95 ± 4 per cent. In the case of rigid plastic glazings and rigid plastic multiple-glazed units, the number of samples shall be ten.
+
+The test pieces shall be prepared in such a way that:
+
+|  |  |
+| --- | --- |
+| (a) | At least one edge of the test pieces coincides with an original edge of the glass pane, |
+
+|  |  |
+| --- | --- |
+| (b) | If several test pieces are tested at the same time, adequate spacing shall be provided between them. |
+
+Precautions shall be taken to prevent condensate from the walls or ceiling of the test chamber from falling on the test pieces.
+
+7.2.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of interlayer | 1 | 2 |
+
+The other secondary characteristics are not involved.
+
+7.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 7.3.1. | Safety glazing shall be deemed to be satisfactory from the point of view of resistance to humidity if no significant change is observed more than 10 mm from the uncut edges and more than 15 mm from the cut edges after ordinary and treated laminated glass glazing have been maintained for two hours in the ambient atmosphere, and plastics-faced and glass-plastics glazing have been maintained for 48 hours in the ambient atmosphere. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 7.3.2. | A set of test pieces or samples submitted for approval shall be considered satisfactory from the point of view of the test for resistance to humidity if all the tests have given a satisfactory result. |
+
+8.   TEST OF RESISTANCE TO TEMPERATURE CHANGES
+
+8.1.   Test method
+
+Two test pieces 300 mm × 300 mm shall be placed in an enclosure at a temperature of – 40 °C ± 5 °C for a period of 6 hours; they shall then be placed in the open air at a temperature of 23 °C ± 2 °C for one hour or until temperature equilibrium has been reached by the test pieces. These shall then be placed in circulating air at a temperature of 72 °C ± 2 °C for 3 hours. After being placed again in the open air at 23 °C ± 2 °C and cooled to that temperature, the test pieces shall be examined.
+
+8.2.   Indices of difficulty of secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of the interlayer or of the plastics coating | 1 | 2 |
+
+The other secondary characteristics are not involved.
+
+8.3   Interpretation of results
+
+The test for resistance to temperature changes shall be considered to have given a satisfactory result if the test pieces do not show any evidence of cracking, clouding, separation of layers or other apparent deterioration.
+
+9.   OPTICAL QUALITIES
+
+9.1.   Light transmission test
+
+9.1.1.   Apparatus
+
+9.1.1.1.   Light source consisting of an incandescent lamp with its filament contained within a parallelepiped measuring 1,5 mm × 1,5 mm × 3 mm. The voltage at the lamp filament shall be such that the colour temperature is 2 856 K ± 50 K. This voltage shall be stabilised within ± 1/1 000. The instrument used to check the voltage shall be of appropriate accuracy.
+
+9.1.1.2.   Optical system consisting of a lens with a focal length f of at least 500 mm and corrected for chromatic aberrations. The full aperture of the lens shall not exceed f/20. The distance between the lens and the light source shall be adjusted in order to obtain a light beam which is substantially parallel. A diaphragm shall be inserted to limit the diameter of the light beam to 7 mm ± 1 mm. This diaphragm shall be situated at a distance of 100 mm ± 50 mm from the lens on the side remote from the light source. The point of measurement shall be taken at the centre of the light beam.
+
+9.1.1.3.   Measuring equipment
+
+The receiver shall have a relative spectral sensitivity in substantial agreement with the relative spectral luminous efficiency for the ICI [(6)](#ntr6-L_2014042EN.01003601-E0006) standard photometric observer for photopic vision. The sensitive surface of the receiver shall be covered with a diffusing medium and shall have at least twice the cross-section of the light beam emitted by the optical system. If an integrating sphere is used, the aperture of the sphere shall have a cross-sectional area at least twice that of the parallel portion of the beam.
+
+The linearity of the receiver and the associated indicating instrument shall be better than 2 per cent of the effective part of the scale.
+
+The receiver shall be centred on the axis of the light beam.
+
+9.1.2.   Procedure
+
+The sensitivity of the measuring system shall be adjusted in such a way that the instrument indicating the response of the receiver indicates 100 divisions when the test piece is not inserted in the light path. When no light is falling on the receiver, the instrument shall read zero.
+
+Place the test piece at a distance from the receiver equal to approximately five times the diameter of the receiver. Insert the safety-glass pane between the diaphragm and the receiver and adjust its orientation in such a way that the angle of incidence of the light beam is equal to 0 ± 5°. The regular transmittance shall be measured on the test piece, and for every point measured the number of divisions, n, shown on the indicating instrument, shall be read. The regular transmittance τr is equal to n/100.
+
+9.1.2.1.   In the case of windscreens, alternative test methods may be applied using either a test piece cut from the flattest part of a windscreen or a specifically-prepared flat square with material and thickness characteristics identical to those of the actual windscreen, the measurements being taken normal (perpendicular) to the glass pane.
+
+9.1.2.2.   For the windscreens of M1 vehicles [(7)](#ntr7-L_2014042EN.01003601-E0007) the test shall be carried out in test area B defined in Annex 18, paragraph 2.3, excluding any opaque obscuration impinging on it.
+
+For the windscreens of N1 vehicles, the manufacturer may request that the same test may be carried out either in test area B defined in Annex 18, paragraph 2.3, excluding any opaque obscuration impinging on it, or in the zone I defined in paragraph 9.2.5.2.3 of this annex.
+
+For windscreens of other categories of vehicles, the test shall be carried out in the zone I defined in paragraph 9.2.5.2.3 of this annex.
+
+However, for agricultural and forestry tractors and for construction-site vehicles for which it is not possible to determine zone I, the test shall be carried out in zone I' as defined in paragraph 9.2.5.3 of this annex.
+
+9.1.3.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of the glass | 1 | 2 |
+| Colouring of the interlayer  (in the case of laminated windscreens) | 1 | 2 |
+|  | Not included | Included |
+| Shade and/or opaque obscuration | 1 | 2 |
+
+The other secondary characteristics are not involved.
+
+9.1.4.   Interpretation of results
+
+The regular light transmittance shall be measured according to paragraph 9.1.2 of this annex and the result shall be recorded. In the case of a windscreen, it shall not be less than 70 per cent. In the case of glazing other than a windscreen, the requirements are specified in Annex 21.
+
+9.2.   Optical distortion test
+
+9.2.1.   Scope
+
+The method specified is a projection method which permits evaluation of the optical distortion of a safety glazing.
+
+9.2.1.1.   Definitions
+
+9.2.1.1.1.   
+‘Optical deviation’ means the angle between the true and the apparent direction of a point viewed through the windscreen, the magnitude of the angle being a function of the angle of incidence of the line of sight, the thickness and inclination of the windscreen, and the radius of curvature ‘r’ at the point of incidence.
+
+9.2.1.1.2.   Optical distortion in a direction M-M': The algebraic difference in angular deviation Δa measured between two points M and M' on the surface of the glass pane, the distance between the two points being such that their projections in a plane at right angles to the direction of vision are separated by a given distance Δα (see Figure 6).
+
+Anti-clockwise deviation should be regarded as positive and clockwise deviation as negative.
+
+9.2.1.1.3.   Optical distortion at a point M: The optical-distortion maximum for all directions M-M' from the point M.
+
+Figure 6
+
+Diagrammatic representation of optical distortion
+
+Notes:
+
+*[Figure omitted — see the official source]*
+
+Notes:
+
+9.2.1.2.   Apparatus
+
+This method entails the projection of an appropriate slide (raster) onto the display screen through the safety glazing being tested. The change caused in the shape of the projected image by the insertion of the safety glazing in the line of light provides a measure of the distortion.
+
+The apparatus shall comprise the following items, arranged as shown in Figure 9.
+
+9.2.1.2.1.   Projector, of good quality, with a high-intensity point light source, having for example the following characteristics:
+
+|  |  |
+| --- | --- |
+|  | focal length at least 90 mm, |
+
+|  |  |
+| --- | --- |
+|  | aperture approximately 1/2,5, |
+
+|  |  |
+| --- | --- |
+|  | 150-W quartz halogen lamp (if used without a filter), |
+
+|  |  |
+| --- | --- |
+|  | 250-W quartz halogen lamp (if a green filter is used). |
+
+The projector is shown schematically in Figure 7. A diaphragm of 8 mm in diameter is positioned approximately 10 mm from the front lens.
+
+Figure 7
+
+Optical arrangement of the projector
+
+*[Figure omitted — see the official source]*
+
+9.2.1.2.2.   Slides (rasters) consisting, for example, of an array of bright circular shapes on a dark background (see Figure 8). The slides shall be of sufficiently high quality and contrast to enable measurement to be carried out with an error of less than 5 per cent.
+
+In the absence of the safety glazing to be examined, the dimensions of the circular shapes shall be such that when the circular shapes are projected they form an array of circles of diameter
+
+*[Figure omitted — see the official source]*
+, where Δx = 4 mm (see Figures 6 and 9).
+
+Figure 8
+
+Enlarged section of the slide
+
+*[Figure omitted — see the official source]*
+
+Figure 9
+
+Arrangement of the apparatus for the optical distortion test
+
+*[Figure omitted — see the official source]*
+
+1 2
+
+9.2.1.2.3.   Support stand, preferably one permitting vertical and horizontal scanning, as well as rotation of the safety glazing.
+
+9.2.1.2.4.   Checking template for measuring changes in dimensions where a rapid assessment is required. A suitable design is shown in Figure 10.
+
+Figure 10
+
+Design for a suitable checking template
+
+*[Figure omitted — see the official source]*
+
+9.2.1.3.   Procedure
+
+9.2.1.3.1.   General
+
+Mount the windscreen on the support stand (paragraph 9.2.1.2.3) at the designed rake angle. Project the test image through the area being examined. Rotate the windscreen or move it either horizontally or vertically in order to examine the whole of the specified area.
+
+9.2.1.3.2.   Assessment using a checking template
+
+When a rapid assessment with a possible margin of error of up to 20 per cent is sufficient, calculate the value of A (see Figure 10) from the limit value ΔαL for the change in deviation and the value of R2, the distance from the safety glazing to the display screen:
+
+*[Figure omitted — see the official source]*
+
+The relationship between the change in diameter of the projected image Δd and the change in angular deviation Δα is given by
+
+*[Figure omitted — see the official source]*
+
+where:
+
+|  |  |
+| --- | --- |
+| Δd | is in millimetres, |
+| A | is in millimetres, |
+| ΔαL | is in minutes of arc, |
+| Δα | is in minutes of arc, |
+| R2 | is in metres. |
+
+9.2.1.3.3.   Measurement using a photoelectric device
+
+Where a precise measurement with a possible margin of error of less than 10 per cent of the limit value is required, measure Δd on the projection axis, the value of the spot width being taken at the point where the luminance is 0,5 times the maximum spot-luminance value.
+
+9.2.1.4.   Expression of results
+
+Evaluate the optical distortion of the windscreen by measuring Δd at any point of the surface and in all directions in order to find Δd max.
+
+9.2.1.5.   Alternative method
+
+In addition, a strioscopic technique is permitted as an alternative to the projection techniques, provided that the accuracy of the measurements given in paragraphs 9.2.1.3.2 and 9.2.1.3.3 is maintained.
+
+9.2.1.6.   The distance Δx shall be 4 mm.
+
+9.2.1.7.   The windscreen shall be mounted at the same angle of inclination as on the vehicle.
+
+9.2.1.8.   The projection axis in the horizontal plane shall be maintained approximately normal to the trace of the windscreen in that plane.
+
+9.2.2.   The measurements shall be performed:
+
+9.2.2.1.   For vehicle category M1 in test area A, extended to the median plane of the vehicle, and in the corresponding part of the windscreen symmetrical to it about the longitudinal median plane of the vehicle, and also in the reduced test area B according to paragraph 2.4 of Annex 18.
+
+9.2.2.2.   For vehicles of categories M and N other than M1:
+
+|  |  |
+| --- | --- |
+| (a) | In zone I as defined in paragraph 9.2.5.2 of this annex for M2, M3, N2 and N3 vehicles; |
+
+|  |  |
+| --- | --- |
+| (b) | Either in zone I as defined in paragraph 9.2.5.2 of this annex or in test area A, extended to the median plane of the vehicle, and in the corresponding part of the windscreen symmetrical to it about the longitudinal median plane of the vehicle, and also in the reduced test area B according to paragraph 2.4 of Annex 18 for N1 vehicles. |
+
+9.2.2.3.   For agricultural and forestry tractors and for construction-site vehicles for which it is not possible to determine zone I, in zone I' as defined in paragraph 9.2.5.3 of this annex.
+
+9.2.2.4.   Vehicle type
+
+The test shall be repeated if the windscreen is to be fitted to a vehicle of a type in which the forward field of vision differs from that of the vehicle type for which the windscreen has already been approved.
+
+9.2.3.   Indices of difficulty of the secondary characteristics
+
+9.2.3.1.   Nature of the material
+
+|  |  |  |
+| --- | --- | --- |
+| Polished (plate) glass | Float glass | Sheet glass |
+| 1 | 1 | 2 |
+
+9.2.3.2.   Other secondary characteristics
+
+No other secondary characteristics are involved.
+
+9.2.4.   Number of windscreens
+
+Four test pieces shall be submitted for testing.
+
+9.2.5.   Definitions of zones
+
+9.2.5.1.   Zones A and B of windscreens for vehicle category M1 and N1 are defined in Annex 18 to this Regulation.
+
+9.2.5.2.   Zones of windscreens for vehicles of categories M and N other than M1 are defined on the basis of:
+
+9.2.5.2.1.   The ‘eye-point’ or the ‘
+‘
+‘O’
+’ point’ means the point located 625 mm above the R point of the driver’s seat in the vertical plane parallel to the longitudinal median plane of the vehicle for which the windscreen is intended, passing through the axis of the steering wheel.
+
+9.2.5.2.2.   The straight line OQ which is the horizontal straight line passing through the eye point 0 and perpendicular to the median longitudinal plane of the vehicle.
+
+9.2.5.2.3.   Zone I is the windscreen zone determined by the intersection of the windscreen with the four planes defined below:
+
+|  |  |  |
+| --- | --- | --- |
+| P1 | — | A vertical plane passing through 0 and forming an angle of 15° to the left of the median longitudinal plane of the vehicle; |
+| P2 | — | A vertical plane symmetrical to Pl about the median longitudinal plane of the vehicle.  If this is not possible (in the absence of a symmetrical median longitudinal plane, for instance) P2 shall be the plane symmetrical to Pl about the longitudinal plane of the vehicle passing through point 0. |
+| P3 | — | A plane passing through the straight line OQ and forming an angle of 10° above the horizontal plane; |
+| P4 | — | A plane passing through the straight line OQ and forming an angle of 8° below the horizontal plane. |
+
+9.2.5.3.   For agricultural and forestry tractors and for construction-site vehicles for which it is not possible to determine zone I, zone I' consists in the whole surface of the windscreen.
+
+9.2.6.   Interpretation of results
+
+A windscreen type shall be considered satisfactory with respect to optical distortion if, in the four windscreens submitted for testing, optical distortion does not exceed the values given below for each zone or test area.
+
+|  |  |  |
+| --- | --- | --- |
+| Vehicle category | Zone | Maximum values of optical distortion |
+| M1 and N1 | A - extended according to paragraph 9.2.2.1 | 2' of arc |
+| B - reduced according to paragraph 2.4 of Annex 18 | 6' of arc |
+| M and N categories other than M1 | I | 2' of arc |
+| Agricultural vehicles etc. for which it is not possible to determine zone I | I' | 2' of arc |
+
+9.2.6.1.   No measurements shall be made in a peripheral area 25 mm inboard of the design glass outline and of any opaque obscuration, provided that it does not impinge into the extended zone A or zone I.
+
+9.2.6.2.   For agricultural and forestry tractors and for construction-site vehicles, no measurements shall be made in a peripheral area 100 mm wide.
+
+9.2.6.3.   In the case of split windscreens, no measurements shall be made in a strip 35 mm from the edge of the windscreen, which is adjacent to the dividing, pillar.
+
+9.2.6.4.   A maximum value of 6' of arc is permitted for all portions of zone I or zone A in a peripheral area 100 mm inboard of the design glass outline.
+
+9.2.6.5.   Slight deviations from the requirements may be allowed in the reduced test area B according to paragraph 2.4 of Annex 18 provided they are localised and recorded in the report.
+
+9.3.   Secondary-image-separation test
+
+9.3.1.   Scope
+
+Two test methods are recognised:
+
+|  |  |
+| --- | --- |
+|  | Target test, and |
+
+|  |  |
+| --- | --- |
+|  | Collimation-telescope test. |
+
+These test methods may be used for approval, quality-control or product-evaluation purposes, as appropriate.
+
+9.3.1.1.   Target test
+
+9.3.1.1.1.   Apparatus
+
+This method involves viewing an illuminated target through the safety glazing. The target may be designed in such a way that the test can be carried out on a simple ‘go-no go’ basis.
+
+The target shall preferably be of one of the following types; that is to say, either
+
+|  |  |
+| --- | --- |
+| (a) | An illuminated ‘ring’ target whose outer diameter, D, subtends an angle of n minutes of arc at a point situated at x metres (Figure 11(a)), or |
+
+|  |  |
+| --- | --- |
+| (b) | An illuminated ‘ring and spot’ target whose dimensions are such that the distance D from a point on the edge of the spot to the nearest point on the inside of the circle subtends an angle of n minutes of arc at a point situated at x metres (Figure 11(b)), where  n is the limit value of secondary-image separation,  x is the distance from the safety glazing to the target (not less than 7 m),  D is given by the formula: D = x. tg n |
+
+The illuminated target consists of a light box, approximately 300 mm × 300 mm × 150 mm, whose front is most conveniently constructed of glass masked with opaque black paper or coated with matt black paint.
+
+The box shall be illuminated by a suitable light source. It may be convenient to use other forms of target, such as that shown in Figure 14. It is also acceptable to replace the target system by a projection system and to view the resulting images on a screen.
+
+9.3.1.1.2.   Procedure
+
+Mount the windscreen at the specified rake angle on a suitable stand in such a way that the observation is carried out in the horizontal plane passing through the centre of the target. The light box shall be viewed in a dark or semi-dark room, through each part of the area being examined, in order to detect the presence of any secondary image associated with the illuminated target. Rotate the windscreen as necessary to ensure that the correct direction of view is maintained. A monocular may be used for viewing.
+
+9.3.1.1.3.   Expression of results
+
+Determine whether,
+
+When target (a) (see Figure 11(a)) is used, the primary and secondary images of the circle separate, i.e. whether the limit value of n is exceeded, or
+
+When target (b) (see Figure 11(b)) is used, the secondary image of the spot shifts beyond the point of tangency with the inside edge of the circle, i.e. whether the limit value of n is exceeded.
+
+Figure 11
+
+Dimensions of targets
+
+*[Figure omitted — see the official source]*
+
+Figure 12
+
+Arrangement of apparatus
+
+*[Figure omitted — see the official source]*
+
+Figure 13
+
+Apparatus for collimation-telescope test
+
+*[Figure omitted — see the official source]*
+
+9.3.1.2.   Collimation-telescope test
+
+If necessary, the procedure described in this paragraph shall be applied.
+
+9.3.1.2.1.   Apparatus
+
+The apparatus comprises a collimator and a telescope and may be set up in accordance with Figure 13. However, any equivalent optical system may be used.
+
+9.3.1.2.2.   Procedure
+
+The collimation telescope forms at infinity the image of a polar co-ordinate system with a bright point at its centre (see Figure 14).
+
+In the focal plane of the observation telescope, a small opaque spot with a diameter slightly larger than of the projected bright point is placed on the optical axis, thus obscuring the bright point.
+
+When a windscreen which exhibits a secondary image is placed between the telescope and the collimator, a second, less bright point appears at a certain distance from the centre of the polar co-ordinate system. The secondary-image separation can be read out as the distance between the points seen through the observation telescope (see Figure 14). (The distance between the dark spot and the bright point at the centre of the polar coordinate system-represents the optical deviation).
+
+9.3.1.2.3.   Expression of results
+
+The windscreen shall first be examined by a simple scanning technique to establish the area giving the strongest secondary image. That area shall then be examined by the collimation-telescope system at the appropriate angle of incidence. The maximum secondary-image separation shall be measured.
+
+9.3.1.3.   The direction of observation in the horizontal plane shall be maintained approximately normal to the trace of the windscreen in that plane.
+
+9.3.2.   The measurements shall be performed in the zones as defined in paragraph 9.2.2 above according to the vehicle categories.
+
+9.3.2.1.   Vehicle type
+
+The test shall be repeated if the windscreen is to be fitted to a vehicle of a type in which the forward field of vision differs from that of the vehicle type for which the windscreen has already been approved.
+
+9.3.3.   Indices of difficulty of the secondary characteristics
+
+9.3.3.1.   Nature of the material
+
+|  |  |  |
+| --- | --- | --- |
+| Polished (plate) glass | Float glass | Sheet glass |
+| 1 | 1 | 2 |
+
+9.3.3.2.   Other secondary characteristics
+
+No other secondary characteristics are involved.
+
+9.3.4.   Number of windscreens
+
+Four windscreens shall be submitted for testing.
+
+Figure 14
+
+Example of observation by the collimation-telescope test method
+
+*[Figure omitted — see the official source]*
+
+9.3.5.   Interpretation of results
+
+A windscreen type shall be considered satisfactory with respect to secondary image separation if, in the four windscreens submitted for testing, separation of the primary and secondary – images does not exceed the values given below for each zone or test area.
+
+|  |  |  |
+| --- | --- | --- |
+| Vehicle category | Zone | Maximum values of optical distortion |
+| M1 and N1 | A - extended according to paragraph 9.2.2.1 | 15' of arc |
+| B - reduced according to paragraph 2.4 of Annex 18 | 25' of arc |
+| M and N categories other than M1 | I | 15' of arc |
+| Agricultural vehicles etc. for which it is not possible to determine zone I | I' | 15' of arc |
+
+9.3.5.1.   No measurements shall be made in a peripheral area 25 mm inboard of the design glass outline and of any opaque obscuration, provided that it does not impinge into the extended zone A or zone I.
+
+9.3.5.2.   For agricultural and forestry tractors and for construction-site vehicles, no measurements shall be made in a peripheral area 100 mm wide.
+
+9.3.5.3.   In the case of split windscreens, no measurements shall be made in a strip 35 mm from the edge of the windscreen, which is adjacent to the dividing pillar.
+
+9.3.5.4.   A maximum value of 25' of arc is permitted for all portions of zone I or zone A in a peripheral area 100 mm inboard of the design glass outline.
+
+9.3.5.5.   Slight deviations from the requirements may be allowed in the reduced test area B according to paragraph 2.4 of Annex 18 provided they are localised and recorded in the report.
+
+10.   BURNING BEHAVIOUR (FIRE-RESISTANCE) TEST
+
+10.1.   Purpose and scope of application
+
+This method enables the horizontal burning rate of materials used in the passenger compartment of motor vehicles (for example, private passenger cars, lorries (trucks), estate cars, motor coaches) after exposure to a small flame to be determined.
+
+This method permits testing of materials and components of a vehicle's interior equipment individually or in combination up to a thickness of 13 mm. It is used to judge the uniformity of production lots of such materials with respect to their burning behaviour.
+
+Because of the many differences between the real-world situation (application and orientation within a vehicle, conditions of use, ignition source, etc.) and the precise test conditions prescribed herein, this method cannot be considered as suitable for evaluation of all true in-vehicle burning characteristics.
+
+10.2.   Definitions
+
+10.2.1.   Burning rate: The quotient of the burnt distance measured according to this method and the time taken to burn that distance. It is expressed in millimetres per minute.
+
+10.2.2.   Composite material: A material composed of several layers of similar or different materials intimately held together at their surfaces by cementing, bonding, cladding, welding, etc.
+
+When different materials are connected together intermittently (for example, by sewing, high-frequency-welding, riveting), then in order to permit the preparation of individual samples in accordance with paragraph 10.5 below such materials shall not be considered as composite materials.
+
+10.2.3.   Exposed side: The side which is facing towards the passenger compartment when the material is mounted in the vehicle.
+
+10.3.   Principle
+
+A sample is held horizontally in a U-shaped holder and is exposed to the action of a defined low-energy flame for 15 seconds in a combustion chamber, the flame acting on the free end of the sample. The test determines whether and when the flame is extinguished or the time which the flame requires to proceed over a measured distance.
+
+10.4.   Apparatus
+
+10.4.1.   Combustion chamber (Figure 15), preferably of stainless steel, having the dimensions given in Figure 16.
+
+The front of the chamber contains a flame-resistant observation window, which may cover the entire front and which can be constructed as an access panel.
+
+The bottom of the chamber has vent holes, and the top has a vent slot all around. The combustion chamber is placed on four feet, 10 mm high. The chamber may have a hole at one end for the introduction of the sample holder containing the sample; in the opposite end, a hole is provided for the gas-supply line. Melted material is caught in a pan (see Figure 17) which is placed on the bottom of the chamber between vent holes without covering any vent hole area.
+
+Figure 15
+
+Example of combustion chamber with sample holder and drip pan
+
+*[Figure omitted — see the official source]*
+
+10.4.2.   Sample holder, consisting of two U-shaped metal plates or frames of corrosion-proof material. Dimensions are given in Figure 18.
+
+The lower plate is equipped with pins and the upper one with corresponding holes, in order to ensure a consistent holding of the sample. The pins also serve as measuring points at the beginning and end of the burning distance.
+
+A support shall be provided in the form of heat-resistant wires 0,25 mm in diameter spanning the frame at 25-mm intervals over the bottom U-shaped frame (see Figure 19).
+
+The plane of the lower side of samples shall be 178 mm above the floor plate. The distance of the front edge of the sample holder from the end of the chamber shall be 22 mm; the distance of the longitudinal sides of the sample holder from the sides of the chamber shall be 50 mm (all inside dimensions) (see Figures 15 and 16).
+
+10.4.3.   Gas burner
+
+The small ignition source is provided by a Bunsen burner having an inside diameter of 9,5 mm. It is so located in the test cabinet that the centre of its nozzle is 19 mm below the centre of the bottom edge of the open end of the sample (see Figure 16).
+
+10.4.4.   Test gas
+
+The gas supplied to the burner shall have a calorific value of about 38 MJ/m3 (for example natural gas).
+
+10.4.5.   Metal comb, at least 110 mm in length, with seven or eight smooth rounded teeth per 25 mm.
+
+Figure 16
+
+Example of combustion chamber
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Dimensions in millimetres
+
+Tolerances according to ISO 2768
+
+Figure 17
+
+Typical drip pan
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Dimensions in millimetres
+
+Tolerances according to ISO 2768
+
+Figure 18
+
+Example of sample holder
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Dimensions in millimetres
+
+Tolerances according to ISO 2768
+
+Figure 19
+
+Example of section of lower U-frame design for wire support facility
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Dimensions in millimetres
+
+Tolerances according to ISO 2768
+
+Lenght (direction of sample)
+
+10.4.6.   Stop-watch, accurate to 0,5 seconds
+
+10.4.7.   Fume cupboard
+
+The combustion chamber may be placed in a fume-cupboard assembly provided that the latter's internal volume is at least 20 times, but not more than 110 times, greater than the volume of the combustion chamber and provided that no single height, width, or length dimension of the fume cupboard is greater than 2,5 times either of the other two dimensions.
+
+Before the test, the vertical velocity of the air through the fume cupboard shall be measured 100 mm forward of and to the rear of the ultimate site of the combustion chamber. It shall be between 0,10 and 0,30 m/s in order to avoid possible discomfort to the operator from combustion products. It is possible to use a fume cupboard with natural ventilation and an appropriate air velocity.
+
+10.5.   Samples
+
+10.5.1.   Shape and dimensions
+
+The shape and dimensions of samples are given in Figure 20. The thickness of the sample corresponds to the thickness of the product to be tested. It shall not be more than 13 mm. When sample-taking so permits, the sample shall have a constant section over its entire length. When the shape and dimensions of a product do not permit taking a sample of the given size, the following minimum dimensions shall be observed:
+
+|  |  |
+| --- | --- |
+| (a) | For samples having a width of 3 to 60 mm, the length shall be 356 mm. In this case the material is tested over the product’s width; |
+
+|  |  |
+| --- | --- |
+| (b) | For samples having a width of 60 to 100 mm, the length shall be at least 138 mm. In this case the potential burning distance corresponds to the length of the sample, the measurement starting at the first measuring point; |
+
+|  |  |
+| --- | --- |
+| (c) | Samples less than 60 mm wide and less than 356 mm long, and samples 60 to 100 mm wide and less than 138 mm long, cannot be tested according to the present method, nor can samples less than 3 mm wide. |
+
+Figure 20
+
+Sample
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Dimensions in millimetres
+
+10.5.2.   Sampling
+
+At least five samples shall be taken from the material under test. In materials having burning rates differing according to the direction of the material (this being established by preliminary tests) the five (or more) samples shall be taken and be placed in the test apparatus in such a way that the highest burning rate will be measured.
+
+When the material is supplied in set widths, a length of at least 500 mm covering the entire width shall be cut. From the piece so cut, the samples shall be taken at not less than 100 mm from the edge of the material and at points equidistant from each other.
+
+Samples shall be taken in the same way from finished products when the shape of the product so permits. If the thickness of the product is over 13 mm it shall be reduced to 13 mm by a mechanical process applied to the side which does not face the passenger compartment.
+
+Composite materials (see paragraph 10.2.2) shall be tested as if they were homogeneous.
+
+In the case of materials comprising superimposed layers of different composition which are not composite materials, all the layers of material included within a depth of 13 mm from the surface facing towards the passenger compartment shall be tested individually.
+
+10.5.3.   Conditioning
+
+The samples shall be conditioned for at least 24 hours, but not more than 7 days, at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 per cent, and shall be maintained under these conditions until immediately prior to testing.
+
+10.6.   Procedure
+
+10.6.1.   Place samples with napped or tufted surfaces on a flat surface, and comb twice against the nap using the comb (paragraph 10.4.5).
+
+10.6.2.   So place the sample in the sample holder (paragraph 10.4.2) that the exposed side faces downwards, towards the flame.
+
+10.6.3.   Adjust the gas flame to a height of 38 mm using the mark in the chamber, the air intake of the burner being closed. The flame shall burn for at least one minute, for stabilization, before the first test is started.
+
+10.6.4.   Push the sample holder into the combustion chamber so that the end of the sample is exposed to the flame, and after 15 seconds cut off the gas flow.
+
+10.6.5.   Measurement of burning time starts at the moment when the foot of the flame passes the first measuring point. Observe the flame propagation on the side (upper or lower) which burns faster.
+
+10.6.6.   Measurement of burning time is completed when the flame has come to the last measuring point or when the flame is extinguished before reaching that point. If the flame does not reach the last measuring point, measure the burnt distance up to the point where the flame was extinguished. Burnt distance is the part of the sample destroyed, on the surface or inside, by burning.
+
+10.6.7.   If the sample does not ignite or does not continue burning after the burner has been extinguished, or the flame goes out before reaching the first measuring point, so that no burning time is measured, note in the test report that the burning rate is 0 mm/min.
+
+10.6.8.   When running a series of tests or performing repeat tests, make sure before starting a test that the temperature of the combustion chamber and sample holder does not exceed 30 °C.
+
+10.7.   Calculation
+
+The burning rate B, in millimetres per minute, is given by the formula:
+
+*[Figure omitted — see the official source]*
+;
+
+where:
+
+|  |  |
+| --- | --- |
+|  | s is the burnt distance, in millimetres, |
+
+|  |  |
+| --- | --- |
+|  | t is the time, in seconds, taken to burn the distance s. |
+
+10.8.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristics are involved.
+
+10.9.   Interpretation of results
+
+10.9.1.   Safety glazing faced with plastics material (paragraph 2.4 of this Regulation) and glass-plastics (paragraph 2.5 of this Regulation) shall be considered satisfactory from the point of view of the fire-resistance test if the burn rate does not exceed 90 mm/min.
+
+10.9.2   Rigid plastic panes (paragraph 2.6.1 of this Regulation), flexible plastic panes (paragraph 2.6.2 of this Regulation) and rigid plastic multiple-glazed units shall be considered satisfactory from the point of view of the fire resistance test if the burn rate does not exceed 110 mm/min.
+
+11.   TEST OF RESISTANCE TO CHEMICALS
+
+11.1.   Chemicals used for the test
+
+11.1.1.   Non-abrasive soap solution: 1 per cent by weight of potassium oleate in deionised water;
+
+11.1.2.   Window-cleaning-solution: an aqueous solution of isopropanol and dipropylene glycol monomethyl ether in concentration between 5 and 10 per cent by weight each and ammonium hydroxide in concentration between 1 and 5 per cent by weight;
+
+11.1.3.   Undiluted denatured alcohol: 1 part by volume methyl alcohol in 10 parts by volume ethyl alcohol;
+
+11.1.4.   Petrol or equivalent reference petrol: a mixture of 50 per cent by volume toluene, 30 per cent by volume 2,2,4-trimethylpentane, 15 per cent by volume 2,4,4-trimethyl-1-pentene and 5 per cent by volume ethyl alcohol:
+
+N.B. The composition of the petrol used shall be recorded in the test report;
+
+11.1.5.   Reference kerosene: a mixture of 50 per cent by volume n-octane and 50 per cent by volume n-decane.
+
+11.2.   Test method
+
+11.2.1.   Immersion test
+
+Four samples 180 mm × 25 mm shall be tested for each test and each chemical specified in paragraph 11.1 above, using a new test piece for each test and each cleaning product.
+
+Before each test, samples shall be cleaned according to the manufacturer’s instructions, then conditioned for 48 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 per cent. These conditions shall be maintained throughout the tests.
+
+The samples shall be completely immersed in the test fluid and held for one minute, then removed and immediately wiped dry with a clean absorbent cotton cloth.
+
+11.2.2.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of the interlayer or of the plastics coating | 2 | 2 |
+
+The other secondary characteristics are not concerned.
+
+11.2.3.   Interpretation of results
+
+11.2.3.1.   The test for resistance to chemical agents shall be considered to have given a satisfactory result if the sample does not exhibit any softening, tackiness, crazing or apparent loss of transparency.
+
+11.2.3.2.   A set of samples shall be considered satisfactory with regard to the test for resistance to chemical agents if at least three of the four tests carried out with each chemical have given a satisfactory result.
+
+11.2.4.   Test procedure under load
+
+11.2.4.1.   The sample shall be simply supported as a horizontal level arm between a fixed supporting edge at one end in such a way that the entire width will rest on a cutting edge (fulcrum) which is 51 mm from the fixed end support. A load shall be suspended from the free end of the test specimen at a distance of 102 mm from the fulcrum as shown in Figure 21 below:
+
+Figure 21
+
+Method of setting up the sample
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Unit: mm
+
+11.2.4.2.   The load mass shall be 28,7 t2 g where t is the thickness in mm of the test specimen. The resulting stress on the outer fibre of the sample is approximately 6,9 MPa.
+
+|  |  |  |
+| --- | --- | --- |
+|  | Example: | For a 3 mm thick sample placed horizontally between a downward fixed edge and an upward fulcrum edge separated by 51 mm the applied downward load at 102 mm from the fulcrum is to be 258 g. |
+
+11.2.4.3.   While the sample is stressed, one of the prescribed chemicals shall be applied to the top surface of the sample above the fulcrum point. The chemical shall be applied with a soft, 13 mm wide brush, wetted before each stroke. Ten individual strokes at 1 s intervals across the width of the sample, avoiding the end and edges, shall be required (see Figure 22).
+
+Figure 22
+
+Method of applying chemicals to the sample
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Unit: mm
+
+11.2.5.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | Colourless | Tinted |
+| Colouring of the plastics coating or plastic glazing | 1 | 2 |
+
+The other secondary characteristics are not concerned.
+
+11.2.6.   Interpretation of results
+
+11.2.6.1.   The test for resistance to chemical agents shall be considered to have given a satisfactory result if the sample does not exhibit any softening, tackiness, crazing or apparent loss of transparency.
+
+11.2.6.2.   A set of samples shall be considered satisfactory with regard to the test for resistance to chemical agents if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 11.2.6.2.1. | All the tests have given a satisfactory result; |
+
+|  |  |
+| --- | --- |
+| 11.2.6.2.2. | One test having given an unsatisfactory result, a new series of tests carried out on a new set of samples has given a satisfactory result. |
+
+12.   FLEXIBILITY TEST AND FOLD TEST
+
+12.1.   Scope
+
+With this test has to be found out whether a plastic is to be classed into the categories of rigid or flexible plastics.
+
+12.2.   Test method
+
+From the material of the nominal thickness a rectangular flat sample 300 mm long and 25 mm wide is cut out and horizontally clamped into a clamping device in such a way that 275 mm of the length of the sample freely extend over the holding device. This free end shall be supported horizontally by an appropriate device until the test begins. Sixty seconds after removal of this support the vertical deviation of the free end is indicated in mm. If this deviation exceeds 50 mm a 180° fold test is performed subsequently. The sample is folded concisely, after that it is folded round 0,5 mm thick piece of sheet metal in such a way that it tightly contacts it on both sides.
+
+12.3.   Test conditions
+
+Temperature: 20 °C ± 2 °C
+
+Relative humidity: 60 ± 5 per cent
+
+12.4.   Requirements
+
+The vertical deviation shall be more than 50 mm for flexible plastics, and 10 seconds after a 180° — folding the material shall not show any fracture-like damages at the point of buckling (see Figure 23).
+
+13.   CROSS-CUT TEST
+
+13.1   Scope
+
+This test gives a simple method to determine the adhesion of coatings to the subsurface. The brittleness and other strength characteristics can be evaluated.
+
+13.2.   Apparatus
+
+Cutting tool with 6 blades set at 1 mm apart. A magnifying glass with an enlargement of 2 x to examine the crosscut specimen (see Figure 24).
+
+Figure 23
+
+Arrangement of flexibility test
+
+*[Figure omitted — see the official source]*
+
+Figure 24
+
+Tool with six blades
+
+*[Figure omitted — see the official source]*
+
+13.3.   Test method
+
+Cut through the coating on to the subsurface a pattern with 6 cuts and perpendicular to this, another one so that a grid with 25 squares arises (grid-cut).
+
+The cutting tool should be drawn steadily with a speed of 2 to 5 cm/s so that the cuts reach the subsurface but do not penetrate too deeply.
+
+The cutting is conducted in such a way that the two leading heads at the edge of the apparatus touch the surface uniformly. After the test the cuts are examined with a magnifying glass to check that they reach the subsurface. The test is carried out at least at two different positions of the sample. After the cuts have been produced they are brushed 5 times with slight pressure in both diagonal directions with a hand brush with polyamide bristles.
+
+13.4.   Interpretation of results
+
+The grid cuts are examined with a magnifying glass. If the cut edges are perfectly smooth and if no part of the coating is detached then it will be given a cross cut value of Gt0. If there are small fragments detached at the intersection of the cuts and if the exposed area amounts to about 5 per cent of the grid area the cut value is Gt1.
+
+Larger areas of detachment will be graded in the range Gt2 to Gt5.
+
+|  |  |
+| --- | --- |
+| Cut value grade | Exposed area of the grid area |
+| Gt2 | between 5 and 15 per cent |
+| Gt3 | between 15 and 35 per cent |
+| Gt4 | between 35 and 65 per cent |
+| Gt5 | higher than 65 per cent |
+
+---
+
+[(1)](#ntc1-L_2014042EN.01003601-E0001)  A suitable abrading instrument is supplied by Teledyne Taber (United States of America).
+
+[(2)](#ntc2-L_2014042EN.01003601-E0002)  Suitable abrasive wheels may be obtained from Teledyne Taber (United States of America).
+
+[(3)](#ntc3-L_2014042EN.01003601-E0003)  Such as Atlas Ci Series, Heraeus Xenotest Series, or Suga WEL-X Series.
+
+[(4)](#ntc4-L_2014042EN.01003601-E0004)  Such as Corning 7740 Pyrex or Heraeus Suprax.
+
+[(5)](#ntc5-L_2014042EN.01003601-E0005)  Total ultraviolet is considered to be all radiation of wavelength less than 400 nm.
+
+[(6)](#ntc6-L_2014042EN.01003601-E0006)  International Commission on Illumination.
+
+[(7)](#ntc7-L_2014042EN.01003601-E0007)  As defined in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), (document TRANS/WP.29/78/Rev.2, para.2).
+
+---
+
+ANNEX 4
+
+TOUGHENED-GLASS WINDSCREENS
+
+1.   DEFINITION OF TYPE
+
+Toughened-glass windscreens shall be deemed to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1. | The principal characteristics are as follows:   |  |  | | --- | --- | | 1.1.1. | The trade names or marks; |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | 1.1.2. | The shape and dimensions.  Toughened-glass windscreens shall be considered as belonging to one or other of two groups for the purposes of fragmentation and mechanical-properties test, i.e.;   |  |  | | --- | --- | | 1.1.2.1. | Flat windscreens, and |  |  |  | | --- | --- | | 1.1.2.2. | Curved windscreens. | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 1.1.3. | The thickness category in which the nominal thickness ‘e’ lies (a manufacturing tolerance of ± 0,2 mm being allowed):   |  |  | | --- | --- | | Category I | e ≤ 4,5 mm | | Category II | 4,5 mm < e ≤ 5,5 mm | | Category III | 5,5 mm < e ≤ 6,5 mm | | Category IV | 6,5 mm < e | | |
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2. | The secondary characteristics are as follows:   |  |  | | --- | --- | | 1.2.1. | Nature of the material (polished (plate) glass, float glass, sheet glass); |  |  |  | | --- | --- | | 1.2.2. | Colouring (colourless or tinted); |  |  |  | | --- | --- | | 1.2.3. | The incorporation or otherwise of conductors; |  |  |  | | --- | --- | | 1.2.4. | The incorporation or otherwise of opaque obscuration. | |
+
+2.   FRAGMENTATION TEST
+
+2.1.   Indices of difficulty of the secondary characteristics
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.1. | Only the nature of the material is involved. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.2. | Float glass and sheet glass are considered to have the same index of difficulty. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.3. | The fragmentation tests shall be repeated on transition from polished (plate) glass to float glass or sheet glass, and vice versa. |
+
+2.2.   Number of test pieces
+
+Six test pieces from the smallest-developed-area series and six samples from the largest-developed-area series, selected as prescribed in Annex 13, shall be tested.
+
+2.3.   Different zones of glass
+
+A toughened-glass windscreen shall comprise two main zones, FI and FII. It may also comprise an intermediate zone, FIII. These zones are as defined below.
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 2.3.1. | |  |  |  | | --- | --- | --- | | Zone FI | : | Peripheral zone of fine fragmentation, at least 7 cm wide, all round the edge of the windscreen and including an outer strip 2 cm wide not subjected to assessment; | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.2. | |  |  |  | | --- | --- | --- | | Zone FII | : | Visibility zone of varying fragmentation, always including a rectangular part at least 20 cm high and 50 cm long; |  |  |  | | --- | --- | | 2.3.2.1. | For vehicles of category M1, the centre of the rectangle shall be inside a circle having a radius of 10 cm centred on the projection of the middle of segment V1-V2. |  |  |  | | --- | --- | | 2.3.2.2. | For vehicles of categories M and N other than M1, the centre of the rectangle shall be inside a circle having a radius of 10 cm centred on the projection of point 0; |  |  |  | | --- | --- | | 2.3.2.3. | For agricultural and forestry tractors and for construction-site vehicles, the position of the visibility zone shall be indicated in the test report. |  |  |  | | --- | --- | | 2.3.2.4. | The height of the above rectangle may be reduced to 15 cm for windscreens which are less than 44 cm high. | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 2.3.3. | |  |  |  | | --- | --- | --- | | Zone FIII | : | Intermediate zone, not more than 5 cm wide, between zones FI and FII. | |
+
+2.4.   Test method
+
+The method used shall be that described in Annex 3, paragraph 1.
+
+2.5.   Points of impact (see Annex 17, Figure 2)
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.5.1. | The points of impact shall be selected as follows:  |  |  |  | | --- | --- | --- | | Point 1 | : | in the central part of zone FII in an area of high or low stress, | | Point 2 | : | in zone FIII, as near as possible to the vertical plane of symmetry of zone FII, | | Points 3 and 3' | : | 3 cm from the edges of one median of the test piece; when there is a tong mark, one of the breakage points shall be near the edge bearing the tong mark and the other near the opposite edge, | | Point 4 | : | at the place where the radius of curvature is smallest on the longest median, | | Point 5 | : | 3 cm from the edge of the test piece at the place where the radius of curvature of the edge is smallest, either to the left or to the right. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.5.2. | A fragmentation test shall be performed at each of the points 1, 2, 3, 3', 4 and 5. |
+
+2.6.   Interpretation of results
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.6.1. | A test shall be deemed to have given a satisfactory result if fragmentation satisfies all the conditions given in paragraphs 2.6.1.1, 2.6.1.2 and 2.6.1.3 below.  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.6.1.1. | Zone FI:   |  |  | | --- | --- | | 2.6.1.1.1. | The number of fragments in any 5 cm × 5 cm square is not less than 40 nor more than 350; however in the case of a count of less than 40, if the number of fragments in any 10 cm × 10 cm square containing the 5 cm × 5 cm square is not less than 160, this shall be acceptable. |  |  |  | | --- | --- | | 2.6.1.1.2. | For the purposes of the above rule, a fragment extending across a side of a square shall count as half a fragment. |  |  |  | | --- | --- | | 2.6.1.1.3. | Fragmentation shall not be checked in a strip 2 cm wide round the edge of the samples, this strip representing the frame of the glass, nor within a radius of 7,5 cm from the point of impact. |  |  |  | | --- | --- | | 2.6.1.1.4. | A maximum of 3 fragments of an area exceeding 3 cm2 shall be allowed. No two of these fragments shall be contained within the same 10 cm diameter circle. |  |  |  | | --- | --- | | 2.6.1.1.5. | Elongated fragments may be permitted provided that their ends are not knife-edged and that their length does not exceed 7,5 cm, except in the case provided for in paragraph 2.6.2.2 below. If these elongated fragments extend to the edge of the glass, they shall not form an angle of more than 45° with it. | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.6.1.2 | Zone FII:   |  |  | | --- | --- | | 2.6.1.2.1. | The residual visibility after shattering shall be checked in the rectangular area defined in paragraph 2.3.2 above. In that rectangle the aggregate surface area of the fragments of more than 2 cm2 shall represent not less than 15 per cent of the area of the rectangle; however, in the case of windscreens less than 44 cm high, or whose angle of installation is less than 15° from the vertical, the visibility percentage shall at least be equal to 10 per cent of the surface of the corresponding rectangle. |  |  |  | | --- | --- | | 2.6.1.2.2. | No fragment shall have an area of more than 16 cm2 except in the case provided for in paragraph 2.6.2.2 below. |  |  |  | | --- | --- | | 2.6.1.2.3. | Within a radius of 10 cm from the point of impact, but only in that part of the circle which is included in Zone FII, three fragments having an area of more than 16 cm2 but less than 25 cm2 shall be allowed. |  |  |  |  |  | | --- | --- | --- | --- | | 2.6.1.2.4. | Fragments shall be substantially regular in shape and free from points of the type described in paragraph 2.6.1.2.4.1 below. However, not more than 10 irregular fragments shall be allowed in any 50 × 20 cm rectangle and not more than 25 over the whole surface of the windscreen.  No such fragment shall present a point more than 35 mm long measured in accordance with paragraph 2.6.1.2.4.1 below.   |  |  | | --- | --- | | 2.6.1.2.4.1. | A fragment shall be considered as an irregular fragment if it cannot be inscribed in a circle of 40 mm in diameter, if it has at least one point more than 15 mm long when measured from the top of the point to the section whose width is equal to the glazing thickness, and if it has one or more points having a top angle smaller than 40°. | |  |  |  | | --- | --- | | 2.6.1.2.5. | Fragments of elongated shape shall be allowed in Zone FII as a whole, provided they do not exceed 10 cm in length, except in the case provided for in paragraph 2.6.2.2 below. | |  |  |  | | --- | --- | | 2.6.1.3. | Zone FIII  Fragmentation in this zone shall have characteristics intermediate between those of the fragmentation respectively allowed for the two neighbouring zones (FI and FII). | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.6.2. | A windscreen submitted for approval shall be considered satisfactory from the point of view of fragmentation if at least one of the following conditions is fulfilled:  |  |  | | --- | --- | | 2.6.2.1. | When all the tests carried out using the points of impact defined in paragraph 2.5.1 above have given a satisfactory result; |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.6.2.2. | When one test among all those carried out using the points of impact prescribed in paragraph 2.5.1 has given an unsatisfactory result, taking account of deviations which do not exceed the following limits:   |  |  |  | | --- | --- | --- | | Zone FI | : | not more than five fragments between 7,5 and 15 cm long, | | Zone FII | : | not more than three fragments of between 16 and 20 cm2 in area located outside the circle having a radius of 10 cm centred on the point of impact, | | Zone FIII | : | not more than four fragments between 10 and 17,5 cm long |   and is repeated on a new sample, which either conforms to the requirements of paragraph 2.6.1 or presents deviations within the above specified limits. |  |  |  | | --- | --- | | 2.6.2.3. | When two tests among all the tests carried out using the points of impact prescribed in paragraph 2.5.1 have given an unsatisfactory result for deviations not exceeding the limits specified in paragraph 2.6.2.2, and a further series of tests carried out on a new set of samples conforms to the requirements of paragraph 2.6.1, or not more than two samples of the new set present deviations within the above specified limits of paragraph 2.6.2.2. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.6.3. | If the above-mentioned deviations are found, they shall be noted in the test report and permanent recording(s) of the fragmentation pattern of the relevant parts of the windscreen shall be attached to the report. |
+
+3.   HEADFORM TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Number of test pieces
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2.1. | For each group of toughened-glass windscreens, four test pieces having approximately the smallest developed area and four test pieces having approximately the largest developed area, all eight samples being of the same types as those selected for the fragmentation tests (see paragraph 2.2 above), shall be subjected to testing. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2.2. | Alternatively, at the discretion of the laboratory conducting the tests, for each category of windscreen thickness, six test pieces of the dimension (1 100 mm × 500 mm) ± 5/2 mm shall be subjected to testing. |
+
+3.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.1. | The method used shall be that described in Annex 3, paragraph 3.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.2. | The height of drop shall be 1,5 m ± 0/5 mm. |
+
+3.4.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.4.1. | The test shall be deemed to have given a satisfactory result if the windscreen or the test piece is fractured. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 3.4.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the headform test if either of the two following conditions is fulfilled, that is to say if:  |  |  | | --- | --- | | 3.4.2.1. | All the tests have given a satisfactory result; |  |  |  | | --- | --- | | 3.4.2.2. | One test having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces has given satisfactory results. | |
+
+4.   OPTICAL QUALITIES
+
+The requirements concerning optical qualities set out in Annex 3, paragraph 9, shall apply to every type of windscreen.
+
+---
+
+ANNEX 5
+
+UNIFORMLY-TOUGHENED GLASS PANES
+ [(\*1)](#ntr*1-L_2014042EN.01007701-E0001)
+
+1.   DEFINITION OF TYPE
+
+Uniformly-toughened glass panes shall be deemed to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+1.1.   The principal characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1. | The trade names or marks; |
+
+|  |  |
+| --- | --- |
+| 1.1.2. | The nature of the toughening process (thermal or chemical); |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 1.1.3. | The shape category; two categories are distinguished:   |  |  | | --- | --- | | 1.1.3.1. | Flat glass panes, |  |  |  | | --- | --- | | 1.1.3.2. | Flat and curved glass panes. | |
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.4. | The thickness category in which the nominal thickness ‘e’ lies (a manufacturing tolerance of ± 0,2 mm being allowed):   |  |  | | --- | --- | | Category I | e ≤ 3,5 mm | | Category II | 3,5 mm < e ≤ 4,5 mm | | Category III | 4,5 mm < e ≤ 6,5 mm | | Category IV | 6,5 mm < e | |
+
+1.2.   The secondary characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.2.1. | Nature of the material (polished (plate) glass, float glass, sheet glass); |
+
+|  |  |
+| --- | --- |
+| 1.2.2. | Colouring (colourless or tinted); |
+
+|  |  |
+| --- | --- |
+| 1.2.3. | The incorporation or otherwise of conductors. |
+
+|  |  |
+| --- | --- |
+| 1.2.4. | The incorporation or otherwise of opaque obscuration. |
+
+2.   FRAGMENTATION TEST
+
+2.1.   Indices of difficulty of the secondary characteristics
+
+|  |  |
+| --- | --- |
+| Material | Index of difficulty |
+| Plate glass | 2 |
+| Float glass | 1 |
+| Sheet glass | 1 |
+
+No other secondary characteristics are involved.
+
+2.2.   Selection of test pieces
+
+2.2.1.   Test pieces of each shape category and of each thickness category difficult to produce shall be selected according to the following criteria for testing.
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.2.1.1. | In the case of flat glass panes, two sets of test pieces shall be provided, corresponding to:   |  |  | | --- | --- | | 2.2.1.1.1. | The largest developed area, |  |  |  | | --- | --- | | 2.2.1.1.2. | The smallest angle between two adjacent sides. | |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.2.1.2. | In the case of flat and curved glass panes, three sets of samples shall be provided, corresponding to:   |  |  | | --- | --- | | 2.2.1.2.1. | The largest developed area, |  |  |  | | --- | --- | | 2.2.1.2.2. | The smallest angle between two adjacent sides, |  |  |  | | --- | --- | | 2.2.1.2.3. | The largest height of segment. | |
+
+2.2.2.   Tests carried out on test pieces corresponding to the largest area ‘S’ shall be considered to be applicable to any other area smaller than S + 5 per cent.
+
+2.2.3.   If the samples submitted present an angle γ smaller than 30°, the tests shall be considered as applicable to all glass panes produced having an angle greater than γ – 5°.
+
+If the samples submitted present an angle γ greater than or equal to 30°, the tests shall be considered as applicable to all glass panes produced having an angle equal to or greater than 30°.
+
+2.2.4.   If the height of segment h of the samples submitted is greater than 100 mm, the tests shall be considered as applicable to all glass panes produced having a height of segment smaller than h + 30 mm.
+
+If the height of segment of the samples submitted is less than or equal to 100 mm, the tests shall be considered as applicable to all glass panes having a height of segment less than or equal to 100 mm.
+
+2.3.   Number of test pieces per set
+
+The number of test pieces in each group shall be as follows, according to the shape category defined in paragraph 1.1.3 above:
+
+|  |  |
+| --- | --- |
+| Kind of glass pane | Number of test pieces |
+| Flat | 4 |
+| Curved (minimum radius of curvature ≥ 200 mm) |  |
+| Curved (minimum radius of curvature < 200 mm) | 8 |
+
+2.4.   Test method
+
+2.4.1.   The method used shall be that described in Annex 3, paragraph 1.
+
+2.5.   Points of impact (see Annex 17, Figure 3)
+
+2.5.1.   For flat glass panes and curved glass panes the points of impact represented respectively in Annex 17, Figures 3(a) and 3(b) on the one hand, and in Annex 17, Figure 3(c) on the other hand, shall be as follows:
+
+|  |  |  |
+| --- | --- | --- |
+| Point 1 | : | In the geometric centre of the glass. |
+| Point 2 | : | For curved glass panes having a minimum radius of curvature ‘r’ of less than 200 mm. The point shall be selected on the largest median in that part of the pane where the radius of curvature is smallest. |
+
+2.5.2.   Four test pieces shall be tested from each point of impact.
+
+2.6.   Interpretation of results
+
+2.6.1.   A test shall be deemed to have given a satisfactory result if fragmentation satisfies the following conditions:
+
+|  |  |
+| --- | --- |
+| 2.6.1.1. | The number of fragments in any 5 cm × 5 cm square is not less than 40. |
+
+|  |  |
+| --- | --- |
+| 2.6.1.2. | For the purposes of the above rule, a fragment extending across a side of a square shall count as half a fragment. |
+
+|  |  |
+| --- | --- |
+| 2.6.1.3. | Fragmentation shall not be checked in a strip 2 cm wide round the edge of the samples, this strip representing the frame of the glass; nor within a radius of 7,5 cm from the point of impact. |
+
+|  |  |
+| --- | --- |
+| 2.6.1.4. | When a fragment extends beyond the excluded area only the part of the fragment falling outside of the area shall be assessed. |
+
+|  |  |
+| --- | --- |
+| 2.6.1.5. | Fragments of an area exceeding 3 cm2 shall not be allowed except in the parts defined in paragraph 2.6.1.3 above. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 2.6.1.6. | No fragment longer than 100 mm in length shall be allowed except in the areas defined in paragraph 2.6.1.3 above provided that:   |  |  | | --- | --- | | 2.6.1.6.1. | Fragment ends do not converge to a point. |  |  |  | | --- | --- | | 2.6.1.6.2. | If they extend to the edge of the pane they do not form an angle of more than 45° to it. | |
+
+2.6.2.   A set of test pieces submitted for approval shall be considered satisfactory from the point of view of fragmentation if at least three of the four tests carried out at each of the points of impact prescribed in paragraph 2.5.1 above have given a satisfactory result.
+
+2.6.3.   If the above-mentioned deviations are found, they shall be noted in the test report and permanent recording(s) of the fragmentation pattern of the relevant parts of the glass pane shall be attached to the report.
+
+3.   MECHANICAL STRENGTH TEST
+
+3.1.   227 g ball test
+
+3.1.1.   Indices of difficulty of the secondary characteristics.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Material | Index of difficulty | Colouring | Index of difficulty |
+| Polished glass | 2 | colourless | 1 |
+| Float glass | 1 | tinted | 2 |
+| Sheet glass | 1 |  |  |
+
+The other secondary characteristic (namely, incorporation or otherwise of conductors) is not involved.
+
+3.1.2.   Number of test pieces
+
+Six test pieces shall be subjected to testing for each thickness category defined in paragraph 1.1.4 above.
+
+3.1.3.   Test method
+
+|  |  |
+| --- | --- |
+| 3.1.3.1. | The test method used shall be that described in Annex 3, paragraph 2.1. |
+
+|  |  |
+| --- | --- |
+| 3.1.3.2. | The height of drop (from the underface of the ball to the upper surface of the test piece) shall be 2,0 m ± 0/5 mm. |
+
+3.1.4.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1.4.1. | The test shall be deemed to have given a satisfactory result if at least five of the test pieces do not break. |
+
+4.   OPTICAL QUALITIES
+
+4.1.   The provisions concerning regular light transmittance set out in Annex 3, paragraph 9.1, shall apply to uniformly-toughened glass panes or parts of glass panes located at places which are essential to the driver's vision.
+
+4.2.   The provisions of paragraph 9 of Annex 3 shall apply to uniformly-toughened glass panes used as windscreens of slow-moving vehicles which, by construction, cannot exceed 40 km/h. This shall not apply to flat windscreens which fall within an already approved group.
+
+---
+
+[(\*1)](#ntc*1-L_2014042EN.01007701-E0001)  This type of uniformly-toughened glass pane can also be used for windscreens for slow-moving vehicles which, by construction, cannot exceed 40 km/h.
+
+---
+
+ANNEX 6
+
+ORDINARY LAMINATED-GLASS WINDSCREENS
+
+1.   DEFINITION OF TYPE
+
+Ordinary laminated-glass windscreens shall be deemed to belong to different types if they differ in at least one of the fallowing principal or secondary characteristics.
+
+1.1.   The principal characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1. | The trade names or marks. |
+
+|  |  |
+| --- | --- |
+| 1.1.2. | The shape and dimensions,  Ordinary laminated-glass windscreens shall be deemed to belong to one group for the purposes of tests of mechanical properties and of resistance to the environment. |
+
+|  |  |
+| --- | --- |
+| 1.1.3. | The number of layers of glass, |
+
+|  |  |
+| --- | --- |
+| 1.1.4. | The nominal thickness ‘e’ of the windscreen, a manufacturing tolerance of 0,2. n mm (‘n’ being the number of layers of glass in the windscreen) above or below the nominal value being allowed, |
+
+|  |  |
+| --- | --- |
+| 1.1.5. | The nominal thickness of the interlayer or interlayers, |
+
+|  |  |
+| --- | --- |
+| 1.1.6. | The nature and type of the interlayer or interlayers (e.g. PVB or other plastics-material interlayer or interlayers). |
+
+1.2.   The secondary characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.2.1. | The nature of the material (polished (plate) glass, float glass, sheet glass), |
+
+|  |  |
+| --- | --- |
+| 1.2.2. | The colouring (total or partial) of the interlayer or interlayers (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.3. | The colouring of the glass (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.4. | The incorporation or otherwise of conductors, |
+
+|  |  |
+| --- | --- |
+| 1.2.5. | The incorporation or otherwise of opaque obscuration. |
+
+2.   GENERAL
+
+2.1.   In the case of ordinary laminated-glass windscreens, tests other than headform (paragraph 3.2 below) and tests on flat test pieces which are either cut from actual windscreens or are specially made for the purpose. In either case the test pieces shall be in all respects rigorously representative of the serially-produced windscreens for which approval is sought.
+
+2.2.   Before each test the test pieces shall be stored for not less than four hours at a temperature of 23 °C ± 2 °C. The tests shall take place as soon as possible after the test pieces have been taken out of the receptacle in which they were stored.
+
+3.   HEADFORM TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Headform test on a complete windscreen
+
+3.2.1.   Number of test pieces
+
+Four test pieces from the smallest-developed-area series and four samples from the largest-developed-area series selected in accordance with the provisions of Annex 13, shall be tested.
+
+3.2.2.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2.2.1. | The method used shall be that described in Annex 3, paragraph 3.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2.2.2. | The drop height shall be 1,5 m ± 0/5 mm. |
+
+3.2.3.   Interpretation of results
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3.2.3.1. | This test shall be deemed to have given a satisfactory result if the following conditions are fulfilled:  |  |  | | --- | --- | | 3.2.3.1.1. | The test piece breaks displaying numerous circular cracks centred approximately on the point of impact, the cracks nearest to the point of impact being not more than 80 mm from it; |  |  |  | | --- | --- | | 3.2.3.1.2. | The layers of glass shall remain adhering to the plastics-material interlayer. One or more partial separation from the interlayer with a distance of less than 4 mm in breadth, on either side of the crack, is permitted outside a circle of 60 mm in diameter centred on the point of impact. |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | 3.2.3.1.3. | On the impact side:   |  |  | | --- | --- | | 3.2.3.1.3.1. | The interlayer shall not be laid bare over an area of more than 20 cm2, |  |  |  | | --- | --- | | 3.2.3.1.3.2. | A tear in the interlayer up to a length of 35 mm is allowed. | | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2.3.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the headform test if all the tests give a satisfactory result. |
+
+4.   MECHANICAL STRENGTH TEST
+
+4.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+4.2.   2 260 g ball test
+
+4.2.1.   Twelve square test pieces of 300 mm ± 0/10 mm side shall be subjected to testing.
+
+4.2.2.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.2.1. | The method used shall be that described in Annex 3, paragraph 2.2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.2.2. | The height of drop (from the underface of the ball to the upper face of the test piece) shall be 4 m ± 0/25 mm. |
+
+4.2.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.3.1. | The test shall be deemed to have given a satisfactory result if the ball does not pass through the glazing within five seconds after the moment of impact. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.3.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the 2 260 g ball test if at least eleven of the twelve tests have given a satisfactory result. |
+
+4.3.   227 g ball test
+
+4.3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+4.3.2.   Number of test pieces
+
+Twenty square test pieces of 300 mm ± 0/10 mm side shall be subjected to testing.
+
+4.3.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.3.1. | The method used shall be that described in Annex 3, paragraph 2.1. Ten test pieces shall be tested at a temperature of + 40 °C ± 2 °C and ten at a temperature of – 20 °C ± 2 °C. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 4.3.3.2. | The height of drop for the various thickness categories and the mass of the detached fragments are given in the table below:  |  |  |  |  |  | | --- | --- | --- | --- | --- | |  | + 40 °C ± 2 °C | | – 20 °C ± 2 °C | | | Nominal thickness of test piece  (mm) | Height of fall  (m) | Maximum permitted mass of the fragments  (g) | Height of fall  (m) | Maximum permitted mass of the fragments  (g) | | e ≤ 4,5 | 9 | 12 | 8,5 | 12 | | 4,5 < e ≤ 5,5 | 9 | 15 | 8,5 | 15 | | 5,5 < e ≤ 6,5 | 9 | 20 | 8,5 | 20 | | e > 6,5 | 9 | 25 | 8,5 | 25 | |
+
+4.3.4.   Interpretation of results
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 4.3.4.1. | The test shall be considered to have given a satisfactory result if the following conditions are met:  |  |  | | --- | --- | | — | The ball does not pass through the test piece, |  |  |  | | --- | --- | | — | The test piece does not break into several pieces, |  |  |  | | --- | --- | | — | If the interlayer is not torn, the weight of fragments detached from the side of the glass opposite to the point of impact shall not exceed the appropriate values specified in paragraph 4.3.3.2 above. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.4.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the 227 g ball test if at least eight of the ten tests carried out at each temperature, have given a satisfactory result. |
+
+5.   TEST OF RESISTANCE TO THE ENVIRONMENT
+
+5.1.   Test of resistance to abrasion
+
+5.1.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 4, shall apply, the test being continued for 1 000 cycles.
+
+5.1.2.   Interpretation of results
+
+The safety-glass pane shall be considered satisfactory with respect to abrasion resistance if the light scatter as a result of abrasion of the test piece does not exceed 2 per cent.
+
+5.2.   Test of resistance to high temperature
+
+The requirements of Annex 3, paragraph 5, shall apply.
+
+5.3.   Resistance-to-radiation test
+
+5.3.1.   General requirement
+
+This test shall be performed only if the laboratory deems it useful in the light of the information in its possession concerning the interlayer.
+
+5.3.2.   The requirements of Annex 3, paragraph 6.3 shall apply.
+
+5.4.   Resistance-to-humidity test
+
+The requirements of Annex 3, paragraph 7, shall apply.
+
+6.   OPTICAL QUALITIES
+
+The requirements concerning optical qualities set out in Annex 3, paragraph 9, shall apply to every type of windscreen. This shall not apply to flat windscreens which fall within an already approved group if the rake angle is less than 40° to the vertical.
+
+---
+
+ANNEX 7
+
+LAMINATED-GLASS PANES
+
+1.   DEFINITION OF TYPE
+
+Laminated-glass panes shall be deemed to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+1.1.   The principal characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1. | The trade names or marks. |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.2. | The thickness category of the pane in which the nominal thickness ‘e’ lies, a manufacturing tolerance of ± 0,2. n mm (‘n’ being the number of layers of glass in the pane) being allowed:   |  |  | | --- | --- | | Category I | e ≤ 5,5 mm | | Category II | 5,5 mm < e ≤ 6,5 mm | | Category III | 6,5 mm < e | |
+
+|  |  |
+| --- | --- |
+| 1.1.3. | The nominal thickness of the interlayer or interlayers, |
+
+|  |  |
+| --- | --- |
+| 1.1.4. | The nature and type of the interlayer or interlayers, e.g. PVB or other plastics-material interlayer or interlayers, |
+
+|  |  |
+| --- | --- |
+| 1.1.5. | Any special treatment which one or more layers of glass may have undergone. |
+
+1.2.   The secondary characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.2.1. | The nature of the material (polished (plate) glass, float glass, sheet glass), |
+
+|  |  |
+| --- | --- |
+| 1.2.2. | The colouring (total or partial) of the interlayer or interlayers (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.3. | The colouring of the glass (colourless or tinted). |
+
+|  |  |
+| --- | --- |
+| 1.2.4. | The incorporation or otherwise of opaque obscuration. |
+
+2.   GENERAL
+
+2.1.   In the case of laminated-glass panes, the tests shall be conducted on flat test pieces which are either cut from actual glass glazing or are specially made. In either case the test pieces shall be in all respects rigorously representative of the glass glazing for the production of which approval is sought.
+
+2.2.   Before each test the test pieces of laminated glass shall be stored for not less than four hours at a temperature of 23 °C ± 2 °C. The tests shall be performed on the test pieces as soon as the test pieces have been taken out of the receptacle in which they were stored.
+
+2.3.   The provisions of this annex shall be considered to be met if the glazing submitted for approval is of the same composition as a windscreen already approved under the provisions of Annex 6 or Annex 8 or Annex 9.
+
+3.   MECHANICAL STRENGTH TEST - 227 g BALL TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Number of test pieces
+
+Eight flat samples measuring 300 mm × 300 mm, specially made or cut from the flattest part of a pane shall be tested
+
+|  |  |
+| --- | --- |
+| 3.2.1. | Test pieces can alternatively be finished products that may be supported over the apparatus described in paragraphs 2.1.1 to 2.1.1.3 of Annex 3. |
+
+|  |  |
+| --- | --- |
+| 3.2.2. | If the test pieces are curved, care should be taken to ensure adequate contact with the support. |
+
+3.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.1. | The method used shall be that described in Annex 3, paragraph 2.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.2. | The height of drop from the underface of the ball to the upper face of the test piece or sample shall be 9 m ± 0/25 mm. |
+
+3.4.   Interpretation of results
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3.4.1. | The test shall be considered to have given a satisfactory result if the following conditions are met:  |  |  | | --- | --- | | (a) | The ball does not pass through the test piece; |  |  |  | | --- | --- | | (b) | The laminate shall not break into separate pieces; |  |  |  | | --- | --- | | (c) | At the point immediately opposite the point of impact, small fragments of glass may leave the specimen, but the small area thus affected shall expose less than 645 mm2 of reinforcing or strengthening material, the surface of which shall always be well covered with tiny particles of tightly adhering glass. Total separation of glass from the reinforcing or strengthening material shall not exceed 1 935 mm2 on either side. Spalling of the outer glass surface opposite the point of impact and adjacent to the area of impact is not to be considered a failure. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.4.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the mechanical strength test if at least six of the eight tests have given a satisfactory result. |
+
+4.   TEST OF RESISTANCE TO THE ENVIRONMENT
+
+4.1.   Test of resistance to abrasion
+
+4.1.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 4, shall apply, the test being continued for 1 000 cycles.
+
+4.1.2.   Interpretation of results
+
+The safety-glass pane shall be considered satisfactory from the point of view of abrasion resistance if the light scatter as a result of abrasion of the test piece does not exceed 2 percent.
+
+4.2.   Test of resistance to high temperature
+
+The requirements of Annex 3, paragraph 5, shall apply.
+
+4.3.   Resistance-to-radiation test
+
+4.3.1.   General requirement
+
+This test shall be performed only if the laboratory deems it useful in the light of the information in its possession concerning the interlayer.
+
+4.3.2.   Number of samples or test pieces
+
+The requirements of Annex 3, paragraph 6.3, shall apply.
+
+4.4.   Resistance-to-humidity test
+
+The requirements of Annex 3, paragraph 7, shall apply.
+
+5.   OPTICAL QUALITIES
+
+The provisions concerning the regular light transmittance set out in Annex 3, paragraph 9.1, shall apply to glass panes, or parts of glass panes located at places which are essential to the driver’s vision.
+
+---
+
+ANNEX 8
+
+TREATED LAMINATED-GLASS WINDSCREENS
+
+1.   DEFINITION OF TYPE
+
+Treated laminated-glass windscreens shall be deemed to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+1.1.   The principal characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1. | The trade names or marks. |
+
+|  |  |
+| --- | --- |
+| 1.1.2. | The shape and dimensions  Treated laminated glass windscreens shall be deemed to belong to one group for the purposes of tests of fragmentation, of mechanical properties and of resistance to the environment. |
+
+|  |  |
+| --- | --- |
+| 1.1.3. | The number of layers of glass, |
+
+|  |  |
+| --- | --- |
+| 1.1.4. | The nominal thickness ‘e’ of the windscreen, a manufacturing tolerance of 0,2. n mm (‘n’ being the number of layers of glass in the windscreen) above and below the nominal value being allowed, |
+
+|  |  |
+| --- | --- |
+| 1.1.5. | Any special treatment which one or more layers of glass may have undergone, |
+
+|  |  |
+| --- | --- |
+| 1.1.6. | The nominal thickness of the interlayer or interlayers, |
+
+|  |  |
+| --- | --- |
+| 1.1.7. | The nature and type of the interlayer or interlayers (e.g. PVB or other plastics-material interlayer or interlayers). |
+
+1.2.   The secondary characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.2.1. | The nature of the material (polished (plate) glass, float glass, sheet glass), |
+
+|  |  |
+| --- | --- |
+| 1.2.2. | The colouring (total or partial) of the interlayer or interlayers (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.3. | The colouring of the glass (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.4. | The incorporation or otherwise of conductors, |
+
+|  |  |
+| --- | --- |
+| 1.2.5. | The incorporation or otherwise of opaque obscuration. |
+
+2.   GENERAL
+
+2.1.   In the case of treated laminated-glass windscreens, tests other than the headform test on a complete windscreen and tests of optical qualities shall be conducted on samples and/or flat test pieces which are specially made for the purpose. However, the test pieces shall be in all respects rigorously representative of the serially-produced windscreens for which approval is sought.
+
+2.2.   Before each test, the test pieces or samples shall be stored for not less than four hours at a temperature of 23 °C ± 2 °C. The tests shall take place as soon as possible after the test pieces or samples have been taken out of the receptacle in which they were stored.
+
+3.   TESTS PRESCRIBED
+
+Treated laminated glass windscreens shall be subjected to:
+
+|  |  |
+| --- | --- |
+| 3.1. | The tests prescribed in Annex 6 for ordinary laminated-glass windscreens, |
+
+|  |  |
+| --- | --- |
+| 3.2. | The fragmentation test described in paragraph 4 below. |
+
+4.   FRAGMENTATION TEST
+
+4.1.   Indices of difficulty of the secondary characteristics
+
+|  |  |
+| --- | --- |
+| Material | Index of difficulty |
+| Plate glass | 2 |
+| Float glass | 1 |
+| Sheet glass | 1 |
+
+4.2.   Number of test pieces or samples
+
+One test piece measuring (1 100 mm × 500 mm) ± 5/2 mm or one sample for each point of impact shall be subjected to testing.
+
+4.3.   Test method
+
+The method used shall be that described in Annex 3, paragraph 1.
+
+4.4.   Impact point or points
+
+The glass pane shall be struck on each of the outer treated sheets in the centre of the test piece or sample.
+
+4.5.   Interpretation of results
+
+4.5.1.   For each point of impact the fragmentation test shall be considered to have given a satisfactory result if the total surface area of fragments having a surface area of more than 2 cm2 comprised in a rectangle as defined in Annex 4, paragraph 2.3.2, represents not less than 15 per cent of the surface of that rectangle.
+
+4.5.1.1.   In the case of a sample:
+
+|  |  |
+| --- | --- |
+| 4.5.1.1.1. | For vehicles of category M1, the centre of the rectangle shall be situated within a circle having a radius of 10 cm centred on the projection of the middle of segment V1 V2. |
+
+|  |  |
+| --- | --- |
+| 4.5.1.1.2. | For vehicles of categories M and N other than M1, the centre of the rectangle shall be situated within a circle having a radius of 10 cm centred on the projection of point 0. |
+
+|  |  |
+| --- | --- |
+| 4.5.1.1.3. | For agricultural and forestry tractors and for construction-site vehicles, the position of the visibility zone shall be indicated in the test report. |
+
+|  |  |
+| --- | --- |
+| 4.5.1.1.4. | The height of the above rectangle may be reduced to 15 cm for windscreens which are less than 44 cm high or whose angle of installation is less than 15° from the vertical; the percentage of visibility shall at least be equal to 10 per cent of the area of the corresponding rectangle. |
+
+4.5.1.2.   In the case of a test piece, the centre of the rectangle shall be situated on the greater axis of the test piece at 450 mm from one of its edges.
+
+4.5.2.   The test piece(s) or finished part(s) submitted for approval shall be considered satisfactory from the point of view of fragmentation if either of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 4.5.2.1. | The test gives a satisfactory result for each point of impact, or |
+
+|  |  |
+| --- | --- |
+| 4.5.2.2. | The test having been repeated on a new set of four test pieces for each point of impact for which it had originally given an unsatisfactory result, the four new tests, performed at the same impact points all give a satisfactory result. |
+
+---
+
+ANNEX 9
+
+SAFETY GLAZING FACED WITH PLASTICS MATERIAL
+
+(on the inside)
+
+1.   DEFINITION OF TYPE
+
+Safety glazing materials, as defined in Annexes 4 to 8, if coated on the inner face, with a layer of plastics material, shall conform not only to the requirements of the appropriate annexes but also to the following requirements.
+
+2.   TEST OF RESISTANCE TO ABRASION
+
+2.1.   Indices of difficulty and test method
+
+The plastics coating shall be subjected to a test for 100 cycles in accordance with the requirements specified in Annex 3, paragraph 4.
+
+2.2.   Interpretation of results
+
+The plastics coating shall be considered satisfactory with respect to abrasion resistance if the light scatter as a result of abrasion of the test piece does not exceed 4 per cent.
+
+3.   RESISTANCE-TO-HUMIDITY TEST
+
+3.1.   In the case of plastics-coated toughened safety glazing material a resistance-to-humidity test shall be performed.
+
+3.2.   The requirements of Annex 3, paragraph 7, shall apply.
+
+4.   TEST OF RESISTANCE TO TEMPERATURE CHANGES
+
+The requirements of Annex 3, paragraph 8, shall apply.
+
+5.   FIRE-RESISTANCE TEST
+
+The requirements of Annex 3, paragraph 10, shall apply.
+
+6.   TEST OF RESISTANCE TO CHEMICALS
+
+The requirements of Annex 3, paragraph 11.2.1, shall apply.
+
+---
+
+ANNEX 10
+
+GLASS-PLASTICS WINDSCREENS
+
+1.   DEFINITION OF TYPE
+
+Glass-plastics windscreens shall be considered to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+1.1.   The principal characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1. | The trade names or marks, |
+
+|  |  |
+| --- | --- |
+| 1.1.2. | The shape and dimensions.  Glass-plastics windscreens shall be deemed to belong to a group for the purposes of tests of mechanical strength, resistance to the environment, resistance to temperature changes and resistance to chemical agents, |
+
+|  |  |
+| --- | --- |
+| 1.1.3. | The number of plastics layers, |
+
+|  |  |
+| --- | --- |
+| 1.1.4. | The nominal thickness ‘e’ of the windscreen, a manufacturing tolerance of ± 0,2 mm being allowed, |
+
+|  |  |
+| --- | --- |
+| 1.1.5. | The nominal thickness of the layer of glass, |
+
+|  |  |
+| --- | --- |
+| 1.1.6. | The nominal thickness of the layer(s) of plastics acting as interlayer(s), |
+
+|  |  |
+| --- | --- |
+| 1.1.7. | The nature and type of the layer(s) of plastics acting as interlayer(s) (e.g. PVB or other material) and of the plastics layer situated on the inner face, |
+
+|  |  |
+| --- | --- |
+| 1.1.8. | Any special treatment the glazing may have undergone. |
+
+1.2.   The secondary characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.2.1 | The nature of the material (plate glass, float glass, sheet glass), |
+
+|  |  |
+| --- | --- |
+| 1.2.2. | The colouring (total or partial) of any layer(s) of plastics (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.3. | The colouring of the glass (colourless or tinted), |
+
+|  |  |
+| --- | --- |
+| 1.2.4. | The incorporation or otherwise of conductors, |
+
+|  |  |
+| --- | --- |
+| 1.2.5. | The incorporation or otherwise of opaque obscuration. |
+
+2.   GENERAL
+
+2.1.   In the case of glass-plastics windscreens, tests other than headform tests (paragraph 3.2) and tests of optical qualities shall be conducted on flat test pieces which are either cut from actual windscreens or are specially made for the purpose. In either case the test pieces shall in all respects be, rigorously representative of the serially-produced windscreens for which approval is sought.
+
+2.2.   Before each test, the test pieces shall be stored for not less than four hours at a temperature of 23 °C ± 2 °C. The tests shall take place as soon as possible after the test pieces have been taken out of the receptacle in which they were stored.
+
+3.   HEADFORM TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Headform test on a complete windscreen
+
+3.2.1.   Number of test pieces
+
+Four test pieces from the series having the smallest developed area and four test pieces from the series having the largest developed area, selected in accordance with the provisions of Annex 13, shall be tested.
+
+3.2.2.   Test method
+
+3.2.2.1.   The method used shall be that described in Annex 3, paragraph 3.1.
+
+3.2.2.2.   The height of drop shall be 1,50 m ± 0/5 mm.
+
+3.2.3.   Interpretation of results
+
+3.2.3.1.   This test shall be considered to have given a satisfactory result if the following conditions are met.
+
+|  |  |
+| --- | --- |
+| 3.2.3.1.1. | The layer of glass breaks, displaying numerous circular cracks centred approximately on the point of impact, the cracks nearest to the point of impact being not more than 80 mm from it; |
+
+|  |  |
+| --- | --- |
+| 3.2.3.1.2. | The layer of glass remains adhering to the plastics material interlayer. One or more partial separations from the interlayer not more than 4 mm in breadth may be allowed on either side of the crack outside a circle 60 mm in diameter centred on the point of impact; |
+
+|  |  |
+| --- | --- |
+| 3.2.3.1.3. | A tear in the interlayer of a length up to 35 mm is allowed on the impact side. |
+
+3.2.3.2.   A set of samples submitted for approval shall be considered satisfactory from the point of view of the headform test if all of the tests have given a satisfactory result.
+
+4.   MECHANICAL STRENGTH TEST
+
+4.1.   Indices of difficulty, test method and interpretation of results
+
+The requirements of Annex 6, paragraph 4, shall apply.
+
+4.2.   However the third requirement set out in paragraph 4.3.4.1 of Annex 6 is not relevant.
+
+5.   TEST OF RESISTANCE TO THE ENVIRONMENT
+
+5.1.   Test of resistance to abrasion
+
+5.1.1.   Test of resistance to abrasion on the outer face
+
+5.1.1.1.   The requirements of Annex 6, paragraph 5.1, shall apply.
+
+5.1.2.   Test of resistance to abrasion on the inner face
+
+5.1.2.1.   The requirements of Annex 9, paragraph 2, shall apply.
+
+5.2.   Test of resistance to high temperature
+
+The requirements of Annex 3, paragraph 5, shall apply.
+
+5.3.   Resistance-to-radiation test
+
+The requirements of Annex 3, paragraph 6.3, shall apply.
+
+5.4.   Resistance-to-humidity test
+
+The requirements of Annex 3, paragraph 7, shall apply.
+
+5.5.   Test of resistance to temperature changes
+
+The requirements of Annex 3, paragraph 8, shall apply.
+
+6.   OPTICAL QUALITIES
+
+The requirements concerning optical qualities set out in Annex 3, paragraph 9, shall apply to each type of windscreen.
+
+7.   FIRE-RESISTANCE TEST
+
+The requirements of Annex 3, paragraph 10, shall apply.
+
+8.   TEST OF RESISTANCE TO CHEMICALS
+
+The requirements of Annex 3, paragraph 11.2.1, shall apply.
+
+---
+
+ANNEX 11
+
+GLASS-PLASTICS PANES
+
+1.   DEFINITION OF TYPE
+
+Glass-plastics panes shall be considered to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1. | The principal characteristics are as follows:   |  |  | | --- | --- | | 1.1.1. | The trade names or marks, |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | 1.1.2. | The thickness category applicable to the nominal thickness ‘e’ a manufacturing tolerance of ± 0,2 mm being allowed:   |  |  | | --- | --- | | Category I | e ≤ 3,5 mm | | Category II | 3,5 mm < e ≤ 4,5 mm | | Category III | 4,5 mm < e | |  |  |  | | --- | --- | | 1.1.3. | The nominal thickness of the layer(s) of plastics material acting as interlayer(s), |  |  |  | | --- | --- | | 1.1.4. | The nominal thickness of the glass pane, |  |  |  | | --- | --- | | 1.1.5. | The type of the layer(s) of plastics material acting as interlayer(s) (e.g. PVB or other material) and of the plastics layer on the inner face, |  |  |  | | --- | --- | | 1.1.6. | Any special treatment which the layer of glass may have undergone. | |
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.2. | The secondary characteristics are as follows:   |  |  | | --- | --- | | 1.2.1. | The nature of the material (plate glass, float glass, sheet glass), |  |  |  | | --- | --- | | 1.2.2. | The colouring (total or partial) of any layer(s) of plastics (colourless or tinted), |  |  |  | | --- | --- | | 1.2.3. | The colouring of the glass (colourless or tinted). |  |  |  | | --- | --- | | 1.2.4. | The incorporation or otherwise of opaque obscuration. | |
+
+2.   GENERAL
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | In the case of glass-plastics panes the tests shall be conducted on flat test pieces which are either cut from normal glass panes or are specially made. In either case the test pieces shall be in all respects rigorously representative of the glass panes for the production of which approval is sought. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2. | Before each test, the test pieces of glass-plastics panes shall be stored for not less than four hours at a temperature of 23 °C ± 2 °C. The tests shall take place as soon as possible after the test pieces have been taken out of the receptacle in which they were stored. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3. | The provisions of this annex shall be considered to be met if the glass pane submitted for approval has the same composition as that of a windscreen already approved under the provisions of Annex 10. |
+
+3.   MECHANICAL STRENGTH TEST – 227 g BALL TEST
+
+The provisions of Annex 7, paragraph 3, shall apply.
+
+4.   TEST OF RESISTANCE TO THE ENVIRONMENT
+
+4.1   Test of resistance to abrasion
+
+4.1.1.   Test of resistance to abrasion on the outer face
+
+The requirements of Annex 7, paragraph 5.1, shall apply.
+
+4.1.2.   Test of resistance to abrasion on the inner face
+
+The requirements of Annex 9, paragraph 2.1, shall apply.
+
+4.2.   Test of resistance to high temperature
+
+The requirements of Annex 3, paragraph 5, shall apply.
+
+4.3.   Resistance-to-radiation test
+
+The requirements of Annex 3, paragraph 6.3, shall apply.
+
+4.4.   Resistance-to-humidity test
+
+The requirements of Annex 3, paragraph 7, shall apply.
+
+4.5.   Test of resistance to temperature changes
+
+The requirements of Annex 3, paragraph 8, shall apply.
+
+5.   OPTICAL QUALITIES
+
+The provisions concerning the regular light transmittance set out in Annex 3, paragraph 9.1, shall apply to glass glazing or parts of glass panes located at places which are essential to the driver's vision.
+
+6.   FIRE-RESISTANCE TEST
+
+The requirements of Annex 3, paragraph 10, shall apply.
+
+7.   TEST OF RESISTANCE TO CHEMICALS
+
+The requirements of Annex 3, paragraph 11.2.1, shall apply.
+
+---
+
+ANNEX 12
+
+MULTIPLE-GLAZED UNITS
+
+1.   DEFINITION OF TYPE
+
+Multiple-glazed units shall be considered to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.1. | The principal characteristics are as follows:  |  |  | | --- | --- | | 1.1.1. | The trade names or marks, |  |  |  | | --- | --- | | 1.1.2. | The number of component panes. |  |  |  | | --- | --- | | 1.1.3. | The composition of the multiple-glazed unit (symmetrical, asymmetrical), |  |  |  | | --- | --- | | 1.1.4. | The type of each component glass pane as defined in paragraph 1 of Annexes 5, 7 or 11 to this Regulation, |  |  |  | | --- | --- | | 1.1.5. | The nominal width(s) of the gap(s) between the glass panes, |  |  |  | | --- | --- | | 1.1.6. | The type of sealing. | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1.2. | The secondary characteristics are:  |  |  | | --- | --- | | 1.2.1. | The secondary characteristics of each component glass pane, as defined in paragraph 1.2 of Annexes 5, 7 or 11 to this Regulation. | |
+
+2.   GENERAL
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | Each component glass pane forming the multiple-glazed unit shall either be type-approved or subjected to the requirements set out in the relevant annex to this Regulation (Annexes 5, 7 or 11). |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2. | Tests carried out on a multiple-glazed unit having one or more gap(s) with the nominal width ‘e1’ (… ‘en’) shall be considered to be applicable to all multiple-glazed units having the same characteristics and a nominal width of the gap(s) ‘e1 ± 3 mm’ (… ‘en ± 3 mm’). However, the applicant for approval may submit for approval tests the sample having the smallest gap(s) and the sample having the largest gap(s). |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3. | In the case of multiple-glazed units having at least one laminated glass pane or one glass-plastics pane, the test pieces shall be stored for at least four hours prior to the test at a temperature of 23 °C ± 2 °C. The tests shall take place immediately after the test pieces are taken out of the receptacle in which they were stored. |
+
+3.   HEADFORM TEST
+
+3.1.   Index of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Number of test pieces
+
+Six test pieces (1 100 mm × 500 mm) ± 5/2 mm shall be subjected to testing for each category of thickness of the component glass panes and each width of gap as defined in paragraph 1.1.4 above.
+
+3.3.   Test method
+
+|  |  |
+| --- | --- |
+| 3.3.1. | The method used shall be that described in Annex 3, paragraph 3.1. |
+
+|  |  |
+| --- | --- |
+| 3.3.2. | The height of drop shall be 1,50 m ± 0/5 mm. |
+
+|  |  |
+| --- | --- |
+| 3.3.3. | In the case of an asymmetrical multiple-glazed unit, three tests shall be carried out on one side and three tests on the other side. |
+
+3.4.   Interpretation of results
+
+|  |  |
+| --- | --- |
+| 3.4.1. | Multiple glazing consisting of uniformly-toughened glass panes only:  The test shall be considered to have given a satisfactory result if all components break; |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.4.2. | Multipe glazing consisting of laminated glass panes and/or glass-plastics panes:  The test shall be considered to have given a satisfactory result if the following conditions are met:   |  |  | | --- | --- | | 3.4.2.1. | The components of the test piece yield and break, displaying numerous circular cracks centred approximately on the point of impact; |  |  |  | | --- | --- | | 3.4.2.2. | Tears in the interlayer(s) are allowed provided that the manikin's head does no pass through the test piece. |  |  |  | | --- | --- | | 3.4.2.3. | No large fragment of glass becomes detached from the interlayer. | |
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.4.3. | Multiple glazing consisting of a at least one uniformly-toughened glass pane and of at least one laminated glass pane or glass-plastics pane other than windscreens:   |  |  | | --- | --- | | 3.4.3.1. | The uniform toughened-glass pane(s) break(s); |  |  |  | | --- | --- | | 3.4.3.2. | The laminated glass pane(s) or glass-plastics pane(s) yield(s) and break(s), displaying numerous circular cracks centred approximately on the point of impact; |  |  |  | | --- | --- | | 3.4.3.3. | Tears in the interlayer(s) are allowed provided that the manikin's head does not pass through the test piece; |  |  |  | | --- | --- | | 3.4.3.4. | No large fragment of glass becomes detached from the interlayer. | |
+
+|  |  |
+| --- | --- |
+| 3.4.4. | A set of test pieces submitted for approval shall be considered satisfactory with respect to behaviour under head impact, if all of the tests have given a satisfactory result. |
+
+4.   OPTICAL QUALITIES
+
+The provisions concerning the regular light transmittance set out in Annex 3, paragraph 9.1, shall apply to multiple-glazed units or parts of multiple-glazed units located at places which are essential to the driver's vision.
+
+---
+
+ANNEX 13
+
+GROUPING OF WINDSCREENS FOR APPROVAL TESTING
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1. | The windscreen’s features taken into account are:  |  |  | | --- | --- | | 1.1. | The developed area, |  |  |  | | --- | --- | | 1.2. | The height of segment, |  |  |  | | --- | --- | | 1.3. | The curvature. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2. | A group is made up of a thickness class |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3. | Classification is performed in ascending order of developed area The five largest and the five smallest developed areas shall be selected, and shall be numbered as follows:   |  |  | | --- | --- | | 1 for the largest | 1 for the smallest | | 2 for the next largest after 1 | 2 for the next smallest after 1 | | 3 for the next largest after 2 | 3 for the next smallest after 2 | | 4 for the next largest after 3 | 4 for the next smallest after 3 | | 5 for the next largest after 4 | 5 for the next smallest after 4 | |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 4. | Within each of the two series defined under paragraph 3 above, the heights of segment shall be indicated as follows:  |  |  | | --- | --- | |  | 1 for the greatest height of segment, |  |  |  | | --- | --- | |  | 2 for the next greatest, |  |  |  | | --- | --- | |  | 3 for the next greatest, |   etc. |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 5. | Within each of the two series defined under paragraph 3 above, the curvatures shall be indicated as follows:  |  |  | | --- | --- | |  | 1 for the smallest curvature, |  |  |  | | --- | --- | |  | 2 for the next smallest, |  |  |  | | --- | --- | |  | 3 for the next smallest, |   etc. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6. | The numbers assigned to each windscreen in the two series defined under paragraph 3 above shall be added together. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1. | The windscreen among those having the five largest areas which has the smallest total, and the windscreen among those having the five smallest areas which has the smallest total, shall be subjected to complete tests as defined in one of Annexes 4, 6, 8, 9 and 10. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.2. | The other windscreens of the same series shall be subjected to the tests of optical qualities described in Annex 3, paragraph 9. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 7. | A few windscreens having significantly different parameters of shape and/or curvature from the extremes of the selected groups may also be tested if the technical service conducting the tests considers that the parameters in question are likely to have appreciably adverse effects. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 8. | The limits of the group are determined by developed area of windscreen. Where a windscreen submitted for type-approval has a developed area outside the approved limits and/or has a significantly greater height of segment or a significantly smaller curvature, it shall be considered to be of a new type and shall be subjected to additional tests if the technical service deems such tests technically necessary, having regard to the information already in its possession concerning the product and the material used. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 9. | Should any other windscreen model subsequently be manufactured by the holder of an approval in a thickness class already approved:  |  |  | | --- | --- | | 9.1. | It shall be ascertained whether that model can be included among the five largest or the five smallest selected for approval of the group in question; |  |  |  | | --- | --- | | 9.2. | Numbering by the procedures defined in paragraphs 3, 4 and 5 above shall be performed again. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 9.3. | If the sum of the numbers assigned to the windscreen newly incorporated among the five largest or the five smallest windscreens.   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 9.3.1. | Is found to be the smallest, the following tests shall be carried out:   |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 9.3.1.1. | For toughened-glass windscreens:   |  |  | | --- | --- | | 9.3.1.1.1. | Fragmentation, |  |  |  | | --- | --- | | 9.3.1.1.2. | Headform test, |  |  |  | | --- | --- | | 9.3.1.1.3. | Optical distortion, |  |  |  | | --- | --- | | 9.3.1.1.4. | Separation of secondary image, |  |  |  | | --- | --- | | 9.3.1.1.5. | Light transmission. | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 9.3.1.2. | For ordinary laminated-glass or glass-plastics windscreens:   |  |  | | --- | --- | | 9.3.1.2.1. | Headform test, |  |  |  | | --- | --- | | 9.3.1.2.2. | Optical distortion, |  |  |  | | --- | --- | | 9.3.1.2.3. | Separation of secondary image, |  |  |  | | --- | --- | | 9.3.1.2.4. | Light transmission. | |  |  |  | | --- | --- | | 9.3.1.3. | For treated laminated-glass windscreens, the tests prescribed in paragraphs 9.3.1.1.1, 9.3.1.1.2 and 9.3.1.2. |  |  |  | | --- | --- | | 9.3.1.4. | For windscreens faced with plastics material, the tests prescribed in paragraph 9.3.1.1 or 9.3.1.2, as the case may be. | |  |  |  | | --- | --- | | 9.3.2. | If not, only the tests prescribed for checking optical qualities as described in Annex 3, paragraph 9, shall be carried out. | | |
+
+---
+
+ANNEX 14
+
+RIGID PLASTIC PANES
+
+1.   DEFINITION OF TYPE
+
+Rigid plastic glazings shall be considered to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.1. | The principle characteristics are as follows:  |  |  | | --- | --- | | 1.1.1. | Trade names or marks; |  |  |  | | --- | --- | | 1.1.2. | The chemical designation of the material. |  |  |  | | --- | --- | | 1.1.3. | The classification of the material by the manufacturer. |  |  |  | | --- | --- | | 1.1.4. | The process of manufacture. |  |  |  | | --- | --- | | 1.1.5. | The shape and dimensions. |  |  |  | | --- | --- | | 1.1.6. | The nominal thickness. The thickness tolerance limit for extruded plastic products is ± 10 per cent of the nominal thickness. For plastic products produced by other techniques (e.g. cast acrylic sheet), the acceptable thickness tolerance is given by the equation ( Formula where e is the sheet thickness in millimetres. Reference standard is ISO 7823/1. |  |  |  | | --- | --- | | 1.1.7. | The colouring of the plastic product. |  |  |  | | --- | --- | | 1.1.8. | The nature of the surface coating. | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1.2. | The secondary characteristics are as follows:  |  |  | | --- | --- | | 1.2.1. | The presence or absence of conductors or heating elements. | |
+
+2.   GENERAL
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | In the case of rigid plastic panes the tests shall be conducted either on flat test pieces rigorously representative of the finished product or on finished parts. All optical measurements shall be carried out on real parts. |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 2.2. | The test pieces shall be freed from protecting maskings and have to be cleaned carefully before the test.  |  |  | | --- | --- | | 2.2.1. | They shall be stored for 48 hours at a temperature of 23 °C + 2 °C and a relative humidity of 50 ± 5 per cent. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3. | To describe the breaking behaviour under dynamical stress, classes will be created depending on the application of the plastics. These classes are related to contact probabilities of the human head with the plastic glazing and they contain different requirements concerning the headform test. |
+
+3.   FLEXIBILITY TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Number of test pieces
+
+One flat test piece measuring 300 mm × 25 mm shall be subjected to testing.
+
+3.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.1. | The method used shall be that described in Annex 3, paragraph 12. |
+
+3.4.   Interpretation of results
+
+For a test piece or sample to be considered rigid the vertical deflection of the test piece shall be less than or equal to 50 mm after 60 seconds.
+
+4.   HEADFORM TEST
+
+4.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+4.2.   Number of test pieces
+
+Six flat test pieces 1 170 mm × 570 + 0/– 2 mm or six complete parts shall be subjected to testing.
+
+4.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.1. | The method used shall be that described in Annex 3, paragraph 3.2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.2. | For glazing like partitions and separating windows which have impact probability (classification VIII/A) the drop height shall be 3 m. The HIC value is also to be measured. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.3. | For glazing like side windows, back windows and sunroofs which have reduced impact possibilities (classification VIII/B) the drop height shall be 1,5 m. The HIC value is also to be measured. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.4. | For glazing which do not have contact possibilities as well as for small windows in vehicles and for all windows in trailers (classification VIII/C) there will be no headform testing. A small window is a window into which a 150 mm diameter circle cannot be scribed. |
+
+4.4.   Interpretation of results
+
+The test shall be deemed to have given a satisfactory result if the following conditions are fulfilled:
+
+|  |  |
+| --- | --- |
+| 4.4.1. | The test piece or sample is not penetrated nor shall it break into fully separate large pieces. |
+
+|  |  |
+| --- | --- |
+| 4.4.2. | The HIC value is less than 1 000. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 4.4.3. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the headform test if one of the following conditions is met:   |  |  | | --- | --- | | 4.4.3.1. | All the tests give satisfactory results, or |  |  |  | | --- | --- | | 4.4.3.2. | One test having an unsatisfactory result, a further series of tests carried out on a new set of test pieces give satisfactory results. | |
+
+5.   MECHANICAL STRENGTH TEST 227 g BALL TEST
+
+5.1.   Indices of difficulty of the secondary characteristics:
+
+|  |  |
+| --- | --- |
+| (1) | Without conductors or heating elements; |
+
+|  |  |
+| --- | --- |
+| (2) | With conductors or heating elements. |
+
+5.2.   Number of test pieces
+
+Ten flat square pieces 300 mm + 10/– 0 mm or ten substantially flat finished parts shall be subjected to testing.
+
+5.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.3.1. | The method used shall be that prescribed in Annex 3, paragraph 2.1. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 5.3.2. | The height of drop for the various thickness values is given in the table below:  |  |  | | --- | --- | | Sheet thickness (mm) | Height of drop (m) | | < 3 | 2 | | 4 | 3 | | 5 | 4 | | > 6 | 5 |   For intermediate values of test piece thickness in the interval between 3 mm and 6 mm the height of drop shall be interpolated. |
+
+5.4.   Interpretation of results
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 5.4.1. | The ball test shall be considered to have given a satisfactory result if the following conditions are met:  |  |  | | --- | --- | | (a) | The ball does not penetrate the test piece |  |  |  | | --- | --- | | (b) | The test piece does not break into separate pieces |   As a result of the impact, cracks and fissures in the sheet are however permissible. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 5.4.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the 227 g ball test if one of the following conditions is met:  |  |  | | --- | --- | | 5.4.2.1. | Eight or more separate tests give a satisfactory result at the drop height. |  |  |  | | --- | --- | | 5.4.2.2. | Three or more tests having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces gives satisfactory results. | |
+
+5.5.   227 g ball test at – 18 °C ± 2 °C
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.5.1. | To minimise the temperature change of the test piece, the test shall be performed within 30 seconds of the removal of the test piece from the conditioning appliance. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.5.2. | The test method shall be that described in paragraph 5.3 of this annex, except that the test temperature is – 18 °C ± 2 °C. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.5.3. | Interpretation of results as in paragraph 5.4 of this annex. |
+
+6.   TEST RESISTANCE TO THE ENVIRONMENT
+
+6.1.   Test of resistance to abrasion
+
+6.1.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 4, shall apply; the test is performed for either 1 000, 500 or 100 cycles to measure abrasion of the surface of the product.
+
+6.1.2.   Three flat square test pieces of 100 mm side for each type of surface shall be subjected to testing.
+
+6.1.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1.3.1. | In the case of glazing of class L, the abrasion test shall be considered to have given a satisfactory result if the total light scatter after abrasion does not exceed 2 per cent after 1 000 cycles on the outer surface of the test piece and 4 per cent after 100 cycles on the inner surface of the test piece. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1.3.2. | In the case of glazing of class M, the abrasion test shall be considered to have given a satisfactory result if the total light scatter after abrasion does not exceed 10 per cent after 500 cycles on the outer surface of the test piece and 4 per cent after 100 cycles on the inner surface of the test piece. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1.3.3. | For sun roofs, no abrasion test is required. |
+
+6.1.4.   A set of test pieces for approval shall be considered satisfactory if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| (a) | All test pieces meet the requirements or |
+
+|  |  |
+| --- | --- |
+| (b) | One test piece having failed, a repeat of the tests on a new set of test pieces gives a satisfactory result. |
+
+6.2.   Test of resistance to simulated weathering
+
+6.2.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 6.4, shall apply. The total ultraviolet radiant exposure with the long arc xenon lamp shall be 500 MJ/m2. During irradiation the test pieces shall be exposed to water spray in continuous cycles. During a cycle of 120 minutes the test pieces are exposed to light without water spray for 102 minutes and to light with water spray for 18 minutes.
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.2.1.1. | Other methods giving equivalent results shall be allowed. |
+
+6.2.2.   Number of test pieces
+
+Three flat test pieces 130 mm × 40 mm cut from a flat sheet sample shall be subjected to testing.
+
+6.2.3.   Interpretation of results
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 6.2.3.1. | The resistance to the simulated weathering shall be considered to have given a satisfactory result if:  |  |  | | --- | --- | | 6.2.3.1.1. | The light transmittance measured in accordance with Annex 3, paragraph 9.1 does not fall below 95 per cent of the pre-weathering value. Additionally, for windows which are required for driver visibility the value shall not fall below 70 per cent. |  |  |  | | --- | --- | | 6.2.3.1.2. | No bubbles or other visible decompositions, discolorations, milkiness or crazing shall occur during weathering. | |
+
+6.2.4.   A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the resistance to simulated weathering if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 6.2.4.1. | All test pieces have given a satisfactory result. |
+
+|  |  |
+| --- | --- |
+| 6.2.4.2. | One test piece having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces or samples gives satisfactory results. |
+
+6.3.   Cross-cut test
+
+6.3.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 13, shall apply only to coated rigid products.
+
+6.3.2.   The cross-cut test shall be carried out on one of the test pieces from paragraph 6.2.
+
+6.3.3.   Interpretation of results
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 6.3.3.1 | The cross-cut test shall be considered to have given a satisfactory result if:  |  |  | | --- | --- | | 6.3.3.1.1. | The cross-cut value Gt1 is met. | |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 6.3.3.2. | The test piece shall be considered satisfactory from the point of view of approval if one of the following conditions is met:  |  |  | | --- | --- | | 6.3.3.2.1. | The test has given satisfactory results. |  |  |  | | --- | --- | | 6.3.3.2.2. | The test having given an unsatisfactory result, a further test carried out on another remaining test piece of the test from paragraph 6.2 gives satisfactory results. | |
+
+6.4.   Resistance-to-humidity test
+
+6.4.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 7, shall apply.
+
+6.4.2.   Ten flat square test pieces of 300 mm side shall be subjected to testing.
+
+6.4.3.   Interpretation of results
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 6.4.3.1 | The humidity test shall be considered to have given a satisfactory result if:  |  |  | | --- | --- | | 6.4.3.1.1. | No visible decompositions like bubbles or milkiness occur on any sample, |  |  |  | | --- | --- | | 6.4.3.1.2 | And if the light transmittance measured according to Annex 3, paragraph 9.1 does not fall to less than 95 per cent of the pre-test value and additionally to no less than 70 per cent for any window required for driver visibility. | |
+
+6.4.4.   After testing the test pieces shall be stored for at least 48 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 per cent, and then subjected to the 227 g ball drop test described under item 5 of this annex.
+
+7.   OPTICAL QUALITIES
+
+The requirements of Annex 3, paragraph 9.1 shall apply for products which are requisite for driver visibility.
+
+7.1.   Interpretation of results
+
+A set of test pieces shall be considered as satisfactory if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 7.1.1. | All test pieces give satisfactory results. |
+
+|  |  |
+| --- | --- |
+| 7.1.2. | One test piece having given an unsatisfactory result, a further set of test pieces gives satisfactory results. |
+
+8.   FIRE RESISTANCE TEST
+
+8.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 10, shall apply.
+
+8.2.   Interpretation of results
+
+The fire-resistance test shall be considered to have given a satisfactory result if the burning rate is less than 110 mm/min.
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 8.2.1. | For the purpose of approval a set of samples will be considered satisfactory if one of the following conditions is met:  |  |  | | --- | --- | | 8.2.1.1. | All samples give a satisfactory result. |  |  |  | | --- | --- | | 8.2.1.2. | One sample having given an unsatisfactory result a second set of samples gives satisfactory results. | |
+
+9.   RESISTANCE TO CHEMICALS
+
+9.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 11, shall apply.
+
+9.2.   Interpretation of results
+
+A set of samples shall be considered acceptable if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 9.2.1. | All samples give satisfactory results. |
+
+|  |  |
+| --- | --- |
+| 9.2.2. | One sample having given an unsatisfactory result, a second set of samples gives satisfactory results. |
+
+---
+
+ANNEX 15
+
+FLEXIBLE PLASTIC PANES
+
+1.   DEFINITION OF TYPE
+
+Flexible plastic panes shall be considered to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.1. | The principal characteristics are as follows:  |  |  | | --- | --- | | 1.1.1. | Trade names or marks, |  |  |  | | --- | --- | | 1.1.2. | The chemical designation of the material. |  |  |  | | --- | --- | | 1.1.3. | The classification of the material by the manufacturer. |  |  |  | | --- | --- | | 1.1.4. | The process of manufacture. |  |  |  | | --- | --- | | 1.1.5. | The nominal thickness (e), a manufacturing tolerance being allowed: ± (0,1 mm + 0,1 . e); d > 0,1 mm. |  |  |  | | --- | --- | | 1.1.6. | The colouring of the plastic product. |  |  |  | | --- | --- | | 1.1.7. | The nature of the surface coating(s). | |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1.2. | The secondary characteristics are as follows:  |  |  | | --- | --- | | 1.2.1. | No secondary characteristic is involved. | |
+
+2.   GENERAL
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | In the case of flexible plastic glazings the tests shall be conducted on flat test pieces which either are cut from finished products or are specially produced for that purpose. In both cases the test piece shall in every respect be rigorously representative for the glazing which are produced in the run and for which approval is being sought. |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 2.2. | The test pieces shall be freed from protecting masks and have to be cleaned carefully before the test.  |  |  | | --- | --- | | 2.2.1. | They shall be stored for 48 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 per cent. | |
+
+3.   FLEXIBILITY TEST AND FOLD TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Number of test pieces
+
+One flat test piece measuring 300 mm × 25 mm shall be subjected to testing.
+
+3.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.1. | The method used shall be that described in Annex 3, paragraph 12. |
+
+3.4.   Interpretation of results
+
+For a test piece or sample to be considered flexible its vertical deflection shall be more than 50 mm after 60 seconds.
+
+10 seconds after a 180° folding, the material shall not show any fracture or damage at the point of bending.
+
+4.   MECHANICAL STRENGTH TESTS
+
+4.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+4.2.   227 g ball test at 20 °C ± 5 °C
+
+4.2.1.   Number of test pieces
+
+Ten flat square pieces 300 mm + 10/– 0 mm shall be subjected to testing.
+
+4.2.2.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.2.1. | The method used shall be that prescribed in Annex 3, paragraph 2.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.2.2. | The height of drop is 2 m for all thicknesses. |
+
+4.2.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.3.1. | The ball test shall be considered to have given a satisfactory result if the ball does not penetrate the test piece. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 4.2.3.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the 227 g ball test if one of the following conditions is met:  |  |  | | --- | --- | | 4.2.3.2.1. | Eight or more tests give a satisfactory result at the height of drop. |  |  |  | | --- | --- | | 4.2.3.2.2. | More than two tests having given an unsatisfactory result at the minimum height of drop, a further series of tests carried out on a new set of test pieces gives satisfactory results. | |
+
+4.3.   227 g ball test at – 18 °C ± 2 °C
+
+4.3.1.   To minimise the temperature change of the test piece the test shall be performed within 30 seconds of the removal of the test piece from the conditioning appliance.
+
+4.3.2.   The test method shall be that described in paragraph 4.2.2 of this annex, except that the test piece temperature is – 18 °C ± 2 °C.
+
+4.3.3.   Interpretation of results as in paragraph 4.2.3 of this annex.
+
+5.   TEST OF RESISTANCE TO THE ENVIRONMENT
+
+5.1.   Test of resistance to simulated weathering
+
+5.1.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 6.4 shall apply. The total ultraviolet radiant exposure with the long arc xenon lamp shall be 500 MJ/m2. During irradiation the test pieces shall be exposed to water spray in continuous cycles. During a cycle of 120 minutes the test pieces are exposed to light without water spray for 102 minutes and to light with water spray for 18 minutes.
+
+|  |  |
+| --- | --- |
+| 5.1.1.1. | Other methods giving equivalent results shall be allowed. |
+
+5.1.2.   Number of test pieces
+
+Three flat test pieces 130 mm × 40 mm cut from a flat sheet sample shall be subjected to testing.
+
+5.1.3.   Interpretation of results
+
+The resistance to the simulated weathering test shall be considered to have given a satisfactory result if:
+
+|  |  |
+| --- | --- |
+| 5.1.3.1. | The light transmittance measured in accordance with Annex 3, paragraph 9.1 does not fall below 95 per cent of the pre-weathering value. Additionally, for windows which are required for driver visibility the value shall not fall below 70 per cent. |
+
+|  |  |
+| --- | --- |
+| 5.1.3.2. | No bubbles or other visible decompositions, discolorations, milkiness or crazing shall occur during weathering. |
+
+5.1.4.   A set of test pieces or samples submitted for approval shall be considered satisfactory from the point of view of the resistance to simulated weathering if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 5.1.4.1. | All test pieces have given a satisfactory result. |
+
+|  |  |
+| --- | --- |
+| 5.1.4.2. | One test piece having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces or samples gives satisfactory results. |
+
+6.   OPTICAL QUALITIES
+
+The requirements of Annex 3, paragraph 9.1 shall apply for products which are requisite for driver visibility.
+
+6.1.   Interpretation of results
+
+A set of samples shall be considered as satisfactory if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 6.1.1. | All samples have given satisfactory results. |
+
+|  |  |
+| --- | --- |
+| 6.1.2. | One sample having given an unsatisfactory result, a further set of test pieces gives satisfactory results. |
+
+7.   FIRE RESISTANCE TEST
+
+7.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 10, shall apply.
+
+7.2.   Interpretation of results
+
+The fire-resistance test shall be considered to have given a satisfactory result if the burning rate is less than 110 mm/min.
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 7.2.1. | For the purpose of approval a set of samples will be considered satisfactory if one of the following conditions is met:   |  |  | | --- | --- | | 7.2.1.1. | All samples give a satisfactory result. |  |  |  | | --- | --- | | 7.2.1.2. | One sample having given an unsatisfactory result a second set of samples gives satisfactory results. | |
+
+8.   RESISTANCE TO CHEMICALS
+
+8.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 11.2.1, shall apply.
+
+8.2.   Interpretation of results
+
+A set of samples shall be considered acceptable if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 8.2.1. | All samples give satisfactory results. |
+
+|  |  |
+| --- | --- |
+| 8.2.2. | One sample having given an unsatisfactory result, a second set of samples gives satisfactory results. |
+
+---
+
+ANNEX 16
+
+RIGID PLASTIC MULTIPLE-GLAZED UNITS
+
+1.   DEFINITION OF TYPE
+
+(Annex 16 is only valid for multiple-glazed units assembled of two panes)
+
+Multiple-glazed units shall be considered to belong to different types if they differ in at least one of the following principal or secondary characteristics.
+
+1.1.   The principal characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1. | The trade names or marks, |
+
+|  |  |
+| --- | --- |
+| 1.1.2. | The chemical designation of the component sheets. |
+
+|  |  |
+| --- | --- |
+| 1.1.3. | The classification of the sheets by the manufacturer. |
+
+|  |  |
+| --- | --- |
+| 1.1.4. | The thickness of the component sheets. |
+
+|  |  |
+| --- | --- |
+| 1.1.5. | The process of window manufacture. |
+
+|  |  |
+| --- | --- |
+| 1.1.6. | The width of air gap between the component plastic sheets. |
+
+|  |  |
+| --- | --- |
+| 1.1.7. | The colouring of the plastic sheets. |
+
+|  |  |
+| --- | --- |
+| 1.1.8. | The nature and type of coating. |
+
+1.2.   The secondary characteristics are as follows:
+
+|  |  |
+| --- | --- |
+| 1.2.1. | No secondary characteristic is involved. |
+
+2.   GENERAL
+
+2.1.   In the case of rigid plastic multiple-glazed units, tests will be performed on either flat test pieces or finished parts depending upon test requirements.
+
+2.2.   The test pieces shall be freed from protecting maskings and cleaned before testing. They shall be stored for 24 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 per cent ± 5 per cent prior to testing.
+
+2.3.   The nominal thickness tolerance for extruded plastic products is ± 10 per cent of the nominal thickness. For plastic products produced by other techniques (e.g. cast acrylic sheet), the acceptable thickness tolerance is given by the equation:
+
+*[Figure omitted — see the official source]*
+
+Where e is the sheet nominal thickness.
+
+Reference standard is ISO 7823/1
+
+NB: Where the thickness is not constant due to forming techniques, the measurement of the thickness will be at the geometric centre of the unit.
+
+2.4.   Test carried out on rigid plastic multiple-glazed units having a nominal width of gap e measured at the geometrical centre shall be considered to be applicable to all rigid plastic multiple-glazed units having the same characteristics and a nominal width of gap e ± 5 mm.
+
+The applicant for approval may alternatively submit the sample having the largest and smallest nominal gaps.
+
+3.   FLEXIBILITY TEST
+
+3.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+3.2.   Number of test pieces
+
+One test piece for each component sheet of the window measuring 300 mm × 25 mm shall be subjected to testing.
+
+3.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3.1. | The method used shall be that described in Annex 3, paragraph 12. |
+
+3.4.   Interpretation of results
+
+The vertical deviation of both component sheets shall be less than 50 mm after 60 seconds.
+
+4.   HEADFORM TEST
+
+4.1.   Indices of difficulty of the secondary characteristics
+
+No secondary characteristic is involved.
+
+4.2.   Number of test pieces
+
+Six representative windows of size 1 170 mm × 570 mm (± 0/2 mm in both directions) shall be subjected to testing. The test pieces will have provision for peripheral clamping.
+
+4.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.1. | The test method used shall be that described in Annex 3, paragraph 3.2. Impact will be on the inner side of the window. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.2. | For glazing like partitions and separating windows which have high impact probability the drop height shall be 3 m. The HIC value is also to be measured. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.3. | For glazing like side windows, back windows and sunroofs which have reduced impact possibilities the drop height shall be 1,5 m. The HIC value is also to be measured. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.4. | For glazing which do not have contact possibilities such as windows in trailer caravans as well as for small windows there will be no headform testing. A small window is a window into which a 150 mm diameter circle cannot be scribed. |
+
+4.4.   Interpretation of results
+
+The test shall be deemed to have given a satisfactory result if the following conditions are fulfilled:
+
+|  |  |
+| --- | --- |
+| 4.4.1. | The test piece is not penetrated nor shall it break into fully separate large pieces. |
+
+|  |  |
+| --- | --- |
+| 4.4.2. | The HIC value is less than 1 000. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 4.4.3. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the headform test if one of the following conditions is met:   |  |  | | --- | --- | | 4.4.3.1. | All the tests give satisfactory results, or |  |  |  | | --- | --- | | 4.4.3.2. | One test having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces gives satisfactory results. | |
+
+5.   MECHANICAL STRENGTH TEST 227 G BALL TEST
+
+5.1.   Indices of difficulty of the secondary characteristics:
+
+No secondary characteristic is involved.
+
+5.2.   Number of test pieces
+
+Ten flat test pieces of the outer component sheet or ten finished parts of size 300 mm × 300 mm (± 10/0 mm) shall be subjected to testing.
+
+5.3.   Test method
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.3.1. | The method used shall be that prescribed in Annex 3, paragraph 2.1. Impact will be on the outer side of the test window |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 5.3.2. | The height of drop for the various thickness values of the outer component of the window is given in the table below:  |  |  | | --- | --- | | Outer sheet thickness  (mm) | Height of drop  (m) | | < 3  4  5  > 6 | 2  3  4  5 |   For intermediate values of thickness in the interval between 3 mm and 6 mm the height of drop shall be interpolated. |
+
+5.4.   Interpretation of results
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 5.4.1. | The ball test shall be considered to have given a satisfactory result if the following conditions are met:  |  |  | | --- | --- | | (a) | The ball does not penetrate the test piece |  |  |  | | --- | --- | | (b) | The test piece does not break into separate pieces. | |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 5.4.2. | A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the 227 g ball test if one of the following conditions is met:  |  |  | | --- | --- | | 5.4.2.1. | Eight or more separate tests give a satisfactory result at the drop height. |  |  |  | | --- | --- | | 5.4.2.2. | Three or more tests having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces gives satisfactory results. | |
+
+5.5.   227 g ball test at – 18 °C ± 2 °C
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.5.1. | To minimise the temperature change of the test piece, the test shall be performed within 30 seconds of the removal of the test piece from the conditioning appliance. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.5.2. | The test method shall be that described in paragraph 5.3 of this annex, except that the test temperature is – 18 °C ± 2 °C. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 5.5.3. | Interpretation of results as in paragraph 5.4 of this annex. |
+
+6.   TEST RESISTANCE TO THE ENVIRONMENT
+
+6.1.   Test of resistance to abrasion
+
+6.1.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 4, shall apply; the test is performed for either 1 000, 500 or 100 cycles to measure abrasion of the surface of the product.
+
+6.1.2.   Three flat square test pieces of 100 mm for each type of surface shall be subjected to testing.
+
+6.1.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1.3.1. | In the case of glazing of class L, the abrasion test shall be considered to have given a satisfactory result if the total light scatter after abrasion does not exceed 2 per cent after 1 000 cycles on the outer surface of the test sample and 4 per cent after 100 cycles on the inner surface of the test sample. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1.3.2. | In the case of glazing of class M, the abrasion test shall be considered to have given a satisfactory result if the total light scatter after abrasion does not exceed 10 per cent after 500 cycles on the outer surface of the test sample and 4 per cent after 100 cycles on the inner surface of the test sample. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.1.3.3. | For sun roofs, no abrasion test is required. |
+
+6.1.4.   A set of samples for approval shall be considered satisfactory if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| (a) | All samples meet the requirements or |
+
+|  |  |
+| --- | --- |
+| (b) | One sample having failed, a repeat of the tests on a new set of samples gives a satisfactory result. |
+
+6.2.   Test of resistance to simulated weathering
+
+6.2.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 6.4 shall apply. The total ultraviolet radiant exposure with the long arc xenon lamp shall be 500 MJ/m2. During irradiation the test pieces shall be exposed to water spray in continuous cycles. During a cycle of 120 minutes the test pieces are exposed to light without water spray for 102 minutes and to light with water spray for 18 minutes.
+
+6.2.1.1.   Other methods giving equivalent results shall be allowed.
+
+6.2.2.   Number of test pieces
+
+Three flat test pieces 130 mm × 40 mm cut from the outer skin of the window shall be subjected to testing.
+
+6.2.3.   Interpretation of results
+
+6.2.3.1.   The resistance to the simulated weathering shall be considered to have given a satisfactory result if:
+
+|  |  |
+| --- | --- |
+| 6.2.3.1.1. | The light transmittance measured in accordance with Annex 3, paragraph 9.1 does not fall below 95 per cent of the pre-weathering value. Additionally, for windows which are required for driver visibility the value shall not fall below 70 per cent. |
+
+|  |  |
+| --- | --- |
+| 6.2.3.1.2. | No bubbles or other visible decompositions, discolorations, milkiness or crazing shall occur during weathering. |
+
+6.2.4.   A set of test pieces submitted for approval shall be considered satisfactory from the point of view of the resistance to simulated weathering if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 6.2.4.1. | All test pieces have given a satisfactory result. |
+
+|  |  |
+| --- | --- |
+| 6.2.4.2. | One test piece having given an unsatisfactory result, a further series of tests carried out on a new set of test pieces gives satisfactory results. |
+
+6.3.   Cross-cut test
+
+6.3.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 13, shall apply only to coated products.
+
+6.3.2.   The cross-cut test shall be carried out on one of the test pieces from paragraph 6.2.
+
+6.3.3.   Interpretation of results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 6.3.3.1. | The cross-cut test shall be considered to have given a satisfactory result if: The cross-cut value Gt1 is met. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 6.3.3.2. | The test piece shall be considered satisfactory from the point of view of approval if one of the following conditions is met:  |  |  | | --- | --- | | 6.3.3.2.1. | The test has given satisfactory results. |  |  |  | | --- | --- | | 6.3.3.2.2. | The test having given an unsatisfactory result, a further test carried out on another remaining test piece from the test in paragraph 6.2 gives satisfactory results. | |
+
+6.4.   Resistance-to-humidity test
+
+6.4.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 7, shall apply.
+
+6.4.2.   Ten square pieces or test windows of 300 × 300 mm shall be subjected to testing.
+
+6.4.3.   Interpretation of results
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 6.4.3.1. | The humidity test shall be considered to have given a satisfactory result if:  |  |  | | --- | --- | | 6.4.3.1.1. | No visible decompositions like bubbles or milkiness occur on any sample, |  |  |  | | --- | --- | | 6.4.3.1.2. | And if the light transmittance measured according to Annex 3, paragraph 9.1 does not fall to less than 95 per cent of the pre-test value and additionally to no less than 70 per cent for any window required for driver visibility. | |
+
+6.4.4.   After testing the test pieces shall be stored for at least 48 hours at a temperature of 23 °C ± 2 °C and a relative humidity of 50 ± 5 per cent, and then subjected to the 227 g ball drop test described under paragraph 5 of this annex.
+
+7.   OPTICAL QUALITIES
+
+The requirements of Annex 3, paragraph 9.1, shall apply for products which are requisite for driver visibility.
+
+7.1   Interpretation of results
+
+A set of samples shall be considered as satisfactory if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 7.1.1. | All samples give satisfactory results. |
+
+|  |  |
+| --- | --- |
+| 7.1.2. | One sample having given an unsatisfactory result, a further set of samples gives satisfactory results. |
+
+8.   FIRE RESISTANCE TEST
+
+8.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 10, shall apply.
+
+8.2.   Interpretation of results
+
+The test needs to be performed separately on both surfaces of multiple-glazed unit.
+
+The fire-resistance test shall be considered to have given a satisfactory result if the burning rate is less than 110 mm/min.
+
+8.2.1.   For the purpose of approval a set of samples will be considered satisfactory if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 8.2.1.1. | All samples give a satisfactory result. |
+
+|  |  |
+| --- | --- |
+| 8.2.1.2. | One sample having given an unsatisfactory result a second set of samples gives satisfactory results. |
+
+9.   RESISTANCE TO CHEMICALS
+
+9.1.   Indices of difficulty and test method
+
+The requirements of Annex 3, paragraph 11, shall apply.
+
+Testing will only be applied to samples representative of the outer face of the multiple-glazed unit.
+
+9.2.   Interpretation of results
+
+A set of samples shall be considered acceptable if one of the following conditions is met:
+
+|  |  |
+| --- | --- |
+| 9.2.1. | All samples give satisfactory results. |
+
+|  |  |
+| --- | --- |
+| 9.2.2. | One sample having given an unsatisfactory result, a second set of samples gives satisfactory results. |
+
+---
+
+ANNEX 17
+
+MEASUREMENT OF THE HEIGHT OF SEGMENT AND POSITION OF THE POINTS OF IMPACT
+
+Figure 1
+
+Determination of the height of segment 'h'
+
+*[Figure omitted — see the official source]*
+
+In the case of a safety glazing pane having a simple curvature, the height of segment will be equal to: h1 maximum.
+
+In the case of a safety glazing pane having a double curvature, the height of segment will be equal to: h1 maximum + h2 maximum.
+
+Figure 2
+
+Prescribed points of impact for windscreens
+
+*[Figure omitted — see the official source]*
+
+*[Figure omitted — see the official source]*
+
+Figure 3
+
+Prescribed points of impact for uniformly toughened glass panes
+
+*[Figure omitted — see the official source]*
+
+*[Figure omitted — see the official source]*
+
+*[Figure omitted — see the official source]*
+
+The points shown in Figures 3(a), 3(b), and 3 (c) are examples of the sites for the points of impact prescribed in Annex 5, paragraph 2.5.
+
+---
+
+ANNEX 18
+
+PROCEDURE FOR DETERMINING TEST AREAS ON WINDSCREENS OF VEHICLES IN RELATION TO THE ‘V’ POINTS
+
+1.   POSITION OF THE ‘V’ POINTS
+
+1.1.   The position of the ‘V’ points in relation to the ‘R’ point (see Annex 19 to this Regulation), as indicated by the X, Y and Z co-ordinates in the three-dimensional reference system, are shown in Tables 1 and 2.
+
+1.2.   Table 1 gives the basic co-ordinates for a design seat-back angle of 25°. The positive direction of the co-ordinates is shown in this annex, Figure 3.
+
+Table 1
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ‘V’ Point | a | b | c (d) |
+| V1 | 68  mm | –5  mm | 665  mm |
+| V2 | 68  mm | –5  mm | 589  mm |
+
+1.3.   Correction for design seat-back angles other than 25°
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.3.1. | Table 2 shows the further corrections to be made to the X and Z co-ordinates of each ‘V’ point when the design seat-back angle is not 25°. The positive direction of the co-ordinates is shown in this annex, Figure 3. Table 2   |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | Seat-back angle  (in °) | Horizontal co-ordinates  X | Vertical co-ordinates  Z | Seat-back angle  (in °) | Horizontal co-ordinates  X | Vertical co-ordinates  Z | | 5 | – 186  mm | 28  mm | 23 | –17  mm | 5  mm | | 6 | – 176  mm | 27  mm | 24 | –9  mm | 2  mm | | 7 | – 167  mm | 27  mm | 25 | 0  mm | 0  mm | | 8 | – 157  mm | 26  mm | 26 | 9  mm | –3  mm | | 9 | – 147  mm | 26  mm | 27 | 17  mm | –5  mm | | 10 | – 137  mm | 25  mm | 28 | 26  mm | –8  mm | | 11 | – 128  mm | 24  mm | 29 | 34  mm | –11  mm | | 12 | – 118  mm | 23  mm | 30 | 43  mm | –14  mm | | 13 | – 109  mm | 22  mm | 31 | 51  mm | –17  mm | | 14 | –99  mm | 21  mm | 32 | 59  mm | –21  mm | | 15 | –90  mm | 20  mm | 33 | 67  mm | –24  mm | | 16 | –81  mm | 18  mm | 34 | 76  mm | –28  mm | | 17 | –71  mm | 17  mm | 35 | 84  mm | –31  mm | | 18 | –62  mm | 15  mm | 36 | 92  mm | –35  mm | | 19 | –53  mm | 13  mm | 37 | 100  mm | –39  mm | | 20 | –44  mm | 11  mm | 38 | 107  mm | –43  mm | | 21 | –35  mm | 9  mm | 39 | 115  mm | –47  mm | | 22 | –26  mm | 7  mm | 40 | 123  mm | –52  mm | |
+
+2.   TEST AREAS
+
+2.1.   Two test areas shall be determined from the ‘V’ points.
+
+2.2.   
+‘Test area A’ is the area of the outer surface of the windscreen bounded by the intersection of the following four planes (see Figure 1a and 1b):
+
+|  |  |
+| --- | --- |
+| (a) | A plane inclined upwards from the X axis at 3°, passing through V1, and parallel to the Y axis (plane 1); |
+
+|  |  |
+| --- | --- |
+| (b) | A plane inclined downwards from the X axis at 1°, passing through V2, and parallel to the Y axis (plane 2); |
+
+|  |  |
+| --- | --- |
+| (c) | A vertical plane passing through V1 and V2 and inclined at 13° to the left of the X axis in the case of left-hand drive vehicles and to the right of the X axis in the case of right-hand drive vehicles (plane 3); |
+
+|  |  |
+| --- | --- |
+| (d) | A vertical plane passing through V1 and V2 and inclined at 20° to the right of the X axis in the case of left-hand drive vehicles, to the left of the X axis in the case of right-hand drive vehicles (plane 4); |
+
+|  |  |
+| --- | --- |
+| (e) | In case of a single central driving position, two planes upwards and downwards as defined in paragraphs 2.2. (a) and (b) above and two vertical plane passing through V1 and V2 and inclined at 15° to the left of the X axis (plane 3) and 15° to the right of the X axis (plane 4) (see Figure 1b). |
+
+2.3.   
+‘Test area B’ is the area of the outer surface of the windscreen bounded by the intersection of the following four planes:
+
+|  |  |
+| --- | --- |
+| (a) | A plane inclined upwards from the X axis at 7°, passing through V1, and parallel to the Y axis (plane 5); |
+
+|  |  |
+| --- | --- |
+| (b) | A plane inclined downwards from the X axis at 5°, passing through V2, and parallel to the Y axis (plane 6); |
+
+|  |  |
+| --- | --- |
+| (c) | A vertical plane passing through V1 and V2 and inclined at 17° to the left of the X axis in the case of left-hand drive vehicles and to the right of the X axis in the case of right-hand drive vehicles (plane 7); |
+
+|  |  |
+| --- | --- |
+| (d) | A plane symmetrical with respect to plane 7 in relation to the longitudinal median plane of the vehicle (plane 8). |
+
+2.4.   The ‘reduced test area B’ is test area B with the exclusion of the following areas [(1)](#ntr1-L_2014042EN.01011401-E0001) (see Figures 2 and 3).
+
+2.4.1.   The test area A defined under paragraph 2.2, extended according to paragraph 9.2.2.1 of Annex 3;
+
+2.4.2.   At the discretion of the vehicle manufacturer, one of the two following paragraphs may apply:
+
+|  |  |
+| --- | --- |
+| 2.4.2.1. | Any opaque obscuration bounded downwards by plane 1 and laterally by plane 4 and its symmetrical in relation to the longitudinal median plane of the vehicle (plane 4′); |
+
+|  |  |
+| --- | --- |
+| 2.4.2.2. | Any opaque obscuration bounded downwards by plane 1 provided it is inscribed in an area 300 mm wide centred on the longitudinal median plane of the vehicle and provided the opaque obscuration below the plane 5 trace is inscribed in an area limited laterally by the traces of planes passing by the limits of a 150 mm wide segment [(2)](#ntr2-L_2014042EN.01011401-E0002) and parallel respectively to the traces of planes 4 and 4′. |
+
+2.4.3.   Any opaque obscuration bounded by the intersection of the outer surface of the windscreen:
+
+|  |  |
+| --- | --- |
+| (a) | With a plane inclined downwards from the X axis at 4°, passing through V2, and parallel to the Y axis (plane 9); |
+
+|  |  |
+| --- | --- |
+| (b) | With plane 6; |
+
+|  |  |
+| --- | --- |
+| (c) | With planes 7 and 8 or the edge of the outer surface of the windscreen if the intersection of plane 6 with plane 7 (plane 6 with plane 8) doesn't cross the outer surface of the windscreen; |
+
+2.4.4.   Any opaque obscuration bounded by the intersection of the outer surface of the windscreen:
+
+|  |  |
+| --- | --- |
+| (a) | With a horizontal plane passing through V1 (pane 10); |
+
+|  |  |
+| --- | --- |
+| (b) | With plane 3 [(3)](#ntr3-L_2014042EN.01011401-E0003) |
+
+|  |  |
+| --- | --- |
+| (c) | With plane 7 [(4)](#ntr4-L_2014042EN.01011401-E0004) or the edge of the outer surface of the windscreen if the intersection of plane 6 with plane 7 (plane 6 with plane 8) doesn't cross the outer surface of the windscreen; |
+
+|  |  |
+| --- | --- |
+| (d) | With plane 9; |
+
+2.4.5.   An area within 25 mm from the edge of the outer surface of the windscreen or from any opaque obscuration. This area shall not impinge on the extended test area A.
+
+2.5.   Definition of the datum points (see Figure 3)
+
+The datum points are points situated at the intersection with the outer surface of the windscreen of lines radiating forward from the V points:
+
+2.5.1.   Upper vertical datum point forward of V1 and 7° above the horizontal (Pr1);
+
+2.5.2.   Lower vertical datum point forward of V2 and 5° below the horizontal (Pr2);
+
+2.5.3   Horizontal datum point forward of V1 and 17° to the left (Pr3);
+
+2.5.4.   Three additional datum points symmetrical to the points defined under paragraphs 2.5.1 to 2.5.3 in relation to the longitudinal median plane of the vehicle (respectively P′r1, P′r2, P′r3).
+
+Figure 1a
+
+Test area ‘A’ (example of a left-hand steering control vehicle)
+
+*[Figure omitted — see the official source]*
+
+L i
+
+Figure 1b
+
+Test area ‘A’ (example of Central Driving Position)
+
+*[Figure omitted — see the official source]*
+
+L i
+
+Figure 2a
+
+Reduced test area ‘B’ (example of a left-hand steering control vehicle) — upper obscuration area as defined in paragraph 2.4.2.2
+
+*[Figure omitted — see the official source]*
+
+L i
+
+Figure 2b
+
+Reduced test area ‘B’ (example of a left-hand steering control vehicle) — upper obscuration area as defined in paragraph 2.4.2.1
+
+*[Figure omitted — see the official source]*
+
+L i
+
+Figure 3
+
+Determination of the datum points (example of a left-hand steering control vehicle)
+
+*[Figure omitted — see the official source]*
+
+L ri
+
+---
+
+[(1)](#ntc1-L_2014042EN.01011401-E0001)  But taking into account the fact that the datum points as defined under paragraph 2.5 shall be located in the transparent area.
+
+[(2)](#ntc2-L_2014042EN.01011401-E0002)  Measured on the outer surface of the windscreen and on the trace of plane 1.
+
+[(3)](#ntc3-L_2014042EN.01011401-E0003)  For the other side of the windscreen, with a symmetrical plane with respect to plane 3 in relation to the longitudinal median plane of the vehicle.
+
+[(4)](#ntc4-L_2014042EN.01011401-E0004)  For the other side of the windscreen, with plane 8.
+
+---
+
+ANNEX 19
+
+PROCEDURE FOR DETERMINING THE ‘H’ POINT AND THE ACTUAL TORSO ANGLE FOR SEATING POSITIONS IN MOTOR VEHICLES
+ [(1)](#ntr1-L_2014042EN.01011901-E0001)
+
+|  |  |
+| --- | --- |
+| Appendix 1 | Description of the three-dimensional H point machine (3 DH machine) |
+| Appendix 2 | Three-dimensional reference system |
+| Appendix 3 | Reference data concerning seating positions |
+
+---
+
+[(1)](#ntc1-L_2014042EN.01011901-E0001)  The procedure is described in Annex 1 and its appendices to the Consolidated Resolution on the Construction of Vehicles (R.E.3) (document ECE/TRANS/WP.29/78/Rev.2, available at: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html)
+
+---
+
+ANNEX 20
+
+CHECKS ON CONFORMITY OF PRODUCTION
+
+1.   DEFINITIONS
+
+For the purpose of this annex:
+
+|  |  |
+| --- | --- |
+| 1.1. | ‘Type of product’ means all glazings having the same principal characteristics; |
+
+|  |  |
+| --- | --- |
+| 1.2. | ‘Thickness class’ means all glazings whose component parts have the same thickness within the permitted tolerances; |
+
+|  |  |
+| --- | --- |
+| 1.3. | ‘Production unit’ means all production facilities of one or several types of glazings established in the same place; it may include several production lines; |
+
+|  |  |
+| --- | --- |
+| 1.4. | ‘Shift’ means a period of production carried out by the same production line during daily working hours; |
+
+|  |  |
+| --- | --- |
+| 1.5. | ‘Production run’ means a continuous period of production of the same type of product in the same production line; |
+
+|  |  |
+| --- | --- |
+| 1.6. | ‘Ps’ means the number of glazings of the same type of product produced by the same shift; |
+
+|  |  |
+| --- | --- |
+| 1.7. | ‘Pr’ means the number of glazings of the same type of product produced during a production run. |
+
+2.   TESTS
+
+The glazing shall be subjected to the following tests:
+
+2.1.   Toughened-glass windscreens
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.1. | Fragmentation test in accordance with the requirements of Annex 4, paragraph 2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.2. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.3. | Optical distortion test in accordance with the requirements of Annex 3, paragraph 9.2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1.4. | Secondary image separation test in accordance with the requirements of Annex 3, paragraph 9.3. |
+
+2.2.   Uniformly-toughened glass panes
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.1. | Fragmentation test in accordance with the requirements of Annex 5, paragraph 2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.2. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 2.2.3. | In the case of glass panes used as windscreens:  |  |  | | --- | --- | | 2.2.3.1. | Optical distortion test in accordance with the requirements of Annex 3, paragraph 9.2. |  |  |  | | --- | --- | | 2.2.3.2. | Secondary image separation test in accordance with the requirements of Annex 3, paragraph 9.3. | |
+
+2.3.   Ordinary laminated-glass windscreens and glass-plastics windscreens
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3.1. | Headform test in accordance with the requirements of Annex 6, paragraph 3. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3.2. | 2 260 g ball test in accordance with the requirements of Annex 6, paragraph 4.2 and Annex 3, paragraph 2.2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3.3. | Test of resistance to high temperature in accordance with the requirements of Annex 3, paragraph 5. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3.4. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3.5. | Optical distortion test in accordance with the requirements of Annex 3, paragraph 9.2. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.3.6. | Secondary image separation test in accordance with the requirements of Annex 3, paragraph 9.3. |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.3.7. | In the case of glass-plastics windscreens only:  |  |  | | --- | --- | | 2.3.7.1. | Test of resistance to abrasion in accordance with the requirements of Annex 9, paragraph 2.1. |  |  |  | | --- | --- | | 2.3.7.2. | Resistance-to-humidity test in accordance with the requirements of Annex 9, paragraph 3. |  |  |  | | --- | --- | | 2.3.7.3. | Test of resistance to chemicals in accordance with the requirements of Annex 3, paragraph 11.2.1. | |
+
+2.4.   Ordinary laminated-glass and glass-plastics panes
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.4.1. | 227 g ball test in accordance with the requirements of Annex 7, paragraph 4. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.4.2. | Test of resistance to high temperature in accordance with the requirements of Annex 3, paragraph 5. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.4.3. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.4.4. | In the case of glass-plastics glazing only:  |  |  | | --- | --- | | 2.4.4.1. | Test of resistance to abrasion in accordance with the requirements of Annex 9, paragraph 2.1. |  |  |  | | --- | --- | | 2.4.4.2. | Resistance-to-humidity test in accordance with the requirements of Annex 9, paragraph 3. |  |  |  | | --- | --- | | 2.4.4.3. | Test of resistance to chemicals in accordance with the requirements of Annex 3, paragraph 11.2.1. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.4.5. | The above provisions shall be considered to be met if the corresponding tests have been carried out on a windscreen of the same composition. |
+
+2.5.   Treated laminated-glass windscreens
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.5.1. | In addition to the tests prescribed in paragraph 2.3 of this annex, a fragmentation test shall be carried out in accordance with the requirements of Annex 8, paragraph 4. |
+
+2.6.   Safety glazing faced with plastics material
+
+In addition to the tests prescribed in the various paragraphs of this the following tests shall be carried out:
+
+|  |  |
+| --- | --- |
+| 2.6.1. | Test of resistance to abrasion in accordance with the requirements of Annex 9, paragraph 2.1. |
+
+|  |  |
+| --- | --- |
+| 2.6.2. | Resistance-to-humidity test in accordance with the requirements of Annex 9, paragraph 3. |
+
+|  |  |
+| --- | --- |
+| 2.6.3. | Test of resistance to chemicals in accordance with the requirements of Annex 3, paragraph 11.2.1. |
+
+2.7.   Multiple-glazed units
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.7.1. | The tests to be performed are those specified in this annex for each glass pane composing the multiple-glazed unit, with the same frequency and the same requirements. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.7.2. | In the case of multiple-glazed units, light transmission measurement shall be performed with the requirements of Annex 3, paragraph 9.1. |
+
+2.8.   Rigid plastic panes
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.8.1. | 227 g ball drop test in accordance with the requirements of Annex 14, paragraph 5. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.8.2. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.8.3. | The abrasion test in accordance with the requirements of Annex 14, paragraph 6.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.8.4. | Cross-cut test in accordance with the requirements of Annex 14, paragraph 6.3. NB: The above test of paragraph 2.8.2 only applies if the glazing is to be used in a location requisite for driving visibility.  The above test of paragraph 2.8.4 will be carried out on samples that have not been subjected to test in accordance with paragraph 6.2 of Annex 14. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.8.5. | Test of resistance to chemicals in accordance with the requirements of Annex 3, paragraph 11. |
+
+2.9.   Flexible plastic glazing other than windscreens
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.9.1. | 227 g ball drop test in accordance with the requirements of Annex 15, paragraph 4. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.9.2. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. NB: The above test of paragraph 2.9.2 only applies if the glazing is to be used in a location requisite for driving visibility. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.9.3. | Test of resistance to chemicals in accordance with the requirements of Annex 3, paragraph 11.2.1. |
+
+2.10.   Rigid plastic multiple-glazed units
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.10.1. | 227 g ball drop test in accordance with the requirements of Annex 16, paragraph 5. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.10.2. | Light transmission measurement in accordance with the requirements of Annex 3, paragraph 9.1. NB: The above test of paragraph 2.10.2 only applies if the glazing is to be used in a location requisite for driving visibility. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.10.3. | Test of resistance to chemicals in accordance with the requirements of Annex 3, paragraph 11. |
+
+3.   FREQUENCY OF TESTS AND RESULTS
+
+3.1.   Fragmentation test
+
+3.1.1.   Tests
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1.1.1. | A first series of tests consisting of a break at each impact point specified by this Regulation shall be carried out at the beginning of the production of each new type of glazing to determine the most severe break point. The result of the tests shall be recorded. However, for toughened-glass windscreens, the first series of tests shall be carried out only if the annual production of this type of glazing exceeds 200 units. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1.1.2. | During the production run the check test shall be carried out using the break point as determined in paragraph 3.1.1.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1.1.3. | A check shall be carried out at the beginning of each production run or following a change of colour. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3.1.1.4. | During the production run the check tests shall be carried out at the following minimum frequency:  |  |  |  | | --- | --- | --- | | Toughened-glass windscreens | Toughened-glass panes | Treated laminated-glass windscreens | | Ps ≤ 200: one break per production run | Pr ≤ 500: one per shift | 0,1 per cent per type | | Ps > 200: one break every four hours of production | Pr > 500: two per shift |  | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1.1.5. | A check shall be carried out at the end of the production run on one of the last glazing manufactured. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1.1.6. | For Pr < 20, only one fragmentation test per production run shall be carried out. |
+
+3.1.2.   Results
+
+All results shall be recorded, including the results without permanent recording of the fragmentation pattern.
+
+In addition, a test with permanent recording of the fragmentation pattern shall be made once per shift, except for Pr ≤ 500. In this last case only one test with permanent recording of the fragmentation pattern shall be made per production run.
+
+3.2.   Headform test
+
+3.2.1.   Tests
+
+The check shall be carried out on test pieces corresponding to at least 0,5 per cent of the daily production of laminated-glass windscreens of one production line. A maximum of 15 windscreens per day shall be tested.
+
+The choice of test pieces shall be representative of the production of the various types of windscreen.
+
+As an alternative and with the agreement of the administrative service, these tests may be replaced by the 2 260 g ball test (see paragraph 3.3 below). Behaviour under head impact shall in any event be checked on at least two samples for each thickness class per year.
+
+3.2.2.   Results
+
+All results shall be recorded.
+
+3.3.   2 260 g ball-impact test
+
+3.3.1.   Tests
+
+The minimum frequency for the check shall be one complete test per month for each thickness class.
+
+3.3.2.   Results
+
+All results shall be recorded.
+
+3.4.   227 g ball-impact test
+
+3.4.1.   Tests
+
+The test pieces shall be cut from finished parts. However, for practical reasons, the tests may be carried out on finished products of parts of them.
+
+The check shall be carried out on a sampling corresponding to at least 0,5 per cent of the production of one shift with a maximum of ten samples per day.
+
+3.4.2.   Results
+
+All results shall be recorded.
+
+3.5.   Test of resistance to high temperature
+
+3.5.1.   Tests
+
+The test pieces shall be cut from finished parts. However, for practical reasons, the tests may be carried out on finished products or parts of them. These shall be selected so that all interlayers are tested proportionately to their use.
+
+The check shall be carried out on at least three samples per colour of interlayer taken from the daily production.
+
+3.5.2.   Results
+
+All results shall be recorded.
+
+3.6.   Light transmission
+
+3.6.1.   Tests
+
+Representative samples of tinted finished products shall be subjected to this test.
+
+The check shall be carried out at least at the beginning of every production run if there is any change in the characteristics of the glazing affecting the results of the test.
+
+Windscreens and panes having a regular light transmittance measured during type approval of not less than 75 per cent, and glass glazing whose symbol is V (see paragraph 5.5.2 of this Regulation), shall be exempted from this test.
+
+Alternatively, for toughened-glass, a certificate of compliance with the above requirements may be submitted by the glass supplier.
+
+3.6.2.   Results
+
+The value of regular light transmission shall be recorded. In addition, for windscreens with opaque obscuration, it shall be verified from the drawings referred to in paragraph 3.2.1.2.2.4 of this Regulation, that such bands are outside the test area B or zone I according to the category of vehicle for which the windscreen is intended. Any opaque obscuration shall be in conformity with the provisions contained in Annex 18.
+
+3.7.   Optical distortion and separation of secondary image
+
+3.7.1.   Tests
+
+Every windscreen shall be inspected for visual defects. In addition, using the methods specified in this Regulation or any method giving similar results, measurements shall be made in the various areas of vision at the following minimum frequencies:
+
+|  |  |
+| --- | --- |
+|  | Either where Ps ≤ 200, one sample per shift, |
+
+|  |  |
+| --- | --- |
+|  | Or, where Ps > 200, two samples per shift, |
+
+|  |  |
+| --- | --- |
+|  | Or 1 per cent of the whole production, the test pieces chosen being representative of all production. |
+
+3.7.2.   Results
+
+All results shall be recorded.
+
+3.8.   Test of resistance to abrasion
+
+3.8.1.   Tests
+
+Plastics-surfaced, glass-plastics and plastic glazing only shall be submitted to this test. There shall be at least one check per month and per type of plastic material surfacing or plastic material.
+
+3.8.2.   Results
+
+The measurement of the light scatter shall be recorded.
+
+3.9.   Resistance-to-humidity test
+
+3.9.1.   Tests
+
+Plastics-surfaced and glass-plastics glazing only shall be submitted to this test. There shall be at least one check per month and per type of plastic material surfacing or plastic material.
+
+3.9.2.   Results
+
+All results shall be recorded.
+
+3.10.   Test of resistance to chemicals
+
+3.10.1.   Tests
+
+Plastics-surfaced, glass-plastics and plastic glazing only shall be submitted to this test. There shall be at least one check per month and per type of plastic material surfacing or plastic material.
+
+3.10.2.   Results
+
+All results shall be recorded.
+
+3.11.   Cross-cut test
+
+3.11.1.   Tests
+
+Only rigid plastic glazing with an abrasion resistant coating shall be submitted to this test. There shall be at least one check per week and per type of plastic material and its coating, on samples that have not been subjected to the test for simulated weathering (Annex 14, paragraph 6.2).
+
+A test on weathered samples shall be carried out each 3 months.
+
+3.11.2.   Results
+
+All results shall be recorded.
+
+---
+
+ANNEX 21
+
+PROVISIONS REGARDING THE INSTALLATION OF SAFETY GLAZING ON VEHICLES
+
+1.   SCOPE
+
+This annex sets out provisions regarding the installation of safety glazing in vehicles of categories M, N and O [(1)](#ntr1-L_2014042EN.01012501-E0001) in order to ensure a high level of safety for the occupants and, in particular, to provide the driver with a high degree of visibility in all traffic conditions, not only forwards but also rearwards and laterally.
+
+It does not apply to armoured vehicles as defined hereunder in paragraph 2.3.
+
+2.   DEFINITIONS
+
+For the purpose of this annex,
+
+|  |  |
+| --- | --- |
+| 2.1. | ‘Vehicle’ means any motor vehicle and its trailer, intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h, with the exception of vehicles which run on rails and all mobile machinery; |
+
+|  |  |
+| --- | --- |
+| 2.2. | ‘Category of vehicles’ means a set of vehicles entering into the relevant category of the classification adopted in Annex 7 to the Consolidated Resolution on the Construction of Vehicles (R.E.3) [(1)](#ntr1-L_2014042EN.01012501-E0001); |
+
+|  |  |
+| --- | --- |
+| 2.3. | ‘Special purpose vehicle’, ‘motor caravan’, ‘armoured vehicle’, ‘ambulance’, ‘hearse’, ‘convertible’, are respectively defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3) [(1)](#ntr1-L_2014042EN.01012501-E0001). |
+
+|  |  |
+| --- | --- |
+| 2.4. | ‘Double-deck vehicle’ is defined in paragraph 2.1.2 of Regulation No 107. |
+
+3.   GENERAL PROVISIONS APPLICABLE TO VEHICLES OF CATEGORIES M, N AND O
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.1. | Safety glazing shall be fitted in such a way that, despite the stresses to which the vehicle is submitted under normal operating conditions, it remains in position and continues to afford visibility and safety to the occupants of the vehicle; |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2. | Safety glazing shall bear the appropriate component type-approval mark specified in paragraph 5.4. of this Regulation, followed when required, by one of the additional symbols provided for in paragraph 5.5. |
+
+4.   SPECIFIC PROVISIONS APPLICABLE TO VEHICLES OF CATEGORIES M AND N [(1)](#ntr1-L_2014042EN.01012501-E0001)
+
+4.1.   Windscreens
+
+4.1.1.   The regular light transmittance shall not be less than 70 per cent.
+
+4.1.2.   The windscreen shall be type approved for the vehicle type for which it is intended to be fitted.
+
+4.1.3.   The windscreen shall be correctly fitted with reference to the vehicle driver's ‘R’ point.
+
+4.1.4.   Vehicles having a maximum design speed greater than 40 km/h may not be fitted with a toughened windscreen.
+
+4.2.   Safety glazing other than windscreens and partition glazing
+
+4.2.1.   Safety glazing requisite for the driver's forwards field of vision
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.1.1. | The safety glazing through which the driver’s forwards field of vision as defined in paragraph 2.23.1 of this Regulation is obtained, shall have a regular light transmittance of at least 70 per cent. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.1.2. | Plastic safety glazing shall bear an additional symbol /B/L, as defined in paragraphs 5.5.5 and 5.5.7 of this Regulation. |
+
+4.2.2.   Safety glazing requisite for the driver's rearward vision
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.2.1. | The safety glazing defined in paragraph 2.23.2 of this Regulation shall have a light transmittance of at least 70 per cent, but where two exterior rear view mirrors are fitted, the glazing is allowed to have a light transmittance below 70 per cent, provided that it shall bear the additional symbol V specified in paragraph 5.5.2 of this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.2.2. | Plastic safety glazing shall bear an additional symbol A/L or B/L, as defined in paragraphs 5.5.5 and 5.5.7 of this Regulation. As an alternative, the rear glazing in the folding roof of a convertible vehicle may bear the additional symbol /B/M.  The rear glazing in the folding roof of a convertible vehicle may be made of a flexible plastic pane. |
+
+4.2.3.   Other safety glazing
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.3.1. | The safety glazing not covered by the definitions of paragraphs 2.23.1 and 2.23.2 of this Regulation shall bear the additional symbol V specified in paragraph 5.5.2 of this Regulation, if the light transmittance is below 70 per cent. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.2.3.2. | Plastic safety glazings shall bear one of the additional symbols defined in paragraphs 5.5.5, 5.5.6, and 5.5.7 of this Regulation. However, when the vehicle is intended for conveying passengers, glazings with the additional symbols /C/L or /C/M are not allowed at locations where there is a risk of head impact. |
+
+4.2.4.   Exemptions
+
+In the case of plastic safety glazings, the provisions related to abrasion resistance as referred in paragraphs 4.2.2.2 and 4.2.3.2 of this annex do not apply for the vehicles and glazing locations listed below:
+
+|  |  |
+| --- | --- |
+| (a) | Ambulances |
+
+|  |  |
+| --- | --- |
+| (b) | Hearses |
+
+|  |  |
+| --- | --- |
+| (c) | Trailers, including caravans |
+
+|  |  |
+| --- | --- |
+| (d) | Sunroofs and glazings located in the roof of a vehicle |
+
+|  |  |
+| --- | --- |
+| (e) | All glazings of the upper deck of a double-deck vehicle |
+
+No abrasion test/symbol is required.
+
+4.3.   Particular requirements
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.1. | Any forward-facing glazing other than a windscreen shall be constituted either by laminated glass or a plastic pane bearing the additional symbol/A, as defined in paragraphs 5.5.5 and 5.5.7 of this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.2. | Paragraph 4.3.1 is not applicable to vehicles having a maximum design speed lower than 40 km/h. |
+
+---
+
+[(1)](#ntc1-L_2014042EN.01012501-E0001)  As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3) (TRANS/WP.29/78/Rev. 2, para. 2).
+
+---

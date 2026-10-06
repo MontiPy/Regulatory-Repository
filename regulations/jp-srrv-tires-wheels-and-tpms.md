@@ -25,8 +25,8 @@ status: in-force
 summary: Tires, wheels, rims, valve stems, TPMS, and associated placards and markings
   on passenger and light vehicles in Japan are regulated under SRRV/TRIAS to ensure
   structural suitability, correct identification, and proper matching to the vehicle
-  configuration. Compliance requires confirming applicability by vehicle...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  configuration.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 80ba7b4dffe836828f8b2e9573c7aaf39934653e
 systems:
 - Tires & wheels
@@ -34,9 +34,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Tires, Wheels and TPMS
 translation_status: translated
-un_equivalent_ai:
-- UN R141
-- UN R142
 vehicle_categories:
 - Passenger car
 - Light truck

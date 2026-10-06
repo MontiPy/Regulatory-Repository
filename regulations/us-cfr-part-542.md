@@ -15,11 +15,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-542
 status: in-force
-summary: Selection procedures for light duty truck lines to be covered by the federal
-  Theft Prevention Standard govern how manufacturers and NHTSA jointly determine whether
+summary: 49 CFR Part 542 sets procedures for manufacturers and NHTSA to decide whether
   a new light duty truck line is likely to have a theft rate above or below the 1990/91
-  median, and whether low-theft truck lines share interchangeable major...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  median, and so whether it is covered by the Theft Prevention Standard in Part 541.
+  It applies to new lines introduced in the US on or after September 1, 2006.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d075a6103614659515f230d5a11986f12a24a313
 systems:
 - Theft prevention
@@ -28,9 +28,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 542—PROCEDURES FOR SELECTING LIGHT DUTY TRUCK LINES TO BE COVERED BY THE
   THEFT PREVENTION STANDARD
-un_equivalent_ai:
-- UN R116
-- UN R162
 vehicle_categories:
 - Light truck
 - Passenger car

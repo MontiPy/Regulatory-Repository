@@ -7,8 +7,9 @@ commodities:
 - Charging inlet
 - Power electronics
 - Electric motors
+effective_date: '2027-09-01'
 id: us-fmvss-305a
-last_pulled: '2026-06-01T18:42:10+00:00'
+last_pulled: '2026-10-06T03:27:36+00:00'
 open_tags:
 - electric powertrain
 - high voltage protection
@@ -25,13 +26,18 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305a
-status: in-force
-summary: Electric powertrain integrity in electric-powered passenger cars, multipurpose
-  passenger vehicles, trucks, and buses with high-voltage propulsion systems (above
-  60 VDC or 30 VAC) capable of exceeding 40 km/h is regulated by this standard. It
-  requires protection against electric shock, electrolyte leakage, fire,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 30a85ad3968c68d5b26b46b3acc55f339fc8790f
+status: upcoming
+status_note: Mandatory applicability begins 1 Sep 2027 for vehicles of 4,536 kg GVWR
+  or less and 1 Sep 2028 for heavier vehicles; small-volume manufacturers get one
+  more year.
+summary: FMVSS No. 305a specifies requirements for protection from electric shock,
+  fire, explosion and gas venting during normal operation and after a crash, including
+  electrolyte leakage and energy storage intrusion. It applies to passenger cars,
+  MPVs, trucks and buses with propulsion voltages above 60 VDC or 30 VAC and a top
+  speed over 40 km/h; mandatory from September 1, 2027 (4,536 kg GVWR or less) and
+  September 1, 2028 (heavier).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 49099a9e697511337d72eb68621d43b58cd5d20a
 systems:
 - Battery safety
 - EV charging
@@ -41,8 +47,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: '§ 571.305a Standard No. 305a; electric-powered vehicles: Electric powertrain
   integrity; mandatory applicability begins on September 1, 2027.'
-un_equivalent_ai:
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -345,7 +349,7 @@ S9.1 Frontal barrier crash. The test vehicle, with test dummies in accordance wi
 
 S9.2 Rear moving barrier impact. The test vehicle, with test dummies in accordance with S6.1 of § 571.301, is impacted from the rear by a barrier that conforms to S7.3(b) of § 571.301 and that is moving at any speed between 79 and 81 km/h.
 
-S9.3 Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in § 571.214 at positions required for testing by S7.1.1, S7.2.1, or S7.2.2 of Standard 214 (§ 571.214), is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
+S9.3 Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in FMVSS No. 214 (§ 571.214) at positions required for testing by S7.2.2 of FMVSS No. 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
 
 S9.4 Post-impact test static rollover. After each crash test specified in S9.1, S9.2, and S9.3, without any alteration of the vehicle, the vehicle is rotated on its longitudinal axis to each successive increment of 90 degrees under the test conditions of S10.3 of this standard.
 
@@ -551,4 +555,4 @@ S14.2 Driving through standing water test. The vehicle is driven through a wade 
 
 (b) At the conclusion of the standing water test, with the vehicle still wet, electrical isolation is determined in accordance with S7.2 of this standard.
 
-*[89 FR 104352, Dec. 20, 2024]*
+*[89 FR 104352, Dec. 20, 2024, as amended at 91 FR 33115, June 3, 2026]*

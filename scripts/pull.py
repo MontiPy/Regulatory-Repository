@@ -29,6 +29,7 @@ REGION_CONNECTOR = {
     "JP": ("connectors.egov_jp", "manifests/jp.yaml"),
     "CA": ("connectors.justice_ca", "manifests/ca.yaml"),
     "ECE": ("connectors.unece", "manifests/ece.yaml"),
+    "ECE-OJ": ("connectors.unece_oj", "manifests/ece.yaml"),  # fallback: UN Regs via the EU OJ
     "BR": ("connectors.brazil", "manifests/br.yaml"),
     "CN": ("connectors.china", "manifests/cn.yaml"),
     "GCC": ("connectors.gulf", "manifests/gcc.yaml"),

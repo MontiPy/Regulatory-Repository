@@ -17,12 +17,12 @@
   aliases: [USA, America, Puerto Rico, Guam]
   drive: LHD
   regime: self-certification
-  basis: FMVSS (49 CFR Part 571) + EPA/CARB emissions & GHG + NHTSA CAFE
+  basis: FMVSS (49 CFR Part 571) + EPA/CARB criteria-pollutant emissions + NHTSA CAFE
   un_1958: false
   un_1998: true
   authorities:
     - { name: NHTSA, scope: "Vehicle safety (FMVSS), recalls, CAFE, theft, EDR", url: "https://www.nhtsa.gov" }
-    - { name: US EPA, scope: "Exhaust/evap emissions, GHG, fuel-economy labels, refrigerants (SNAP)", url: "https://www.epa.gov/ve-certification" }
+    - { name: US EPA, scope: "Exhaust/evap emissions, fuel-economy test procedures & labels, refrigerants (SNAP)", url: "https://www.epa.gov/ve-certification" }
     - { name: California Air Resources Board (CARB), scope: "California + Section 177 states emissions/ZEV (LEV IV, ACC II)", url: "https://ww2.arb.ca.gov" }
     - { name: FCC, scope: "Intentional radiators (keyless entry, radar, telematics) — 47 CFR Part 15/95", url: "https://www.fcc.gov/oet/ea" }
   accepts: []
@@ -32,7 +32,7 @@
     - "EPA Certificate of Conformity + Vehicle Emission Control Information (VECI) label (40 CFR 86/1066)"
     - "Monroney window sticker (15 U.S.C. 1232) with EPA/NHTSA fuel economy & environment label (40 CFR 600 Subpart D)"
     - "Parts marking for high-theft lines (49 CFR 541) unless exempted under Part 543"
-  emissions: "EPA Tier 3 → 2027+ multi-pollutant standards (light-/medium-duty); CARB LEV III → LEV IV / Advanced Clean Cars II in CA and adopting states. Status of federal waivers and ACC II enforcement has been litigated — verify current position."
+  emissions: "EPA Tier 3 → 2027+ criteria-pollutant standards. EPA rescinded the GHG endangerment finding and ALL federal vehicle GHG standards (final rule published 18 Feb 2026). CARB LEV III applies in California; the federal waiver for Advanced Clean Cars II (LEV IV / ZEV) was revoked by Congress under the CRA (12 Jun 2025) and is in litigation. Fuel economy: NHTSA CAFE reset for MY2022–2031 (SAFE Vehicles Rule III, FR 30 Sep 2026, effective 30 Nov 2026; credit trading eliminated)."
   language: English (Spanish additionally expected for Puerto Rico consumer information)
   process:
     - "Register as a manufacturer: Part 565 VIN-decoder/manufacturer-identifier submission at least 60 days before affixing the first VIN, and Part 566 manufacturer identification within 30 days of beginning manufacture."
@@ -73,7 +73,7 @@
   marks:
     - "Compliance label: either the National Safety Mark (Canadian manufacturers, authorized by TC) or a Statement of Compliance label (importers/foreign manufacturers) — MVSR s.6 / s.7"
     - "Tire information placard and bilingual labelling"
-  emissions: "ECCC regulations aligned with US EPA Tier 3; GHG standards aligned with US; Electric Vehicle Availability Standard (ZEV sales targets) adopted 2023 — check for amendments/pauses."
+  emissions: "ECCC On-Road Vehicle and Engine Emission Regulations (aligned with US EPA Tier 3 criteria pollutants). GHG: Canada keeps its own passenger-car/light-truck GHG regulations (no longer mirrors the US after the 2026 US repeal); amendments tightening them for MY2027–2032 were proposed in Canada Gazette I (15 Aug 2026). The Electric Vehicle Availability Standard's 2026 target was paused (Sep 2025) and its repeal proposed (draft regulations, comments to 29 Oct 2026)."
   language: "English AND French for labels, owner's manual safety content, and recall notices"
   process:
     - "Self-certify to applicable CMVSS (largely FMVSS-equivalent; Canadian-unique items include daytime running lamps (CMVSS 108), immobilization system (CMVSS 114), bilingual telltales/labels)."
@@ -82,7 +82,7 @@
     - "Post-market: notice of defect to the Minister and owners (MVSA s.10); Transport Canada can order recalls since 2018 amendments."
   watch:
     - "CMVSS updates tracking FMVSS 127 (AEB) and EV safety amendments."
-    - "Electric Vehicle Availability Standard — 2026 model-year target status."
+    - "EVAS repeal and replacement GHG standards for MY2027–2032 (Canada Gazette I, Aug 2026) — final regulations pending."
   notes:
     - "Canada-unique: DRL required on all new vehicles; immobilizer required; metric/bilingual displays."
   records: [ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038, ca-mvsr-c-r-c---c--1038-s108, ca-mvsr-c-r-c---c--1038-s114, ca-mvsr-sor-2003-2, ca-mvsr-sor-2010-201, ca-mvsr-sor-2013-198, ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices]
@@ -113,10 +113,10 @@
     - "Emissions certification/evidence under NOM-042 before commercialization; fleet CO2 reporting under NOM-163."
     - "Spanish-language labels and owner's information."
   watch:
-    - "NOM-194 phase-in items (pedestrian protection, ESC, side impact) — verify the current applicability table."
+    - "NOM-194-SE-2021 phase-in: ESC and ISOFIX/LATCH mandatory from MY2025, tyre-pressure monitoring from MY2026; pedestrian protection is listed as optional equipment — verify the current applicability table."
   notes:
     - "Many US-market vehicles are sold in Mexico on FMVSS evidence; UN R evidence is equally accepted for NOM-194 items."
-  records: [mx-workbook-reg-0610-nom-194-se-2021, us-stub-nom-042-semarnat-2003, mx-workbook-reg-0612-nom-163-semarnat-scfi-2023]
+  records: [mx-workbook-reg-0610-nom-194-se-2021, mx-workbook-reg-0611-nom-042-semarnat-2003, mx-workbook-reg-0612-nom-163-semarnat-scfi-2023]
   confidence: medium
 
 - code: CENTAM
@@ -169,7 +169,7 @@
   process:
     - "Compliance verified at import/registration; used-vehicle age limits common."
   notes:
-    - "Drive side differs: LHD — Dominican Republic, Haiti, Cuba, Puerto Rico; RHD (drive on left) — Jamaica, Trinidad & Tobago, Bahamas, Barbados, Guyana, Suriname, most Eastern Caribbean."
+    - "Drive side differs: LHD — Dominican Republic, Haiti, Cuba, Puerto Rico; Drive on the left — Jamaica, Trinidad & Tobago, Barbados, Guyana, Suriname, most Eastern Caribbean (mostly RHD, often Japanese/UK-spec vehicles); the Bahamas also drives on the left but mostly uses US-spec LHD vehicles."
   records: []
   confidence: low
 
@@ -206,7 +206,7 @@
     - "CONTRAN phase-ins: side pole impact (949/2022), ESC (954/2022), seat-belt reminder (936/2022)."
   notes:
     - "Mercosur trade with Argentina often uses shared test evidence, but each country issues its own approval."
-  records: [br-senatran-990, br-conama-492, br-ibama-in-3, br-contran-910, br-contran-949, br-contran-954, br-contran-912, br-anatel-cert, br-mover-rota-2030]
+  records: [br-senatran-990, br-conama-492, br-ibama-in-3, br-contran-910, br-contran-949, br-contran-954, br-contran-912, br-contran-936, br-anatel-cert, br-mover-rota-2030]
   confidence: medium
 
 - code: AR
@@ -264,11 +264,12 @@
   regions: []
   drive: LHD
   regime: hybrid
-  basis: "MinCIT technical regulation for vehicles (Res. 3752/2015 and successors) referencing UN R / FMVSS; Ministry of Environment emission rules"
-  un_1958: false
+  basis: "Ministerio de Transporte vehicle safety regulation (Res. 3752/2015 and successors) referencing UN R / FMVSS; Ministry of Environment emission rules"
+  un_1958: null
   un_1998: null
   authorities:
-    - { name: "Ministerio de Comercio, Industria y Turismo (MinCIT)", scope: "Vehicle safety technical regulation (reglamento técnico)", url: "https://www.mincit.gov.co" }
+    - { name: Ministerio de Transporte, scope: "Vehicle active/passive safety regulation (Res. 3752/2015 and successors), RUNT registration", url: "https://www.mintransporte.gov.co" }
+    - { name: "Ministerio de Comercio, Industria y Turismo (MinCIT)", scope: "Component technical regulations (e.g. tyres)", url: "https://www.mincit.gov.co" }
     - { name: Ministerio de Ambiente / ANLA, scope: "Emissions certification", url: "https://www.minambiente.gov.co" }
     - { name: Ministerio de Transporte / RUNT, scope: "Registration (homologación for some categories)", url: "https://www.mintransporte.gov.co" }
   accepts:

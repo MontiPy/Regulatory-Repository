@@ -28,10 +28,8 @@ source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 summary: GSO-ECE 13H-1/2/3 covers brake system test methods and energy storage validation
-  for vehicles in the GCC region. It requires that braking systems demonstrate controllable
-  deceleration and stability under normal, failed, and emergency braking conditions,
-  encompassing components such as hydraulic and electric circuits,...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  for vehicles in the GCC region.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 6ed92c6e555fbf673243246e817ad239bb553abf
 systems:
 - Braking
@@ -41,9 +39,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Brake System Test Methods and Energy Storage Tests
 translation_status: untranslated
-un_equivalent_ai:
-- UN R13H
-- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -22,8 +22,8 @@ status: in-force
 summary: Passenger cars and light-class vans must provide the driver with forward
   and rearward fields of view meeting specified standards, and their windshields and
   side windows adjacent to the driver's seat must have a visible light transmittance
-  of at least 70%. School vans for children must have a minimum 70% visible light...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  of at least 70%.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 29b0acf2cb9d341257d085ac5caeb9d8eec465ba
 systems:
 - Visibility
@@ -32,8 +32,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 94 — Driver's Field of View
 translation_status: translated
-un_equivalent_ai:
-- UN R125
 vehicle_categories:
 - Passenger car
 - Light truck

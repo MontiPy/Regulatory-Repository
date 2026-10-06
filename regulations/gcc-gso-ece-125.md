@@ -1,9 +1,8 @@
 ---
 citation: GSO-ECE 125
 commodities:
-- Lighting modules
-- Wiring
-- ECUs
+- Glass
+- Body structure
 id: gcc-gso-ece-125
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:
@@ -24,28 +23,19 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: GSO-ECE 125 covers forward field of vision requirements for vehicle visibility,
-  lighting, and human-machine interface systems in the GCC region. It mandates that
-  vehicles provide adequate road illumination without glare, clearly signal driver
-  intent, and maintain proper lamp performance across exterior lamps,...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 'GSO-ECE 125 adopts UN R125 on the forward field of vision of motor-vehicle
+  drivers (M1): limits on A-pillar obscuration and required forward visibility. It
+  is not a lighting regulation.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2dddfa50e0c2721d64d827b128416f567e8f0539
 systems:
-- Lighting & signaling
 - Visibility
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Forward Field of Vision
 translation_status: untranslated
-un_equivalent_ai:
-- UN R125
-- UN R121
 vehicle_categories:
 - Passenger car
-- Light truck
-- Heavy truck
-- Motorcycle
-- Bus
 ---
 
 # Forward Field of Vision

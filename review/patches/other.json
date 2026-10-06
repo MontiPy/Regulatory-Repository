@@ -1,0 +1,107 @@
+{
+ "group": "other",
+ "patches": {
+  "other-workbook-reg-0643-iso-26262": {
+   "summary": "ISO 26262 is the road-vehicle functional safety standard for electrical and electronic (E/E) systems, covering safety lifecycle, hazard analysis and risk assessment, ASIL classification and fault handling for items such as ECUs, ADAS controllers, braking and steering. It is a voluntary standard rather than a government regulation, but is widely expected as supporting safety-case evidence.",
+   "_why": "Summary was truncated with '...'; un_equivalent/un_equivalent_ai already [] in record (findings on R157/R155/R156 already applied)."
+  },
+  "other-workbook-reg-0644-iso-21448": {
+   "summary": "ISO 21448 addresses the safety of the intended functionality (SOTIF) for ADAS and automated driving systems, focusing on hazards caused by performance limitations rather than component faults. It is a voluntary engineering standard used as supporting evidence for identifying, mitigating and validating risks such as false detections and edge cases.",
+   "systems": [
+    "ADAS"
+   ],
+   "_why": "Finding: Cybersecurity/Software updates/OBD tags unsupported by body; summary truncated. un_equivalent already []."
+  },
+  "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800": {
+   "summary": "ISO 34502, ISO/TR 4804 and ISO/PAS 8800 are voluntary guidance standards for automated driving and ADAS safety, covering scenario-based safety evaluation, safety of automated driving systems and AI safety. They serve as supporting safety-case evidence rather than direct government regulation.",
+   "status_note": "ISO/TR 4804:2020 was withdrawn on 29 Apr 2025 and replaced by ISO/TS 5083:2025; ISO 34502:2022 and ISO/PAS 8800:2024 remain current.",
+   "un_equivalent": [],
+   "un_equivalent_ai": [],
+   "_why": "Finding: R157 (ALKS) and R155 are not counterparts to guidance standards; body says not direct regulations. Status kept in-force for the record as a whole, with the TR 4804 withdrawal noted in status_note."
+  },
+  "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt": {
+   "summary": "QCVN 09:2024/BGTVT is Vietnam's national technical regulation on technical safety and environmental protection for automobiles, promulgated through Circular 48/2024/TT-BGTVT. Vehicles manufactured, assembled or imported into Vietnam need type approval and conformity-of-production evidence, with correct certification labels and documentation.",
+   "citation": "QCVN 09:2024/BGTVT (promulgated by Circular 48/2024/TT-BGTVT)",
+   "effective_date": "2025-01-01",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Trailer"
+   ],
+   "_why": "Finding: summary overstated emissions/fuel evidence; Motorcycle covered by separate QCVNs; Circular 48/2024 in force 1 Jan 2025."
+  },
+  "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements": {
+   "summary": "ERA-GLONASS is the Russia/EAEU automatic emergency call system; vehicles for this market need an ERA-GLONASS-compatible telematics unit with GNSS receiver, cellular modem, crash-signal input, backup power and call interface that can initiate an emergency call automatically or manually. It is specific to the EAEU/Russia and is linked to vehicle approval.",
+   "systems": [],
+   "un_equivalent": [],
+   "un_equivalent_ai": [
+    "UN R144"
+   ],
+   "_why": "Finding: EMC/Cybersecurity unsupported by body and no eCall system in taxonomy; UN R144 only a related/partial counterpart, so moved to un_equivalent_ai. Summary truncated."
+  },
+  "in-bs-vi-india-cafe-fuel-consumption": {
+   "summary": "Passenger vehicles sold in India are subject to Bharat Stage VI emission standards and India's CAFE fuel-consumption norms, covering certified emission limits, evaporative and on-board diagnostic requirements, road-load and fuel/energy consumption data, and fleet-level reporting.",
+   "systems": [
+    "Emissions",
+    "On-board diagnostics"
+   ],
+   "citation": "CMVR 1989 Rule 115 (Bharat Stage VI emission norms); Energy Conservation Act 2001 (CAFE fuel-consumption norms)",
+   "_why": "Finding: body is emissions/fuel economy only; Fuel safety/EV charging/Battery safety unsupported. Summary truncated."
+  },
+  "other-workbook-reg-0546-directive-2011-65-eu-rohs": {
+   "summary": "Directive 2011/65/EU (RoHS) restricts hazardous substances in electrical and electronic equipment such as chargers, service equipment and electronic accessories. Vehicles are outside its scope, so parts fitted to vehicles are addressed under the ELV Directive 2000/53/EC instead.",
+   "status_note": "Type-approved vehicles are outside RoHS scope (Art. 2(4)(f)); applies to accessories and service equipment, while vehicle-fitted parts fall under ELV Directive 2000/53/EC.",
+   "vehicle_categories": [],
+   "systems": [
+    "EV charging"
+   ],
+   "_why": "Finding: means of transport excluded by Art. 2(4)(f); dropped vehicle categories, Battery safety, ADAS, EMC. Summary truncated."
+  },
+  "other-workbook-reg-0647-automotive-spice-aspice": {
+   "summary": "Automotive SPICE (ASPICE) is an industry process assessment model used by OEMs and suppliers to evaluate software development process capability for software-intensive vehicle systems, covering requirements, architecture, verification, change management and release records. It is not a government regulation.",
+   "un_equivalent_ai": [],
+   "_why": "Finding: R155/R156 are CSMS/SUMS regulations, not process assessment models. Summary truncated."
+  },
+  "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework": {
+   "title": "Turkey MARTOY — Approval and Market Surveillance of Motor Vehicles and their Trailers",
+   "citation": "Regulation on Approval and Market Surveillance of Motor Vehicles and their Trailers (MARTOY), Official Gazette 19 April 2020",
+   "summary": "Turkey's MARTOY regulation, aligned with EU Regulation 2018/858, governs type approval and market surveillance of motor vehicles and their trailers. Market access depends on type-approval certificates, conformity of production and complete documentation.",
+   "_why": "Finding: record named no actual instrument; MARTOY (OG 19 Apr 2020, adapted from 2018/858). Summary truncated."
+  },
+  "tw-vehicle-safety-type-approval-dgst": {
+   "title": "Taiwan Vehicle Safety Type Approval Management Regulations and Vehicle Safety Testing Directions",
+   "citation": "Vehicle Safety Type Approval Management Regulations; Vehicle Safety Testing Directions (VSTD)",
+   "summary": "Taiwan's vehicle safety type approval framework, administered by MOTC and VSCC, governs market access for vehicles sold in Taiwan, with safety tests carried out under the Vehicle Safety Testing Directions. Manufacturers must keep traceable approval documentation and correct certification labels and variant data.",
+   "_why": "Findings: 'DGST' unverified, instrument names per VSCC/VSTD. Summary truncated."
+  }
+ },
+ "skipped": [
+  {
+   "id": "in-ais-038-rev-2-ais-156",
+   "field": "summary / vehicle_categories / citation",
+   "reason": "Already corrected in record (title, summary, categories, citation, un_equivalent). source_url is not a patchable field."
+  },
+  {
+   "id": "other-workbook-reg-0643-iso-26262",
+   "field": "un_equivalent / un_equivalent_ai",
+   "reason": "Already []."
+  },
+  {
+   "id": "other-workbook-reg-0644-iso-21448",
+   "field": "un_equivalent",
+   "reason": "Already []."
+  },
+  {
+   "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+   "field": "status",
+   "reason": "One record covers three documents and only TR 4804 is withdrawn; kept in-force with status_note. Orchestrator may want to split the record."
+  },
+  {
+   "id": "other-workbook-reg-0642-iso-9001",
+   "field": "source_url / citation / status",
+   "reason": "ISO 9001:2026 publication unconfirmed (search snippets only); source_url not patchable; left unchanged."
+  }
+ ]
+}

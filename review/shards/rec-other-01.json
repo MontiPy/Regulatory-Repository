@@ -1,0 +1,30 @@
+{
+ "shard": "rec-other-01",
+ "kind": "records",
+ "items": [
+  "ar-workbook-reg-0624-lcm-lca",
+  "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra",
+  "asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework",
+  "asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework",
+  "asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval",
+  "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
+  "asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework",
+  "eaeu-workbook-reg-0613-tr-cu-018-2011",
+  "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+  "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+  "in-ais-038-rev-2-ais-156",
+  "in-bs-vi-india-cafe-fuel-consumption",
+  "in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework",
+  "mx-workbook-reg-0610-nom-194-se-2021",
+  "mx-workbook-reg-0612-nom-163-semarnat-scfi-2023",
+  "nz-workbook-reg-0628-land-transport-rules-approved-standards",
+  "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022",
+  "other-workbook-reg-0546-directive-2011-65-eu-rohs",
+  "other-workbook-reg-0641-iatf-16949",
+  "other-workbook-reg-0642-iso-9001",
+  "other-workbook-reg-0643-iso-26262",
+  "other-workbook-reg-0644-iso-21448",
+  "other-workbook-reg-0645-iso-sae-21434",
+  "other-workbook-reg-0646-iso-24089"
+ ]
+}

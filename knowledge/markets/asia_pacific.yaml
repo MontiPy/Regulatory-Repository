@@ -46,7 +46,7 @@
   members: [Hong Kong SAR, Macau SAR]
   drive: RHD
   regime: type-approval
-  basis: "Hong Kong: Road Traffic (Construction and Maintenance of Vehicles) Regulations; Transport Department type approval; EPD emission standards"
+  basis: "Hong Kong: Road Traffic (Construction and Maintenance of Vehicles) Regulations; Transport Department type approval; EPD emission standards (Air Pollution Control (Vehicle Design Standards) (Emission) Regulations; Noise Control (Motor Vehicles) Regulation). Macau is not separately profiled here (traffic authority: DSAT) — verify"
   un_1958: false
   un_1998: null
   authorities:
@@ -54,7 +54,7 @@
     - { name: "HK Environmental Protection Department", scope: "Emission type approval (Euro 6 / US / JP accepted)", url: "https://www.epd.gov.hk" }
   accepts: ["EU, Japanese or US standards evidence for emissions and safety"]
   marks: ["Transport Department type approval"]
-  emissions: "Euro 6 (or Japanese/US equivalents) for petrol private cars"
+  emissions: "Hong Kong: Euro 6c (or Japanese/US equivalents) for petrol private cars; Macau not profiled"
   language: Chinese (Traditional) / English
   process: ["Type approval with TD; emission approval with EPD before first registration."]
   records: []
@@ -178,7 +178,7 @@
     - "Agency issues TAC; vehicle data uploaded to VAHAN; annual CoP."
     - "Bharat NCAP (AIS-197) star rating is voluntary consumer testing."
   watch:
-    - "Six airbags in M1 (draft) and Bharat NCAP; AIS-189/190 for cybersecurity & software update (aligned with UN R155/156)."
+    - "AIS-189 / AIS-190 cybersecurity & software-update requirements (aligned with UN R155/156) — reported applicable to new types from 1 Oct 2025 and all types from 1 Oct 2028 (secondary sources); verify MoRTH notification. (The 2022 six-airbag M1 proposal was not made mandatory.)"
     - "Battery safety (AIS-156 / AIS-038 Rev 2) for EVs; CAFE III."
   records: [in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework, in-ais-038-rev-2-ais-156, in-bs-vi-india-cafe-fuel-consumption]
   confidence: medium
@@ -188,10 +188,10 @@
   group: South Asia
   regions: []
   aliases: [Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, PSQCA, EDB]
-  members: [Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives]
+  members: ["Pakistan (E64, 1958 CP)", Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives]
   drive: RHD
   regime: registration-inspection
-  basis: "Pakistan: Motor Vehicle Safety & Quality standards (EDB / PSQCA) moving toward UN R adoption after 1958 accession; others: import/registration checks"
+  basis: "Pakistan: Motor Vehicle Safety & Quality standards (EDB / PSQCA) moving toward UN R adoption after its 1958 Agreement accession (E64, 2020); others: import/registration checks"
   un_1958: null
   un_1998: null
   authorities:
@@ -200,10 +200,10 @@
     - { name: "Bangladesh — BRTA", scope: "Registration / fitness", url: "https://brta.gov.bd" }
   accepts: ["Japanese (JIS/JASIC) and UN R evidence widely used"]
   marks: []
-  emissions: "Pakistan Euro 2→Euro 5 transition; Sri Lanka/Bangladesh Euro 4/5 references"
+  emissions: "Pakistan fuel moved from Euro 2 to Euro 5 (petrol Aug 2020, diesel Jan 2021; vehicle emission-standard dates to be verified separately); Sri Lanka/Bangladesh Euro 4/5 references"
   language: English / Urdu / Bengali / Sinhala / Tamil / Nepali
   process: ["Pakistan: comply with the EDB-notified UN R list for locally assembled and imported vehicles; others verify at import/registration."]
-  notes: ["Pakistan acceded to the 1958 Agreement (reported). Sri Lanka has had periodic vehicle-import suspensions — check current import policy."]
+  notes: ["Pakistan acceded to the 1958 Agreement (E64, reported 2020; confirm against the UNECE status table). Sri Lanka has had periodic vehicle-import suspensions — check current import policy."]
   records: []
   confidence: low
 
@@ -224,7 +224,7 @@
     - { name: NBTC, scope: "RF equipment", url: "https://www.nbtc.go.th" }
   accepts: ["UN R approvals for the TIS that adopt them (1958 Agreement mutual recognition, ASEAN MRA)"]
   marks: ["TIS licence/marks for regulated items", "E53 for UN approvals granted by Thailand"]
-  emissions: "Euro 5 (from 2024; Euro 6 planned) — CO2-based excise tax"
+  emissions: "Euro 5 for newly manufactured vehicles from 1 Jan 2024; Euro 6 for gasoline light-duty vehicles from 1 Jan 2025, with later dates reported for larger petrol and diesel vehicles — verify per TIS. CO2-based excise tax."
   language: Thai
   process: ["Obtain TIS licences for compulsory items (UN R-based) and emissions; register via DLT."]
   records: [asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework, asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra]
@@ -306,13 +306,13 @@
   aliases: [QCVN, Vietnam Register, VR]
   drive: LHD
   regime: type-approval
-  basis: "QCVN national technical regulations (many UN R-based) — Vietnam Register (VR) under Ministry of Construction (formerly MOT) — import and domestic production certification"
-  un_1958: false
+  basis: "QCVN national technical regulations (many UN R-based) — Vietnam Register (VR) under Ministry of Construction (formerly MOT) — import and domestic production certification; 1958 Agreement CP since 24 Sep 2023"
+  un_1958: true
   un_1998: null
   authorities:
     - { name: Vietnam Register (VR), scope: "Type approval / import quality certification, QCVN", url: "https://www.vr.org.vn" }
-  accepts: ["UN R approvals / test reports used as evidence for QCVN items", "ASEAN MRA"]
-  marks: ["VR certificate of technical safety and environmental protection quality"]
+  accepts: ["UN R approvals under the 1958 Agreement (mutual recognition being implemented — Decision 77/QD-TTg, Jan 2026)", "UN R test reports as evidence for QCVN items", "ASEAN MRA"]
+  marks: ["VR certificate of technical safety and environmental protection quality", "E-mark for UN approvals granted by Vietnam (number not verified here)"]
   emissions: "Euro 5 (since 2022)"
   language: Vietnamese
   process: ["Imported vehicles: per-shipment or type-based VR inspection (Decree governing imports); domestic: type approval + CoP."]
@@ -322,7 +322,7 @@
 - code: SG
   name: Singapore
   group: Southeast Asia
-  regions: []
+  regions: [ASEAN]
   aliases: [LTA, VES, COE]
   drive: RHD
   regime: type-approval
@@ -359,7 +359,7 @@
   emissions: "Euro 2–5 references depending on country"
   language: National languages
   process: ["Verified at import/registration."]
-  notes: ["Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
+  notes: ["Authorities are listed for Brunei only; none listed for Cambodia, Laos, Myanmar or Timor-Leste (Timor-Leste joined ASEAN in Oct 2025 and is not an APMRA signatory). Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
   records: [asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra]
   confidence: low
 
@@ -381,16 +381,16 @@
   accepts: ["UN R approvals are accepted as alternative standards for most ADRs (listed per ADR)"]
   marks:
     - "Type approval issued via ROVER; vehicle entered on RAV before supply"
-    - "Identification plate no longer required post-RVSA — RAV entry replaces it; VIN per ADR 61"
+    - "RAV entry plus secure vehicle identification marking (ADR 61/03) replaces the compliance plate for most vehicles; trailers and some heavy vehicles still carry a physical plate"
     - "RCM for radio devices; fuel consumption label (ADR 81)"
-  emissions: "Euro 6d-equivalent for new models from Dec 2025 (ADR 79/05 / ADR 111 / ADR 112 RDE); NVES CO2 targets from 2025"
+  emissions: "Euro 6d-equivalent (ADR 79/05, ADR 111, ADR 112 RDE) for new models from 1 Dec 2025 and all new vehicles from 1 Jul 2028; NVES fleet CO2 targets from 1 Jul 2025"
   language: English
   process:
     - "Apply for type approval in ROVER with evidence (UN R approvals/test reports) against each applicable ADR."
     - "Enter each vehicle on RAV; maintain CoP (conformity of production) arrangements."
     - "Recalls: notify the department (RVSA) — voluntary recalls published on the vehicle recalls site."
-  watch: ["ADR 98/02 (AEB incl. pedestrian/cyclist), ADR 107 (ELKS), ADR 109 (EV powertrain safety), ADR 113 (AVAS), ADR 114 (CO2 measurement) phase-in dates."]
-  records: [au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019, au-workbook-reg-0371-register-of-approved-vehicles-rav, au-workbook-reg-0372-australian-road-vehicle-recall-framework, au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024, au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma, au-f2012l01123]
+  watch: ["ADR 98/02 (AEB; adds bicyclist detection to the earlier pedestrian-capable AEB), ADR 107 (ELKS), ADR 109 (EV powertrain safety), ADR 113 (AVAS), ADR 114 (CO2 measurement; reported to cover vehicles over 3.5 t GVM) phase-in dates — ADR 98/02 and 107 reported from 1 Mar 2028 (new models) / 1 Mar 2029 (all vehicles); verify."]
+  records: [au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019, au-workbook-reg-0371-register-of-approved-vehicles-rav, au-workbook-reg-0372-australian-road-vehicle-recall-framework, au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024, au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma]
   confidence: high
 
 - code: NZ
@@ -408,7 +408,7 @@
     - { name: Ministry of Transport, scope: "Clean Car Standard (CO2)", url: "https://www.transport.govt.nz" }
   accepts: ["UN R / EU", "ADR", "FMVSS", "Japanese standards (JIS / Safety Regulations)"]
   marks: ["Statement of compliance for new vehicles (manufacturer/importer)"]
-  emissions: "Vehicle Exhaust Emissions Rule (Euro 6 / JP / US equivalents); Clean Car Standard CO2 targets"
+  emissions: "Vehicle Exhaust Emissions Rule: Euro 5 (or JP/US equivalents) currently for new light vehicles; Euro 6d phased in from 1 Jul 2027 (new models) and 1 Jul 2028 (all light vehicles incl. used imports) — verify. Clean Car Standard CO2 targets."
   language: English
   process: ["New vehicles: provide compliance evidence against approved standards (often via ADR/UN R approvals); entry certification; register with NZTA."]
   records: [nz-workbook-reg-0628-land-transport-rules-approved-standards, nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022]
@@ -432,6 +432,6 @@
   emissions: "Generally none at type-approval level"
   language: English and local languages
   process: ["Verified at import/registration."]
-  notes: ["Mostly RHD (drive on left); Samoa switched to left-hand traffic in 2009; US-affiliated territories (Guam, American Samoa, N. Mariana Is.) follow US rules."]
+  notes: ["Mostly RHD (drive on left; Samoa switched in 2009); Vanuatu, Micronesia and Palau drive on the right; US-affiliated territories (Guam, American Samoa, N. Mariana Is.) follow US rules."]
   records: []
   confidence: low

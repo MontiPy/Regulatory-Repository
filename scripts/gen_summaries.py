@@ -134,8 +134,13 @@ def parse_summary(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     text = text.strip('“"”').strip()
     if len(text) > SUMMARY_CAP:
-        cut = text.rfind(" ", 0, SUMMARY_CAP)
-        text = text[: cut if cut > 0 else SUMMARY_CAP].rstrip() + "..."
+        # Cut at the last complete sentence; a mid-sentence "..." reads as missing content.
+        ends = [m.end() for m in re.finditer(r"[.;](?=\s)", text[:SUMMARY_CAP])]
+        if ends and ends[-1] > SUMMARY_CAP // 3:
+            text = text[: ends[-1]].rstrip()
+        elif len(text) > 2 * SUMMARY_CAP:
+            cut = text.rfind(" ", 0, 2 * SUMMARY_CAP)
+            text = text[: cut if cut > 0 else 2 * SUMMARY_CAP].rstrip() + "..."
     return text
 
 

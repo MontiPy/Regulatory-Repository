@@ -22,9 +22,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Motor vehicles must be equipped with indirect vision devices — either mirror-based
   or camera monitor system-based — installed and providing fields of view in accordance
-  with specified attached tables. School vans for children face additional requirements,
-  including a forward obstacle-detection device and side indirect...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  with specified attached tables.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d13089445d8443a27d5212ff968f77824aaec1f4
 systems:
 - Visibility
@@ -33,9 +32,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 50 — Indirect Vision Devices
 translation_status: translated
-un_equivalent_ai:
-- UN R46
-- UN R125
 vehicle_categories:
 - Passenger car
 - Light truck

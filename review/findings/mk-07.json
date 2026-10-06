@@ -1,0 +1,190 @@
+{
+ "shard": "mk-07",
+ "reviewed": [
+  "SA",
+  "AE",
+  "GCC-OTHER",
+  "IL",
+  "LEVANT",
+  "SANCTIONED"
+ ],
+ "findings": [
+  {
+   "id": "SA",
+   "field": "emissions",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "GSO Euro-level limits (MY2027 step to Euro 6-equivalent per GSO plan \u2014 verify)",
+   "proposed": "GSO MY2027: Euro 5 limits for Saudi Arabia (Euro 6b applies to UAE); do not claim a Euro 6 step for SA without evidence",
+   "evidence": "Repo record: 'Euro-level pollutant limits \u2014 which vary by country (e.g., Euro 5 for Saudi Arabia and Kuwait, Euro 6b for the UAE)'; search snippet (alibaba carinterior UAE/Saudi regs 2026): 'Saudi Arabia currently requires Euro 5 compliance'",
+   "evidence_url": "regulations/gcc-gso-my2027-emission-limit-implementation.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "AE",
+   "field": "emissions",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Euro 4\u20136 references per GSO plan",
+   "proposed": "Euro 6b for road vehicles under GSO MY2027 (per repo record); verify effective date (reported Jan 2026)",
+   "evidence": "Repo record: 'Euro 5 for Saudi Arabia and Kuwait, Euro 6b for the UAE'; search snippet: 'UAE moves to Euro 6b limits for road vehicles from January 2026'",
+   "evidence_url": "regulations/gcc-gso-my2027-emission-limit-implementation.md",
+   "confidence": "low"
+  },
+  {
+   "id": "AE",
+   "field": "marks / records",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "marks: 'UAE fuel-economy label'; records include gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011",
+   "proposed": "Mark/record flagged unverified until the real UAE fuel-economy standard number is confirmed",
+   "evidence": "Record citation: 'UAE Fuel Economy Standard (number to verify; Gemini cited UAE.S 5011)'; its source_url is the GSO MY2027 list, not a UAE standard",
+   "evidence_url": "regulations/gcc-uae-fuel-economy-standard-number-to-verify-gemini-cited-uae-s-5011.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "AE",
+   "field": "un_1958",
+   "verdict": "unverifiable",
+   "severity": "medium",
+   "current": "false (un_1998 null)",
+   "proposed": "",
+   "evidence": "Could not retrieve the UNECE status list (jasic.org blocked; searches returned no membership table). Value not confirmed.",
+   "evidence_url": "https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations",
+   "confidence": "low"
+  },
+  {
+   "id": "SA",
+   "field": "un_1958",
+   "verdict": "unverifiable",
+   "severity": "medium",
+   "current": "false",
+   "proposed": "",
+   "evidence": "UNECE contracting-party list not retrievable here; no evidence either way.",
+   "evidence_url": "https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations",
+   "confidence": "low"
+  },
+  {
+   "id": "IL",
+   "field": "un_1958",
+   "verdict": "unverifiable",
+   "severity": "high",
+   "current": "false",
+   "proposed": "",
+   "evidence": "Searches could not confirm or refute Israel's 1958 Agreement status; it is a regime whose basis is 'recognition' of EU/UN approvals, so membership matters. Check UNECE status table.",
+   "evidence_url": "https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations",
+   "confidence": "low"
+  },
+  {
+   "id": "IL",
+   "field": "accepts / basis",
+   "verdict": "unverifiable",
+   "severity": "medium",
+   "current": "recognises EU WVTA and (since 2020s reforms) US-standard vehicles; 'Direct Import'/'Parallel Import' channels",
+   "proposed": "",
+   "evidence": "Only supporting repo record is a placeholder ('Add as missing market row') with a generic gov.il landing-page source_url; no reform details or dates found.",
+   "evidence_url": "regulations/il-workbook-reg-0627-israel-vehicle-import-type-approval-framework.md",
+   "confidence": "low"
+  },
+  {
+   "id": "IL",
+   "field": "records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+   "proposed": "Replace/augment with the actual Israeli instrument(s) (Motor Vehicle Ordinance / import regulations)",
+   "evidence": "Record is a workbook stub with no regulation text; source_url https://www.gov.il/.../govil-landing-page",
+   "evidence_url": "regulations/il-workbook-reg-0627-israel-vehicle-import-type-approval-framework.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "GCC-OTHER",
+   "field": "authorities[1].url",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "National standards bodies (Kuwait, Qatar, Bahrain, Oman) url https://www.gso.org.sa",
+   "proposed": "Separate per-country authority entries with their own URLs, or no URL",
+   "evidence": "Four national bodies share the GSO site URL, which is not their site.",
+   "evidence_url": "knowledge/markets/mea.yaml",
+   "confidence": "medium"
+  },
+  {
+   "id": "GCC-OTHER",
+   "field": "emissions",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "GSO Euro-level limits",
+   "proposed": "Per-country: Kuwait Euro 5 per repo record; Qatar/Bahrain/Oman unverified",
+   "evidence": "Repo record: 'Euro 5 for Saudi Arabia and Kuwait, Euro 6b for the UAE'; other three states not stated.",
+   "evidence_url": "regulations/gcc-gso-my2027-emission-limit-implementation.md",
+   "confidence": "low"
+  },
+  {
+   "id": "LEVANT",
+   "field": "authorities / members",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Members Jordan, Lebanon, Iraq; authorities list only JSMO and COSQC",
+   "proposed": "Add Lebanon authority (e.g., LIBNOR) or drop Lebanon from members; records list is empty",
+   "evidence": "No Lebanon authority, mark or record in entry; 'records: []'.",
+   "evidence_url": "knowledge/markets/mea.yaml",
+   "confidence": "medium"
+  },
+  {
+   "id": "LEVANT",
+   "field": "basis / emissions / accepts",
+   "verdict": "unverifiable",
+   "severity": "medium",
+   "current": "Jordan JSMO regulations referencing GSO/UN R; Euro 2\u20135; GCC-spec, EU or US-spec documentation accepted",
+   "proposed": "",
+   "evidence": "No supporting repository record and no corroborating search evidence for Jordan/Iraq/Lebanon requirements.",
+   "evidence_url": "knowledge/markets/mea.yaml",
+   "confidence": "low"
+  },
+  {
+   "id": "SANCTIONED",
+   "field": "basis / members (Syria)",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Syria grouped under 'Comprehensive or sectoral sanctions (US OFAC, EU, UK, UN) restrict vehicle/part exports'",
+   "proposed": "Remove or separate Syria: US revoked the Syria sanctions programme (EO 14312, 30 Jun 2025) and EU lifted economic sanctions (27 May 2025); residual targeted measures/export controls only; verify current EAR/licence status",
+   "evidence": "Search snippet: 'On May 27, 2025, the Council of the European Union formally adopted legal acts lifting all economic sanctions on Syria'; 'Executive Order 14312, which removed U.S. sanctions on Syria and revoked six executive orders'",
+   "evidence_url": "https://www.cov.com/en/news-and-insights/insights/2025/05/us-substantially-eases-sanctions-on-syria-eu-and-uk-authorities-pursue-similar-actions",
+   "confidence": "high"
+  },
+  {
+   "id": "SANCTIONED",
+   "field": "drive",
+   "verdict": "wrong",
+   "severity": "low",
+   "current": "mixed",
+   "proposed": "LHD (all listed countries drive on the right: Iran, Syria, North Korea, Cuba, Yemen)",
+   "evidence": "General knowledge: all five countries use right-hand traffic; other markets use LHD for right-hand traffic.",
+   "evidence_url": "https://en.wikipedia.org/wiki/List_of_countries_by_left-_and_right-hand_traffic",
+   "confidence": "medium"
+  },
+  {
+   "id": "SANCTIONED",
+   "field": "notes[0]",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "Iran has its own ISIRI national standards (85-item quality/safety scheme)",
+   "proposed": "",
+   "evidence": "No source found for an '85-item' ISIRI vehicle scheme; no repo record.",
+   "evidence_url": "knowledge/markets/mea.yaml",
+   "confidence": "low"
+  },
+  {
+   "id": "SANCTIONED",
+   "field": "members / basis (Cuba, Yemen)",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Cuba, Yemen grouped as 'restricted/sanctioned' alongside Iran/NK; basis cites UN sanctions",
+   "proposed": "Distinguish regimes: Cuba = US embargo (CACR) only, not UN/EU; Yemen = targeted listings, not comprehensive; UN-level only Iran(snapback)/DPRK",
+   "evidence": "Entry itself says Yemen 'verify current sanctions scope'; no authority entry for UK/UN despite basis naming them.",
+   "evidence_url": "knowledge/markets/mea.yaml",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Government/UNECE sites blocked, so un_1958/un_1998 values could not be verified for any item (all unverifiable). Emissions claims conflict with the repo's own GSO MY2027 record (Euro 5 SA/Kuwait, Euro 6b UAE). Several markets rely on AI-gathered workbook stubs; GCC-OTHER, LEVANT, IL are confidence low."
+}

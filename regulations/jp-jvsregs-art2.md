@@ -25,9 +25,8 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 summary: Motor vehicles in Japan must not exceed 12 meters in length (13 meters for
   designated semi-trailers), 2.5 meters in width, and 3.8 meters in height as measured
-  by ministerial notice methods. Certain components—including outward-opening windows,
-  rear-view mirrors, camera-based monitoring devices, and other...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  by ministerial notice methods.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 8a6c1a2ad0944c25193f68ee6aef16b5bfa7b51e
 systems:
 - Visibility
@@ -36,8 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 2 — Length, Width, and Height
 translation_status: translated
-un_equivalent_ai:
-- UN R26
 vehicle_categories:
 - Passenger car
 - Light truck

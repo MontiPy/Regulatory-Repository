@@ -26,9 +26,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.123
 status: in-force
 summary: Motorcycle controls and displays on handlebar-equipped motorcycles (except
   law enforcement models) are regulated for standardized location, operation, identification,
-  and illumination. The standard requires controls to be operable without removing
-  the operator's hand from the throttle or handgrip, displays to be...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  and illumination.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f4280f62e131c51a96eef178901d581a763594de
 systems:
 - Tell-tales & controls
@@ -37,8 +36,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.123 Standard No. 123; Motorcycle controls and displays.
-un_equivalent_ai:
-- UN R121
 vehicle_categories:
 - Motorcycle
 ---

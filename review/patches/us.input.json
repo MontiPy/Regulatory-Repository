@@ -1,0 +1,686 @@
+{
+ "group": "us",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "us-cfr-part-531",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "status in-force; body pulled 2026-06-01 shows the 2022/2024 standards (MY 2012-2031 table, last amended 89 FR 52945/52949, June 2024)",
+   "proposed": "keep in-force but flag that standards were reset by the NHTSA SAFE Vehicles Rule III final rule (FR 2026-19964, published 2026-09-30); re-pull the part and update body/summary",
+   "evidence": "WebSearch: \"Federal Register :: The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks\" - \"NHTSA is issuing this final rule to reset the CAFE standards\"; signed Sept 25, 2026; MY2031 fleet average 34.9 mpg vs ~50 mpg trajectory previously.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-533",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "status in-force; body pulled 2026-06-01 shows the 2022/2024 standards (MY 2012-2031 table, last amended 89 FR 52945/52949, June 2024)",
+   "proposed": "keep in-force but flag that standards were reset by the NHTSA SAFE Vehicles Rule III final rule (FR 2026-19964, published 2026-09-30); re-pull the part and update body/summary",
+   "evidence": "WebSearch: \"Federal Register :: The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks\" - \"NHTSA is issuing this final rule to reset the CAFE standards\"; signed Sept 25, 2026; MY2031 fleet average 34.9 mpg vs ~50 mpg trajectory previously.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-124",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R161",
+   "proposed": "No direct UN equivalent (remove)",
+   "evidence": "UN Regulation No. 161 is 'protection of motor vehicles against unauthorized use ... device against unauthorized use (by mean of a locking system)', unrelated to accelerator return-to-idle. Repo itself uses R161 for unauthorized use in knowledge/crosswalk.yaml:1051.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+   "field": "title",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "Conflict minerals and responsible sourcing due-diligence frameworks (citation joins Dodd-Frank 1502 with Regulation (EU) 2017/821)",
+   "proposed": "Split into two records: Dodd-Frank s1502 (SEC Rule 13p-1, 17 CFR 240.13p-1/Form SD) and Regulation (EU) 2017/821",
+   "evidence": "Citation combines two different instruments in different jurisdictions; record region is US but source_url points only to the EU act (eur-lex 2017/821).",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "Flag as federally contested: EPA's ACC II waiver was revoked via CRA (Pub. L. 119-16, 12 Jun 2025); CARB enforcement is disputed/in litigation",
+   "evidence": "Search: 'the waiver of preemption required for California and other US states to enforce Advanced Clean Cars II rule has been revoked... H.J.Res.88 became Public Law No: 119-16 on 06/12/2025.' The record body/summary say nothing of this.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Compliance applies to passenger cars as listed in 49 CFR Part 571",
+   "proposed": "Tier 3 (40 CFR Part 86, Subpart S etc.) applies to light-duty vehicles, light-duty trucks and medium-duty passenger vehicles (and sets 10 ppm gasoline sulfur); it is an EPA Clean Air Act rule, not tied to 49 CFR Part 571 (FMVSS)",
+   "evidence": "Body: 'Applies to passenger cars when listed in 49 CFR Part 571' contradicts its own 'Not an FMVSS' statement; EPA applicability is by EPA vehicle classes under 40 CFR Part 86.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-40cfr-part-1066",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "includes Motorcycle",
+   "proposed": "remove Motorcycle",
+   "evidence": "1066.1(a)(2): \"Model year 2022 and later motor vehicles (light-duty and heavy-duty) that are subject to chassis testing ... other than highway motorcycles.\"",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-40cfr-part-82",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "\"regulated under this subpart ... production, import, export ... of ozone-depleting substances\"",
+   "proposed": "Rewrite for whole part: ODS production/consumption (Subp. A), MVAC servicing and technician certification (Subp. B, CAA 609), SNAP alternatives (Subp. G), refrigerant recycling (F), labeling (E)",
+   "evidence": "Body has Subpart B—Servicing of Motor Vehicle Air Conditioners, Subpart G—Significant New Alternatives Policy Program; the summary mentions only Subpart A and says \"subpart\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-40cfr-part-85",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Summary describes only Subpart F (clean alternative fuel conversions)",
+   "proposed": "Summary should cover Subparts F, P (importation), R (exclusion/exemption), S (recall), T (defect reporting), V (warranty/aftermarket parts), W, X, Y",
+   "evidence": "Body headings: \"Subpart P—Importation of Motor Vehicles and Motor Vehicle Engines\", \"Subpart S—Recall Regulations\", \"Subpart V—Warranty Regulations and Voluntary Aftermarket Part Certification Program\"; summary says \"regulated under this subpart\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-40cfr-part-86",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Summary centers on incorporated ASTM fuel-property test standards",
+   "proposed": "Rewrite: exhaust/evaporative/OBD emission standards and certification for new light-, medium-, heavy-duty vehicles/engines and motorcycles (Subparts A, B, E-F, G, N, S, T), plus IBR",
+   "evidence": "Summary derived from 86.1 (Incorporation by reference); body contains Subpart A \"General Provisions for Heavy-Duty Engines\", Subpart S \"General Compliance Provisions ... Light-Duty Vehicles\", Subpart F motorcycles test procedures.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-523",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Tires, Steering column",
+   "proposed": "none (empty)",
+   "evidence": "Part 523 defines vehicle classification (GVWR, cab-complete, approach angle, etc.). \"steering column\" appears only in the definition of cab (\"A cab includes a steering column\"); no tire or steering requirements.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-525",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101, UN R154",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-526",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-529",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101, UN R154",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-531",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-533",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101, UN R154",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-534",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-536",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "body describes inter-manufacturer credit trading and 3-back/5-forward carry",
+   "proposed": "verify against the 2026 SAFE III final rule, which per search results proposed eliminating inter-manufacturer credit trading from MY 2028; re-pull part",
+   "evidence": "WebSearch result (same FR notice): \"NHTSA is proposing to eliminate the inter-manufacturer credit trading system ... starting in MY 2028.\" Unclear whether finalized.",
+   "confidence": "low"
+  },
+  {
+   "id": "us-cfr-part-536",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-537",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101, UN R154",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-538",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "status: in-force",
+   "proposed": "mark as obsolete/expired-incentive note (not repealed, but applies only to MY1993-2019)",
+   "evidence": "Body 538.2: \"identifying dual-fueled passenger automobiles that are manufactured in model years 1993 through 2019.\" Dual-fuel CAFE incentive has ended, so the part has no effect for current model years.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-538",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R101",
+   "proposed": "remove (no UN counterpart)",
+   "evidence": "This part is a US NHTSA CAFE policy/administrative instrument (standards, petitions, credits, reporting, corporate succession). UN R101 only specifies CO2/fuel-consumption measurement of M1/N1 vehicles and R154 is WLTP emissions; neither sets fleet-average fuel economy standards. Part 600 (EPA test procedures) is the closer R101 analogue.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-541",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Body structure, Bumpers, Steering column, Seats, Mirrors, Wheels",
+   "proposed": "Engine, Transmission, Body structure (fenders, hood, doors, quarter panels, decklid/tailgate), Bumpers",
+   "evidence": "Parts marked per 49 CFR 541.5(a)(1)-(18): engine, transmission, front fenders, hood, front/rear/sliding doors, front and rear bumpers, quarter panels (cars) / side assemblies (MPVs), pickup/cargo box, decklid/tailgate/hatchback. No seats, steering column, mirrors or wheels. The body text in the repo never mentions seats, steering column, mirrors or wheels.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-541",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R162",
+   "proposed": "(none; no UN counterpart for parts marking)",
+   "evidence": "UN R162 is 'Immobilisers' (repo ece-r162 title: 'UN Regulation No. 162 — Immobilisers'). Part 541 requires VIN marking on major parts to trace stolen components, not immobilizer performance.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-542",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R116, UN R162",
+   "proposed": "(none)",
+   "evidence": "Part 542 is purely a procedure for manufacturers and NHTSA to select new light-duty truck lines likely to have high/low theft rates (542.1(a) 'procedures ... to follow in the determination of whether any new light duty truck line is likely to have a theft rate above or below the 1990/91 median'). R116 (unauthorised use protection) and R162 (immobilisers) are technical device requirements, not equivalent.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-545",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R162, UN R116",
+   "proposed": "(none)",
+   "evidence": "Part 545 is a one-time manufacturer reporting/recordkeeping requirement about Part 541 phase-in (545.6: 'Within 60 days after the end of the production year ending August 31, 2007'). No UN technical counterpart.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-569",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R30",
+   "proposed": "none (R108/R109 cover retreaded tyres but not regrooving)",
+   "evidence": "Part 569 body: 'sets forth the conditions under which regrooved and regroovable tires ... may be sold'. UN R30 is new pneumatic tyres for passenger cars; no regrooving provisions.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-570",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Summary describes only vehicles with GVWR of 10,000 lb or less",
+   "proposed": "Mention Subpart B (GVWR > 10,000 lb; brake, steering/suspension, tire/wheel inspection)",
+   "evidence": "Body: '### Subpart B—Vehicles With GVWR of More Than 10,000 Pounds ... § 570.51 Scope. This part specifies standards and procedures for the inspection of brake, steering and suspension systems, and tire and wheel assemblies, of motor vehicles in use with a gross vehicle weight rating of more than 10,000 pounds.'",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-570",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Passenger car, Light truck",
+   "proposed": "add Heavy truck, Bus, Trailer",
+   "evidence": "Subpart B applies to vehicles over 10,000 lb GVWR (except mobile structure trailers), per 570.53.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-572",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R94, UN R16",
+   "proposed": "Drop UN R16 (seat belts); UN R94/R95 only as loose related (they reference dummies, no UN equivalent of Part 572 itself)",
+   "evidence": "Part 572 body: 'This part describes the anthropomorphic test devices that are to be used for compliance testing... It does not in itself impose duties'. UN R16 is a seat-belt component regulation, not a dummy specification.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-574",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R142",
+   "proposed": "UN R30/R54/R117 (tyre approval/marking) or none",
+   "evidence": "UN R142 'approval of motor vehicles with regard to the installation of their tyres'; Part 574 is tire identification (TIN) and purchaser recordkeeping for tire manufacturers/dealers, not vehicle tyre installation.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-585",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R114",
+   "proposed": "(none; reporting rule has no UN counterpart)",
+   "evidence": "UN R114 covers 'an airbag module for a replacement airbag system; a replacement steering wheel equipped with an airbag module...' (replacement parts approval), while Part 585 is phase-in reporting to NHTSA (Subparts A-O: advanced air bags, ESC, TPMS, roof crush, etc.).",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-588",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R44, UN R129",
+   "proposed": "(none)",
+   "evidence": "Part 588 is only an owner-registration recordkeeping duty: 'maintain lists of the names and addresses of child restraint owners' to support recall notification (s588.1, s588.2). UN R44/R129 are product performance approvals; no UN counterpart for recall recordkeeping.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-591",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R116, UN R162",
+   "proposed": "(none)",
+   "evidence": "s591.1: 'establishes procedures governing the importation of motor vehicles and motor vehicle equipment' (customs/declaration procedure). UN R116/R162 are anti-theft/immobilizer technical requirements; no UN equivalent for an import declaration procedure.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-595",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R114",
+   "proposed": "(none)",
+   "evidence": "Part 595 is a make-inoperative exemption for retrofit air bag on-off switches and disability modifications (s595.2). UN R114 covers replacement airbag modules/steering wheels as equipment approval; it does not correspond to this exemption.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr575-105",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Airbags",
+   "proposed": "(none) or Body structure/Labels",
+   "evidence": "Body: 'requires manufacturers of utility vehicles to alert the drivers ... higher possibility of rollover' via a sun visor label; it is a rollover warning label, not an airbag item. Airbag only appears as label spacing relative to the s571.208 air bag warning label.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr575-301",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force (summary: manufactured on or after Sept 1, 2007)",
+   "proposed": "Note that 575.301 applies only to vehicles not subject to 575.302, i.e. effectively legacy MY2008-2011 vehicles",
+   "evidence": "s575.301(b): 'manufactured on or after September 1, 2007 ... except for vehicles that are subject to s575.302' and title '(applicable unless a vehicle is subject to s575.302)'. 575.302 applies to MY2012+ built on/after Jan 31, 2012, so for current production 575.301 is superseded; summary does not say so.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-104",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R45",
+   "proposed": "(remove; no direct UN regulation for windshield wiping/washing; EU equivalent is Directive 78/318/EEC, repealed into Reg. (EU) 2018/858 / 2021/535 framework)",
+   "evidence": "UN R45 is 'Headlamp cleaners'. Repo body S1: 'This standard specifies requirements for windshield wiping and washing systems.' (windshield wipers/washers, not headlamp cleaners)",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-105",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R13, UN R13H",
+   "proposed": "UN R13 only (R13H is for M1/N1 passenger-car-type vehicles; FMVSS 135 is its US counterpart)",
+   "evidence": "Repo body S3: 'applies to multi-purpose passenger vehicles, trucks, and buses with a GVWR greater than 3,500 kilograms'. UN R13-H applies to category M1 and N1 (<=3.5 t) vehicles, outside FMVSS 105 scope.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-113",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R11",
+   "proposed": "(remove; R11 covers door latches and hinges, not hood latches)",
+   "evidence": "UN R11 is 'Door latches and door retention components'. Repo body S1: 'This standard establishes the requirement for providing a hood latch system'; S3: 'Hood means any exterior movable body panel forward of the windshield'. Record's own commodities include 'Door latches & hinges', which probably caused the mapping.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-117",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R30",
+   "proposed": "UN R108 (retreaded pneumatic tyres for passenger cars and trailers; R109 for commercial vehicles)",
+   "evidence": "UN R30 covers NEW pneumatic tyres for passenger cars. Repo body S1: 'performance, labeling, and certification requirements for retreaded pneumatic passenger car tires'. UN R108 is 'Uniform provisions concerning the approval of the production of retreaded pneumatic tyres for motor vehicles and their trailers'.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-119",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R54, UN R30",
+   "proposed": "UN R54 (commercial vehicle tyres); add UN R75 for motorcycle tyres; drop R30",
+   "evidence": "Body S3(a): 'New pneumatic tires for ... GVWR of more than 4,536 kilograms'; also motorcycle tyres. UN R30 covers passenger-car (M1) tyres, outside FMVSS 119 scope (standard knowledge, not searched).",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-122a",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R13",
+   "proposed": "UN R78 (L-category braking)",
+   "evidence": "Body: 'S1 ... performance requirements for motorcycle brake systems'; 'S3 applies to motorcycles'. UN R13 covers M/N/O heavy vehicle braking; R78 is the motorcycle braking regulation (standard knowledge, not searched).",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-123",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R121",
+   "proposed": "UN R60 (motorcycle/moped driver-operated controls and indicators)",
+   "evidence": "FMVSS 123 is motorcycle controls and displays ('S1 ... location, operation, identification, and illumination of motorcycle controls and displays'). UN R121 covers identification of controls/tell-tales for M and N vehicles; R60 is the L-category counterpart (from standard knowledge, not searched).",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-131",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R150, UN R148",
+   "proposed": "Remove / no UN equivalent",
+   "evidence": "Body S1: 'devices that can be installed on school buses ... stop signal arm'. R150 is retro-reflecting devices and R148 is light-signalling devices; neither regulates school-bus stop arms. No UN counterpart known (standard knowledge, not searched).",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-136",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R140",
+   "proposed": "UN R13 (Annex 21, vehicle stability function) for M3/N3/O heavy vehicles; remove UN R140",
+   "evidence": "Record body S3 limits scope to 'Truck tractors with a gross vehicle weight rating of greater than 11,793 kilograms' and 'Buses with a gross vehicle weight rating of greater than 11,793 kilograms'. UN R140 (ESC) applies to light vehicles (M1, N1 up to 3.5 t, and M2/N2 not covered by R13), not heavy tractors/buses; the heavy-vehicle stability requirement is in UN R13 Annex 21. Based on repository text plus standard knowledge of UN R140 scope (not web-verified).",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-202",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force",
+   "proposed": "superseded (by 571.202a; applies only to vehicles manufactured before 1 Sept 2009 / phase-in period)",
+   "evidence": "Body S2: 'This standard applies to ... manufactured before September 1, 2009.' and 'For vehicles manufactured on or after September 1, 2009 and before September 1, 2010, manufacturers may comply with the standard in this § 571.202 ... only to the extent consistent with phase-in'. Title: 'Applicable at the manufacturers option until September 1, 2009.' Successor is 571.202a, mandatory from 1 Sept 2009. Section remains in the CFR but has no application to current new vehicles. (precheck '[Reserved]' flag is just S4.3 reserved sub-paragraph; dismissed.)",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-212",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R43",
+   "proposed": "remove or note: no direct UN counterpart for windshield retention (R43 covers safety glazing materials, not mounting/retention)",
+   "evidence": "S1. Scope. This standard establishes windshield retention requirements for motor vehicles during crashes. (R43 is the glazing-material regulation, a different subject)",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-213b",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force",
+   "proposed": "adopted / not yet applicable (applies to child restraint systems manufactured on or after 2026-12-05)",
+   "evidence": "S3. Application. ... manufactured on or after December 5, 2026. (today is 2026-10-06; us-fmvss-213 S3: 'manufactured before December 5, 2026. FMVSS No. 213b applies to child restraint systems manufactured on or after December 5, 2026')",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-226",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R95",
+   "proposed": "none (no UN ejection-mitigation regulation); remove",
+   "evidence": "UN R95 is lateral collision protection; FMVSS 226 is ejection mitigation (side-window ejection impactor test/rollover). Body S2: applies to vehicles '4,536 kg or less' ... ejection of occupants through side windows. Not a counterpart.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-302",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R21",
+   "proposed": "UN R118 (burning behaviour of interior materials)",
+   "evidence": "UN R21 covers interior fittings (head-impact/energy absorption), not flammability; the FMVSS 302 counterpart is UN R118 (also ISO 3795). Body: 'requires that these materials not burn or transmit a flame front ... exceeding 102 mm per minute'. Based on standard knowledge of UN R21/R118 scopes; no web check.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-303",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R34",
+   "proposed": "UN R110 (CNG vehicle components/installation)",
+   "evidence": "UN R34 is fire-risk prevention for liquid-fuel vehicles; CNG vehicle fuel system is UN R110. Body S3: 'use CNG as a motor fuel'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-304",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R34",
+   "proposed": "UN R110 (CNG/LNG specific components; container requirements)",
+   "evidence": "UN R34 covers fire-risk prevention (liquid fuel tanks); CNG containers are covered by UN R110. Body S3: 'each container designed to store CNG as motor fuel on-board any motor vehicle'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-307",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R34",
+   "proposed": "UN R134 (hydrogen vehicle safety); related UN GTR 13",
+   "evidence": "R34 does not cover hydrogen systems; UN R134 is the hydrogen/fuel-cell vehicle regulation. Body S3: 'uses compressed hydrogen gas as a fuel source'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-500",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Lighting modules, Mirrors, Brakes, Glass, Seatbelts, Batteries, Horn",
+   "proposed": "Lighting modules, Mirrors, Brakes, Glass, Seatbelts",
+   "evidence": "Body S5(b) lists headlamps, turn/stop/tail lamps, reflectors, mirrors, parking brake, windshield (571.205), VIN, seat belts (571.209), rear visibility, and 'An alert sound as required by § 571.141'. No horn requirement exists; the alert sound is a pedestrian alert under FMVSS 141, not a horn. 'Batteries' appears only as a test condition (S6.3.6 state of charge), not an equipment requirement.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-california-proposition-65",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Battery safety, Emissions",
+   "proposed": "(none/Materials & substances)",
+   "evidence": "Prop 65 is a chemical exposure warning law, not battery safety or vehicle emissions; body lists 'Materials, coatings, electronics, batteries, plastics, rubber, trim'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-scope U.S. and EU companies conduct due diligence on regulated minerals used in vehicle electronics, batteries and components",
+   "proposed": "State that Dodd-Frank 1502 applies to SEC-registered issuers (Form SD) and EU 2017/821 to EU importers of tin, tantalum, tungsten, gold; it is not a vehicle approval requirement",
+   "evidence": "Regulation (EU) 2017/821 obligations fall on Union importers of 3TG minerals/metals, not on vehicle makers as such; cobalt/battery due diligence belongs to Battery Regulation (EU) 2023/1542, which the body itself lists under Related Regulations ('EU Battery Regulation due diligence'). Body says 'not a vehicle type-approval pass/fail test'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Battery safety, EV charging",
+   "proposed": "(none)",
+   "evidence": "Conflict-minerals due diligence is supply chain; EV charging has no link; body mentions only 'Smelter/refiner data, supplier declarations'.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R155, UN R156",
+   "proposed": "(none)",
+   "evidence": "MA law mandates open-access telematics/diagnostic data for independent repairers (s: 'Ensure repairers and vehicle owners can access required diagnostic/repair data'). UN R155/R156 are cybersecurity/software-update type approval; not equivalent. Closest conceptual relation is RMI under Reg (EU) 2018/858, as the body's own Related Regulations says.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+   "field": "status",
+   "verdict": "unverifiable",
+   "severity": "medium",
+   "current": "in-force",
+   "proposed": "Keep in-force but add note: litigation ongoing (First Circuit appeal filed March 2025) and NHTSA has said the law is preempted by federal law",
+   "evidence": "Search: 'The Alliance initiated an appeal to the First Circuit on March 14, 2025' after dismissal Feb 2025 (glassbytes.com 'Right To Repair Remains Law in Massachusetts'); Lexology 'NHTSA Sides With Automakers, Informs Court That Massachusetts Data Access Law Preempted By Federal Law'. Current status not confirmed here.",
+   "confidence": "low"
+  },
+  {
+   "id": "us-stub-nom-042-semarnat-2003",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "'exhaust pollutants (NOx, CO, HC, PM/PN)... certified emission standards'",
+   "proposed": "limits for THC/NMHC, CO, NOx, particulates (mass) and evaporative HC; no particle number",
+   "evidence": "vLex/official title: 'Hidrocarburos Totales o no Metano, Monóxido de Carbono, Óxidos de Nitrógeno y Partículas ... así como hidrocarburos evaporativos'. PN not in title. Summary text also truncated mid-sentence.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-nom-042-semarnat-2003",
+   "field": "body",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Key Compliance Intent / Components mention fuel economy, reporting, hybrid/EV data, fleet compliance ledger, CO2",
+   "proposed": "scope limited to exhaust and evaporative pollutants; CO2 belongs to NOM-163",
+   "evidence": "Body Key Compliance Intent: '...certified emissions, fuel economy and reporting obligations'; Engineering: 'separate from ... CO2 NOM-163'. Contradicts own scope; also Related Regs cite Euro 7/China 6.",
+   "confidence": "high"
+  },
+  {
+   "id": "us-stub-nom-042-semarnat-2003",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R83, UN R101",
+   "proposed": "UN R83 (plus R49 for diesel heavy-duty not applicable); drop R101",
+   "evidence": "UN R101 covers CO2/fuel consumption and electric range, not pollutant limits; NOM-042 is pollutant/evaporative limits.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "covers criteria pollutants, CO2, fuel economy, OBD compliance, ZEV credit obligations; 'sold in California and adopting states'",
+   "proposed": "Remove 'fuel economy' (not regulated by ACC II; CARB regs set fleet CO2/criteria standards and ZEV percentages); note the waiver revocation; narrow to what 1961.4/1962.4 cover (2026+ MY LEV IV exhaust standards and ZEV requirements)",
+   "evidence": "Body lists 'fuel economy label error' and 'fuel economy and CO2 reporting' but the cited sections are exhaust standards (1961.4) and ZEV (1962.4); body has no regulation text. 1962.8 scope not confirmed.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R168",
+   "proposed": "Remove (or only UN R83 / R154; R168 is RDE and has no US Tier 3 counterpart)",
+   "evidence": "Search: 'UN Regulation No. 168 contains uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to real driving emissions (RDE)... entered into force 26 March 2024.' US Tier 3 has no RDE requirement.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+   "field": "vehicle_categories",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Passenger car",
+   "proposed": "Passenger car, Light truck (also MDPV and heavy-duty up to 14,000 lb GVWR)",
+   "evidence": "Tier 3 standards cover LDV, LDT, MDPV and Class 2b-3 heavy-duty vehicles; light truck tag missing.",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-workbook-reg-0451-49-cfr-part-575",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "compliance records support market placement, traceability, and recall reporting; safety-rating labels",
+   "proposed": "Part 575 sets consumer-information requirements: UTQG tire grading (575.104), truck-camper loading (575.103), vehicle rollover/other info; traceability and recall reporting are Parts 576/573/579, not Part 575",
+   "evidence": "Search: sections 575.101-575.102 reserved, 575.103 is truck-camper loading, 575.104 is UTQG. Body's 'Key Compliance Intent' is generic ('legally placed on market, traced, recalled and reported').",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-workbook-reg-0451-49-cfr-part-575",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Vehicle identification, Tires & wheels",
+   "proposed": "Tires & wheels (drop Vehicle identification; VIN is 49 CFR Part 565)",
+   "evidence": "Part 575 does not regulate VIN/certification labels (Parts 565/567); body's VIN-label content is generic.",
+   "confidence": "medium"
+  }
+ ]
+}

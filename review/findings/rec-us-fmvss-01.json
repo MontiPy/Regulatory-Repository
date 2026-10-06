@@ -1,0 +1,99 @@
+{
+ "shard": "rec-us-fmvss-01",
+ "reviewed": [
+  "us-fmvss-101",
+  "us-fmvss-102",
+  "us-fmvss-103",
+  "us-fmvss-104",
+  "us-fmvss-105",
+  "us-fmvss-106",
+  "us-fmvss-108",
+  "us-fmvss-109",
+  "us-fmvss-110",
+  "us-fmvss-111",
+  "us-fmvss-113",
+  "us-fmvss-114",
+  "us-fmvss-116",
+  "us-fmvss-117"
+ ],
+ "findings": [
+  {
+   "id": "us-fmvss-104",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R45",
+   "proposed": "(remove; no direct UN regulation for windshield wiping/washing; EU equivalent is Directive 78/318/EEC, repealed into Reg. (EU) 2018/858 / 2021/535 framework)",
+   "evidence": "UN R45 is 'Headlamp cleaners'. Repo body S1: 'This standard specifies requirements for windshield wiping and washing systems.' (windshield wipers/washers, not headlamp cleaners)",
+   "evidence_url": "regulations/us-fmvss-104.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-113",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R11",
+   "proposed": "(remove; R11 covers door latches and hinges, not hood latches)",
+   "evidence": "UN R11 is 'Door latches and door retention components'. Repo body S1: 'This standard establishes the requirement for providing a hood latch system'; S3: 'Hood means any exterior movable body panel forward of the windshield'. Record's own commodities include 'Door latches & hinges', which probably caused the mapping.",
+   "evidence_url": "regulations/us-fmvss-113.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-117",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R30",
+   "proposed": "UN R108 (retreaded pneumatic tyres for passenger cars and trailers; R109 for commercial vehicles)",
+   "evidence": "UN R30 covers NEW pneumatic tyres for passenger cars. Repo body S1: 'performance, labeling, and certification requirements for retreaded pneumatic passenger car tires'. UN R108 is 'Uniform provisions concerning the approval of the production of retreaded pneumatic tyres for motor vehicles and their trailers'.",
+   "evidence_url": "regulations/us-fmvss-117.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-105",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R13, UN R13H",
+   "proposed": "UN R13 only (R13H is for M1/N1 passenger-car-type vehicles; FMVSS 135 is its US counterpart)",
+   "evidence": "Repo body S3: 'applies to multi-purpose passenger vehicles, trucks, and buses with a GVWR greater than 3,500 kilograms'. UN R13-H applies to category M1 and N1 (<=3.5 t) vehicles, outside FMVSS 105 scope.",
+   "evidence_url": "regulations/us-fmvss-105.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-105",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Battery safety (systems); Batteries (commodity)",
+   "proposed": "Braking only; drop Battery safety/Batteries",
+   "evidence": "Battery text appears only in EV definitions and test conditions (e.g. 'propulsion batteries at a state of charge of not less than 95 percent'; regenerative braking definition). The standard does not regulate battery safety.",
+   "evidence_url": "regulations/us-fmvss-105.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-108",
+   "field": "commodities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Mirrors; ADAS sensors",
+   "proposed": "Lighting modules, Wiring (drop Mirrors, ADAS sensors)",
+   "evidence": "Mirrors appear only in exclusions/obstruction wording (e.g. 'outside rearview mirrors' excluded from overall width); sensors only as ambient-light sensor for motorcycle headlamp modulation and photometer sensors. Not requirements on mirrors or ADAS sensors.",
+   "evidence_url": "regulations/us-fmvss-108.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-111",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R46, UN R158",
+   "proposed": "UN R46 (mirrors/camera-monitor); R158 is only a partial counterpart (reversing detection/driver awareness) and should be flagged as partial",
+   "evidence": "FMVSS 111 S1: 'requirements for rear visibility devices and systems'; UN R158 is 'Reversing motor vehicles' (detection of persons behind), which does not set rear-view field-of-view requirements like R46.",
+   "evidence_url": "regulations/us-fmvss-111.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Pattern: un_equivalent_ai mappings are the weak spot (wrong or out-of-scope UN Rs in 104, 113, 117, 105); all bodies contain genuine eCFR regulation text (none stubs); all statuses in-force are correct; the 117 '[Reserved]' precheck flag is only sub-paragraphs S5.2.4/S6.2 and is fine; titles/citations/ids all consistent; summaries are truncated with '...' but accurate against the bodies. Commodity/system tags occasionally inferred from incidental body words (105, 108)."
+}

@@ -1,5 +1,5 @@
 ---
-citation: MVSR SOR-2003-2
+citation: SOR/2003-2
 commodities:
 - Exhaust
 - Fuel system
@@ -24,11 +24,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html
 status: in-force
-summary: Canadian on-road vehicles and engines sold or imported into Canada must meet
-  emission standards established under the Canadian Environmental Protection Act,
-  1999; the regulations define key terms—such as vehicle classes, engine types, emission
-  control devices, and weight measurements—that govern how those emission...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: The On-Road Vehicle and Engine Emission Regulations (SOR/2003-2), made under
+  the Canadian Environmental Protection Act, 1999, set emission requirements for on-road
+  vehicles and engines and define the related terms. They apply to vehicles whose
+  main assembly is completed in Canada, engines manufactured in Canada, and vehicles
+  and engines imported into Canada, on or after January 1, 2004.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 74bcff8168072198af7370c41e36a2a36b88ccd2
 systems:
 - Emissions
@@ -37,9 +38,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
-un_equivalent_ai:
-- UN R83
-- UN R168
 vehicle_categories:
 - Passenger car
 - Light truck

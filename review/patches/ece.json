@@ -1,0 +1,31 @@
+{
+  "group": "ece",
+  "patches": {
+    "ece-r100": {
+      "title": "UN Regulation No. 100 — Vehicles with Regard to Specific Requirements for the Electric Power Train",
+      "_why": "Finding ece-r100/title: official UNECE title is 'approval of vehicles with regard to specific requirements for the electric power train'; record had a garbled title."
+    },
+    "ece-r114": {
+      "title": "UN Regulation No. 114 — Replacement Airbag Modules, Replacement Steering Wheels with Airbag and Replacement Airbag Systems",
+      "summary": "UN R114 covers the approval of replacement (aftermarket) airbag equipment: airbag modules for a replacement airbag system, replacement steering wheels fitted with an approved airbag module, and replacement airbag systems other than those installed in a steering wheel. It applies to M1 and N1 vehicles.",
+      "_why": "Findings ece-r114/title and summary: R114 is about replacement airbag equipment, not original-equipment airbag systems; current summary is a placeholder."
+    },
+    "ece-r44": {
+      "status_note": "UN R129 (i-Size) is the successor child restraint regulation; ending new approvals to UN R44 has been proposed at WP.29 (target Sept 2027). R44 remains in force for existing approvals.",
+      "_why": "Finding ece-r44/status: keep in-force, add successor note; EU 2024 sale-ban date is from secondary sources and deliberately omitted."
+    },
+    "ece-r89": {
+      "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus"],
+      "_why": "Finding ece-r89/vehicle_categories: ASLD provisions apply to all M and N categories, SLD to M2, M3, N2, N3; M1/N1 map to Passenger car/Light truck."
+    }
+  },
+  "skipped": [
+    {"id": "ece-r149", "field": "title", "reason": "Already corrected in record (title is 'Road Illumination Devices (RID)')."},
+    {"id": "ece-r149", "field": "summary", "reason": "Already corrected in record (consolidated headlamp/AFS regulation summary)."},
+    {"id": "ece-r153", "field": "title", "reason": "Already corrected in record (rear-end collision title)."},
+    {"id": "ece-r153", "field": "summary", "reason": "Already corrected in record (rear-end collision, M1/N1)."},
+    {"id": "ece-r161", "field": "title", "reason": "Already corrected in record ('Devices against Unauthorized Use')."},
+    {"id": "ece-r161", "field": "summary", "reason": "Already corrected in record."},
+    {"id": "ece-r161", "field": "systems", "reason": "Already ['Theft prevention'] in record."}
+  ]
+}

@@ -3,7 +3,7 @@ citation: UN R19
 commodities:
 - Lighting modules
 id: ece-r19
-last_pulled: '2026-06-01T18:53:04+00:00'
+last_pulled: '2026-10-06T03:30:34+00:00'
 open_tags:
 - front fog lamp
 - fog light
@@ -19,13 +19,13 @@ open_tags:
 - intensity distribution
 region: ECE
 source_api: unece
-source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0822(01)
 status: in-force
-summary: Front fog lamps for motor vehicles are the subject of this regulation, but
-  the provided text contains only a reference link and does not include the substantive
-  requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 29efd68460985a09c0c902927b38575c1504564d
+summary: UN Regulation No. 19 sets uniform provisions for the approval of power-driven
+  vehicle front fog lamps. It applies to front fog lamps for vehicles of categories
+  L3, L4, L5, L7, M, N and T (04 series, Supplement 6).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b2c0dde9881bd79148ab312789cc4e901092d604
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'
@@ -37,9 +37,2126 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
+- Off-road
 ---
 
-# UN Regulation No. 19 — Front Fog Lamps
+> **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0822(01), 2014-08-22). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.
 
-See the [UNECE WP.29 Regulations index](https://unece.org/transport/vehicle-regulations-wp29/Regulations) for the full text of UN Regulation No. 19.
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 22.8.2014 | EN | Official Journal of the European Union | L 250/1 |
+
+---
+
+Only the original UN/ECE texts have legal effect under international public law. The status and date of entry into force of this Regulation should be checked in the latest version of the UN/ECE status document TRANS/WP.29/343, available at: http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html
+
+Regulation No 19 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of power-driven vehicle front fog lamps
+
+Incorporating all valid text up to:
+
+Supplement 6 to the 04 series of amendments — Date of entry into force: 9 October 2014
+
+CONTENTS
+
+Introduction
+
+Scope
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Definitions |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Application for approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Markings |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5. | General specifications |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6. | Illumination |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 7. | Colour |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 8. | Determination of discomfort (dazzle) |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 9. | Modifications of the type of front fog lamp and extension of approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 10. | Conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 11. | Penalties for non-conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 12. | Production definitively discontinued |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 13. | Names and addresses of Technical Services responsible for conducting approval tests, and of Type Approval Authorities |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 14. | Transitional provisions |  |
+
+ANNEXES
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Communication |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Tolerance requirements for conformity of production control procedure |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Examples of arrangements of approval marks for front fog lamps of class ‘B’ and class ‘F3’ |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Measuring screen geometry and measuring grid |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5. | Tests for stability of photometric performance of front fog lamps in operation (tests on complete front fog lamps) |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6. | Requirements for lamps incorporating lenses of plastic material — testing of lens or material samples and of complete lamps |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 7. | Minimum requirements for conformity of production control procedure |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 8. | Minimum requirements for sampling by an inspector |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 9. | Definition and sharpness of the cut-off line and aiming procedure by means of this cut-off line for class ‘F3’ front fog lamps |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 10. | Overview of operational periods concerning tests for the stability of photometric performance |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 11. | Centre of reference |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 12. | Requirements in case of use of LED module(s) or of light-generators |  |
+
+INTRODUCTION
+
+This Regulation [(1)](#ntr1-L_2014250EN.01000101-E0001) applies to front fog lamps, which may incorporate lenses of glass or plastic material. It incorporates two distinct classes.
+
+The original front fog lamp, class ‘B’ since inception, has been updated to incorporate the angular coordinate system with an amendment to the values in the relevant photometric table. With this class, only light sources as specified in Regulation No 37 are allowed.
+
+The class ‘F3’ is designed to increase photometric performance. In particular the beam width and the minimum luminous intensities below the H-H line (paragraph 6.4.3) have been increased whilst controls on the maximum intensity in the foreground are introduced. Above the H-H line, the intensity of the veiling light is reduced to improve visibility. Additionally this class may provide adaptive beam patterns where the performance is varied according to the visibility conditions.
+
+The introduction of the class ‘F3’ provides for requirements that are amended to be similar to those of a headlamp as follows:
+
+|  |  |
+| --- | --- |
+| (a) | The photometric values are specified as luminous intensities using the angular coordinate system. |
+
+|  |  |
+| --- | --- |
+| (b) | Light sources can be selected according to the provisions of Regulation No 37 (Incandescent filament light sources) and Regulation No 99 (gas discharge light sources). Light emitting diode (LED) modules and distributed lighting systems may also be used. |
+
+The cut-off and the gradient definitions.
+
+The photometric requirements permit the use of asymmetrical beam distributions.
+
+SCOPE
+
+This Regulation applies to front fog lamps for vehicles of categories L3, L4, L5, L7, M, N, and T [(2)](#ntr2-L_2014250EN.01000101-E0002).
+
+1.   DEFINITIONS
+
+For the purpose of this Regulation,
+
+|  |  |
+| --- | --- |
+| 1.1. | The definitions given in Regulation No 48 and its series of amendments in force at the time of application for type approval shall apply to this Regulation. |
+
+|  |  |
+| --- | --- |
+| 1.2. | ‘Lens’ means the outermost component of the front fog lamp (unit), which transmits light through the illuminating surface; |
+
+|  |  |
+| --- | --- |
+| 1.3. | ‘Coating’ means any product or products applied in one or more layers to the outer face of a lens; |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.4. | ‘Front fog lamps of different types’ are front fog lamps that differ in such essential respects as:   |  |  | | --- | --- | | 1.4.1. | The trade name or mark; |  |  |  | | --- | --- | | 1.4.2. | Different ‘classes’ (‘B’ or ‘F3’) identified by particular photometric provisions: |  |  |  | | --- | --- | | 1.4.3. | The characteristics of the optical system; (basic optical design, type/category of light source, LED module, DLS etc.), |  |  |  | | --- | --- | | 1.4.4. | The inclusion of components capable of altering the optical effects by reflection, refraction, absorption and/or deformation during operation and the variable intensity control, if any: |  |  |  | | --- | --- | | 1.4.5. | The category of filament lamp(s) used, as listed in Regulation No 37, Regulation No 99 and/or the LED module or light generator specific identification code (s) (if applicable); |  |  |  | | --- | --- | | 1.4.6. | However, a device intended for the installation on the left side of the vehicle and the corresponding device intended for the installation of the right side of the vehicle shall be considered to be of the same type. | |
+
+|  |  |
+| --- | --- |
+| 1.5. | ‘Colour of the light emitted from the device’. The definitions of the colour of the light emitted, given in Regulation No 48 and its series of amendments in force at the time of application for type approval, shall apply to this Regulation. |
+
+|  |  |
+| --- | --- |
+| 1.6. | References made in this Regulation to standard (étalon) light sources and to Regulations Nos 37 and 99 shall refer to Regulations Nos 37 and 99 and their series of amendments in force at the time of application for type approval. |
+
+2.   APPLICATION FOR APPROVAL
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | The application for approval shall be submitted by the holder of the trade name or mark or by his duly accredited representative. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.2. | The application relating to each type of front fog lamp shall be accompanied by:  |  |  |  |  | | --- | --- | --- | --- | | 2.2.1. | Drawings in triplicate in sufficient detail to permit identification of the type and representing a frontal view of the front fog lamp, with the relevant details of the optical components if any, and the cross-section; the drawings shall indicate the space reserved for the approval mark.   |  |  | | --- | --- | | 2.2.1.1. | If the front fog lamp is equipped with an adjustable reflector, an indication of the mounting position(s) of the front fog lamp in relation to the ground and the longitudinal median plane of the vehicle, if the front fog lamp is for use in that (those) position(s) only; | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.2.2. | For the test of plastic material of which the lenses are made:   |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | 2.2.2.1. | Thirteen lenses;   |  |  | | --- | --- | | 2.2.2.1.1. | Six of these lenses may be replaced by six samples of material at least 60 × 80 mm size, having a flat or convex outer surface and a substantially flat area (radius of curvature not less than 300 mm) in the middle measuring at least 15 × 15 mm); |  |  |  | | --- | --- | | 2.2.2.1.2. | Every such lens or sample of material shall be produced by the method to be used in mass production; |  |  |  | | --- | --- | | 2.2.2.1.3. | A reflector to which the lenses can be fitted in accordance with the manufacturer’s instructions. | | |  |  |  | | --- | --- | | 2.2.3. | The materials making up the lenses and coatings, if any, shall be accompanied by the test report of the characteristics of these materials and coatings if they have already been tested. | |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 2.3. | In case of class ‘B’ front fog lamps:  |  |  | | --- | --- | | 2.3.1. | A brief technical specification including the category of filament lamp used as listed in Regulation No 37 and its series of amendments in force at the time of application for type approval, even if the filament lamp cannot be replaced; |  |  |  | | --- | --- | | 2.3.2. | Two samples of each type of front fog lamp, one sample intended for the installation on the left side of the vehicle and one sample intended for the installation of the right side of the vehicle. | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.4. | In case of class ‘F3’ front fog lamps:  |  |  | | --- | --- | | 2.4.1. | A brief technical specification including the category of the light source(s) used; this (these) light source category(ies) shall be listed in regulation No 37 or regulation No 99 and their series of amendments in force at the time of application for type approval, even if the light source cannot be replaced; |  |  |  | | --- | --- | | 2.4.2. | In the case of LED module(s) or a light generator, the specific identification code of the module shall be stated. The drawing shall contain sufficient details to identify it and the position intended for the specific identification code and the trademark of the applicant. |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | 2.4.3. | The make and types of the ballast(s) and/or the light source control gear, where applicable, shall be specified:   |  |  | | --- | --- | | 2.4.3.1. | In the case of an adaptive front fog lamp, a concise description of the variable intensity control. |  |  |  | | --- | --- | | 2.4.3.2. | In case of the use of a light source control gear not being part of the device, the voltage(s) with tolerances or the total voltage range at the terminals to that light source control gear. | |  |  |  | | --- | --- | | 2.4.4. | If the front fog lamp is fitted with LED module(s) or a distributed lighting system, a brief technical specification shall be provided. This information shall include the part number assigned by the light source manufacturer, a drawing with dimensions and the basic electrical and photometric values, an indication whether the light source complies with the UV-radiation requirements of paragraph 4.6 of Annex 12 of this Regulation, an official test report related to paragraph 5.8 of this Regulation and the objective luminous flux. |  |  |  | | --- | --- | | 2.4.5. | In the case that a distributed lighting system is used, which part(s) is (are) to be intended to provide the front fog beam by this system. In addition, a brief technical specification includes the list of the light-guide(s) and related optical components and information describing the light-generator(s) sufficient to permit identification. This information shall include the part number assigned by the light-generator manufacturer, a drawing with dimensions and the basic electrical and photometric values and an official test report related to paragraph 5.8 of this Regulation. |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | 2.4.6. | In the case where a gas discharge light source is used:   |  |  | | --- | --- | | 2.4.6.1. | and the ballast is not integrated with the light source, one ballast, which may be totally or partly integrated in the front fog lamp. |  |  |  | | --- | --- | | 2.4.6.2. | For approval of a distributed lighting system using a non-replaceable gas-discharge light source not approved under Regulation No 99, two samples of the system including the light-generator and one ballast of each type to be used, where applicable. | |  |  |  | | --- | --- | | 2.4.7. | In the case of LED module(s) or a distributed lighting system and if no provisions are taken to shield the relevant front fog lamp or distributed lighting system components made of plastic material from UV-radiation of (gas-discharge) light sources, e.g. by UV-retaining glass filters:  One sample of each of the relevant materials. This shall have similar geometry to that of the front fog lamp or distributed lighting system being tested. Each material sample shall have the same appearance and surface treatment, if any, as intended for use in the front fog lamp to be approved. |  |  |  | | --- | --- | | 2.4.8. | In the case of an approval of a front fog lamp according to paragraph 2.4.8 and/or according to paragraph 5.8 containing plastic lenses and/or having inner optical parts made from plastic, which have already been tested:  The materials making up the lenses, coatings or optical inner parts, if any, shall be accompanied by the test report(s) on material testing against UV-radiation. |  |  |  | | --- | --- | | 2.4.9. | Two samples of each type of front fog lamp, one sample intended for the installation on the left side of the vehicle and one sample intended for the installation on the right side of the vehicle; or a matched pair of front fog lamps. |  |  |  | | --- | --- | | 2.4.10. | One light source control gear, if applicable. |  |  |  | | --- | --- | | 2.4.11. | One variable intensity control or a generator providing the same signals, if applicable. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.5. | The competent authority shall verify the existence of satisfactory arrangements for ensuring effective control of the conformity of production before type approval is granted. |
+
+3.   MARKINGS
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3.1. | The samples of a type of front fog lamp or distributed lighting system which are submitted for approval shall clearly, legibly and indelibly bear:  |  |  | | --- | --- | | (a) | The trade name or mark of the applicant, |  |  |  | | --- | --- | | (b) | Marking indicating the class of the front fog lamp, and in case of class ‘F3’ front fog lamps: |  |  |  | | --- | --- | | (c) | The LED module or light generator specific identification code, if any. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2. | They shall comprise, on the lens and on the main body [(3)](#ntr3-L_2014250EN.01000101-E0003), spaces of sufficient size for the approval mark and the additional symbols referred to in paragraph 3; these spaces shall be indicated on the drawings referred to in paragraph 2.2.1. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.3. | The approval marking shall be placed on an inner or outer part (transparent or not) of the device which can not be separated from the transparent part of the device emitting light; in the case of a distributed lighting system with outer lens built in the light-guide, this condition is deemed satisfied if the approval marking is placed at least on the light-generator and on the light-guide or on its protective shield. In any case the marking shall be visible when the device is fitted on the vehicle, at least when a movable part such as the hood or boot lid or a door is opened. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 3.4. | In case of class ‘F3’ front fog lamps:  |  |  | | --- | --- | | 3.4.1. | In case of a distributed lighting system, the light-generator(s) shall bear the marking of the rated voltage and wattage and in the case that the electronic control gear is not part of the device the light-generator(s) shall bear the trade name or mark of its manufacturer and the part number. |  |  |  | | --- | --- | | 3.4.2. | In case of lamps with LED module(s) the lamp shall bear the marking of the rated voltage, rated wattage and the light source module specific identification code. | |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 3.5. | The LED module(s) submitted along with the application for approval of the lamp:  |  |  | | --- | --- | | 3.5.1. | Shall bear the trade name or mark of the applicant; this marking must be clearly legible and indelible; |  |  |  | | --- | --- | | 3.5.2. | Shall bear the specific identification code of the module; this marking must be clearly legible and indelible.  The specific identification code shall comprise the starting letters ‘MD’ for ‘Module’ followed by the approval marking without the circle as prescribed in paragraph 4.2.1; this specific identification code shall be shown in the drawings mentioned in paragraph 2.2.1 and in the case where several non-identical LED modules are used, followed by additional symbols or characters. The approval marking does not have to be the same as the one on the lamp in which the module is used, but both markings shall be from the same applicant. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.6. | If a light source control gear is used, which is not part of the LED module it shall be marked with its specific identification code(s), the rated input voltage and wattage. |
+
+4.   APPROVAL
+
+4.1.   General
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.1.1. | If all the samples of a type of front fog lamp submitted in pursuance of paragraph 2 satisfy the provisions of this Regulation, approval shall be granted. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.1.2. | Where grouped, combined or reciprocally incorporated lamps have been found to comply with the requirements of several Regulations, a single international approval mark may be applied provided that each of the grouped, combined or reciprocally incorporated lamps satisfies the provisions applicable to it. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.1.3. | An approval number shall be assigned to each type approved. Its first two digits (at present 04) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign the same number to another type of front fog lamp covered by this Regulation except in the case of an extension of the approval to a device differing only in the colour of the light emitted. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.1.4. | Notice of approval or of extension or refusal or withdrawal of approval or production definitely discontinued of a type of front fog lamp pursuant to this Regulation shall be communicated to the Parties to the 1958 Agreement applying this Regulation by means of a form conforming to the model in Annex 1 to this Regulation, with the indications according to paragraph 2.2 of this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.1.5. | In addition to the mark prescribed in paragraph 3.1 an approval mark as described in paragraphs 4.2 and 4.3 shall be affixed in the spaces referred to in paragraph 3.2 to every fog lamp conforming to a type approved under this Regulation. |
+
+4.2.   Composition of the approval mark
+
+The approval mark shall consist of:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 4.2.1. | An international approval marking, comprising of:   |  |  | | --- | --- | | 4.2.1.1. | A circle surrounding the letter ‘E’ followed by the distinguishing number of the country which has granted approval [(4)](#ntr4-L_2014250EN.01000101-E0004) and; |  |  |  | | --- | --- | | 4.2.1.2. | The approval number prescribed in paragraph 4.1.3. | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.2.2. | The following additional symbol (or symbols):   |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | 4.2.2.1. | On front fog lamps meeting the requirements of this Regulation, in the case of:   |  |  | | --- | --- | | (a) | class ‘B’; the letter ‘B’ |  |  |  | | --- | --- | | (b) | class ‘F3’; the symbol ‘F3’ | |  |  |  | | --- | --- | | 4.2.2.2. | On front fog lamps incorporating a lens of plastic material the group of letters ‘PL’ to be affixed near the symbols prescribed in paragraph 4.2.2.1; |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | 4.2.2.3. | In every case the relevant operating mode used during the test procedure according to paragraph 1.1.1 of Annex 5 and the permitted voltages according to paragraph 1.1.2 of Annex 5 shall be stipulated on the approval forms and on the communication forms transmitted to the countries which are Contracting Parties to the Agreement and which apply this Regulation.  In the corresponding cases the device shall be marked as follows:   |  |  | | --- | --- | | 4.2.2.3.1. | On units meeting the requirements of this Regulation which are so designed that the filament(s) of one function shall not be lit simultaneously with that of any function with which it may be reciprocally incorporated, an oblique stroke (/) shall be placed behind the symbol in the approval mark of such function. |  |  |  | | --- | --- | | 4.2.2.3.2. | However, if only the front fog lamp and the passing lamp shall not be lit simultaneously, the oblique stroke shall be placed behind the fog lamp symbol, this symbol being placed either separately or at the end of a combination of symbols. |  |  |  | | --- | --- | | 4.2.2.3.3. | On units meeting the requirements of Annex 5 to this Regulation only when supplied with a voltage of 6 V or 12 V, a symbol consisting of the number 24 crossed out by an oblique cross (x) shall be placed near the filament lamp holder. | |  |  |  | | --- | --- | | 4.2.2.4. | The reciprocal lamp incorporation of passing beam lamp and front fog lamp is possible if it is in compliance with Regulation No 48; |  |  |  | | --- | --- | | 4.2.2.5. | Front fog lamps of class ‘F3’ having asymmetric light distribution and which must not be indiscriminately mounted on either side of the vehicle, shall bear an arrow pointing to the outside of the vehicle. |  |  |  | | --- | --- | | 4.2.2.6. | The two digits of the approval number (at present 04) which indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval may be marked close to the above additional symbols; |  |  |  | | --- | --- | | 4.2.2.7. | The marks and symbols referred to in paragraphs 4.2.1 and 4.2.2 shall be clearly legible and be indelible even when the front fog lamp is fitted in the vehicle. | |
+
+4.3.   Arrangement of the approval mark
+
+4.3.1.   Independent lamps
+
+Annex 3 to this Regulation gives examples of arrangements of the approval mark with the above-mentioned additional symbols.
+
+4.3.2.   Grouped, combined or reciprocally incorporated lamps
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 4.3.2.1. | Where grouped, combined or reciprocally incorporated lamps have been found to comply with the requirements of several Regulations, a single international approval mark may be provided, consisting of a circle surrounding the letter ‘E’ followed by the distinguishing number of the country which has granted the approval, and an approval number. This approval mark may be located anywhere on the grouped, combined or reciprocally incorporated lamps, provided that:  |  |  | | --- | --- | | 4.3.2.1.1. | It is visible after their installation; |  |  |  | | --- | --- | | 4.3.2.1.2. | No part of the grouped, combined or reciprocally incorporated lamps that transmits light can be removed without at the same time removing the approval mark. | |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 4.3.2.2. | The identification symbol for each lamp appropriate to each Regulation under which approval has been granted, together with the corresponding series of amendments incorporating the most recent major technical amendments to the Regulation at the time of issue of the approval and, if necessary, the required arrow shall be marked:  |  |  | | --- | --- | | 4.3.2.2.1. | Either on the appropriate light-emitting surface; |  |  |  | | --- | --- | | 4.3.2.2.2. | Or in a group, in such a way that each of the grouped, combined or reciprocally incorporated lamps may be clearly identified. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.2.3. | The size of the components of a single approval mark shall not be less than the minimum size required for the smallest of the individual marks by the Regulation under which approval has been granted. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.2.4. | An approval number shall be assigned to each type approved. The same Contracting Party may not assign the same number to another type of grouped, combined or reciprocally incorporated lamps covered by this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.3.2.5. | Annex 3, Figure 3, to this Regulation gives examples of arrangements of approval marks for grouped, combined or reciprocally incorporated lamps with all the above-mentioned additional symbols. |
+
+4.3.3.   In the case of lamps, the lens of which are used for different types of front fog lamps and which may be reciprocally incorporated or grouped with other lamps, the provisions in paragraph 4.3.2 are applicable.
+
+4.3.3.1.   In addition, where the same lens is used for different types of lamps, it may bear the different approval marks relating to the different types of front fog lamps or units of lamps, provided that the main body of the front fog lamp, even if it cannot be separated from the lens, also comprises the space described in paragraph 3.2 and bears the approval marks of the actual functions.
+
+If different types of front fog lamps comprise the same main body, the latter may bear the different approval marks.
+
+4.3.3.2.   Annex 3, Figure 4, to this Regulation gives examples of arrangements of approval marks relating to the above case.
+
+5.   GENERAL SPECIFICATIONS
+
+5.1.   Each sample of front fog lamp submitted in conformity with paragraph 2.2 shall meet the specifications set forth in paragraphs 6 and 7 of this Regulation.
+
+5.2.   The front fog lamps shall be so designed and constructed that in normal use, despite the vibrations to which they may then be subjected, their satisfactory operation continues to be ensured and they retain the characteristics prescribed by this Regulation. The correct position of the lens shall be clearly marked and the lens and reflector shall be so secured as to prevent any rotation during use. Conformity with the requirements of this paragraph shall be verified by visual inspection and, where necessary, by a trial fitting.
+
+5.2.1.   Front fog lamps shall be fitted with a device enabling them to be so adjusted on the vehicles as to comply with the rules applicable to them. Such a device need not be fitted on units in which the reflector and the lens cannot be separated, provided the use of such units is confined to vehicles on which the front fog lamp setting can be adjusted by other means. Where a front fog lamp and another front lamp, each equipped with its own light source, are assembled to form a composite unit, the adjusting device shall enable each optical system to be individually adjusted.
+
+5.2.2.   These provisions shall not apply to front lamp assemblies whose reflectors are indivisible. For this type of assembly the requirements of paragraph 6.3.4 or 6.4.3 (as appropriate) shall apply.
+
+5.3.   Complementary tests shall be carried out according to the requirements of Annex 5 to ensure that in use there is no excessive change in photometric performance.
+
+5.4.   If the lens of the front fog lamp is of plastic material, tests shall be carried out according to the requirements of Annex 6.
+
+5.5.   In the case of the use of replaceable light sources:
+
+|  |  |
+| --- | --- |
+| (a) | The light source’s holder shall conform to the characteristics given in IEC Publication No 60061. The holder data sheet relevant to the category of light sources used applies; |
+
+|  |  |
+| --- | --- |
+| (b) | The light source shall fit easily into the front fog lamp; |
+
+|  |  |
+| --- | --- |
+| (c) | The design of the device shall be such that the light source(s) can be fixed in no other position but the correct one. |
+
+5.6.   In the case of class ‘B’, the front fog lamp shall be equipped with one filament lamp approved according to Regulation No 37 even if the filament lamp cannot be replaced. Any Regulation No 37 filament lamp may be used provided that;
+
+|  |  |
+| --- | --- |
+| (a) | Its objective luminous flux does not exceed 2 000 lumen, and |
+
+|  |  |
+| --- | --- |
+| (b) | No restriction on the use is made in Regulation No 37 and its series of amendments in force at the time of application for type approval. |
+
+5.6.1.   Even if this filament lamp cannot be replaced it shall comply with the requirements in paragraph 5.6.
+
+5.7.   In the case of class ‘F3’, irrespective of whether the light sources can be replaced or not, they shall be:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 5.7.1. | One or more light sources approved according to:   |  |  | | --- | --- | | 5.7.1.1. | Regulation No 37 and its series of amendments in force at the time of application for type approval, provided that no restriction on their use is made, |  |  |  | | --- | --- | | 5.7.1.2. | Or, Regulation No 99 and its series of amendments in force at the time of application for type approval, | |
+
+|  |  |
+| --- | --- |
+| 5.7.2. | And/or, one or more LED modules where the requirements of Annex 12 to this Regulation shall apply; compliance with these requirements shall be tested. |
+
+|  |  |
+| --- | --- |
+| 5.7.3. | And/or light-generators where the requirements of Annex 12 to this Regulation shall apply. The compliance with the requirements shall be tested. |
+
+5.8.   In the case of LED module or light generator it shall be checked, that:
+
+|  |  |
+| --- | --- |
+| 5.8.1. | The design of the LED module(s) or light generator(s) shall be such that they can be fitted in no position other than the correct one. |
+
+|  |  |
+| --- | --- |
+| 5.8.2. | Non-identical light source modules, if any, shall be non-interchangeable within the same lamp housing. |
+
+|  |  |
+| --- | --- |
+| 5.8.3. | The LED module(s) or light generator(s) shall be tamperproof. |
+
+5.9.   In case of front fog lamps with light source(s) having a total objective luminous flux that exceeds 2 000 lumen, a reference shall be made in paragraph 10 of the communication form in Annex 1.
+
+5.10.   If the lens of the front fog lamp is made of plastic material tests shall be done according to the requirements in Annex 6.
+
+5.10.1.   The UV resistance of light transmitting components located inside the front fog lamp and made of plastic material shall be tested according to Annex 6, paragraph 2.7.
+
+5.10.2.   The test in paragraph 5.10.1 is not necessary if low-UV type light sources as specified in Regulation No 99 or in Annex 12 of this Regulation are used, or if provisions are taken, to shield the relevant lamp components from UV radiation, e.g. by glass filters.
+
+5.11.   The front fog lamp and its ballast system or light source control gear shall not generate radiated or power line disturbances, which cause a malfunction of other electric/electronic systems of the vehicle [(5)](#ntr5-L_2014250EN.01000101-E0005).
+
+5.12.   Front fog lamps, designed to operate permanently with an additional system to control the intensity of the light emitted, or which are reciprocally incorporated with another function, using a common light source, and designed to operate permanently with an additional system to control the intensity of the light emitted, are permitted.
+
+5.13.   In the case of class ‘F3’ the sharpness and linearity of the cut-off shall be tested according to the requirements of Annex 9.
+
+6.   ILLUMINATION
+
+6.1.   Front fog lamps shall be so designed as to provide illumination with limited dazzle.
+
+6.2.   The luminous intensity produced by the front fog lamp shall be measured at 25 m distance by means of a photoelectric cell having a useful area comprised within a square of 65 mm side.
+
+The point HV is the centre-point of the coordinate system with a vertical polar axis. Line h is the horizontal through HV (see Annex 4 to this Regulation).
+
+6.3.   In the case of class ‘B’ front fog lamps:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 6.3.1. | A colourless standard (étalon) filament lamp as specified in Regulation No 37, of the category specified by the manufacturer, which may be supplied by the manufacturer or applicant, shall be used.   |  |  | | --- | --- | | 6.3.1.1. | During the testing of the front fog lamp the power supply for this filament lamp shall be regulated so as to obtain the reference luminous flux at 13,2 V as indicated in the relevant data sheet of Regulation No 37. |  |  |  | | --- | --- | | 6.3.1.2. | During the testing of a front fog lamp where the filament lamp cannot be replaced, the voltage at the terminals of the front fog lamp shall be regulated at 13,2 V. | |
+
+|  |  |
+| --- | --- |
+| 6.3.2. | The front fog lamp shall be deemed satisfactory if the photometric requirements are met with at least one standard filament lamp. |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 6.3.3. | The aiming screen for visual adjustment (see Annex 4 to this Regulation) shall be positioned at either a distance of 10 m or a distance of 25 m in front of the front fog lamp.   |  |  | | --- | --- | | 6.3.3.1. | The beam shall produce on this aiming screen, over a width of not less than 5,0° on both sides of the line v, a symmetrical and substantially horizontal cut-off to enable visual vertical adjustment. |  |  |  | | --- | --- | | 6.3.3.2. | The front fog lamp shall be so adjusted that the cut-off on the aiming-screen is 1,15° below the line h. | |
+
+|  |  |
+| --- | --- |
+| 6.3.4. | When so adjusted, the front fog lamp shall meet the requirements in paragraph 6.3.5. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6.3.5. | The illumination (see Annex 4, paragraph 2.1) shall meet the following requirements:   |  |  |  |  |  | | --- | --- | --- | --- | --- | | Designated lines or zones | Vertical position[(\*1)](#ntr*1-L_2014250EN.01000101-E0006) | Horizontal position[(\*1)](#ntr*1-L_2014250EN.01000101-E0006) | Luminous intensity | To comply | | Line 1 | 15° U to 60° U | 0° | 145 cd max | All line | | Zone A | 0° to 1,75° U | 5° L to 5°R | 85 cd min | Whole zone | | Zone B | 0° to 3,5° U | 26°L to 26°R | 570 cd max | Whole zone | | Zone C | 3,5° U to 15° U | 26°L to 26°R | 360 cd max | Whole zone | | Zone D | 1,75° D to 3,5° D | 12°L to 12°R | 1 700 cd min 11 500 cd max | At least one point on each vertical line | | Zone E | 1,75° D to 3,5° D | 12°L to 22°L and 12°R to 22°R | 810 cd min 11 500 cd max | At least one point on each vertical line |   The luminous intensity shall be measured in either white or selective yellow light as prescribed by the manufacturer for use of the front fog lamp in normal service.  Variations detrimental to satisfactory visibility in either of the Zones B and C are not permitted. |
+
+|  |  |
+| --- | --- |
+| 6.3.6. | In the light-distribution as specified in the table in paragraph 6.3.5, single narrow spots or stripes inside the area above 15° with not more than 230 cd are allowed, if not extending beyond a conical angle of 2° aperture or a width of 1°. If multiple spots or stripes are present they shall be separated by a minimum angle of 10°. |
+
+6.4.   In the case of class ‘F3’ front fog lamps
+
+6.4.1.   Depending on the light source, the following conditions shall apply.
+
+6.4.1.1.   In the case of replaceable filament light sources:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 6.4.1.1.1. | The front fog lamp shall comply with the requirements of paragraph 6.4.3 of this Regulation with at least one complete set of appropriate standard (étalon) lamps, which may be supplied by the manufacturer or applicant.  In the case of filament lamps operating directly under vehicle voltage system conditions:   |  |  | | --- | --- | |  | The front fog lamp shall be checked by means of colourless standard (etalon) filament lamps as specified in Regulation No 37. |  |  |  | | --- | --- | |  | During the testing of the front fog lamp, the power supply to the filament lamp(s) shall be regulated so as to obtain the reference luminous flux at 13,2 V as indicated on the relevant data sheet of Regulation No 37. | |
+
+|  |  |
+| --- | --- |
+| 6.4.1.1.2. | In the case of a system that uses a light source control gear being part of the lamp, the voltage declared by the applicant shall be applied to the input terminals of that lamp. |
+
+|  |  |
+| --- | --- |
+| 6.4.1.1.3. | In the case of a system that uses a light source control gear not being part of the lamp the voltage declared by the applicant shall be applied to the input terminals of that light source control gear. The test laboratory shall require from the applicant the special light source control gear needed to supply the light source and the applicable functions. The identification of that light source control gear if applicable and/or the voltage applied including the tolerances shall be noted in the communication form in Annex 1 of this Regulation. |
+
+6.4.1.2.   In the case of a gas-discharge light source:
+
+|  |  |
+| --- | --- |
+|  | A standard light source shall be used as specified in Regulation No 99, which has been aged during at least 15 cycles, in accordance with Annex 4, paragraph 4 of Regulation No 99. |
+
+|  |  |
+| --- | --- |
+|  | During testing of the front fog lamp the voltage at the terminals of the ballast or at the terminals of the light source in case the ballast is integrated with the light source shall be regulated to maintain 13,2 V for a 12 V system, or at the vehicle voltage as specified by the applicant, with a tolerance of ± 0,1 V. |
+
+|  |  |
+| --- | --- |
+|  | The objective luminous flux of the gas-discharge light source may differ from that specified in Regulation No 99. In this case, the luminous intensity values shall be corrected accordingly. |
+
+6.4.1.3.   In the case of non-replaceable light sources:
+
+All measurements on front fog lamps equipped with non-replaceable light sources shall be made at 6,3 V, 13,2 V or 28,0 V or at other vehicle voltage as specified by the applicant. The test laboratory may require from the applicant the special power supply needed to supply the light sources. The test voltages shall be applied to the input terminals of the lamp.
+
+6.4.1.4.   In the case of LED modules:
+
+All measurements on front fog lamps equipped with LED module(s) shall be made at 6,3 V, 13,2 V or 28,0 V respectively, if not otherwise specified within this Regulation. LED modules operated by an electronic light source control gear shall be measured with the input voltage as specified by the applicant or with a supply and operating device which replace this control gear for the photometric test. The relevant input parameters (e.g. duty cycle, frequency, pulse shape, peak voltage) shall be specified and stated in the communication form, item 10.6, in Annex 1 to this Regulation.
+
+6.4.1.5.   Compliance with the requirement in paragraph 5.8.1 shall be verified at least with respect to the values in line 3 and 4 of table in paragraph 6.4.3.
+
+6.4.2.   Photometric adjustment and measuring conditions:
+
+|  |  |
+| --- | --- |
+| 6.4.2.1. | The aiming screen for visual adjustment (see Annex 4 paragraph 2.2) shall be positioned at either a distance of 10 m or a distance of 25 m in front of the front fog lamp. |
+
+|  |  |
+| --- | --- |
+| 6.4.2.2. | The beam shall produce on this aiming screen, over a width of not less than 5,0 degrees on both sides of the line v, a symmetrical and substantially horizontal cut-off to enable visual vertical adjustment. In the case that visual aim leads to problems or ambiguous positions, the measurement of the cut-off quality and the instrumental method as specified in paragraphs 4 and 5 of Annex 9 shall be applied. |
+
+|  |  |
+| --- | --- |
+| 6.4.2.3. | The front fog lamp shall be adjusted so that the cut-off on the screen is 1° below the line h according to the requirements in paragraph 2 of Annex 9. |
+
+6.4.3.   Photometric requirements:
+
+When so adjusted, the front fog lamp shall meet the photometric requirements in the table below (refer also to Annex 4, paragraph 2.2 of this Regulation):
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Designated lines or zones | Vertical position[(\*2)](#ntr*2-L_2014250EN.01000101-E0007)  above h +  below h – | Horizontal position[(\*2)](#ntr*2-L_2014250EN.01000101-E0007)  left of v: –  right of v: + | Luminous intensity  (in cd) | To comply |
+| Point 1, 2[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 60° | ± 45° | 85 max | All points |
+| Point 3, 4[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 40° | ± 30° |
+| Point 5, 6[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 30° | ± 60° |
+| Point 7, 10[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 20° | ± 40° |
+| Point 8, 9[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 20° | ± 15° |
+| Line 1[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 8° | – 26° to + 26° | 130 max | All line |
+| Line 2[(\*3)](#ntr*3-L_2014250EN.01000101-E0008) | + 4° | – 26° to + 26° | 150 max | All line |
+| Line 3 | + 2° | – 26° to + 26° | 245 max | All line |
+| Line 4 | + 1° | – 26° to + 26° | 360 max | All line |
+| Line 5 | 0° | – 10° to + 10° | 485 max | All line |
+| Line 6[(\*4)](#ntr*4-L_2014250EN.01000101-E0009) | – 2,5° | – 10° to + 10° | 2 700 min | All line |
+| Line 7[(\*4)](#ntr*4-L_2014250EN.01000101-E0009) | – 6,0° | – 10° to + 10° | < 50 per cent of max. on line 6 | All line |
+| Line 8L and R[(\*4)](#ntr*4-L_2014250EN.01000101-E0009) | – 1,5° to – 3,5° | – 22° and + 22° | 1 100 min | One or more points |
+| Line 9L and R[(\*4)](#ntr*4-L_2014250EN.01000101-E0009) | – 1,5° to – 4,5° | – 35° and + 35° | 450 min | One or more points |
+| Zone D[(\*4)](#ntr*4-L_2014250EN.01000101-E0009) | – 1,5° to – 3,5° | – 10° to + 10° | 12 000 max | Whole zone |
+
+|  |  |
+| --- | --- |
+| 6.4.3.1. | The luminous intensity shall be measured either with white light or coloured light as prescribed by the applicant for use of the fog lamp in normal service. Variations in homogeneity detrimental to satisfactory visibility in the zone above the line 5 from 10 degrees left to 10 degrees right are not permitted. |
+
+|  |  |
+| --- | --- |
+| 6.4.3.2. | At the request of the applicant, two front fog lamps constituting a matched pair corresponding to paragraph 4.2.2.5 may be tested separately. In this case the specified requirements for lines 6, 7, 8, 9 and the Zone D in the table in paragraph 6.4.3 apply to half the sum of readings of the right-hand and left-hand side front fog lamp. However each of the two front fog lamps shall meet at least 50 per cent of the minimum value required for line 6. Additionally, each of the two front fog lamps that constitute the matched pair corresponding to paragraph 4.2.2.5 are only required to meet the requirements of line 6 and line 7 from 5° inwards to 10° outwards. |
+
+|  |  |
+| --- | --- |
+| 6.4.3.3. | Inside the field between lines 1 to 5 in Figure 3 of Annex 4, the beam pattern should be substantially uniform. Discontinuities in intensities detrimental to satisfactory visibility between the lines 6, 7, 8 and 9 are not permitted. |
+
+|  |  |
+| --- | --- |
+| 6.4.3.4. | In the light-distribution as specified in the table in paragraph 6.4.3, single narrow spots or stripes inside the area including the measuring points 1 to 10 and line 1 or inside the area of line 1 and line 2 with not more than 175 cd are allowed, if not extending beyond a conical angle of 2° aperture or a width of 1°. If multiple spots or stripes are present they shall be separated by a minimum angle of 10°. |
+
+|  |  |
+| --- | --- |
+| 6.4.3.5. | If the specified luminous intensity requirements are not met, a re-aim of the cut-off position within ± 0,5° vertical and/or ± 2° horizontal is allowed. In the re-aimed position all photometric requirements shall be met. |
+
+6.4.4.   Other photometric requirements
+
+6.4.4.1.   In the case of front fog lamps equipped with gas-discharge light sources with the ballast not integrated with the light source, the luminous intensity shall exceed 1 080 cd in the measuring point at 0° horizontal and 2° D vertical, four seconds after activation of the fog lamp which has not been operated for 30 minutes or more.
+
+6.4.4.2.   To adapt to dense fog or similar conditions of reduced visibility, it is permitted to automatically vary the luminous intensities provided that:
+
+|  |  |
+| --- | --- |
+| (a) | An active electronic light source control gear is incorporated into the front fog lamp function system. |
+
+|  |  |
+| --- | --- |
+| (b) | All intensities are varied proportionately. |
+
+The system, when checked for compliance according to the provisions of paragraph 6.4.1.1.3, is considered acceptable if the luminous intensities remain within 60 per cent and 100 per cent of the values specified in the table in paragraph 6.4.3.
+
+|  |  |
+| --- | --- |
+| 6.4.4.2.1. | An indication shall be inserted in the communication form (Annex 1, paragraph 10). |
+
+|  |  |
+| --- | --- |
+| 6.4.4.2.2. | The Technical Service responsible for type approval shall verify that the system provides automatic modifications, such that good road illumination is achieved and no discomfort is caused to the driver or to other road users. |
+
+|  |  |
+| --- | --- |
+| 6.4.4.2.3. | Photometric measurements shall be performed according to the applicant’s description. |
+
+7.   COLOUR
+
+The colour of the light emitted by the front fog lamp shall be either white or selective yellow by choice of the applicant. The selective yellow colour, if any, of the beam may be obtained either by the colour of the light source or by the lens of the front fog lamp or by any other suitable means.
+
+|  |  |  |
+| --- | --- | --- |
+|  | 7.1. | The colorimetric characteristics of the front fog lamp shall be measured with voltages as defined in paragraphs 6.3 and 6.4. |
+
+8.   DETERMINATION OF DISCOMFORT (DAZZLE)
+
+The discomfort dazzle caused by the front fog lamp shall be determined [(6)](#ntr6-L_2014250EN.01000101-E0010).
+
+9.   MODIFICATIONS OF THE TYPE OF FRONT FOG LAMP AND EXTENSION OF APPROVAL
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 9.1. | Every modification of the type of front fog lamp shall be notified to the Type Approval Authority which approved the type of front fog lamp. The department may then either:  |  |  | | --- | --- | | 9.1.1. | Consider that the modifications made are unlikely to have an appreciable adverse effect and that in any case the front fog lamp still complies with the requirements;  or |  |  |  | | --- | --- | | 9.1.2. | Require a further test report from the technical service responsible for conducting the tests. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 9.2. | Confirmation or refusal of approval, specifying the alterations, shall be communicated by the procedure specified in paragraph 4.1.4 to the Parties to the Agreement which apply this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 9.3. | The competent authority issuing the extension of approval shall assign a series number for such an extension and inform thereof the other Parties to the 1958 Agreement applying this Regulation by means of a communication form conforming to the model in Annex 1 to this Regulation. |
+
+10.   CONFORMITY OF PRODUCTION
+
+|  |  |  |
+| --- | --- | --- |
+|  | 10.1. | Front fog lamps approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 6 and 7 of this Regulation and in Annex 7. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 10.2. | In order to verify that the requirements of paragraph 10.1 are met, suitable controls of the production shall be carried out. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 10.3. | The holder of the approval shall in particular:  |  |  | | --- | --- | | 10.3.1. | Ensure the existence of procedures for the effective control of the quality of products; |  |  |  | | --- | --- | | 10.3.2. | Have access to the control equipment necessary for checking the conformity to each approved type; |  |  |  | | --- | --- | | 10.3.3. | Ensure that data of test results are recorded and that related documents shall remain available for a period to be determined in accordance with the Administrative Service; |  |  |  | | --- | --- | | 10.3.4. | Analyse the results of each type of test in order to verify and ensure the stability of the product characteristics making allowance for variation of an industrial production; |  |  |  | | --- | --- | | 10.3.5. | Ensure that for each type of product at least the tests prescribed in Annex 7 to this Regulation with the tolerances as prescribed in Annex 2 to this Regulation are carried out; |  |  |  | | --- | --- | | 10.3.6. | Ensure that any collecting of samples giving evidence of non-conformity with the type of test considered shall give rise to another sampling and another test. All the necessary steps shall be taken to re-establish the conformity of the corresponding production. | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 10.4. | The competent authority which has granted type approval may at any time verify the conformity control methods applicable to each production unit.  |  |  | | --- | --- | | 10.4.1. | In every inspection, the test books and production survey records shall be presented to the visiting inspector. |  |  |  | | --- | --- | | 10.4.2. | The inspector may take samples at random to be tested in the manufacturer’s laboratory. The minimum number of samples may be determined in the light of the results of the manufacturer’s own checks. |  |  |  | | --- | --- | | 10.4.3. | When the quality level appears unsatisfactory or when it seems necessary to verify the validity of the tests carried out in the application of paragraph 10.4.2, the inspector shall select samples, to be sent to the technical service that has conducted the type approval tests, using the criteria of Annex 7 to this Regulation with the tolerances as prescribed in Annex 2 to this Regulation. |  |  |  | | --- | --- | | 10.4.4. | The Competent Authority may carry out any test prescribed in this Regulation. These tests will be on samples selected at random without causing distortion of the manufacturer’s delivery commitments and in accordance with the criteria of Annex 7 to this Regulation with the tolerances as prescribed in Annex 2 to this Regulation. |  |  |  | | --- | --- | | 10.4.5. | The Competent Authority shall strive to obtain a frequency of inspection of once every two years. However, this is at the discretion of the competent authority and their confidence in the arrangements for ensuring effective control of the conformity of production. In the case where negative results are recorded, the competent authority shall ensure that all necessary steps are taken to re-establish the conformity of production as rapidly as possible. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 10.5. | Front fog lamps with apparent defects are disregarded. |
+
+11.   PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+
+|  |  |  |
+| --- | --- | --- |
+|  | 11.1. | The approval granted in respect of a type of front fog lamp pursuant to this Regulation may be withdrawn if the requirements set forth above are not met, or if a front fog lamp bearing the approval mark does not conform to the type approved. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 11.2. | If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in Annex 1 to this Regulation. |
+
+12.   PRODUCTION DEFINITIVELY DISCONTINUED
+
+If the holder of the approval completely ceases to manufacture a front fog lamp approved in accordance with this Regulation, he shall so inform the authority which granted the approval. Upon receiving the relevant communication that authority shall inform thereof the other Parties to the 1958 Agreement which apply this Regulation, by means of a communication form conforming to the model in Annex 1 to this Regulation.
+
+13.   NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS, AND OF TYPE APPROVAL AUTHORITIES
+
+The Parties to the 1958 Agreement which apply this Regulation shall communicate to the United Nations Secretariat the names and addresses of the technical services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, or production definitely discontinued, issued in other countries, are to be sent.
+
+14.   TRANSITIONAL PROVISIONS
+
+|  |  |  |
+| --- | --- | --- |
+|  | 14.1. | As from the date of entry into force of the 04 series of amendments (9 December 2010) no Contracting Party applying this Regulation shall refuse to grant UNECE type approval under this Regulation as amended by the 04 series of amendments. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 14.2. | As from the date of entry into force of Supplement 2 to the 04 series of amendments, Contracting Parties applying this Regulation shall refuse to grant approvals for new types of class ‘B’ front fog lamps. However, Contracting Parties applying this Regulation shall continue to issue approvals for class ‘B’ front fog lamps on the basis of the 02, 03 and 04 series of amendments provided that these front fog lamps are only intended as replacements for fitting to vehicles in use. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 14.3. | Until 60 months from the date of entry into force of the 04 series of amendments (9 December 2015) with regard to the changes introduced by the 04 series of amendments concerning the photometric testing at reference luminous flux at approximately 13,2 volts, and in order to allow the Technical Services to update their testing equipment, no Contracting Party applying this Regulation shall refuse to grant approvals under this Regulation as amended by the 04 series of amendments where existing testing equipment is used, with suitable conversion of the values to the satisfaction of the authority responsible for type approval. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 14.4. | Existing approvals for front fog lamps already granted under the preceding series of amendments to this Regulation shall remain valid indefinitely. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 14.5. | As from 60 months after the date of entry into force of the 03 series of amendments (11 July 2013), Contracting Parties applying this Regulation shall refuse to grant any extensions of approvals for all class ‘B’ front fog lamps except those intended as replacements for fitting to vehicles in use. Contracting Parties applying this Regulation shall continue to grant extensions of approvals for all class ‘F3’ front fog lamps. |
+
+---
+
+[(1)](#ntc1-L_2014250EN.01000101-E0001)  Nothing in this Regulation shall prevent a Party to the Agreement applying this Regulation from prohibiting the combination of a front fog lamp incorporating a plastic lens, approved under this Regulation, with a mechanical headlamp-cleaning device (with wipers).
+
+[(2)](#ntc2-L_2014250EN.01000101-E0002)  As defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.2, para. 2.
+
+[(3)](#ntc3-L_2014250EN.01000101-E0003)  If the lens cannot be detached from the main body of the front fog lamp, a space on the lens or body shall be sufficient.
+
+[(4)](#ntc4-L_2014250EN.01000101-E0004)  The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to Consolidated Resolution on the Construction of Vehicles (R.E.3), document TRANS/WP.29/78/Rev.2.
+
+[(5)](#ntc5-L_2014250EN.01000101-E0005)  Compliance with the requirements for electromagnetic compatibility is relevant to the vehicle type.
+
+[(\*1)](#ntc*1-L_2014250EN.01000101-E0006)  The coordinates are specified in degrees for an angular web with a vertical polar axis.
+
+[(\*2)](#ntc*2-L_2014250EN.01000101-E0007)  The coordinates are specified in degrees for an angular web with a vertical polar axis.
+
+[(\*3)](#ntc*3-L_2014250EN.01000101-E0008)  See paragraph 6.4.3.4.
+
+[(\*4)](#ntc*4-L_2014250EN.01000101-E0009)  See paragraph 6.4.3.2.
+
+[(6)](#ntc6-L_2014250EN.01000101-E0010)  This determination will be the subject of a recommendation to Administrations.
+
+---
+
+ANNEX 1
+
+COMMUNICATION
+
+(Maximum format: A4 (210 × 297 mm))
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+issued by:
+
+Name of administration
+
+Concerning (2):
+
+Approval granted
+
+Approval extended
+
+Approval refused
+
+Approval withdrawn
+
+Production definitively discontinued
+
+of a type of front fog lamp pursuant to Regulation No 19
+
+Approval No …
+
+Extension No …
+
+1. Trade name or mark of the device: …
+
+2. Type of the device: …
+
+3. Manufacturer’s name for the type of device: …
+
+4. Manufacturer’s name and address: …
+
+5. If applicable, name and address of the manufacturer’s representative: …
+
+6. Submitted for approval on: …
+
+7. Technical Service responsible for conducting approval tests: …
+
+8. Date of report issued by that service: …
+
+9. Number of report issued by that service: …
+
+10. Concise description: …
+
+10.1. Class as described by the relevant marking:
+
+‘B’, ‘B/’, ‘BPL’, ‘B/PL’, ‘F3’, ‘F3/’, ‘F3PL’, ‘F3/PL’
+
+10.2. Number and category(ies) of filament lamp(s): …
+
+10.3. LED module: yes/no (2)
+
+10.4. Light generator: yes/no (2)
+
+10.5. LED module or light generator specific identification code: …
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+10.6. Application of electronic light source control gear (3): yes/no (2) Supply to the light source: … Specification of the light source control gear: … Input voltage (4): … In the case of an electronic light source control gear not being part of the lamp: Output signal specification: …
+
+10.7. Colour of light emitted: … white/selective yellow (2)
+
+10.8. Luminous flux of the light source (see paragraph 5.9) greater than 2 000 lumen: … yes/no (2)
+
+10.9. Luminous intensity is variable: … yes/no (2)
+
+10.10. The determination of the cut-off gradient (if measured) was carried out at … 10 m/25 m2
+
+11. Position of the approval mark: …
+
+12. Reason(s) for extension (if applicable): …
+
+13. Approval granted/extended/refused/withdrawn (2)
+
+14. Place: …
+
+15. Date: …
+
+16. Signature: …
+
+17. The list of documents deposited with the Administrative Service, which has granted approval, is annexed to this communication and may be obtained on request.
+
+(1) Distinguishing number of the country which has granted/extended/refused/withdrawn an approval (see approval provisions in the Regulation).
+
+(2) Strike out what does not apply.
+
+(3) The voltage specifications shall include the tolerances or voltage range as specified by the manufacturer and verified by this approval.
+
+(4) The parameters of the input voltage including duty cycle, frequency, pulse shape and peak voltage shall be included.
+
+---
+
+ANNEX 2
+
+TOLERANCE REQUIREMENTS FOR CONFORMITY OF PRODUCTION CONTROL PROCEDURE
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 1. | In the case of class ‘B’ front fog lamps:  |  |  | | --- | --- | | 1.1. | When testing photometric performances of any front fog lamp chosen at random and equipped with a standard filament lamp, no measured value may deviate unfavourably by more than 20 per cent from the value prescribed in this Regulation. |  |  |  | | --- | --- | | 1.2. | For the periodic records, the reading is limited to point B50 [(1)](#ntr1-L_2014250EN.01002101-E0001) and left and right bottom corners of zone D (see Figure 2 in Annex 4). | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2. | In the case of class ‘F3’ front fog lamps:  |  |  | | --- | --- | | 2.1. | When testing the photometric performances of any front fog lamp chosen at random according to paragraph 6.4 of this Regulation, no measured value of the luminous intensity may deviate unfavourably by more than 20 per cent. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.2. | For the measured values in the table according to paragraph 6.4.3 of this Regulation the respective maximum deviations may be:   |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | Designated lines or zones | Vertical position[(\*1)](#ntr*1-L_2014250EN.01002101-E0002)  above h +  below h – | Horizontal position[(\*1)](#ntr*1-L_2014250EN.01002101-E0002)  left of v: –  right of v: + | Luminous intensity candela | | To comply | | Equivalent  20 per cent | Equivalent  30 per cent |  | | Point 1, 2[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 60° | ± 45° | 115 max | 130 max | All points | | Point 3, 4[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 40° | ± 30° |  |  | | Point 5, 6[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 30° | ± 60° | | Point 7, 10[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 20° | ± 40° | | Point 8, 9[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 20° | ± 15° | | Line 1[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 8° | – 26° to + 26° | 160 max | 170 max | All line | | Line 2[(\*2)](#ntr*2-L_2014250EN.01002101-E0003) | + 4° | – 26° to + 26° | 180 max | 195 max | All line | | Line 3 | + 2° | – 26° to + 26° | 295 max | 320 max | All line | | Line 4 | + 1° | – 26° to + 26° | 435 max | 470 max | All line | | Line 5 | 0° | – 10° to + 10° | 585 max | 630 max | All line | | Line 6[(\*3)](#ntr*3-L_2014250EN.01002101-E0004) | – 2,5° | from 5° inwards  to 10° outwards | 2 160 min | 1 890 min | All line | | Line 8  L and R[(\*3)](#ntr*3-L_2014250EN.01002101-E0004) | – 1,5° to – 3,5° | – 22° and + 22° | 880 min | 770 min | One or more points | | Line 9  L and R[(\*3)](#ntr*3-L_2014250EN.01002101-E0004) | – 1,5° to – 4,5° | – 35° and + 35° | 360 min | 315 min | One or more points | | Zone D | – 1,5° to – 3,5° | – 10° to + 10° | 14 400 max | 15 600 max | Whole zone | |  |  |  | | --- | --- | | 2.3. | For the periodic records, the photometric measurements for verification of conformity shall at least yield data for the points 8 and 9, and the lines 1, 5, 6, 8 and 9 as specified in paragraph 6.4.3 of this Regulation. | |
+
+---
+
+[(1)](#ntc1-L_2014250EN.01002101-E0001)  The point B 50 corresponds to the coordinates horizontal 0°, vertical 0,86° U.
+
+[(\*1)](#ntc*1-L_2014250EN.01002101-E0002)  The coordinates are specified in degrees for an angular web with a vertical polar axis.
+
+[(\*2)](#ntc*2-L_2014250EN.01002101-E0003)  See paragraph 6.4.3.4 of this Regulation.
+
+[(\*3)](#ntc*3-L_2014250EN.01002101-E0004)  See paragraph 6.4.3.2 of this Regulation.
+
+---
+
+ANNEX 3
+
+EXAMPLES OF ARRANGEMENTS OF APPROVAL MARKS FOR FRONT FOG LAMPS OF CLASS ‘B’ AND CLASS ‘F3’
+
+Figure 1
+
+*[Figure omitted — see the official source]*
+
+The device bearing the above approval marking is a fog lamp of class ‘B’ approved in the Germany (E1) under number 221, in accordance with Regulation No 19.
+
+The number mentioned close to the symbol ‘B’ indicates that the approval was granted in accordance with the requirements of Regulation No 19 as amended by the 04 series of amendments.
+
+Figure 1 indicates that the device is a front fog lamp, which can be lit simultaneously with any other lamp with which it may be reciprocally incorporated.
+
+Figure 2a
+
+*[Figure omitted — see the official source]*
+
+Figure 2b
+
+*[Figure omitted — see the official source]*
+
+Figures 2a and 2b indicate that the device is a front fog lamp approved in the France (E2) under number 222, in accordance with Regulation No 19 incorporating a lens of plastic material and that it cannot be lit simultaneously with any other lamp with which it may be reciprocally incorporated.
+
+Note: The approval number and the additional symbols shall be placed close to the circle and either above or below the letter ‘E’, or to the right or left of that letter. The digits of the approval number shall be on the same side of the letter ‘E’ and face the same direction. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with other symbols.
+
+Figure 3
+
+Examples of possible markings for grouped, combined or reciprocally incorporated lamps situated on the front of a vehicle
+
+Model A
+
+*[Figure omitted — see the official source]*
+
+Model B
+
+*[Figure omitted — see the official source]*
+
+Model C
+
+*[Figure omitted — see the official source]*
+
+Model D
+
+*[Figure omitted — see the official source]*
+
+The vertical and horizontal lines indicate a schematic view of the shape of the light-signalling device. These are not part of the approval mark.
+
+The devices shown in Model A and Model B of Figure 3 bear the approval markings for a fog lamp approved in Italy (E3) under number 17120, in accordance with Regulation No 19.
+
+The devices shown in Model C and Model D of Figure 3 bear the approval markings for a fog lamp approved in the Netherlands (E4) under number 17122, in accordance with Regulation No 19.
+
+Note: The four examples shown in Figure 3 correspond to a lighting device bearing an approval mark relating to:
+
+|  |  |
+| --- | --- |
+|  | A front position lamp approved in accordance with the 02 series of amendments to Regulation No 7; |
+
+|  |  |
+| --- | --- |
+|  | A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in accordance with the 00 series of amendments to Regulation No 112 and incorporating a lens of plastic material; |
+
+|  |  |
+| --- | --- |
+|  | A front fog lamp approved in accordance with the 04 series of amendments to Regulation No 19 and incorporating a lens of plastic material; |
+
+|  |  |
+| --- | --- |
+|  | A front direction indicator lamp of category 1a approved in accordance with the 02 series of amendments to Regulation No 6. |
+
+Figure 4
+
+Lamp reciprocally incorporated with a headlamp
+
+*[Figure omitted — see the official source]*
+
+The example in Figure 4 corresponds to the marking of a lens of plastic material intended for use in different types of headlamps, namely:
+
+either:
+
+A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas, approved in Sweden (E5) in accordance with the requirements of Regulation No 112 as amended by the 00 series of amendments, which is reciprocally incorporated with a front fog lamp approved in accordance with the 04 series of amendments to Regulation No 19;
+
+or:
+
+A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam, approved in Sweden (E5) in accordance with the requirements of Regulation No 98 as amended by the 00 series of amendments, which is reciprocally incorporated with the same front fog lamp as above;
+
+or even:
+
+Either of the above-mentioned headlamps approved as a single lamp.
+
+The main body of the headlamp shall bear only the valid approval number. Examples of such valid markings are shown in Figure 5.
+
+Figure 5
+
+Lighting device used either as front fog lamp or as reversing lamp
+
+*[Figure omitted — see the official source]*
+
+The device bearing the approval marking in Figure 6 is a lamp approved in Belgium (E6) under number 17120 and 17122, in accordance with Regulation No 19 and, in accordance with Regulation No 23 (reversing lamps):
+
+Figure 6
+
+*[Figure omitted — see the official source]*
+
+One of the above-mentioned lamps approved as a single lamp can be used only as a front fog lamp or as a reversing lamp.
+
+Figure 7
+
+Examples of arrangements of approval marks for front fog lamps of class ‘F3’
+
+*[Figure omitted — see the official source]*
+
+The device bearing the approval marking shown in Figure 7 is a fog lamp of class ‘F3’ approved in Germany (E1) under number 221, in accordance with Regulation No 19.
+
+The number mentioned close to the symbol ‘F3’ indicates that the approval was granted in accordance with the requirements of Regulation No 19 as amended by the 03 series of amendments.
+
+The marking in Figure 7 indicates that the device is a front fog lamp, which can be lit simultaneously with any other lamp with which it may be reciprocally incorporated.
+
+Figure 8a
+
+*[Figure omitted — see the official source]*
+
+Figure 8b
+
+*[Figure omitted — see the official source]*
+
+The device bearing the approval marking shown in Figures 8a and 8b is a fog lamp of class ‘F3’, having a plastic lens and approved in France (E2) under number 222, in accordance with Regulation No 19. The number mentioned close to the symbol ‘F3’ indicates that the approval was granted in accordance with the requirements of Regulation No 19 as amended by the 04 series of amendments
+
+Figures 8a and 8b indicate that the device is a front fog lamp incorporating a lens of plastic material and that it cannot be lit simultaneously with any other lamp with which it may be reciprocally incorporated.
+
+Note: The approval number and the additional symbols shall be placed close to the circle and either above or below the letter ‘E’, or to the right or left of that letter. The digits of the approval number shall be on the same side of the letter ‘E’ and face the same direction. The use of Roman numerals as approval numbers should be avoided so as to prevent any confusion with other symbols.
+
+Figure 9
+
+Examples of possible markings for grouped, combined or reciprocally incorporated lamps situated on the front of a vehicle
+
+Model A
+
+*[Figure omitted — see the official source]*
+
+Model B
+
+*[Figure omitted — see the official source]*
+
+Model C
+
+*[Figure omitted — see the official source]*
+
+Model D
+
+*[Figure omitted — see the official source]*
+
+The vertical and horizontal lines indicate a schematic view of the shape of the light-signalling device. These are not part of the approval mark.
+
+The device bearing the approval marking shown in Models A and B in Figure 9 is a fog lamp approved in Italy (E3) under number 17120 and comprising:
+
+|  |  |
+| --- | --- |
+|  | A front position lamp approved in accordance with the 02 series of amendments to Regulation No 7; |
+
+|  |  |
+| --- | --- |
+|  | A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas (as indicated by the number 30) approved in accordance with the 00 series of amendments to Regulation No 112 and incorporating a lens of plastic material; |
+
+|  |  |
+| --- | --- |
+|  | A front fog lamp approved in accordance with the 04 series of amendments to Regulation No 19 and incorporating a lens of plastic material; |
+
+|  |  |
+| --- | --- |
+|  | A front direction indicator lamp of category 1a approved in accordance with the 02 series of amendments to Regulation No 6. |
+
+The device bearing the approval marking in Models C and D in Figure 9 is a device approved in the Netherlands (E4) under number 17122, in accordance with Regulation used and shows a slightly different arrangement to that shown in Models A and B.
+
+Lighting device used either as front fog lamp or as reversing lamp
+
+The device bearing the approval marking shown in Figure 10 is a lamp approved in Sweden (E5) under number 17120 and 17122, in accordance with Regulation No 19 and, in accordance with Regulation No 23 (reversing lamps):
+
+Figure 10
+
+*[Figure omitted — see the official source]*
+
+One of the above-mentioned lamps approved as a single lamp can be used only as a front fog lamp or as a reversing lamp.
+
+Front fog lamp reciprocally incorporated with a headlamp
+
+The devices bearing the approval marking shown in Figure 11 have been approved in Belgium (E6) under number 17120 or 17122, in accordance with the relevant Regulations.
+
+Figure 11
+
+*[Figure omitted — see the official source]*
+
+The above example corresponds to the marking of a lens of plastic material to be used in different types of headlamps, namely:
+
+either:
+
+A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam with a maximum intensity comprised between 86 250 and 101 250 candelas, approved in Belgium (E6) in accordance with the requirements of Regulation No 112 (Table B) as amended by the 00 series of amendments, which is reciprocally incorporated with a front fog lamp approved in accordance with the 04 series of amendments to Regulation No 19;
+
+or:
+
+A headlamp with a passing beam designed for right-hand and left-hand traffic and a driving beam, approved in Belgium (E6) in accordance with the requirements of Regulation No 98 as amended by the 00 series of amendments, which is reciprocally incorporated with the same front fog lamp as above;
+
+or even:
+
+Either of the above-mentioned headlamps approved as a single lamp.
+
+The main body of the headlamp shall bear only the valid approval number. Examples of such valid markings are shown in Figure 12.
+
+Figure 12
+
+*[Figure omitted — see the official source]*
+
+The above example corresponds to devices approved in Czech Republic (E8).
+
+LED modules
+
+Figure 13
+
+*[Figure omitted — see the official source]*
+
+The LED module bearing the identification code shown in Figure 13 has been approved together with a lamp approved in Czech Republic (E8) under approval number 17325.
+
+Front fog lamps as a matched pair
+
+The approval marking shown below identifies a front fog lamp carried out as a matched pair and meeting the requirements of this Regulation. The device bearing the approval marking shown in Figure 14 is a front fog lamp approved in Japan (E43) under number 321.
+
+Figure 14
+
+*[Figure omitted — see the official source]*
+
+---
+
+ANNEX 4
+
+MEASURING SCREEN GEOMETRY AND MEASURING GRID
+
+1.   MEASURING SCREEN
+
+The coordinates are specified in degrees for spherical angles in a web with a vertical polar axis (see Figure 1).
+
+Figure 1
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+According to CIE standards:
+
+h: longitudinal planes around the polar axis
+
+v: latitudinal planes perpendicular to the polar axis
+
+2.   MEASURING GRID (see Figure 2)
+
+The measuring grid is symmetrical about the v-v line (see table in paragraph 6.4.3 of this Regulation). For simplicity the angular web is shown in the form of a rectangular grid.
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | In the case of front fog lamps of class ‘B’, the measuring grid is shown in Figure 2. Figure 2  Light distribution of the class ‘B’ front fog lamp  Image 26 [Text of image](javascript:void(0);) 15° U  3,5° U  3,5° U  1,75° U  0° H  1,75° D  3,75° D  Zone C  Zone B  Zone A  Cut-off  Zone E-L  Zone D  Zone E-R |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2. | In the case of front fog lamps of class ‘F3’, the measuring grid is shown in Figure 3. Figure 3  Light distribution of the class ‘F3’ front fog lamp  Image 27 [Text of image](javascript:void(0);) 60°  40°  30°  20°  8°  4°  2°  1°  h 0°  - 1,0°  - 1,5°  - 2,5°  - 3,5°  - 6,0°  Line 9L  Line 8L  Line 1  Line 2  Line 3  Line 4  Line 5  Cut-off  Line 6  Zone D  Line 7  Line 8R  Line 9R |
+
+---
+
+ANNEX 5
+
+TESTS FOR STABILITY OF PHOTOMETRIC PERFORMANCE OF FRONT FOG LAMPS IN OPERATION (TESTS ON COMPLETE FRONT FOG LAMPS)
+
+Once the photometric values have been measured according to the prescriptions of this Regulation, in the point of maximum illumination in zone D (Emax) and in the point HV, a complete front fog lamp sample shall be tested for stability of photometric performance in operation. ‘Complete front fog lamp’ is the complete lamp itself including those surrounding body parts and lamps, which could influence its thermal dissipation.
+
+The tests shall be carried out:
+
+|  |  |
+| --- | --- |
+| (a) | In a dry and still atmosphere at an ambient temperature of 23 °C ± 5 °C, the test sample being mounted on a base representing the correct installation on the vehicle; |
+
+|  |  |
+| --- | --- |
+| (b) | In case of replaceable light sources: using mass production filament light sources, which have been aged for at least one hour, or mass production gas-discharge light sources, which have been aged for at least 15 hours or mass production LED modules which has been aged for at least 48 hours and cooled down to ambient temperature before starting the tests as specified in this Regulation. The LED modules supplied by the applicant shall be used. |
+
+The measuring equipment shall be equivalent to that used during headlamp type approval tests.
+
+The test sample shall be operated without being dismounted from or readjusted in relation to its test fixture. The light source used shall be a light source of the category specified for that front fog lamp.
+
+1.   TEST FOR STABILITY OF PHOTOMETRIC PERFORMANCE
+
+1.1.   Clean front fog lamp
+
+The front fog lamp shall be operated for 12 hours as described in paragraph 1.1.1 and checked as prescribed in paragraph 1.1.2.
+
+1.1.1.   Test procedure
+
+The front fog lamp shall be operated as follows:
+
+|  |  |
+| --- | --- |
+| 1.1.1.1. | In the case where only one lighting function (front fog lamp) is to be approved, the corresponding light source is lit for the prescribed time [(1)](#ntr1-L_2014250EN.01003501-E0001), |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 1.1.1.2. | In the case of more than one lighting function (e.g. a headlamp with one or more driving beams and/or a front fog lamp): the headlamp shall be subjected to the following cycle until the prescribed time is reached:   |  |  | | --- | --- | | (a) | 15 minutes, front fog lamp lit; |  |  |  | | --- | --- | | (b) | 5 minutes, all filaments lit. |   If the applicant declares that only one lighting function is to be used at a time (e.g. only the passing beam lit or only the driving beam(s) lit or only the front fog lamp lit [(1)](#ntr1-L_2014250EN.01003501-E0001), the test shall be carried out in accordance with this condition, successively activating the front fog lamp half of the time and one of the other lighting functions for half the time specified in paragraph 1.1. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.1.1.3. | In the case of front fog lamp with a passing beam and one or more lighting functions (one of them is a front fog lamp):   |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | (a) | The front fog lamp shall be subjected to the following cycle until the time specified is reached:   |  |  | | --- | --- | | (i) | 15 minutes, passing-beam light source(s) lit; |  |  |  | | --- | --- | | (ii) | 5 minutes, all light source(s) lit. | |  |  |  | | --- | --- | | (b) | If the applicant declares that the front fog lamp is to be used with only the passing beam lit or only the front fog lamp [(2)](#ntr2-L_2014250EN.01003501-E0002) lit at a time, the test shall be carried out in accordance with this condition, successively activating [(3)](#ntr3-L_2014250EN.01003501-E0003) the passing beam half of the time and the front fog lamp for half of the time specified in paragraph 1.1. The driving beam(s) is (are) subjected to a cycle of 15 minutes off and 5 minutes lit for half of the time and during the operation of the passing beam; |  |  |  | | --- | --- | | (c) | If the applicant declares that the front fog lamp can be used with only the passing beam or only the driving beam(s) [(2)](#ntr2-L_2014250EN.01003501-E0002) lit or only the front fog lamp [(2)](#ntr2-L_2014250EN.01003501-E0002) lit at a time, the test shall be carried out in accordance with this condition, successively activating [(2)](#ntr2-L_2014250EN.01003501-E0002) the passing beam one third of the time, the driving beam(s) one third of the time and the front fog lamp for one third of the time specified in paragraph 1.1. | |
+
+1.1.2.   Test voltage
+
+The voltage shall be applied to the terminals of the test sample as follows:
+
+|  |  |
+| --- | --- |
+| (a) | In case of replaceable filament light source(s) operated directly under vehicle voltage system conditions: The test shall be performed at 6,3 V, 13,2 V or 28,0 V as applicable except if the applicant specifies that the test sample may be used at a different voltage. In this case, the test shall be carried out with the filament light source operated at the highest voltage that can be used; |
+
+|  |  |
+| --- | --- |
+| (b) | In case of replaceable gas discharge light source(s): the test voltage for the electronic light source control-gear is 13,2 ± 0,1 volts for 12 V vehicle voltage system, or otherwise specified in the application for approval; |
+
+|  |  |
+| --- | --- |
+| (c) | In the case of non-replaceable light source operated directly under vehicle voltage system conditions: all measurements on lighting units equipped with non-replaceable light sources (filament light sources and/or others) shall be made at 6,3 V, 13,2 V or 28,0 V or at other voltages according to the vehicle voltage system as specified by the applicant respectively; |
+
+|  |  |
+| --- | --- |
+| (d) | In the case of light sources, replaceable or non-replaceable, being operated independently from vehicle supply voltage and fully controlled by the system, or, in the case of light sources supplied by a supply and operating device, the test voltages as specified above shall be applied to the input terminals of that device. The test laboratory may require from the manufacturer the supply and operating device or a special power supply needed to supply the light source(s); |
+
+|  |  |
+| --- | --- |
+| (e) | LED module(s) shall be measured at 6,75 V, 13,2 V or 28,0 V respectively, if not otherwise specified within this Regulation. LED module(s) operated by an electronic light source control gear, shall be measured as specified by the applicant; |
+
+|  |  |
+| --- | --- |
+| (f) | Where signalling lamps are grouped, combined or reciprocally incorporated into the test sample and operating at voltages other than the nominal rated voltages of 6 V, 12 V or 24 V respectively, the voltage shall be adjusted as declared by the manufacturer for the correct photometric functioning of that lamp. |
+
+|  |  |
+| --- | --- |
+| (g) | For a gas-discharge light source, the test voltage for the ballast or for the light source in case the ballast is integrated with the light source is 13,2 ± 0,1 volts for 12 V network system, or otherwise specified in the application for approval. |
+
+1.1.3.   Test results
+
+1.1.3.1.   Visual inspection
+
+Once the front fog lamp has been stabilised to the ambient temperature, the front fog lamp lens and the external lens, if any, shall be cleaned with a clean, damp cotton cloth. It shall then be inspected visually; no distortion, deformation, cracking or change in colour of either the front fog lamp lens or the external lens, if any, shall be noticeable.
+
+1.1.3.2.   Photometric test
+
+To comply with the requirements of this Regulation, the following photometric values shall be verified in the following points:
+
+|  |  |
+| --- | --- |
+|  | In case of class ‘B’ front fog lamps: at point HV and the point of Imax in zone D. |
+
+|  |  |
+| --- | --- |
+|  | In case of class ‘F3’ front fog lamps: on line 5 at point h = 0 and the point of Imax in zone D. |
+
+Another aiming may be carried out to allow for any deformation of the front fog lamp base due to heat (the change of the position of the cut-off line is covered in paragraph 2).
+
+A 10 per cent discrepancy between the photometric characteristics and the values measured prior to the test is permissible including the tolerances of the photometric procedure.
+
+1.2.   Dirty front fog lamp
+
+The front fog lamp, having been tested as specified in paragraph 1.1 shall be operated for one hour as described in paragraph 1.1.1. Following preparation, as prescribed in paragraph 1.2.1, it shall be checked as prescribed in paragraph 1.1.3.
+
+1.2.1.   Preparation of the front fog lamp
+
+1.2.1.1.   Test mixture
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.2.1.1.1. | For front fog lamps with the outside lens in glass: The mixture of water and a polluting agent to be applied to the front fog lamp shall be composed of:   |  |  | | --- | --- | | (a) | 9 parts by weight of silica sand with a particle size of 0-100 μm; |  |  |  | | --- | --- | | (b) | 1 part by weight of vegetal carbon dust (beech wood) with a particle size of 0-100 μm; |  |  |  | | --- | --- | | (c) | 0,2 part by weight of NaCMC [(4)](#ntr4-L_2014250EN.01003501-E0004), and |  |  |  | | --- | --- | | (d) | an appropriate quantity of distilled water, with a conductivity of S < l μS/m. |   The mixture must not be more than 14 days old. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.2.1.1.2. | For front fog lamp with outside lens in plastic material:  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | |  | The mixture of water and polluting agent to be applied to the front fog lamp shall be composed of:   |  |  | | --- | --- | | (a) | 9 parts by weight of silica sand with a particle size of 0-100 μm, |  |  |  | | --- | --- | | (b) | 1 part by weight of vegetal carbon dust (beech wood) with a particle size of 0-100 μm, |  |  |  | | --- | --- | | (c) | 0,2 part by weight of NaCMC [(4)](#ntr4-L_2014250EN.01003501-E0004), |  |  |  | | --- | --- | | (d) | 13 parts by weight of distilled water with a conductivity of S < 1 μS/m, and |  |  |  | | --- | --- | | (e) | ± 1 part by weight of surfactant [(5)](#ntr5-L_2014250EN.01003501-E0005). | |  |  |  | | --- | --- | |  | The mixture must not be more than 14 days old. | |
+
+1.2.1.2.   Application of the test mixture to the front fog lamp
+
+The test mixture shall be uniformly applied to the entire light emitting surface of the front fog lamp and then left to dry. This procedure shall be repeated until the illumination value has dropped to 15-20 per cent of the values measured for the following point under the conditions described in this annex:
+
+Point of Emax in zone D.
+
+2.   TEST FOR CHANGE IN VERTICAL POSITION OF THE CUT-OFF LINE UNDER THE INFLUENCE OF HEAT
+
+This test consists of verifying that the vertical drift of the cut-off line under the influence of heat does not exceed the specified value for an operating front fog lamp.
+
+The front fog lamp tested in accordance with paragraph 1, shall be subjected to the test described in paragraph 2.1, without being removed from or readjusted in relation to its test fixture.
+
+2.1.   Test
+
+The test shall be carried out in a dry and still atmosphere at an ambient temperature of 23 °C ± 5 °C.
+
+Using a mass production light source, which has been aged for at least one hour, the front fog lamp shall be operated without being dismounted from or readjusted in relation to its test fixture. (For the purpose of this test, the voltage shall be adjusted as specified in paragraph 1.1.2). The position of the cut-off line between a point situated 3,0 degrees left and a point situated 3,0 degrees right of the line v-v (see Annex 4 of the Regulation) shall be verified after three minutes (r3) and 60 minutes (r60) respectively of operation.
+
+The measurement of the variation in the cut-off line position as described above shall be carried out by any method giving acceptable accuracy and reproducible results.
+
+2.2.   Test results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.1. | The result expressed in milliradians (mrad) shall be considered acceptable when the absolute value  Formula  recorded on this front fog lamp is not more than 2 mrad (Δ rI ≤ 2 mrad). |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 2.2.2. | However, if this value is more than 2 mrad but not more than 3 mrad (2 mrad < ΔrI ≤ 3 mrad) a second front fog lamp shall be tested as described in paragraph 2.1. This shall be done after the front fog lamp has been subjected to three consecutive cycles as described below, in order to stabilise the position of the mechanical parts of the front fog lamp that is mounted on a base representative of the correct installation on the vehicle:  |  |  | | --- | --- | | (a) | Operation of the front fog lamp for one hour. (The voltage shall be adjusted as specified in paragraph 1.1.2). |  |  |  | | --- | --- | | (b) | Period of rest for one hour. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.3. | The front fog lamp type shall be considered acceptable if the mean value of the absolute values Δ rI measured on the first sample and Δ rII measured on the second sample is not more than 2 mrad. Formula  mrad. |
+
+---
+
+[(1)](#ntc1-L_2014250EN.01003501-E0001)  When the tested front fog lamp includes signaling lamps, the latter shall be lit for the duration of the test, except for a daytime running lamp. In the case of a direction indicator lamp, it shall be lit in flashing operation mode with an on/off time ratio of approximately one to one.
+
+[(2)](#ntc2-L_2014250EN.01003501-E0002)  Should two or more lamp filaments be simultaneously lit when headlamp flashing is used, this shall not be considered as being normal use of the filaments simultaneously.
+
+[(3)](#ntc3-L_2014250EN.01003501-E0003)  When the tested headlamp includes signalling lamps, the latter shall be lit for the duration of the test. In the case of a direction indicator lamp, it shall be lit in flashing mode with an on/off time of approximately one to one.
+
+[(4)](#ntc4-L_2014250EN.01003501-E0004)  NaCMC represents the sodium salt of carboxymethylcellulose, customarily referred to as CMC. The NaCMC used in the dirt mixture shall have a degree of substitution (DS) of 0,6-0,7 and a viscosity of 200-300 μP for a 2 per cent solution at 20 °C.
+
+[(5)](#ntc5-L_2014250EN.01003501-E0005)  The tolerance on quantity is due to the necessity of obtaining a dirt that correctly spreads out on all the plastic lens.
+
+---
+
+ANNEX 6
+
+REQUIREMENTS FOR LAMPS INCORPORATING LENSES OF PLASTIC MATERIAL — TESTING OF LENS OR MATERIAL SAMPLES AND OF COMPLETE LAMPS
+
+1.   GENERAL SPECIFICATIONS
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.1. | The samples supplied pursuant to paragraph 2.2.2 of this Regulation shall satisfy the specifications indicated in paragraphs 2.1 to 2.5. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.2. | The two samples of complete lamps supplied pursuant to paragraph 2.3 of this Regulation (or paragraph 2.4 of this Regulation as applicable) and incorporating lenses of plastic material shall, with regard to the lens material, satisfy the specifications indicated in paragraph 2.6. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.3. | The samples of lenses of plastic material or samples of material shall be subjected, with the reflector to which they are intended to be fitted (where applicable), to approval tests in the chronological order indicated in table A reproduced in Appendix 1 to this annex. However, if the lamp manufacturer can prove that the product has already passed the tests prescribed in paragraphs 2.1 to 2.5, or the equivalent tests pursuant to another Regulation, those tests need not be repeated; only the tests prescribed in Appendix 1, table B, shall be mandatory. |
+
+2.   TESTS
+
+2.1.   Resistance to temperature changes
+
+2.1.1.   Tests
+
+Three new samples (lenses) shall be subjected to five cycles of temperature and humidity (RH = relative humidity) change in accordance with the following programme:
+
+|  |  |
+| --- | --- |
+|  | 3 hours at 40 °C ± 2 °C and 85-95 per cent RH; |
+
+|  |  |
+| --- | --- |
+|  | 1 hour at 23 °C ± 5 °C and 60-75 per cent RH; |
+
+|  |  |
+| --- | --- |
+|  | 15 hours at – 30 °C ± 2 °C; |
+
+|  |  |
+| --- | --- |
+|  | 1 hour at 23 °C ± 5 °C and 60-75 per cent RH; |
+
+|  |  |
+| --- | --- |
+|  | 3 hours at 80 °C ± 2 °C; |
+
+|  |  |
+| --- | --- |
+|  | 1 hour at 23 °C ± 5 °C and 60-75 per cent RH; |
+
+Before this test, the samples shall be kept at 23 °C ± 5 °C and 60-75 per cent RH for at least four hours.
+
+Note: The periods of one hour at 23 °C ± 5 °C shall include the periods of transition from one temperature to another which are needed in order to avoid thermal shock effects.
+
+2.1.2.   Photometric measurements
+
+2.1.2.1.   Method
+
+Photometric measurements shall be carried out on the samples before and after the test. These measurements shall be made under the conditions as specified in paragraph 6.3 or 6.4 of this Regulation, at the following points:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | In the case of class ‘B’ front fog lamps:   |  |  | | --- | --- | | (a) | At point HV and |  |  |  | | --- | --- | | (b) | Point h = 0, v = 2° D in zone D. | |
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | In the case of class ‘F3’ front fog lamps:   |  |  | | --- | --- | | (a) | Intersection v-v line with line 6 and |  |  |  | | --- | --- | | (b) | Intersection v-v line with line 4. | |
+
+2.1.2.2.   Results
+
+The variation between the photometric values measured on each sample before and after the test shall not exceed 10 per cent including the tolerances of the photometric procedure.
+
+2.2.   Resistance to atmospheric and chemical agents
+
+2.2.1.   Resistance to atmospheric agents
+
+Three new samples (lenses or samples of material) shall be exposed to radiation from a source having a spectral energy distribution similar to that of a black body at a temperature between 5 500 K and 6 000 K. Appropriate filters shall be placed between the source and the samples so as to reduce as far as possible radiations with wavelengths smaller than 295 nm and greater than 2 500 nm. The samples shall be exposed to an energetic illumination of 1 200 W/m2 ± 200 W/m2 for a period such that the luminous energy that they receive is equal to 4 500 MJ/m2 ± 200 MJ/m2. Within the enclosure, the temperature measured on the black panel placed on a level with the samples shall be 50 °C ± 5 °C. In order to ensure a regular exposure, the samples shall revolve around the source of radiation at a speed between 1 and 5 1/min.
+
+The samples shall be sprayed with distilled water of conductivity lower than 1 μS/m at a temperature of 23 °C ± 5 °C, in accordance with the following cycle:
+
+|  |  |
+| --- | --- |
+|  | Spraying: 5 minutes; |
+
+|  |  |
+| --- | --- |
+|  | Drying: 25 minutes. |
+
+2.2.2.   Resistance to chemical agents
+
+After the test described in paragraph 2.2.1 and the measurement described in paragraph 2.2.3.1 have been carried out, the outer face of the said three samples shall be treated as described in paragraph 2.2.2.2 with the mixture defined in paragraph 2.2.2.1.
+
+2.2.2.1.   Test mixture
+
+The test mixture shall be composed of 61,5 per cent n-heptane, 12,5 per cent toluene, 7,5 per cent ethyl tetrachloride, 12,5 per cent trichlorethylene and 6 per cent xylene (volume per cent).
+
+2.2.2.2.   Application of the test mixture
+
+Soak a piece of cotton cloth (as per ISO 105) until saturation with the mixture defined in paragraph 2.2.2.1 and, within 10 seconds, apply it for 10 minutes to the outer face of the sample at a pressure of 50 N/cm2, corresponding to a force of 100 N applied on a test surface of 14 × 14 mm.
+
+During this 10-minute period, the cloth pad shall be soaked again with the mixture so that the composition of the liquid applied is continuously identical with that of the test mixture prescribed.
+
+During the period of application, it is permissible to compensate the pressure applied to the sample in order to prevent it from causing cracks.
+
+2.2.2.3.   Cleaning
+
+At the end of the application of the test mixture, the samples shall be dried in the open air and then washed with the solution described in paragraph 2.3 (resistance to detergents) at 23 °C ± 5 °C.
+
+Afterwards the samples shall be carefully rinsed with distilled water containing not more than 0,2 per cent impurities at 23 °C ± 5 °C and then wiped off with a soft cloth.
+
+2.2.3.   Results
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.3.1. | After the test of resistance to atmospheric agents, the outer face of the samples shall be free from cracks, scratches, chipping and deformation, and the mean variation in transmission Formula ,  measured on the three samples according to the procedure described in Appendix 2 to this annex shall not exceed 0,020 (Δ tm ≤ 0,020). |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.3.2. | After the test of resistance to chemical agents, the samples shall not bear any traces of chemical staining likely to cause a variation of flux diffusion, whose mean variation Formula ,  measured on the three samples according to the procedure described in Appendix 2 to this annex shall not exceed 0,020 (Δ dm ≤ 0,020). |
+
+2.3.   Resistance to detergents and hydrocarbons
+
+2.3.1.   Resistance to detergents
+
+The outer face of three samples (lenses or samples of material) shall be heated to 50 °C ± 5 °C and then immersed for five minutes in a mixture maintained at 23 °C ± 5 °C and composed of 99 parts distilled water containing not more than 0,02 per cent impurities and one part alkylaryl sulphonate.
+
+At the end of the test, the samples shall be dried at 50 °C ± 5 °C. The surface of the samples shall be cleaned with a moist cloth.
+
+2.3.2.   Resistance to hydrocarbons
+
+The outer face of these three samples shall then be lightly rubbed for one minute with a cotton cloth soaked in a mixture composed of 70 per cent n-heptane and 30 per cent toluene (volume per cent), and shall then be dried in the open air.
+
+2.3.3.   Results
+
+After the above two tests have been performed successively, the mean value of the variation in transmission:
+
+*[Figure omitted — see the official source]*
+,
+
+measured on the three samples according to the procedure described in Appendix 2 to this annex shall not exceed 0,010 (Δ tm ≤ 0,010).
+
+2.4.   Resistance to mechanical deterioration
+
+2.4.1.   Mechanical deterioration method
+
+The outer face of the three new samples (lenses) shall be subjected to the uniform mechanical deterioration test by the method described in Appendix 3 to this annex.
+
+2.4.2.   Results
+
+After this test, the variations:
+
+|  |  |  |
+| --- | --- | --- |
+| in transmission | : | Formula |
+| and in diffusion | : | Formula |
+
+shall be measured according to the procedure described in Appendix 2 in the area specified in paragraph 2.1.2.1. The mean value of the three samples shall be such that:
+
+|  |  |
+| --- | --- |
+|  | Δ tm ≤ 0,010; |
+
+|  |  |
+| --- | --- |
+|  | Δ dm ≤ 0,050. |
+
+2.5.   Test of adherence of coatings, if any
+
+2.5.1.   Preparation of the sample
+
+A surface of 20 mm × 20 mm in area of the coating of a lens shall be grated with a razor blade or a needle into a grid of squares approximately 2 mm × 2 mm. The pressure on the blade or needle shall be sufficient to cut at least the coating.
+
+2.5.2.   Description of the test
+
+Use an adhesive tape with a force of adhesion of 2 N/(cm of width) ± 20 per cent measured under the standardized conditions specified in Appendix 4 to this annex. This adhesive tape, which shall be at least 25 mm wide, shall be pressed for at least five minutes to the surface prepared as prescribed in paragraph 2.5.1.
+
+Then the end of the adhesive tape shall be loaded in such a way that a force perpendicular to that surface balances the force of adhesion to the surface considered. At this stage, the tape shall be torn off at a constant speed of 1,5 m/s ± 0,2 m/s.
+
+2.5.3.   Results
+
+There shall be no appreciable impairment of the grated area. Impairments at the intersections between squares or at the edges of the cuts shall be permitted, provided that the impaired area does not exceed 15 per cent of the grated surface.
+
+2.6.   Tests of the complete lamp incorporating a lens of plastic material
+
+2.6.1.   Resistance to mechanical deterioration of the lens surface
+
+2.6.1.1.   Tests
+
+The lens of lamp sample No 1 shall be subjected to the test described in paragraph 2.4.1.
+
+2.6.1.2.   Results
+
+After the test, the results of photometric measurements prescribed in zone B for class B front fog lamp and lines 2 and 5 for class F3 front fog lamp shall not exceed the maximum values prescribed by more than 30 per cent.
+
+2.6.2.   Test of adherence of coatings, if any
+
+The lens of lamp sample No 2 shall be subjected to the test described in paragraph 2.5.
+
+2.7.   Resistance to light source radiation
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 2.7.1. | In the case of gas-discharge light sources: for testing the resistance of light transmitting components made of plastic materials against UV radiation inside the front fog lamp:  |  |  | | --- | --- | | 2.7.1.1. | Flat samples of each light transmitting plastic component of the front fog lamps are exposed to the light of the gas-discharge light source. The parameters such as angles and distances of these samples shall be the same as in the front fog lamp. |  |  |  | | --- | --- | | 2.7.1.2. | After 1 500 hours of continuous exposure, the colorimetric specifications of the transmitted light must be met with a new standard gas-discharge light source, and the surface of the samples shall be free of cracks, scratches, scaling or deformation. | |
+
+3.   VERIFICATION OF THE CONFORMITY OF PRODUCTION
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 3.1. | With regard to the materials used for the manufacture of lenses, the lamps of a series shall be recognized as complying with this Regulation if:  |  |  | | --- | --- | | 3.1.1. | After the test for resistance to chemical agents and the test for resistance to detergents and hydrocarbons, the outer face of the samples exhibits no cracks, chipping or deformation visible to the naked eye (see paragraphs 2.2.2, 2.3.1 and 2.3.2); |  |  |  | | --- | --- | | 3.1.2. | After the test described in paragraph 2.6.1.1, the photometric values at the points of measurement considered in paragraph 2.6.1.2 are within the limits prescribed for conformity of production by this Regulation. | |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2. | If the test results fail to satisfy the requirements, the tests shall be repeated on another sample of front fog lamps selected at random. |
+
+Appendix 1
+
+CHRONOLOGICAL ORDER OF APPROVAL TESTS
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | A. | Tests on plastic materials (lenses or samples of material supplied pursuant to paragraph 2.2.2 of this Regulation).  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Tests | Samples | Lenses or samples of material | | | | | | Lenses | | | | | | | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | | 1.1. | Limited photometry (para. 2.1.2) |  |  |  |  |  |  |  |  |  | X | X | X |  | | 1.1.1. | Temperature change (para. 2.1.1) |  |  |  |  |  |  |  |  |  | X | X | X |  | | 1.1.2. | Limited photometry (para. 2.1.2) |  |  |  |  |  |  |  |  |  | X | X | X |  | | 1.2.1. | Transmission measurement | X | X | X | X | X | X | X | X | X |  |  |  |  | | 1.2.2. | Diffusion measurement | X | X | X |  |  |  | X | X | X |  |  |  |  | | 1.3. | Atmospheric agents (para. 2.2.1) | X | X | X |  |  |  |  |  |  |  |  |  |  | | 1.3.1. | Transmission measurement | X | X | X |  |  |  |  |  |  |  |  |  |  | | 1.4. | Chemical agents (para. 2.2.2) | X | X | X |  |  |  |  |  |  |  |  |  |  | | 1.4.1. | Diffusion measurement | X | X | X |  |  |  |  |  |  |  |  |  |  | | 1.5. | Detergents (para. 2.3.1) |  |  |  | X | X | X |  |  |  |  |  |  |  | | 1.6. | Hydrocarbons (para. 2.3.2) |  |  |  | X | X | X |  |  |  |  |  |  |  | | 1.6.1. | Transmission measurement |  |  |  | X | X | X |  |  |  |  |  |  |  | | 1.7. | Deterioration (para. 2.4.1) |  |  |  |  |  |  | X | X | X |  |  |  |  | | 1.7.1. | Transmission measurement |  |  |  |  |  |  | X | X | X |  |  |  |  | | 1.7.2. | Diffusion measurement |  |  |  |  |  |  | X | X | X |  |  |  |  | | 1.8. | Adherence (para. 2.5) |  |  |  |  |  |  |  |  |  |  |  |  | X | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | B. | Tests on complete front fog lamps (supplied pursuant to paragraph 2.3.2 of this Regulation).  |  |  |  | | --- | --- | --- | | Tests | Complete headlamp | | | Sample No | | | 1 | 2 | | |  |  | | --- | --- | | 2.1. | Deterioration (para. 2.6.1.1) | | X |  | | |  |  | | --- | --- | | 2.2. | Photometry (para. 2.6.1.2) | | X |  | | |  |  | | --- | --- | | 2.3. | Adherence (para. 2.6.2) | |  | X | |
+
+Appendix 2
+
+METHOD OF MEASUREMENT OF THE DIFFUSION AND TRANSMISSION OF LIGHT
+
+1.   EQUIPMENT (see figure)
+
+The beam of a collimator K with a half divergence β/2 = 17,4 × 10–4 rd is limited by a diaphragm DT with an opening of 6 mm against which the sample stand is placed.
+
+A convergent achromatic lens L2, corrected for spherical aberrations, links the diaphragm DT with the receiver R; the diameter of the lens L2 shall be such that it does not diaphragm the light diffused by the sample in a cone with a half top angle of ß/2 = 14°.
+
+An annular diaphragm DD with angles a/2 = 1° and amax/2 = 12° is placed in an image focal plane of the lens L2.
+
+The non-transparent central part of the diaphragm is necessary in order to eliminate the light arriving directly from the light source. It shall be possible to remove the central part of the diaphragm from the light beam in such a manner that it returns exactly to its original position.
+
+The distance L2 DT and the focal length F2
+ [(1)](#ntr1-L_2014250EN.01004601-E0001) of the lens L2 shall be so chosen that the image of DT completely covers the receiver R.
+
+When the initial incident flux is referred to 1 000 units, the absolute precision of each reading shall be better than 1 unit.
+
+2.   MEASUREMENTS
+
+The following readings shall be taken:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Reading | With sample | With central part of DD | Quantity represented |
+| T1 | no | no | Incident flux in initial reading |
+| T2 | yes  (before test) | no | Flux transmitted by the new material in a field of 24 degrees |
+| T3 | yes  (after test) | no | Flux transmitted by the tested material in a field of 24 degrees |
+| T4 | yes  (before test) | yes | Flux diffused by the new material |
+| T5 | yes  (after test) | yes | Flux diffused by the tested material |
+
+*[Figure omitted — see the official source]*
+
+[Text of image](javascript:void(0);)
+
+Light source
+
+---
+
+[(1)](#ntc1-L_2014250EN.01004601-E0001)  For L2 the use a focal distance of about 80 mm is recommended.
+
+Appendix 3
+
+SPRAY TESTING METHOD
+
+1.   TEST EQUIPMENT
+
+Spray gun
+
+The spray gun used shall be equipped with a nozzle 1,3 mm in diameter allowing a liquid flow rate of 0,24 ± 0,02 1/minute at an operating pressure of 6,0 bars – 0, + 0,5 bar.
+
+Under these operation conditions the fan pattern obtained shall be 170 mm ± 50 mm in diameter on the surface exposed to deterioration, at a distance of 380 mm ± 10 mm from the nozzle.
+
+Test mixture
+
+The test mixture shall be composed of:
+
+|  |  |
+| --- | --- |
+|  | Silica sand of hardness 7 on the Mohs scale, with a grain size between 0 and 0,2 mm and an almost normal distribution, with an angular factor of 1,8 to 2; |
+
+|  |  |
+| --- | --- |
+|  | Water of hardness not exceeding 205 g/m3 for a mixture comprising 25 g of sand per litre of water. |
+
+2.   TEST
+
+The outer surface of the lamp lenses shall be subjected once or more than once to the action of the sand jet produced as described above. The jet shall be sprayed almost perpendicular to the surface to be tested.
+
+The deterioration shall be checked by means of one or more samples of glass placed as a reference near the lenses to be tested. The mixture shall be sprayed until the variation in the diffusion of light on the sample or samples measured by the method described in Appendix 2, is such that:
+
+*[Figure omitted — see the official source]*
+
+Several reference samples may be used to check that the whole surface to be tested has deteriorated homogeneously.
+
+Appendix 4
+
+ADHESIVE TAPE ADHERENCE TEST
+
+1.   PURPOSE
+
+This method allows the determination under standard conditions of the linear force of adhesion of an adhesive tape to a glass plate.
+
+2.   PRINCIPLE
+
+To measure the force necessary to un-stick an adhesive tape from a glass plate at an angle of 90°.
+
+3.   SPECIFIED ATMOSPHERIC CONDITIONS
+
+The ambient conditions shall be at 23 °C ± 5 °C and 65 ± 15 per cent relative humidity (RH).
+
+4.   TEST PIECES
+
+Before the test, the sample roll of adhesive tape shall be conditioned for 24 hours in the specified atmosphere (see paragraph 3).
+
+Five test pieces each 400 mm long shall be tested from each roll. These test pieces shall be taken from the roll after the first three turns were discarded.
+
+5.   PROCEDURE
+
+The test shall be carried out under the ambient conditions specified in paragraph 3.
+
+Take the five test pieces while unrolling the tape radially at a speed of approximately 300 mm/s and then apply them within 15 seconds in the following manner:
+
+|  |  |
+| --- | --- |
+|  | Apply the tape to the glass plate progressively with a slight longitudinal rubbing movement of the finger, without excessive pressure to the tape and to the glass plate. |
+
+|  |  |
+| --- | --- |
+|  | Leave the assembly in the specified atmospheric conditions for 10 minutes. |
+
+|  |  |
+| --- | --- |
+|  | Unstuck about 25 mm of the test piece from the plate in a plane perpendicular to the axis of the test piece. |
+
+|  |  |
+| --- | --- |
+|  | Fix the plate and fold back the free end of the tape at 90°. Apply force in such a manner that the separation line between the tape and the plate is perpendicular to this force and perpendicular to the plate. |
+
+|  |  |
+| --- | --- |
+|  | Pull to un-stick the tape at a speed of 300 mm/s ± 30 mm/s and record the force required. |
+
+6.   RESULTS
+
+The five values obtained shall be arranged in order and the median value taken as the result of the measurement. This value shall be expressed in Newton per centimetre of width of the tape.
+
+---
+
+ANNEX 7
+
+MINIMUM REQUIREMENTS FOR CONFORMITY OF PRODUCTION CONTROL PROCEDURE
+
+1.   GENERAL
+
+1.1.   The conformity requirements shall be considered to be satisfied from a mechanical and geometric standpoint, if the differences do not exceed inevitable manufacturing deviations within the requirements of this Regulation.
+
+1.2.   With respect to photometric performances, the conformity of mass-produced front fog lamps shall not be contested if the photometric performances according to the requirements in Annex 2 to this Regulation depending on the prevailing class of front fog lamps are satisfied.
+
+If the results of the tests described above do not meet the requirements, tests on the front fog lamp shall be repeated using light sources as specified in paragraph 6.3 or 6.4 of this Regulation, as appropriate.
+
+1.2.1.   If the results of the tests described above do not meet the requirements, the alignment of the front fog lamp may be changed, provided that the axis of the beam is not displaced laterally by more than 0,5° to the right or left and not by more than 0,2° up or down. In the re-aimed position all photometric requirements shall be met.
+
+1.3.   With respect to the verification of the change in vertical position of the cut-off line under the influence of heat, the following procedure shall be applied:
+
+|  |  |
+| --- | --- |
+| 1.3.1. | One of the sampled front fog lamps shall be tested according to the procedure described in paragraph 2.1 of Annex 5 after being subjected three consecutive times to the cycle described in paragraph 2.2.2 of Annex 5. |
+
+|  |  |
+| --- | --- |
+| 1.3.2. | The front fog lamp shall be considered as acceptable if Δr does not exceed 3,0 mrad. If this value exceeds 3,0 mrad but is not more than 4,0 mrad, a second front fog lamp shall be subjected to the test after which the mean of the absolute values recorded on both samples shall not exceed 3,0 mrad. |
+
+1.4.   The chromaticity coordinates shall comply with paragraph 7 of this Regulation. The photometric performance of a front fog lamp emitting an enlarged selective yellow light when equipped with a colourless light source shall be the values contained in this Regulation multiplied by 0,84.
+
+2.   MINIMUM REQUIREMENTS FOR VERIFICATION OF CONFORMITY BY THE MANUFACTURER
+
+For each type of front fog lamp the holder of the approval mark shall carry out at least the following tests, at appropriate intervals. The tests shall be carried out in accordance with the provisions of this Regulation. If any sampling shows non-conformity with regard to the type of test concerned, further samples shall be taken and tested. The manufacturer shall take steps to ensure the conformity of the production concerned.
+
+2.1.   Nature of tests
+
+Tests of conformity in this Regulation shall cover the photometric characteristics and the verification of the change in vertical position of the cut-off line under the influence of heat.
+
+2.2.   Methods used in tests
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.1. | Tests shall generally be carried out in accordance with the methods set out in this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.2. | In any test of conformity carried out by the manufacturer, equivalent methods may be used with the consent of the competent authority responsible for approval tests. The manufacturer is responsible for proving that the applied methods are equivalent to those laid down in this Regulation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.3. | The application of paragraphs 2.2.1 and 2.2.2 requires regular calibration of test apparatus and its correlation with measurements made by a competent authority. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.2.4. | In all cases the reference methods shall be those of this Regulation, particularly for the purpose of administrative verification and sampling. |
+
+2.3.   Nature of sampling
+
+Samples of front fog lamps shall be selected at random from the production of a uniform batch. A uniform batch means a set of front fog lamps of the same type, defined according to the production methods of the manufacturer.
+
+The assessment shall in general cover series production from individual factories. However, a manufacturer may group together records concerning the same type from several factories, provided these operate under the same quality system and quality management.
+
+2.4.   Measured and recorded photometric characteristics
+
+The sampled front fog lamp shall be subjected to photometric measurements at the points provided for in the Regulation, the reading being limited to points listed in Annex 2 to this Regulation depending on the prevailing class of front fog lamps.
+
+2.5.   Criteria governing acceptability
+
+The manufacturer is responsible for carrying out a statistical study of the test results and for defining, in agreement with the competent authority, criteria governing the acceptability of his products in order to meet the specifications laid down for verification of conformity of products in paragraph 10.1 of this Regulation.
+
+The criteria governing the acceptability shall be such that, with a confidence level of 95 per cent, the minimum probability of passing a spot check in accordance with Annex 8 (first sampling) would be 0,95.
+
+---
+
+ANNEX 8
+
+MINIMUM REQUIREMENTS FOR SAMPLING BY AN INSPECTOR
+
+1.   GENERAL
+
+The conformity requirements shall be considered to be satisfied from a mechanical and geometric standpoint, if the differences do not exceed inevitable manufacturing deviations within the requirements of this Regulation.
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.2.1. | With respect to photometric performances, the conformity of mass-produced front fog lamps shall not be contested if the photometric performances according to the requirements in Annex 2 to this Regulation depending on the prevailing class of front fog lamps are satisfied. If the results of the tests described above do not meet the requirements, tests on the front fog lamp shall be repeated using light sources as specified in paragraph 6.3 or 6.4 of this Regulation, as appropriate.  If the results of the tests described above do not meet the requirements, the alignment of the front fog lamp may be changed, provided that the axis of the beam is not displaced laterally by more than 0,5° to the right or left and not by more than 0,2° up or down. In the re-aimed position all photometric requirements shall be met.  If the specified luminous intensity requirements are not met, a re-aim of the cut-off position within ± 0,5° vertical and/or ± 2° horizontal is allowed. In the re-aimed position all photometric requirements shall be met.  If vertical adjustment cannot be performed repeatedly to the required position within the allowed tolerances, the instrumental method as specified in Annex 9 to this Regulation shall be applied and the quality of cut-off be tested on one sample. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.2.2. | Front fog lamps with obvious defects are disregarded. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.3. | The chromaticity coordinates shall comply with paragraph 7 of this Regulation. The photometric performance of a front fog lamp emitting an enlarged selective yellow light when equipped with a colourless light source shall be the values contained in this Regulation multiplied by 0,84. |
+
+2.   FIRST SAMPLING
+
+In the first sampling four front fog lamps shall be selected at random. The first sample of two is marked A, the second sample of two is marked B.
+
+2.1.   Conformity is not contested
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.1.1. | Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced front fog lamps shall not be contested if the deviation of the measured values of the front fog lamps in the unfavourable directions is:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.1.1.1. | Sample A   |  |  |  |  | | --- | --- | --- | --- | | A1: | one front fog lamp |  | 0 per cent | | one front fog lamp | not more than | 20 per cent | | A2: | both front fog lamps | more than | 0 per cent | | but | not more than | 20 per cent | | Go to sample B |  |  | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | 2.1.1.2. | Sample B   |  |  |  |  | | --- | --- | --- | --- | | B1: | both front fog lamps |  | 0 per cent | | |
+
+2.2.   Conformity is contested
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.2.1. | Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced front fog lamps shall be contested and the manufacturer requested to make his production meet the requirements (alignment) if the deviations of the measured values of the front fog lamps are:  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.2.1.1. | Sample A   |  |  |  |  | | --- | --- | --- | --- | | A3: | one front fog lamp | not more than | 20 per cent | | one front fog lamp | more than | 20 per cent | | but | not more than | 30 per cent | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 2.2.1.2. | Sample B   |  |  |  |  | | --- | --- | --- | --- | | B2: | in the case of A2 |  |  | | one front fog lamp | more than | 0 per cent | | but | not more than | 20 per cent | | one front fog lamp | not more than | 20 per cent | | B3: | in the case of A2 |  |  | | one front fog lamp |  | 0 per cent | | one front fog lamp | more than | 20 per cent | | but | not more than | 30 per cent | | |
+
+2.3.   Approval withdrawn
+
+Conformity shall be contested and paragraph 11 applied if, following the sampling procedure in Figure 1 of this annex, the deviations of the measured values of the front fog lamps are:
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.1. | Sample A   |  |  |  |  | | --- | --- | --- | --- | | A4: | one front fog lamp | not more than | 20 per cent | | one front fog lamp | more than | 30 per cent | | A5: | both front fog lamps | more than | 20 per cent | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.3.2. | Sample B   |  |  |  |  | | --- | --- | --- | --- | | B4: | in the case of A2 |  |  | | one front fog lamp | more than | 0 per cent | | but | not more than | 20 per cent | | one front fog lamp | more than | 20 per cent | | B5: | in the case of A2 |  |  | | both front fog lamps | more than | 20 per cent | | B6: | in the case of A2 |  |  | | one front fog lamp |  | 0 per cent | | one front fog lamp | more than | 30 per cent | |
+
+3.   REPEATED SAMPLING
+
+In the cases of A3, B2, B3 a repeated sampling, third sample C of two front fog lamps and fourth sample D of two front fog lamps, selected from stock manufactured after alignment, is necessary within two months’ time after the notification.
+
+3.1.   Conformity is not contested
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3.1.1. | Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced front fog lamps shall not be contested if the deviations of the measured values of the front fog lamps are:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | 3.1.1.1. | Sample C   |  |  |  |  | | --- | --- | --- | --- | | C1: | one front fog lamp |  | 0 per cent | | one front fog lamp | not more than | 20 per cent | | C2: | both front fog lamps | more than | 0 per cent | | but | not more than | 20 per cent | | Go to sample D |  |  | |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | 3.1.1.2. | Sample D   |  |  |  | | --- | --- | --- | | D1: | in the case of C2 |  | | both front fog lamps | 0 per cent | | |
+
+3.2.   Conformity is contested
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 3.2.1. | Following the sampling procedure shown in Figure 1 of this annex the conformity of mass-produced front fog lamps shall be contested and the manufacturer requested to make his production meet the requirements (alignment) if the deviations of the measured values of the front fog lamps are: Sample D   |  |  |  |  | | --- | --- | --- | --- | | D2: | in the case of C2 |  |  | | one front fog lamp | more than | 0 per cent | | but | not more than | 20 per cent | | one front fog lamp | not more than | 20 per cent | |
+
+3.3.   Approval withdrawn
+
+Conformity shall be contested and paragraph 12 applied if, following the sampling procedure in Figure 1 of this annex, the deviations of the measured values of the front fog lamps are:
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.3.1. | Sample C   |  |  |  |  | | --- | --- | --- | --- | | C3: | one front fog lamp | not more than | 20 per cent | | one front fog lamp | more than | 20 per cent | | C4: | both front fog lamps | more than | 20 per cent | |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.3.2. | Sample D   |  |  |  |  | | --- | --- | --- | --- | | D3: | in the case of C2 |  |  | | one front fog lamp | 0 or more than | 0 per cent | | one front fog lamp | more than | 20 per cent | |
+
+4.   CHANGE OF THE VERTICAL POSITION OF THE CUT-OFF LINE
+
+With respect to the verification of the change in vertical positions of the cut-off line under the influence of heat, the following procedure shall be applied:
+
+|  |  |
+| --- | --- |
+|  | One of the front fog lamps of sample A after sampling procedure in Figure 1 of this annex shall be tested according to the procedure described in paragraph 2.1 of Annex 5 after being subjected three consecutive times to the cycle described in paragraph 2.2.2 of Annex 5. |
+
+|  |  |
+| --- | --- |
+|  | The front fog lamp shall be considered as acceptable if Δr does not exceed 3,0 mrad. |
+
+|  |  |
+| --- | --- |
+|  | If this value exceeds 3,0 mrad but is not more than 4,0 mrad, the second front fog lamp of sample A shall be subjected to the test after which the mean of the absolute values recorded in both samples shall not exceed 3,0 mrad. |
+
+|  |  |
+| --- | --- |
+|  | However, if this value of 3,0 mrad on sample A is not complied with, the two front fog lamps of sample B shall be subjected to the same procedure and the value of Δr for each of them shall not exceed 3,0 mrad. |
+
+Figure 1
+
+*[Figure omitted — see the official source]*
+
+Possible results on sample A
+
+2 devices
+
+First Sampling
+
+4 devices selected at random split into samples A&B
+
+2 devices
+
+END
+
+go over to sample B
+
+END
+
+Alignment
+
+Manufacturer is ordered to bring the products in line with the requirements
+
+2 devices
+
+Repeated sampling
+
+4 devices selected at random split into samples C&D
+
+2 devices
+
+END
+
+go over to sample D
+
+Possible results on
+
+Possible results on sample B
+
+Poss. results on sample C
+
+END
+
+go to alignment
+
+Approval withdrawn
+
+Maximum deviation [per cent] in the unfavourable direction in relation to the limit values
+
+---
+
+ANNEX 9
+
+DEFINITION AND SHARPNESS OF THE CUT-OFF LINE AND AIMING PROCEDURE BY MEANS OF THIS CUT-OFF LINE FOR CLASS ‘F3’ FRONT FOG LAMPS
+
+1.   GENERAL
+
+The luminous intensity distribution of the front fog lamp shall incorporate a cut-off line that enables the front fog lamp to be adjusted correctly for the photometric measurements and for the aiming on the vehicle. The characteristics of the cut-off line shall comply with the requirements set out in paragraphs 2 to 4.
+
+2.   SHAPE OF THE CUT-OFF LINE
+
+For visual adjustment of the front fog beam the cut-off line shall provide: a horizontal line for vertical adjustment of the front fog lamp extending to 4° either side of the v-v line (see Figure 1).
+
+Figure 1
+
+Shape and position of the ‘cut-off’ line
+
+*[Figure omitted — see the official source]*
+
+3.   ADJUSTMENT OF THE FRONT FOG LAMP
+
+3.1.   Horizontal adjustment
+
+The cut-off line shall be so positioned that the projected beam pattern appears approximately symmetrical to the v-v line. When the front fog lamp is designed for use in pairs or has otherwise an asymmetric beam pattern, it shall be horizontally aligned according to the specification of the applicant, or otherwise in such a way that the cut-off line appears symmetrical to the v-v line.
+
+3.2.   Vertical adjustment
+
+After horizontal adjustment of the front fog beam according to paragraph 3.1, the vertical adjustment shall be performed in such a way that the cut-off line is moved upwards from the lower position until it is situated on the v-v line at 1° below the h-h line. If the horizontal part is not straight but slightly curved or inclined, the cut-off line shall not exceed the vertical range formed by two horizontal lines which are situated between 3° left and right of the v-v line at 0,2° above and below the nominal position of the cut-off (see Figure 1).
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3.2.1. | When the vertical positions of three attempts to adjust the cut-off differ by more than 0,2°, the horizontal part of the cut-off line is assumed not to provide sufficient linearity or sharpness for performing visual adjustment. In this case the quality of cut-off shall be tested instrumentally for compliance with requirements as follows. |
+
+4.   MEASUREMENT OF THE QUALITY OF CUT-OFF
+
+4.1.   Measurements shall be performed by vertically scanning through the horizontal part of the cut-off line in angular steps not exceeding 0,05°.
+
+At either a measurement distance of 10 m and a detector with a diameter of approximately 10 mm.
+
+Or at a measurement distance of 25 m and a detector with a diameter of approximately 30 mm.
+
+The measurement of the cut-off quality shall be considered acceptable if the requirements of the paragraphs 4.1.1 to 4.1.3 of this annex shall comply with at least one measurement at 10 m or 25 m.
+
+The measuring distance at which the test was determined shall be recorded in paragraph 9 of the communication form in Annex 2 of this Regulation.
+
+The scanning is performed from downwards upwards through the cut-off line along the vertical lines at – 2,5° and + 2,5° from the v-v line. When so measured, the quality of the cut-off line shall meet the following requirements:
+
+4.1.1.   Not more than one cut-off line shall be visible.
+
+4.1.2.   Sharpness of cut-off:
+
+If scanned vertically through the horizontal part of the cut-off line along vertical lines at ± 1° from the v-v line, the maximum value measured for the sharpness factor G of the cut-off line shall not be less than 0,08 where:
+
+*[Figure omitted — see the official source]*
+
+4.1.3.   Linearity
+
+The part of the cut-off line which serves vertical adjustment shall be horizontal from 3° left to 3° right of the v-v line. This requirement is satisfied, if the vertical positions of the inflection points according to paragraph 3.2 at 3° left and right of the v-v line do not deviate by more than ± 0,20°.
+
+5.   INSTRUMENTAL VERTICAL ADJUSTMENT
+
+If the cut-off line complies with the above quality requirements, the vertical beam adjustment can be performed instrumentally. For this purpose the inflection point where d2 (log E)/dv2 = 0 is positioned on the v-v line and below the h-h line. The movement for measuring and adjusting the cut-off line shall be upwards from below the nominal position.
+
+---
+
+ANNEX 10
+
+OVERVIEW OF OPERATIONAL PERIODS CONCERNING TESTS FOR THE STABILITY OF PHOTOMETRIC PERFORMANCE
+
+|  |  |  |
+| --- | --- | --- |
+| Abbreviations | : | P: passing beam lamp  D: driving beam lamp (D1 + D2 means two driving beams)  F: front fog lamp |
+
+All following grouped headlamps and front fog lamps together with the added marking symbols are given as examples and are not exhaustive.
+
+|  |  |
+| --- | --- |
+| Image 31 | : means a cycle of 15 minutes off and 5 minutes lit. |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  | | --- | --- | | 1. | P or D or F (HC or HR or B or F3) | | Image 32 |
+| |  |  | | --- | --- | | 2. | P+F (HC B or F3) | | Image 33 |
+| |  |  | | --- | --- | | 3. | P+F (HC B or F3/) or HC/B or F3 | | Image 34 |
+| |  |  | | --- | --- | | 4. | D+F (HR B or F3) or D1+D2+F (HR B or F3) | | Image 35 |
+| |  |  | | --- | --- | | 5. | D+F (HR B or F3/) or D1+D2+F (HR B or F3/) | | Image 36 |
+| |  |  | | --- | --- | | 6. | P+D+F (HCR B or F3) or P+D1+D2+F (HCR HR B or F3) | | Image 37 |
+| |  |  | | --- | --- | | 7. | P+D+F (HC/R B or F3) or P+D1+D2+F (HC/R HR B or F3) | | Image 38 |
+| |  |  | | --- | --- | | 8. | P+D+F (HCR B or F3/) or P+D1+D2+F (HCR HR B or F3/) | | Image 39 |
+| |  |  | | --- | --- | | 9. | P+D+F (HC/R B or F3/) or P+D1+D2+F (HC/R HR B or F3/) | | Image 40 |
+
+---
+
+ANNEX 11
+
+CENTRE OF REFERENCE
+
+*[Figure omitted — see the official source]*
+
+This optional mark of the centre of reference shall be positioned on the lens at its intersection with the reference axis of the front fog lamp.
+
+The above drawing represents the mark of the centre of reference as projected on a plane substantially tangential to the lens about the centre of the circle. The lines constituting this mark may either be solid or dotted.
+
+---
+
+ANNEX 12
+
+REQUIREMENTS IN CASE OF USE OF LED MODULE(S) OR OF LIGHT-GENERATORS
+
+1.   GENERAL SPECIFICATIONS
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.1. | Each LED module or light-generator sample submitted shall conform to the relevant specifications of this Regulation when tested with the electronic light source control-gear(s) supplied, if any. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.2. | LED modules or light-generators shall be so designed as to be, and to remain in good working order when in normal use. They shall moreover exhibit no fault in design or manufacture. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1.3. | LED modules or light-generators shall be tamperproof. |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 1.4. | The design of removable LED modules shall be such that:  |  |  | | --- | --- | | 1.4.1. | After removal and replacement of the module the photometric requirements of the headlamp shall still be met; |  |  |  | | --- | --- | | 1.4.2. | Non-identical LED modules within the same lamp housing cannot be interchanged. | |
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1.5. | In the case of LED modules:  |  |  | | --- | --- | | 1.5.1. | The geometric position and dimensions of the elements for optical radiation and shielding, if any, shall be as indicated on the submitted data sheet. |  |  |  | | --- | --- | | 1.5.2. | The measurement shall be made using optical methods through the transparent envelope, after ageing with the light source supplied by the electronic light source control-gear at test voltage. |  |  |  | | --- | --- | | 1.5.3. | The position and dimension and transmission of the stripes or shields, if any, shall be as indicated on the submitted data sheet. | |
+
+2.   MANUFACTURE
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2.1. | The transparent envelope (e.g. bulb) of the light source shall exhibit no marks or spots, which might impair their efficiency and their optical performance. |
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2.2. | In case of LED modules or light-generator(s):  |  |  | | --- | --- | | 2.2.1. | The LED(s) on the LED module shall be equipped with suitable fixation elements. |  |  |  | | --- | --- | | 2.2.2. | The fixation elements shall be strong and firmly secured to the light source(s) and the LED module. |  |  |  | | --- | --- | | 2.2.3. | The light source in the light generator shall be equipped with suitable fixation elements. |  |  |  | | --- | --- | | 2.2.4. | The fixation elements shall be strong and firmly secured to the light source(s) and the light generator. | |
+
+3.   TEST CONDITIONS
+
+3.1.   Application and relaxation
+
+3.1.1.   All samples shall be tested as specified in paragraph 4.
+
+3.1.2.   The type of light sources shall be as defined in Regulation No 48 paragraph 2.7.1, in particular with regard to the element of visible radiation. Other types of light sources are not permitted.
+
+3.1.3.   Operating conditions
+
+LED module or light-generator operating conditions:
+
+|  |  |
+| --- | --- |
+| 3.1.3.1. | All samples shall be tested under the conditions as specified in paragraph 6.4.1.4 of this Regulation. |
+
+|  |  |
+| --- | --- |
+| 3.1.3.2. | If not specified differently in this annex, LED modules or light-generators shall be tested inside the front fog lamp as submitted by the manufacturer. |
+
+3.1.4.   Ambient temperature
+
+For the measurement of electrical and photometric characteristics, the front fog lamp shall be operated in dry and still atmosphere at an ambient temperature of 23 °C ± 5 °C.
+
+3.1.5.   In case of light-generators:
+
+3.1.5.1.   Power supply
+
+The power supply used for the starting and run-up tests shall be sufficient to secure the quick rise of the high current pulse.
+
+3.1.5.2.   Burning position
+
+The burning position shall be as indicated by the applicant. Ageing and testing positions shall be identical. If the lamp is accidentally operated in the wrong direction, it shall be re-aged before measurements begin. During ageing and measurements no electrically conducting objects shall be allowed within a space as indicated by the applicant. Moreover stray magnetic fields shall be avoided.
+
+3.2.   Ageing
+
+3.2.1.   LED modules or light-generators shall be aged.
+
+3.2.2.   The tests below shall be carried out after ageing with the LED module(s) or light-generator(s) supplied by the submitted electronic light source control-gear at test voltage.
+
+3.2.3.   LED module(s)
+
+Upon the request of the applicant the LED module shall be operated for 15 h and cooled down to ambient temperature before starting the tests as specified in this Regulation.
+
+3.2.4.   Filament lamps
+
+Filament lamps shall first be aged at their test voltage for approximately one hour. For dual-filament lamps, each filament shall be aged separately.
+
+3.2.5.   Gas discharge light sources
+
+With the exception of the starting test, all tests shall be carried out with light sources which have been aged for a minimum of 15 cycles having the following switching cycle: 45 minutes on, 15 seconds off, 5 minutes on, 10 minutes off.
+
+4.   SPECIFIC TESTS
+
+Filament lamps approved according to Regulation No 37, gas-discharge light sources approved according to Regulation No 99 and LED modules are exempted from the tests indicated in paragraphs 4.3.1 and 4.3.2 below.
+
+4.2.   Gas discharge light sources
+
+The starting test shall be applied to light sources which have not been aged and have not been used for a period of at least 24 hours prior to the test. The light source shall start directly and remain alight.
+
+4.3.   Run-up
+
+4.3.1.   Filament lamps are exempted from this test.
+
+4.3.2.   Gas discharge light sources
+
+The run-up test shall be applied to light sources which have not been used for a period of at least 1 hour prior to the test. The front fog lamp shall reach at least in the point 0°, 2,5°D on the line 6 a luminous intensity:
+
+|  |  |
+| --- | --- |
+|  | After 1 second: 25 per cent of its objective luminous flux; |
+
+|  |  |
+| --- | --- |
+|  | After 4 seconds: 80 per cent of its objective luminous flux. |
+
+|  |  |
+| --- | --- |
+|  | The objective luminous flux is indicated on the submitted data sheet. |
+
+4.4.   Hot re-strike
+
+4.4.1.   Filament lamps are exempted from this test.
+
+4.4.2.   Gas discharge light sources
+
+The light source shall be started and be operated with the electronic light source control-gear at test voltage for a period of 15 minutes. The supply voltage to the electronic light source control-gear shall then be switched off for a period of 10 seconds, and be switched on again. The light source shall restart directly after being switched-off for a period of 10 seconds. After one second the light source shall emit at least 80 per cent of its objective luminous flux.
+
+4.5.   Colour rendering
+
+4.5.1.   Red content
+
+The minimum red content of the light of a LED module or light-generator shall be such that:
+
+*[Figure omitted — see the official source]*
+
+where:
+
+|  |  |
+| --- | --- |
+| Ee (λ) (unit: W) | is the spectral distribution of the irradiance; |
+| V(λ) (unit: 1) | is the spectral luminous efficiency; |
+| λ (unit: nm) | is the wavelength. |
+
+This value shall be calculated using intervals of one nanometre.
+
+4.6.   UV-radiation
+
+The UV-radiation of the LED module or light-generator shall be such that:
+
+*[Figure omitted — see the official source]*
+
+where:
+
+|  |  |
+| --- | --- |
+| S(λ)(unit: 1) | is the spectral weighting function; |
+| km = | 683 lm/W is the maximum value of the luminous efficacy of radiation; |
+
+(For definitions of the other symbols see paragraph 4.5.1)
+
+This value shall be calculated using intervals of one nanometre. The UV-radiation shall be weighted according to the values as indicated in the UV table below.
+
+UV Table
+
+|  |  |
+| --- | --- |
+| λ | S(λ) |
+| 250 | 0,430 |
+| 255 | 0,520 |
+| 260 | 0,650 |
+| 265 | 0,810 |
+| 270 | 1,000 |
+| 275 | 0,960 |
+| 280 | 0,880 |
+| 285 | 0,770 |
+| 290 | 0,640 |
+| 295 | 0,540 |
+| 300 | 0,300 |
+| 305 | 0,060 |
+| 310 | 0,015 |
+| 315 | 0,003 |
+| 320 | 0,001 |
+| 325 | 0,00050 |
+| 330 | 0,00041 |
+| 335 | 0,00034 |
+| 340 | 0,00028 |
+| 345 | 0,00024 |
+| 350 | 0,00020 |
+|  |  |
+| 355 | 0,00016 |
+| 360 | 0,00013 |
+| 365 | 0,00011 |
+| 370 | 0,00009 |
+| 375 | 0,000077 |
+| 380 | 0,000064 |
+| 385 | 0,000530 |
+| 390 | 0,000044 |
+| 395 | 0,000036 |
+| 400 | 0,000030 |
+|  |  |
+
+Values according to ‘IRPA/INIRC Guidelines on limits of exposure to ultraviolet radiation’. Wavelengths (in nanometres) chosen are representative; other values should be interpolated.
+
+4.7.   Temperature stability
+
+4.7.1.   Luminous intensity
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.7.1.1. | Filament lamps and gas discharge light sources are exempted from this test. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.7.1.2. | A photometric measurement shall be made after 1 minute of operation with the device at room temperature. The test point to be measured is horizontal 0° vertical 2,5°D. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.7.1.3. | The lamp shall continue operation until photometric stability has occurred. The moment at which the photometry is stable is defined as the point in time at which the variation of the photometric value is less than 3 per cent within any 15-minute period. After stability has occurred, aiming for complete photometry shall be performed in accordance with requirements of the specific device. Photometry at all test points is required for the specific device. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.7.1.4. | Calculate the ratio between the photometric test point values determined in paragraph 4.7.1.2 and the values determined in paragraph 4.7.1.3 once stability of photometry has been achieved. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.7.1.5. | Apply the ratio calculated in paragraph 4.7.1.4 to each of the remainder of the test points to create a new photometric table that describes the complete photometry based on 1 minute of operation. |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 4.7.1.6. | The illuminance values measured after one minute and until photometric stability has occurred, shall comply with the minimum and maximum requirements. |
+
+4.7.2.   Colour
+
+The colour of the light emitted, measured after 1 minute and measured after 30 minutes of operation, shall be within the required colour boundaries in both instances.
+
+---

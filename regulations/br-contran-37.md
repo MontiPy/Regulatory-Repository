@@ -1,42 +1,26 @@
 ---
 citation: CONTRAN 37/1998
-commodities:
-- Lighting modules
-- Wiring
-- ECUs
-- Infotainment
+commodities: []
 id: br-contran-37
 last_pulled: '2026-06-01T18:53:17+00:00'
-open_tags:
-- instrument cluster
-- dashboard controls
-- control identification
-- illuminated controls
-- symbol marking
-- indicator lights
-- control labeling
-- human-machine interface
-- interior lighting
-- switch identification
+open_tags: []
 region: BR
 source_api: brazil
 source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
 status: in-force
-summary: Vehicle control identification and lighting in Brazil is governed by this
-  regulation, which establishes requirements through the country's vehicle type-approval
-  process administered by the relevant certification authority.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: c0fe0c8e8ac1ca829d182a1348daef6d684cd97c
+summary: 'CONTRAN Resolution 37/1998 sets rules for anti-theft sound alarms and other
+  security accessories under Art. 229 of the Brazilian Traffic Code: alarms must not
+  imitate emergency-vehicle sounds, must not sound continuously for more than one
+  minute, and must not compromise vehicle safety.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: aad73158232aa00c04bdc1fc2aacbe4523cc9df5
 systems:
-- Tell-tales & controls
-- Lighting & signaling
+- Theft prevention
+- Noise
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
-title: Identification and Lighting of Controls
+title: Anti-theft sound alarms and security accessories
 translation_status: untranslated
-un_equivalent_ai:
-- UN R121
-- UN R48
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -46,10 +30,6 @@ vehicle_categories:
 - Trailer
 ---
 
-# Identification and Lighting of Controls
+# Anti-theft sound alarms and security accessories
 
-**Citation:** CONTRAN 37/1998
-
-**Source:** [https://www.atic-ts.com/brazilian-whole-vehicle-certfication/](https://www.atic-ts.com/brazilian-whole-vehicle-certfication/)
-
-This regulation is administered through Brazil's vehicle type-approval process. Full text is accessible via the official certification body (ATIC) or SENATRAN resolution archive.
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

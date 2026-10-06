@@ -26,9 +26,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.138
 status: in-force
 summary: Tire pressure monitoring systems (TPMS) on passenger cars, multipurpose passenger
   vehicles, trucks, and buses with a gross vehicle weight rating of 10,000 pounds
-  or less are regulated by this standard. It requires these vehicles to be equipped
-  with a TPMS that illuminates a dashboard warning telltale within 20 minutes...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  or less are regulated by this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e7bce0e4b1c08d02709ec3e5e18c9c59f5c604c3
 systems:
 - Tires & wheels
@@ -37,8 +36,6 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.138 Standard No. 138; Tire pressure monitoring systems.
-un_equivalent_ai:
-- UN R141
 vehicle_categories:
 - Passenger car
 - Light truck

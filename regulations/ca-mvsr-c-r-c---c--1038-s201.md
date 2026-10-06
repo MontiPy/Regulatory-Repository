@@ -24,21 +24,20 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Instrument panel head impact protection for passenger cars and light-duty
-  trucks, vans, and buses (GVWR ≤ 4,536 kg) is regulated, requiring that instrument
-  panels within the defined head impact area decelerate a standardized head form to
-  no more than 80 g continuously for more than 3 milliseconds when struck at...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Section 201 of Canada's Motor Vehicle Safety Regulations applies to passenger
+  cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4
+  536 kg or less. It requires the instrument panel within the head impact area to
+  decelerate a 6.8 kg head form no more than 80 g continuously for over 3 ms, when
+  struck at 19.3 km/h (with an air bag and Type 2 belt at the right front seat) or
+  24 km/h otherwise. The test follows SAE J921b.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c7e9ec39a627047ab5d9e8f6294ef4489a324e07
 systems:
 - Crashworthiness
 - Restraints
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 201
-un_equivalent_ai:
-- UN R21
-- UN R94
+title: MVSR s. 201 — Occupant Protection in Interior Impact
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -25,9 +25,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.227
 status: in-force
 summary: Bus rollover structural integrity for over-the-road buses and heavy non-over-the-road
   buses (GVWR over 26,000 lbs), excluding school buses, transit buses, and prison
-  buses, is regulated by this standard. It requires that during a rollover test, the
-  bus body structure must not intrude into the defined occupant survival...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  buses, is regulated by this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 260c9274b0e3e15254cb184b36e4036f92f30457
 systems:
 - Crashworthiness

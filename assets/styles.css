@@ -1305,3 +1305,6 @@ html[data-theme="dark"] .regime-recognition { background: rgba(60,170,170,0.18);
 }
 .mk-sub { display: block; margin-top: -4px; font-family: var(--font-sans); font-size: 12px; font-weight: 400; color: var(--fg-3); line-height: var(--lh-snug); }
 .mp-sub { margin: -4px 0 10px; color: var(--fg-3); font-size: var(--text-small); }
+.reader-trust-chip.status-note { color: var(--warn); background: var(--warn-bg); border-color: transparent; }
+.card-status-note { display: block; margin-top: 4px; font-size: 11px; color: var(--warn); }
+.kind-badge { color: var(--warn); background: var(--warn-bg); border-color: transparent; }

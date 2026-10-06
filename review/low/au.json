@@ -1,0 +1,31 @@
+{
+  "group": "au",
+  "patches": {
+    "au-f2005l03991": {"un_equivalent_ai": [], "_why": "R148 specifies signalling devices not their installation; R48 already in un_equivalent"},
+    "au-f2006l02302": {"un_equivalent_ai": [], "_why": "R112/R113 are car headlamp regs; ADR 55 body/summary maps R57/R72, already in un_equivalent"},
+    "au-f2006l02303": {"un_equivalent_ai": [], "_why": "R48 does not apply to L-category; R50 already in un_equivalent; R6 is M/N-category indicator reg"},
+    "au-f2009l03609": {"systems": ["Crashworthiness"], "_why": "front underrun protection protects occupants of other vehicles, not pedestrians"},
+    "au-f2018l01519": {"systems": ["Crashworthiness"], "summary": "ADR 91/00 is the Australian Design Rule for rear underrun impact protection on road vehicles. It was made under the Motor Vehicle Standards Act 1989 and continues in force as a national road vehicle standard under the Road Vehicle Standards Act 2018.", "_why": "summary was AI meta-comment truncated with '...'; pedestrian tag unsupported for rear underrun; wording from body header"},
+    "au-f2024l00443": {"un_equivalent_ai": [], "_why": "R168 (RDE) belongs to ADR 112/00; R83 and R49 already in un_equivalent"},
+    "au-f2024l00446": {"un_equivalent_ai": ["UN R83"], "_why": "R168 (RDE) belongs to ADR 112/00; R154 already in un_equivalent"},
+    "au-workbook-reg-0372-australian-road-vehicle-recall-framework": {"citation": "Road Vehicle Standards Act 2018 (recall provisions); Competition and Consumer Act 2010 Sch 2 (Australian Consumer Law) recall rules", "summary": "Road vehicles and components supplied in Australia that have safety defects or noncompliances are subject to recall requirements. Suppliers must identify the affected vehicle population, notify owners, provide dealer remedy instructions and report to the regulator.", "_why": "citation was a descriptive name, not an instrument; summary was cut off with '...'"},
+    "au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma": {"un_equivalent_ai": [], "summary": "In-vehicle radio devices supplied in Australia, including telematics, keyless entry, Bluetooth/Wi-Fi/cellular modules, radar and tire-pressure sensors, must comply with spectrum, EMC and equipment approval requirements under the Radiocommunications Equipment (General) Rules 2021 administered by the ACMA.", "_why": "ACMA radio rules are not equivalent to UN R10 vehicle EMC; summary was cut off with '...'"}
+  },
+  "skipped": [
+    {"id": "au-f2005l03523", "field": "commodities", "reason": "already fixed (Horn removed; systems only Noise)"},
+    {"id": "au-f2005l03523", "field": "summary", "reason": "already fixed (rewritten from body)"},
+    {"id": "au-f2006l01392", "field": "un_equivalent_ai", "reason": "low confidence, no body evidence; Infotainment already removed; R39 already in un_equivalent"},
+    {"id": "au-f2006l02298", "field": "systems", "reason": "already fixed (Braking, Lighting & signaling; EMC removed)"},
+    {"id": "au-f2006l02305", "field": "summary", "reason": "unverifiable and not wrong; no style-only rewrite"},
+    {"id": "au-f2007l02226", "field": "systems", "reason": "no suitable taxonomy value for couplings; leave empty"},
+    {"id": "au-f2008l02387", "field": "un_equivalent_ai", "reason": "already fixed (R79 removed; R12 in un_equivalent)"},
+    {"id": "au-f2012l00703", "field": "status", "reason": "unverifiable; Federal Register lists ADR 34/02 as In force"},
+    {"id": "au-f2018l01521", "field": "summary", "reason": "already fixed"},
+    {"id": "au-f2019l00026", "field": "vehicle_categories", "reason": "low confidence; summary says ADR 4/06 applies to LEP/LEG L-category vehicles, so Motorcycle is supported"},
+    {"id": "au-f2020l01254", "field": "commodities", "reason": "low confidence, no clear taxonomy fit"},
+    {"id": "au-f2022l00211", "field": "un_equivalent_ai", "reason": "already fixed (UN R131 in un_equivalent)"},
+    {"id": "au-f2023l00129", "field": "un_equivalent_ai", "reason": "already fixed (UN R49 in un_equivalent)"},
+    {"id": "au-f2024l01742", "field": "un_equivalent_ai", "reason": "already fixed in part (R80 present); R66 add is low confidence"},
+    {"id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024", "field": "un_equivalent_ai", "reason": "already fixed (now [])"}
+  ]
+}

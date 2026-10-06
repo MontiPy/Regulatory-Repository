@@ -21,11 +21,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Electrical equipment on motor vehicles must meet standards requiring all
-  wiring to be covered with insulating material and secured to the body, interior
-  terminals and switches to be insulated, and batteries to be firmly mounted against
-  vibration and shock, with any battery located inside the passenger compartment also...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 'Sets basic requirements for motor vehicle electrical equipment: all wiring
+  must be insulated and fixed to the body, terminals and switches inside the passenger
+  compartment must be insulated, and the battery must be fixed against vibration and
+  shock, with insulation over any battery inside the passenger compartment.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7e1fb9aaaf3365e5082a42ccc24e5a7f77a514ff
 systems:
 - Battery safety
@@ -34,8 +34,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 18 — Electrical Equipment
 translation_status: translated
-un_equivalent_ai:
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -2,8 +2,6 @@
 citation: 49 CFR §571.108
 commodities:
 - Lighting modules
-- ADAS sensors
-- Mirrors
 - Wiring
 id: us-fmvss-108
 last_pulled: '2026-06-01T18:38:42+00:00'
@@ -26,9 +24,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.108
 status: in-force
 summary: Lamps, reflective devices, and associated equipment on passenger cars, multipurpose
   passenger vehicles, trucks, buses, trailers, and motorcycles are regulated by this
-  standard, covering both original and replacement equipment. It requires that these
-  lighting components provide adequate roadway illumination and enhance...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  standard, covering both original and replacement equipment.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 55ada2fa9ade75fd653b5d4f4f74b88f5fa8002f
 systems:
 - Lighting & signaling
@@ -37,9 +34,6 @@ systems:
 tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: § 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.
-un_equivalent_ai:
-- UN R48
-- UN R150
 vehicle_categories:
 - Passenger car
 - Light truck

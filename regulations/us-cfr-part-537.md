@@ -16,19 +16,17 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-537
 status: in-force
-summary: Automobile manufacturers' fuel economy reporting obligations to NHTSA are
-  regulated here, requiring each manufacturer to submit pre-model year reports (in
-  December), mid-model year reports (in July), and any required supplementary reports
-  for each model year, detailing their plans and progress toward meeting average...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 49 CFR Part 537 requires automobile manufacturers to submit fuel economy
+  reports to NHTSA about their plans and efforts to meet average fuel economy standards.
+  It applies to automobile manufacturers except those subject to an alternate standard
+  under 49 U.S.C. 32902(d), and the reports support NHTSA's evaluation of compliance
+  plans and its annual standards review.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5c3c5e736f1c374aea94cf64b49972c1081044a0
 systems: []
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 537—AUTOMOTIVE FUEL ECONOMY REPORTS
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Passenger car
 - Light truck

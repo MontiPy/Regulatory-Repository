@@ -19,9 +19,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Speedometers installed in motor vehicles must display speed within the driver's
   direct field of view, readable day and night, with a range covering the vehicle's
-  maximum speed and scale graduations in specified intervals. At speeds of 25 km/h
-  or more, the indicated speed must not fall below actual speed and may not...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  maximum speed and scale graduations in specified intervals.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 46050c7d81aa4906f7f69949d8886d962bf55d59
 systems:
 - Tell-tales & controls
@@ -29,8 +28,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 110 — Speedometer
 translation_status: translated
-un_equivalent_ai:
-- UN R39
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -24,9 +24,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.225
 status: in-force
 summary: Child restraint anchorage systems in passenger cars, light trucks, multipurpose
   passenger vehicles (GVWR ≤ 8,500 lbs), and smaller buses (GVWR ≤ 10,000 lbs) are
-  regulated by this standard. It requires vehicles to be equipped with properly located,
-  marked, and structurally strong lower anchorages and tether anchorages...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  regulated by this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a2e4ac80d8f190fe75f917e8d598659e623c43e6
 systems:
 - Restraints
@@ -34,9 +33,6 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.225 Standard No. 225; Child restraint anchorage systems.
-un_equivalent_ai:
-- UN R145
-- UN R129
 vehicle_categories:
 - Passenger car
 - Light truck

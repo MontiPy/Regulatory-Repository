@@ -20,8 +20,8 @@ status: in-force
 summary: Front seats (excluding middle seats) of passenger cars, vans, trucks, and
   special-purpose vehicles with a gross vehicle weight of 4.5 tonnes or less must
   be equipped with head restraints capable of reducing impact to the occupant's head
-  in a rear collision. Ultra-compact vehicles and towed vehicles are excluded from...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  in a rear collision.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e991f40fc23d74f11cabfddc15929512d028a76a
 systems:
 - Restraints
@@ -30,9 +30,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 26 — Head Restraints
 translation_status: translated
-un_equivalent_ai:
-- UN R25
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

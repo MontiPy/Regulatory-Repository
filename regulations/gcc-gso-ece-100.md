@@ -3,9 +3,6 @@ citation: GSO-ECE 100
 commodities:
 - Batteries
 - Electric motors
-- Fuel system
-- Fuel tanks
-- Hoses & lines
 - Connectors
 - Power electronics
 - Wiring
@@ -31,27 +28,20 @@ source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
 summary: GSO-ECE 100 covers electrical and high-voltage safety for electric and hybrid
-  electric vehicles in the GCC region. It requires protection against fire, explosion,
-  electric shock, and hazardous leakage across fuel systems, high-voltage batteries,
-  contactors, inverters, and related components during normal use, abuse,...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  electric vehicles in the GCC region.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d28e5da6f1ea269aa06f799625217ca648b7dd4a
 systems:
 - Battery safety
-- Fuel safety
 - EV charging
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Electric Powertrain Safety
 translation_status: untranslated
-un_equivalent_ai:
-- UN R100
-- UN R34
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 ---
 

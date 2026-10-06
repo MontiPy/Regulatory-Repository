@@ -22,8 +22,7 @@ status: in-force
 summary: Head restraints on motor vehicles regulate the driver's seat and seats parallel
   to it, requiring them to be fitted with head restraints (with specified exclusions
   for heavy vehicles, two-wheelers, special-use vehicles, and low-speed vehicles).
-  All such restraints must meet ministerial standards to effectively limit...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5611bd1bb4ba56ade0e316ea3ce4356ac06e35cd
 systems:
 - Restraints
@@ -32,9 +31,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 22_4 — Head Restraints
 translation_status: translated
-un_equivalent_ai:
-- UN R25
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

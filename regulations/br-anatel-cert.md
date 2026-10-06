@@ -31,14 +31,11 @@ summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 9f44a6eead050f55b855659b4e72b61373810cf5
 systems:
 - EMC
-- Cybersecurity
+- Radio & telecom
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Brazil Telecommunications Product Certification and Homologation
 translation_status: untranslated
-un_equivalent_ai:
-- UN R10
-- UN R155
 vehicle_categories: []
 ---
 

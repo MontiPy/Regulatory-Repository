@@ -5,6 +5,7 @@ commodities:
 - Wiring
 - Connectors
 - ADAS sensors
+- Telematics unit
 id: ece-r144
 last_pulled: '2026-06-01T18:53:05+00:00'
 open_tags:
@@ -30,9 +31,7 @@ summary: Accident emergency call systems in vehicles are the subject of this reg
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 5083b7cc337ca995db33bf77e1dacc72bf8ca7a8
 systems:
-- ADAS
-- Cybersecurity
-- On-board diagnostics
+- Emergency call (eCall)
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 144 — Accident Emergency Call Systems

@@ -1,5 +1,6 @@
 ---
-citation: Japan Vehicle Recall System
+citation: Road Transport Vehicle Act Art. 63-2 (recall notification) / Japan Vehicle
+  Recall System
 commodities: []
 id: jp-srrv-mlit-vehicle-recall-and-improvement-measures
 last_pulled: '2026-06-01T18:54:41+00:00'

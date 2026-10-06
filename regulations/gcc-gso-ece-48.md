@@ -27,9 +27,8 @@ source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_Tec
 status: in-force
 summary: GSO-ECE 48 governs the installation of lighting and light-signalling devices
   on vehicles in the GCC region, covering exterior lamps, reflectors, lighting ECUs,
-  and associated optics. It requires that vehicles be visible, clearly signal driver
-  intent, and provide adequate road illumination without causing glare, with...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  and associated optics.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 520080e82d4b739e0a275c79d7a502e9a259a38d
 systems:
 - Lighting & signaling
@@ -39,8 +38,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Installation of Lighting and Light-Signalling Devices
 translation_status: untranslated
-un_equivalent_ai:
-- UN R48
 vehicle_categories:
 - Passenger car
 - Light truck

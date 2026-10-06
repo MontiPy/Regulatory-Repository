@@ -19,20 +19,18 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-533
 status: in-force
+status_note: Standards reset by NHTSA SAFE Vehicles Rule III (FR 2026-19964, 30 Sep
+  2026, effective 30 Nov 2026); text here predates it — re-pull.
 summary: Light truck fuel economy standards require manufacturers of light trucks
   to meet minimum fleet average fuel economy levels, expressed in miles per gallon,
-  for each specified model year. The regulation sets out compliance options for combining
-  or separately meeting standards for 2-wheel and 4-wheel drive vehicles,...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  for each specified model year.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b6248da3e510e33466b669d6cd22adb1bc136e41
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: PART 533—LIGHT TRUCK FUEL ECONOMY STANDARDS
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Light truck
 ---

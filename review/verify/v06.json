@@ -1,0 +1,78 @@
+{
+ "group": "v06",
+ "patches": {
+  "ece-r153": {"_confirmed": true, "_why": "Scope: M1 (<=3500 kg) and N1, fuel system integrity and HV power train safety in rear-end collision"},
+  "ece-r155": {
+   "summary": "UN Regulation No. 155 sets uniform provisions for type approval of vehicles with regard to cyber security and the cyber security management system. It applies to vehicles of categories L, M, N and O fitted with at least one electronic control unit.",
+   "systems": ["Cybersecurity"],
+   "_why": "Scope 1.1 covers categories L, M, N, O with at least one ECU; text is cyber security, not ADAS/theft/OBD"
+  },
+  "ece-r156": {
+   "_confirmed": true,
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus", "Trailer", "Off-road"],
+   "_why": "Scope 1.1 covers categories M, N, O, R, S, T that permit software updates; L (motorcycle) not covered"
+  },
+  "ece-r157": {"_confirmed": true, "_why": "Scope 1.1: type approval of M1 vehicles with regard to Automated Lane Keeping Systems"},
+  "ece-r158": {
+   "summary": "UN Regulation No. 158 covers approval of reversing-safety devices (Part I) and of their installation in vehicles (Part II) for categories M and N, so that the driver is aware of vulnerable road users behind the vehicle when reversing. Entered into force 10 June 2021.",
+   "_why": "Title and scope 1.1/1.2: devices for reversing motion and vehicles of category M and N, driver awareness of vulnerable road users"
+  },
+  "ece-r159": {
+   "summary": "UN Regulation No. 159 covers approval of vehicles of categories M2, M3, N2 and N3 with regard to a Moving Off Information System that detects pedestrians and cyclists in the close-proximity forward blind spot, informs the driver and, depending on manufacturer strategy, warns of a potential collision.",
+   "vehicle_categories": ["Heavy truck", "Bus"],
+   "_why": "Scope 1.1: categories M2, M3, N2, N3 only; text defines the forward blind-spot MOIS"
+  },
+  "ece-r16": {
+   "summary": "UN Regulation No. 16 covers safety-belts, restraint systems, child restraint systems and ISOFIX/i-Size systems, and the installation of safety-belts, belt reminders and child restraints in vehicles. It applies to categories M, N, O, L2, L4-L7 and T, with child restraint installation for M1 and N1 (M2/M3 on request).",
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus", "Motorcycle", "Trailer", "Off-road"],
+   "_why": "Scope 1.1-1.5 lists categories M, N, O, L2, L4, L5, L6, L7, T and part I/II approvals"
+  },
+  "ece-r160": {
+   "summary": "UN Regulation No. 160 (01 series) covers approval of vehicles of categories M1 and N1 with regard to their Event Data Recorder (EDR), setting requirements for the recording and retention of crash-related vehicle data.",
+   "_why": "Scope 1.1: approval of M1 and N1 vehicles with regard to their Event Data Recorder"
+  },
+  "ece-r161": {"_confirmed": true, "_why": "Title and scope 1.1: M1/N1 devices against unauthorized use (locking system)"},
+  "ece-r162": {
+   "summary": "UN Regulation No. 162 covers approval of immobilizers and of vehicles with regard to a fitted immobilizer, primarily for category M1 vehicles and N1 vehicles with a maximum mass of 2 tonnes or less; other categories may be approved at the manufacturer's request.",
+   "vehicle_categories": ["Passenger car", "Light truck"],
+   "_why": "Scope 1.1-1.2: M1 and N1 (<=2 t) immobilizers; motorcycles not covered"
+  },
+  "ece-r163": {
+   "summary": "UN Regulation No. 163 covers approval of vehicle alarm systems and of vehicles with regard to a fitted vehicle alarm system, primarily for category M1 vehicles and N1 vehicles with a maximum mass of 2 tonnes or less; other categories may be approved at the manufacturer's request.",
+   "vehicle_categories": ["Passenger car", "Light truck"],
+   "_why": "Scope 1.1-1.2: M1 and N1 (<=2 t) alarm systems; motorcycle, bus, trailer not covered"
+  },
+  "ece-r168": {
+   "summary": "UN Regulation No. 168 covers type approval of light-duty vehicles with regard to real driving emissions (RDE): M1 vehicles up to 2,610 kg reference mass and M2/N1 vehicles up to 2,610 kg reference mass and 3,500 kg technically permissible maximum laden mass. Entered into force 26 March 2024.",
+   "_why": "Scope clause and title: M1, M2, N1 light-duty vehicles, real driving emissions"
+  },
+  "ece-r17": {"_confirmed": true, "_why": "Scope: seats, anchorages, head restraints for M1, N, M2, M3; rear seat-back and luggage protection for M1"},
+  "ece-r19": {
+   "summary": "UN Regulation No. 19 sets uniform provisions for the approval of power-driven vehicle front fog lamps. It applies to front fog lamps for vehicles of categories L3, L4, L5, L7, M, N and T (04 series, Supplement 6).",
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Motorcycle", "Bus", "Off-road"],
+   "_why": "Scope: front fog lamps for categories L3, L4, L5, L7, M, N, T; trailers (O) not listed"
+  },
+  "ece-r21": {
+   "_confirmed": true,
+   "vehicle_categories": ["Passenger car"],
+   "_why": "Scope 1.1 and 2.2: interior fittings of passenger cars (M1) only"
+  },
+  "ece-r23": {
+   "summary": "UN Regulation No. 23 sets uniform provisions for the approval of reversing and manoeuvring lamps for power-driven vehicles and their trailers, covering reversing lamps for vehicles of categories M, N, O and T.",
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Bus", "Trailer", "Off-road"],
+   "_why": "Scope (a): reversing lamps for categories M, N, O, T; L categories not listed"
+  },
+  "ece-r25": {"_confirmed": true, "_why": "Scope 1.1: head-restraint devices, including seat backs serving as head restraints"},
+  "ece-r26": {
+   "_confirmed": true,
+   "vehicle_categories": ["Passenger car"],
+   "_why": "Scope 1.1: external projections of category M1 vehicles; purpose 1.2 reduces injury to persons hit by bodywork"
+  },
+  "ece-r28": {
+   "_confirmed": true,
+   "vehicle_categories": ["Passenger car", "Light truck", "Heavy truck", "Motorcycle", "Bus"],
+   "_why": "Scope 1.1: audible warning devices for categories L3-L5, M, N; trailers not covered"
+  }
+ },
+ "skipped": []
+}

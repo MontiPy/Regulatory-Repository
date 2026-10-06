@@ -1,0 +1,179 @@
+{
+ "group": "kr",
+ "patches": {
+  "kr-kmvss-art103-2": {
+   "un_equivalent_ai": [
+    "UN R145"
+   ],
+   "_why": "Body is vehicle ISOFIX/CRS anchorage strength; R145 is the anchorage regulation, R44 is the child restraint itself"
+  },
+  "kr-kmvss-art111": {
+   "un_equivalent_ai": [
+    "UN R157"
+   ],
+   "_why": "Body only classifies ADS types; R155 (cyber security) not a counterpart"
+  },
+  "kr-kmvss-art111-2": {
+   "un_equivalent_ai": [
+    "UN R157"
+   ],
+   "_why": "Body only requires an ODD; R155 (cyber security) not a counterpart"
+  },
+  "kr-kmvss-art14-2": {
+   "un_equivalent_ai": [
+    "UN R130"
+   ],
+   "_why": "Body mandates lane departure warning system; UN R130 is LDWS"
+  },
+  "kr-kmvss-art15-3": {
+   "un_equivalent_ai": [
+    "UN R152",
+    "UN R131"
+   ],
+   "_why": "Body covers all motor vehicles incl. heavy vehicles; R131 is AEBS for heavy vehicles, R152 for M1/N1"
+  },
+  "kr-kmvss-art24": {
+   "un_equivalent_ai": [
+    "UN R125"
+   ],
+   "_why": "Body covers driver field of view and seat dimensions, not seat strength; R17 dropped"
+  },
+  "kr-kmvss-art25": {
+   "un_equivalent_ai": [],
+   "_why": "Body is seat dimensions/spacing; R17 is seat strength/anchorage"
+  },
+  "kr-kmvss-art34": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Trailer"
+   ],
+   "_why": "Art 34(1) windscreen/window material applies to any motor vehicle"
+  },
+  "kr-kmvss-art35": {
+   "un_equivalent_ai": [
+    "UN R51",
+    "UN R41"
+   ],
+   "_why": "Record covers motorcycles; UN R41 is motorcycle sound level, R51 covers M/N only"
+  },
+  "kr-kmvss-art36": {
+   "un_equivalent_ai": [
+    "UN R83",
+    "UN R168",
+    "UN R49",
+    "UN R40"
+   ],
+   "_why": "Record covers heavy vehicles and motorcycles; R49 heavy-duty engine emissions, R40 motorcycle emissions"
+  },
+  "kr-kmvss-art38": {
+   "un_equivalent_ai": [
+    "UN R112",
+    "UN R113",
+    "UN R123"
+   ],
+   "_why": "Body Art 38 covers adaptive headlamps (AFS), UN R123"
+  },
+  "kr-kmvss-art4": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus",
+    "Trailer"
+   ],
+   "_why": "Body: dimension limits apply to 'a motor vehicle' generally"
+  },
+  "kr-kmvss-art50": {
+   "un_equivalent_ai": [
+    "UN R46"
+   ],
+   "_why": "Art 50 is indirect vision (mirrors/CMS) = R46; R125 is forward field of vision"
+  },
+  "kr-kmvss-art53-2": {
+   "un_equivalent_ai": [
+    "UN R158"
+   ],
+   "_why": "Body is rear/reversing pedestrian safety; R159 is forward-looking MOIS"
+  },
+  "kr-kmvss-art56": {
+   "systems": [],
+   "_why": "Body is digital tachograph scope delegated to Traffic Safety Act; no OBD or vehicle identification content, no fitting taxonomy value"
+  },
+  "kr-kmvss-art89-2": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Heavy truck"
+   ],
+   "_why": "Body applies to LDWS installed under Art 14-2, whose record scope is passenger vehicles and trucks >3.5 t"
+  },
+  "kr-kmvss-art9": {
+   "un_equivalent_ai": [],
+   "_why": "Body is turning radius/swept circle geometry; R79 steering equipment is not a counterpart"
+  },
+  "kr-kmvss-art90-3": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "un_equivalent_ai": [
+    "UN R152",
+    "UN R131"
+   ],
+   "_why": "Body applies to motor vehicles incl. vans >3.5 t; R131 covers >3.5 t group, R152 the <=3.5 t group"
+  },
+  "kr-kmvss-art91-3": {
+   "systems": [
+    "Crashworthiness",
+    "Battery safety"
+   ],
+   "_why": "Body is HV system crash-test standard; nothing about charging"
+  },
+  "kr-kmvss-art93": {
+   "systems": [
+    "Crashworthiness"
+   ],
+   "_why": "Body only requires bumper per Table 11-6; no pedestrian-protection content"
+  },
+  "kr-kmvss-art95": {
+   "systems": [],
+   "_why": "Body is solely a burn-rate limit for interior materials; no crash/restraint content and no flammability taxonomy value"
+  },
+  "kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification": {
+   "summary": "Reference record for Korea's motor vehicle emissions certification and permissible emission standards under the Clean Air Conservation Act, covering exhaust and evaporative emission limits and on-board diagnostics for vehicles manufactured or imported into Korea. This repository does not hold the Korean legal text.",
+   "_why": "Old summary asserted fuel economy/CO2 specifics not backed by cited provisions and was truncated"
+  },
+  "kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise": {
+   "systems": [
+    "Noise"
+   ],
+   "_why": "Body is noise-only (Regulated Area: Noise / sound)"
+  },
+  "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles": {
+   "summary": "Reference record for Korea's Act on Resource Circulation of Electrical and Electronic Equipment and Vehicles, which addresses recycling and end-of-life treatment of vehicles sold in Korea. This repository does not hold the Act's text, so specific obligations are not summarised.",
+   "_why": "Old summary claimed restricted substances/recyclability standards unsupported by body (stub)"
+  }
+ },
+ "skipped": [
+  {
+   "id": "kr-kmvss-art18-5",
+   "field": "title",
+   "reason": "Body is only 'See source for full text'; real subject not determinable from the record"
+  },
+  {
+   "id": "kr-kmvss-art19",
+   "field": "systems",
+   "reason": "Side/rear underrun protection protects pedestrians dragged under wheels, so Pedestrian protection tag is defensible; finding not clearly right"
+  },
+  {
+   "id": "kr-kmvss-art89-2",
+   "field": "body",
+   "reason": "Body edits not permitted by brief"
+  }
+ ]
+}

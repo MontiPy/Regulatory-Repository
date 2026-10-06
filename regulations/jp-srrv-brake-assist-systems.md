@@ -27,9 +27,8 @@ source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 summary: Brake Assist Systems regulation covers active safety braking components —
   including foundation brakes, ABS/ESC, sensors, e-boosters, and brake controls —
-  for passenger and light vehicles. It requires that these systems ensure controllable
-  deceleration and stability under normal, failed, and emergency braking...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  for passenger and light vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 445c51dc55e2fa9a2e98dd6503e5390587b280f2
 systems:
 - Braking
@@ -38,9 +37,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Brake Assist Systems
 translation_status: translated
-un_equivalent_ai:
-- UN R139
-- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

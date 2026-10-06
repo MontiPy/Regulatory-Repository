@@ -1,0 +1,124 @@
+{
+ "shard": "mk-05",
+ "reviewed": [
+  "ASEAN-OTHER",
+  "AU",
+  "NZ",
+  "PACIFIC",
+  "EU",
+  "GB"
+ ],
+ "findings": [
+  {
+   "id": "AU",
+   "field": "records[5] (au-f2012l01123)",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "records list includes au-f2012l01123 (ADR 00/00, status in-force)",
+   "proposed": "Remove it or replace with the current ADR 00/xx; record is a superseded amendment (Amendment 6, 2012-2014)",
+   "evidence": "Record summary: 'Amendment 6, in force from 30 May 2012 to 18 March 2014'; precheck flags body 'No longer in force'. The market profile presents it as a current AU instrument.",
+   "evidence_url": "regulations/au-f2012l01123.md",
+   "confidence": "high"
+  },
+  {
+   "id": "AU",
+   "field": "marks[1]",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Identification plate no longer required post-RVSA - RAV entry replaces it",
+   "proposed": "Qualify: most vehicles use a secure vehicle identification marking (ADR 61/03) instead of a plate; trailers and some heavy vehicles still need a physical plate plus RAV record",
+   "evidence": "Search snippet: 'ADR 61/03 ... trailers will still be required to fit a metal plate'; 'Trailers and some heavy vehicles will require both a RAV record and a physical (vehicle) plate' (HVIA, 'RVSA in place but work still required').",
+   "evidence_url": "https://hvia.asn.au/rvsa-in-place-but-work-still-required/",
+   "confidence": "medium"
+  },
+  {
+   "id": "AU",
+   "field": "emissions",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Euro 6d-equivalent for new models from Dec 2025 (ADR 79/05 / ADR 111 / ADR 112 RDE)",
+   "proposed": "Add: all new light vehicles supplied from 1 July 2028 (ADR 79/05, 111/00, 112/00)",
+   "evidence": "'newly approved vehicle models supplied on or after 1 December 2025 and all vehicles supplied on or after 1 July 2028' (dept. infrastructure.gov.au ADR 79/05 guidance; ICCT).",
+   "evidence_url": "https://theicct.org/publication/australia-euro-6d-equivalent-emissions-standards-ldv-aug24/",
+   "confidence": "high"
+  },
+  {
+   "id": "AU",
+   "field": "watch[0]",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "ADR 98/02 (AEB incl. pedestrian/cyclist) ... ADR 107 (ELKS) ... ADR 114 (CO2 measurement)",
+   "proposed": "ADR 98/02 adds bicyclist detection only (pedestrian AEB is already in ADR 98/01); ADR 98/02 and 107/00 apply from 1 Mar 2028 (new models) / 1 Mar 2029 (all); ADR 114 covers vehicles >3.5 t GVM",
+   "evidence": "igarr: ADR 98/02 'prevent or mitigate collisions with bicyclists. It expands on earlier ADR provisions that already address ... pedestrians'; ... 'from 1 March 2028 for new model vehicles and from 1 March 2029 for all vehicles'. ADR 114: 'vehicles exceeding 3.5 tonnes GVM'.",
+   "evidence_url": "https://igarr.com/2026/04/07/australia-new-active-safety-system-requirements/",
+   "confidence": "medium"
+  },
+  {
+   "id": "NZ",
+   "field": "emissions",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Vehicle Exhaust Emissions Rule (Euro 6 / JP / US equivalents)",
+   "proposed": "Currently Euro 5 (new light vehicles); Euro 6d phased in from 1 Jul 2027 (new models) / 1 Jul 2028 (all light vehicles incl. used imports); heavy Euro VI-c from 1 Nov 2026",
+   "evidence": "'New Zealand currently accepts Euro 5 on new vehicles and Euro 4 on used vehicles'; 'Euro 6d will be required from July 1, 2027 [new models] ... July 1, 2028'. (Land Transport Rule: Vehicle Exhaust Emissions Amendment 2023)",
+   "evidence_url": "https://www.tuv.com/regulations-and-standards/en/new-zealand-euro-6-vi-consultation-document-draft-land-transport-rule-vehicle-exhaust-emissions-amendment-2023.html",
+   "confidence": "medium"
+  },
+  {
+   "id": "NZ",
+   "field": "authorities[1].scope",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "Ministry of Transport - Clean Car Standard (CO2)",
+   "proposed": "Likely: MoT is policy owner; NZTA administers/enforces the Clean Car Standard - consider adding to NZTA scope",
+   "evidence": "Could not obtain snippet confirming administration split; from general knowledge of the Land Transport (Clean Vehicle Standard) Regulations 2022.",
+   "evidence_url": "https://www.nzta.govt.nz",
+   "confidence": "low"
+  },
+  {
+   "id": "EU",
+   "field": "drive",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "LHD",
+   "proposed": "mixed (Ireland, Malta, Cyprus drive on the left / RHD market)",
+   "evidence": "EU members Ireland, Malta and Cyprus use left-hand traffic; the members list in the same profile includes Ireland (E24), Malta (E50), Cyprus (E49). GB profile drive is RHD, so field semantics distinguish the two.",
+   "evidence_url": "knowledge/markets/europe.yaml",
+   "confidence": "high"
+  },
+  {
+   "id": "EU",
+   "field": "emissions",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "100 % reduction target for 2035 under review",
+   "proposed": "State that the Commission proposed (COM(2025) 995, 16 Dec 2025) a 90 % target for cars in 2035; proposal also repeals Dir. 1999/94/EC (cited in marks) - still a proposal",
+   "evidence": "'The revised rules would lower the decarbonisation target for new cars to 90% in 2035'; proposal 'repealing Directive 1999/94/EC' (EP Legislative Train).",
+   "evidence_url": "https://www.europarl.europa.eu/legislative-train/package-automotive-package/file-co2-emission-standards-for-new-light-duty-vehicles-and-labelling",
+   "confidence": "medium"
+  },
+  {
+   "id": "PACIFIC",
+   "field": "notes[0]",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Mostly RHD (drive on left)",
+   "proposed": "Add exception: Vanuatu, Micronesia and Palau (all in members) drive on the right (LHD, US/French-influenced)",
+   "evidence": "'Marshall Islands, Micronesia, Palau and Vanuatu - practicing right-hand traffic.'",
+   "evidence_url": "https://rlist.io/l/driving-in-australia-new-zealand-and-other-oceania",
+   "confidence": "medium"
+  },
+  {
+   "id": "ASEAN-OTHER",
+   "field": "authorities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Only Brunei JPD listed as authority",
+   "proposed": "Add authorities for Cambodia, Laos, Myanmar, Timor-Leste or state that none are listed; note all four ASEAN states signed APMRA (Timor-Leste joined ASEAN Oct 2025 and is not a party)",
+   "evidence": "APMRA signed 16 Jan 2021 by Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam (ASEAN for Business, Mar 2021). Profile name covers 5 countries but authorities cover 1.",
+   "evidence_url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+   "confidence": "medium"
+  }
+ ],
+ "notes": "Verified without issue: un_1958/un_1998 for AU, NZ, GB (UK is a 1998 CP), EU members/E-numbers (27), Euro 7 dates (29 Nov 2026/2027), ADDW 7 Jul 2026, Data Act, Battery Reg, 2018/858 Art 41/42, ZEV mandate path, ASEAN-OTHER/PACIFIC un_1958=false. Workbook-sourced records (APMRA, RAV, NZ rules) are summary stubs. NZ un_1998=true and EU 'UN R0 as alternative route' could not be independently confirmed from snippets (left unflagged). Market-level 'drive' and emissions fields tend to lag recent date changes."
+}

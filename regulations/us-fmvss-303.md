@@ -5,7 +5,7 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 id: us-fmvss-303
-last_pulled: '2026-06-01T18:41:59+00:00'
+last_pulled: '2026-10-06T03:27:30+00:00'
 open_tags:
 - CNG fuel container
 - compressed natural gas
@@ -23,12 +23,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.303
 status: in-force
-summary: Fuel system integrity for compressed natural gas (CNG) vehicles — including
-  bi-fuel, dedicated, and dual-fuel types — with a GVWR of 10,000 pounds or less,
-  as well as CNG-powered school buses of any weight, is regulated by this standard.
-  It requires that CNG fuel systems limit pressure loss after crash tests, that...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 414274a837f5193ba884feea45f1267f4d09fa0e
+summary: FMVSS No. 303 specifies integrity requirements for motor vehicle fuel systems
+  using compressed natural gas (CNG), including bi-fuel, dedicated and dual-fuel vehicles,
+  to reduce fire deaths and injuries from fuel leakage during and after crashes. It
+  applies to passenger cars, MPVs, trucks and buses of 10,000 lb GVWR or less using
+  CNG, and to CNG school buses of any weight.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a902b46530c4068b2b85ac27aee1f457ad77f310
 systems:
 - Fuel safety
 - Crashworthiness
@@ -36,8 +37,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.303 Standard No. 303; Fuel system integrity of compressed natural gas
   vehicles.
-un_equivalent_ai:
-- UN R34
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -72,9 +71,9 @@ S5. General requirements.
 
 S5.1 Vehicle requirements.
 
-S5.1.1 Vehicles with GVWR of 10,000 pounds or less. Each passenger car, multipurpose passenger vehicle, truck, and bus with a GVWR of 10,000 pounds or less that uses CNG as a motor fuel and that is manufactured on or after September 1, 1995 shall meet the requirements of S6, except S6.4.
+S5.1.1 Vehicles with a GVWR of 10,000 pounds or less. Each passenger car, multipurpose passenger vehicle, truck, and bus with a GVWR of 10,000 pounds or less that uses CNG as a motor fuel shall meet the requirements of S6, except S6.4.
 
-S5.1.2 Schoolbuses with a GVWR greater than 10,000 pounds. Each schoolbus with a GVWR greater than 10,000 pounds that uses CNG as a motor fuel and that is manufactured on or after September 1, 1995 shall meet the requirements of S6.4.
+S5.1.2 School buses with a GVWR greater than 10,000 pounds. Each school bus with a GVWR greater than 10,000 pounds that uses CNG as a motor fuel shall meet the requirements of S6.4.
 
 S5.2 Fuel system pressure drop: barrier crash.
 
@@ -144,4 +143,4 @@ S7.3 Rear moving barrier test conditions. The rear moving barrier test condition
 
 S7.4 Moving contoured barrier test conditions. The moving contoured barrier crash test conditions are those specified in S7.5 of Standard No. 301, 49 CFR 571.301.
 
-*[59 FR 19659, Apr. 25, 1994, as amended at 60 FR 2543, Jan. 10, 1995; 60 FR 57948, Nov. 24, 1995]*
+*[59 FR 19659, Apr. 25, 1994, as amended at 60 FR 2543, Jan. 10, 1995; 60 FR 57948, Nov. 24, 1995; 91 FR 33097, June 3, 2026]*

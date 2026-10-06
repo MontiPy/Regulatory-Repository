@@ -1,5 +1,5 @@
 ---
-citation: SRRV / TRIAS / UN R136
+citation: SRRV / TRIAS / UN R100
 commodities:
 - Batteries
 - Wiring
@@ -28,23 +28,21 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-summary: The rechargeable energy storage system (REESS) in electric vehicles, including
-  the HV battery, BMS, contactors, service disconnects, and associated high-voltage
-  components, is regulated to prevent fire, explosion, electric shock, and hazardous
-  leakage during normal operation, abuse, and post-crash conditions....
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'Catalogue entry on electric vehicle rechargeable energy storage system (REESS)
+  and high-voltage safety in Japan, citing SRRV, TRIAS and UN R100. The text is a
+  generic template, not regulation text: it states an intent to prevent fire, explosion,
+  shock and hazardous leakage in normal use, abuse and post-crash, and notes possible
+  overlap with Safety Regulations Article 17-2. It sets no specific requirements.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 754d3f07248f884c73ba7f7d4cdf99ffd29c39b4
 systems:
 - Battery safety
 - EV charging
-- Fuel safety
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Electric Vehicle Rechargeable Energy Storage System
 translation_status: translated
-un_equivalent_ai:
-- UN R100
 vehicle_categories:
 - Passenger car
 - Light truck

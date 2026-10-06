@@ -2,11 +2,8 @@
 citation: GSO-ECE 21
 commodities:
 - Seats
-- Airbags
-- Seatbelts
 - Body structure
-- Bumpers
-- Door latches & hinges
+- Interior trim
 id: gcc-gso-ece-21
 last_pulled: '2026-06-05T14:39:27+00:00'
 open_tags:
@@ -27,23 +24,17 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Interior fittings and contact surfaces within a vehicle's cabin are regulated
-  under GSO-ECE 21 to reduce occupant injury risk and preserve post-crash survivability.
-  The regulation covers interior impact surfaces alongside related systems such as
-  restraints, airbags, seats, and trim, requiring that these components...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'GSO-ECE 21 covers interior fittings of passenger vehicles in the GCC region
+  (UN R21): interior surfaces and fittings in occupant head-impact zones must be designed
+  to reduce injury risk in a collision.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c46ec1904c4ca5edad877b43463f8ea9c26209df
 systems:
 - Crashworthiness
-- Restraints
-- Pedestrian protection
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Interior Fittings
 translation_status: untranslated
-un_equivalent_ai:
-- UN R21
-- UN R94
 vehicle_categories:
 - Passenger car
 - Light truck

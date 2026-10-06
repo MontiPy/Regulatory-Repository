@@ -1,0 +1,236 @@
+{
+ "group": "au",
+ "note": "High findings already applied for some ids — re-read the record; skip anything already correct.",
+ "findings": [
+  {
+   "id": "au-f2011l02016",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "high",
+   "current": "in-force (no qualifier)",
+   "proposed": "in-force but being superseded by ADR 79/05 (new models from 1 Dec 2025; all vehicles from 1 Jul 2028)",
+   "evidence": "Search snippet: \"ADR 79/05 ... will apply to newly approved vehicle models supplied on or after 1 December 2025 and all vehicles supplied on or after 1 July 2028.\" Compared with 79/04 (Euro 5 / UN R83/06).",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2012l01123",
+   "field": "status",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "in-force",
+   "proposed": "superseded (historic compilation; ceased 18 March 2014)",
+   "evidence": "Body: \"No longer in force ... F2012L01123 30 May 2012 - 18 March 2014\"; authorised under Motor Vehicle Standards Act 1989 (repealed). Precheck status-text flag confirmed.",
+   "confidence": "high"
+  },
+  {
+   "id": "au-f2012l01123",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "ADR 00/00 - Approval Procedures and Administrative Requirements / Definitions and Vehicle Categories",
+   "proposed": "Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories) 2005 Amendment 6",
+   "evidence": "Body H1: \"Vehicle Standard (Australian Design Rule - Definitions and Vehicle Categories) 2005 Amendment 6\". Title adds \"Approval Procedures and Administrative Requirements\", which is not in the instrument; \"00/00\" is not in the instrument name.",
+   "confidence": "high"
+  },
+  {
+   "id": "au-f2023l01530",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R100",
+   "proposed": "UN R134 (hydrogen vehicle safety) / UN GTR 13; R100 is electric power train safety",
+   "evidence": "Search snippet: ADR 110/00 'designed to align with UN GTR 13 and UN R134'; applies to vehicles with compressed hydrogen storage systems.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2024l00161",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R157",
+   "proposed": "UN R130 (LDWS)",
+   "evidence": "Search snippet: ADR 99/01 technical requirements incorporate 'United Nations Regulation No. 130 ... Lane Departure Warning Systems ... categories M2, M3, N2 and N3'. UN R157 is ALKS (automated lane keeping), a different system.",
+   "confidence": "high"
+  },
+  {
+   "id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024",
+   "field": "summary",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "...requiring them to meet fleet average CO2, fuel economy, certified emissions, and OBD requirements...",
+   "proposed": "NVES sets fleet-average CO2 (g/km) targets for suppliers with credits/penalties (from 1 July 2025); it does not itself impose OBD, certified-emissions or fuel-economy limits (those are ADR 79/111/112/81).",
+   "evidence": "Search snippet: 'a regulatory obligation on car makers to supply vehicles that on average meet a certain CO2 g/km emissions target ... penalties start to apply from 1 July 2025'. Repo body is a generic workbook note listing 'certified emissions, fuel economy, CO2 and OBD' without citing the Act.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2005l04012",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "['UN R48']",
+   "proposed": "UN R53 (installation of lighting on L3 motorcycles); R48 is for M/N/O categories only",
+   "evidence": "ADR 19/02 title: \"Installation of Lighting and Light Signalling Devices on L-Group Vehicles\"; UN R48 scope is categories M, N, O (cf. ADR 13/00 \"other than L-Group\", which maps to R48). Commodity tags Wiring/Connectors unsupported by body/title.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2006l01279",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force",
+   "proposed": "in-force only for vehicles first supplied before 1 Oct 2006; superseded by ADR 83/00 for new vehicles",
+   "evidence": "WebSearch: \"ADR 28/01 has been superseded by ADR 83/… for new vehicles as from 1 October 2006.\" (record has no note of this; ADR 83/00 record au-f2005l03523 is the current new-vehicle standard)",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2006l01280",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "['UN R83','UN R168']",
+   "proposed": "UN R24 (diesel smoke); drop R83/R168",
+   "evidence": "WebSearch (dieselnet/transportpolicy): \"The smoke standard adopts UN ECE R24/03 and allows the US EPA 98 smoke standards as an alternative.\" ADR 30/01 is smoke opacity, not R83 pollutant emissions or R168.",
+   "confidence": "high"
+  },
+  {
+   "id": "au-f2006l01429",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "['UN R95']",
+   "proposed": "none (static door crush test; FMVSS 214 static is the accepted alternative). UN R95 corresponds to ADR 72/00 dynamic side impact",
+   "evidence": "WebSearch: ADR 29/00 treats \"FMVSS 214-35 ... Side Door Strength - Passenger Cars\" S5-S7 as equivalent; \"ADR 72/00 is the Australian standard corresponding to UN ECE R95\". Record TOC: \"DETERMINATION OF CRUSH RESISTANCE\".",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2006l01455",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "['UN R94','UN R137']",
+   "proposed": "UN R137 only",
+   "evidence": "ADR 69/00 is Full Frontal Impact; UN R94 is the offset deformable barrier regulation (counterpart of ADR 73/00 Offset Frontal Impact, record au-f2005l03990). UN R137 is the full-width frontal regulation.",
+   "confidence": "high"
+  },
+  {
+   "id": "au-f2006l01786",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "['UN R121']",
+   "proposed": "UN R21 (interior fittings / instrument panel impact)",
+   "evidence": "ADR 21/00 Instrument Panel is the occupant-impact standard for the instrument panel; UN R121 covers location/identification of controls, tell-tales and indicators (counterpart of ADR 18/03). Tag \"Tell-tales & controls\" also questionable.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2006l02312",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R17",
+   "proposed": "UN R80",
+   "evidence": "ADR 66 covers seat strength/anchorage/padding in omnibuses; UN R80 = \"seats of large passenger vehicles ... strength of the seats and their anchorages\". R17 is for M1/N seats, not buses.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2006l02664",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R116, UN R162",
+   "proposed": "UN R18 (historic), UN R116",
+   "evidence": "UN R162 is vehicle immobilizers, not locks. Search snippet on ADR 25/02: \"The UN equivalent for this standard is UNECE Regulation 18 ... Protection Against Unauthorised Use\" (R18 superseded by R116).",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2006l02729",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R112, UN R113",
+   "proposed": "UN R56 (headlamps for mopeds)",
+   "evidence": "UN R56 \"approval of headlamps for mopeds and vehicles treated as such\"; R112/R113 are asymmetrical/symmetrical passing-beam headlamps for motor vehicles.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2011l02016",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R83, UN R168",
+   "proposed": "UN R83 only (R83/06 basis)",
+   "evidence": "UN R168 is \"approval of light duty passenger and commercial vehicles with regards to real driving emissions (RDE)\", in force 26 Mar 2024; ADR 79/04 adopts UN R83/06 (Euro 5), not R168.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2012l01123",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "\"...sets the foundational terminology and vehicle categorization framework that underpins...\" (presented as current)",
+   "proposed": "State that this is a superseded 2012 amendment version, not the current definitions instrument",
+   "evidence": "Body shows only a one-line TOC (\"- [Text]\") and \"No longer in force\"; summary reads as live.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2020l01254",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "covering fitment and visibility of vehicle plates, engine numbers, registration plates, and tray visibility",
+   "proposed": "Verify against ADR 61/03 text (vehicle identification/compliance plate, VIN marking); registration plates and 'tray visibility' appear unsupported",
+   "evidence": "Repo body contains only the Federal Register metadata page for 'ADR 61/03 - Vehicle Marking'; no text supports engine numbers, registration plates or tray visibility.",
+   "confidence": "low"
+  },
+  {
+   "id": "au-f2023l01321",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R158, UN R159",
+   "proposed": "UN R151 (BSIS for detection of bicycles; ADR 105/00 applies R151 00 series incl. suppl. 1-3)",
+   "evidence": "Search snippet: 'the technical requirements of UN Regulation No. 151 ... Blind Spot Information System for the Detection of Bicycles ... incorporating the 00 series of amendments' apply under ADR 105/00; R158 is reversing motion, R159 is MOIS.",
+   "confidence": "high"
+  },
+  {
+   "id": "au-f2023l01321",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Heavy truck, Bus",
+   "proposed": "Heavy truck (medium/heavy goods vehicles, N2/N3), possibly Bus",
+   "evidence": "Search snippet: ADR 105/00 applies to medium and heavy goods vehicles (GVM over 8 t, width over 2.5 m), not passenger cars.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2024l00161",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Passenger car, Light truck, Heavy truck, Bus",
+   "proposed": "Heavy truck, Bus (M2/M3/N2/N3 heavy vehicles)",
+   "evidence": "Search snippet: 'New ADR for Lane departure warning systems for all heavy vehicles'; R130 covers M2, M3, N2, N3.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-f2026l00278",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R157",
+   "proposed": "UN R79 (ELKS/corrective steering function, R79 rev.4 series); not R157 (ALKS)",
+   "evidence": "Search snippet: ADR 107/00 harmonised with UN R79 revision 4 ('requirements for three control functions relevant to ELKS, including Corrective Steering Function type (c)'). R157 is automated lane keeping.",
+   "confidence": "medium"
+  },
+  {
+   "id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024",
+   "field": "systems",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Emissions, On-board diagnostics, Fuel safety, Battery safety, EV charging",
+   "proposed": "Emissions",
+   "evidence": "NVES is a fleet CO2 target scheme; no fuel safety, battery safety, charging or OBD requirements. Repo body lists only 'Emissions / CO2 / fleet efficiency' as regulated area.",
+   "confidence": "medium"
+  }
+ ]
+}

@@ -27,8 +27,8 @@ status: in-force
 summary: Automatic emergency braking (AEB) systems on light vehicles — including passenger
   cars and trucks, vans, and buses with a GVWR of 10,000 pounds or less — are regulated
   under this standard, which establishes performance requirements for AEB and forward
-  collision warning systems. Beginning September 1, 2029, covered...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  collision warning systems.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 4c20b5bc5f032f743314bbdf7176ce68c58bc1d2
 systems:
 - Braking
@@ -37,8 +37,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.
-un_equivalent_ai:
-- UN R152
 vehicle_categories:
 - Passenger car
 - Light truck

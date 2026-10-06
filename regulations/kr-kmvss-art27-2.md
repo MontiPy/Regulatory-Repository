@@ -25,8 +25,8 @@ status: in-force
 summary: Child restraint system anchorages in passenger cars (excluding ultra-compact
   and single-row vehicles) must be installed at two or more seats, with at least one
   in the second row, comprising one upper and two lower anchorages per seat meeting
-  specified position, marking, usability, and safety requirements. Additional...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  specified position, marking, usability, and safety requirements.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d5f9d01e34b3907520758a630596680290895383
 systems:
 - Restraints
@@ -35,9 +35,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 27-2 — Child Restraint System Anchorages
 translation_status: translated
-un_equivalent_ai:
-- UN R145
-- UN R14
 vehicle_categories:
 - Passenger car
 ---

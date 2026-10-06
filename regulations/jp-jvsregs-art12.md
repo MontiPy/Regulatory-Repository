@@ -31,9 +31,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 12 — Fuel Standards
 translation_status: translated
-un_equivalent_ai:
-- UN R101
-- UN R83
 vehicle_categories:
 - Passenger car
 - Light truck

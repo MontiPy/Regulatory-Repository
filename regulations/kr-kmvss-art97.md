@@ -25,8 +25,7 @@ status: in-force
 summary: Driver and passenger seats in motor vehicles (excluding certain seat types)
   must be structurally strong enough to withstand specified longitudinal forces and
   moments at any adjusted position without displacing from their pre-force position.
-  Hinged and folding seats must additionally incorporate locking devices that...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5df2453d1c65816881680727695275a3a325d8e4
 systems:
 - Crashworthiness
@@ -35,8 +34,6 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 97 — Installation of Driver and Passenger Seats
 translation_status: translated
-un_equivalent_ai:
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -23,9 +23,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-534
 status: in-force
 summary: Manufacturers of passenger automobiles, light trucks, and heavy-duty vehicles
   involved in corporate changes such as mergers or acquisitions are regulated for
-  purposes of federal fuel economy and fuel consumption programs. The regulation defines
-  successor and predecessor rights and responsibilities, requiring...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  purposes of federal fuel economy and fuel consumption programs.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 8470e28b2fbf637aeb0e4c84ab2aefceefc60c93
 systems:
 - Emissions
@@ -33,8 +32,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 534—RIGHTS AND RESPONSIBILITIES OF MANUFACTURERS IN THE CONTEXT OF CHANGES
   IN CORPORATE RELATIONSHIPS
-un_equivalent_ai:
-- UN R101
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -19,9 +19,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Head restraints on front seats (excluding center seats) and any other equipped
   seats in vehicles covered under Article 26 must conform to detailed standards set
-  by the Minister of Land, Infrastructure and Transport. Exemptions apply to head
-  restraints on folding auxiliary seats, side-facing seats, and rear-facing...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  by the Minister of Land, Infrastructure and Transport.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0d97ac5e7b185fdfff8f2388ae94a496d19442ec
 systems:
 - Restraints
@@ -30,9 +29,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 99 — Head Restraints
 translation_status: translated
-un_equivalent_ai:
-- UN R25
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

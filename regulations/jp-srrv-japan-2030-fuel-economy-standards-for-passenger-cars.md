@@ -29,21 +29,15 @@ source_url: https://www.mlit.go.jp/report/press/jidosha10_hh_000230.html
 status: in-force
 summary: Japan's 2030 fuel economy standards regulate passenger cars — including gasoline,
   diesel, LPG, battery electric, and plug-in hybrid vehicles — under a framework aimed
-  at improving energy efficiency and reducing CO2 emissions. Compliance requires meeting
-  fleet fuel economy targets, with key technical factors including...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  at improving energy efficiency and reducing CO2 emissions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 351c6fbeb484476b1ad1fb84cbd421adc54855f8
 systems:
 - Emissions
-- EV charging
-- Battery safety
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Japan 2030 Fuel Economy Standards for Passenger Cars
 translation_status: translated
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Passenger car
 ---

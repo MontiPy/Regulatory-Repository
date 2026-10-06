@@ -26,7 +26,6 @@ summary_generated_at: '2026-06-22T17:48:29+00:00'
 summary_hash: 1b9cdc3c7ad9ebe412d961088b8e670a4a78388b
 systems:
 - Crashworthiness
-- Pedestrian protection
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 93 — Bumper

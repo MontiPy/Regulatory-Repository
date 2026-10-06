@@ -24,9 +24,8 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 summary: Motor vehicle frames and bodies must meet ministerial-notice standards for
   structural strength, durability, and exterior shape, including prohibitions on sharp
-  protrusions and limits on rear body overhang beyond the rear axle. They must also
-  satisfy occupant protection performance standards for front, offset-front,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  protrusions and limits on rear body overhang beyond the rear axle.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1d2fdee3846e42718ba8653b01a25b9da373d06b
 systems:
 - Crashworthiness
@@ -34,9 +33,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 18 — Frame and Body
 translation_status: translated
-un_equivalent_ai:
-- UN R94
-- UN R95
 vehicle_categories:
 - Passenger car
 - Light truck

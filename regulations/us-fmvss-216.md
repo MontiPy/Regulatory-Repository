@@ -19,11 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.216
 status: in-force
-summary: Roof crush resistance for passenger cars and light-duty multipurpose passenger
-  vehicles, trucks, and buses (GVWR ≤ 6,000 lbs) is regulated by this standard, which
-  requires that when a specified force (1.5 times the vehicle's unloaded weight, not
-  exceeding 22,240 Newtons for passenger cars) is applied to either side of...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: FMVSS No. 216 sets strength requirements for the passenger compartment roof,
+  to reduce deaths and injuries from roof crush in rollover crashes. It applies to
+  passenger cars and to multipurpose passenger vehicles, trucks and buses of 2,722
+  kg (6,000 lb) GVWR or less, excluding school buses, convertibles (with an exception)
+  and vehicles certified to FMVSS 216a.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 70c0a0d9ea8c7721d448e87a374d8bc41b771ef3
 systems:
 - Crashworthiness

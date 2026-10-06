@@ -22,11 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213a
 status: in-force
-summary: Add-on child restraint systems recommended for children weighing up to 18
-  kilograms (40 lbs) or up to 1,100 millimeters (43 inches) in height are subject
-  to this standard, which mandates side impact protection performance requirements
-  including structural integrity during dynamic testing and compliance with all...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: FMVSS No. 213a specifies side impact protection requirements for add-on child
+  restraint systems recommended for children up to 18 kg (40 lb) or up to 1100 mm
+  (43 in) in height, excluding car beds and harnesses. These systems must also meet
+  all applicable requirements of FMVSS No. 213, and are tested dynamically with a
+  specified test dummy.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 010f5a929adbeb166acbd6531cda768a013f5dcf
 systems:
 - Restraints
@@ -34,9 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.213a Standard No. 213a; Child restraint systems—side impact protection.
-un_equivalent_ai:
-- UN R129
-- UN R44
 vehicle_categories:
 - Passenger car
 - Light truck

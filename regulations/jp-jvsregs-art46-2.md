@@ -19,21 +19,21 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Accident data recorders (EDRs) on passenger and freight motor vehicles —
-  excluding two-wheeled, three-wheeled, light crawler/sled, and towed vehicles — must
-  be equipped with a compliant accident data recorder that measures and records instantaneous
-  speed and other information upon collision or similar impact, in...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 46-2 of Japan's Road Transport Vehicle Safety Regulations requires
+  passenger-transport motor vehicles (excluding two- and three-wheeled, light crawler/sled
+  and towed vehicles) and freight motor vehicles (excluding three-wheeled and towed
+  vehicles) to carry an accident data recorder. It must meet ministerial recording
+  performance standards and measure and record instantaneous speed and other information
+  on collision or similar impact.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eb837d30ad066aa1786d1bb7859392394a8fefca
 systems:
 - Crashworthiness
-- On-board diagnostics
+- Event & data recording
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 46_2 — Accident Data Recorder
 translation_status: translated
-un_equivalent_ai:
-- UN R160
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -25,8 +25,8 @@ status: in-force
 summary: Ejection mitigation systems in passenger cars, multipurpose passenger vehicles,
   trucks, and buses with a GVWR of 4,536 kg or less are regulated to reduce the likelihood
   of complete and partial occupant ejections through side windows during rollovers
-  or side impacts. The standard requires these vehicles to meet...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  or side impacts.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5b2de5051fc509e630390ede78a6d4eb27ab36c5
 systems:
 - Crashworthiness
@@ -35,8 +35,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.226 Standard No. 226; Ejection Mitigation.
-un_equivalent_ai:
-- UN R95
 vehicle_categories:
 - Passenger car
 - Light truck

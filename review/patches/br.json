@@ -1,0 +1,95 @@
+{
+  "group": "br",
+  "patches": {
+    "br-contran-215": {
+      "_stub_body": true,
+      "summary": "CONTRAN Resolution 215/2006 regulates the manufacture, installation and use of bull bars (quebra-mato) on motor vehicles up to 3,500 kg GVW, including an identification plate and INMETRO-registered manufacturers, because they can affect frontal airbag performance and pedestrian injury risk.",
+      "_why": "Body heading/text is a burglar-alarm template, but the instrument is the quebra-mato resolution (title/systems/UN already corrected); stub the body."
+    },
+    "br-contran-245-330": {
+      "status_note": "Installation schedule suspended by CONTRAN Resolution 559/2015 (effects of Res. 245/2007 and Art. 4 of Res. 330/2009); verify whether later repealed.",
+      "summary": "CONTRAN Resolutions 245/2007 and 330/2009 set out a schedule for mandatory factory installation of anti-theft equipment in new vehicles in Brazil. The mandatory installation schedule was suspended in 2015 by CONTRAN Resolution 559/2015; the full text is available through the CONTRAN resolution archive.",
+      "_why": "Finding: summary reads as live mandate; 559/2015 suspension. Status left in-force because 'suspended' is not an allowed value and later repeal is unverified; note added."
+    },
+    "br-contran-37": {
+      "_stub_body": true,
+      "summary": "CONTRAN Resolution 37/1998 sets rules for anti-theft sound alarms and other security accessories under Art. 229 of the Brazilian Traffic Code: alarms must not imitate emergency-vehicle sounds, must not sound continuously for more than one minute, and must not compromise vehicle safety.",
+      "_why": "Body heading says 'Identification and Lighting of Controls' (wrong instrument); title/systems/UN already fixed; stub the body."
+    },
+    "br-contran-498": {
+      "_stub_body": true,
+      "systems": [],
+      "summary": "CONTRAN Resolution 498/2014 requires interior lining materials of national and imported vehicles manufactured from 1 Jan 2015 to have a flame propagation rate of no more than 100 mm/min; test certificates recognised in the EU or USA are accepted.",
+      "_why": "Body is a hood-latch template; subject is interior material flammability. No taxonomy system fits (Crashworthiness is wrong), so systems emptied."
+    },
+    "br-contran-764": {
+      "_stub_body": true,
+      "summary": "CONTRAN Resolution 764/2018 establishes the test method for measuring the sound pressure of vehicle horns and similar audible warning devices, with limits of 87-112 dB(A) (83-112 dB(A) for category L vehicles up to 7 kW). It applies from 1 Jan 2022 and revokes CONTRAN Resolution 35/1998.",
+      "_why": "Body is a multimedia template; other fields already fixed. Summary enriched with limits from finding's search snippet."
+    },
+    "br-contran-924": {
+      "_stub_body": true,
+      "summary": "CONTRAN Resolution 924/2022 consolidates the rules on mandatory rear-view mirrors and camera-monitor devices for vehicles used in collective school transport.",
+      "_why": "Body is generic mirror template; current summary is truncated with '...' and says nothing specific."
+    },
+    "br-mover-rota-2030": {
+      "citation": "Decree 12.435/2025 (Law 14.902/2024 - MOVER)",
+      "un_equivalent_ai": [],
+      "systems": ["Emissions"],
+      "summary": "Decree 12.435 of 15 April 2025, published in the Official Gazette on 16 April 2025, regulates Brazil's Green Mobility and Innovation Program (MOVER), the successor to Rota 2030. It sets technical and environmental parameters for energy efficiency, recyclability and security that vehicle makers and importers must meet to commercialize vehicles in Brazil from June 2025.",
+      "_why": "Body is the Planalto news item naming decree 12.435/2025; MOVER is an industrial/energy-efficiency programme, no UN counterpart; text mentions no EV charging/battery safety; summary was truncated."
+    },
+    "br-abnt-nbr-15145": {
+      "commodities": ["Exhaust"],
+      "summary": "ABNT NBR 15145 (vehicle acceleration noise, engineering method) and ABNT NBR 9714 (stationary noise near the exhaust) are the Brazilian standards used to measure exterior noise of road vehicles in the type-approval process.",
+      "_why": "Finding: horn sound is under CONTRAN 764/2018, not these standards; current summary is truncated with '...'."
+    },
+    "br-anatel-cert": {
+      "un_equivalent_ai": [],
+      "systems": ["EMC"],
+      "_why": "ANATEL certifies radio/telecom products; R155 cybersecurity unrelated, R10 only loosely; Cybersecurity dropped. No 'Telecommunications' value in taxonomy."
+    },
+    "br-conama-492": {
+      "summary": "CONAMA Resolution 492/2018 establishes PROCONVE phases L7 and L8 for new light road vehicles: L7 exhaust emission limits apply from 1 Jan 2022, and L8 introduces corporate fleet-average limits from 1 Jan 2025, tightening in 2027, 2029 and 2031. It also specifies NMOG reporting and calculation, and requires L7/L8 vehicles to meet OBD Br2 until an OBD Br3 standard is regulated.",
+      "_why": "Body Art. 4 / tables show L8 dates 2025, 2027, 2029, 2031; OBD Br2 until Br3 (body para. 5). RDE chapter not verified in body, omitted."
+    },
+    "br-contran-759": {
+      "vehicle_categories": ["Passenger car", "Light truck"],
+      "_why": "Finding: rear warning/monitoring applies to automobiles, camionetas, caminhonetes, utilitarios (2025/2027). Medium confidence; body has no text."
+    },
+    "br-contran-885": {
+      "vehicle_categories": ["Passenger car", "Light truck"],
+      "_why": "Finding: scope is automobile, pickup, light commercial and utility vehicles only; no heavy vehicles, buses or trailers."
+    },
+    "br-contran-910": {
+      "summary": "CONTRAN Resolution 910/2022 sets occupant-protection requirements for frontal and rear impact and fuel-system integrity after impact for automobiles and derived vehicles, referencing ABNT NBR 15300, NBR 15240 and NBR 15241, with Annex-based frontal-impact biomechanical criteria from 1 Jan 2024. Test results to UN R32, R34 and R94 or FMVSS 203, 208 and 301 are accepted as an alternative.",
+      "status_note": "Arts. 2-3 (ABNT NBR test requirements) were valid only until 31 Dec 2025; the Annex-based requirements (Art. 4 onward) continue to apply.",
+      "_why": "Body Arts. 1, 2, 4, 6 and 11 verified; current summary is nav-menu boilerplate. Status kept in-force."
+    },
+    "br-contran-954": {
+      "summary": "CONTRAN Resolution 954/2022 requires Electronic Stability Control (ESC) on new M1 and N1 vehicles, with a Vehicle Stability Function (VSF) allowed as an alternative only for N1 and for M1 above 1,735 kg. VSF is mandatory for M2, M3, N2 and N3, and roll-stability VSF is required for O3 and O4 trailers; it is optional for exclusively urban M3 but mandatory for school vehicles.",
+      "_why": "Body Art. 3 paras 1-6 (ESC for M1/N1, VSF alternative, O3/O4, urban M3 optional, school mandatory). M2/M3/N2/N3 VSF per para. 3 as stated in finding."
+    },
+    "br-senatran-990": {
+      "summary": "SENATRAN Ordinance 990/2022 governs the procedure for vehicle homologation: granting the RENAVAM brand/model/version code and issuing the CAT (Certificado de Adequacao a Legislacao de Transito, Certificate of Compliance with Traffic Legislation) through SISCAT, in force from 1 Sep 2022.",
+      "_why": "Finding: CAT is not 'Certificate of Approval of Type'; body of br-contran-954 Art. 5 uses the full name."
+    }
+  },
+  "skipped": [
+    {"id": "br-contran-215", "field": "title", "reason": "Already corrected in record."},
+    {"id": "br-contran-215", "field": "un_equivalent_ai", "reason": "Already []."},
+    {"id": "br-contran-215", "field": "systems", "reason": "Already Pedestrian protection, Crashworthiness."},
+    {"id": "br-contran-245-330", "field": "status", "reason": "'suspended' is not a taxonomy status and later repeal is unverified; kept in-force with status_note."},
+    {"id": "br-contran-37", "field": "title", "reason": "Already corrected."},
+    {"id": "br-contran-37", "field": "un_equivalent_ai", "reason": "Already UN R116, an acceptable anti-theft counterpart."},
+    {"id": "br-contran-37", "field": "systems", "reason": "Already Theft prevention, Noise."},
+    {"id": "br-contran-498", "field": "title", "reason": "Already corrected."},
+    {"id": "br-contran-498", "field": "un_equivalent_ai", "reason": "Already UN R118."},
+    {"id": "br-contran-749", "field": "vehicle_categories", "reason": "Body has no text and I cannot verify the scope of 749/2018 from the quoted snippet, which may describe a different resolution; left unchanged."},
+    {"id": "br-contran-764", "field": "title", "reason": "Already corrected."},
+    {"id": "br-contran-764", "field": "un_equivalent_ai", "reason": "Already UN R28."},
+    {"id": "br-contran-764", "field": "systems", "reason": "Already Noise; commodity already Horn."},
+    {"id": "br-contran-924", "field": "title", "reason": "Already corrected."},
+    {"id": "br-contran-924", "field": "vehicle_categories", "reason": "Already Bus only."}
+  ]
+}

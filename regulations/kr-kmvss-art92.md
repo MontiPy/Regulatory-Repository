@@ -17,11 +17,11 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: The roof structure of passenger cars (excluding convertibles) must withstand
-  a specified crush test in which a rectangular plate of at least 75 cm × 180 cm is
-  pressed at a controlled rate until the load reaches the lesser of 1.5 times the
-  vehicle's weight or 2,270 kg, with the resulting roof displacement not exceeding...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary: 'Sets roof strength for passenger cars other than convertibles: under a load
+  applied through a plate of at least 75 cm by 180 cm at no more than 12.7 mm per
+  second within 120 seconds, up to the lesser of 1.5 times vehicle weight or 2,270
+  kg, roof displacement must be 127 mm or less.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e3e422ff706a2cfbd7aaf200e8261cac2a536d9e
 systems:
 - Crashworthiness

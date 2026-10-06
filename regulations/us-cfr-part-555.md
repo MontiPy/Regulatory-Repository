@@ -3,7 +3,7 @@ citation: 49 CFR Part 555
 commodities:
 - Bumpers
 id: us-cfr-part-555
-last_pulled: '2026-06-01T18:43:59+00:00'
+last_pulled: '2026-10-06T03:29:06+00:00'
 open_tags:
 - temporary exemption
 - FMVSS compliance
@@ -19,12 +19,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-555
 status: in-force
-summary: Temporary exemptions from federal motor vehicle safety standards and bumper
-  standards for motor vehicle manufacturers are governed by this part, which establishes
-  the process by which NHTSA may grant such exemptions based on substantial economic
-  hardship, facilitation of new safety or low-emission technology...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 40f64e6e018b5fe0e4305f67d11c04640d75202f
+summary: 49 CFR Part 555 establishes how NHTSA may grant temporary exemptions for
+  manufacturers of motor vehicles from one or more Federal motor vehicle safety standards
+  (49 U.S.C. 30113), and for passenger motor vehicles from Federal bumper standards
+  (49 U.S.C. 32502). Grounds include substantial economic hardship, development or
+  field evaluation of new safety or low-emission features, and an equivalent overall
+  level of safety. It sets application contents and procedure.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: fef827c2267273992571fdff8a5e77527c963f9c
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
@@ -81,7 +83,7 @@ United States means the several States, the District of Columbia, the Commonweal
 
 (1) Be written in the English language;
 
-(2) Be submitted in three copies to: Administrator, National Highway Traffic Safety Administration, Washington, DC 20590;
+(2) Be submitted to: Administrator, National Highway Traffic Safety Administration, Washington, DC electronically at GeneralExemptions@dot.gov;
 
 (3) State the full name and address of the applicant, the nature of its organization (individual, partnership, corporation, etc.) and the name of the State or country under the laws of which it is organized;
 
@@ -99,7 +101,7 @@ United States means the several States, the District of Columbia, the Commonweal
 
 (c) The knowing and willful submission of false, fictitious or fraudulent information will subject the petitioner to the civil and criminal penalties of 18 U.S.C. 1001.
 
-*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 46 FR 2063, Jan. 8, 1981; 63 FR 44173, Aug. 18, 1998; 64 FR 2861, Jan. 19, 1999; 70 FR 7429, Feb. 14, 2005]*
+*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 46 FR 2063, Jan. 8, 1981; 63 FR 44173, Aug. 18, 1998; 64 FR 2861, Jan. 19, 1999; 70 FR 7429, Feb. 14, 2005; 91 FR 48312, July 31, 2026]*
 
 #### § 555.6 Basis for application.
 
@@ -211,9 +213,11 @@ United States means the several States, the District of Columbia, the Commonweal
 
 (e) If the Administrator determines that the application contains adequate justification, he grants it, and notifies the petitioner in writing. He also publishes in the Federal Register a notice of the grant and the reasons for it.
 
-(f) Unless a later effective date is specified in the notice of the grant, a temporary exemption is effective upon publication of the notice in the Federal Register and exempts vehicles manufactured on and after the effective date.
+(f) Unless a later effective date is specified in the notice of the grant, a temporary exemption is effective upon publication of the notice in the Federal Register.
 
-*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 39 FR 37988, Oct. 25, 1974; 64 FR 2861, 2862, Jan. 19, 1999; 83 FR 66160, Dec. 26, 2018]*
+(g) Unless otherwise determined by the Administrator, a temporary exemption only exempts vehicles manufactured on or after the effective date.
+
+*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 39 FR 37988, Oct. 25, 1974; 64 FR 2861, 2862, Jan. 19, 1999; 83 FR 66160, Dec. 26, 2018; 91 FR 48312, July 31, 2026]*
 
 #### § 555.8 Termination of temporary exemptions.
 

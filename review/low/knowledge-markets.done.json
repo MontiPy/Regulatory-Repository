@@ -1,0 +1,206 @@
+{
+ "applied": [
+  {
+   "id": "Functional safety (ISO 26262) & SOTIF (ISO 21448)",
+   "field": "definition",
+   "change": "dropped UN R155 from referencing list"
+  },
+  {
+   "id": "Market surveillance",
+   "field": "definition",
+   "change": "cited Arts. 8-9/Ch. XI; split Member State penalties (Art. 84) from Commission fines up to EUR 30,000 (Art. 85)"
+  },
+  {
+   "id": "HK-MO",
+   "field": "basis/emissions",
+   "change": "added HK APC and Noise regs to basis, Euro 6c, noted Macau not profiled (DSAT)"
+  },
+  {
+   "id": "AU",
+   "field": "watch[0]",
+   "change": "ADR 98/02 adds bicyclists; 98/02 and 107 dates; ADR 114 >3.5 t; hedged with verify"
+  },
+  {
+   "id": "IN",
+   "field": "watch[0]",
+   "change": "added AIS-189 all-types 1 Oct 2028 date (secondary sources, verify)"
+  },
+  {
+   "id": "SOUTH-ASIA",
+   "field": "notes",
+   "change": "added E64/2020, still asks to confirm vs UNECE; kept hedge"
+  },
+  {
+   "id": "SOUTH-ASIA",
+   "field": "emissions",
+   "change": "stated fuel vs vehicle Euro 5 distinction"
+  },
+  {
+   "id": "ASEAN-OTHER",
+   "field": "notes",
+   "change": "stated authorities only for Brunei; Timor-Leste not APMRA signatory"
+  },
+  {
+   "id": "EU",
+   "field": "emissions",
+   "change": "added COM(2025) 995 90% proposal, still a proposal"
+  },
+  {
+   "id": "EFTA",
+   "field": "notes",
+   "change": "un_1958 reflects Norway and Switzerland only"
+  },
+  {
+   "id": "BALKANS",
+   "field": "notes",
+   "change": "group-level un_1958; Moldova/Georgia/Kosovo details not recorded"
+  },
+  {
+   "id": "GCC-OTHER",
+   "field": "authorities[1].url",
+   "change": "removed incorrect shared GSO url"
+  },
+  {
+   "id": "SANCTIONED",
+   "field": "notes[0]",
+   "change": "removed unsupported 85-item claim"
+  },
+  {
+   "id": "EG",
+   "field": "basis",
+   "change": "added E62"
+  },
+  {
+   "id": "LEVANT",
+   "field": "notes",
+   "change": "noted no Lebanon authority listed"
+  },
+  {
+   "id": "CARIB",
+   "field": "notes",
+   "change": "distinguished drive side from vehicle steering; Bahamas US-spec LHD"
+  },
+  {
+   "id": "BR",
+   "field": "records",
+   "change": "added br-contran-936 (cited in watch)"
+  }
+ ],
+ "skipped": [
+  {
+   "id": "WLTP / RDE",
+   "field": "records",
+   "reason": "stub records still the best definition sources; no alternative"
+  },
+  {
+   "id": "SABER PCoC / SCoC (Saudi Arabia)",
+   "field": "records",
+   "reason": "no SABER-specific record exists; kept"
+  },
+  {
+   "id": "AU",
+   "field": "emissions",
+   "reason": "already fixed"
+  },
+  {
+   "id": "PACIFIC",
+   "field": "notes[0]",
+   "reason": "already fixed"
+  },
+  {
+   "id": "SG",
+   "field": "regions",
+   "reason": "already fixed"
+  },
+  {
+   "id": "SANCTIONED",
+   "field": "drive",
+   "reason": "already fixed (LHD)"
+  },
+  {
+   "id": "BALKANS",
+   "field": "authorities",
+   "reason": "per-country authorities not verifiable"
+  },
+  {
+   "id": "BR",
+   "field": "un_1998",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "BR",
+   "field": "process[1]/records stubs",
+   "reason": "structural stub issue; source_url fix belongs to record patch"
+  },
+  {
+   "id": "CENTRAL-ASIA",
+   "field": "un_1998",
+   "reason": "already covered in notes, unverified"
+  },
+  {
+   "id": "CO",
+   "field": "process[0]",
+   "reason": "unverifiable, no source"
+  },
+  {
+   "id": "EFTA",
+   "field": "un_1958",
+   "reason": "covered by note"
+  },
+  {
+   "id": "IL",
+   "field": "records",
+   "reason": "no better record exists"
+  },
+  {
+   "id": "MAGHREB",
+   "field": "un_1958",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "MX",
+   "field": "un_1998",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "NZ",
+   "field": "authorities[1].scope",
+   "reason": "unverified"
+  },
+  {
+   "id": "SG",
+   "field": "un_1958",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "UA",
+   "field": "authorities[0]",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "US",
+   "field": "basis/authorities/records",
+   "reason": "already qualified in emissions text"
+  },
+  {
+   "id": "US",
+   "field": "watch[0]",
+   "reason": "low-confidence status"
+  },
+  {
+   "id": "VN",
+   "field": "emissions",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "ZA",
+   "field": "emissions",
+   "reason": "unverifiable"
+  },
+  {
+   "id": "us-cfr-part-600",
+   "field": "systems",
+   "reason": "record id is us-40cfr-part-600 in regulations/, not a knowledge file; out of scope"
+  }
+ ]
+}

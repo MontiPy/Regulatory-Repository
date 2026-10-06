@@ -20,11 +20,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.403
 status: in-force
-summary: Platform lift systems installed in motor vehicles to assist persons with
-  limited mobility are regulated, requiring that lifts manufactured on or after April
-  1, 2005 meet safety requirements designed to prevent injuries and fatalities to
-  passengers and bystanders during lift operation. The standard applies to lifts...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Platform lifts installed in motor vehicles to assist persons with limited
+  mobility are regulated for lifts manufactured on or after April 1, 2005, to prevent
+  injuries and fatalities to passengers and bystanders. Lifts must meet requirements
+  for all lifts (threshold warning, velocity and acceleration limits, platform, edge
+  guards, wheelchair retention, controls, backup operation, interlocks) plus either
+  public-use or private-use requirements, and be labeled 'DOT-Public Use Lift' or
+  'DOT-Private Use Lift'.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a244540ec820c5e3a37ad792ab1c1319eca5e31e
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'

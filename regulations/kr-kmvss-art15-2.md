@@ -25,8 +25,8 @@ status: in-force
 summary: Motor vehicles in Korea must be equipped with an electronic stability control
   (ESC) system, with specific exemptions including vehicles with four or more axles,
   towed vehicles, certain special-purpose trucks, ultra-compact vehicles, articulated
-  buses, and others deemed impractical by the Minister. The ESC system must...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  buses, and others deemed impractical by the Minister.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 18d6bdecb18cabe93a57de0e1aa207f2977e8fa1
 systems:
 - Braking
@@ -37,8 +37,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 15-2 — Electronic Stability Control
 translation_status: translated
-un_equivalent_ai:
-- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

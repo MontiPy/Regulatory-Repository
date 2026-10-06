@@ -25,16 +25,15 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Ejection mitigation for passenger cars, three-wheeled vehicles, and certain
   buses, trucks, and multi-purpose passenger vehicles (GVWR ≤ 4,536 kg) requires conformance
-  to Technical Standards Document No. 226. Vehicles with modified roofs, fixed security
-  partitions, or seats modified for disabled persons are exempt from...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  to Technical Standards Document No. 226.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7db753d69fef1d1df958a67c0e49bf085e189c3b
 systems:
 - Crashworthiness
 - Glazing
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 226
+title: MVSR s. 226 — Ejection Mitigation
 vehicle_categories:
 - Passenger car
 - Light truck

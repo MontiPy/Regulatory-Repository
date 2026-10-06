@@ -1,6 +1,7 @@
 regions: [US, EU, KR, AU, JP, CA, ECE, BR, GCC, CN, TW, IN, MX, EAEU, ASEAN, ZA, AR, IL, NZ, TR, OTHER]
 
-statuses: [in-force, proposed, withdrawn, superseded]
+# upcoming = adopted/published but not yet applicable (e.g. effective date in the future)
+statuses: [in-force, upcoming, proposed, withdrawn, superseded]
 
 tagging_statuses: [untagged, llm-tagged]
 
@@ -38,6 +39,9 @@ commodities:
   - Horn
   - Wipers & washers
   - Pedals
+  - Couplings & towing
+  - Interior trim
+  - Telematics unit
 
 systems:
   - Lighting & signaling
@@ -63,6 +67,12 @@ systems:
   - Tell-tales & controls
   - On-board diagnostics
   - Software updates
+  - Emergency call (eCall)
+  - Fire safety & flammability
+  - Hazardous substances & recycling
+  - Radio & telecom
+  - Event & data recording
+  - Dimensions & weights
 
 vehicle_categories:
   - Passenger car

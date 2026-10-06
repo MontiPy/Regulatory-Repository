@@ -24,11 +24,13 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/78951.html
 status: in-force
-summary: ISO 34502, ISO/TR 4804, and ISO/PAS 8800 cover safety and AI guidance standards
-  for automated driving and ADAS systems, including E/E architecture, controllers,
-  and software. They require scenario-based safety evidence supporting safe operational
-  design domain (ODD) definition, fallback strategies, and AI model...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+status_note: ISO/TR 4804:2020 was withdrawn on 29 Apr 2025 and replaced by ISO/TS
+  5083:2025; ISO 34502:2022 and ISO/PAS 8800:2024 remain current.
+summary: ISO 34502, ISO/TR 4804 and ISO/PAS 8800 are voluntary guidance standards
+  for automated driving and ADAS safety, covering scenario-based safety evaluation,
+  safety of automated driving systems and AI safety. They serve as supporting safety-case
+  evidence rather than direct government regulation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d007ff7a4e9cea3cc8fb8708d4a5cc191f0f83fa
 systems:
 - ADAS
@@ -38,10 +40,7 @@ systems:
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Automated-driving scenario, safety and AI guidance standards
-un_equivalent:
-- UN R157
-un_equivalent_ai:
-- UN R155
+un_equivalent: []
 vehicle_categories:
 - Passenger car
 - Light truck

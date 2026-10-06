@@ -1,0 +1,63 @@
+{
+ "group": "v09",
+ "patches": {
+  "us-fmvss-213": {
+   "summary": "FMVSS No. 213 sets requirements for child restraint systems used in motor vehicles and aircraft, including add-on, built-in, booster, belt-positioning and car-bed types, to reduce child deaths and injuries in crashes. It applies to passenger cars, MPVs, trucks and buses and to child restraint systems manufactured before December 5, 2026; FMVSS No. 213b applies from that date.",
+   "_why": "S1-S3 scope and application text; S3 limits to products made before 2026-12-05"
+  },
+  "us-fmvss-213b": {
+   "summary": "FMVSS No. 213b sets requirements for child restraint systems used in motor vehicles and aircraft, to reduce child deaths and injuries in crashes. It applies to passenger cars, MPVs, trucks and buses and to child restraint systems manufactured on or after December 5, 2026, and replaces FMVSS No. 213 for products made from that date.",
+   "_why": "S3 application: manufactured on or after 2026-12-05"
+  },
+  "us-fmvss-214": {
+   "summary": "FMVSS No. 214 specifies performance requirements for occupant protection in side impacts, to reduce the risk of serious and fatal injury. It applies to passenger cars and to MPVs, trucks and buses with a GVWR of 4,536 kg (10,000 lb) or less (walk-in vans excepted), through side door strength requirements and limits on forces, deflections and accelerations measured on dummies in crash tests.",
+   "_why": "S1 and S2 scope/applicability"
+  },
+  "us-fmvss-216a": {
+   "summary": "FMVSS No. 216a establishes strength requirements for the passenger compartment roof, to reduce deaths and injuries from roof crush into the occupant compartment in rollovers. It applies to passenger cars and to MPVs, trucks and buses with a GVWR of 4,536 kg (10,000 lb) or less, with exclusions such as school buses, per the S8 and S9 implementation schedule.",
+   "_why": "S1-S3.1 scope and application"
+  },
+  "us-fmvss-217": {
+   "summary": "FMVSS No. 217 sets requirements for retention of windows other than windshields in buses, and for operating forces, opening dimensions and markings of bus emergency exits. It aims to minimize occupant ejection and provide ready emergency egress, and applies to buses except those built to transport persons under physical restraint.",
+   "_why": "S1-S3 scope, purpose, application"
+  },
+  "us-fmvss-222": {
+   "summary": "FMVSS No. 222 establishes occupant protection requirements for school bus passenger seating and restraining barriers. It aims to reduce deaths and injury severity from occupants striking vehicle interior structures in crashes and sudden driving maneuvers, and applies to school buses.",
+   "_why": "S1-S3 scope, purpose, application"
+  },
+  "us-fmvss-301": {
+   "summary": "FMVSS No. 301 specifies requirements for the integrity of motor vehicle fuel systems, to reduce fire deaths and injuries from fuel spillage during and after crashes and from fuel ingestion during siphoning. It applies to passenger cars, to MPVs, trucks and buses of 4,536 kg GVWR or less, and to heavier school buses, using fuel with a boiling point above 0 C.",
+   "_why": "S1-S3 scope, purpose, application"
+  },
+  "us-fmvss-303": {
+   "summary": "FMVSS No. 303 specifies integrity requirements for motor vehicle fuel systems using compressed natural gas (CNG), including bi-fuel, dedicated and dual-fuel vehicles, to reduce fire deaths and injuries from fuel leakage during and after crashes. It applies to passenger cars, MPVs, trucks and buses of 10,000 lb GVWR or less using CNG, and to CNG school buses of any weight.",
+   "_why": "S1-S3 scope, purpose, application"
+  },
+  "us-fmvss-304": {
+   "summary": "FMVSS No. 304 specifies integrity requirements for compressed natural gas (CNG) motor vehicle fuel containers, to reduce deaths and injuries from fires caused by fuel leakage during and after crashes. It applies to each passenger car, MPV, truck and bus that uses CNG as a motor fuel and to each container designed to store CNG on board any motor vehicle.",
+   "_why": "S1-S3 scope, purpose, application"
+  },
+  "us-fmvss-305a": {
+   "summary": "FMVSS No. 305a specifies requirements for protection from electric shock, fire, explosion and gas venting during normal operation and after a crash, including electrolyte leakage and energy storage intrusion. It applies to passenger cars, MPVs, trucks and buses with propulsion voltages above 60 VDC or 30 VAC and a top speed over 40 km/h; mandatory from September 1, 2027 (4,536 kg GVWR or less) and September 1, 2028 (heavier).",
+   "status": "upcoming",
+   "effective_date": "2027-09-01",
+   "status_note": "Mandatory applicability begins 1 Sep 2027 for vehicles of 4,536 kg GVWR or less and 1 Sep 2028 for heavier vehicles; small-volume manufacturers get one more year.",
+   "_why": "S3(a)-(b) application and mandatory dates"
+  },
+  "us-fmvss-307": {
+   "summary": "FMVSS No. 307 specifies requirements for the integrity of motor vehicle hydrogen fuel systems, to reduce deaths and injuries from fires caused by hydrogen leakage during operation and after crashes. It applies to each motor vehicle manufactured on or after September 1, 2028 that uses compressed hydrogen gas as a fuel source to propel the vehicle.",
+   "status": "upcoming",
+   "effective_date": "2028-09-01",
+   "status_note": "Applies to vehicles manufactured on or after 1 Sep 2028.",
+   "_why": "S1-S3 scope, purpose, application (2028-09-01)"
+  },
+  "us-fmvss-308": {
+   "summary": "FMVSS No. 308 specifies requirements for compressed hydrogen storage systems used in motor vehicles, to reduce deaths and injuries from hydrogen leaks and burst of pressurized containers. It applies to vehicles manufactured on or after September 1, 2028 with compressed hydrogen as propulsion fuel, and not to vehicles with only cryo-compressed or solid-state hydrogen storage.",
+   "status": "upcoming",
+   "effective_date": "2028-09-01",
+   "status_note": "Applies to vehicles manufactured on or after 1 Sep 2028.",
+   "_why": "S1-S3 scope, purpose, application (2028-09-01)"
+  }
+ },
+ "skipped": []
+}

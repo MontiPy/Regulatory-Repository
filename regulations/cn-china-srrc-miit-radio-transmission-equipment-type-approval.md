@@ -3,8 +3,6 @@ citation: China SRRC / MIIT Radio Transmission Equipment Type Approval
 commodities:
 - ECUs
 - ADAS sensors
-- Wiring
-- Connectors
 - Infotainment
 id: cn-china-srrc-miit-radio-transmission-equipment-type-approval
 last_pulled: '2026-06-01T18:54:41+00:00'
@@ -28,21 +26,19 @@ source_url: https://www.srrc.org.cn/
 status: in-force
 summary: Radio transmission equipment installed in vehicles sold in China — including
   telematics, cellular, Bluetooth/Wi-Fi/UWB, keyless entry, TPMS, and radar modules
-  — must obtain SRRC type approval from MIIT before market placement. Compliance requires
-  meeting China's spectrum and EMC requirements and carrying required...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  — must obtain SRRC type approval from MIIT before market placement.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2fc3f78d535b61a2d87c7bb3e9d8809443037ecc
 systems:
 - EMC
 - ADAS
 - Cybersecurity
 - Theft prevention
+- Radio & telecom
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: China Telecom/RF - SRRC radio transmission equipment approval
 translation_status: untranslated
-un_equivalent_ai:
-- UN R10
 vehicle_categories:
 - Passenger car
 ---

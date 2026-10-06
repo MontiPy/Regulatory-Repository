@@ -23,11 +23,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Fuel systems for motor vehicles powered by gaseous fuels — including high-pressure
-  gas, liquefied petroleum gas, and compressed hydrogen gas — must meet ministerial
-  standards for strength, structure, and mounting to prevent explosion, ignition,
-  and fire; vehicles using compressed hydrogen gas must additionally comply...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Article 17 of Japan's Road Transport Vehicle Safety Regulations sets fuel
+  system requirements for gas-fuelled motor vehicles. High-pressure gas and LPG fuel
+  systems must meet ministerial standards for strength, structure and mounting to
+  prevent explosion (and, for LPG, ignition and fire). Compressed hydrogen flow-path
+  components must meet fuel leak prevention standards in collision or rear-end impact,
+  with listed vehicle types excluded.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 06af9691c40b191f4b60aa3b0b78005c6ea9737d
 systems:
 - Fuel safety
@@ -35,8 +37,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 17 — Fuel System for Gaseous Fuels
 translation_status: translated
-un_equivalent_ai:
-- UN R34
 vehicle_categories:
 - Passenger car
 - Light truck

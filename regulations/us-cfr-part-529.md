@@ -21,17 +21,14 @@ status: in-force
 summary: Manufacturers of multistage automobiles (vehicles built in two or more stages
   by incomplete, intermediate, and final-stage manufacturers) are regulated to determine
   which party bears manufacturer responsibility for fuel economy compliance under
-  Title V of the Motor Vehicle Information and Cost Savings Act. Incomplete...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  Title V of the Motor Vehicle Information and Cost Savings Act.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3a4ef88328289839028c0a13ab7de17a9e677d6c
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 529—MANUFACTURERS OF MULTISTAGE AUTOMOBILES
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -2,9 +2,6 @@
 citation: GCC EV Technical Regulation Draft
 commodities:
 - Batteries
-- Fuel system
-- Fuel tanks
-- Hoses & lines
 - Connectors
 - Charging inlet
 - Power electronics
@@ -27,25 +24,22 @@ open_tags:
 paywall: true
 region: GCC
 source_api: spreadsheet
-source_url: https://www.tuv.com/regulations-and-standards/en/gso-technical-requirements-for-electric-vehicle.html
-status: in-force
+source_url: https://www.gso.org.sa/wp-content/uploads/2025/12/MC-250905-Technical-Regulation-for-Electric-Vehicles-En.pdf
+status: proposed
+status_note: Draft technical regulation — not yet in force.
 summary: Battery electric vehicles capable of exceeding 25 km/h and their associated
   high-voltage systems — including the REESS/battery, contactors, inverters, and service
   disconnect — are regulated to prevent fire, explosion, electric shock, and hazardous
-  leakage under normal use, abuse, and post-crash conditions. The...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  leakage under normal use, abuse, and post-crash conditions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e946e16e4dbdecc233cf5db6e5781c9348b9b952
 systems:
 - Battery safety
-- Fuel safety
 - EV charging
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Technical Requirements for Battery Electric Vehicles
 translation_status: untranslated
-un_equivalent_ai:
-- UN R100
-- UN R153
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -1,5 +1,6 @@
 ---
-citation: Turkey motor vehicle type approval framework
+citation: Regulation on Approval and Market Surveillance of Motor Vehicles and their
+  Trailers (MARTOY), Official Gazette 19 April 2020
 commodities: []
 id: tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework
 last_pulled: '2026-06-01T18:54:42+00:00'
@@ -18,17 +19,18 @@ region: TR
 source_api: spreadsheet
 source_url: https://urunkurallari.ticaret.gov.tr/en/sectoral-guide/motor-vehicles
 status: in-force
-summary: Turkey's vehicle type approval framework governs market access for passenger
-  vehicles sold in Turkey, requiring that vehicles hold recognized safety and environmental
-  approvals (aligned with the EU framework) and be supported by complete documentation
-  including type-approval certificates, conformity of production...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Turkey's MARTOY regulation, aligned with EU Regulation 2018/858, governs
+  type approval and market surveillance of motor vehicles and their trailers. Market
+  access depends on type-approval certificates, conformity of production and complete
+  documentation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 4bd2d27ee96ff43065212f31f132d764d28fbf08
 systems:
 - Vehicle identification
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: Turkey vehicle type approval aligned with EU framework
+title: Turkey MARTOY — Approval and Market Surveillance of Motor Vehicles and their
+  Trailers
 translation_status: untranslated
 vehicle_categories:
 - Passenger car

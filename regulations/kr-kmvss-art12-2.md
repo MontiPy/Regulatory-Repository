@@ -22,9 +22,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Passenger cars, vans, trucks, and special-purpose vehicles with a gross vehicle
   weight of 3.5 tonnes or less (excluding dual-wheel vehicles, towed vehicles, and
-  ultra-compact vehicles) must be equipped with a tire pressure warning system. The
-  system must operate at speeds from 40 km/h up to the vehicle's maximum...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  ultra-compact vehicles) must be equipped with a tire pressure warning system.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 30d9ddbea1074c8a963d5462adb0db5219e03eae
 systems:
 - Tires & wheels
@@ -33,8 +32,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 12-2 — Tire Pressure Warning System
 translation_status: translated
-un_equivalent_ai:
-- UN R141
 vehicle_categories:
 - Passenger car
 - Light truck

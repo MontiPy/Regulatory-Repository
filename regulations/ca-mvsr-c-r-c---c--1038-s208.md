@@ -22,21 +22,20 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Seat belt assembly requirements for designated seating positions mandate
-  specific seat belt types, retractor mechanisms, and anchorage configurations across
-  enclosed motorcycles, passenger cars, three-wheeled vehicles, and trucks or multi-purpose
-  passenger vehicles, with requirements varying by vehicle type, gross...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 'Section 208 of Canada''s Motor Vehicle Safety Regulations specifies which
+  seat belt assemblies (Type 1 or Type 2, manual, with emergency- or automatic-locking
+  retractors, and whether detachable) must be installed at each designated seating
+  position. Requirements vary by vehicle type: enclosed motorcycles, passenger cars
+  and three-wheeled vehicles, trucks and multi-purpose passenger vehicles with GVWR
+  of 4 536 kg or less, and those above 4 536 kg.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b259248bb1124a9f73793b6d1c4182bd56fd8e15
 systems:
 - Restraints
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 208 — Seat Belt Fit
-un_equivalent_ai:
-- UN R16
-- UN R14
+title: MVSR s. 208 — Seat Belt Assemblies (Installation)
 vehicle_categories:
 - Passenger car
 - Light truck

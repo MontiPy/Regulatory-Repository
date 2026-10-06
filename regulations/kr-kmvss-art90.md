@@ -19,11 +19,12 @@ region: KR
 source_api: law_go_kr
 source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
-summary: Braking performance of motor vehicles in Korea must meet specified standards
-  set out in referenced attached tables, which vary by vehicle type (passenger cars,
-  vans, trucks, special-purpose vehicles, and towed vehicles) and configuration (standard,
-  ultra-compact, ABS-equipped, or articulated with air-type service...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Sets braking performance requirements for motor vehicles, referring to Attached
+  Tables for passenger cars, vans, trucks and special-purpose vehicles, towed vehicles,
+  ultra-compact vehicles, ABS-equipped vehicles and cornering braking of articulated
+  vehicles with air-type service brakes. Towed vehicles are covered only where an
+  air-type service brake is fitted. Latest amendment 2024-11-29.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 107b9300c372e5ed253316ff5eb3d185ba3f0a1e
 systems:
 - Braking
@@ -31,9 +32,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 90 — Braking Performance
 translation_status: translated
-un_equivalent_ai:
-- UN R13
-- UN R13H
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -1,0 +1,22 @@
+{
+ "shard": "rec-us-parts-04",
+ "kind": "records",
+ "items": [
+  "us-cfr-part-588",
+  "us-cfr-part-591",
+  "us-cfr-part-592",
+  "us-cfr-part-593",
+  "us-cfr-part-594",
+  "us-cfr-part-595",
+  "us-cfr-part-596",
+  "us-cfr575-104",
+  "us-cfr575-105",
+  "us-cfr575-106",
+  "us-cfr575-301",
+  "us-cfr575-302",
+  "us-cfr575-401",
+  "us-stub-california-proposition-65",
+  "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+  "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386"
+ ]
+}

@@ -13,7 +13,7 @@
       { key: "systems",            label: "System",           taxonomyKey: "systems",              tooltip: "The functional vehicle system the regulation governs, e.g. braking, ADAS, or emissions. Higher-level grouping than Commodity." },
       { key: "commodities",        label: "Commodity",        taxonomyKey: "commodities",          tooltip: "The specific physical part or component targeted, e.g. airbags, tires, or charging inlet. More granular than System — a single regulation may cover several commodities." },
       { key: "vehicle_categories", label: "Vehicle Category", taxonomyKey: "vehicle_categories",   tooltip: "The type of vehicle the regulation applies to." },
-      { key: "status",             label: "Status",           taxonomyKey: "statuses",             tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Proposed (open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
+      { key: "status",             label: "Status",           taxonomyKey: "statuses",             tooltip: "Where the regulation stands in its lifecycle: Active (currently in force), Upcoming (adopted but not yet applicable), Proposed (draft / open for comment), Withdrawn (removed without replacement), or Superseded (replaced by a newer regulation)." },
       { key: "tagging_status",     label: "Tagging Status",   taxonomyKey: "tagging_statuses",     tooltip: "Whether the regulation has been classified with metadata (systems, commodities, vehicle categories). Untagged = not yet processed; LLM-tagged = classified automatically." },
       { key: "translation_status", label: "Translation",      taxonomyKey: "translation_statuses", tooltip: "Whether the regulation text has been translated to English. Untranslated = original language only." },
     ];
@@ -78,15 +78,20 @@
       CORPUS_COUNTS = counts;
     }
 
-    // Content-availability category for the header "Show" bar.
-    //   full    — full regulation text from a live source
-    //   paywall — requires purchase / institutional access
-    //   noconn  — catalog stub, no live connector yet
+    // Content-availability category for the "Availability" filter, driven by what the
+    // record body actually contains (build.py content_kind), not by its connector.
+    //   full    — the regulation text itself
+    //   paywall — paywalled standard; we hold a summary/metadata only
+    //   noconn  — summary, index page or link only (no regulation text here)
+    // Default: all shown, each card labelled; the filter narrows to full text.
     const AVAIL_CATEGORIES = ["full", "paywall", "noconn"];
     function availabilityCategory(record) {
+      if ((record.content_kind || "full") === "full") return "full";
       if (record.paywall === true) return "paywall";
-      if (record.source_api === "spreadsheet") return "noconn";
-      return "full";
+      return "noconn";
+    }
+    function isDefaultAvailability(shown) {
+      return shown.length === AVAIL_CATEGORIES.length;
     }
     function selectedAvailability() {
       return new Set(availBoxes.filter((b) => b.checked).map((b) => b.dataset.avail));
@@ -260,26 +265,27 @@
         return `<span class="${cls}">${escapeHtml(un)}</span>`;
       }).join("");
       const note = unverified
-        ? `<span class="ai-note">AI-suggested — verify against source</span>`
+        ? `<span class="ai-note">Machine-suggested, not reviewed — a 2026 audit found many of these wrong. Do not rely on them without checking the regulation.</span>`
         : "";
       return `<div class="meta-item${unverified ? " ai" : ""}"><strong>${escapeHtml(label)}</strong>${note}<div class="chips">${chips}</div></div>`;
     }
 
     function stubBanner(record) {
-      if (record.source_api !== "spreadsheet") return "";
+      const kind = record.content_kind || "full";
+      if (kind === "full") return "";
       const srcLink = record.source_url
-        ? ` <a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">Visit official source.</a>`
+        ? ` <a href="${escapeHtml(record.source_url)}" rel="noopener noreferrer">Open the official source.</a>`
         : "";
-      if (record.paywall) {
-        return `<div class="stub-banner paywalled">
-          <span class="stub-banner-icon">&#x1F512;</span>
-          <span>Full text not available — this standard requires purchase or institutional access. Content below is derived from the reference repository.${srcLink}</span>
+      const what = {
+        summary: "The text below is a curated summary written for this repository, not the regulation itself.",
+        index: "Only the source site's landing page / table of contents was captured — not the regulation text.",
+        link: "Only a pointer to the official source was captured — not the regulation text.",
+      }[kind] || "This record does not contain the regulation text.";
+      const pay = record.paywall ? " The standard is sold / paywalled by its publisher." : "";
+      return `<div class="stub-banner ${record.paywall ? "paywalled" : "no-paywall"}">
+          <span class="stub-banner-icon">${record.paywall ? "&#x1F512;" : "&#x26A0;&#xFE0F;"}</span>
+          <span><strong>Not the regulation text.</strong> ${what}${pay} Verify every requirement against the official document.${srcLink}</span>
         </div>`;
-      }
-      return `<div class="stub-banner no-paywall">
-        <span class="stub-banner-icon">&#x26A0;&#xFE0F;</span>
-        <span>Full text not available — no live connector yet. Content below is derived from the reference repository.${srcLink}</span>
-      </div>`;
     }
 
     function hostLabel(url) {
@@ -295,16 +301,15 @@
     function readerTrustHtml(record) {
       const chips = [];
       if (record.status) chips.push(`<span class="reader-trust-chip">${escapeHtml(displayLabel(record.status))}</span>`);
+      if (record.status_note) chips.push(`<span class="reader-trust-chip status-note">${escapeHtml(record.status_note)}</span>`);
       if (record.citation) chips.push(`<span class="reader-trust-chip">${escapeHtml(record.citation)}</span>`);
       if (record.source_url) chips.push(`<span class="reader-trust-chip source">Source: ${sourceLinkHtml(record)}</span>`);
       if (record.last_pulled) chips.push(`<span class="reader-trust-chip">Pulled ${escapeHtml(record.last_pulled.slice(0, 10))}</span>`);
-      if ((record.un_equivalent_ai || []).length) chips.push(`<span class="reader-trust-chip">AI equivalent needs verification</span>`);
       return chips.join("");
     }
 
     // Honest provenance: systems/commodities/vehicle categories come from the
-    // automated tagging pass, so flag them as AI-classified (mirrors the
-    // verified-vs-AI treatment already used for UN equivalents).
+    // automated tagging pass, so flag them as AI-classified .
     function classificationNote(record) {
       const hasTags = (record.systems || []).length
         || (record.commodities || []).length
@@ -328,8 +333,7 @@
                 ${facetChips("Systems", record.systems)}
                 ${facetChips("Vehicle Categories", record.vehicle_categories)}
                 ${facetChips("Open Tags", record.open_tags, "open")}
-                ${unChips("UN Equivalent", record.un_equivalent, false)}
-                ${unChips("AI-Suggested Equivalent", record.un_equivalent_ai, true)}
+                ${unChips("UN equivalent (stated in the regulation)", record.un_equivalent, false)}
                 ${relatedLinks(record.related)}
                 ${sourceHtml ? `<div class="meta-item"><strong>Source</strong><span>${sourceHtml}</span></div>` : ""}
                 ${record.effective_date ? `<div class="meta-item"><strong>Effective Date</strong><span>${escapeHtml(record.effective_date)}</span></div>` : ""}
@@ -449,6 +453,12 @@
       return `<p class="card-foot">${bits.join('<span class="dot" aria-hidden="true">·</span>')}</p>`;
     }
 
+    function contentKindBadge(record) {
+      const label = CONTENT_KIND_LABELS[record.content_kind];
+      if (!label) return "";
+      return `<span class="badge kind-badge" title="This repository does not hold the regulation text for this record — see the official source.">${escapeHtml(label)}</span>`;
+    }
+
     function cardTemplate(record) {
       const q = searchInput.value;
       const isActive = record.id === openReaderId;
@@ -463,6 +473,7 @@
                 <span class="badge region">${escapeHtml(record.region)}</span>
                 <span class="badge">${escapeHtml(record.citation)}</span>
                 ${statusBadge}
+                ${contentKindBadge(record)}
               </div>
               ${cardSummaryHtml(record, q)}
               ${cardFootHtml(record)}
@@ -474,7 +485,8 @@
         </article>`;
     }
 
-    const AVAIL_LABELS = { full: "Full text", paywall: "Paywall", noconn: "No live connection" };
+    const AVAIL_LABELS = { full: "Full regulation text", paywall: "Paywalled (summary only)", noconn: "Summary or link only" };
+    const CONTENT_KIND_LABELS = { summary: "Summary only", index: "Index page only", link: "Link only" };
 
     function renderChips() {
       const bar = document.querySelector("#chip-bar");
@@ -488,7 +500,7 @@
         });
       });
       const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
-      const isDefault = shown.length === 1 && shown[0] === "full";
+      const isDefault = isDefaultAvailability(shown);
       if (!isDefault) {
         if (shown.length === 0) {
           // All availability boxes unchecked: a non-default state that would
@@ -622,7 +634,7 @@
       if (searchInput.value.trim()) return true;
       if (filtersForm.querySelector("input:checked")) return true;
       const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
-      return !(shown.length === 1 && shown[0] === "full");
+      return !isDefaultAvailability(shown);
     }
 
     function setActiveNav(key) {
@@ -794,11 +806,11 @@
     function applyUrlParams() {
       const params = new URLSearchParams(window.location.search);
       searchInput.value = params.get("q") || "";
-      // Content-availability bar. Default (no param) = full text only.
+      // Content-availability filter. Default (no param) = everything shown.
       // "avail=full,paywall" lists shown categories; "avail=none" = nothing shown.
       const availParam = params.get("avail");
       const shown = availParam === null
-        ? new Set(["full"])
+        ? new Set(AVAIL_CATEGORIES)
         : new Set(availParam.split(",").filter(Boolean));
       availBoxes.forEach((b) => { b.checked = shown.has(b.dataset.avail); });
       FILTERS.forEach((f) => {
@@ -822,7 +834,7 @@
         // Only record availability in the URL when it differs from the default
         // (full text only). "none" round-trips the all-unchecked state.
         const shown = AVAIL_CATEGORIES.filter((c) => selectedAvailability().has(c));
-        const isDefault = shown.length === 1 && shown[0] === "full";
+        const isDefault = isDefaultAvailability(shown);
         if (!isDefault) params.set("avail", shown.length ? shown.join(",") : "none");
         const sel = readSelections();
         FILTERS.forEach((f) => {
@@ -937,7 +949,7 @@
     clearFilters.addEventListener("click", () => {
       searchInput.value = "";
       filtersForm.querySelectorAll("input[type='checkbox']").forEach((el) => { el.checked = false; });
-      availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
+      availBoxes.forEach((b) => { b.checked = true; });
       visibleLimit = PAGE_SIZE;
       render();
       syncUrl();
@@ -960,8 +972,8 @@
         const el = availBoxes.find((b) => b.dataset.avail === chip.dataset.chipValue);
         if (el) el.checked = false;
       } else if (type === "avail-none") {
-        // Restore the default availability (full text only).
-        availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
+        // Restore the default availability (everything shown).
+        availBoxes.forEach((b) => { b.checked = true; });
       }
       visibleLimit = PAGE_SIZE;
       render();
@@ -992,7 +1004,7 @@
       else history.replaceState(null, "", window.location.pathname);
       searchInput.value = "";
       filtersForm.querySelectorAll("input[type='checkbox']").forEach((el) => { el.checked = false; });
-      availBoxes.forEach((b) => { b.checked = b.dataset.avail === "full"; });
+      availBoxes.forEach((b) => { b.checked = true; });
       visibleLimit = PAGE_SIZE;
       render();
       updateClearButton();

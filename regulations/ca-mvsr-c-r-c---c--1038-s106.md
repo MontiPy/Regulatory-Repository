@@ -24,18 +24,14 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Brake hoses, brake hose assemblies, and brake hose end fittings on passenger
   cars, trucks, buses, motorcycles, trailers, and related vehicles must conform to
-  Technical Standards Document No. 106 (Brake Hoses). The regulation also specifies
-  updated ASTM reference standards that may be substituted for older versions...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  Technical Standards Document No. 106 (Brake Hoses).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ce96d93f437385dab8fb101a5d6781fafc5678f5
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 106
-un_equivalent_ai:
-- UN R13
-- UN R13H
+title: MVSR s. 106 — Brake Hoses
 vehicle_categories:
 - Passenger car
 - Light truck

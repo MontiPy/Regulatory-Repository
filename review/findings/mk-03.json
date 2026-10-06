@@ -1,0 +1,84 @@
+{
+  "shard": "mk-03",
+  "reviewed": ["HK-MO", "TW", "JP", "KR", "IN", "SOUTH-ASIA"],
+  "findings": [
+    {
+      "id": "SOUTH-ASIA",
+      "field": "un_1958",
+      "verdict": "wrong",
+      "severity": "high",
+      "current": "null (unverified)",
+      "proposed": "Pakistan: true (E64, notified 24 Apr 2020); other members unverified. Consider splitting Pakistan into its own profile or adding a per-country note, since the group-level boolean cannot be true for Bangladesh/Sri Lanka/Nepal/Bhutan/Maldives.",
+      "evidence": "Search snippet: 'Pakistan has been notified as a contracting party to the 1958 Agreement by the UN Office of Legal Affairs on 24 April 2020 and has been assigned with the symbol E 64.' Repo itself is internally inconsistent: basis says 'moving toward UN R adoption after 1958 accession' and notes say 'Pakistan acceded to the 1958 Agreement (reported)' while un_1958 is null.",
+      "evidence_url": "https://www.jasic.org/meeting_docs_admin/contents/uploads/doc/meeting2/4-12%20Pak%20WP%20-29%20%20Pres%20241122.pdf",
+      "confidence": "medium"
+    },
+    {
+      "id": "SOUTH-ASIA",
+      "field": "notes",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Pakistan acceded to the 1958 Agreement (reported).",
+      "proposed": "Pakistan acceded to the 1958 Agreement (E64, notified April 2020); implementation of UN Rs via EDB-notified list is ongoing. Remove '(reported)' once confirmed against the UNECE status table.",
+      "evidence": "Same JASIC / UNECE-sourced presentation 'Compliance of WP-29 Regulations in Pakistan' lists Pakistan as contracting party with shortlisted R13/R13H, R79, R30, R48.",
+      "evidence_url": "https://www.jasic.org/meeting_docs_admin/contents/uploads/doc/meeting2/4-12%20Pak%20WP%20-29%20%20Pres%20241122.pdf",
+      "confidence": "medium"
+    },
+    {
+      "id": "SOUTH-ASIA",
+      "field": "emissions",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Pakistan Euro 2→Euro 5 transition",
+      "proposed": "Pakistan moved fuel from Euro 2 to Euro 5 (petrol Aug 2020, diesel Jan 2021); vehicle emission-standard dates for Euro 5 vehicles should be stated separately from fuel quality, and verified.",
+      "evidence": "Search snippet: 'petrol was shifted to Euro-5 standards from August 1, 2020, whereas diesel standard was uplifted from January 2021.' This concerns fuel; vehicle homologation levels not confirmed.",
+      "evidence_url": "https://propakistani.pk/2021/01/08/euro-5-standards-how-will-it-impact-the-automotive-and-petroleum-industries-in-pakistan/",
+      "confidence": "low"
+    },
+    {
+      "id": "IN",
+      "field": "watch[0]",
+      "verdict": "wrong",
+      "severity": "medium",
+      "current": "Six airbags in M1 (draft) and Bharat NCAP; AIS-189/190 for cybersecurity & software update (aligned with UN R155/156).",
+      "proposed": "Six-airbag mandate for M1: the Oct 2022/Oct 2023 proposal was dropped/not notified (minister, Sep 2023: 'We don't want to make six airbags rule for cars mandatory'); current mandate is 2 front airbags (Oct 2022 for 6 was deferred). Verify latest status before listing as pending. AIS-189 (cybersecurity) applies to new vehicle types from 1 Oct 2025 (all types from 1 Oct 2028); AIS-190 covers software update.",
+      "evidence": "Search: 'there was a significant reversal: ... Gadkari stating \"We don't want to make six airbags rule for cars mandatory\" in September 2023'; AIS-189 'effective for new vehicle types from October 1, 2025, and for all vehicle types from October 1, 2028'.",
+      "evidence_url": "https://www.deccanherald.com/amp/story/india%2Fnitin-gadkari-backtracks-on-six-airbags-in-car-statement-2684632",
+      "confidence": "medium"
+    },
+    {
+      "id": "IN",
+      "field": "watch[0] (AIS-189/190 status)",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "AIS-189/190 listed as a watch item with no dates",
+      "proposed": "Add dates: AIS-189 mandatory for new types from 1 Oct 2025, all types 1 Oct 2028 (per secondary sources; confirm in MoRTH notification).",
+      "evidence": "'AIS-189 is effective for new vehicle types from October 1, 2025, and for all vehicle types from October 1, 2028.'",
+      "evidence_url": "https://agnile.com/resources/ais-189-190-guide",
+      "confidence": "low"
+    },
+    {
+      "id": "JP",
+      "field": "accepts[1]",
+      "verdict": "unverifiable",
+      "severity": "medium",
+      "current": "UN R0 IWVTA",
+      "proposed": "Clarify whether Japan actually accepts IWVTA certificates (UN R0) and from when; evidence found only that IWVTA uptake in Japan has been limited and some items (e.g. emissions) are not covered.",
+      "evidence": "Search snippet: 'Some items necessary for vehicle certification are not covered by the IWVTA scheme (emissions, for example), ... compliance inspections for the missing items will be required' and 'Japan should aim to establish a complete mutual recognition of IWVTA between Japan and Europe at an early date'.",
+      "evidence_url": "https://www.jsae.or.jp/files_publish/page/1219/en_vol74_8-2.pdf",
+      "confidence": "low"
+    },
+    {
+      "id": "HK-MO",
+      "field": "authorities / basis",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Profile covers 'Hong Kong & Macau' but all authorities, basis, emissions and process are Hong Kong only; records is empty.",
+      "proposed": "Add Macau authority (DSAT, Direcao dos Servicos para os Assuntos de Transito) and its regime, or retitle as Hong Kong only. Hong Kong emissions: petrol private cars must meet Euro 6c (not generic 'Euro 6'); also cite Air Pollution Control (Vehicle Design Standards)(Emission) Regulations and Noise Control (Motor Vehicles) Regulation in basis.",
+      "evidence": "Search snippet (TD/EPD): 'All petrol private cars must meet Euro 6c emission and noise standards' and TD certificates must prove compliance with 'the Air Pollution Control (Vehicle Design Standards) (Emission) Regulations and Noise Control (Motor Vehicles) Regulation'. Repo: members lists Macau SAR but no Macau authority.",
+      "evidence_url": "https://www.td.gov.hk/filemanager/en/content_4641/Vehicle_Importation_Procedure_eng_Dec%202023_final.pdf",
+      "confidence": "medium"
+    }
+  ],
+  "notes": "Confirmed as consistent with search evidence or repository records: KR un_1958/un_1998 true, KORUS 50,000-unit deemed-compliance threshold, KMVSS Art. 53-4 (record kr-kmvss-art53-4 exists, Child Presence Detection); IN un_1958 false / un_1998 true (India acceded to 1998 Agreement 22 Apr 2006); all listed record ids for TW/JP/KR/IN exist in regulations/. Not verified for lack of evidence: TW emission phase claims and authority scopes, JP PHP 5,000-unit cap and E43 (matched standard knowledge only), IN Rule 126 CBU exemption cap, India CAFE dates, KR low-emission sales mandate wording. Systemic: group profiles (SOUTH-ASIA, HK-MO) carry single boolean membership/regime values that mask per-country differences, and several watch items lack dates."
+}

@@ -1,0 +1,172 @@
+{
+ "shard": "cw-04",
+ "reviewed": [
+  "rear-visibility",
+  "lighting-installation",
+  "headlamps",
+  "signal-lamps",
+  "indirect-vision",
+  "glazing",
+  "wipers",
+  "defrost",
+  "forward-vision",
+  "controls-telltales"
+ ],
+ "findings": [
+  {
+   "id": "controls-telltales",
+   "field": "cells.BR.cite",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "CONTRAN 758/2018; 37/1998 (records br-contran-758, br-contran-37)",
+   "proposed": "CONTRAN 758/2018 only (controls/tell-tales: revokes Res. 225/07, allows UN R121 or FMVSS 101 as alternative); drop br-contran-37 from records",
+   "evidence": "Search result: 'Resolução CONTRAN nº 37 de 21/05/1998 ... fixa normas de utilização de alarmes sonoros e outros acessórios de segurança contra furto ou roubo para os veículos automotores' (anti-theft alarms, not control identification). Repo record br-contran-37 titled 'Identification and Lighting of Controls' is a stub citing atic-ts.com, no regulation text. CONTRAN 758/2018: 'estabelece requisitos de localização, identificação e iluminação dos controles, indicadores e lâmpadas piloto'; in force 1 Jan 2021, revoking Res. 225/07.",
+   "evidence_url": "https://www.normasbrasil.com.br/norma/resolucao-37-1998_95771.html",
+   "confidence": "high"
+  },
+  {
+   "id": "br-contran-37",
+   "field": "title",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "Identification and Lighting of Controls (CONTRAN 37/1998)",
+   "proposed": "Record describes the wrong instrument; CONTRAN 37/1998 concerns anti-theft sound alarms/security accessories. Identification of controls is Res. 758/2018 (supersedes 225/07).",
+   "evidence": "Resolução CONTRAN nº 37 de 21/05/1998 fixes norms for sound alarms and other anti-theft security accessories.",
+   "evidence_url": "https://www.normasbrasil.com.br/norma/resolucao-37-1998_95771.html",
+   "confidence": "medium"
+  },
+  {
+   "id": "indirect-vision",
+   "field": "cells.BR.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "CONTRAN 924/2022, 966/2022",
+   "proposed": "CONTRAN 966/2022 (technical requirements for rear-view mirrors); 924/2022 is the school-transport mirror/camera-monitor mandate, list as note not general mirror requirement",
+   "evidence": "Search: 924/2022 'consolidates norms about the mandatory use of rear-view mirrors, camera-monitor equipment... in vehicles intended for school transportation'; 966/2022 'disposes on the technical requirements for vehicle rearview mirrors' (Annexes I-IV by vehicle class). Repo br-contran-924 is a stub whose source_url is a certification-consultancy page.",
+   "evidence_url": "https://www.legisweb.com.br/legislacao/?id=432026",
+   "confidence": "medium"
+  },
+  {
+   "id": "lighting-installation",
+   "field": "cells.JP.cite",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Safety Regs Art. 32 et seq. (UN R48 applied) -> jp-jvsregs-art32",
+   "proposed": "Art. 32 is the headlamp article; map it to the headlamps topic (JP cell) and cite the lamp-installation/signal articles for installation",
+   "evidence": "Repo record jp-jvsregs-art32 title: 'JVSR Article 32 — Headlights'; summary: 'driving beam and passing beam headlights'. Record contains no UN R48 statement.",
+   "evidence_url": "regulations/jp-jvsregs-art32.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "headlamps",
+   "field": "cells.JP",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(no JP cell)",
+   "proposed": "Add JP: Safety Regs Art. 32 (headlights), records [jp-jvsregs-art32]; also CA (CMVSS 108) and BR (CONTRAN 970/2022) cells are absent",
+   "evidence": "jp-jvsregs-art32 is titled 'Headlights'; CMVSS 108 and CONTRAN 970 (headlights listed among covered devices) exist in repo.",
+   "evidence_url": "regulations/jp-jvsregs-art32.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "headlamps",
+   "field": "cells.UN.records[ece-r149]",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "ece-r149 titled 'Road Illumination Devices (except headlamps)'",
+   "proposed": "Linked record title/summary says R149 excludes headlamps, contradicting the cell ('R149 consolidates R98/R112/R113/R123'); R149 covers headlamps (road illumination devices). Fix the record title; cell is right",
+   "evidence": "Repo ece-r149 H1: 'UN Regulation No. 149 — Road Illumination Devices (except headlamps)'. Chinese GB 4599-2024 'Road illumination devices' (R149 basis) covers headlamps.",
+   "evidence_url": "regulations/ece-r149.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "forward-vision",
+   "field": "cells.CN",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "GB 11562-2025 (record status in-force, no cell status)",
+   "proposed": "Mark cell status phase-in: GB 11562-2025 published 2025-12-31, implemented 2027-01-01, replaces GB 11562-2014 (modified adoption of UN R125, M1/N1)",
+   "evidence": "Search: 'The standard was released on December 31, 2025, and will be implemented on January 1, 2027. GB 11562-2025 completely replaces GB 11562-2014... based on ECE R125.' Repo record cn-gb-11562 effective_date 2027-01-01 yet status in-force; its body is generic lighting boilerplate ('Ensure the vehicle can be seen, signals driver intent... road illumination').",
+   "evidence_url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=AAFA506EEE5A99EF96C2417F824CB75F",
+   "confidence": "high"
+  },
+  {
+   "id": "cn-gb-11562",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Body text is lighting boilerplate (Key Compliance Intent: seen/road illumination without glare)",
+   "proposed": "No regulation text; body mismatched to forward-vision subject",
+   "evidence": "Repo body: 'Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.'",
+   "evidence_url": "regulations/cn-gb-11562.md",
+   "confidence": "high"
+  },
+  {
+   "id": "defrost",
+   "field": "cells.CN.records[cn-gb-11555-2025]",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "un_equivalent_ai UN R125 on linked record; body stub",
+   "proposed": "Linked record's AI UN equivalent R125 (forward field of vision) is not a defrost counterpart; no UN regulation covers defrost (EU uses 2021/535 Annex). Cell cite itself is correct (GB 11555-2025, effective 2026-01-01).",
+   "evidence": "Search: 'GB 11555-2025 汽车风窗玻璃除霜和除雾系统技术规范 ... 发布日期2025-03-28，实施日期2026-01-01'. Repo cn-gb-11555-2025 and gcc-saso-3005-2022 list un_equivalent_ai [UN R125].",
+   "evidence_url": "https://std.sacinfo.org.cn/PCNoc/queryInfo?id=101833",
+   "confidence": "medium"
+  },
+  {
+   "id": "rear-visibility",
+   "field": "cells.CA.cite",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "CMVSS 111",
+   "proposed": "Confirm Canadian rear-visibility (camera) requirement scope; cell has no status",
+   "evidence": "Linked record ca-mvsr-c-r-c---c--1038-s111 has no title/status frontmatter; could not confirm via search that the rear-visibility camera requirement is within CMVSS 111 as cited.",
+   "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s111.md",
+   "confidence": "low"
+  },
+  {
+   "id": "rear-visibility",
+   "field": "cells.EU.cite",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "UN R158 via (EU) 2019/2144 (no status)",
+   "proposed": "Add status/phase-in note: R158 mandatory for new M1 types from 6 Jul 2022 (all new M1 from 7 Jul 2024; N1/M2/M3/N2/N3 7 Jul 2024 per search snippet, dates not confirmed against EUR-Lex)",
+   "evidence": "Search snippet: 'mandatory for M1 category vehicles on July 6, 2022, and ... N1, N2, M2, M3, O3, and O4 starting July 7, 2024' (secondary source; dates contradictory with new-type vs all-vehicle phases).",
+   "evidence_url": "https://eur-lex.europa.eu/eli/reg/2019/2144/oj/eng",
+   "confidence": "low"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells.JP.cite",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R148 (applied) -> jp-srrv-signal-lamps-...",
+   "proposed": "Cite the Japanese instrument (Safety Regs / TRIAS, UN R6/R7/R23/R38 applied) not R148",
+   "evidence": "Linked record citation: 'SRRV / TRIAS / UN R6/R7/R23/R38'; un_equivalent_ai R6, R7 — no mention of R148.",
+   "evidence_url": "regulations/jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps.md",
+   "confidence": "low"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells.CN.cite",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "GB 5920-2024 (no status/notes)",
+   "proposed": "Add phase-in: GB 5920-2024 effective 2025-07-01 for new type approvals of most signal lamps; reversing and stop lamps from 2027-01-01",
+   "evidence": "Search: '新申请型式批准的倒车灯、制动灯，自2027年1月1日起执行该标准' (other lamps from 2025-07-01).",
+   "evidence_url": "https://www.ah-snchain.cn/?p=1465",
+   "confidence": "medium"
+  },
+  {
+   "id": "signal-lamps",
+   "field": "cells",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "No CA? present; BR and GCC cells missing",
+   "proposed": "Add BR (CONTRAN 970/2022) and GCC signalling cells",
+   "evidence": "br-contran-970 covers 'position lamps, brake lights, turn indicators, fog lights, DRL'.",
+   "evidence_url": "regulations/br-contran-970.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Most Brazil (CONTRAN), GCC and JP/CN records linked in these cells are stubs with no regulation text, so cell correctness could only be checked by citation, not content. Cells carry almost no status field, so phase-ins (AU ADR 108 is marked; CN GB 11562-2025, GB 5920-2024 brake/reverse lamps, GB 11555-2025 are not) are invisible. Several linked records have wrong AI-written bodies/summaries (cn-gb-11562 lighting boilerplate; ece-r149 title). glazing, wipers (EU 2021/535 ex-1008/2010, repealed 6 Jul 2022 per recital), lighting-installation (other than JP), indirect-vision (US CMS note) otherwise checked consistent."
+}

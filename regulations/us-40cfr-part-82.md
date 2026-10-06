@@ -2,8 +2,6 @@
 citation: 40 CFR Part 82
 commodities:
 - HVAC
-- Fuel system
-- Exhaust
 id: us-40cfr-part-82
 last_pulled: '2026-06-01T18:45:44+00:00'
 open_tags:
@@ -21,15 +19,18 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-82
 status: in-force
-summary: Production, import, export, transformation, and destruction of ozone-depleting
-  substances are regulated under this subpart to implement the Montreal Protocol and
-  relevant Clean Air Act provisions. It applies to any person involved in these activities
-  and imposes limits on production and consumption of controlled...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 'Implements the Montreal Protocol and Clean Air Act Title VI for stratospheric
+  ozone protection: production and consumption controls on ozone-depleting substances
+  (Subpart A), servicing of motor vehicle air conditioners including refrigerant handling
+  and technician certification (Subpart B), bans on nonessential products, labeling,
+  recycling and emissions reduction (Subparts C-F, H-I), and the Significant New Alternatives
+  Policy program for substitute refrigerants (Subpart G).'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5fe9654f9585c5146dd198e7787bea620c56031f
 systems:
 - Emissions
 - HVAC
+- Hazardous substances & recycling
 tagged_at: '2026-06-16T15:44:41+00:00'
 tagging_status: llm-tagged
 title: PART 82—PROTECTION OF STRATOSPHERIC OZONE

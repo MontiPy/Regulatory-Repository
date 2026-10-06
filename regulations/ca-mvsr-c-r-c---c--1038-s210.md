@@ -22,21 +22,21 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Seat belt anchorages in designated seating positions must match the type
-  of seat belt assembly installed (pelvic restraint for Type 1, or combined pelvic
-  and upper torso restraint for Type 2), and must conform to Technical Standards Document
-  No. 210 for three-wheeled vehicles, passenger cars, MPVs, buses (excluding...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'Section 210 of Canada''s Motor Vehicle Safety Regulations requires seat
+  belt anchorages at each designated seating position fitted with a belt under section
+  208: pelvic anchorages for a Type 1 assembly, combined pelvic and upper torso anchorages
+  for Type 2. The anchorages and owner''s manual must conform to TSD 210 for three-wheeled
+  vehicles, passenger cars, multipurpose passenger vehicles, non-school buses and
+  trucks up to 4 536 kg GVWR; enclosed motorcycles need only the S4.2 strength test.
+  A transitional provision runs to 1 September 2020.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1ff1bf439ddd76fabdb8b46ad21c1733113b8050
 systems:
 - Restraints
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 210 — Transitional Provision
-un_equivalent_ai:
-- UN R14
-- UN R16
+title: MVSR s. 210 — Seat Belt Anchorages
 vehicle_categories:
 - Passenger car
 - Light truck

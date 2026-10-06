@@ -4,7 +4,7 @@ commodities:
 - Seats
 - Seatbelts
 id: us-fmvss-207
-last_pulled: '2026-06-01T18:40:36+00:00'
+last_pulled: '2026-10-06T03:26:21+00:00'
 open_tags:
 - seat adjuster
 - seat track
@@ -22,20 +22,19 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.207
 status: in-force
-summary: Seating systems in passenger cars, multipurpose passenger vehicles, trucks,
-  and buses are regulated to minimize seat failure during vehicle impact. The standard
-  requires that seats, their attachment assemblies, and installation withstand specified
-  longitudinal forces, remain in adjusted positions during testing, and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: a9a67cfd31871fa258e364d7a91cec597e5dbc66
+summary: FMVSS No. 207 establishes requirements for seats, their attachment assemblies
+  and installation to minimize seat failure from forces in a vehicle impact. It applies
+  to passenger cars, multipurpose passenger vehicles, trucks designed to carry at
+  least one person, and buses. Seats must withstand forward and rearward longitudinal
+  loads of 20 times seat mass, a back moment of 373 N-m, and stay in adjusted position.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 642b4762ed8d53a8770e4a1d9990816ddc5216b9
 systems:
 - Crashworthiness
 - Restraints
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.207 Standard No. 207; Seating systems.
-un_equivalent_ai:
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -57,7 +56,7 @@ S4. Requirements.
 
 S4.1 Driver's seat. Each vehicle with manually operated driving controls shall have a driver's designated seating position.
 
-S4.2. General performance requirements. When tested in accordance with S5, each occupant seat shall withstand the following forces, in newtons, except for: a side-facing seat; a passenger seat on a bus other than a school bus; a passenger seat on a school bus with a GVWR greater than 4,536 kilograms (10,000 pounds); and, a passenger seat on a school bus with a GVWR less than or equal to 4,536 kg manufactured before October 21, 2011.
+S4.2. General performance requirements. When tested in accordance with S5, each occupant seat shall withstand the following forces, in newtons, except for: a side-facing seat; a passenger seat on a bus other than a school bus; and, a passenger seat on a school bus with a GVWR greater than 4,536 kilograms (10,000 pounds).
 
 (a) In any position to which it can be adjusted—20 times the mass of the seat in kilograms multiplied by 9.8 applied in a forward longitudinal direction;
 
@@ -115,4 +114,4 @@ S5.3 Apply the forces specified in S4.3.2.1(a) and (b) to a hinged or folding se
 
 S5.4 Determine the center of gravity of a seat or seat component with all cushions and upholstery in place and with the head restraint in its fully extended design position.
 
-*[36 FR 22902, Dec. 2, 1971, as amended at 52 FR 7868, Mar. 13, 1987; 53 FR 30434, Aug. 12, 1988; 59 FR 37167, July 21, 1994; 60 FR 13647, Mar. 14, 1995; 63 FR 28935, May 27, 1998; 73 FR 62779, Oct. 21, 2008; 87 FR 18588, Mar. 30, 2022]*
+*[36 FR 22902, Dec. 2, 1971, as amended at 52 FR 7868, Mar. 13, 1987; 53 FR 30434, Aug. 12, 1988; 59 FR 37167, July 21, 1994; 60 FR 13647, Mar. 14, 1995; 63 FR 28935, May 27, 1998; 73 FR 62779, Oct. 21, 2008; 87 FR 18588, Mar. 30, 2022; 91 FR 33101, June 3, 2026]*

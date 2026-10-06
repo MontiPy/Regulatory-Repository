@@ -1,12 +1,6 @@
 ---
 citation: New Vehicle Efficiency Standard Act 2024
-commodities:
-- ECUs
-- Fuel system
-- Exhaust
-- Batteries
-- Electric motors
-- Fuel tanks
+commodities: []
 id: au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:
@@ -26,24 +20,17 @@ region: AU
 source_api: spreadsheet
 source_url: https://www.nvesregulator.gov.au/what-new-vehicle-efficiency-standard
 status: in-force
-summary: Australia's New Vehicle Efficiency Standard Act 2024 regulates suppliers
-  of covered vehicles entered on the Register of Approved Vehicles, requiring them
-  to meet fleet average CO2, fuel economy, certified emissions, and OBD requirements
-  across their vehicle portfolios. Compliance encompasses engine and aftertreatment...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: The New Vehicle Efficiency Standard Act 2024 sets fleet-average CO2 (g/km)
+  targets for suppliers of new light vehicles in Australia, with credits and penalties
+  from 1 July 2025. It does not itself set pollutant-emission, OBD or fuel-consumption-label
+  requirements (those are ADR 79, 111, 112 and 81).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 90be78fbdad9f06a65a179f9b46c4cfdcebd9046
 systems:
 - Emissions
-- On-board diagnostics
-- Fuel safety
-- Battery safety
-- EV charging
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: New Vehicle Efficiency Standard (NVES)
-un_equivalent_ai:
-- UN R101
-- UN R168
 vehicle_categories:
 - Passenger car
 - Light truck

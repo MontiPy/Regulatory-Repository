@@ -25,8 +25,8 @@ status: in-force
 summary: Headlamps on motor vehicles (excluding towed vehicles) in Korea must be equipped
   with white main-beam and dipped-beam headlamps, or adaptive headlamps, installed
   in pairs on each side and meeting specified installation and luminous intensity
-  standards per attached tables. Headlamps with a primary dipped-beam luminous...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  standards per attached tables.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eba0f2a07d6051f8d12a5afac49663ff40047bac
 systems:
 - Lighting & signaling
@@ -35,9 +35,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 38 — Headlamps
 translation_status: translated
-un_equivalent_ai:
-- UN R112
-- UN R113
 vehicle_categories:
 - Passenger car
 - Light truck

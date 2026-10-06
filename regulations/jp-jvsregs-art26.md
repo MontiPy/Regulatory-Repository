@@ -2,7 +2,6 @@
 citation: JVSR Article 26
 commodities:
 - Door latches & hinges
-- Lighting modules
 id: jp-jvsregs-art26
 last_pulled: '2026-06-01T18:52:41+00:00'
 open_tags:
@@ -23,12 +22,10 @@ status: in-force
 summary: Vehicles exclusively for transporting young children and those with a seating
   capacity of 30 or more (excluding emergency vehicles) must be equipped with emergency
   exits meeting ministerially prescribed standards for location and size, unless all
-  seats are directly accessible from the boarding entrance. Vehicles with...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  seats are directly accessible from the boarding entrance.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1d3a2d720d38c8c418ba4fb5730984d85702f979
-systems:
-- Lighting & signaling
-- Tell-tales & controls
+systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 26 — Emergency Exits

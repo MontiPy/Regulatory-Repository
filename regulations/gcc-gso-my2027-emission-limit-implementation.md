@@ -24,11 +24,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Emissions limits for motor vehicles registered in GCC member states are regulated
-  under GSO MY2027, requiring compliance with Euro-level pollutant limits — which
-  vary by country (e.g., Euro 5 for Saudi Arabia and Kuwait, Euro 6b for the UAE)
-  — along with functional emission control systems and OBD fault detection over...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Workbook entry on GCC member-state Euro-level emission limits for motor vehicles
+  registered in GCC states, noting that limits vary by member state, including Euro
+  5 for Saudi Arabia and Kuwait and Euro 6b for the UAE. The body is summary text,
+  not the regulation itself, and the national annexes should be checked.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: fa698827e6c67a554488f1410677c58cc99aeba3
 systems:
 - Emissions
@@ -40,8 +40,6 @@ title: GCC Member State Euro-level Emission Limits
 translation_status: untranslated
 un_equivalent:
 - UN R83
-un_equivalent_ai:
-- UN R168
 vehicle_categories:
 - Passenger car
 ---

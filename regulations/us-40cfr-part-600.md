@@ -25,11 +25,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-40/part-600
 status: in-force
-summary: Fuel economy and greenhouse gas exhaust emissions of motor vehicles — specifically
-  2008 and later model year automobiles — are regulated under this part, which establishes
-  applicability rules, testing procedures, and reporting requirements for manufacturers,
-  including provisions for electric vehicles, alternative fuel...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: US EPA regulations on fuel economy and greenhouse gas exhaust emissions of
+  motor vehicles. Under section 600.001 the part applies to 2008 and later model year
+  automobiles that are not medium duty passenger vehicles, and to 2011 and later model
+  year automobiles including them. Its subpart B test procedures also let manufacturers
+  test larger vehicles for fuel consumption standards under 49 CFR part 535.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0b45e84f16d3a8207106ff13c9232c42369bf264
 systems:
 - Emissions
@@ -39,9 +40,6 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 600—FUEL ECONOMY AND GREENHOUSE GAS EXHAUST EMISSIONS OF MOTOR VEHICLES
-un_equivalent_ai:
-- UN R101
-- UN R154
 vehicle_categories:
 - Passenger car
 - Light truck

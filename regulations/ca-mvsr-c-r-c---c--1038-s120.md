@@ -24,18 +24,14 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Tire selection and rim requirements for motor vehicles with a GVWR over 4,536
   kg, certain three-wheeled vehicles, and motorcycles must conform to Technical Standards
-  Document No. 120. Used or retreaded tires on buses, trailers, and trucks must additionally
-  meet minimum tread depth, defect-notice, and original...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  Document No. 120.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 6258ec4c61a692cef32fdc993066683b9396adad
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 120 — Technical Standards Document No. 120
-un_equivalent_ai:
-- UN R54
-- UN R142
+title: MVSR s. 120 — Tire Selection and Rims (GVWR over 4,536 kg)
 vehicle_categories:
 - Heavy truck
 - Motorcycle

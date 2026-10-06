@@ -24,18 +24,15 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Seat belt assemblies in passenger cars, multi-purpose passenger vehicles,
   trucks, buses, low-speed vehicles, three-wheeled vehicles, and enclosed motorcycles
-  must conform to Technical Standards Document No. 209 (TSD 209). The regulation also
-  specifies several modifications to TSD 209's requirements, including updated...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  must conform to Technical Standards Document No. 209 (TSD 209).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f737f161acb02f72dacc9936241ab4b5ca57ac6f
 systems:
 - Restraints
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 209
-un_equivalent_ai:
-- UN R16
+title: MVSR s. 209 — Seat Belt Assemblies
 vehicle_categories:
 - Passenger car
 - Light truck

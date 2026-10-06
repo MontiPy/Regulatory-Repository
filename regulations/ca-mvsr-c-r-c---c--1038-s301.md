@@ -20,19 +20,18 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Passenger cars, multi-purpose passenger vehicles, trucks, and buses with
-  a GVWR of 4,536 kg or less, as well as school buses exceeding that weight threshold,
-  must conform to Technical Standards Document No. 301 (Fuel System Integrity) if
-  equipped with a fuel system using a fuel with a boiling point of 0°C or higher....
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Section 301 of Canada's Motor Vehicle Safety Regulations requires passenger
+  cars, and multi-purpose passenger vehicles, trucks and buses of 4 536 kg GVWR or
+  less, that use a fuel with a boiling point of 0 degrees C or higher, to conform
+  to TSD 301 (Fuel System Integrity). It also applies to school buses above 4 536
+  kg GVWR.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 52e6e6b0a14857036d78cf229d7001d07af52057
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 301
-un_equivalent_ai:
-- UN R153
+title: MVSR s. 301 — Fuel System Integrity
 vehicle_categories:
 - Passenger car
 - Light truck

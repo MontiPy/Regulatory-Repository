@@ -1,0 +1,73 @@
+{
+  "shard": "mk-04",
+  "reviewed": ["TH","MY","ID","PH","VN","SG"],
+  "findings": [
+    {
+      "id": "VN",
+      "field": "un_1958",
+      "verdict": "wrong",
+      "severity": "high",
+      "current": "false",
+      "proposed": "true (Vietnam is a 1958 Agreement contracting party since 24 Sep 2023; E-mark reported as E67)",
+      "evidence": "Search result 'Vietnam approves plan to implement UNECE 1958 Agreement on road vehicles': 'Vietnam officially became a Party to the UNECE 1958 Agreement from September 24, 2023'; Decision 77/QD-TTg of 12 Jan 2026 approves an implementation plan for mutual recognition of type approvals. JASIC doc 'Recent information on accession to the 1958 Agreement: Vietnam's report' (2023.11.23).",
+      "evidence_url": "https://vietnamlawmagazine.vn/vietnam-approves-plan-to-implement-unece-1958-agreement-on-road-vehicles-76408.html",
+      "confidence": "high"
+    },
+    {
+      "id": "VN",
+      "field": "accepts / marks / process / confidence",
+      "verdict": "questionable",
+      "severity": "medium",
+      "current": "accepts: 'UN R approvals / test reports used as evidence for QCVN items'; no E-mark listed; confidence: low",
+      "proposed": "Update to reflect 1958 membership (E-mark for approvals granted by Vietnam, mutual recognition of UN R approvals subject to VR implementing rules); re-verify against the VR / Decision 77/QD-TTg implementation status.",
+      "evidence": "Follows from un_1958 being true since 24 Sep 2023; Decision 77/QD-TTg (12 Jan 2026) sets the implementation plan, so exact acceptance rules in practice may still be phasing in (unverified).",
+      "evidence_url": "https://vietnamlawmagazine.vn/vietnam-approves-plan-to-implement-unece-1958-agreement-on-road-vehicles-76408.html",
+      "confidence": "medium"
+    },
+    {
+      "id": "TH",
+      "field": "emissions",
+      "verdict": "questionable",
+      "severity": "medium",
+      "current": "Euro 5 (from 2024; Euro 6 planned) — CO2-based excise tax",
+      "proposed": "Euro 5 from 1 Jan 2024 for newly manufactured vehicles (TIS 3018-2563 diesel); Euro 6 for SI (gasoline) light-duty vehicles from 1 Jan 2025 (TIS 3017-2563), with later dates (reported 2026) for larger petrol/diesel vehicles. 'Euro 6 planned' is stale; verify against current PCD/TISI notice.",
+      "evidence": "Search snippet (dieselnet/enviliance/Nation): 'Euro 5 emissions standards apply for diesel light duty vehicles; Euro 6 emissions standards are in place for SI engine light duty vehicles, from 1 January 2025'; 'government has delayed Euro 6 enforcement to 2025 for small petrol-powered vehicles, and 2026 for large petrol vehicles and all diesel'.",
+      "evidence_url": "https://dieselnet.com/standards/th/",
+      "confidence": "medium"
+    },
+    {
+      "id": "SG",
+      "field": "regions",
+      "verdict": "wrong",
+      "severity": "low",
+      "current": "regions: []",
+      "proposed": "regions: [ASEAN]",
+      "evidence": "Singapore is an ASEAN member and all other Southeast Asia market entries (TH, MY, ID, PH, VN) use regions: [ASEAN]; the repo file knowledge/markets/asia_pacific.yaml groups SG under 'Southeast Asia'. Inconsistent region tagging may drop SG from ASEAN filters.",
+      "evidence_url": "knowledge/markets/asia_pacific.yaml",
+      "confidence": "high"
+    },
+    {
+      "id": "SG",
+      "field": "un_1958",
+      "verdict": "unverifiable",
+      "severity": "low",
+      "current": "false",
+      "proposed": "",
+      "evidence": "Searches did not return the UNECE status table; Singapore does not appear among reported Asian contracting parties (Japan, Thailand, Malaysia, Korea, Pakistan, Philippines, Viet Nam, etc.) so false is plausible, but I could not directly confirm from the official list.",
+      "evidence_url": "https://unece.org/transport/road-transport/status-1958-agreement-and-annexed-regulations",
+      "confidence": "low"
+    },
+    {
+      "id": "VN",
+      "field": "emissions",
+      "verdict": "unverifiable",
+      "severity": "low",
+      "current": "Euro 5 (since 2022)",
+      "proposed": "",
+      "evidence": "Decision 49/2011/QD-TTg sets Euro 5 for newly manufactured/assembled/imported vehicles from 1 Jan 2022, but a search hit titled 'Vietnam's emission goals clash with outdated fuel quality' and 'National level-5 exhaust emission standards yet to be issued' suggest actual implementation/QCVN issuance lagged; effective practice not confirmed.",
+      "evidence_url": "https://www.transportpolicy.net/standard/vietnam-light-duty-emissions/",
+      "confidence": "low"
+    }
+  ],
+  "notes": "Verified OK by search: TH un_1958 true / E53; MY un_1958 true and un_1998 true (Malaysia joined both Agreements in 2006) / E52; PH un_1958 true (Agreement entered into force for the Philippines 2 Jan 2023); ID un_1958 false (not a contracting party); ID Euro 4 and PH Euro 4, SG Euro 6 + VES (introduced 1 Jan 2018) consistent with sources; drive sides correct. un_1998 null values for TH/ID/PH/VN/SG left unverified (no evidence found). The main systemic issue is membership data lagging recent accessions (VN 2023; PH already updated). Linked ASEAN workbook records are spreadsheet-derived summaries (not checked in depth, outside this shard). PH 'Euro 4' and MY 'Euro 4/5' step dates were not independently confirmed."
+}

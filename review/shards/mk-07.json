@@ -1,0 +1,12 @@
+{
+ "shard": "mk-07",
+ "kind": "markets",
+ "items": [
+  "SA",
+  "AE",
+  "GCC-OTHER",
+  "IL",
+  "LEVANT",
+  "SANCTIONED"
+ ]
+}

@@ -20,19 +20,18 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Passenger cars, multi-purpose passenger vehicles, trucks, and buses with
-  a GVWR of 4,536 kg or less (with specified exceptions) must conform to Technical
-  Standards Document No. 216 on Roof Crush Resistance, while certain multi-stage-built
-  or altered-roof vehicles in that weight range may alternatively comply with TSD...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Section 216 of Canada's Motor Vehicle Safety Regulations requires passenger
+  cars, multi-purpose passenger vehicles, trucks and buses of 4 536 kg GVWR or less
+  to conform to TSD 216 (Roof Crush Resistance). School buses, convertibles and trucks
+  over 2 722 kg built from a cutaway chassis are excluded; some multi-stage or altered-roof
+  vehicles may alternatively meet TSD 220.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c42e9f1f970a8fdbc5381e60d801695eee5d1b0f
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 216
-un_equivalent_ai:
-- UN R135
+title: MVSR s. 216 — Roof Crush Resistance
 vehicle_categories:
 - Passenger car
 - Light truck

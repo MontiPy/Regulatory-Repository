@@ -23,8 +23,8 @@ status: in-force
 summary: Seat belts, anchorages, and head restraints in motor vehicles produced in
   or imported to Brazil from January 30, 2020 onward are regulated by this resolution,
   which establishes minimum installation requirements and test procedures for these
-  components. It also prohibits the use of devices that lock, loosen, or...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  components.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: bbf877d2a9d3a47c66f2bf9acfea391bc5b544c5
 systems:
 - Restraints
@@ -33,9 +33,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Seat Belts, Anchorages and Head Restraints
 translation_status: untranslated
-un_equivalent_ai:
-- UN R16
-- UN R17
 vehicle_categories:
 - Passenger car
 - Light truck

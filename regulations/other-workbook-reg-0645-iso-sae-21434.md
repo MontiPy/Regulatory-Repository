@@ -22,11 +22,13 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/70918.html
 status: in-force
-summary: Road vehicles' cybersecurity engineering across the full vehicle lifecycle
-  — covering E/E architecture, ECUs, telematics, gateways, ADAS controllers, and diagnostics
-  — is addressed by ISO/SAE 21434, which requires manufacturers to identify and manage
-  cybersecurity risks through structured engineering processes...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Entry for ISO/SAE 21434, an engineering standard for cybersecurity of road
+  vehicles. The record states it is not a regulation by itself but is commonly used
+  as the process basis behind UN R155 and other cyber approval regimes, supporting
+  evidence that cybersecurity risks are identified and managed across the vehicle
+  lifecycle. It lists UN R155, GB 44495, ISO 24089 and EU GSR2 as related. The record
+  holds no standard text.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f111ca11c16702a932570a7cb63c9c7fc8d01cbf
 systems:
 - Cybersecurity
@@ -36,8 +38,7 @@ systems:
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Cybersecurity engineering
-un_equivalent:
-- UN R155
+un_equivalent: []
 vehicle_categories: []
 ---
 

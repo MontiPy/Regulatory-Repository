@@ -17,11 +17,12 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Motor vehicles must be constructed and operated so as not to generate excessive
-  noise, in accordance with ministerially prescribed standards, and those powered
-  by internal combustion engines must be fitted with a muffler that meets ministerially
-  prescribed standards for structure and noise suppression performance....
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: Article 30 of Japan's Road Transport Vehicle Safety Regulations requires
+  motor vehicles (excluding towed vehicles) to meet ministerial standards on structure
+  and noise levels so as not to generate excessive noise. Vehicles with an internal
+  combustion engine must carry a muffler meeting ministerial standards, and type-designated
+  noise suppression devices must allow the vehicle to comply.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: aff18694150fb8767bb6a6832c8b3a808c655638
 systems:
 - Noise
@@ -30,9 +31,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 30 — Noise Suppression Devices
 translation_status: translated
-un_equivalent_ai:
-- UN R51
-- UN R138
 vehicle_categories:
 - Passenger car
 - Light truck

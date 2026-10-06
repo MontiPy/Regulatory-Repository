@@ -1,9 +1,7 @@
 ---
 citation: 49 CFR §571.141
 commodities:
-- Horn
 - Electric motors
-- Batteries
 id: us-fmvss-141
 last_pulled: '2026-06-01T18:40:10+00:00'
 open_tags:
@@ -26,8 +24,8 @@ status: in-force
 summary: Hybrid and electric vehicles (with a GVWR of 4,536 kg or less, including
   low-speed vehicles) are required to emit minimum pedestrian alert sounds at specified
   sound pressure levels across defined frequency bands during stationary operation,
-  reverse, and low-speed travel (below 30 km/h). The standard mandates specific...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  reverse, and low-speed travel (below 30 km/h).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1b0a16319832249e2b09928e1673aedaabdabc18
 systems:
 - Noise
@@ -36,8 +34,6 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric
   Vehicles.
-un_equivalent_ai:
-- UN R138
 vehicle_categories:
 - Passenger car
 - Light truck

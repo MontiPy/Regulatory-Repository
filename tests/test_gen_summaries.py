@@ -51,11 +51,17 @@ class TestParseSummary:
     def test_strips_smart_quote_wrapping(self):
         assert parse_summary('“Hello world.”') == "Hello world."
 
-    def test_truncates_overlong_text(self):
-        long = "word " * 100
+    def test_truncates_overlong_text_without_sentences(self):
+        long = "word " * 200
         result = parse_summary(long)
-        assert len(result) <= 323  # cap + ellipsis
+        assert len(result) <= 643  # 2 x cap + ellipsis
         assert result.endswith("...")
+
+    def test_cuts_at_last_complete_sentence(self):
+        text = ("First sentence about scope. " * 6) + ("Second part keeps going " * 20)
+        result = parse_summary(text)
+        assert len(result) <= 320
+        assert result.endswith("scope.")
 
 
 class TestWriteSummaryToFile:

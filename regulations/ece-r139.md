@@ -6,7 +6,7 @@ commodities:
 - ECUs
 - ADAS sensors
 id: ece-r139
-last_pulled: '2026-06-01T18:53:04+00:00'
+last_pulled: '2026-10-06T03:31:45+00:00'
 open_tags:
 - brake assist system
 - BAS
@@ -21,13 +21,14 @@ open_tags:
 - brake actuation
 region: ECE
 source_api: unece
-source_url: https://unece.org/transport/vehicle-regulations-wp29/Regulations
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42018X1591
 status: in-force
-summary: Brake Assist Systems (BAS) on vehicles are regulated under UN R139, which
-  is administered by UNECE WP.29, but the full regulatory text is not provided here
-  and only a reference link to the external source is given.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 0ada7853809150b81c4ce153dc69cbd691f9d42d
+summary: Sets approval requirements for Brake Assist Systems (BAS) on passenger cars
+  and light goods vehicles of categories M1 and N1. BAS must detect emergency braking
+  and boost brake pressure, verified by a test with the ABS fully cycling. Incorporates
+  Supplement 1 to the original version (in force 29 December 2018).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a063f21c1037703460147e63bc1e783dae48d9c4
 systems:
 - Braking
 - ADAS
@@ -39,6 +40,815 @@ vehicle_categories:
 - Light truck
 ---
 
-# UN Regulation No. 139 — Brake Assist Systems (BAS)
+> **Source:** text as published in the Official Journal of the European Union (CELEX 42018X1591, 2018-10-26). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.
 
-See the [UNECE WP.29 Regulations index](https://unece.org/transport/vehicle-regulations-wp29/Regulations) for the full text of UN Regulation No. 139.
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 26.10.2018 | EN | Official Journal of the European Union | L 269/1 |
+
+---
+
+Only the original UN/ECE texts have legal effect under international public law. The status and date of entry into force of this Regulation should be checked in the latest version of the UN/ECE status document TRANS/WP.29/343, available at:
+
+http://www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html
+
+Regulation No 139 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of passenger cars with regard to Brake Assist Systems (BAS) [2018/1591]
+
+Incorporating all valid text up to:
+
+Supplement 1 to the original version of the Regulation – Date of entry into force: 29 December 2018
+
+CONTENTS
+
+REGULATION
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Scope |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Definitions |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Application for approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 5. | General requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 6. | Functional requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 7. | General test requirements |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 8. | Assessment of the presence of a category ‘A’ BAS |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 9. | Assessment of the presence of a category ‘B’ BAS |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 10. | Modification of vehicle type or BAS and extension of approval |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 11. | Conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 12. | Penalties for non-conformity of production |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 13. | Production definitively discontinued |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 14. | Names and addresses of Technical Services responsible for conducting approval tests, and of Type Approval Authorities |  |
+
+ANNEXES
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Communication |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 2. | Arrangements of approval marks |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 3. | Method for determination of FABS and aABS |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 4. | Data processing for the BAS |  |
+
+1.   SCOPE
+
+1.1.   This Regulation applies to the approval of vehicles of category M1 and N1
+ [(1)](#ntr1-L_2018269EN.01000101-E0001) with regard to their brake assist system.
+
+1.2.   This Regulation does not cover:
+
+|  |  |
+| --- | --- |
+| 1.2.1. | Vehicles with a design speed not exceeding 25 km/h; |
+
+|  |  |
+| --- | --- |
+| 1.2.2. | Vehicles fitted for invalid drivers. |
+
+2.   DEFINITIONS
+
+For the purposes of this Regulation,
+
+|  |  |
+| --- | --- |
+| 2.1. | ‘Approval of a vehicle’ means the approval of a vehicle type with regard to brake assist system. |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.2. | ‘Vehicle type’ means a category of vehicles which do not differ in such essential respects as:   |  |  | | --- | --- | | 2.2.1. | The manufacturer's trade name or mark; |  |  |  | | --- | --- | | 2.2.2. | Vehicle features which significantly influence the performances of the Brake Assist System (e.g. design of the braking system); |  |  |  | | --- | --- | | 2.2.3. | The design of the Brake Assist System. | |
+
+|  |  |
+| --- | --- |
+| 2.3. | ‘Maximum mass’ means the maximum mass stated by the vehicle manufacturer to be technically permissible (this mass may be higher than the ‘permissible maximum mass’ laid down by the national administration). |
+
+|  |  |
+| --- | --- |
+| 2.4. | ‘The distribution of mass among the axles’ means the distribution of the effect of the gravity on the mass of the vehicle and/or its contents among the axles. |
+
+|  |  |
+| --- | --- |
+| 2.5. | ‘Wheel/axle load’ means the vertical static reaction (force) of the road surface in the contact area on the wheel/wheels of the axle. |
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.6. | ‘Brake Assist System (BAS)’ means a function of the braking system that deduces an emergency braking event from a characteristic of the driver's brake demand and, under such conditions:   |  |  | | --- | --- | | (a) | Assists the driver to deliver the maximum achievable braking rate; or |  |  |  | | --- | --- | | (b) | Is sufficient to cause full cycling of the Anti-lock Braking System. |  |  |  | | --- | --- | | 2.6.1. | ‘Category A Brake Assist System’ means a system which detects an emergency braking condition based primarily [(2)](#ntr2-L_2018269EN.01000101-E0002) on the brake pedal force applied by the driver; |  |  |  | | --- | --- | | 2.6.2. | ‘Category B Brake Assist System’ means a system which detects an emergency braking condition based primarily [(2)](#ntr2-L_2018269EN.01000101-E0002) on the brake pedal speed applied by the driver; | |
+
+3.   APPLICATION FOR APPROVAL
+
+3.1.   The application for approval of a vehicle type with regard to BAS shall be submitted by the vehicle manufacturer or by their duly accredited representative.
+
+3.2.   It shall be accompanied by the under-mentioned documents in triplicate and by the following particulars:
+
+|  |  |
+| --- | --- |
+| 3.2.1. | A description of the vehicle type with regard to the items specified in paragraph 2.2 above. The numbers and/or symbols identifying the vehicle type and the engine type shall be specified; |
+
+|  |  |
+| --- | --- |
+| 3.2.2. | A list of the components, duly identified, constituting the BAS system; |
+
+|  |  |
+| --- | --- |
+| 3.2.3. | A diagram of the assembled BAS system and an indication of the position of its components on the vehicle; |
+
+|  |  |
+| --- | --- |
+| 3.2.4. | Detailed drawings of each component to enable it to be easily located and identified. |
+
+3.3.   A vehicle, representative of the vehicle type to be approved, shall be submitted to the Technical Service conducting the approval tests.
+
+4.   APPROVAL
+
+4.1.   If the vehicle type submitted for approval pursuant to this Regulation meets the requirements of paragraphs 5 and 6 below, approval of that vehicle type shall be granted.
+
+4.2.   An approval number shall be assigned to each type approved, its first two digits shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party shall not assign the same number to another vehicle type with regard to Brake Assist System.
+
+4.3.   Notice of approval or of refusal of approval of a vehicle type pursuant to this Regulation shall be communicated to the Contracting Parties to the Agreement which apply this Regulation by means of a form conforming to the model in Annex 1 to this Regulation and of a summary of the information contained in the documents referred to in paragraphs 3.2.1 to 3.2.4 above, the drawings supplied by the applicant for approval being in a format not exceeding A4 (210 × 297 mm), or folded to that format, and on an appropriate scale.
+
+4.4.   There shall be affixed, conspicuously and in a readily accessible place specified on the approval form, to every vehicle conforming to a vehicle type approved under this Regulation, an international approval mark consisting of:
+
+|  |  |
+| --- | --- |
+| 4.4.1. | A circle surrounding the letter ‘E’ followed by the distinguishing number of the country which has granted approval [(3)](#ntr3-L_2018269EN.01000101-E0003), and of |
+
+|  |  |
+| --- | --- |
+| 4.4.2. | The number of this Regulation, followed by the letter ‘R’, a dash and the approval number to the right of the circle prescribed in paragraph 4.4.1 above. |
+
+4.5.   If the vehicle conforms to a vehicle type approved under one or more other Regulations, annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1 above, need not be repeated; in such a case, the Regulation and approval numbers and the additional symbols of all the regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1 above.
+
+4.6.   The approval mark shall be clearly legible and be indelible.
+
+4.7.   The approval mark shall be placed close to or on the vehicle data plate.
+
+4.8.   Annex 2 to this Regulation gives examples of arrangements of approval marks.
+
+5.   GENERAL REQUIREMENTS
+
+5.1.   Vehicles shall be equipped with a brake assist system meeting the functional requirements specified in paragraph 6 of this Regulation. Compliance with these requirements shall be demonstrated by meeting the provisions of paragraphs 8 or 9 of this Regulation under the test requirements specified in paragraph 7 of this Regulation. In addition to the requirements of this Regulation, vehicles shall also be equipped with ABS in accordance with the technical requirements of UN Regulation No 13-H.
+
+5.2.   The BAS shall be so designed, constructed and fitted as to enable the vehicle in normal use, despite the vibration to which it may be subjected, to comply with the provisions of this Regulation.
+
+5.3.   In particular, the BAS shall be so designed, constructed and fitted as to be able to resist the corroding and ageing phenomena to which it is exposed.
+
+5.4.   The effectiveness of the BAS shall not be adversely affected by magnetic or electrical fields. This shall be demonstrated by fulfilling the technical requirements and respecting the transitional provisions of Regulation No 10 by applying:
+
+|  |  |
+| --- | --- |
+| (a) | The 03 series of amendments for vehicles without a coupling system for charging the Rechargeable Electric Energy Storage System (traction batteries); |
+
+|  |  |
+| --- | --- |
+| (b) | The 04 series of amendments for vehicles with a coupling system for charging the Rechargeable Electric Energy Storage System (traction batteries). |
+
+5.5.   The assessment of the safety aspects of BAS shall be included in the overall safety assessment of the braking system as specified in Regulation No 13-H requirements associated with complex electronic control systems. This is deemed to be fulfilled on the presentation of a Regulation No 13-H certificate which includes the BAS to be approved.
+
+5.6.   Provisions for the periodic technical inspection of electronic brake assist systems
+
+5.6.1.   It shall be possible at a periodic technical inspection to confirm the correct operational status by visual observation of the warning signals following a power-on.
+
+5.6.2.   At the time of type approval, the means implemented to protect against simple unauthorized modification of the operation of the warning signals shall be confidentially outlined. Alternatively, this protection requirement is fulfilled when a secondary means of checking the correct operational status is available.
+
+6.   FUNCTIONAL REQUIREMENTS
+
+6.1.   General performance characteristics for category ‘A’ BAS systems
+
+When an emergency condition has been sensed by a relative high pedal force, the additional pedal force to cause full cycling of the ABS shall be reduced compared to the pedal force required without the BAS system in operation.
+
+Compliance with this requirement is demonstrated if the provisions of paragraphs 8.1 to 8.3 of this Regulation are met.
+
+6.2.   General performance characteristics for category ‘B’ BAS systems
+
+When an emergency condition has been sensed, at least by a very fast application of the pedal, the BAS system shall raise the pressure to deliver the maximum achievable braking rate or cause full cycling of the ABS.
+
+Compliance with this requirement is demonstrated if the provisions of paragraphs 9.1 to 9.3 of this Regulation are met.
+
+7.   GENERAL TEST REQUIREMENTS
+
+7.1.   Variables
+
+While performing the tests described in this Regulation, the following variables shall be measured:
+
+|  |  |
+| --- | --- |
+| 7.1.1. | Brake pedal force, Fp; |
+
+|  |  |
+| --- | --- |
+| 7.1.2. | Vehicle velocity, vx; |
+
+|  |  |
+| --- | --- |
+| 7.1.3. | Vehicle deceleration, ax; |
+
+|  |  |
+| --- | --- |
+| 7.1.4. | Brake temperature, Td; |
+
+|  |  |
+| --- | --- |
+| 7.1.5. | Brake pressure, P, where applicable; |
+
+|  |  |
+| --- | --- |
+| 7.1.6. | Brake pedal speed, vp, measured at the centre of the pedal plate or at a position on the pedal mechanism where the displacement is proportional to the displacement at the centre of the pedal plate allowing simple calibration of the measurement. |
+
+7.2.   Measuring equipment
+
+7.2.1.   The variables listed in paragraph 7.1 above shall be measured by means of appropriate transducers. Accuracy, operating ranges, filtering techniques, data processing and other requirements are described in ISO Standard 15037-1: 2006.
+
+7.2.2.   Accuracy of pedal force and disc temperature measurements shall be as follows:
+
+|  |  |  |
+| --- | --- | --- |
+| Variable range system | Typical operating range of the transducers | Recommended maximum recording errors |
+| Pedal force | 0 to 2 000 N | ± 10 N |
+| Brake temperature | 0 – 1 000 °C | ± 5 °C |
+| Brake pressure[(\*1)](#ntr*1-L_2018269EN.01000101-E0004) | 0 – 20 MPa[(\*1)](#ntr*1-L_2018269EN.01000101-E0004) | ± 100 kPa[(\*1)](#ntr*1-L_2018269EN.01000101-E0004) |
+
+7.2.3.   Details on analogue and digital data processing of the BAS test procedures are described in Annex 4 to this Regulation. A sampling rate for data acquisition of at least 500 Hz is required.
+
+7.2.4.   Alternative measuring methods to those referred to in paragraph 7.2.3 may be allowed, provided they demonstrate at least an equivalent level of precision.
+
+7.3.   Test conditions
+
+7.3.1.   Test vehicle loading condition: The vehicle shall be unladen. There may be, in addition to the driver, a second person on the front seat who is responsible for noting the results of the tests.
+
+7.3.2.   Braking tests shall be carried out on a dry surface affording good adhesion.
+
+7.4.   Test method
+
+7.4.1.   The tests as described in paragraphs 8 and 9 of this section shall be carried out from a test speed of 100 ± 2 km/h. The vehicle shall be driven at the test speed in a straight line.
+
+7.4.2.   The average temperature of the service brakes on the hottest axle of the vehicle, measured inside the brake linings or on the braking path of the disc or drum, shall be between 65 and 100 °C prior to any brake application.
+
+7.4.3.   For the tests the reference time, t0, is defined as the moment when the brake pedal force reaches 20 N.
+
+Note: For vehicles equipped with a brake system assisted by an energy source, the applied pedal force necessary depends on the energy level that exists in the energy storage device. Therefore, sufficient energy level shall be ensured at the beginning of the test.
+
+8.   ASSESSMENT OF THE PRESENCE OF A CATEGORY ‘A’ BAS
+
+A category ‘A’ BAS shall meet the test requirements contained in paragraphs 8.1 and 8.2.
+
+8.1.   Test 1: Reference test to determine FABS and aABS.
+
+8.1.1.   The reference values FABS and aABS shall be determined in accordance with the procedure described in Annex 3 to this Regulation.
+
+8.2.   Test 2: For activation of BAS
+
+8.2.1.   Once an emergency braking condition has been detected, systems sensitive to pedal force shall show a significant increase in the ratio of:
+
+|  |  |
+| --- | --- |
+| (a) | Brake line pressure to brake pedal force, where permitted by paragraph 8.2.5; or |
+
+|  |  |
+| --- | --- |
+| (b) | Vehicle deceleration to brake pedal force. |
+
+8.2.2.   The performance requirements for a category ‘A’ BAS are met if a specific brake application characteristic can be defined that exhibits a decrease of between 40 per cent and 80 per cent in required brake pedal force for (FABS – FT) compared to (FABS extrapolated – FT).
+
+8.2.3.   FT and aT are threshold force and threshold deceleration as shown in Figure 1. The values of FT and aT shall be supplied to the Technical Service at the time of submission of the type-approval application. The value of aT shall be between 3,5 m/s2 and 5,0 m/s2.
+
+Figure 1a
+
+Pedal force characteristic needed in order to achieve maximum deceleration with category ‘A’ BAS
+
+*[Figure omitted — see the official source]*
+
+Deceleration, a
+
+FABS, extrapolated
+
+FABS, max
+
+FABS
+
+FABS, min
+
+Brake pedal force, F
+
+FT
+
+aT
+
+aABS
+
+Between 3,5 and 5,0 m/s2
+
+8.2.4.   A straight line is drawn from the origin through the point FT, aT (as shown in Figure 1a). The value of brake pedal force ‘F’, at the point of intersection between this line and a horizontal line defined by a = aABS, is defined as FABS, extrapolated:
+
+*[Figure omitted — see the official source]*
+
+8.2.5.   As an alternative, which can be selected by the manufacturer, in the case of vehicles of category N1, or M1 derived from those N1 vehicles, with a gross vehicle mass GVM > 2 500 kg, the pedal force figures for FT, FABS,min, FABS,max and FABS,extrapolated may be derived from the brake line pressure response characteristic instead of the vehicle deceleration characteristic. This shall be measured as the brake pedal force is increasing.
+
+8.2.5.1.   The pressure, at which ABS cycling commences, shall be determined by making five tests from 100 ± 2 km/h in which the brake pedal is applied up to the level which produces ABS operation and the five pressures at which this occurs as determined from front wheel pressure records, shall be recorded and the mean value obtained as PABS.
+
+8.2.5.2.   The threshold pressure PT shall be stated by the manufacturer and correspond to a deceleration in the range of 2,5 – 4,5 m/s2.
+
+8.2.5.3.   Figure 1b shall be constructed in the manner set out in paragraph 8.2.4, but using line pressure measurements to define the parameters set out in paragraph 8.2.5 of this Regulation where:
+
+*[Figure omitted — see the official source]*
+
+Figure 1b
+
+Pedal force characteristic needed in order to achieve maximum deceleration with category ‘A’ BAS
+
+*[Figure omitted — see the official source]*
+
+Line pressure, P
+
+FABS, extrapolated
+
+FABS, max
+
+FABS
+
+FABS, min
+
+Brake pedal force, F
+
+FT
+
+PT
+
+PABS
+
+Force change threshold
+
+8.3.   Data evaluation
+
+The presence of a category ‘A’ BAS is proven if
+
+FABS,min ≤ FABS ≤ FABS,max
+
+where:
+
+FABS,max – FT ≤ (FABS,extrapolated – FT) · 0,6
+
+And
+
+FABS,min – FT ≥ (FABS,extrapolated – FT) · 0,2
+
+9.   ASSESSMENT OF THE PRESENCE OF A CATEGORY ‘B’ BAS
+
+A category ‘B’ BAS shall meet the test requirements contained within paragraphs 9.1 and 9.2 of this section.
+
+9.1.   Test 1: Reference test to determine FABS and aABS.
+
+9.1.1.   The reference values FABS and aABS shall be determined in accordance with the procedure described in Annex 3 to this Regulation.
+
+9.2.   Test 2: For activation of BAS
+
+The vehicle shall be driven in a straight line at the test speed specified in paragraph 7.4 of this Regulation. The driver shall apply the brake pedal quickly according to Figure 2, simulating emergency braking so that BAS is activated and ABS is fully cycling.
+
+In order to activate BAS the brake pedal shall be applied as specified by the car manufacturer. The manufacturer shall notify the Technical Service of the required brake pedal input at the time of submission of the application for type-approval. It shall be demonstrated to the satisfaction of the Technical Service that the BAS activates under the conditions specified by the manufacturer in accordance with paragraph 16.1.1 or 16.1.2 of Annex 1.
+
+After t = t0 + 0,8 s and until the vehicle has slowed down to a speed of 15 km/h, the brake pedal force shall be maintained in a corridor between FABS, upper and FABS, lower, where FABS, upper is 0,7 FABS and FABS, lower is 0,5 FABS.
+
+The requirements are also considered to be met if, after t = t0 + 0,8 s, the pedal force falls below FABS, lower provided the requirement of paragraph 9.3 is fulfilled.
+
+9.3.   Data evaluation
+
+The presence of BAS ‘B’ is demonstrated if a mean deceleration (aBAS) of at least 0,85 · aABS is maintained from the time when t = t0 + 0,8 s to the time when the vehicle speed has been reduced to 15 km/h.
+
+Figure 2
+
+Example of test 2 of a category ‘B’ BAS system
+
+*[Figure omitted — see the official source]*
+
+Initial pedal force
+
+FABS, lower
+
+FABS, upper
+
+Break pedal force F
+
+t0
+
+Phase of panic pedal application
+
+Phrase of BAS-evaluation (ending at speed of 15 km/h)
+
+t0 + 0,8 seconds
+
+time
+
+Deceleration
+
+aBAS
+
+aABS
+
+Deceleration, ax
+
+Brake pedal force
+
+10.   MODIFICATION OF VEHICLE TYPE OR BAS AND EXTENSION OF APPROVAL
+
+10.1.   Every modification to an existing vehicle type shall be notified to the Type Approval Authority which approved the vehicle type.
+
+The Authority shall then either:
+
+|  |  |
+| --- | --- |
+| (a) | Decide, in consultation with the manufacturer, that a new type-approval is to be granted; or |
+
+|  |  |
+| --- | --- |
+| (b) | Apply the procedure contained in paragraph 10.1.1 (Revision) and, if applicable, the procedure contained in paragraph 10.1.2 (Extension). |
+
+10.1.1.   Revision
+
+When particulars recorded in the information documents have changed and the Type Approval Authority considers that the modifications made are unlikely to have appreciable adverse effects and that in any case the foot controls still meet the requirements, the modification shall be designated a ‘revision’.
+
+In such a case, the Type Approval Authority shall issue the revised pages of the information documents as necessary, marking each revised page to show clearly the nature of the modification and the date of re-issue. A consolidated, updated version of the information documents, accompanied by a detailed description of the modification, shall be deemed to meet this requirement.
+
+10.1.2.   Extension
+
+The modification shall be designated an ‘extension’ if, in addition to the change of the particulars recorded in the information documents,
+
+|  |  |
+| --- | --- |
+| (a) | Further inspections or tests are required; or |
+
+|  |  |
+| --- | --- |
+| (b) | Any information on the communication document (with the exception of its attachments) has changed; or |
+
+|  |  |
+| --- | --- |
+| (c) | Approval to a later series of amendments is requested after its entry into force. |
+
+10.2.   Confirmation or refusal of approval, specifying the alteration, shall be communicated by the procedure specified in paragraph 4.3 above to the Contracting Parties to the Agreement applying this Regulation. In addition, the index to the information documents and to the test reports, attached to the communication document of Annex 1, shall be amended accordingly to show the date of the most recent revision or extension.
+
+10.3.   The competent authority issuing the extension of approval shall assign a serial number to each communication form drawn up for such an extension.
+
+11.   CONFORMITY OF PRODUCTION
+
+The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2) with the following requirements:
+
+11.1.   A vehicle approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraphs 5 and 6 above.
+
+11.2.   The authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every two years.
+
+12.   PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+
+12.1.   The approval granted in respect of a vehicle type pursuant to this Regulation may be withdrawn if the requirements laid down in paragraph 11.1 above are not complied with.
+
+12.2.   If a Contracting Party to the Agreement which applies this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation by means of a copy of the communication form conforming to the model in Annex 1 to this Regulation.
+
+13.   PRODUCTION DEFINITIVELY DISCONTINUED
+
+If the holder of the approval completely ceases to manufacture a type of vehicle approved in accordance with this Regulation, they shall so inform the authority which granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Contracting Parties to the Agreement applying this Regulation by means of copies of a communication form conforming to the model in Annex 1 to this Regulation.
+
+14.   NAMES AND ADDRESSES OF THE TECHNICAL SERVICES CONDUCTING APPROVAL TESTS, AND OF TYPE APPROVAL AUTHORITIES
+
+The Contracting Parties to the Agreement applying this Regulation shall communicate to the United Nations secretariat the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms, certifying approval or extension or refusal or withdrawal of approval, issued in other countries, are to be sent.
+
+---
+
+[(1)](#ntc1-L_2018269EN.01000101-E0001)  M1 and N1 categories of vehicles are defined in the Consolidated Resolution on the Construction of Vehicles (R.E.3.), document ECE/TRANS/WP.29/78/Rev.4, para. 2 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+
+[(2)](#ntc2-L_2018269EN.01000101-E0002)  As declared by the vehicle manufacturer.
+
+[(3)](#ntc3-L_2018269EN.01000101-E0003)  The distinguishing numbers of the Contracting Parties to the 1958 Agreement are reproduced in Annex 3 to the Consolidated Resolution on the Construction of Vehicles (R.E.3), document ECE/TRANS/WP.29/78/Rev. 4, Annex 3 - www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29resolutions.html
+
+[(\*1)](#ntc*1-L_2018269EN.01000101-E0004)  Applicable as specified in paragraph 8.2.5.
+
+---
+
+ANNEX 1
+
+*[Figure omitted — see the official source]*
+[Text of image](javascript:void(0);)
+
+COMMUNICATION
+
+(Maximum format: A4 (210 × 297 mm))
+
+(1)
+
+issued by: Name of administration
+
+concerning (2): Approval granted
+
+Approval extended
+
+Approval refused
+
+Approval withdrawn
+
+Production definitively discontinued
+
+of a vehicle type with regard to BAS, pursuant to Regulation No 139
+
+Approval No Extension No
+
+1. Trade name or mark of the vehicle
+
+2. Vehicle type
+
+3. Manufacturer’s name and address
+
+4. If applicable, name and address of manufacturer’s representative
+
+5. Mass of vehicle
+
+5.1. Maximum mass of vehicle
+
+5.2. Minimum mass of vehicle
+
+6. Distribution of mass of each axle (maximum value)
+
+8. Engine type
+
+9. Number and ratios of gears
+
+10. Final drive ratio(s)
+
+11. If applicable, maximum mass of trailer which may be coupled
+
+11.1. Unbraked trailer
+
+12. Tyre dimension
+
+13. Maximum design speed
+
+14. Brief description of braking equipment
+
+15. Mass of vehicle when tested:
+
+Load
+
+(kg)
+
+Axle No 1
+
+Axle No 2
+
+Total
+
+(1) Distinguishing number of the country which has granted, extended, refused or withdrawn approval (see approval provisions in the Regulation).
+
+(2) Strike out what does not apply.
+
+*[Figure omitted — see the official source]*
+[Text of image](javascript:void(0);)
+
+16.1. Category of Brake Assist System A/B (2)
+
+16.1.1. For category A systems, define the force threshold at which the ratio between pedal force and brake pressure increases (2);
+
+16.1.2. For category B systems, define the brake pedal speed which must be achieved in order to activate the Brake Assist System (e.g. pedal stroke speed (mm/s) during a given time interval) (2);
+
+17. (Reserved)
+
+18. Vehicle is equipped with ABS in accordance with technical requirements of Regulation No 13-H Yes/No (2)
+
+19. Vehicle submitted for approval on
+
+20. Technical Service responsible for conducting approval
+
+21. Date of report issued by that Service
+
+22. Number of report issued by that Service
+
+23. Approval granted/refused/extended/withdrawn (2)
+
+24. Position of approval mark on the vehicle
+
+25. Place
+
+26. Date
+
+27. Signature
+
+28. The summary referred to in paragraph 4.3 of this Regulation is annexed to this communication
+
+---
+
+ANNEX 2
+
+ARRANGEMENTS OF APPROVAL MARKS
+
+MODEL A
+
+(See paragraph 4.4 of this Regulation)
+
+*[Figure omitted — see the official source]*
+
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has been approved in Belgium (E 6) with regard to the Brake Assist System pursuant to Regulation No 139. The first two digits of the approval number indicate that the approval was granted in accordance with the requirements of Regulation No 139 in its original form.
+
+MODEL B
+
+(See paragraph 4.5 of this Regulation)
+
+*[Figure omitted — see the official source]*
+
+The above approval mark affixed to a vehicle shows that the vehicle type concerned has been approved in Belgium (E 6) pursuant to Regulations Nos 139 and 24 [(1)](#ntr1-L_2018269EN.01001201-E0001). (In the case of the latter Regulation the corrected absorption coefficient is 1,30 m-1). The approval numbers indicate that, at the dates when the respective approvals were given, Regulation No 139 was in its original form and Regulation No 24 included the 02 series of amendments.
+
+---
+
+[(1)](#ntc1-L_2018269EN.01001201-E0001)  This number is given merely as an example.
+
+---
+
+ANNEX 3
+
+METHOD FOR DETERMINATION OF FABS AND aABS
+
+1.1.   The brake pedal force FABS is the minimum pedal force that has to be applied for a given vehicle in order to achieve maximum deceleration which indicates that ABS is fully cycling. aABS is the deceleration for a given vehicle during ABS deceleration as defined in paragraph 1.8.
+
+1.2.   The brake pedal shall be applied slowly (without activating the BAS in the case of category B systems) providing a constant increase of deceleration until ABS is fully cycling (the figure).
+
+1.3.   The full deceleration must be reached within the timeframe of 2,0 ± 0,5 s. The deceleration curve, recorded against time, must be within a corridor of ± 0,5 s around the centre line of the deceleration curve corridor. The example in the figure has its origin at the time t0 crossing the aABS line 2 seconds. Once full deceleration has been achieved, the brake pedal shall be operated so that the ABS continues fully cycling. The time of full activation of the ABS system is defined as the time when pedal force FABS is achieved. The measurement shall be within the corridor for variation of increase in deceleration (see figure below).
+
+Deceleration corridor for determination of FABS and aABS
+
+*[Figure omitted — see the official source]*
+
+deceleration a
+
+aABS
+
+time[s]
+
+timeframe
+
+2 ± 0,5 s
+
+1s
+
+t0
+
+Corridor for variation of increase in deceleration
+
+ABS fully cycling corridor
+
+1.4.   Five tests meeting the requirements of paragraph 1.3 shall be carried out. For each of these valid tests the vehicle deceleration shall be plotted as a function of the recorded brake pedal force. Only data recorded at speeds above 15 km/h shall be taken for the calculations described in the following paragraphs.
+
+1.5.   For the determination of aABS and FABS, a low pass filter of 2 Hz for vehicle deceleration as well as pedal force shall be applied.
+
+1.6.   The five individual ‘deceleration versus brake pedal force’ curves are averaged by calculating the mean deceleration of the five individual ‘deceleration vs. brake pedal force’ curves at increments of 1 N pedal force. The result is the mean deceleration versus brake pedal force curve, which will be referred to as the ‘maF curve’ in this annex.
+
+1.7.   The maximum value for the vehicle deceleration is determined from the ‘maF curve’ and is named as ‘amax
+’.
+
+1.8.   All values of the ‘maF curve’ that are above 90 per cent of this deceleration value ‘amax
+’ are averaged. This value of ‘a’ is the deceleration ‘aABS
+’ referred to in this Regulation.
+
+1.9.   The minimum force on the pedal (FABS) sufficient to achieve the deceleration aABS is defined as the value of F corresponding to a = aABS on the maF curve.
+
+---
+
+ANNEX 4
+
+DATA PROCESSING FOR THE BAS
+
+(see paragraph 7.2.3 of this Regulation)
+
+1.   ANALOGUE DATA PROCESSING
+
+The bandwidth of the entire, combined transducer/recording system shall be no less than 30 Hz.
+
+In order to execute the necessary filtering of signals, low-pass filters with order 4 or higher shall be employed. The width of the pass band (from 0 Hz to frequency fo at – 3 dB) shall not be less than 30 Hz. Amplitude errors shall be less than ± 0,5 per cent in the relevant frequency range of 0 Hz to 30 Hz. All analogue signals shall be processed with filters having sufficiently similar phase characteristics to ensure that time delay differences due to filtering lie within the required accuracy for time measurement.
+
+Note: During analogue filtering of signals with different frequency contents, phase shifts can occur. Therefore, a data processing method, as described in paragraph 2 of this annex, is preferable.
+
+2.   DIGITAL DATA PROCESSING
+
+2.1.   General consideration
+
+Preparation of analogue signals includes consideration of filter amplitude attenuation and sampling rate to avoid aliasing errors, and filter phase lags and time delays. Sampling and digitizing considerations include pre-sampling amplification of signals to minimize digitizing errors; number of bits per sample; number of samples per cycle; sample and hold amplifiers; and time-wise spacing of samples. Considerations for additional phaseless digital filtering include selection of pass bands and stop bands and the attenuation and allowable ripple in each; and correction of filter phase lags. Each of these factors shall be considered in order to achieve a relative overall data acquisition accuracy of ± 0,5 per cent.
+
+2.2.   Aliasing errors
+
+In order to avoid uncorrectable aliasing errors, the analogue signals shall be appropriately filtered before sampling and digitizing. The order of the filters used and their pass band shall be chosen according to both the required flatness in the relevant frequency range and the sampling rate.
+
+The minimum filter characteristics and sampling rate shall be such that:
+
+|  |  |
+| --- | --- |
+| (a) | Within the relevant frequency range of 0 Hz to fmax = 30 Hz the attenuation is less than the resolution of the data acquisition system; and |
+
+|  |  |
+| --- | --- |
+| (b) | At one-half the sampling rate (i.e. the Nyquist or ‘folding’ frequency) the magnitudes of all frequency components of signal and noise are reduced to less than the system resolution. |
+
+For 0,05 per cent resolution the filter attenuation shall be less than 0,05 per cent in the frequency range between 0 and 30 Hz, and the attenuation shall be greater than 99,95 per cent at all frequencies greater than one-half the sampling frequency.
+
+Note: For a Butterworth filter the attenuation is given by:
+
+*[Figure omitted — see the official source]*
+ and 
+*[Figure omitted — see the official source]*
+
+where:
+
+|  |  |
+| --- | --- |
+|  | n is the order to filter; |
+
+|  |  |
+| --- | --- |
+|  | fmax is the relevant frequency range (30 Hz); |
+
+|  |  |
+| --- | --- |
+|  | fo is the filter cut-off frequency; |
+
+|  |  |
+| --- | --- |
+|  | fN is the Nyquist or ‘folding’ frequency. |
+
+For a fourth order filter
+
+|  |  |
+| --- | --- |
+|  | for A = 0,9995: fo = 2,37 · fmax |
+
+|  |  |
+| --- | --- |
+|  | for A = 0,0005: fS = 2 · (6,69 · fo), where fS, is the sampling frequency = 2 · fN. |
+
+2.3.   Filter phase shifts and time delays for anti-aliasing filtering
+
+Excessive analogue filtering shall be avoided, and all filters shall have sufficiently similar phase characteristics to ensure that time delay differences are within the required accuracy for the time measurement. Phase shifts are especially significant when measured variables are multiplied together to form new variables, because while amplitudes multiply, phase shifts and associated time delays add. Phase shifts and time delays are reduced by increasing fo. Whenever equations describing the pre-sampling filters are known, it is practical to remove their phase shifts and time delays by simple algorithms performed in the frequency domain.
+
+Note: In the frequency range in which the filter amplitude characteristics remain flat, the phase shift Φ of a Butterworth filter can be approximated by
+
+|  |  |
+| --- | --- |
+|  | Φ = 81 · (f/f0) degrees for second order |
+
+|  |  |
+| --- | --- |
+|  | Φ = 150 · (f/f0) degrees for fourth order |
+
+|  |  |
+| --- | --- |
+|  | Φ = 294 · (f/f0) degrees for eighth order |
+
+The time delay for all filter orders is: t = (Φ/360) · (1/f0)
+
+2.4.   Data sampling and digitizing
+
+At 30 Hz the signal amplitude changes by up to 18 per cent per millisecond. To limit dynamic errors caused by changing analogue inputs to 0,1 per cent, sampling or digitizing time shall be less than 32 μs. All pairs or sets of data samples to be compared shall be taken simultaneously or over a sufficiently short time period.
+
+2.5.   System requirements
+
+The data system shall have a resolution of 12 bits (± 0,05 per cent) or more and an accuracy of ± 0,1 per cent (2 lb). Anti-aliasing filters shall be of order 4 or higher and the relevant data range fmax shall be 0 Hz to 30 Hz.
+
+For fourth order filters the pass-band frequency fo (from 0 Hz to frequency fo) shall be greater than 2,37 · fmax if phase errors are subsequently adjusted in digital data processing, and greater than 5 · fmax otherwise. For fourth order filters the data sampling frequency fs shall be greater than 13,4 · fo.
+
+---

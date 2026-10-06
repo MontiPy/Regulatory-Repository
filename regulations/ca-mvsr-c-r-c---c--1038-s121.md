@@ -21,18 +21,15 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Air brake systems on trucks, buses, and trailers (with specified exemptions
   for certain wide trailers, high-gross-axle-weight vehicles, low-speed vehicles,
-  heavy haulers, and others) are regulated under this section. Covered vehicles must
-  conform to Technical Standards Document No. 121 (Air Brake Systems), with...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  heavy haulers, and others) are regulated under this section.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1e37a448e6fcdcc2a67231f7b26ed446aa5f76a6
 systems:
 - Braking
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 121
-un_equivalent_ai:
-- UN R13
+title: MVSR s. 121 — Air Brake Systems
 vehicle_categories:
 - Heavy truck
 - Bus

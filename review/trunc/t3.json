@@ -1,0 +1,82 @@
+{
+ "group": "t3",
+ "patches": {
+  "kr-kmvss-art111": {
+   "summary": "Defines three types of autonomous driving system: partial (operates under specified conditions but needs driver intervention when limits are reached), conditionally fully autonomous (operates under specified conditions without driver intervention), and fully autonomous (operates in all domains without driver intervention). Added 2019-12-31.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art18": {
+   "summary": "Sets basic requirements for motor vehicle electrical equipment: all wiring must be insulated and fixed to the body, terminals and switches inside the passenger compartment must be insulated, and the battery must be fixed against vibration and shock, with insulation over any battery inside the passenger compartment.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art18-3": {
+   "summary": "Sets requirements for the traction battery of a motor vehicle: separation from the passenger compartment by a wall or protective panel, protection against overcharging beyond the design range and cut-off of excess current, and no ignition or explosion under the shock conditions published by the Minister. Added 2009-01-23, amended 2013-03-23.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art19": {
+   "summary": "Sets requirements for the frame and body of motor vehicles: rigid structure, limits on rear overhang, gross vehicle weight and payload marking on trucks, side and rear underrun protection for heavy trucks, special-purpose vehicles and articulated vehicles, high-pressure gas container placement, and no sharp body protrusions. Also covers yellow colour, signs and stop signal devices for school vans and guard panels for open-top double-decker large vans.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art22": {
+   "summary": "Requires passenger cars, and vans, trucks and special-purpose vehicles of 4.5 tonnes gross vehicle weight or less, to have an anti-theft device with at least one of: steering inhibit, gear-shifting inhibit, gear selector inhibit, braking of axles or wheels, or electronic prevention of power source starting. Detailed functions and verification methods are set by the Minister. Fully amended 2017-01-09.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art25": {
+   "summary": "Sets passenger seat dimension requirements: a 5th percentile adult female dummy must fit in passenger car seats, and minimum seat width, depth and spacing apply to vans, trucks and special-purpose vehicles. It also sets separate seat and seatback height rules for school vans for children, a 40-50 cm seat height for larger vans, and conditions for removable rear seats in passenger cars.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art27": {
+   "summary": "Requires seat belts at all vehicle seats, with listed exceptions such as patient transport seats and city, rural and village bus seats not used on expressways. Specifies three-point belts for passenger car seats and front-row seats of other vehicles, a seat belt reminder warning device, compliance with Article 112-3, and belts adjustable to children's body size in school vans.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art34": {
+   "summary": "Sets glazing requirements: the windscreen must be laminated or glass-plastic composite glass, and other windows must be one of the listed glazing types, with exceptions for convertibles, camper vehicles and towed vehicles. It also regulates power-operated windows, sunroofs and partition doors in passenger cars and vans of 4.5 tonnes or less, including entrapment protection that reverses or reopens the window.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art5": {
+   "summary": "Requires that, in an unloaded condition, the clearance between the ground and the non-contact parts of the vehicle is at least 10 centimetres. Special-purpose work vehicles, racing cars and other vehicles that the Minister recognises as needing an exception are excluded.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art53-4": {
+   "summary": "Requires school vans for children to have a child presence detection system. If the confirmation button near the rearmost seats is not pressed within 3 minutes after the engine stops, a warning sound device and indicator lamp activate, with the warning sound at least 60 dB(A) measured 2 m from the vehicle. Added 2019-03-21.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art8": {
+   "summary": "Sets the maximum safe tilt angle: vehicles must not overturn when tilted laterally to 35 degrees unloaded (30 degrees where gross weight is 1.2 times curb weight or less) for passenger cars, trucks, special-purpose vehicles and buses seating 10 or fewer, and 28 degrees loaded for buses seating 11 or more. Certain special-purpose vehicles are exempt.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art87": {
+   "summary": "Sets accelerator control requirements for passenger cars and vans, trucks and special-purpose vehicles of 4.5 tonnes gross vehicle weight or less. After stabilisation at -18 to 52 C, the system must return to idle within 1 second of the driver removing the operating force, including with one return power source disconnected or, for electrically controlled systems, with a broken or short-circuited control circuit.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art90": {
+   "summary": "Sets braking performance requirements for motor vehicles, referring to Attached Tables for passenger cars, vans, trucks and special-purpose vehicles, towed vehicles, ultra-compact vehicles, ABS-equipped vehicles and cornering braking of articulated vehicles with air-type service brakes. Towed vehicles are covered only where an air-type service brake is fitted. Latest amendment 2024-11-29.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art90-3": {
+   "summary": "Sets performance standards for emergency autonomous braking systems in motor vehicles, excluding light-class vans and ultra-compact vehicles. Vans, trucks and special-purpose vehicles over 3.5 tonnes gross weight follow Attached Table 7-8, and passenger cars and those of 3.5 tonnes or less follow Attached Table 7-9. Fully amended 2022-10-26.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "kr-kmvss-art92": {
+   "summary": "Sets roof strength for passenger cars other than convertibles: under a load applied through a plate of at least 75 cm by 180 cm at no more than 12.7 mm per second within 120 seconds, up to the lesser of 1.5 times vehicle weight or 2,270 kg, roof displacement must be 127 mm or less.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "other-workbook-reg-0641-iatf-16949": {
+   "summary": "Entry for IATF 16949, an automotive quality management system standard. The record states it is not a government regulation by itself but is commonly required by OEMs and customers, and is used as supporting evidence for conformity of production, APQP, PPAP, control plans, supplier quality and corrective-action systems. It lists ISO 9001 and UNECE CoP among related items. The record holds no standard text.",
+   "_why": "body is a generic template; summary limited to its stated applicability and related items"
+  },
+  "other-workbook-reg-0645-iso-sae-21434": {
+   "summary": "Entry for ISO/SAE 21434, an engineering standard for cybersecurity of road vehicles. The record states it is not a regulation by itself but is commonly used as the process basis behind UN R155 and other cyber approval regimes, supporting evidence that cybersecurity risks are identified and managed across the vehicle lifecycle. It lists UN R155, GB 44495, ISO 24089 and EU GSR2 as related. The record holds no standard text.",
+   "_why": "body is a generic template; summary limited to its stated applicability and related items"
+  },
+  "us-40cfr-part-1066": {
+   "summary": "US EPA vehicle-testing procedures for measuring exhaust, evaporative and refueling emissions. Under section 1066.1 it applies to testing for model year 2014 and later heavy-duty highway vehicles under 40 CFR part 1037 not chassis-tested under part 86, and to model year 2022 and later light- and heavy-duty motor vehicles chassis-tested under part 86 (other than highway motorcycles). It is addressed mainly to manufacturers and others who test for them.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  },
+  "us-40cfr-part-600": {
+   "summary": "US EPA regulations on fuel economy and greenhouse gas exhaust emissions of motor vehicles. Under section 600.001 the part applies to 2008 and later model year automobiles that are not medium duty passenger vehicles, and to 2011 and later model year automobiles including them. Its subpart B test procedures also let manufacturers test larger vehicles for fuel consumption standards under 49 CFR part 535.",
+   "_why": "rewritten from the body text; old summary was truncated"
+  }
+ },
+ "skipped": []
+}

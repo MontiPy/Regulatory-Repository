@@ -1,0 +1,40 @@
+{
+  "shard": "mk-02",
+  "reviewed": ["AR", "CL", "CO", "ANDEAN", "UY-PY", "CN"],
+  "findings": [
+    {
+      "id": "CO",
+      "field": "un_1958",
+      "verdict": "questionable",
+      "severity": "high",
+      "current": "false",
+      "proposed": "null (unverified) until deposit of the instrument of accession / entry into force is confirmed on the UNECE 1958 status list (TRANS/WP.29/343)",
+      "evidence": "Colombia enacted Ley 2290 of 13 Feb 2023 approving the 1958 Agreement ('por medio de la cual se aprueba el Acuerdo relativo a la adopcion de reglamentos tecnicos armonizados de las Naciones Unidas ... suscrito en Ginebra, el 20 de marzo de 1958'); the Constitutional Court reviewed it (C-115/24) and PAHO (6 Jun 2024) reports Colombia moved towards accession ('Colombia se convierte en el primer pais de America Latina y el Caribe...'). Snippets do not show whether the accession instrument was deposited, so the current 'false' is at least stale and cannot be confirmed either way.",
+      "evidence_url": "https://www.paho.org/es/noticias/6-6-2024-colombia-avanza-camino-hacia-seguridad-vehicular-con-ratificacion-ley-2290-2023",
+      "confidence": "medium"
+    },
+    {
+      "id": "CO",
+      "field": "basis / authorities[0]",
+      "verdict": "wrong",
+      "severity": "medium",
+      "current": "MinCIT technical regulation for vehicles (Res. 3752/2015 and successors); authority MinCIT 'Vehicle safety technical regulation'",
+      "proposed": "Resolucion 3752 de 2015 is issued by the Ministerio de Transporte (MinTransporte), not MinCIT. Re-attribute the vehicle active/passive safety rules to MinTransporte (MinCIT is relevant mainly for technical regulations on e.g. tyres and conformity-assessment framework).",
+      "evidence": "Search result: 'Resolucion 3752 de 2015 Ministerio de Transporte - adopta medidas en materia de seguridad activa y pasiva para uso en vehiculos automotores, remolques y semirremolques' (Diario Oficial 49.657, 6 Oct 2015); no MinCIT involvement shown. Res. 3752 mainly mandates 2 front airbags and head restraints, and called for a later technical regulation.",
+      "evidence_url": "https://www.redjurista.com/Documents/resolucion_3752_de_2015_ministerio_de_transporte.aspx",
+      "confidence": "high"
+    },
+    {
+      "id": "CO",
+      "field": "process[0]",
+      "verdict": "unverifiable",
+      "severity": "low",
+      "current": "Certificate of conformity to the MinCIT technical regulation before import/sale.",
+      "proposed": "",
+      "evidence": "Follows from the unsupported MinCIT attribution above; no source found for a single MinCIT vehicle technical regulation with a pre-import certificate of conformity. Market confidence already low.",
+      "evidence_url": "knowledge/markets/americas.yaml (CO)",
+      "confidence": "low"
+    }
+  ],
+  "notes": "AR, CL, UY-PY, ANDEAN and CN were checked; no clearly wrong claim found. CN checks supported: un_1958 false / un_1998 true; GB 44495/44496/44497-2024 apply to new types from 1 Jan 2026; Chile Ley 21.305 energy-efficiency standard in force from 12 Feb 2024 (Ministry of Energy). CN record id 'cn-gb-44497' lacks a year (GB 44497-2024) - cosmetic. AR, CL, ANDEAN and UY-PY un_1958=false and un_1998=null were not contradicted by any source (searches did not list these countries as contracting parties) but I found no authoritative status list, so they are consistent but not positively confirmed. The Andean search result claiming Peru/Ecuador/Bolivia/Venezuela 1958 dates mixed up another treaty (New York Convention) and was disregarded. Emission-level and phase-in dates for AR/CL/CO/ANDEAN are flagged 'verify' by the file itself and were not independently checked. Systemic: South American entries are low-confidence and rely on authority attributions that should be checked against the primary resolutions."
+}

@@ -21,11 +21,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-591
 status: in-force
-summary: The importation of motor vehicles and motor vehicle equipment into the United
+summary: Importation of motor vehicles and motor vehicle equipment into the United
   States requires importers to file a declaration with U.S. Customs and Border Protection
-  stating whether the vehicle or equipment conforms to applicable federal safety,
-  bumper, and theft prevention standards. It mandates that permanently...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  stating whether the item conforms to applicable Federal safety, bumper and theft
+  prevention standards. The part sets the declarations and accompanying documents
+  required, restrictions on importation, conformance bond conditions, and petitions
+  for remission or mitigation of forfeiture.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 8d725812851f1942c2771c014b405fdf5cbb9ebb
 systems:
 - Crashworthiness
@@ -35,9 +37,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 591—IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER
   AND THEFT PREVENTION STANDARDS
-un_equivalent_ai:
-- UN R116
-- UN R162
 vehicle_categories:
 - Passenger car
 - Light truck

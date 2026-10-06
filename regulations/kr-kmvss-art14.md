@@ -26,8 +26,8 @@ status: in-force
 summary: Motor vehicle steering systems in Korea must meet structural and performance
   standards ensuring all components operate without contact, damage, or abnormal behavior,
   resist electromagnetic interference, maintain straight-line travel at maximum speed,
-  and include failure warning devices. The regulation also limits...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  and include failure warning devices.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 4add9b069d430a692e8e1eb0fe3a3674f795f41e
 systems:
 - Steering
@@ -36,8 +36,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 14 — Steering System
 translation_status: translated
-un_equivalent_ai:
-- UN R79
 vehicle_categories:
 - Passenger car
 - Light truck

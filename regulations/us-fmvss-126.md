@@ -23,11 +23,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.126
 status: in-force
-summary: Electronic stability control (ESC) systems on light vehicles — including
-  passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of
-  10,000 pounds or less — are regulated by this standard, which requires that these
-  vehicles be equipped with a qualifying ESC system that individually applies brake...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: FMVSS No. 126 sets performance and equipment requirements for electronic
+  stability control (ESC) systems, to reduce crashes in which the driver loses directional
+  control, including rollovers. It applies to passenger cars, multipurpose passenger
+  vehicles, trucks and buses with a GVWR of 4,536 kg (10,000 lb) or less, under a
+  phase-in schedule.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: dcdde2809cbd930562afc13ea3b3787dc98bc500
 systems:
 - Braking
@@ -37,8 +38,6 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: § 571.126 Standard No. 126; Electronic stability control systems for light
   vehicles.
-un_equivalent_ai:
-- UN R140
 vehicle_categories:
 - Passenger car
 - Light truck

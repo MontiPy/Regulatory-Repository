@@ -1,0 +1,131 @@
+{
+  "group": "jp",
+  "patches": {
+    "jp-jvsregs-art14": {
+      "un_equivalent_ai": [],
+      "_why": "Finding: R79 is steering equipment; body is suspension strength/cushioning, no direct UN counterpart"
+    },
+    "jp-jvsregs-art17": {
+      "un_equivalent_ai": [
+        "UN R67",
+        "UN R110",
+        "UN R134"
+      ],
+      "_why": "Finding: body covers LPG, high-pressure gas and compressed hydrogen systems; R34 is liquid-fuel fire prevention"
+    },
+    "jp-jvsregs-art21": {
+      "un_equivalent_ai": [
+        "UN R125"
+      ],
+      "_why": "Finding: body is driver field of vision/HUD; R123 (AFS) unrelated"
+    },
+    "jp-jvsregs-art26": {
+      "systems": [],
+      "un_equivalent_ai": [
+        "UN R107"
+      ],
+      "_why": "Finding: body is emergency exit location/size/marking and door-open warning; lighting tags wrong, no taxonomy value fits egress; R107 is the bus construction regulation",
+      "commodities": [
+        "Door latches & hinges"
+      ]
+    },
+    "jp-jvsregs-art5": {
+      "un_equivalent_ai": [],
+      "_why": "Finding: body is a generic stability standard by ministerial notice, not ESC (R140)"
+    },
+    "jp-srrv-automated-lane-keeping-automated-driving-systems": {
+      "summary": "Japan's requirements for Automated Lane Keeping Systems and automated driving systems under the Safety Regulations for Road Vehicles and TRIAS test procedures, aligned with UN R157. This record is a reference stub without regulation text.",
+      "_stub_body": true,
+      "_why": "Finding: body and summary are the certification/recall template, not ALKS content"
+    },
+    "jp-srrv-controls-tell-tales-indicators-and-driver-information": {
+      "summary": "Japan's requirements for the identification and layout of driver controls, tell-tales and indicators, and driver information displays under the Safety Regulations for Road Vehicles and TRIAS test procedures. This record is a reference stub without regulation text.",
+      "un_equivalent_ai": [
+        "UN R121"
+      ],
+      "_stub_body": true,
+      "_why": "Finding: body and summary are the lighting template; R48 is lamp installation, R121 is controls/tell-tales identification"
+    },
+    "jp-srrv-japan-radio-equipment-technical-conformity-certification": {
+      "un_equivalent_ai": [],
+      "_why": "Finding: MIC technical conformity under Radio Act is spectrum/radio-equipment approval, not vehicle EMC (R10)"
+    },
+    "jp-srrv-japanese-vehicle-type-approval-type-designation-framework": {
+      "summary": "Japan's vehicle type designation framework under the Road Transport Vehicle Act is the streamlined route by which vehicles are shown to meet national safety and environmental standards before sale or registration; vehicles without type designation must pass individual inspection. The exact article and implementing notice applicability should be confirmed in the Japanese legal text.",
+      "_why": "Finding: summary overstated that all vehicles must satisfy standards via type designation; record itself says article applicability is unconfirmed"
+    },
+    "jp-srrv-speedometer-and-odometer": {
+      "systems": [
+        "Tell-tales & controls"
+      ],
+      "commodities": [
+        "ECUs",
+        "Wiring"
+      ],
+      "summary": "Japan's requirements for speedometer and odometer equipment (accuracy of displayed vehicle speed and distance) under the Safety Regulations for Road Vehicles and TRIAS test procedures. This record is a reference stub without regulation text.",
+      "_stub_body": true,
+      "_why": "Finding: lighting tags and lighting-template body on a speedometer record; Lighting modules commodity removed for same reason"
+    },
+    "jp-srrv-windshield-wiping-washing-defrosting-and-defogging": {
+      "un_equivalent_ai": [],
+      "_why": "Finding: R45 is headlamp cleaners and R48 lighting installation; neither covers windshield wipers/washers/defrost"
+    }
+  },
+  "skipped": [
+    {
+      "id": "jp-jvsregs-art43-7",
+      "field": "un_equivalent_ai",
+      "reason": "Already UN R138 in the record."
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "summary",
+      "reason": "Already rewritten as accelerator-control stub."
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "un_equivalent_ai",
+      "reason": "Already []."
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "systems",
+      "reason": "Already Tell-tales & controls; commodities Pedals; no taxonomy Powertrain value exists."
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "summary",
+      "reason": "Already rewritten as horn stub."
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "systems",
+      "reason": "Already Noise only; commodities already Horn."
+    },
+    {
+      "id": "jp-srrv-electric-vehicle-rechargeable-energy-storage-system",
+      "field": "citation",
+      "reason": "Already SRRV / TRIAS / UN R100."
+    },
+    {
+      "id": "jp-srrv-engine-power-train-and-pedal-lever",
+      "field": "summary",
+      "reason": "Already rewritten (Art. 8, fuel devices Art. 15)."
+    },
+    {
+      "id": "jp-srrv-engine-power-train-and-pedal-lever",
+      "field": "un_equivalent_ai",
+      "reason": "Already []; R85 unverified."
+    },
+    {
+      "id": "jp-srrv-engine-power-train-and-pedal-lever",
+      "field": "systems",
+      "reason": "Already []; no matching taxonomy value."
+    },
+    {
+      "id": "jp-srrv-tires-wheels-and-tpms",
+      "field": "un_equivalent_ai",
+      "reason": "Finding is low-confidence and unverified; TPMS is in the record title so R141 is plausible, and no certain replacement exists."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-citation: MVSR SOR-2013-198
+citation: SOR/2013-198
 commodities:
 - Tires
 - Wheels
@@ -25,17 +25,14 @@ status: in-force
 summary: Motor Vehicle Tire Safety Regulations (MVSR SOR/2013-198) govern new tires
   sold in Canada by prescribing safety classes and requiring conformance with applicable
   Technical Standards Documents (TSD 109, 119, and 139) based on tire type and vehicle
-  application. The regulations establish definitions, measurement...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  application.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7e72c0b08a604cb73341c88aaa663b8950d08820
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Motor Vehicle Tire Safety Regulations
-un_equivalent_ai:
-- UN R30
-- UN R54
 vehicle_categories:
 - Passenger car
 - Light truck

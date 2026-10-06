@@ -20,11 +20,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.218
 status: in-force
-summary: Motorcycle helmets designed for use by motorcyclists and other motor vehicle
-  users are regulated under this standard, which establishes minimum performance requirements
-  for impact attenuation, penetration resistance, retention system integrity, helmet
-  configuration, projections, and labeling to reduce deaths and...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: FMVSS No. 218 establishes minimum performance requirements for helmets designed
+  for use by motorcyclists and other motor vehicle users, to reduce deaths and injuries
+  from head impacts. It applies to all such helmets and includes requirements and
+  tests for the retention system.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 33f3518a7647f534ed7db2d8ea40b541963f4b77
 systems:
 - Crashworthiness

@@ -25,8 +25,8 @@ status: in-force
 summary: Tire selection and rim requirements for motor vehicles with a GVWR of 10,000
   pounds or less are regulated by this standard to prevent tire overloading and to
   ensure proper load carrying capacity information for motor homes and recreation
-  vehicle trailers. It requires that vehicles be equipped with compliant tires...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  vehicle trailers.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7105372f7759180417f6f16b3d1884b18f8baa4a
 systems:
 - Tires & wheels
@@ -35,9 +35,6 @@ tagging_status: llm-tagged
 title: § 571.110 Tire selection and rims and motor home/recreation vehicle trailer
   load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms
   (10,000 pounds) or less.
-un_equivalent_ai:
-- UN R30
-- UN R64
 vehicle_categories:
 - Passenger car
 - Light truck

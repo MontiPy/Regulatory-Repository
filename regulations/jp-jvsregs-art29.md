@@ -23,9 +23,7 @@ source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
 summary: Motor vehicle windows must be made of safety glass meeting ministerial standards,
   and windshields must maintain driver visibility when damaged and resist penetration.
-  Windshields and side windows must also meet distortion and visible light transmittance
-  standards, and may not have anything affixed, pasted, painted, or...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 8443ab058e73333d23605907f17464e52bca44c1
 systems:
 - Glazing
@@ -34,9 +32,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 29 — Glazing
 translation_status: translated
-un_equivalent_ai:
-- UN R43
-- UN R125
 vehicle_categories:
 - Passenger car
 - Light truck

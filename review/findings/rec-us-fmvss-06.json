@@ -1,0 +1,62 @@
+{
+  "shard": "rec-us-fmvss-06",
+  "reviewed": ["us-fmvss-401", "us-fmvss-403", "us-fmvss-404", "us-fmvss-500"],
+  "findings": [
+    {
+      "id": "us-fmvss-500",
+      "field": "commodities",
+      "verdict": "wrong",
+      "severity": "medium",
+      "current": "Lighting modules, Mirrors, Brakes, Glass, Seatbelts, Batteries, Horn",
+      "proposed": "Lighting modules, Mirrors, Brakes, Glass, Seatbelts",
+      "evidence": "Body S5(b) lists headlamps, turn/stop/tail lamps, reflectors, mirrors, parking brake, windshield (571.205), VIN, seat belts (571.209), rear visibility, and 'An alert sound as required by § 571.141'. No horn requirement exists; the alert sound is a pedestrian alert under FMVSS 141, not a horn. 'Batteries' appears only as a test condition (S6.3.6 state of charge), not an equipment requirement.",
+      "evidence_url": "regulations/us-fmvss-500.md",
+      "confidence": "medium"
+    },
+    {
+      "id": "us-fmvss-500",
+      "field": "vehicle_categories",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "[] (empty)",
+      "proposed": "No taxonomy value fits low-speed vehicles; consider adding an LSV/Low-speed vehicle category or tagging Passenger car/Light truck",
+      "evidence": "taxonomy.yaml vehicle_categories: Passenger car, Light truck, Heavy truck, Motorcycle, Bus, Trailer, Off-road. Body: 'This standard applies to low-speed vehicles.'",
+      "evidence_url": "taxonomy.yaml",
+      "confidence": "low"
+    },
+    {
+      "id": "us-fmvss-403",
+      "field": "systems",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "[] (empty); commodities also []",
+      "proposed": "Add an appropriate system tag, e.g. Crashworthiness or Tell-tales & controls (lift controls, S6.7); vehicle_categories lacks passenger car/MPV although lifts are installed in vans/MPVs",
+      "evidence": "Body covers platform lift requirements (controls S6.7, load capacity, barriers, retention) yet no systems or commodities are tagged, so the record is not discoverable by tag; sibling FMVSS 404 is tagged.",
+      "evidence_url": "regulations/us-fmvss-403.md",
+      "confidence": "low"
+    },
+    {
+      "id": "us-fmvss-404",
+      "field": "vehicle_categories",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Bus, Light truck",
+      "proposed": "Bus, Light truck, Passenger car (MPV/vans); S4.1.1 refers to buses, school buses and MPVs",
+      "evidence": "S4.1.1 'Lift-equipped buses, school buses, and MPVs other than motor homes with a GVWR greater than 4,536 kg'; S4.1.2 'Lift-equipped motor vehicles' (all others).",
+      "evidence_url": "regulations/us-fmvss-404.md",
+      "confidence": "low"
+    },
+    {
+      "id": "us-fmvss-403",
+      "field": "summary",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "summary ends mid-sentence: 'The standard applies to lifts...' (same for 401, 404, 500: '...')",
+      "proposed": "Complete the summary; for 403 add public-use vs private-use lift distinction and the 'DOT-Public Use Lift' labeling",
+      "evidence": "Frontmatter summaries of all four records are truncated with '...'. Facts present are consistent with body (e.g. 403 S3: 'manufactured on and after April 1, 2005'; 404 S3: 'July 1, 2005').",
+      "evidence_url": "regulations/us-fmvss-403.md",
+      "confidence": "high"
+    }
+  ],
+  "notes": "All four records are genuine eCFR text of the correct instruments; titles, citations, status (in-force), dates and source_urls check out. Precheck flag for us-fmvss-500 ('[Reserved]' near start) is dismissed: S4 is a reserved paragraph inside a live standard. Systemic: LLM summaries are truncated with '...'; tags are sometimes inferred from incidental body words (Batteries, Horn). No un_equivalent fields present (no direct UN equivalent for these standards)."
+}
