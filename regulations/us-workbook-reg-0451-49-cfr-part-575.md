@@ -31,7 +31,7 @@ systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: Consumer Information / Labels and Ratings
+title: Consumer Information (49 CFR Part 575)
 vehicle_categories:
 - Passenger car
 - Light truck

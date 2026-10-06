@@ -21,15 +21,15 @@ status: in-force
 summary: Steering control rearward displacement for passenger cars, three-wheeled
   vehicles, and trucks, buses, and multi-purpose passenger vehicles (excluding walk-in
   vans) with a GVWR of 4,536 kg or less and unloaded mass of 2,495 kg or less must
-  conform to Technical Standards Document No. 204. Vehicles that already meet the...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  conform to Technical Standards Document No. 204.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3a7550118c66eddf770216993e832d6510705047
 systems:
 - Steering
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 204
+title: MVSR s. 204 — Steering Control Rearward Displacement
 un_equivalent_ai:
 - UN R12
 vehicle_categories:

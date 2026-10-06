@@ -7,7 +7,6 @@ commodities:
 - Charging inlet
 - Power electronics
 - Electric motors
-- Fuel tanks
 id: ca-mvsr-c-r-c---c--1038-s305
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -35,10 +34,9 @@ summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 30a387eb8c70b8f83c3638928684701ae0e3d38c
 systems:
 - Battery safety
-- EV charging
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 305
+title: MVSR s. 305 — Electrolyte Spillage and Electrical Shock Protection
 un_equivalent_ai:
 - UN R100
 vehicle_categories:

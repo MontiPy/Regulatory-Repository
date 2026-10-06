@@ -1,155 +1,159 @@
 {
- "group": "other",
- "patches": {
-  "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra": {
-   "summary": "The ASEAN Automotive Products Mutual Recognition Arrangement (APMRA) is a regional framework for recognizing automotive product approvals among ASEAN member states. It does not replace national type approval, so each member state still needs a market-by-market check.",
-   "_why": "Current summary was cut off with '...'; rewritten from body (framework, does not replace national type approval)."
+  "group": "other",
+  "patches": {
+    "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra": {
+      "summary": "The ASEAN Automotive Products Mutual Recognition Arrangement (APMRA) is a regional framework for recognizing automotive product approvals among ASEAN member states. It does not replace national type approval, so each member state still needs a market-by-market check.",
+      "_why": "Current summary was cut off with '...'; rewritten from body (framework, does not replace national type approval)."
+    },
+    "br-abnt-nbr-15145": {
+      "systems": [
+        "Noise"
+      ],
+      "_why": "Finding: noise test methods (pass-by/stationary), not pollutant emissions; commodity Exhaust retained."
+    },
+    "br-contran-954": {
+      "systems": [
+        "Braking",
+        "ADAS"
+      ],
+      "_why": "Finding: ESC/VSF is braking-based stability control; body text has no steering-actuation requirement."
+    },
+    "br-contran-safety-labeling": {
+      "summary": "Reference entry for Brazil's vehicle safety labeling and consumer information requirement (ENSV), administered through the SENATRAN/CONTRAN type-approval process. The record holds no regulation text, so specific label contents are not summarized here.",
+      "_why": "Current summary was cut off with '...'; replaced with an honest reference summary."
+    },
+    "mx-workbook-reg-0612-nom-163-semarnat-scfi-2023": {
+      "summary": "NOM-163-SEMARNAT-SCFI-2023 regulates CO2 emissions and fuel economy of new light-duty and light-commercial vehicles up to 3,857 kg GVWR sold in Mexico. It sets certified CO2 and fuel consumption requirements for manufacturers, with fleet compliance and reporting obligations.",
+      "_why": "Current summary was cut off with '...'; rewritten from record's title and body."
+    },
+    "nz-workbook-reg-0628-land-transport-rules-approved-standards": {
+      "systems": [
+        "Vehicle identification"
+      ],
+      "_why": "Finding: empty systems; summary and body cite VIN/certification labels and whole-vehicle approval documentation."
+    },
+    "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022": {
+      "summary": "New Zealand's Land Transport (Clean Vehicle Standard) Regulations 2022 regulate CO2 emissions of vehicles imported or supplied into New Zealand. Importers and suppliers must meet fleet-level CO2 targets and track compliance through a credit/debit ledger.",
+      "systems": [
+        "Emissions"
+      ],
+      "_why": "Summary was cut off with '...'; systems finding: regulation concerns fleet CO2 only, body has no OBD/charging/battery safety requirements. Amendment Bill not mentioned (passage unverified)."
+    },
+    "other-workbook-reg-0643-iso-26262": {
+      "systems": [
+        "ADAS",
+        "Braking",
+        "Steering"
+      ],
+      "_why": "Finding: functional safety standard; cybersecurity and software-update topics belong to ISO/SAE 21434 and ISO 24089."
+    },
+    "other-workbook-reg-0645-iso-sae-21434": {
+      "un_equivalent": [],
+      "un_equivalent_ai": [
+        "UN R155"
+      ],
+      "_why": "Body: 'Not a regulation by itself', engineering basis behind UN R155; so plausible counterpart, not stated equivalent."
+    },
+    "other-workbook-reg-0646-iso-24089": {
+      "summary": "ISO 24089 is a voluntary engineering standard for road-vehicle software update engineering, covering controlled development, deployment and recording of updates. It is not a regulation itself but supports software update management evidence, for example for UN R156 SUMS.",
+      "_why": "Finding: summary wrongly says it is 'regulated'; body says 'Not a regulation by itself'; old summary also truncated.",
+      "un_equivalent": [],
+      "un_equivalent_ai": [
+        "UN R156"
+      ]
+    },
+    "other-workbook-reg-0647-automotive-spice-aspice": {
+      "systems": [
+        "Software updates"
+      ],
+      "_why": "Finding: body discusses no OBD or cybersecurity content; only software process/release records remain."
+    }
   },
-  "br-abnt-nbr-15145": {
-   "systems": [
-    "Noise"
-   ],
-   "_why": "Finding: noise test methods (pass-by/stationary), not pollutant emissions; commodity Exhaust retained."
-  },
-  "br-contran-954": {
-   "systems": [
-    "Braking",
-    "ADAS"
-   ],
-   "_why": "Finding: ESC/VSF is braking-based stability control; body text has no steering-actuation requirement."
-  },
-  "br-contran-safety-labeling": {
-   "summary": "Reference entry for Brazil's vehicle safety labeling and consumer information requirement (ENSV), administered through the SENATRAN/CONTRAN type-approval process. The record holds no regulation text, so specific label contents are not summarized here.",
-   "_why": "Current summary was cut off with '...'; replaced with an honest reference summary."
-  },
-  "mx-workbook-reg-0612-nom-163-semarnat-scfi-2023": {
-   "summary": "NOM-163-SEMARNAT-SCFI-2023 regulates CO2 emissions and fuel economy of new light-duty and light-commercial vehicles up to 3,857 kg GVWR sold in Mexico. It sets certified CO2 and fuel consumption requirements for manufacturers, with fleet compliance and reporting obligations.",
-   "_why": "Current summary was cut off with '...'; rewritten from record's title and body."
-  },
-  "nz-workbook-reg-0628-land-transport-rules-approved-standards": {
-   "systems": [
-    "Vehicle identification"
-   ],
-   "_why": "Finding: empty systems; summary and body cite VIN/certification labels and whole-vehicle approval documentation."
-  },
-  "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022": {
-   "summary": "New Zealand's Land Transport (Clean Vehicle Standard) Regulations 2022 regulate CO2 emissions of vehicles imported or supplied into New Zealand. Importers and suppliers must meet fleet-level CO2 targets and track compliance through a credit/debit ledger.",
-   "systems": [
-    "Emissions"
-   ],
-   "_why": "Summary was cut off with '...'; systems finding: regulation concerns fleet CO2 only, body has no OBD/charging/battery safety requirements. Amendment Bill not mentioned (passage unverified)."
-  },
-  "other-workbook-reg-0643-iso-26262": {
-   "systems": [
-    "ADAS",
-    "Braking",
-    "Steering"
-   ],
-   "_why": "Finding: functional safety standard; cybersecurity and software-update topics belong to ISO/SAE 21434 and ISO 24089."
-  },
-  "other-workbook-reg-0645-iso-sae-21434": {
-   "un_equivalent": [],
-   "un_equivalent_ai": [
-    "UN R155"
-   ],
-   "_why": "Body: 'Not a regulation by itself', engineering basis behind UN R155; so plausible counterpart, not stated equivalent."
-  },
-  "other-workbook-reg-0646-iso-24089": {
-   "summary": "ISO 24089 is a voluntary engineering standard for road-vehicle software update engineering, covering controlled development, deployment and recording of updates. It is not a regulation itself but supports software update management evidence, for example for UN R156 SUMS.",
-   "_why": "Finding: summary wrongly says it is 'regulated'; body says 'Not a regulation by itself'; old summary also truncated."
-  },
-  "other-workbook-reg-0647-automotive-spice-aspice": {
-   "systems": [
-    "Software updates"
-   ],
-   "_why": "Finding: body discusses no OBD or cybersecurity content; only software process/release records remain."
-  }
- },
- "skipped": [
-  {
-   "id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
-   "field": "source_url",
-   "reason": "Could not verify an official government URL for this specific circular (vbpl.vn root only)."
-  },
-  {
-   "id": "br-abnt-nbr-15145",
-   "field": "summary",
-   "reason": "already fixed (summary now describes NBR 15145/9714)"
-  },
-  {
-   "id": "br-anatel-cert",
-   "field": "citation",
-   "reason": "low confidence; exact current instrument number not verifiable from record"
-  },
-  {
-   "id": "br-conama-492",
-   "field": "un_equivalent",
-   "reason": "body itself cites UN ECE R83 for Ki factors and groupings; keep"
-  },
-  {
-   "id": "br-contran-749",
-   "field": "un_equivalent_ai",
-   "reason": "no body evidence for R94/R95/R101 claims; unverifiable"
-  },
-  {
-   "id": "br-contran-759",
-   "field": "summary",
-   "reason": "details (dates, camera/acoustic) not in body; unverifiable"
-  },
-  {
-   "id": "br-contran-908",
-   "field": "un_equivalent_ai",
-   "reason": "low confidence, no body evidence"
-  },
-  {
-   "id": "br-contran-safety-labeling",
-   "field": "citation",
-   "reason": "Portaria numbers not verifiable from record"
-  },
-  {
-   "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
-   "field": "status",
-   "reason": "unverifiable; keep in-force"
-  },
-  {
-   "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
-   "field": "citation",
-   "reason": "legal basis/GOST numbers not supported by body"
-  },
-  {
-   "id": "mx-workbook-reg-0610-nom-194-se-2021",
-   "field": "summary",
-   "reason": "unverifiable low confidence; no body evidence to change"
-  },
-  {
-   "id": "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022",
-   "field": "status",
-   "reason": "amendment passage not verified; status kept"
-  },
-  {
-   "id": "other-workbook-reg-0546-directive-2011-65-eu-rohs",
-   "field": "paywall",
-   "reason": "paywall not an allowed patch field"
-  },
-  {
-   "id": "other-workbook-reg-0648-iso-6469-series",
-   "field": "vehicle_categories",
-   "reason": "low confidence; exact scope categories not verifiable"
-  },
-  {
-   "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
-   "field": "un_equivalent_ai",
-   "reason": "already fixed (now [])"
-  },
-  {
-   "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
-   "field": "summary",
-   "reason": "already fixed (voluntary guidance; TR 4804 withdrawal in status_note)"
-  },
-  {
-   "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
-   "field": "source_url",
-   "reason": "could not verify an official authority URL for MARTOY"
-  }
- ]
+  "skipped": [
+    {
+      "id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
+      "field": "source_url",
+      "reason": "Could not verify an official government URL for this specific circular (vbpl.vn root only)."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "summary",
+      "reason": "already fixed (summary now describes NBR 15145/9714)"
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "citation",
+      "reason": "low confidence; exact current instrument number not verifiable from record"
+    },
+    {
+      "id": "br-conama-492",
+      "field": "un_equivalent",
+      "reason": "body itself cites UN ECE R83 for Ki factors and groupings; keep"
+    },
+    {
+      "id": "br-contran-749",
+      "field": "un_equivalent_ai",
+      "reason": "no body evidence for R94/R95/R101 claims; unverifiable"
+    },
+    {
+      "id": "br-contran-759",
+      "field": "summary",
+      "reason": "details (dates, camera/acoustic) not in body; unverifiable"
+    },
+    {
+      "id": "br-contran-908",
+      "field": "un_equivalent_ai",
+      "reason": "low confidence, no body evidence"
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "citation",
+      "reason": "Portaria numbers not verifiable from record"
+    },
+    {
+      "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "field": "status",
+      "reason": "unverifiable; keep in-force"
+    },
+    {
+      "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "field": "citation",
+      "reason": "legal basis/GOST numbers not supported by body"
+    },
+    {
+      "id": "mx-workbook-reg-0610-nom-194-se-2021",
+      "field": "summary",
+      "reason": "unverifiable low confidence; no body evidence to change"
+    },
+    {
+      "id": "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022",
+      "field": "status",
+      "reason": "amendment passage not verified; status kept"
+    },
+    {
+      "id": "other-workbook-reg-0546-directive-2011-65-eu-rohs",
+      "field": "paywall",
+      "reason": "paywall not an allowed patch field"
+    },
+    {
+      "id": "other-workbook-reg-0648-iso-6469-series",
+      "field": "vehicle_categories",
+      "reason": "low confidence; exact scope categories not verifiable"
+    },
+    {
+      "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+      "field": "un_equivalent_ai",
+      "reason": "already fixed (now [])"
+    },
+    {
+      "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+      "field": "summary",
+      "reason": "already fixed (voluntary guidance; TR 4804 withdrawal in status_note)"
+    },
+    {
+      "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+      "field": "source_url",
+      "reason": "could not verify an official authority URL for MARTOY"
+    }
+  ]
 }

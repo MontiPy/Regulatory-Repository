@@ -37,7 +37,6 @@ summary_hash: 754d3f07248f884c73ba7f7d4cdf99ffd29c39b4
 systems:
 - Battery safety
 - EV charging
-- Fuel safety
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged

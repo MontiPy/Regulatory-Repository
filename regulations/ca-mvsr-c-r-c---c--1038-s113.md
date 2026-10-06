@@ -2,7 +2,6 @@
 citation: MVSR C.R.C.,_c._1038 s. 113
 commodities:
 - Body structure
-- Door latches & hinges
 id: ca-mvsr-c-r-c---c--1038-s113
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -28,7 +27,7 @@ systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 113
+title: MVSR s. 113 — Hood Latch Systems
 un_equivalent_ai: []
 vehicle_categories:
 - Passenger car

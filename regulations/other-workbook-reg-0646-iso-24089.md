@@ -22,12 +22,11 @@ region: OTHER
 source_api: spreadsheet
 source_url: https://www.iso.org/standard/77796.html
 status: in-force
-summary: Vehicle software update engineering across E/E systems, ECUs, telematics,
-  and ADAS controllers is regulated to ensure updates are developed, deployed, and
-  recorded in a controlled manner. This standard provides supporting evidence that
-  software updates maintain traceability, version integrity, rollback capability,
-  and...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: ISO 24089 is a voluntary engineering standard for road-vehicle software update
+  engineering, covering controlled development, deployment and recording of updates.
+  It is not a regulation itself but supports software update management evidence,
+  for example for UN R156 SUMS.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eb1db91f52f2f068d5eb97b4aea470a0f923c4ef
 systems:
 - Software updates
@@ -37,7 +36,8 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Software update engineering
-un_equivalent:
+un_equivalent: []
+un_equivalent_ai:
 - UN R156
 vehicle_categories:
 - Passenger car

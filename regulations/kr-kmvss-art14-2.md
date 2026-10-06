@@ -21,9 +21,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Passenger vehicles (excluding light-class vans) and trucks or special-purpose
   vehicles over 3.5 tonnes gross vehicle weight must be equipped with a lane departure
-  warning system. Exemptions apply to towed vehicles, dump-type trucks, vehicles with
-  recorded standing passenger capacity, and other vehicles the Minister of...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  warning system.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2d04938cf7ed98a48d387b147779b0b35f15fc76
 systems:
 - ADAS
@@ -31,6 +30,8 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 14-2 — Lane Departure Warning System
 translation_status: translated
+un_equivalent_ai:
+- UN R130
 vehicle_categories:
 - Passenger car
 - Heavy truck

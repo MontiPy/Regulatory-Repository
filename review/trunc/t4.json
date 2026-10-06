@@ -1,0 +1,88 @@
+{
+ "group": "t4",
+ "patches": {
+  "us-47cfr-part-15": {
+   "summary": "47 CFR Part 15 sets the rules under which intentional, unintentional and incidental radiators may operate without an individual FCC license, with technical specifications and conditions for marketing such devices. Operation or marketing of non-compliant devices is prohibited unless exempted, and prior equipment authorization is required where applicable. Subparts cover unintentional and intentional radiators, UWB, U-NII and white space devices.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-523": {
+   "summary": "49 CFR Part 523 establishes the vehicle categories (including passenger automobiles, light trucks and medium-duty passenger vehicles) that are subject to title V of the Motor Vehicle Information and Cost Savings Act, the fuel economy program. It defines terms such as cab-complete vehicle, cargo-carrying volume and approach, breakover and departure angles.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-525": {
+   "summary": "49 CFR Part 525 sets procedures for low volume manufacturers of passenger automobiles to petition NHTSA for exemption from the average fuel economy standards and for an alternative standard. It specifies the content and format of petitions and how they are processed, and applies to passenger automobile manufacturers.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-531": {
+   "summary": "49 CFR Part 531 establishes minimum average fuel economy standards, in miles per gallon, for passenger automobiles under 49 U.S.C. 32902. It applies to manufacturers of passenger automobiles and sets fleet standards by model year, plus a minimum standard for domestically manufactured passenger automobiles.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body. HVAC removed: air conditioning appears only as an off-cycle credit detail, not the subject.",
+   "systems": [
+    "Emissions"
+   ]
+  },
+  "us-cfr-part-537": {
+   "summary": "49 CFR Part 537 requires automobile manufacturers to submit fuel economy reports to NHTSA about their plans and efforts to meet average fuel economy standards. It applies to automobile manufacturers except those subject to an alternate standard under 49 U.S.C. 32902(d), and the reports support NHTSA's evaluation of compliance plans and its annual standards review.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-541": {
+   "summary": "49 CFR Part 541, the Federal Motor Vehicle Theft Prevention Standard, specifies performance requirements for identifying numbers or symbols on major parts of certain passenger motor vehicles, to help trace and recover parts from stolen vehicles. It covers passenger cars, multipurpose passenger vehicles up to 6,000 lb GVWR and designated light-duty trucks, with exclusions for small manufacturers and low-volume lines.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-542": {
+   "summary": "49 CFR Part 542 sets procedures for manufacturers and NHTSA to decide whether a new light duty truck line is likely to have a theft rate above or below the 1990/91 median, and so whether it is covered by the Theft Prevention Standard in Part 541. It applies to new lines introduced in the US on or after September 1, 2006.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-543": {
+   "summary": "49 CFR Part 543 sets procedures and petition content for manufacturers of passenger motor vehicles to seek exemption of a car line from the parts-marking requirements of Part 541. Eligibility rests on a standard-equipment antitheft device likely to be as effective as parts marking. It also covers terminating or modifying exemptions.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-545": {
+   "summary": "49 CFR Part 545 requires motor vehicle manufacturers to respond to NHTSA inquiries, submit reports and keep records on vehicles meeting or excluded from the Part 541 theft prevention standard. The text is tied to the production year of September 1, 2006 to August 31, 2007, with a report due within 60 days after it ended.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-556": {
+   "summary": "49 CFR Part 556 sets procedures for manufacturers of motor vehicles and replacement equipment to petition NHTSA for exemption from the notification and remedy requirements when a safety defect or noncompliance is inconsequential to motor vehicle safety. It specifies petition contents and gives interested persons an opportunity to comment.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-561": {
+   "summary": "49 CFR Part 561 requires standardized emergency response guides and rescue sheets for electric-powered vehicles, and further documentation on low temperature operation, REESS malfunction and thermal event warnings, and thermal runaway and propagation risk mitigation. It applies to passenger cars, MPVs, trucks and buses above 60 VDC or 30 VAC; rescue sheets from December 22, 2025, other documentation from September 1, 2027 (GVWR 4,536 kg or less) or 2028 (over).",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-568": {
+   "summary": "49 CFR Part 568 prescribes how incomplete, intermediate and final-stage manufacturers of vehicles built in two or more stages ensure conformity with the Federal motor vehicle safety standards. It requires incomplete vehicle manufacturers to furnish an Incomplete Vehicle Document with each incomplete vehicle at or before delivery.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body. Crashworthiness removed: Part 568 covers certification and documents for multi-stage vehicles, with no crash performance requirements.",
+   "systems": [
+    "Vehicle identification"
+   ]
+  },
+  "us-cfr-part-574": {
+   "summary": "49 CFR Part 574 sets how new tire manufacturers, brand name owners and retreaders identify tires for use on motor vehicles and how tire purchaser records are maintained. It also sets registration-form duties for independent dealers and distributors and reporting of purchaser names to manufacturers and brand name owners.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-578": {
+   "summary": "49 CFR Part 578 specifies the inflation-adjusted civil penalties for violations of statutes and regulations administered by NHTSA, and sets out NHTSA's interpretation of the civil penalty factors in 49 U.S.C. 30165(c). It also sets requirements for the time and manner of correction needed for safe harbor from criminal liability under 49 U.S.C. 30170(a).",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-583": {
+   "summary": "49 CFR Part 583 requires disclosure of parts content and country-of-origin information for new passenger motor vehicles: the U.S./Canadian and foreign parts content value, the countries of origin of the engine and transmission, and the final assembly site. It applies to manufacturers and importers of such vehicles, equipment suppliers and dealers.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-586": {
+   "summary": "49 CFR Part 586 implements 49 U.S.C. 30114(b) by letting registered low-volume manufacturers (annual worldwide production of no more than 5,000 vehicles) build up to 325 replica motor vehicles per year exempt from certain requirements. It sets registration with NHTSA, labeling, reporting and revocation provisions.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-593": {
+   "summary": "49 CFR Part 593 sets procedures for NHTSA to determine whether a vehicle not originally manufactured to conform to the Federal motor vehicle safety standards may be imported because it can be modified to meet them. It specifies petition content and format for Registered Importers and manufacturers, and applies to such vehicles offered for importation.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr-part-594": {
+   "summary": "49 CFR Part 594 establishes the fees authorized by 49 U.S.C. 30141 so NHTSA recovers the cost of the importer registration program, eligibility determinations for nonconforming vehicles and bond processing. It applies to Registered Importer applicants and holders, to manufacturers petitioning under Part 593, and to importers of vehicles under such a determination.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  },
+  "us-cfr575-104": {
+   "summary": "49 CFR 575.104 requires motor vehicle and tire manufacturers and brand name owners to provide treadwear, traction and temperature resistance grades for new pneumatic passenger car tires, to help consumers compare tires. It excludes deep tread and winter-type snow tires, temporary spares, tires with rims of 12 inches or less, and limited production tires.",
+   "_why": "Rewritten from the scope/application/purpose clauses of the body."
+  }
+ },
+ "skipped": []
+}

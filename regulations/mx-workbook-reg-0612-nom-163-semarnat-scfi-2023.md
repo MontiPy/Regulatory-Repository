@@ -27,11 +27,11 @@ region: MX
 source_api: spreadsheet
 source_url: https://platiica.economia.gob.mx/normalizacion/nom-163-semarnat-scfi-2023/
 status: in-force
-summary: New light-duty and light-commercial vehicles up to 3,857 kg GVWR sold in
-  Mexico are regulated for CO2 emissions and fuel economy under NOM-163-SEMARNAT-SCFI-2023.
-  It requires manufacturers to meet certified CO2 and fuel consumption limits, maintain
-  fleet compliance records, and fulfill reporting obligations to retain...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: NOM-163-SEMARNAT-SCFI-2023 regulates CO2 emissions and fuel economy of new
+  light-duty and light-commercial vehicles up to 3,857 kg GVWR sold in Mexico. It
+  sets certified CO2 and fuel consumption requirements for manufacturers, with fleet
+  compliance and reporting obligations.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1bb31a57544ee7945f717d5aa37439d7576f6ed9
 systems:
 - Emissions

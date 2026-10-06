@@ -23,9 +23,8 @@ status_note: Standards reset by NHTSA SAFE Vehicles Rule III (FR 2026-19964, 30 
   2026, effective 30 Nov 2026); text here predates it — re-pull.
 summary: Light truck fuel economy standards require manufacturers of light trucks
   to meet minimum fleet average fuel economy levels, expressed in miles per gallon,
-  for each specified model year. The regulation sets out compliance options for combining
-  or separately meeting standards for 2-wheel and 4-wheel drive vehicles,...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  for each specified model year.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b6248da3e510e33466b669d6cd22adb1bc136e41
 systems:
 - Emissions

@@ -33,7 +33,6 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 41505b48537c1a0fc04e32b5f3654e226cfe08b3
 systems:
 - Braking
-- Steering
 - ADAS
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged

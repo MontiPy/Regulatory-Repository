@@ -35,7 +35,7 @@ systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: Light-duty Vehicle and Fuel Emission Standards
+title: EPA Tier 3 Motor Vehicle Emission and Fuel Standards (40 CFR Part 86)
 un_equivalent:
 - UN R83
 un_equivalent_ai: []

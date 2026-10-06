@@ -28,17 +28,15 @@ status: in-force
 summary: Controls, tell-tales, indicators, and sources of illumination fitted in a
   vehicle's occupant compartment must conform to Technical Standards Document No.
   101 (TSD 101), with specified exceptions permitting alternative symbols, abbreviations,
-  or words for certain controls and tell-tales. The regulation also requires...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  or words for certain controls and tell-tales.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 64b930c0a653e27be0dc364484a1a52e9e75ce43
 systems:
 - Tell-tales & controls
 - Lighting & signaling
-- Restraints
-- Braking
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 101 — General
+title: MVSR s. 101 — Controls and Displays (TSD 101)
 un_equivalent_ai:
 - UN R121
 - UN R39

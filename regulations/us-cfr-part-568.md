@@ -1,9 +1,6 @@
 ---
 citation: 49 CFR Part 568
-commodities:
-- Bumpers
-- Tires
-- Body structure
+commodities: []
 id: us-cfr-part-568
 last_pulled: '2026-06-01T18:44:27+00:00'
 open_tags:

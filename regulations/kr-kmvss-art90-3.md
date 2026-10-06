@@ -36,10 +36,12 @@ title: KMVSS Article 90-3 — Emergency Autonomous Braking System Performance St
 translation_status: translated
 un_equivalent_ai:
 - UN R152
+- UN R131
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
+- Bus
 ---
 
 ## Article 90-3 — Emergency Autonomous Braking System Performance Standards

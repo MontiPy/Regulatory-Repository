@@ -28,14 +28,11 @@ title: Identification of Controls, Telltales and Indicators
 translation_status: untranslated
 un_equivalent_ai:
 - UN R121
-- UN R48
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
-- Trailer
 ---
 
 # Identification of Controls, Telltales and Indicators

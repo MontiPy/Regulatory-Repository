@@ -29,7 +29,6 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f1d5619dff880593115127322ff7bc29e0bc6d3f
 systems:
 - Theft prevention
-- Cybersecurity
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 162 — Immobilisers

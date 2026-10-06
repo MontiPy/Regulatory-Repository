@@ -29,8 +29,7 @@ status: in-force
 summary: Light-duty vehicle pollutant emissions and fuel economy performance in the
   GCC region are regulated under GSO-ECE 83 and GSO-ECE 154, covering engine/aftertreatment
   systems, OBD, evaporative emissions, CO2 reporting, and hybrid/EV energy management.
-  Vehicles must meet certified emissions limits, fuel economy and CO2...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5296de47ae1ef2021dcc68432ddb1c6a17acfefb
 systems:
 - Emissions
@@ -40,6 +39,9 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: Pollutant Emissions / WLTP
 translation_status: untranslated
+un_equivalent:
+- UN R83
+- UN R154
 un_equivalent_ai:
 - UN R154
 - UN R83

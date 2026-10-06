@@ -23,10 +23,8 @@ source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.116
 status: in-force
 summary: Motor vehicle brake fluids used in hydraulic brake systems, along with their
-  containers and container labeling, are regulated by this standard. It establishes
-  minimum performance requirements — including boiling points, viscosity limits, pH
-  range, stability, and corrosion resistance — for DOT 3, DOT 4, and DOT 5 brake...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  containers and container labeling, are regulated by this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d329f86b2ef334c46dce60556d943e40c955b823
 systems:
 - Braking

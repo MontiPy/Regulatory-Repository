@@ -24,9 +24,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-587
 status: in-force
 summary: Deformable barriers used in motor vehicle safety compliance testing are defined
   and specified in this part, which establishes the design, performance criteria,
-  and physical specifications for those barriers. The regulation does not impose duties
-  on any person but serves as a technical reference tool to be incorporated...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  and physical specifications for those barriers.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9d7ab947aecd44a3b9d0bc5d249078f9c22bc4c1
 systems:
 - Crashworthiness

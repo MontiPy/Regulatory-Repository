@@ -1,0 +1,82 @@
+{
+ "group": "t1",
+ "patches": {
+  "ca-mvsr-c-r-c---c--1038-s305": {
+   "summary": "Section 305 of Canada's Motor Vehicle Safety Regulations requires passenger cars, three-wheeled vehicles and multi-purpose passenger vehicles, trucks and buses of 4 536 kg GVWR or less, that use more than 60 VDC or 30 VAC for propulsion and can exceed 40 km/h, to conform to Technical Standards Document No. 305 (electrolyte spillage and electrical shock protection). Certain TSD 305 provisions do not apply to three-wheeled vehicles, which have a modified loading condition.",
+   "_why": "s.305 text: TSD 305 applicability, voltage and 40 km/h thresholds, three-wheeler subsections (2)-(3)"
+  },
+  "ca-mvsr-c-r-c---c--1038-s401": {
+   "summary": "Section 401 of Canada's Motor Vehicle Safety Regulations requires passenger cars and three-wheeled vehicles to conform to Technical Standards Document No. 401 (Interior Trunk Release). Vehicles manufactured before September 1, 2010 need not have an interior trunk release, and vehicles with a back door as defined in TSD 401 are excluded.",
+   "_why": "s.401(1)-(3) text"
+  },
+  "ca-mvsr-sor-2003-2": {
+   "summary": "The On-Road Vehicle and Engine Emission Regulations (SOR/2003-2), made under the Canadian Environmental Protection Act, 1999, set emission requirements for on-road vehicles and engines and define the related terms. They apply to vehicles whose main assembly is completed in Canada, engines manufactured in Canada, and vehicles and engines imported into Canada, on or after January 1, 2004.",
+   "_why": "Application clause: vehicles/engines completed in or imported into Canada on or after 1 Jan 2004; CEPA 1999 enabling text"
+  },
+  "ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038": {
+   "summary": "Workbook entry for Canada's Motor Vehicle Safety Regulations (C.R.C., c. 1038), described as the overarching framework for certification, market entry and recall of vehicles sold or imported in Canada. It points to compliance labels and the National Safety Mark, records, import documents and defect and non-compliance reporting, alongside the CMVSS standards. The body is summary text, not the regulation itself.",
+   "_why": "Body is a template summary (regulated area, applicability, intent); no regulation text"
+  },
+  "cn-gb-11551-2014": {
+   "summary": "Chinese national standard GB 11551-2014, on the protection of occupants in the event of a frontal collision for motor vehicles. The body in the repository is only a summary note, which lists the regulated area as frontal impact and applicability to M1 passenger vehicles; the standard's own requirements and limits are not reproduced. The record lists an effective date of 2015-01-01.",
+   "_why": "Body is a template note (Regulated Area: Frontal impact); no standard text"
+  },
+  "cn-gb-14166-2024": {
+   "summary": "Chinese national standard GB 14166-2024, on safety-belts and restraint systems for occupants of power-driven vehicles. The body in the repository is only a summary note, which lists the regulated area as seat belts and anchorages and applicability to M1 passenger vehicles; the standard's own requirements are not reproduced. The record lists an effective date of 2025-07-01.",
+   "_why": "Body is a template note (Regulated Area: Seat belts and anchorages); no standard text"
+  },
+  "eu-32006l0040": {
+   "summary": "Directive 2006/40/EC relates to emissions from air-conditioning systems in motor vehicles of categories M1 and N1 (class I), amending Directive 70/156/EEC. Member States may grant type-approval only to vehicle types meeting its requirements, including maximum leakage-rate limits for systems designed to contain fluorinated greenhouse gases with a GWP above 150. Member States were to apply their transposing measures from 5 January 2008.",
+   "_why": "Art. 1 scope M1/N1, Art. 4 type-approval and leakage limits, Art. 10 transposition 4/5 Jan 2008"
+  },
+  "eu-32007r0715": {
+   "summary": "Regulation (EC) No 715/2007 harmonises the type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and sets rules on access to vehicle repair and maintenance information. It lays down fundamental provisions on vehicle emissions, with technical specifications left to implementing measures.",
+   "_why": "Title and recitals of Reg 715/2007"
+  },
+  "eu-32009r0661": {
+   "summary": "Regulation (EC) No 661/2009 sets type-approval requirements for the general safety of motor vehicles, their trailers and the systems, components and separate technical units intended for them, as a separate regulation under Directive 2007/46/EC. It was repealed by Regulation (EU) 2019/2144 with effect from 6 July 2022.",
+   "_why": "Title and recitals; status_note on repeal by 2019/2144"
+  },
+  "eu-32014l0053": {
+   "summary": "Directive 2014/53/EU (Radio Equipment Directive) harmonises the laws of the Member States on making radio equipment available on the market and repeals Directive 1999/5/EC. It is a general product directive, not a vehicle-specific instrument, and builds on Regulation (EC) No 765/2008 and Decision No 768/2008/EC.",
+   "_why": "Title and recitals (1)-(3); general radio equipment directive, not vehicle-specific"
+  },
+  "eu-32018r0858": {
+   "summary": "Regulation (EU) 2018/858 is the EU framework for the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for them. It amends Regulations (EC) No 715/2007 and (EC) No 595/2009, repeals Directive 2007/46/EC, and applies from 1 September 2020.",
+   "_why": "Title; final article 'shall apply from 1 September 2020'"
+  },
+  "eu-32019r0631": {
+   "summary": "Regulation (EU) 2019/631 sets CO2 emission performance standards for new passenger cars and new light commercial vehicles, recasting and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011. It applies from 1 January 2020, maintaining the previous standards and modalities without change until 2024.",
+   "_why": "Title and recitals (1)-(2)"
+  },
+  "eu-32022r1426": {
+   "summary": "Commission Implementing Regulation (EU) 2022/1426 lays down uniform procedures and technical specifications for the type-approval of the automated driving system (ADS) of fully automated vehicles, under Regulation (EU) 2019/2144. Its requirements cover items such as safety management and require ADS protection per UN Regulation No 155 and software update compliance with UN Regulation No 156.",
+   "_why": "Title; Annex points 8.1 and 8.2 cite UN R155 and R156"
+  },
+  "eu-32023r2590": {
+   "summary": "Commission Delegated Regulation (EU) 2023/2590 sets test procedures and technical requirements for the type-approval of motor vehicles of categories M and N with regard to advanced driver distraction warning systems, supplementing Regulation (EU) 2019/2144. It applies from 7 July 2024, with earlier acceptance of approvals from 1 January 2024 if the manufacturer requests.",
+   "_why": "Art. 1 scope M and N; final article application dates"
+  },
+  "eu-32024r0573": {
+   "summary": "Regulation (EU) 2024/573 on fluorinated greenhouse gases repeals Regulation (EU) No 517/2014. It covers containment, use, recovery and destruction of F-gases, conditions on their production, import, export, placing on the market and use, and quantitative limits for placing hydrofluorocarbons on the market. It is a general F-gas instrument, not vehicle-specific, though it addresses air-conditioning and heat pump equipment.",
+   "_why": "Title and Art. 1 subject matter (a)-(d)"
+  },
+  "gcc-gso-my2027-emission-limit-implementation": {
+   "summary": "Workbook entry on GCC member-state Euro-level emission limits for motor vehicles registered in GCC states, noting that limits vary by member state, including Euro 5 for Saudi Arabia and Kuwait and Euro 6b for the UAE. The body is summary text, not the regulation itself, and the national annexes should be checked.",
+   "_why": "Body is a template note; Engineering Considerations line on per-state Euro levels"
+  },
+  "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework": {
+   "summary": "Workbook entry on Israel's import, registration and standards-recognition framework for vehicles. It describes market access through recognized approvals, type-approval certificates, conformity-of-production records, VIN or certification labels and import documentation, and notes that import licensing is a separate gate. The body is summary text, not regulation text.",
+   "_why": "Body is a template note (market access / import approval); no regulation text"
+  },
+  "jp-jvsregs-art1": {
+   "summary": "Article 1 of Japan's ministerial Road Vehicle Safety Regulations (JVSR) defines terms used in the regulations, in addition to those in Article 2 of the Road Vehicles Act. Defined terms include towing and towed vehicles, semi-trailer and pole trailer, unladen condition, high-pressure gas and gas containers, pressure vessel, hazardous materials and emergency vehicle.",
+   "_why": "Art. 1 item list of definitions"
+  },
+  "jp-jvsregs-art10": {
+   "summary": "Article 10 of Japan's ministerial Road Vehicle Safety Regulations (JVSR) requires driver-operated devices to meet layout and identification-marking standards set by ministerial notice, so the driver can identify and operate them from the normal seating position. Covered devices include controls for the starting system, accelerator, clutch, transmission, brakes, headlights, horn, direction indicators, wipers, washers and defrosters.",
+   "_why": "Art. 10(1) items 1-3"
+  }
+ },
+ "skipped": []
+}

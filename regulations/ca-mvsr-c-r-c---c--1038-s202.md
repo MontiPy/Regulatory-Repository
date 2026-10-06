@@ -28,7 +28,7 @@ systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 202
+title: MVSR s. 202 — Head Restraints
 un_equivalent_ai:
 - UN R25
 - UN R17

@@ -21,8 +21,8 @@ status: in-force
 summary: Passenger cars equipped with a trunk compartment must have an interior release
   mechanism — either manual (with a visible feature such as lighting or phosphorescence)
   or automatic (unlatching within 5 minutes) — that allows a person trapped inside
-  to unlatch and open the trunk lid from within. The release must fully...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  to unlatch and open the trunk lid from within.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1302c5bdd9f740e5b238bbcfb880b830b31443c1
 systems:
 - Crashworthiness

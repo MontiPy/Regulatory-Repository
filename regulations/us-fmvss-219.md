@@ -3,8 +3,6 @@ citation: 49 CFR §571.219
 commodities:
 - Glass
 - Body structure
-- Steering column
-- Wipers & washers
 id: us-fmvss-219
 last_pulled: '2026-06-01T18:41:28+00:00'
 open_tags:
@@ -26,9 +24,7 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.219
 status: in-force
 summary: Windshield zone intrusion limits for passenger cars, multipurpose passenger
   vehicles, trucks, and buses up to 4,536 kg GVWR are regulated by this standard.
-  It requires that when a vehicle traveling up to 48 km/h strikes a fixed perpendicular
-  barrier, no external vehicle components (except windshield molding and parts...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e426bd5b2266d37cf08cb0b4db6f92903b099a5e
 systems:
 - Crashworthiness

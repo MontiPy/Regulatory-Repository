@@ -1,0 +1,82 @@
+{
+ "group": "t2",
+ "patches": {
+  "jp-jvsregs-art17": {
+   "summary": "Article 17 of Japan's Road Transport Vehicle Safety Regulations sets fuel system requirements for gas-fuelled motor vehicles. High-pressure gas and LPG fuel systems must meet ministerial standards for strength, structure and mounting to prevent explosion (and, for LPG, ignition and fire). Compressed hydrogen flow-path components must meet fuel leak prevention standards in collision or rear-end impact, with listed vehicle types excluded.",
+   "_why": "Art 17 paras 1-3"
+  },
+  "jp-jvsregs-art17-2": {
+   "summary": "Article 17-2 of Japan's Road Transport Vehicle Safety Regulations sets ministerial performance standards for vehicle electrical devices. They cover spark injury to occupants, radio-wave interference with wireless equipment and with vehicle control, cybersecurity, reliable software modification, and protection of occupants from high voltage in electrically powered vehicles, including after a collision or rear-end impact. Exclusions vary by paragraph.",
+   "_why": "Art 17-2 paras 1-6"
+  },
+  "jp-jvsregs-art22-3": {
+   "summary": "Article 22-3 of Japan's Road Transport Vehicle Safety Regulations requires motor vehicles (excluding two-wheelers and vehicles under 20 km/h, other than special vehicles) to have seat belts and anchorages of Type 1 or Type 2 depending on vehicle class and seat position. Belts and anchorages must meet ministerial standards, and a seat belt non-fastening warning device is required for specified vehicle categories and seats.",
+   "_why": "Art 22-3 paras 1-5"
+  },
+  "jp-jvsregs-art22-5": {
+   "summary": "Article 22-5 of Japan's Road Transport Vehicle Safety Regulations requires passenger-transport motor vehicles to be fitted with child restraint system anchorages, with exclusions such as vehicles seating 10 or more and two- and three-wheeled vehicles, and an exception for certain wheelchair-accessible vehicles. Anchorages and child restraint systems must meet ministerial standards for strength, position, structure and performance.",
+   "_why": "Art 22-5 paras 1-3"
+  },
+  "jp-jvsregs-art30": {
+   "summary": "Article 30 of Japan's Road Transport Vehicle Safety Regulations requires motor vehicles (excluding towed vehicles) to meet ministerial standards on structure and noise levels so as not to generate excessive noise. Vehicles with an internal combustion engine must carry a muffler meeting ministerial standards, and type-designated noise suppression devices must allow the vehicle to comply.",
+   "_why": "Art 30 paras 1-3"
+  },
+  "jp-jvsregs-art31": {
+   "summary": "Article 31 of Japan's Road Transport Vehicle Safety Regulations covers emission control. Vehicles must not emit excessive smoke, malodorous or harmful gas, and must meet ministerial exhaust standards by fuel type for CO, HC, NOx, particulate matter and black smoke. It also sets requirements for emission control devices, blowby gas recirculation, evaporative hydrocarbons from gasoline vehicles, air conditioning conduits and exhaust pipe mounting.",
+   "_why": "Art 31 paras 1-8"
+  },
+  "jp-jvsregs-art32": {
+   "summary": "Article 32 of Japan's Road Transport Vehicle Safety Regulations requires motor vehicles (excluding towed vehicles) to have driving beam and passing beam headlights meeting ministerial standards for colour, brightness and mounting. It also covers adaptive driving beam headlights, optional headlight leveling devices, and headlight cleaning devices required for adaptive beam headlights meeting a luminous output threshold, with exceptions.",
+   "_why": "Art 32 paras 1-13"
+  },
+  "jp-jvsregs-art44-2": {
+   "summary": "Article 44-2 of Japan's Road Transport Vehicle Safety Regulations requires motor vehicles to have a rear proximity detection device meeting ministerial driver visibility standards, letting the driver confirm conditions directly behind while reversing. Two- and three-wheeled, special, towed and light crawler/sled vehicles are excluded, as are vehicles designated by ministerial notice, including those where the driver can see directly behind.",
+   "_why": "Art 44-2 para 1"
+  },
+  "jp-jvsregs-art45": {
+   "summary": "Article 45 of Japan's Road Transport Vehicle Safety Regulations requires motor vehicles (excluding two-wheelers, light crawler/sled vehicles and towed vehicles) to have an automatic windshield wiper meeting ministerial field-of-vision standards. Most such vehicles must also have a washer fluid spray device and a defroster meeting ministerial standards; the defroster is not required where the cab cannot be separated from the exterior.",
+   "_why": "Art 45 paras 1-2"
+  },
+  "jp-jvsregs-art46-2": {
+   "summary": "Article 46-2 of Japan's Road Transport Vehicle Safety Regulations requires passenger-transport motor vehicles (excluding two- and three-wheeled, light crawler/sled and towed vehicles) and freight motor vehicles (excluding three-wheeled and towed vehicles) to carry an accident data recorder. It must meet ministerial recording performance standards and measure and record instantaneous speed and other information on collision or similar impact.",
+   "_why": "Art 46-2 para 1"
+  },
+  "jp-srrv-electric-vehicle-rechargeable-energy-storage-system": {
+   "summary": "Catalogue entry on electric vehicle rechargeable energy storage system (REESS) and high-voltage safety in Japan, citing SRRV, TRIAS and UN R100. The text is a generic template, not regulation text: it states an intent to prevent fire, explosion, shock and hazardous leakage in normal use, abuse and post-crash, and notes possible overlap with Safety Regulations Article 17-2. It sets no specific requirements.",
+   "_why": "Body is template text; Key Compliance Intent and Related Regulations sections"
+  },
+  "jp-srrv-japan-automobile-recycling-law": {
+   "summary": "Catalogue entry on Japan's Act on Recycling of End-of-Life Automobiles, covering end-of-life vehicles and the roles of automobile manufacturers and importers. The text is a generic template, not statute text: it mentions recycling fees, shredder residue, airbags and fluorocarbons, and an intent to control hazardous substances and support recycling. It sets no specific requirements.",
+   "_why": "Body is template text; Applicability and Key Compliance Intent sections"
+  },
+  "jp-srrv-japan-radio-equipment-technical-conformity-certification": {
+   "summary": "Catalogue entry on Japan's Radio Act and MIC-TELEC technical conformity certification for radio equipment installed in vehicles, such as telematics, keyless entry, Wi-Fi/Bluetooth/cellular modules, radar and TPMS sensors. The text is a generic template, not regulation text; it states an intent that such devices comply with spectrum, EMC and equipment approval rules, and sets no specific requirements.",
+   "_why": "Body is template text; Applicability and Key Compliance Intent sections"
+  },
+  "kr-kmvss-art10": {
+   "summary": "Article 10 of the Korean Motor Vehicle Safety Standards (KMVSS) sets standards for the ground contact area and ground pressure of a loaded motor vehicle. The ground contact area must be constructed to minimize noise and avoid road damage, and ground pressure of vehicles with continuous tracks must not exceed 3 kg per square centimeter of track contact area. Items 2 and 4 were deleted in 1999.",
+   "_why": "Art 10 items 1-4"
+  },
+  "kr-kmvss-art102-2": {
+   "summary": "Article 102-2 of the Korean Motor Vehicle Safety Standards (KMVSS) sets pedestrian protection requirements for passenger cars, vans up to 4.5 tonnes GVW, trucks and special-purpose vehicles, with exclusions for ultra-compact vehicles and some vehicles with a short front axle to driver seating reference point distance. Head form impact at 35 km/h and leg form impacts at 40 km/h must meet the injury criteria in Attached Table 14-6.",
+   "_why": "Art 102-2 items 1-2"
+  },
+  "kr-kmvss-art103": {
+   "summary": "Article 103 of the Korean Motor Vehicle Safety Standards (KMVSS) sets seat belt and seat belt anchorage requirements. Belts must meet the adjustment and static strength standards in Attached Tables 15 and 16. Anchorages must withstand specified static loads (for example 2,270 kg lap and 1,360 kg shoulder/lap for 10 seconds, lower for light-class vehicles and non-front van seats) and meet geometry rules, with shoulder anchorage positions per Attached Table 17.",
+   "_why": "Art 103 paras 1-3"
+  },
+  "kr-kmvss-art105": {
+   "summary": "Article 105 of the Korean Motor Vehicle Safety Standards (KMVSS) sets windshield safety requirements. Glazing must have the mechanical strength prescribed by the Minister. In a 48.3 km/h frontal barrier impact, a passenger car windshield must stay attached to a minimum share of its retention frame (50% per side with airbag or automatic belt, 75% without), and exterior components must not intrude beyond a 6.3 mm limit. Open-top, forward control and light-class vehicles are exempt.",
+   "_why": "Art 105 paras 1-3"
+  },
+  "kr-kmvss-art108-2": {
+   "summary": "Article 108-2 of the Korean Motor Vehicle Safety Standards (KMVSS) requires the fuel economy of motor vehicles sold to consumers to be within -5% of the manufacturer's declared values. For passenger cars, vans up to 15 seats and 3.5 tonnes GVW, and light-class and small trucks, this applies to urban and highway fuel economy; for other vehicles, to constant-speed fuel economy. Fully amended 2025-03-14.",
+   "_why": "Art 108-2 items 1-2"
+  },
+  "kr-kmvss-art109": {
+   "summary": "Article 109 of the Korean Motor Vehicle Safety Standards (KMVSS) sets windshield wiper, defroster, demister and washer performance standards for passenger cars and light-class vans, measured against zones in Attached Table 25. Examples are 98% cleaning of zone A, defrosting after 10 hours at minus 18 C, and washer operation after soaking at minus 18 C and plus 60 C. Ultra-compact vehicles have separate wiper and washer standards.",
+   "_why": "Art 109 paras 1-2"
+  }
+ },
+ "skipped": []
+}

@@ -21,17 +21,15 @@ source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
 summary: Steering control systems in vehicles must be designed so no component can
-  catch a driver's clothing or jewelry during normal driving. For passenger cars,
-  three-wheeled vehicles, and certain MPVs, buses, and trucks up to 4,536 kg GVWR,
-  the system must also pass a laboratory impact test per SAE J944, limiting chest...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  catch a driver's clothing or jewelry during normal driving.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1ad2a06116eb373da3117f358f5db143cac47491
 systems:
 - Steering
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 203
+title: MVSR s. 203 — Steering Control System Impact Protection
 un_equivalent_ai:
 - UN R12
 vehicle_categories:

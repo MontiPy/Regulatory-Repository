@@ -28,8 +28,8 @@ status: in-force
 summary: Radio and EMC equipment installed in Korean-market vehicles — including telematics,
   keyless entry, cellular, Wi-Fi/Bluetooth, radar, and TPMS modules — must comply
   with South Korea's Radio Waves Act and obtain RRA-KC conformity approval covering
-  spectrum use, EMC performance, and equipment authorization. Each...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  spectrum use, EMC performance, and equipment authorization.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 841ad67844de4ed09da6d87c85a4a153cff8cff3
 systems:
 - EMC

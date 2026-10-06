@@ -37,12 +37,10 @@ title: External Noise Emissions
 translation_status: untranslated
 un_equivalent_ai:
 - UN R51
-- UN R138
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 ---
 

@@ -31,7 +31,9 @@ title: KMVSS Article 89-2 — Lane Departure Warning System Standards
 translation_status: translated
 un_equivalent_ai:
 - UN R130
-vehicle_categories: []
+vehicle_categories:
+- Passenger car
+- Heavy truck
 ---
 
 ## Article 89-2 — Lane Departure Warning System Standards

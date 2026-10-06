@@ -21,8 +21,8 @@ status: in-force
 summary: Manufacturers of motor vehicles and motor vehicle equipment are required
   to retain records — including complaints, claims, reports, warranty documents, and
   internal communications — related to defects or malfunctions that may affect motor
-  vehicle safety. Vehicle, child restraint system, and tire manufacturers must...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  vehicle safety.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 223d750f68de40e3879589bbe3910c31d45278e5
 systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'

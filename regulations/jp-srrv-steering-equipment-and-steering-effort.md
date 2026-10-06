@@ -25,9 +25,8 @@ source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
 summary: Steering equipment and steering effort regulations under SRRV/TRIAS cover
   steering system components — including columns, racks, EPS, sensors, steering wheels,
-  fasteners, and related software — for passenger vehicles in Japan. Compliance requires
-  programs to identify and satisfy applicable regulatory obligations for...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  fasteners, and related software — for passenger vehicles in Japan.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 208e6ebd7309ebce31f5975362d5c0e8a677ce24
 systems:
 - Steering

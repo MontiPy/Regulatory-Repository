@@ -1,10 +1,6 @@
 ---
 citation: JVSR Article 5
-commodities:
-- Suspension
-- Steering column
-- Tires
-- Wheels
+commodities: []
 id: jp-jvsregs-art5
 last_pulled: '2026-06-01T18:52:40+00:00'
 open_tags:
@@ -26,9 +22,7 @@ summary: Motor vehicles in Japan must meet stability standards for safe travel, 
   defined by ministerial notice.
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 3f06b1dd3cd2ef422f31b664d6400ccd9a6236ef
-systems:
-- Steering
-- Tires & wheels
+systems: []
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 5 — Stability

@@ -35,7 +35,7 @@ systems:
 - Restraints
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 201
+title: MVSR s. 201 — Occupant Protection in Interior Impact
 un_equivalent_ai:
 - UN R21
 vehicle_categories:

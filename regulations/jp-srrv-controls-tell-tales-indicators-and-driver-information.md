@@ -1,7 +1,6 @@
 ---
 citation: SRRV / TRIAS
 commodities:
-- Lighting modules
 - Wiring
 - ECUs
 id: jp-srrv-controls-tell-tales-indicators-and-driver-information

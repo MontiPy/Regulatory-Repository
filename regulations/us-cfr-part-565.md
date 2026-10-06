@@ -23,8 +23,8 @@ status: in-force
 summary: Vehicle identification numbers (VINs) for most on-road motor vehicles—including
   passenger cars, trucks, buses, trailers, motorcycles, and low-speed vehicles—are
   regulated under this part, which establishes mandatory requirements for VIN format,
-  content, and physical installation. The regulation requires manufacturers...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  content, and physical installation.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3029945750b9178b0428321197e1ea649bcb0354
 systems:
 - Vehicle identification

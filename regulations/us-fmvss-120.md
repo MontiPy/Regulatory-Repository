@@ -24,9 +24,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.120
 status: in-force
 summary: Tire selection, rim marking, and load carrying capacity requirements for
   motor vehicles with a GVWR over 4,536 kilograms (10,000 pounds) are covered by this
-  standard. It mandates that such vehicles be equipped with adequately rated tires
-  and appropriately designated rims, that rims bear specific marked information,...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5f32b54002b48d5110d73c11939e96bc942e9366
 systems:
 - Tires & wheels

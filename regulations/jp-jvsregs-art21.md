@@ -24,8 +24,8 @@ status: in-force
 summary: The driver's seat of a motor vehicle must provide the field of vision necessary
   for safe driving and must not be obstructed by occupants, cargo, or other items,
   in accordance with ministerially prescribed standards for visibility and partition
-  structures. Additionally, head-up display devices installed at the driver's...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  structures.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 12b32e6aecd92d941c257da7a3ff7d5bd9cd62ad
 systems:
 - Visibility

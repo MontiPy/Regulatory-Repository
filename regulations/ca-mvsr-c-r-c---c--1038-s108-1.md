@@ -18,7 +18,7 @@ summary_hash: d905c50eca55aa336aca6f9e8a0b94acfd54b6a5
 systems: []
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 108.1
+title: MVSR s. 108.1 — Repealed
 vehicle_categories: []
 ---
 

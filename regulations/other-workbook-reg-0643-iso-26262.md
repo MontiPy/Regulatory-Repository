@@ -36,9 +36,6 @@ systems:
 - ADAS
 - Braking
 - Steering
-- On-board diagnostics
-- Software updates
-- Cybersecurity
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Road vehicles - Functional safety

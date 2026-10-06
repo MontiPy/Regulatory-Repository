@@ -26,7 +26,8 @@ summary: Vehicles entering the New Zealand market must meet applicable Land Tran
   required for market access.
 summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: eeaafff6582333922752403c10c108711a05e54a
-systems: []
+systems:
+- Vehicle identification
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: New Zealand vehicle standards and recognized standards framework

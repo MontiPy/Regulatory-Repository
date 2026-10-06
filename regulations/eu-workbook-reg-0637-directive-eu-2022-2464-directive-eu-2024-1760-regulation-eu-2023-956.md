@@ -24,8 +24,7 @@ status: in-force
 summary: Corporate and supply-chain sustainability obligations under CSRD, CSDDD,
   and CBAM require automotive companies to collect and retain supplier, materials,
   and carbon data across vehicle programs to meet EU reporting and market-access requirements.
-  Compliance operates at the corporate, supply-chain, or importer level...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ad13515f994203e462019dbe2a1834cf5ad0e7c2
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'

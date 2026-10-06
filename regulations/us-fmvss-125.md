@@ -19,10 +19,8 @@ source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.125
 status: in-force
 summary: Non-self-contained warning devices designed to be carried in buses and trucks
-  over 10,000 lbs. GVWR and used to alert approaching traffic of a stopped vehicle
-  must meet specific requirements for construction, configuration, markings, protective
-  storage, and instructions, including forming an equilateral triangle with...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  over 10,000 lbs.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e809730c59f0c1abcda03e6ef486c50e9f343b5b
 systems:
 - Lighting & signaling

@@ -26,9 +26,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Braking systems on Korean motor vehicles, including both standard and ultra-compact
   vehicles, are required to be equipped with a service brake and a parking brake meeting
-  specified structural and performance standards. Requirements cover independent operation
-  of each brake type, dual-circuit failure redundancy,...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  specified structural and performance standards.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ca7d208719469b2400e6eae193b6545bb2be1d63
 systems:
 - Braking

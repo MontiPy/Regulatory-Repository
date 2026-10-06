@@ -1,0 +1,74 @@
+{
+ "group": "t5",
+ "patches": {
+  "us-cfr575-105": {
+   "summary": "Requires manufacturers of utility vehicles (multipurpose passenger vehicles other than passenger car derivatives, with a wheelbase of 110 inches or less and special features for occasional off-road operation) to warn drivers of higher rollover risk. Specifies a permanently affixed sun visor rollover warning label, an alert label where the visor label is not visible when stowed, and required owner's manual statements and discussions.",
+   "_why": "Text sets out label colors, placement and manual content for utility vehicles"
+  },
+  "us-cfr575-301": {
+   "summary": "Requires a NHTSA New Car Assessment Program safety rating label, as part of the Monroney label, on automobiles of 10,000 lb GVWR or less manufactured on or after September 1, 2007. Specifies the label's content, format and star-rating depiction, and applies except to vehicles subject to 49 CFR 575.302.",
+   "_why": "Purpose and Application paragraphs (a),(b),(d)"
+  },
+  "us-fmvss-109": {
+   "summary": "FMVSS No. 109 specifies tire dimensions and laboratory test requirements for bead unseating resistance, strength, endurance and high speed performance, defines tire load ratings, and sets labeling requirements for passenger car tires. It applies to new pneumatic radial tires for passenger cars manufactured 1949 through 1975, new pneumatic bias ply tires, and T-type spare tires.",
+   "_why": "S1 Scope and S2 Application"
+  },
+  "us-fmvss-111": {
+   "summary": "FMVSS No. 111 specifies requirements for rear visibility devices and systems, to reduce deaths and injuries when the driver lacks a clear, reasonably unobstructed view to the rear. It applies to passenger cars, multipurpose passenger vehicles, trucks, buses, school buses, motorcycles and low-speed vehicles, with separate requirements by vehicle type, including inside and outside rearview mirrors.",
+   "_why": "S1-S3 and S5 headings"
+  },
+  "us-fmvss-113": {
+   "summary": "FMVSS No. 113 requires that each hood have a hood latch system. A front-opening hood that, in any open position, obstructs the driver's forward view through the windshield must have a second latch position or a second hood latch system. Applies to passenger cars, multipurpose passenger vehicles, trucks and buses.",
+   "_why": "S2, S4.1, S4.2"
+  },
+  "us-fmvss-122": {
+   "summary": "FMVSS No. 122 specifies requirements for motorcycle service brake systems and, where applicable, associated parking brake systems, to ensure safe braking performance under normal and emergency riding conditions. It applies to category 3-1 to 3-5 motorcycles, from September 1, 2014 (3-1 to 3-4) and September 1, 2015 (3-5), with optional earlier compliance.",
+   "_why": "S1-S3"
+  },
+  "us-fmvss-124": {
+   "summary": "FMVSS No. 124 requires a vehicle's throttle to return to the idle position when the driver removes the actuating force from the accelerator control, or if the control system is severed or disconnected. It requires two sources of energy for return and sets maximum return times of 1 second (GVWR 4,536 kg or less) or 2 seconds (above), 3 seconds at very low ambient temperatures. Applies to passenger cars, multipurpose passenger vehicles, trucks and buses.",
+   "_why": "S1, S3, S5"
+  },
+  "us-fmvss-126": {
+   "summary": "FMVSS No. 126 sets performance and equipment requirements for electronic stability control (ESC) systems, to reduce crashes in which the driver loses directional control, including rollovers. It applies to passenger cars, multipurpose passenger vehicles, trucks and buses with a GVWR of 4,536 kg (10,000 lb) or less, under a phase-in schedule.",
+   "_why": "S1-S3"
+  },
+  "us-fmvss-135": {
+   "summary": "FMVSS No. 135 specifies requirements for service brake and associated parking brake systems on light vehicles, to ensure safe braking under normal and emergency conditions. It applies to passenger cars manufactured on or after September 1, 2000 and to multipurpose passenger vehicles, trucks and buses of 3,500 kg GVWR or less manufactured on or after September 1, 2002.",
+   "_why": "S1-S3"
+  },
+  "us-fmvss-136": {
+   "summary": "FMVSS No. 136 sets performance and equipment requirements for electronic stability control (ESC) systems on heavy vehicles, to reduce rollover and directional loss-of-control crashes. It applies to truck tractors and buses over 11,793 kg (26,000 lb) GVWR, with listed exclusions (such as school, perimeter-seating and transit buses), and sets compliance dates from 2017.",
+   "_why": "S1-S3, S8"
+  },
+  "us-fmvss-208": {
+   "summary": "FMVSS No. 208 specifies occupant crash protection requirements, set in terms of forces and accelerations measured on anthropomorphic dummies in test crashes, and equipment requirements for active and passive restraint systems. It applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, and buses, and covers pressure vessels and explosive devices used in such systems.",
+   "_why": "S1-S3"
+  },
+  "us-fmvss-213a": {
+   "summary": "FMVSS No. 213a specifies side impact protection requirements for add-on child restraint systems recommended for children up to 18 kg (40 lb) or up to 1100 mm (43 in) in height, excluding car beds and harnesses. These systems must also meet all applicable requirements of FMVSS No. 213, and are tested dynamically with a specified test dummy.",
+   "_why": "S1-S3, S5"
+  },
+  "us-fmvss-216": {
+   "summary": "FMVSS No. 216 sets strength requirements for the passenger compartment roof, to reduce deaths and injuries from roof crush in rollover crashes. It applies to passenger cars and to multipurpose passenger vehicles, trucks and buses of 2,722 kg (6,000 lb) GVWR or less, excluding school buses, convertibles (with an exception) and vehicles certified to FMVSS 216a.",
+   "_why": "S1-S3"
+  },
+  "us-fmvss-218": {
+   "summary": "FMVSS No. 218 establishes minimum performance requirements for helmets designed for use by motorcyclists and other motor vehicle users, to reduce deaths and injuries from head impacts. It applies to all such helmets and includes requirements and tests for the retention system.",
+   "_why": "S1-S3"
+  },
+  "us-fmvss-302": {
+   "summary": "FMVSS No. 302 specifies burn resistance requirements for materials used in occupant compartments, to reduce deaths and injuries from vehicle fires originating in the interior. It covers components such as seat cushions, seat belts, headlining and trim panels, and applies to passenger cars, multipurpose passenger vehicles, trucks and buses.",
+   "_why": "S1-S4"
+  },
+  "us-fmvss-500": {
+   "summary": "FMVSS No. 500 specifies requirements for low-speed vehicles operated on public roads. A low-speed vehicle must not exceed 40 km/h (25 mph) in 1.6 km and must be equipped with items including headlamps, turn signal, tail and stop lamps, reflectors, mirrors, a parking brake, a windshield, a VIN and seat belts at each seating position.",
+   "_why": "S1-S5"
+  },
+  "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series": {
+   "summary": "Overview entry for South Africa's NRCS compulsory specifications (VC series) for motor vehicles and components, covering market access and type approval. The text is a general description, not regulation text: it refers to approval documentation, certification labels and conformity records, and notes reuse of UNECE regulations alongside local administrative approval.",
+   "_why": "Body is a generic template; no clause numbers or dates given"
+  }
+ },
+ "skipped": []
+}

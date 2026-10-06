@@ -1,5 +1,5 @@
 ---
-citation: MVSR SOR-2003-2
+citation: SOR/2003-2
 commodities:
 - Exhaust
 - Fuel system
@@ -39,7 +39,7 @@ tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
 un_equivalent_ai:
 - UN R83
-- UN R168
+- UN R49
 vehicle_categories:
 - Passenger car
 - Light truck

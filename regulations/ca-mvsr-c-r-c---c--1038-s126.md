@@ -25,17 +25,15 @@ source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/Full
 status: in-force
 summary: Passenger cars, multi-purpose passenger vehicles, trucks, and buses with
   a GVWR of 4,536 kg or less must conform to Technical Standards Document No. 126
-  for Electronic Stability Control Systems for Light Vehicles. As an alternative,
-  these vehicles may instead comply with Annex 9 of United Nations Regulation No.
-  13H,...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  for Electronic Stability Control Systems for Light Vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1d84b286b1387b74276a28b8d2339f322a383ad1
 systems:
 - Braking
 - ADAS
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 126
+title: MVSR s. 126 — Electronic Stability Control Systems
 un_equivalent_ai:
 - UN R140
 - UN R13H

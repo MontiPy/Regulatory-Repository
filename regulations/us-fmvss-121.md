@@ -25,9 +25,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.121
 status: in-force
 summary: Air brake systems on trucks, buses, and trailers are regulated for braking
   performance and equipment requirements to ensure safe operation under normal and
-  emergency conditions. The standard mandates specific performance criteria and equipment
-  specifications, with defined exclusions for certain vehicles such as those...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  emergency conditions.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d08a17b14c116650b31fa2100da501f8927b693a
 systems:
 - Braking

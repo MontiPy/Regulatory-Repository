@@ -24,13 +24,11 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=228119&urlMode=engLsInfoR&vi
 status: in-force
 summary: Korea's Motor Vehicle Noise Authentication and Standards regulation governs
   vehicle noise levels — including exhaust/intake, powertrain, and AVAS/external sound
-  systems — for vehicles sold in South Korea. It requires manufacturers to obtain
-  type approval by demonstrating compliance with applicable noise limits through...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  systems — for vehicles sold in South Korea.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f22386f7a1dfa7aa498880c1c5e8aab29d401c58
 systems:
 - Noise
-- Emissions
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Korea Motor Vehicle Noise Authentication and Standards

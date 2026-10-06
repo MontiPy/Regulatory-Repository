@@ -32,8 +32,8 @@ status: in-force
 summary: Products sold in California that expose consumers to listed toxic or carcinogenic
   chemicals must carry required warning labels and disclosures under Proposition 65,
   covering vehicle materials, coatings, electronics, batteries, plastics, trim, service
-  parts, and accessories. Manufacturers and suppliers must control...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  parts, and accessories.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c6a44392a56e3fa922c21ee30a7da2dcc2ce8f14
 systems: []
 tagged_at: '2026-06-16T15:44:36+00:00'

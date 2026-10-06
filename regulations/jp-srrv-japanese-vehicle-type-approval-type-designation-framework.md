@@ -1,18 +1,6 @@
 ---
 citation: Road Transport Vehicle Act / Type Designation System
-commodities:
-- ECUs
-- Batteries
-- Exhaust
-- Body structure
-- Fuel system
-- Fuel tanks
-- Wiring
-- Seats
-- Airbags
-- Seatbelts
-- Brakes
-- Lighting modules
+commodities: []
 id: jp-srrv-japanese-vehicle-type-approval-type-designation-framework
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:

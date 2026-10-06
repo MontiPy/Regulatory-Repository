@@ -24,15 +24,15 @@ status: in-force
 summary: Hybrid and electric passenger cars, multi-purpose passenger vehicles, trucks,
   buses, and low-speed vehicles with a GVWR of 4,536 kg or less must meet minimum
   sound emission requirements so that the vehicles are audible to pedestrians and
-  other road users. Manufacturers must comply with either the UN ECE Regulation No....
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  other road users.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b1112993bc4eef469714dc81574586ad6cabca15
 systems:
 - Noise
 - Pedestrian protection
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 141
+title: MVSR s. 141 — Minimum Sound Requirements for Hybrid and Electric Vehicles
 un_equivalent_ai:
 - UN R138
 vehicle_categories:

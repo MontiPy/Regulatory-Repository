@@ -38,10 +38,6 @@ un_equivalent_ai:
 - UN R125
 vehicle_categories:
 - Passenger car
-- Light truck
-- Heavy truck
-- Motorcycle
-- Bus
 ---
 
 # Forward Field of Vision

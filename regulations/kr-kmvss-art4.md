@@ -24,9 +24,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Motor vehicle dimensions in Korea are regulated under this article, which
   sets maximum limits of 13 meters in length (16.7 meters for articulated vehicles),
-  2.5 meters in width, and 4 meters in height. Measurements must be taken with the
-  vehicle unloaded, positioned straight on a flat surface, and with projecting...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  2.5 meters in width, and 4 meters in height.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 44bd653984a8ebd3639074657b0a343e2449de27
 systems:
 - Visibility
@@ -36,7 +35,9 @@ title: KMVSS Article 4 — Length, Width, and Height
 translation_status: translated
 vehicle_categories:
 - Passenger car
+- Light truck
 - Heavy truck
+- Motorcycle
 - Bus
 - Trailer
 ---

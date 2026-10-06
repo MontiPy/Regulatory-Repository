@@ -35,9 +35,6 @@ summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: e8145cb6c501e79ff1f24343dde935cc1c638122
 systems:
 - Emissions
-- EV charging
-- Battery safety
-- On-board diagnostics
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations

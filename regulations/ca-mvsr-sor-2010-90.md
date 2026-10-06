@@ -1,5 +1,5 @@
 ---
-citation: MVSR SOR-2010-90
+citation: SOR/2010-90
 commodities:
 - Seats
 - Seatbelts
@@ -25,8 +25,8 @@ status: in-force
 summary: Canada's Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
   establish safety requirements for removable child and occupant restraint devices
   — including infant restraint systems, child restraint systems, booster seats, car
-  beds, and custom restraints for disabled persons — used in motor vehicles. The...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  beds, and custom restraints for disabled persons — used in motor vehicles.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: bcd55ba8f36c5c79fdcc8031c5acb43ad655aa96
 systems:
 - Restraints

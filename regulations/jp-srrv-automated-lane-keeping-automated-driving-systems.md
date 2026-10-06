@@ -17,14 +17,12 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e87947e42959777b76c92b63eb58f716616f10a9
 systems:
 - ADAS
-- Vehicle identification
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Automated Lane Keeping / Automated Driving Systems
 translation_status: translated
 un_equivalent_ai:
 - UN R157
-- UN R155
 vehicle_categories:
 - Passenger car
 - Light truck

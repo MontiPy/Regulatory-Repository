@@ -29,6 +29,7 @@ summary_hash: 82cd291ac46758d05383c54836f926376fa87edf
 systems:
 - Fuel safety
 - Crashworthiness
+- Battery safety
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 153 — Fuel System Integrity and Electric Power Train Safety

@@ -25,8 +25,8 @@ status: in-force
 summary: Pneumatic tires, wheels, and running gear components on motor vehicles must
   meet specified safety standards, including compliance with attachment tables and
   wheel standards, and must be securely joined and free from damage such as cracking
-  or corrosion. Additional requirements mandate mudguards on the rear wheels of...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  or corrosion.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b0f0998c2b40503079141b9b2ec5835890b7f89c
 systems:
 - Tires & wheels

@@ -21,9 +21,8 @@ source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
 status: in-force
 summary: Gross vehicle weight, axle load, and wheel load limits for vehicles in Korea,
   including articulated vehicles and ultra-compact vehicles, are regulated under this
-  article. It sets maximum gross vehicle weights of 20 tonnes (30 for buses, 40 for
-  trucks and special-purpose vehicles), a 10-tonne axle load limit, a 5-tonne...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  article.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: fd477955d1c91d76a08313980ddbbb76e394a71e
 systems:
 - Tires & wheels

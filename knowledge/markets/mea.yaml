@@ -168,7 +168,7 @@
   aliases: [EOS, GOEIC]
   drive: LHD
   regime: type-approval
-  basis: "Egyptian standards (EOS) largely transposing UN Regulations; 1958 Agreement CP (E62); GOEIC import conformity"
+  basis: "Egyptian standards (EOS) largely transposing UN Regulations; 1958 Agreement CP (E62 reported; confirm against the UNECE status table); GOEIC import conformity"
   un_1958: true
   un_1998: null
   authorities:

@@ -2,8 +2,6 @@
 citation: 49 CFR §571.122
 commodities:
 - Brakes
-- Wheels
-- Tires
 - Pedals
 id: us-fmvss-122
 last_pulled: '2026-06-01T18:39:28+00:00'
@@ -32,11 +30,11 @@ summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: 10cd4e048d04c5f8bfc2466f27c6eb2a8004c3e8
 systems:
 - Braking
-- Tires & wheels
-- ADAS
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.122 Standard No. 122; Motorcycle brake systems.
+un_equivalent_ai:
+- UN R78
 vehicle_categories:
 - Motorcycle
 ---

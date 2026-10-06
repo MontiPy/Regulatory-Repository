@@ -20,11 +20,11 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://www.tisi.go.th/data/pdf/mra/MRA006.pdf
 status: in-force
-summary: The ASEAN Automotive Products Mutual Recognition Arrangement (APMRA) establishes
-  a regional framework for recognizing automotive product approvals across ASEAN member
-  states for passenger vehicles. It requires that vehicles have valid safety and environmental
-  approval documentation, correct certification records, and...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: The ASEAN Automotive Products Mutual Recognition Arrangement (APMRA) is a
+  regional framework for recognizing automotive product approvals among ASEAN member
+  states. It does not replace national type approval, so each member state still needs
+  a market-by-market check.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2457650bae80a5bf42559447c1271d6c4fd646af
 systems:
 - Vehicle identification

@@ -22,9 +22,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-577
 status: in-force
 summary: Manufacturer notifications about safety defects or noncompliance with Federal
   motor vehicle safety standards in motor vehicles and replacement equipment are regulated
-  under this part. It requires manufacturers to promptly notify owners, dealers, and
-  distributors—using prescribed formats, content, and timelines—so that...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  under this part.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 96ed2b6b52f8d2ce576ed8ad55f47f84edcecb0c
 systems: []
 tagged_at: '2026-06-16T15:44:36+00:00'

@@ -29,6 +29,8 @@ translation_status: translated
 un_equivalent_ai:
 - UN R83
 - UN R168
+- UN R49
+- UN R40
 vehicle_categories:
 - Passenger car
 - Light truck

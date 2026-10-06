@@ -32,7 +32,6 @@ summary_hash: ad64a3a705dba3fa51a4a8dce24bcf7fbb22dce7
 systems:
 - Emissions
 - Fuel safety
-- On-board diagnostics
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: PART 1066—VEHICLE-TESTING PROCEDURES

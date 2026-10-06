@@ -23,11 +23,9 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: Pneumatic tyres for passenger cars sold in GCC markets are regulated under
-  GSO-ECE 30, covering structural suitability, correct identification, and proper
-  matching of tyres and wheels to the passenger vehicle. The regulation addresses
-  tyre markings, load ratings, inflation warnings, and traceability requirements to...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: 'GSO-ECE 30 covers pneumatic tyres for passenger cars sold in GCC markets
+  (UN R30): tyre dimensions, load and speed capability, markings and performance requirements.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c41814aab75415907be12d667be7c037a51c1e99
 systems:
 - Tires & wheels

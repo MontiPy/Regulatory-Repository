@@ -22,10 +22,8 @@ source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-564
 status: in-force
 summary: Replaceable light sources and sealed beam headlamps used in motor vehicle
-  headlighting systems are regulated under this part. It requires manufacturers to
-  submit dimensional, electrical, and marking specifications to NHTSA at least 60
-  days before production, ensuring replacement light sources are interchangeable with...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+  headlighting systems are regulated under this part.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2ea2c6ff0cbd523b27c7ed8f80893bceee2bb989
 systems:
 - Lighting & signaling
@@ -35,6 +33,7 @@ title: PART 564—REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION
 un_equivalent_ai:
 - UN R37
 - UN R128
+- UN R99
 vehicle_categories:
 - Passenger car
 - Light truck

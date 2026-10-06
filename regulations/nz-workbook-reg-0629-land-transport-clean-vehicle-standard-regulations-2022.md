@@ -28,16 +28,12 @@ source_api: spreadsheet
 source_url: https://www.legislation.govt.nz/regulation/public/2022/0285/latest/whole.html
 status: in-force
 summary: New Zealand's Land Transport (Clean Vehicle Standard) Regulations 2022 regulate
-  CO2 emissions and fuel economy for vehicles imported or supplied into New Zealand,
-  requiring importers and suppliers to meet fleet-level CO2 targets and maintain a
-  credit/debit ledger to track compliance. Covered parties must also fulfill...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  CO2 emissions of vehicles imported or supplied into New Zealand. Importers and suppliers
+  must meet fleet-level CO2 targets and track compliance through a credit/debit ledger.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0c7a5a627fc1218836842d1e6e288a8ce6b89290
 systems:
 - Emissions
-- On-board diagnostics
-- EV charging
-- Battery safety
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: New Zealand Clean Car Standard / Clean Vehicle Standard

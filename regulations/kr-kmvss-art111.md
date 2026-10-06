@@ -34,7 +34,6 @@ title: KMVSS Article 111 — Types of Autonomous Driving Systems
 translation_status: translated
 un_equivalent_ai:
 - UN R157
-- UN R155
 vehicle_categories:
 - Passenger car
 - Light truck

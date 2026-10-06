@@ -22,18 +22,17 @@ status: in-force
 summary: Seat anchorage systems in passenger cars, three-wheeled vehicles, trucks,
   buses, and multi-purpose passenger vehicles must conform to Technical Standards
   Document No. 207 (Anchorage of Seats), with required labels appearing in both official
-  languages. For trucks, multi-purpose passenger vehicles with a GVWR over 4,536...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  languages.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e3a867b67d6ad0c677d2f5dbd352432c99333b84
 systems:
 - Crashworthiness
 - Restraints
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 207
+title: MVSR s. 207 — Seat Anchorage
 un_equivalent_ai:
 - UN R17
-- UN R14
 vehicle_categories:
 - Passenger car
 - Light truck

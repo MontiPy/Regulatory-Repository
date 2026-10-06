@@ -21,11 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-526
 status: in-force
-summary: Petitions and plans submitted by manufacturers seeking relief from fuel economy
-  requirements under the Automobile Fuel Efficiency Act of 1980 are regulated here,
-  covering procedural and content requirements for those submissions. Manufacturers
-  must address petitions to NHTSA, specify the statutory provision and model...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+summary: 'Procedural and content requirements for petitions and plans submitted to
+  NHTSA under the Automobile Fuel Efficiency Act of 1980: general provisions (§526.1),
+  petitions based on U.S. production by a foreign manufacturer (§526.2), plans to
+  transfer vehicles from the non-domestic to the domestic fleet (§526.3), and plans
+  for earning offsetting monetary credits in future model years (§526.5).'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d1cae422117db10b121edbd7465ca2c06dcd11ed
 systems:
 - Emissions

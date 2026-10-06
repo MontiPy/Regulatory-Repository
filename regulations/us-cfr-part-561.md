@@ -2,10 +2,6 @@
 citation: 49 CFR Part 561
 commodities:
 - Batteries
-- Electric motors
-- Wiring
-- Power electronics
-- Charging inlet
 id: us-cfr-part-561
 last_pulled: '2026-06-01T18:44:06+00:00'
 open_tags:
@@ -33,7 +29,6 @@ summary_generated_at: '2026-06-22T17:48:28+00:00'
 summary_hash: c825a38a5841653c14538c123d2c4e884376eeb1
 systems:
 - Battery safety
-- EV charging
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged

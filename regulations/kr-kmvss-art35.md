@@ -29,6 +29,7 @@ title: KMVSS Article 35 — Noise Suppression
 translation_status: translated
 un_equivalent_ai:
 - UN R51
+- UN R41
 vehicle_categories:
 - Passenger car
 - Light truck

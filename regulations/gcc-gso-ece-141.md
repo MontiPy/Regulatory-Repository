@@ -38,7 +38,6 @@ title: Tyre Pressure Monitoring Systems
 translation_status: untranslated
 un_equivalent_ai:
 - UN R141
-- UN R142
 vehicle_categories:
 - Passenger car
 ---

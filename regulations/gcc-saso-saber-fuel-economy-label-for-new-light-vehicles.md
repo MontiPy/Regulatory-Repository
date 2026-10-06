@@ -23,9 +23,8 @@ source_url: https://saso.gov.sa/en/eservices/pages/maineservicesdetails.aspx?ser
 status: in-force
 summary: Vehicles entering Saudi Arabia must obtain SABER conformity certification
   and display a fuel economy label meeting Saudi requirements, in addition to satisfying
-  the broader GCC/GSO framework. Non-compliance risks customs holds, blocked market
-  entry, or delayed dealer release due to missing certificates, label...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  the broader GCC/GSO framework.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0b83997d1cd286c041db661f4dfc77afdff61222
 systems:
 - Vehicle identification
@@ -34,9 +33,7 @@ tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: Saudi conformity platform and fuel economy label overlay
 translation_status: untranslated
-un_equivalent_ai:
-- UN R101
-- UN R154
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

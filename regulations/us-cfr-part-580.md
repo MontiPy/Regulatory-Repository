@@ -21,8 +21,7 @@ status: in-force
 summary: Odometer disclosure requirements mandate that motor vehicle transferors and
   lessees make electronic or written disclosure of a vehicle's odometer mileage and
   its accuracy to transferees and lessors, respectively, as a condition of title transfer.
-  Motor vehicle dealers, distributors, lessors, and auction companies are...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d874bf0fac86e83452c334f9621fe8cadfacc005
 systems:
 - Vehicle identification

@@ -23,10 +23,8 @@ source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.104
 status: in-force
 summary: Windshield wiping and washing systems on passenger cars, multipurpose passenger
-  vehicles, trucks, and buses are regulated by this standard. It requires power-driven
-  wiping systems with at least two speeds (differing by a minimum of 15 cycles per
-  minute, with the highest reaching at least 45 cycles per minute) that...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  vehicles, trucks, and buses are regulated by this standard.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c93ff578532749d9294eb20019e4f6cf52e2d17f
 systems:
 - Visibility

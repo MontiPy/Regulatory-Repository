@@ -2,8 +2,6 @@
 citation: MVSR C.R.C.,_c._1038 s. 114
 commodities:
 - ECUs
-- Wiring
-- Connectors
 id: ca-mvsr-c-r-c---c--1038-s114
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -33,13 +31,13 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: daae7bef0ff3f46379dea7c53e8f1cd744ec2b71
 systems:
 - Theft prevention
-- Cybersecurity
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: MVSR s. 114 — Theft Protection and Rollaway Prevention
 un_equivalent_ai:
-- UN R162
 - UN R116
+- UN R97
+- UN R162
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -28,9 +28,7 @@ summary: Interior materials inside a motor vehicle's passenger compartment — i
   or more.
 summary_generated_at: '2026-06-22T17:48:29+00:00'
 summary_hash: e1761b146fa0cd89c3242fe4fa3d322016a3fb5c
-systems:
-- Crashworthiness
-- Restraints
+systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 95 — Flame Resistance of Interior Materials

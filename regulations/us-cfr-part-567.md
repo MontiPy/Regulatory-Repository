@@ -1,10 +1,6 @@
 ---
 citation: 49 CFR Part 567
-commodities:
-- Bumpers
-- Mirrors
-- Tires
-- Suspension
+commodities: []
 id: us-cfr-part-567
 last_pulled: '2026-06-01T18:44:22+00:00'
 open_tags:
@@ -26,9 +22,8 @@ source_url: https://www.ecfr.gov/current/title-49/part-567
 status: in-force
 summary: Certification labels for motor vehicles must be permanently affixed to each
   vehicle by the manufacturer, specifying which federal safety, bumper, and theft
-  prevention standards apply to that vehicle. The regulation defines the required
-  content, placement, and format of the label, and establishes related certification...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  prevention standards apply to that vehicle.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: dbc6989071371290403ea62d510c71ba061292b0
 systems:
 - Vehicle identification

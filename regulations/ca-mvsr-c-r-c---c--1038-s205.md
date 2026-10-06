@@ -24,15 +24,15 @@ status: in-force
 summary: Glazing materials used in vehicles (excluding most trailers) must meet the
   safety requirements of the ANSI Z26 Safety Standard — 1996, with specific provisions
   addressing vehicle-type classifications, permitted alternative test procedures,
-  and exceptions such as unbanded tempered glass edges in school buses. Every...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  and exceptions such as unbanded tempered glass edges in school buses.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 40ab34a9f4d0dec8af15f5d18b2af6b18b3f3229
 systems:
 - Glazing
 - Visibility
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: MVSR s. 205
+title: MVSR s. 205 — Glazing Materials
 un_equivalent_ai:
 - UN R43
 vehicle_categories:

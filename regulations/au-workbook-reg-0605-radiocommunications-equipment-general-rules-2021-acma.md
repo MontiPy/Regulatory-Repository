@@ -25,11 +25,11 @@ region: AU
 source_api: spreadsheet
 source_url: https://www.legislation.gov.au/F2021L00286/latest
 status: in-force
-summary: In-vehicle radio devices supplied in Australia — including telematics, keyless
-  entry, Bluetooth/Wi-Fi/cellular modules, radar, and tire-pressure sensors — must
-  comply with spectrum, EMC, and equipment approval requirements under the Radiocommunications
-  Equipment (General) Rules 2021 administered by the ACMA....
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: In-vehicle radio devices supplied in Australia, including telematics, keyless
+  entry, Bluetooth/Wi-Fi/cellular modules, radar and tire-pressure sensors, must comply
+  with spectrum, EMC and equipment approval requirements under the Radiocommunications
+  Equipment (General) Rules 2021 administered by the ACMA.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9119670527b70967d868694bf2b45b3260785a7c
 systems:
 - EMC
@@ -38,8 +38,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Australia RF Equipment Compliance for In-vehicle Radio Devices
-un_equivalent_ai:
-- UN R10
+un_equivalent_ai: []
 vehicle_categories:
 - Passenger car
 - Light truck

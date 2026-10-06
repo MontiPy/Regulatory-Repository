@@ -1,226 +1,223 @@
 {
- "group": "cn",
- "patches": {
-  "cn-china-srrc-miit-radio-transmission-equipment-type-approval": {
-   "commodities": [
-    "ECUs",
-    "ADAS sensors",
-    "Infotainment"
-   ],
-   "_why": "Wiring/connectors are not radio transmitters; body lists modules/antennas, not harness as regulated item."
+  "group": "cn",
+  "patches": {
+    "cn-china-srrc-miit-radio-transmission-equipment-type-approval": {
+      "commodities": [
+        "ECUs",
+        "ADAS sensors",
+        "Infotainment"
+      ],
+      "_why": "Wiring/connectors are not radio transmitters; body lists modules/antennas, not harness as regulated item."
+    },
+    "cn-cnca-c11-01-2020": {
+      "effective_date": "2020-04-16",
+      "_why": "Official CQC PDF cover: published and implemented 2020-04-16."
+    },
+    "cn-gb-11551-2014": {
+      "_why": "GB 11551-2014 is an offset frontal test standard; R94 is the established counterpart (body lists R94/R137)."
+    },
+    "cn-gb-11566": {
+      "un_equivalent_ai": [
+        "UN R26"
+      ],
+      "_why": "R127 is pedestrian safety (GB 24550 counterpart); R26 = external projections."
+    },
+    "cn-gb-1495-2002": {
+      "status_note": "Remains in force; a revision (China stage 3/4) is under discussion but no new edition has been published. Contains no AVAS requirements.",
+      "_why": "CATARC working-group revision news; AVAS is not in GB 1495."
+    },
+    "cn-gb-15083-2019": {
+      "status_note": "Applies from 2020-07-01 to new type approvals; from 2021-07-01 to already-approved types.",
+      "_why": "Two-stage implementation per finding source; effective_date kept at 2020-07-01."
+    },
+    "cn-gb-15740": {
+      "summary": "GB 15740-2024 sets requirements for anti-theft devices of M and N category vehicles and for power immobilizers of M1 vehicles and N1 vehicles up to 2000 kg maximum mass, including information-security requirements. It applies from 2026-01-01 and replaces GB 15740-2006.",
+      "_why": "Current summary truncated and lists alarms/shift locks/rollaway not in official scope."
+    },
+    "cn-gb-1589": {
+      "effective_date": "2016-07-26",
+      "_why": "GB 1589-2016 implementation date 2016-07-26; no taxonomy system fits dimensions/masses so systems left empty."
+    },
+    "cn-gb-18296-2019": {
+      "un_equivalent_ai": [],
+      "_why": "R153 is rear-collision fuel system integrity (GB 20072 counterpart); R34 already in un_equivalent."
+    },
+    "cn-gb-19578": {
+      "un_equivalent_ai": [
+        "UN R101"
+      ],
+      "_why": "R154 is WLTP emissions, not fuel consumption limits."
+    },
+    "cn-gb-20071-2025": {
+      "summary": "GB 20071-2025 sets occupant protection requirements for lateral (side) collisions of M1 and N1 category vehicles, requiring compliance with side impact performance criteria that limit occupant injury from structural intrusion. It applies from 2026-07-01.",
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck"
+      ],
+      "_why": "Official scope covers M1 and N1; current summary says M1 only and is truncated."
+    },
+    "cn-gb-20072-2024": {
+      "summary": "GB 20072-2024 specifies safety requirements for passenger cars in the event of a rear-end collision, including fuel system integrity after rear impact. It applies to new type approvals from 2026-07-01.",
+      "_why": "Current summary truncated (...) and asserts unverified EV-specific content."
+    },
+    "cn-gb-27887-2024": {
+      "un_equivalent_ai": [],
+      "_why": "R145 is ISOFIX anchorage regulation (GB 14167 counterpart); R129 already in un_equivalent."
+    },
+    "cn-gb-27999": {
+      "un_equivalent_ai": [],
+      "_why": "R154 is WLTP emissions; R101 only measures CO2; no UN counterpart for fleet CAFC targets."
+    },
+    "cn-gb-4094-2016": {
+      "systems": [
+        "Tell-tales & controls"
+      ],
+      "_why": "Symbols standard; does not regulate lighting."
+    },
+    "cn-gb-44495-2024": {
+      "un_equivalent_ai": [],
+      "_why": "R156 is software update (covered by GB 44496); R155 already in un_equivalent."
+    },
+    "cn-gb-4785-2019": {
+      "un_equivalent_ai": [],
+      "_why": "R148 is a light-signalling device regulation; GB 4785 is installation (R48 already listed)."
+    },
+    "cn-gb-t-34590": {
+      "un_equivalent_ai": [],
+      "summary": "GB/T 34590.10-2017 is a recommended (voluntary) guideline forming Part 10 of the road vehicles functional safety series, supporting application of ISO 26262 to safety-related E/E systems. It has been superseded by the GB/T 34590-2022 series.",
+      "_why": "R100 is REESS safety, no UN counterpart; summary wrongly says it 'requires'; GB/T is voluntary guideline."
+    }
   },
-  "cn-cnca-c11-01-2020": {
-   "effective_date": "2020-04-16",
-   "_why": "Official CQC PDF cover: published and implemented 2020-04-16."
-  },
-  "cn-gb-11551-2014": {
-   "un_equivalent_ai": [
-    "UN R94"
-   ],
-   "_why": "GB 11551-2014 is an offset frontal test standard; R94 is the established counterpart (body lists R94/R137)."
-  },
-  "cn-gb-11566": {
-   "un_equivalent_ai": [
-    "UN R26"
-   ],
-   "_why": "R127 is pedestrian safety (GB 24550 counterpart); R26 = external projections."
-  },
-  "cn-gb-1495-2002": {
-   "status_note": "Remains in force; a revision (China stage 3/4) is under discussion but no new edition has been published. Contains no AVAS requirements.",
-   "_why": "CATARC working-group revision news; AVAS is not in GB 1495."
-  },
-  "cn-gb-15083-2019": {
-   "status_note": "Applies from 2020-07-01 to new type approvals; from 2021-07-01 to already-approved types.",
-   "_why": "Two-stage implementation per finding source; effective_date kept at 2020-07-01."
-  },
-  "cn-gb-15740": {
-   "summary": "GB 15740-2024 sets requirements for anti-theft devices of M and N category vehicles and for power immobilizers of M1 vehicles and N1 vehicles up to 2000 kg maximum mass, including information-security requirements. It applies from 2026-01-01 and replaces GB 15740-2006.",
-   "_why": "Current summary truncated and lists alarms/shift locks/rollaway not in official scope."
-  },
-  "cn-gb-1589": {
-   "effective_date": "2016-07-26",
-   "_why": "GB 1589-2016 implementation date 2016-07-26; no taxonomy system fits dimensions/masses so systems left empty."
-  },
-  "cn-gb-18296-2019": {
-   "un_equivalent_ai": [],
-   "_why": "R153 is rear-collision fuel system integrity (GB 20072 counterpart); R34 already in un_equivalent."
-  },
-  "cn-gb-19578": {
-   "un_equivalent_ai": [
-    "UN R101"
-   ],
-   "_why": "R154 is WLTP emissions, not fuel consumption limits."
-  },
-  "cn-gb-20071-2025": {
-   "summary": "GB 20071-2025 sets occupant protection requirements for lateral (side) collisions of M1 and N1 category vehicles, requiring compliance with side impact performance criteria that limit occupant injury from structural intrusion. It applies from 2026-07-01.",
-   "vehicle_categories": [
-    "Passenger car",
-    "Light truck"
-   ],
-   "_why": "Official scope covers M1 and N1; current summary says M1 only and is truncated."
-  },
-  "cn-gb-20072-2024": {
-   "summary": "GB 20072-2024 specifies safety requirements for passenger cars in the event of a rear-end collision, including fuel system integrity after rear impact. It applies to new type approvals from 2026-07-01.",
-   "_why": "Current summary truncated (...) and asserts unverified EV-specific content."
-  },
-  "cn-gb-27887-2024": {
-   "un_equivalent_ai": [],
-   "_why": "R145 is ISOFIX anchorage regulation (GB 14167 counterpart); R129 already in un_equivalent."
-  },
-  "cn-gb-27999": {
-   "un_equivalent_ai": [],
-   "_why": "R154 is WLTP emissions; R101 only measures CO2; no UN counterpart for fleet CAFC targets."
-  },
-  "cn-gb-4094-2016": {
-   "systems": [
-    "Tell-tales & controls"
-   ],
-   "_why": "Symbols standard; does not regulate lighting."
-  },
-  "cn-gb-44495-2024": {
-   "un_equivalent_ai": [],
-   "_why": "R156 is software update (covered by GB 44496); R155 already in un_equivalent."
-  },
-  "cn-gb-4785-2019": {
-   "un_equivalent_ai": [],
-   "_why": "R148 is a light-signalling device regulation; GB 4785 is installation (R48 already listed)."
-  },
-  "cn-gb-t-34590": {
-   "un_equivalent_ai": [],
-   "summary": "GB/T 34590.10-2017 is a recommended (voluntary) guideline forming Part 10 of the road vehicles functional safety series, supporting application of ISO 26262 to safety-related E/E systems. It has been superseded by the GB/T 34590-2022 series.",
-   "_why": "R100 is REESS safety, no UN counterpart; summary wrongly says it 'requires'; GB/T is voluntary guideline."
-  }
- },
- "skipped": [
-  {
-   "id": "cn-gb-11551-2014",
-   "field": "status",
-   "reason": "no newer edition found; unverifiable"
-  },
-  {
-   "id": "cn-gb-11562",
-   "field": "citation",
-   "reason": "keep; id without year is not a record error"
-  },
-  {
-   "id": "cn-gb-11566",
-   "field": "systems",
-   "reason": "low confidence; summary supports pedestrian-injury purpose of external projections"
-  },
-  {
-   "id": "cn-gb-14166-2024",
-   "field": "un_equivalent_ai",
-   "reason": "already fixed: UN R16 is already in un_equivalent"
-  },
-  {
-   "id": "cn-gb-15083-2019",
-   "field": "un_equivalent_ai",
-   "reason": "low confidence; R25 head restraints is covered by the standard"
-  },
-  {
-   "id": "cn-gb-15083-2019",
-   "field": "effective_date",
-   "reason": "kept 2020-07-01 (new approvals); two-stage noted in status_note"
-  },
-  {
-   "id": "cn-gb-15086-2013",
-   "field": "status",
-   "reason": "unverifiable, no evidence"
-  },
-  {
-   "id": "cn-gb-15740",
-   "field": "citation",
-   "reason": "keep; id without year not an error"
-  },
-  {
-   "id": "cn-gb-1589",
-   "field": "status",
-   "reason": "already fixed: status_note records GB 1589-2026 replacement"
-  },
-  {
-   "id": "cn-gb-1589",
-   "field": "systems",
-   "reason": "no taxonomy system fits dimensions/masses"
-  },
-  {
-   "id": "cn-gb-18296-2019",
-   "field": "systems",
-   "reason": "low confidence; body mentions evaporative emissions"
-  },
-  {
-   "id": "cn-gb-18352-6-2016",
-   "field": "un_equivalent_ai",
-   "reason": "unsure of correct counterpart; no evidence"
-  },
-  {
-   "id": "cn-gb-18384-2020-gb-18384-2025",
-   "field": "un_equivalent",
-   "reason": "low confidence; keep R100"
-  },
-  {
-   "id": "cn-gb-24550-2024",
-   "field": "status",
-   "reason": "transition details unclear; no evidence in body"
-  },
-  {
-   "id": "cn-gb-26149",
-   "field": "body",
-   "reason": "generic boilerplate, not a different instrument; summary is TPMS-specific"
-  },
-  {
-   "id": "cn-gb-26572-2025",
-   "field": "vehicle_categories",
-   "reason": "emptying list would hide record; body says applicability needs verification"
-  },
-  {
-   "id": "cn-gb-27999",
-   "field": "citation",
-   "reason": "keep; id without year not an error; alias non-patchable"
-  },
-  {
-   "id": "cn-gb-34660",
-   "field": "citation",
-   "reason": "already fixed: status_note states 2026 edition applies from 2027-07-01"
-  },
-  {
-   "id": "cn-gb-38031-2025",
-   "field": "un_equivalent",
-   "reason": "low confidence; GTR 20 is not a UN R value"
-  },
-  {
-   "id": "cn-gb-44496-2024",
-   "field": "systems",
-   "reason": "low confidence; OTA security content plausible"
-  },
-  {
-   "id": "cn-gb-44497",
-   "field": "body",
-   "reason": "body edits not allowed"
-  },
-  {
-   "id": "cn-gb-7258-2017",
-   "field": "title",
-   "reason": "finding itself says keep"
-  },
-  {
-   "id": "cn-gb-8410",
-   "field": "citation",
-   "reason": "already fixed: citation is GB 8410-2006"
-  },
-  {
-   "id": "cn-gb-9743-2024",
-   "field": "commodities",
-   "reason": "already fixed: commodities is Tires only"
-  },
-  {
-   "id": "cn-gb-t-30512-2014",
-   "field": "status",
-   "reason": "low confidence; revision only pending, still in force"
-  },
-  {
-   "id": "cn-gb-t-34590",
-   "field": "citation",
-   "reason": "citation is correct Part 10; id issue not patchable"
-  }
- ]
+  "skipped": [
+    {
+      "id": "cn-gb-11551-2014",
+      "field": "status",
+      "reason": "no newer edition found; unverifiable"
+    },
+    {
+      "id": "cn-gb-11562",
+      "field": "citation",
+      "reason": "keep; id without year is not a record error"
+    },
+    {
+      "id": "cn-gb-11566",
+      "field": "systems",
+      "reason": "low confidence; summary supports pedestrian-injury purpose of external projections"
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "field": "un_equivalent_ai",
+      "reason": "already fixed: UN R16 is already in un_equivalent"
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "un_equivalent_ai",
+      "reason": "low confidence; R25 head restraints is covered by the standard"
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "effective_date",
+      "reason": "kept 2020-07-01 (new approvals); two-stage noted in status_note"
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "field": "status",
+      "reason": "unverifiable, no evidence"
+    },
+    {
+      "id": "cn-gb-15740",
+      "field": "citation",
+      "reason": "keep; id without year not an error"
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "status",
+      "reason": "already fixed: status_note records GB 1589-2026 replacement"
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "systems",
+      "reason": "no taxonomy system fits dimensions/masses"
+    },
+    {
+      "id": "cn-gb-18296-2019",
+      "field": "systems",
+      "reason": "low confidence; body mentions evaporative emissions"
+    },
+    {
+      "id": "cn-gb-18352-6-2016",
+      "field": "un_equivalent_ai",
+      "reason": "unsure of correct counterpart; no evidence"
+    },
+    {
+      "id": "cn-gb-18384-2020-gb-18384-2025",
+      "field": "un_equivalent",
+      "reason": "low confidence; keep R100"
+    },
+    {
+      "id": "cn-gb-24550-2024",
+      "field": "status",
+      "reason": "transition details unclear; no evidence in body"
+    },
+    {
+      "id": "cn-gb-26149",
+      "field": "body",
+      "reason": "generic boilerplate, not a different instrument; summary is TPMS-specific"
+    },
+    {
+      "id": "cn-gb-26572-2025",
+      "field": "vehicle_categories",
+      "reason": "emptying list would hide record; body says applicability needs verification"
+    },
+    {
+      "id": "cn-gb-27999",
+      "field": "citation",
+      "reason": "keep; id without year not an error; alias non-patchable"
+    },
+    {
+      "id": "cn-gb-34660",
+      "field": "citation",
+      "reason": "already fixed: status_note states 2026 edition applies from 2027-07-01"
+    },
+    {
+      "id": "cn-gb-38031-2025",
+      "field": "un_equivalent",
+      "reason": "low confidence; GTR 20 is not a UN R value"
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "systems",
+      "reason": "low confidence; OTA security content plausible"
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "body",
+      "reason": "body edits not allowed"
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "title",
+      "reason": "finding itself says keep"
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "citation",
+      "reason": "already fixed: citation is GB 8410-2006"
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "commodities",
+      "reason": "already fixed: commodities is Tires only"
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "status",
+      "reason": "low confidence; revision only pending, still in force"
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "citation",
+      "reason": "citation is correct Part 10; id issue not patchable"
+    }
+  ]
 }

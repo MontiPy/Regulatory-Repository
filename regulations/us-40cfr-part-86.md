@@ -31,6 +31,8 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 0f2de0c7f6b2fba815e839390fd6bfc38ab40107
 systems:
 - Emissions
+- On-board diagnostics
+- Fuel safety
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 86—CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES

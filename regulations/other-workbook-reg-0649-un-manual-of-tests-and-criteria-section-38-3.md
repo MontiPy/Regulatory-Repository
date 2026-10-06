@@ -24,9 +24,8 @@ source_url: https://unece.org/transport/dangerous-goods/un-manual-tests-and-crit
 status: in-force
 summary: Lithium cells, modules, and battery packs intended for transport must pass
   the UN 38.3 series of tests to be accepted by carriers and regulators under dangerous
-  goods rules. Compliance is mandatory for shipping high-voltage batteries, service
-  parts, and prototypes, and requires appropriate testing, documentation, and...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
+  goods rules.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2d9a08b3df6b3f92a02af8bf0bd0256de9a833a7
 systems:
 - Battery safety

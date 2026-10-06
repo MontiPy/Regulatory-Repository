@@ -41,7 +41,6 @@ title: KMVSS Article 53-2 — Rear Pedestrian Safety System
 translation_status: translated
 un_equivalent_ai:
 - UN R158
-- UN R159
 vehicle_categories:
 - Passenger car
 - Light truck

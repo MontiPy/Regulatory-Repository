@@ -25,8 +25,8 @@ status: in-force
 summary: New non-pneumatic tires for use as temporary spare tires on passenger cars
   are regulated under this standard, which specifies dimensional, labeling, and laboratory
   performance requirements covering lateral strength, endurance, high speed performance,
-  and load rating. Tires must fit designated rims or wheel center...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+  and load rating.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 6bb4068bb6862d676f73add608382977be8f11c4
 systems:
 - Tires & wheels
