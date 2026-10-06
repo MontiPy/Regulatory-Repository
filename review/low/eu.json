@@ -1,0 +1,120 @@
+{
+ "group": "eu",
+ "patches": {
+  "eu-32000l0053": {
+   "systems": [],
+   "_why": "ELV directive is waste/recycling, not emissions; no taxonomy system fits"
+  },
+  "eu-32006l0066": {
+   "systems": [],
+   "_why": "Batteries directive sets mercury/cadmium limits and collection/recycling, not battery safety"
+  },
+  "eu-32009r0661": {
+   "systems": [
+    "Braking",
+    "Tires & wheels",
+    "ADAS",
+    "Noise"
+   ],
+   "_why": "Body has no pollutant-emission limits; drop Emissions"
+  },
+  "eu-32018r0858": {
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Trailer"
+   ],
+   "_why": "2018/858 covers M2/M3 buses"
+  },
+  "eu-32018r0985": {
+   "title": "Commission Delegated Regulation (EU) 2018/985 - Environmental and Propulsion Unit Performance of Agricultural and Forestry Vehicles",
+   "_why": "Title lacked subject; subject in body"
+  },
+  "eu-32019r0631": {
+   "systems": [
+    "Emissions"
+   ],
+   "_why": "Fleet CO2 targets only; no charging or battery-safety requirements"
+  },
+  "eu-32019r2144": {
+   "title": "General Safety Regulation (EU) 2019/2144 - Type-Approval Requirements for General Safety and Protection of Occupants and Vulnerable Road Users",
+   "_why": "Title lacked subject"
+  },
+  "eu-32021r0535": {
+   "title": "Commission Implementing Regulation (EU) 2021/535 - Type-Approval: General Construction Characteristics and Safety",
+   "_why": "Title lacked subject"
+  },
+  "eu-32021r0646": {
+   "title": "Commission Implementing Regulation (EU) 2021/646 - Type-Approval of Emergency Lane-Keeping Systems (ELKS)",
+   "_why": "Title lacked subject"
+  },
+  "eu-32021r1341": {
+   "title": "Commission Delegated Regulation (EU) 2021/1341 - Driver Drowsiness and Attention Warning (DDAW) Systems",
+   "_why": "Title lacked subject"
+  },
+  "eu-32021r1958": {
+   "title": "Commission Delegated Regulation (EU) 2021/1958 - Intelligent Speed Assistance (ISA) Systems",
+   "_why": "Title lacked subject"
+  },
+  "eu-32022r0545": {
+   "title": "Commission Delegated Regulation (EU) 2022/545 - Event Data Recorders (EDR) for M1 and N1 Vehicles",
+   "systems": [
+    "Crashworthiness",
+    "Cybersecurity"
+   ],
+   "_why": "Title lacked subject; body Art 4(1) requires UN R155 protection, no OBD requirement"
+  },
+  "eu-32022r1426": {
+   "title": "Commission Implementing Regulation (EU) 2022/1426 - Type-Approval of Automated Driving Systems (ADS) of Fully Automated Vehicles",
+   "_why": "Title lacked subject"
+  },
+  "eu-32023r1542": {
+   "title": "Batteries Regulation (EU) 2023/1542 - Batteries and Waste Batteries",
+   "systems": [
+    "Battery safety"
+   ],
+   "_why": "Title lacked subject; regulation has no EV charging requirements"
+  },
+  "eu-32023r2590": {
+   "title": "Commission Delegated Regulation (EU) 2023/2590 - Advanced Driver Distraction Warning (ADDW) Systems",
+   "_why": "Title lacked subject"
+  },
+  "eu-32024r0573": {
+   "title": "F-gas Regulation (EU) 2024/573 - Fluorinated Greenhouse Gases",
+   "_why": "Title lacked subject"
+  },
+  "eu-32024r1257": {
+   "title": "Euro 7 Regulation (EU) 2024/1257 - Emissions and Battery Durability of Motor Vehicles",
+   "_why": "Title lacked subject"
+  }
+ },
+ "skipped": [
+  {
+   "id": "eu-32000l0053",
+   "field": "status",
+   "reason": "Repeal by Reg 2026/1738 only from 1 Sep 2028 and not verified in body; keep in-force, no note"
+  },
+  {
+   "id": "eu-32019r0631",
+   "field": "un_equivalent_ai",
+   "reason": "low confidence, no body evidence"
+  },
+  {
+   "id": "eu-32024r0573",
+   "field": "vehicle_categories",
+   "reason": "proposal is to leave empty; no change"
+  },
+  {
+   "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+   "field": "source_url",
+   "reason": "single URL field; cannot hold three instruments; current URL works and is official for CSRD"
+  },
+  {
+   "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+   "field": "commodities",
+   "reason": "low confidence, optional; no clear evidence"
+  }
+ ]
+}

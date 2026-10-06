@@ -1,0 +1,280 @@
+{
+ "group": "ece",
+ "patches": {
+  "ece-r153": {
+   "systems": [
+    "Fuel safety",
+    "Crashworthiness",
+    "Battery safety"
+   ],
+   "_why": "Title/summary/body cover safety of the electric power train after rear-end collision"
+  },
+  "ece-r162": {
+   "systems": [
+    "Theft prevention"
+   ],
+   "_why": "Body/title: immobilisers only; no cybersecurity scope"
+  },
+  "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles": {
+   "summary": "The UNECE 1958 Agreement type approval and conformity-of-production framework governs how vehicles and regulated systems are approved and verified across Contracting Party markets. It requires that approved types be consistently reproduced in production, and covers approval certificates, component markings and production inspection.",
+   "_why": "Summary was truncated mid-sentence ('inspection...'); rewritten from the same text"
+  }
+ },
+ "skipped": [
+  {
+   "id": "ece-r0",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r10",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r100",
+   "field": "summary",
+   "reason": "already fixed"
+  },
+  {
+   "id": "ece-r100",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r101",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r11",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r112",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r113",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r114",
+   "field": "source_url",
+   "reason": "still generic index URL, but no specific official page could be verified (unece.org returns 403 to curl here); left unchanged"
+  },
+  {
+   "id": "ece-r116",
+   "field": "systems",
+   "reason": "already fixed"
+  },
+  {
+   "id": "ece-r116",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r117",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r119",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r12",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r121",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r123",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r125",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r127",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r128",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r129",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r13",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r13-h",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r135",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r137",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r138",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r139",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r14",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r140",
+   "field": "summary",
+   "reason": "already fixed"
+  },
+  {
+   "id": "ece-r140",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r141",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r142",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r144",
+   "field": "source_url",
+   "reason": "still generic index URL, but no specific official page could be verified (unece.org returns 403 to curl here); left unchanged"
+  },
+  {
+   "id": "ece-r145",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r148",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r149",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r150",
+   "field": "title",
+   "reason": "already fixed"
+  },
+  {
+   "id": "ece-r150",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r152",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r153",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r154",
+   "field": "source_url",
+   "reason": "still generic index URL, but no specific official page could be verified (unece.org returns 403 to curl here); left unchanged"
+  },
+  {
+   "id": "ece-r155",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r156",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r157",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r158",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r159",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r16",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r160",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r161",
+   "field": "source_url",
+   "reason": "already fixed (source_url now a specific EUR-Lex/UNECE page)"
+  },
+  {
+   "id": "ece-r83",
+   "field": "summary",
+   "reason": "already fixed"
+  },
+  {
+   "id": "ece-r85",
+   "field": "systems",
+   "reason": "taxonomy has no powertrain/power-measurement system; removing Emissions would leave empty, keeping is safer"
+  },
+  {
+   "id": "ece-r98",
+   "field": "vehicle_categories",
+   "reason": "body scope says 'categories M, N and L3', so Motorcycle tag is supported"
+  }
+ ]
+}
