@@ -1,0 +1,150 @@
+{
+ "shard": "cw-05",
+ "reviewed": [
+  "speedometer",
+  "horn",
+  "avas",
+  "tyres",
+  "tyre-installation",
+  "tpms",
+  "door-latches",
+  "external-projections",
+  "bumpers",
+  "power-windows"
+ ],
+ "findings": [
+  {
+   "id": "tyre-installation",
+   "field": "cells.GCC.cite",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "GSO 1052:2002 (temporary spare)",
+   "proposed": "GSO 1052:2000 (temporary spare)",
+   "evidence": "Linked record gcc-gso-1052-2000 has citation 'GSO 1052:2000'; GSO store lists 'GSO 1052:2000' (published 2000). No 2002 edition found.",
+   "evidence_url": "https://www.gso.org.sa/store/standards/GSO:484938?lang=en",
+   "confidence": "high"
+  },
+  {
+   "id": "external-projections",
+   "field": "cells.GCC.cite",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "GSO-ECE 26; GSO 41",
+   "proposed": "GSO-ECE 26 only; move GSO 41 to the bumpers topic",
+   "evidence": "Record gcc-gso-41-2007 title: 'Front and Rear Exterior Protection Devices for Passenger Cars' (bumpers, fascias, crash boxes); it is a bumper standard, not an external-projections one. Bumpers topic has no GCC cell.",
+   "evidence_url": "regulations/gcc-gso-41-2007.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "bumpers",
+   "field": "cells.GCC",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "no GCC cell",
+   "proposed": "add GCC cell: GSO 41:2007 (records gcc-gso-41-2007)",
+   "evidence": "gcc-gso-41-2007 covers front/rear exterior protection devices (bumpers) and is currently attached only to external-projections.",
+   "evidence_url": "regulations/gcc-gso-41-2007.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "power-windows",
+   "field": "cells.UN.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "ece-r21 (UN R21 power-operated windows provisions)",
+   "proposed": "keep cite; note linked record has no regulation text",
+   "evidence": "UN R21 does cover power-operation of windows/roof panels/partitions (search: 'applies to interior fittings of passenger cars, including power-operation of windows'), but record ece-r21 is a ~1.2 KB stub whose summary/tags mention no power windows, so the record does not substantiate the cell.",
+   "evidence_url": "https://unece.org/DAM/trans/main/wp29/wp29wgs/wp29grsp/grspinf/28/28-inf01.pdf",
+   "confidence": "medium"
+  },
+  {
+   "id": "power-windows",
+   "field": "cells.BR.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "CONTRAN 908/2022 (br-contran-908)",
+   "proposed": "keep, but flag as no regulation text",
+   "evidence": "Record summary: 'The provided text does not contain the full regulatory content needed for a substantive summary'; body is link-only.",
+   "evidence_url": "regulations/br-contran-908.md",
+   "confidence": "high"
+  },
+  {
+   "id": "tyres",
+   "field": "cells.BR.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "br-contran-913 as tyre construction/performance",
+   "proposed": "note: 913/2022 is a tyre-use/in-service rule; new-tyre certification is INMETRO",
+   "evidence": "Record body: 'Full text requires visiting the official CONTRAN resolution archive' (no text). Search: Res. 913/2022 'disp\u00f5e sobre o uso de pneus em ve\u00edculos'; new vehicles must have tyres conforming to INMETRO technical regulations. Topic is 'construction & performance', 913 is use/condition.",
+   "evidence_url": "https://www.legisweb.com.br/legislacao/?id=432354",
+   "confidence": "medium"
+  },
+  {
+   "id": "tyres",
+   "field": "cells.EU.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "records: ece-r117 only",
+   "proposed": "add ece-r30",
+   "evidence": "EU cite names 'UN R30/R117' but only ece-r117 is linked; ece-r30 exists in the repo. Also EU tyre label (EU) 2020/740 has no record.",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "high"
+  },
+  {
+   "id": "tyres",
+   "field": "cells.GCC.cite",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "GSO 51/52/53; records only gcc-gso-51-2007",
+   "proposed": "link records for GSO 52/53 if present or cite only GSO 51",
+   "evidence": "Cite names three GSO parts; only GSO 51:2007 is linked.",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "low"
+  },
+  {
+   "id": "speedometer",
+   "field": "cells.US.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite FMVSS 101 (display only) but records only us-cfr-part-580",
+   "proposed": "add us-fmvss-101",
+   "evidence": "Record us-fmvss-101 exists but is not linked; cell cites FMVSS 101 first.",
+   "evidence_url": "regulations/us-fmvss-101.md",
+   "confidence": "high"
+  },
+  {
+   "id": "tpms",
+   "field": "cells.CA.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "CMVSS 138 with no linked record",
+   "proposed": "no repo record for CMVSS 138; add or leave unlinked deliberately",
+   "evidence": "Cell has cite but no records key; no ca-mvsr ...s138 record in regulations/.",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "medium"
+  },
+  {
+   "id": "avas",
+   "field": "cells.CN",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "no CN cell",
+   "proposed": "consider adding CN (AVAS requirements in GB 7258 / GB/T 37153)",
+   "evidence": "Repo has cn-gb-7258-2017 but no AVAS evidence found for it; could not confirm China's mandatory status via search.",
+   "evidence_url": "",
+   "confidence": "low"
+  },
+  {
+   "id": "horn",
+   "field": "cells.CN",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "no CN cell (also no US, CA)",
+   "proposed": "consider CN GB 15742 (horn)",
+   "evidence": "Not verified; market cells missing for CN.",
+   "evidence_url": "",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Cell citations mostly match their linked records; remaining problems are one year typo (GSO 1052), one misplaced GCC bumper standard, and several linked records that are stubs/link-only (br-contran-908, br-contran-913, ece-r21, ece-r142, gb-26149 etc.), so the crosswalk 'records' links do not always give regulation text. Verified: GB 11566-2024 effective 2026-01-01; UN R21 includes power window provisions; Res. 913/2022 covers tyre use. door-latches, tpms (except CA record) otherwise OK. Missing market cells (CN speedometer GB 15082, CN horn, US horn n/a) are unverified."
+}
