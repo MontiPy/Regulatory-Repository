@@ -309,7 +309,9 @@ def apply(fixes: dict[str, dict], label: str) -> list[str]:
             else:
                 meta[field] = value
             log.append(f"| `{rid}` | {field} | {fmt(before)} | {fmt(value)} |")
-        if "summary" in changes or changes.get("_body_replace") or changes.get("_stub_body"):
+        if changes.get("_confirmed") and "summary" not in changes:
+            log.append(f"| `{rid}` | summary | (checked against current text) | confirmed |")
+        if "summary" in changes or changes.get("_confirmed") or changes.get("_body_replace") or changes.get("_stub_body"):
             meta["summary_hash"] = _body_hash(clean_body(post.content, str(meta.get("source_api", ""))))
             meta["summary_generated_at"] = NOW
         out = frontmatter.dumps(post)

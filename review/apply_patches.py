@@ -29,7 +29,7 @@ UN_RE = re.compile(r"^UN R\d+[A-Z]?$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 LIST_TAX = {"systems": "systems", "commodities": "commodities", "vehicle_categories": "vehicle_categories"}
 STRING_FIELDS = {"title", "summary", "status_note", "citation"}
-ALLOWED = set(LIST_TAX) | STRING_FIELDS | {"status", "un_equivalent", "un_equivalent_ai", "effective_date", "_stub_body"}
+ALLOWED = set(LIST_TAX) | STRING_FIELDS | {"status", "un_equivalent", "un_equivalent_ai", "effective_date", "_stub_body", "_confirmed"}
 
 
 def validate(field: str, value) -> str | None:
@@ -49,7 +49,7 @@ def validate(field: str, value) -> str | None:
         return None if value in TAX["statuses"] else f"status '{value}' not allowed"
     if field == "effective_date":
         return None if isinstance(value, str) and DATE_RE.match(value) else "bad date"
-    if field == "_stub_body":
+    if field in ("_stub_body", "_confirmed"):
         return None if value is True else "must be true"
     if field in STRING_FIELDS:
         if not isinstance(value, str) or not value.strip():
@@ -65,10 +65,12 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--skip", nargs="*", default=[], help="record ids to leave untouched (orchestrator veto)")
+    ap.add_argument("--dir", default="patches", help="sub-directory of review/ holding <group>.json patch files")
+    ap.add_argument("--label", default="Phase 3 — medium/high findings via patch writers (validated)")
     args = ap.parse_args()
     fixes: dict[str, dict] = {}
     rejected: list[str] = []
-    for path in sorted((ROOT / "review" / "patches").glob("*.json")):
+    for path in sorted((ROOT / "review" / args.dir).glob("*.json")):
         if path.name.endswith(".input.json"):
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -98,7 +100,7 @@ def main() -> int:
         print("  REJECTED", r)
     if args.dry_run:
         return 0
-    lines = apply(fixes, "Phase 3 — medium/high findings via patch writers (validated)")
+    lines = apply(fixes, args.label)
     if rejected:
         lines += ["", "Rejected by validator / orchestrator:", *[f"- {r}" for r in rejected]]
     with (ROOT / "review" / "CHANGES.md").open("a", encoding="utf-8") as fh:
