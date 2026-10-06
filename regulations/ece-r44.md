@@ -25,11 +25,14 @@ status: in-force
 status_note: UN R129 (i-Size) is the successor child restraint regulation; ending
   new approvals to UN R44 has been proposed at WP.29 (target Sept 2027). R44 remains
   in force for existing approvals.
-summary: Child restraint systems for use in motor vehicles are the subject of this
-  regulation, but the provided text contains insufficient detail to summarize specific
-  requirements or mandates beyond its title and subject matter.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 02f02143507711cb6ffbe95cddb758398257e4e0
+summary: UN Regulation No. 44 sets uniform provisions for approval of restraining
+  devices for child occupants (child restraint systems) suitable for installation
+  in power-driven vehicles with three or more wheels. It excludes systems for folding
+  (tip-up) or side-facing seats and covers ISOFIX, dynamic testing, marking and conformity
+  of production. Text incorporates Supplement 17 to the 04 series (in force 29 May
+  2020).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: d3ad9cd50da5d2daaad60c29ea0755da486dbdb9
 systems:
 - Restraints
 - Crashworthiness

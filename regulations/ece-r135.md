@@ -25,11 +25,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42020X0486
 status: in-force
-summary: UN Regulation No. 135 addresses pole side impact protection for vehicles.
-  The provided text does not contain sufficient detail to summarize specific requirements
-  beyond the regulation's title subject matter.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 2437373d55e7c784acdfde0d34d56ba8d215bc32
+summary: Sets pole side impact requirements for category M1 vehicles up to 3,500 kg
+  gross mass and for certain N1 vehicles, defined by the driver's R-point position
+  relative to the front axle. It specifies the pole test, dummy injury criteria and
+  approval procedure. Incorporates Supplement 2 to the 01 series of amendments (in
+  force 29 May 2020).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 4a9638aec6025fc1154903c7a9977e83ef152a16
 systems:
 - Crashworthiness
 - Restraints

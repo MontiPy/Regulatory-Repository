@@ -22,11 +22,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1366
 status: in-force
-summary: Tyre installation on vehicles is the subject of this regulation, but the
-  provided text contains only a reference link and no substantive regulatory content
-  to summarize.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 25ea37093945f7feac74805f568421ce7704feca
+summary: Sets requirements for the installation of tyres on vehicles of categories
+  M, N and O, covering matters such as tyre fitment, load capacity and speed capability
+  relative to the vehicle. Incorporates the 01 series of amendments (in force 30 September
+  2021).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 72f24ecb27a1ba5ab5441907a3367924d73b92fc
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:36+00:00'
@@ -36,10 +37,8 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
-- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42021X1366, 2021-08-16). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

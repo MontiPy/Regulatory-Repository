@@ -21,12 +21,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.205
 status: in-force
-summary: Glazing materials used in motor vehicles — including passenger cars, trucks,
-  buses, motorcycles, and certain campers — are regulated to reduce occupant injuries
-  from impact, ensure driver visibility, and prevent occupants from being ejected
-  through windows. Manufacturers must conform to ANSI/SAE Z26.1-1996 standards...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 6fdae376ae8ecc4a25d1c6074d459a6fa93f7be2
+summary: FMVSS No. 205 specifies requirements for glazing materials in motor vehicles
+  and equipment to reduce injuries from impact with glazing, ensure transparency for
+  driver visibility and limit occupant ejection. It applies to passenger cars, MPVs,
+  trucks, buses, motorcycles, slide-in campers, pickup covers designed to carry persons,
+  and low speed vehicles. Glazing must conform to ANSI/SAE Z26.1-1996, including aftermarket
+  replacement glazing.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b8c001aca73387e5d8cc447464b21eb1b01b66af
 systems:
 - Glazing
 - Visibility

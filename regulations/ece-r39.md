@@ -18,11 +18,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X1902
 status: in-force
-summary: Speedometer equipment on vehicles is the subject of this regulation, but
-  the provided text contains no substantive requirements beyond a reference to the
-  external UNECE WP.29 index for the full regulatory content.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: c84cd78ed8ee64352c0d9d7457bdc076dfa1e16f
+summary: UN Regulation No. 39 sets uniform provisions for approval of vehicles of
+  categories L, M and N with regard to speedometer and odometer equipment, including
+  its installation. It covers speedometer accuracy and odometer accuracy requirements
+  and tests. Text incorporates the 02 series of amendments (in force 26 September
+  2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 8491888c4085ce5c2d49769841c6cef3584a4c97
 systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:38+00:00'

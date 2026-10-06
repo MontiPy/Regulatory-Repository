@@ -25,18 +25,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X0005
 status: in-force
-summary: The provided text contains only a title, citation, region, and a reference
-  link without substantive regulatory content. UN R155 is identified as covering cybersecurity
-  and cybersecurity management systems under the ECE region, but no specific requirements
-  or mandates are included in the text provided.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 78318ad0fd67ac8f5005369f74b57a9877a555ae
+summary: UN Regulation No. 155 sets uniform provisions for type approval of vehicles
+  with regard to cyber security and the cyber security management system. It applies
+  to vehicles of categories L, M, N and O fitted with at least one electronic control
+  unit.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 0c9af85633a339d753045624221098cb5c1badfd
 systems:
 - Cybersecurity
-- ADAS
-- Software updates
-- On-board diagnostics
-- Theft prevention
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 155 — Cybersecurity and Cybersecurity Management Systems

@@ -22,11 +22,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42008X0730(01)
 status: in-force
-summary: Pneumatic tyres for passenger cars and their trailers are regulated under
-  UN R30, which establishes approval and performance requirements for such tyres sold
-  or used in ECE member countries.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 677d6d68c1413d6f4ec9ad1b51bc34d5bd7876f4
+summary: UN Regulation No. 30 sets uniform provisions for approval of new pneumatic
+  tyres designed primarily, but not only, for vehicles of categories M1, O1 and O2.
+  It covers tyre markings, load-capacity indices, size designation and dimensions,
+  and load/speed performance tests. Tyres for vintage cars and competitions are excluded.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 1f6babd4aa539eff4387719a1103b3d6d0cbebf7
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:37+00:00'

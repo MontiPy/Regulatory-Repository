@@ -21,11 +21,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42011X1206(01)
 status: in-force
-summary: Retro-reflecting devices for vehicles are the subject of this regulation,
-  but the provided text contains no substantive content beyond a reference to the
-  external UNECE WP.29 index for the full regulatory text.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 6eef31f3bd8dc0c999d7958710f330071db40f0e
+summary: UN Regulation No. 3 sets uniform provisions for approval of retro-reflecting
+  devices (reflex reflectors) for power-driven vehicles and their trailers. It applies
+  to vehicles of categories L, M, N, O and T and covers markings, colorimetric and
+  photometric specifications, and resistance and durability tests. Text incorporates
+  Supplement 12 to the 02 series (in force 23 June 2011).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a996472c3e9718776bfadc3b6ad52965adc125ee
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:37+00:00'

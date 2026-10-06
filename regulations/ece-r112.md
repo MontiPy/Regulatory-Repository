@@ -21,12 +21,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0822(02)
 status: in-force
-summary: Asymmetrical low-beam headlamps are the subject of this regulation, which
-  establishes approval requirements governing their design, photometric performance,
-  and installation on motor vehicles. The full technical requirements are maintained
-  by UNECE under the WP.29 framework.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: b2f51598e68e204451a6cf7b56311db1c4559b67
+summary: UN Regulation No. 112 sets uniform approval provisions for motor vehicle
+  headlamps emitting an asymmetrical passing beam or a driving beam or both, fitted
+  with filament lamps and/or LED modules. It covers markings, general and photometric
+  specifications, and conformity of production, and applies to headlamps for vehicles
+  of categories L, M, N and T. Text incorporates Supplement 4 to the 01 series (15
+  July 2013).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: d42772d73fc651ef6fd3ba35731462aac98d675c
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'

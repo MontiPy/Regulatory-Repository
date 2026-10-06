@@ -23,8 +23,8 @@ status: in-force
 summary: Acoustic Vehicle Alerting Systems (AVAS) on quiet road transport vehicles
   (primarily electric and hybrid vehicles) are regulated to ensure such vehicles emit
   a minimum level of sound to alert pedestrians and other road users of their presence.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: b9c002cf031d52da28aa78f59ce7ec8b24578f7e
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: d277e2c18c003a979384de8cbd427f8d399c345d
 systems:
 - Noise
 - Pedestrian protection
@@ -34,6 +34,7 @@ title: UN Regulation No. 138 — Quiet Road Transport Vehicles (QRTV)
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

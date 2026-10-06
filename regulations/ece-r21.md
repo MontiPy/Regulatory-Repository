@@ -28,8 +28,8 @@ status: in-force
 summary: Interior fittings of motor vehicles are regulated to ensure occupant protection,
   requiring that surfaces and components within the passenger compartment meet specified
   safety standards to minimize injury risk in the event of impact.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 72b0efd0c476b430ee681d34d7943fc3b59f2daa
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 7ed4415ec7207a665e585817eb67d931f1752bcc
 systems:
 - Crashworthiness
 - Restraints
@@ -38,8 +38,6 @@ tagging_status: llm-tagged
 title: UN Regulation No. 21 — Interior Fittings
 vehicle_categories:
 - Passenger car
-- Light truck
-- Bus
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42008X0716(01), 2008-07-16). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

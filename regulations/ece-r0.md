@@ -16,23 +16,18 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42018X0780
 status: in-force
-summary: The full text of UN Regulation No. 0 is not provided here, only a reference
-  link to an external source. Based solely on the available text, this entry establishes
-  the existence of UN Regulation No. 0, which pertains to International Whole Vehicle
-  Type Approval (IWVTA) under the ECE framework.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: f06a47ad4c3d44211d82eed4f8f3b76c6209802d
+summary: UN Regulation No. 0 sets uniform provisions for International Whole Vehicle
+  Type Approval (IWVTA), under which a whole-vehicle approval is built from the type
+  approvals issued under the UN Regulations listed in its annexes. It applies to vehicles
+  of category M1. Entry into force 19 July 2018.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 13c950f7c2ab623f510b69eaad13643a15add29d
 systems: []
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 0 — International Whole Vehicle Type Approval (IWVTA)
 vehicle_categories:
 - Passenger car
-- Light truck
-- Heavy truck
-- Motorcycle
-- Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42018X0780, 2018-05-31). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

@@ -21,16 +21,28 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1719
 status: in-force
-summary: Light-signalling devices (excluding headlamps) on vehicles are regulated
-  under UN R148, which establishes requirements for their approval, performance, and
-  installation to ensure consistent and safe use across ECE member countries.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 2591a6197c244543c83da137a8ae334e9d4be58e
+summary: 'Sets approval requirements for light-signalling devices other than headlamps
+  on power-driven vehicles and trailers: rear registration plate, direction indicator,
+  position, stop, end-outline marker, reversing, manoeuvring, rear fog, parking, daytime
+  running and side marker lamps. It consolidates UN Regulations Nos. 4, 6, 7, 23,
+  38, 50, 77, 87 and 91 without changing technical requirements.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a755ba67971858327cbbb108d3332e724eb40479
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 148 — Light-Signalling Devices (except headlamps)
+un_equivalent_ai:
+- UN R4
+- UN R6
+- UN R7
+- UN R23
+- UN R38
+- UN R50
+- UN R77
+- UN R87
+- UN R91
 vehicle_categories:
 - Passenger car
 - Light truck

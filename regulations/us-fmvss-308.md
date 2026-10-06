@@ -4,6 +4,7 @@ commodities:
 - Fuel system
 - Fuel tanks
 - Hoses & lines
+effective_date: '2028-09-01'
 id: us-fmvss-308
 last_pulled: '2026-10-06T03:27:47+00:00'
 open_tags:
@@ -22,13 +23,15 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.308
-status: in-force
-summary: Compressed hydrogen storage systems (CHSS) used in motor vehicles are regulated
-  to reduce deaths and injuries from hydrogen fuel leaks and pressurized container
-  explosions. The standard applies to vehicles manufactured on or after September
-  1, 2028, that use compressed hydrogen gas as a propellant, and requires each...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 2618f9a7637a31084ec92b1ac6b83d97f0fb7e52
+status: upcoming
+status_note: Applies to vehicles manufactured on or after 1 Sep 2028.
+summary: FMVSS No. 308 specifies requirements for compressed hydrogen storage systems
+  used in motor vehicles, to reduce deaths and injuries from hydrogen leaks and burst
+  of pressurized containers. It applies to vehicles manufactured on or after September
+  1, 2028 with compressed hydrogen as propulsion fuel, and not to vehicles with only
+  cryo-compressed or solid-state hydrogen storage.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b912d102fceef0601c5d5d88597e4dd793694a1d
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'

@@ -23,12 +23,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.301
 status: in-force
-summary: Fuel system integrity for passenger cars, multipurpose passenger vehicles,
-  trucks, buses with a GVWR of 4,536 kg or less, and qualifying school buses is regulated
-  to prevent fire-related deaths and injuries from fuel spillage during and after
-  crashes and from fuel ingestion during siphoning. It requires these vehicles...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 9c028078a4ce2b342d68a38a64e5b771f1330990
+summary: FMVSS No. 301 specifies requirements for the integrity of motor vehicle fuel
+  systems, to reduce fire deaths and injuries from fuel spillage during and after
+  crashes and from fuel ingestion during siphoning. It applies to passenger cars,
+  to MPVs, trucks and buses of 4,536 kg GVWR or less, and to heavier school buses,
+  using fuel with a boiling point above 0 C.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 62738eef3f0c28c03cdf4dd9617726144f845805
 systems:
 - Fuel safety
 - Crashworthiness

@@ -22,11 +22,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1534
 status: in-force
-summary: UN Regulation No. 129 covers enhanced child restraint systems (i-Size) under
-  the ECE framework. The full regulatory text is maintained by UNECE WP.29, but no
-  specific requirements are provided in the supplied text.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 78681f444b1186ef60fb2b91ceab27a1f4931db4
+summary: 'Sets approval requirements for Enhanced Child Restraint Systems (ECRS, i-Size)
+  used on board power-driven vehicles: integral and non-integral universal and specific-vehicle
+  ISOFIX systems and booster seats. It covers design, performance, dynamic testing
+  including side impact, marking and conformity of production. Incorporates Supplement
+  4 to the 04 series of amendments (in force 4 June 2026).'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 37c42cb2438a91462e1237f6c221eea6ae46e132
 systems:
 - Restraints
 - Crashworthiness

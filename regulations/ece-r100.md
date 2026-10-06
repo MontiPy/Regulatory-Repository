@@ -27,16 +27,17 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1695
 status: in-force
-summary: Battery electric and fuel cell vehicles, along with their high-voltage systems,
-  are regulated under UN R100, which mandates construction and functional safety requirements
-  to protect occupants and others from hazards such as electric shock, energy storage
-  system failures, and related risks.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 08576188936b95906ed74eecaae74d22c7f5b46c
+summary: UN Regulation No. 100 sets safety requirements for the electric power train
+  of road vehicles of categories M, N and O (design speed above 25 km/h, excluding
+  vehicles permanently connected to the grid). Part I covers electric power train
+  safety including electric shock, Part II the Rechargeable Electrical Energy Storage
+  System (REESS), and Part III installation of an approved REESS. Latest text incorporates
+  the 05 series (entry into force 26 September 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: badc9bb103bf345485dd7b1c7e8ee575ff916e57
 systems:
 - Battery safety
 - EV charging
-- EMC
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 100 — Vehicles with Regard to Specific Requirements for the
@@ -44,6 +45,9 @@ title: UN Regulation No. 100 — Vehicles with Regard to Specific Requirements f
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42026X1695, 2026-08-17). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

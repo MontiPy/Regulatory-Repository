@@ -21,12 +21,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.204
 status: in-force
-summary: Steering control rearward displacement in passenger cars, multipurpose passenger
-  vehicles, trucks, and buses is regulated to reduce the risk of chest, neck, or head
-  injury in a frontal crash. It requires that when tested in a perpendicular impact
-  into a fixed barrier, the upper end of the steering column and shaft...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 32bd7b08849f199aecb2620768046569dd4de827
+summary: FMVSS No. 204 limits rearward displacement of the steering control into the
+  passenger compartment to reduce chest, neck and head injury in frontal crashes.
+  In a 48 km/h perpendicular impact into a fixed barrier, the upper end of the steering
+  column and shaft may not move more than 127 mm horizontally rearward. It applies
+  to passenger cars, MPVs, trucks and buses (4,536 kg GVWR or less, 2,495 kg unloaded
+  or less), excluding vehicles certified to S14 of FMVSS 208.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 314655e65c811bc994e0455634c4bf86f70f0227
 systems:
 - Steering
 - Crashworthiness

@@ -19,11 +19,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42010X0528(01)
 status: in-force
-summary: Parking lamps on motor vehicles are the subject of this regulation, but the
-  provided text contains only a reference link and no substantive requirements or
-  mandates to summarize.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: cabb97e38be22882c76e7aa604be78e1b9a55fc9
+summary: UN Regulation No. 77 sets uniform provisions for approval of parking lamps
+  for power-driven vehicles. It applies to parking lamps for vehicles of categories
+  M, N and T. Text incorporates Supplement 12 to the original version (in force 15
+  October 2008).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: deb49e27b551c3b8787e7b6aa97aa82cb1d2c209
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -33,9 +34,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42010X0528(01), 2010-05-28). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

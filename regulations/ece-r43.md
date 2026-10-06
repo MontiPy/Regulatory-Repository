@@ -24,8 +24,8 @@ status: in-force
 summary: Safety glazing materials and their installation on motor vehicles are regulated
   under UN R43, which establishes requirements for the approval, performance, and
   fitting of glazing used in vehicle windows and windscreens.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 683ac2f766f70b7c56fab863313df18bf3e38cd9
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 06cfd4afcbd5b999b27ca4c82601269f0c6fc30d
 systems:
 - Glazing
 - Visibility

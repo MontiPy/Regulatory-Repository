@@ -22,20 +22,22 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42019X2141
 status: in-force
-summary: Safety belt anchorages, ISOFIX anchorages, and top tether anchorages in vehicles
-  are regulated by UN R14, which establishes requirements for their design, location,
-  and strength to ensure occupant restraint systems are securely mounted.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 4f3ed3b9c241051728f83b51b1e2dd80db0792cd
+summary: Sets requirements for the safety-belt anchorages of vehicles of categories
+  M and N, for adult occupants of forward-, rearward- and side-facing seats. It covers
+  anchorage location, strength and static and dynamic tests, and approval and extension
+  procedures. Incorporates the 09 series of amendments (in force 29 December 2018).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 057d4af0cee871f780cfe04d32de933d155bc017
 systems:
 - Restraints
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 14 — Safety Belt Anchorages, ISOFIX and Top Tether Anchorages
+title: UN Regulation No. 14 — Safety-Belt Anchorages
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

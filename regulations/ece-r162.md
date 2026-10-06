@@ -21,11 +21,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X2275
 status: in-force
-summary: Vehicle immobiliser systems are the subject of this regulation, but the provided
-  text contains insufficient detail to summarize specific requirements or mandates
-  beyond the regulation's title and subject matter.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 113791a40bf4b2400bd225ee9a4c8ed940f90ffc
+summary: UN Regulation No. 162 covers approval of immobilizers and of vehicles with
+  regard to a fitted immobilizer, primarily for category M1 vehicles and N1 vehicles
+  with a maximum mass of 2 tonnes or less; other categories may be approved at the
+  manufacturer's request.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: f1d5619dff880593115127322ff7bc29e0bc6d3f
 systems:
 - Theft prevention
 - Cybersecurity
@@ -35,7 +36,6 @@ title: UN Regulation No. 162 — Immobilisers
 vehicle_categories:
 - Passenger car
 - Light truck
-- Motorcycle
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42021X2275, 2021-12-30). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

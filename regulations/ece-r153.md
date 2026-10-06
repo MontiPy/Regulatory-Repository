@@ -25,7 +25,7 @@ status: in-force
 summary: UN R153 covers the integrity of the fuel system and the safety of the high-voltage
   electric power train of M1 and N1 vehicles after a rear-end collision.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: c62605df661a015cc419cdf2e91e8f1449bdc4a0
+summary_hash: 82cd291ac46758d05383c54836f926376fa87edf
 systems:
 - Fuel safety
 - Crashworthiness

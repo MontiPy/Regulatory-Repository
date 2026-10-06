@@ -19,12 +19,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-555
 status: in-force
-summary: Temporary exemptions from federal motor vehicle safety standards and bumper
-  standards for motor vehicle manufacturers are governed by this part, which establishes
-  the process by which NHTSA may grant such exemptions based on substantial economic
-  hardship, facilitation of new safety or low-emission technology...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 40f64e6e018b5fe0e4305f67d11c04640d75202f
+summary: 49 CFR Part 555 establishes how NHTSA may grant temporary exemptions for
+  manufacturers of motor vehicles from one or more Federal motor vehicle safety standards
+  (49 U.S.C. 30113), and for passenger motor vehicles from Federal bumper standards
+  (49 U.S.C. 32502). Grounds include substantial economic hardship, development or
+  field evaluation of new safety or low-emission features, and an equivalent overall
+  level of safety. It sets application contents and procedure.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: fef827c2267273992571fdff8a5e77527c963f9c
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:36+00:00'

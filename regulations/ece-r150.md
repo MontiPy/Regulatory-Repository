@@ -20,17 +20,25 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1721
 status: in-force
-summary: The full text of UN Regulation No. 150 is not provided here, only a reference
-  link to an external source. The regulation pertains to retro-reflecting devices,
-  but no specific requirements or mandates can be summarized from the text supplied.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 7e65dc0ee77d0554845af0351cf6bf7180b6d3b6
+summary: 'Sets approval requirements for retro-reflective devices and markings for
+  power-driven vehicles and trailers: retro-reflectors, retro-reflective markings,
+  marking plates for heavy, long and slow-moving vehicles, and advance warning triangles.
+  It consolidates UN Regulations Nos. 3, 27, 69, 70 and 104 without changing technical
+  requirements.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 844db9b189f0380aef8ceeb7137d3a2b3300fb0c
 systems:
 - Lighting & signaling
 - Visibility
 tagged_at: '2026-06-16T15:44:35+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 150 — Retro-Reflecting Devices (updated)
+title: UN Regulation No. 150 — Retro-Reflective Devices and Markings
+un_equivalent_ai:
+- UN R3
+- UN R27
+- UN R69
+- UN R70
+- UN R104
 vehicle_categories:
 - Passenger car
 - Light truck

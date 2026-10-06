@@ -25,11 +25,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42018X1592
 status: in-force
-summary: Electronic Stability Control (ESC) systems on passenger cars are regulated
-  under UN R140, which establishes performance and installation requirements to ensure
-  ESC systems function correctly in reducing vehicle instability.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 8105a9e5d63aec2eb34118d13694dd50623a0365
+summary: Sets approval requirements for Electronic Stability Control (ESC) systems
+  on passenger cars and light goods vehicles of categories M1 and N1, including performance
+  and test requirements for the system. Incorporates Supplement 2 to the original
+  version (in force 29 December 2018).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 2134c6961097ff21af1d573b6b9ae06d6c85d2c0
 systems:
 - Braking
 - Steering

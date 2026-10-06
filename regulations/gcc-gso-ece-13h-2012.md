@@ -40,7 +40,6 @@ translation_status: untranslated
 un_equivalent:
 - UN R13H
 un_equivalent_ai:
-- UN R13H
 - UN R140
 vehicle_categories:
 - Passenger car

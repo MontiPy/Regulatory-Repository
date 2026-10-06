@@ -25,8 +25,8 @@ summary: Software update processes and software update management systems (SUMS)
   vehicles are regulated, requiring manufacturers to implement a certified management
   system that ensures software updates are delivered, tracked, and applied safely
   without compromising vehicle compliance or safety.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 579fae2666eb68f0562536c1f1ab70de63b5d3ab
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 977be537ef5633bc05f90136fd79e1ee469f090b
 systems:
 - Software updates
 - Cybersecurity
@@ -37,9 +37,9 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42021X0388, 2021-03-09). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

@@ -19,11 +19,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0325(03)
 status: in-force
-summary: Cornering lamps on motor vehicles are the subject of this regulation, but
-  the provided text contains no substantive content beyond a reference to the external
-  UNECE WP.29 index for full details.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 23b2d5d9c1debdca78b002cc232eca28be59fb81
+summary: UN Regulation No. 119 sets uniform provisions for approval of cornering lamps
+  for power-driven vehicles, including definitions, markings, general specifications
+  and photometric requirements. It applies to cornering lamps for vehicles of categories
+  M, N and T. Text incorporates Supplement 3 to the 01 series (3 November 2013).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 867aee27b7c65876dd49e7a51df4f57ad11508c5
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -33,9 +34,8 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
-- Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0325(03), 2014-03-25). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

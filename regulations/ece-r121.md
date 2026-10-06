@@ -28,8 +28,8 @@ status: in-force
 summary: The identification, location, and illumination of hand controls, tell-tales,
   and indicators in vehicles are regulated, requiring them to meet standardized specifications
   for recognition and visibility by the driver.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 473d7d8b38f7bd4398e24645c7f257c0e493ef2f
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 6eb232d36a9c35ca2a72959c5f666491f1a8a9ba
 systems:
 - Tell-tales & controls
 - Lighting & signaling
@@ -41,9 +41,7 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42016X0108(01), 2016-01-08). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

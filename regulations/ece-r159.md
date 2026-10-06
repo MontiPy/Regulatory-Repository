@@ -23,11 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X0829
 status: in-force
-summary: Moving-Off Information Systems (MOIS) on vehicles are the subject of this
-  regulation, but the provided text contains insufficient detail to summarize specific
-  requirements or mandates beyond the regulation's title and citation.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: c065205e0091fbf044b69a48a47983b361b8c459
+summary: UN Regulation No. 159 covers approval of vehicles of categories M2, M3, N2
+  and N3 with regard to a Moving Off Information System that detects pedestrians and
+  cyclists in the close-proximity forward blind spot, informs the driver and, depending
+  on manufacturer strategy, warns of a potential collision.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b9b7fb5c716212faa7e34f000ed884ce5ec17237
 systems:
 - ADAS
 - Visibility
@@ -36,8 +37,6 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 159 — Moving-Off Information Systems (MOIS)
 vehicle_categories:
-- Passenger car
-- Light truck
 - Heavy truck
 - Bus
 ---

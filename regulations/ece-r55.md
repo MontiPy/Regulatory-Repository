@@ -21,11 +21,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X0275
 status: in-force
-summary: Mechanical coupling components used to connect vehicles are the subject of
-  this regulation, but the provided text contains only a title and index reference
-  without specifying the detailed requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: e1e07224e4c5eaecbbaf065d772f30622fd1d590
+summary: UN Regulation No. 55 sets requirements for mechanical coupling devices and
+  components so that they are internationally mutually compatible. It applies to couplings
+  for motor vehicles and trailers forming combinations (including dollies) and articulated
+  vehicles with vertical load up to 200 kN. Text incorporates the 03 series of amendments
+  (in force 22 September 2024).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 3c34031e73891055d1f5d8f4e7d46ad841326923
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:38+00:00'

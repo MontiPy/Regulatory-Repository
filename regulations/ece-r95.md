@@ -23,11 +23,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1095
 status: in-force
-summary: The full text of UN Regulation No. 95 is not provided here, only a reference
-  link to an external source. Based solely on the available text, this entry identifies
-  UN R95 as an ECE regulation concerning side collision protection.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 144113bdbf6f07603d316ff61f3380808d94c29f
+summary: UN Regulation No. 95 sets requirements for protection of occupants in a lateral
+  (side) collision for vehicles of category M1 up to 3,500 kg (and heavier M1 with
+  the lowest seat R point not more than 700 mm above ground) and category N1. Approval
+  is based on a moving deformable barrier impact test of the passenger compartment,
+  including REESS and hydrogen storage aspects. Incorporates Supplement 1 to the 06
+  series (12 June 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b5dd6422dd2bc0f072a2686104d151b91c15eb81
 systems:
 - Crashworthiness
 - Restraints

@@ -24,8 +24,8 @@ status: in-force
 summary: Gas-discharge light sources for use in motor vehicle lighting systems are
   the subject of this regulation, which establishes approval requirements to ensure
   these components meet defined performance and safety standards.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 0a05fde92937ceb06abb0a341fa70d05edf17bf8
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 8533e2caacbfe4d8ac0bff870b3eea6a4273abf1
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'

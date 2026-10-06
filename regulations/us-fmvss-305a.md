@@ -7,6 +7,7 @@ commodities:
 - Charging inlet
 - Power electronics
 - Electric motors
+effective_date: '2027-09-01'
 id: us-fmvss-305a
 last_pulled: '2026-10-06T03:27:36+00:00'
 open_tags:
@@ -25,13 +26,18 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305a
-status: in-force
-summary: Electric powertrain integrity in electric-powered passenger cars, multipurpose
-  passenger vehicles, trucks, and buses with high-voltage propulsion systems (above
-  60 VDC or 30 VAC) capable of exceeding 40 km/h is regulated by this standard. It
-  requires protection against electric shock, electrolyte leakage, fire,...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 30a85ad3968c68d5b26b46b3acc55f339fc8790f
+status: upcoming
+status_note: Mandatory applicability begins 1 Sep 2027 for vehicles of 4,536 kg GVWR
+  or less and 1 Sep 2028 for heavier vehicles; small-volume manufacturers get one
+  more year.
+summary: FMVSS No. 305a specifies requirements for protection from electric shock,
+  fire, explosion and gas venting during normal operation and after a crash, including
+  electrolyte leakage and energy storage intrusion. It applies to passenger cars,
+  MPVs, trucks and buses with propulsion voltages above 60 VDC or 30 VAC and a top
+  speed over 40 km/h; mandatory from September 1, 2027 (4,536 kg GVWR or less) and
+  September 1, 2028 (heavier).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 49099a9e697511337d72eb68621d43b58cd5d20a
 systems:
 - Battery safety
 - EV charging

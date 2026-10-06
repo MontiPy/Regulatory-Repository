@@ -21,17 +21,20 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42018X1706
 status: in-force
-summary: Replacement brake lining assemblies and drum brake linings for vehicles are
-  regulated under UN R90, which establishes approval requirements to ensure replacement
-  brake friction components meet performance standards equivalent to original equipment
-  parts.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 60fcba751b78a25938f98fb6e76f95702a02708e
+summary: UN Regulation No. 90 covers approval of replacement brake lining assemblies,
+  drum brake linings, and replacement brake discs and drums for vehicles of categories
+  M, N, L and O that are type approved under UN Regulations 13, 13-H or 78. Original-equipment
+  parts and special parts are excluded. It sets performance and marking requirements
+  for the basic braking function. Incorporates Supplement 4 to the 02 series (16 October
+  2018).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 1416deb34020394858da2689eb958b729905b80e
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 90 — Replacement Brake Lining Assemblies and Drum Brake Linings
+title: UN Regulation No. 90 — Replacement Brake Lining Assemblies, Drum Brake Linings,
+  and Brake Discs and Drums
 vehicle_categories:
 - Passenger car
 - Light truck

@@ -24,12 +24,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1086
 status: in-force
-summary: Exhaust emissions from M1 and N1 category light-duty vehicles are regulated
-  under UN R83, which sets Euro 5/6 standards for pollutant limits and requires vehicles
-  to meet prescribed emissions testing and compliance procedures as defined by UNECE
-  WP.29.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 9c821d2e14b39bf593e5fc44edcbfef4685ed48d
+summary: UN Regulation No. 83 sets type-approval requirements for M1 and N1 vehicles
+  (N2 of 3.5-5 t derived from N1 on request) covering crankcase emissions (Type 3)
+  and low-ambient-temperature exhaust emissions (Type 6). It also lays down in-service
+  conformity rules for tailpipe and evaporative emissions, battery durability, brake
+  emissions and on-board monitoring, plus anti-tampering, security and cybersecurity.
+  Text is the 09 series, entry into force TBC September 2026.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 2d7eb8dded51f987f3ed5864ccade926f0cc19ca
 systems:
 - Emissions
 - On-board diagnostics

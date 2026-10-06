@@ -23,11 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X2276
 status: in-force
-summary: Vehicle alarm systems are the subject of this regulation, but the provided
-  text contains insufficient detail to summarize specific requirements or mandates
-  beyond its title and subject matter.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: a97c42a96234985aad72a5ccfd8d410c0dd1d778
+summary: UN Regulation No. 163 covers approval of vehicle alarm systems and of vehicles
+  with regard to a fitted vehicle alarm system, primarily for category M1 vehicles
+  and N1 vehicles with a maximum mass of 2 tonnes or less; other categories may be
+  approved at the manufacturer's request.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 2c481f719b75f76faa3ced26df2742a4a31197ca
 systems:
 - Theft prevention
 - Lighting & signaling
@@ -38,9 +39,6 @@ title: UN Regulation No. 163 — Vehicle Alarm Systems
 vehicle_categories:
 - Passenger car
 - Light truck
-- Motorcycle
-- Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42021X2276, 2021-12-30). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

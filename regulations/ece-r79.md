@@ -23,11 +23,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X0003
 status: in-force
-summary: Steering equipment on vehicles is the subject of this regulation, but the
-  provided text contains insufficient detail beyond a reference to the UNECE WP.29
-  index to describe its specific requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: a5992645e204f3b0373b20e935b4a5d93aaf6d21
+summary: UN Regulation No. 79 sets uniform provisions for approving vehicles of categories
+  M, N and O with regard to steering equipment, including electronic control systems,
+  corrective and automatically commanded steering functions, auxiliary steering and
+  trailer steering transmissions. It excludes purely pneumatic steering transmissions
+  and autonomous steering systems. Text incorporates Supplement 6 to the 04 series
+  (in force 10 January 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a6ac9912add5eb6adff012453fc4dcbd9c5011b7
 systems:
 - Steering
 - ADAS
@@ -38,7 +41,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 ---

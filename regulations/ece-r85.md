@@ -23,11 +23,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X1107(01)
 status: in-force
-summary: Net power and maximum 30-minutes power measurement for internal combustion
-  engines and electric drive trains used in motor vehicles is regulated here, requiring
-  standardized test methods to determine and declare engine or motor power output.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: f856bbed3f44d0cf4d06696cb1b6686b0f0d46b7
+summary: UN Regulation No. 85 covers approval of internal combustion engines and electric
+  drive trains for propulsion of M and N category vehicles with regard to the measurement
+  of net power and, for electric drive trains, maximum 30-minute power. It sets the
+  test methods and the declared power curve versus speed. Text incorporates Supplement
+  6 to the original version (in force 15 July 2013).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a6cb1f068f1cb6b11f43c6b974833305b8e30b8c
 systems:
 - Emissions
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -37,7 +39,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 ---
 

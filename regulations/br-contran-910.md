@@ -33,7 +33,7 @@ summary: CONTRAN Resolution 910/2022 sets occupant-protection requirements for f
   frontal-impact biomechanical criteria from 1 Jan 2024. Test results to UN R32, R34
   and R94 or FMVSS 203, 208 and 301 are accepted as an alternative.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 252e683a54dc0e584f5f15a8c8271648938a3b8c
+summary_hash: 5b1e1d894a86651e9c93c93834f9b1617322ab22
 systems:
 - Crashworthiness
 - Fuel safety

@@ -24,8 +24,8 @@ status: in-force
 summary: Tyres are regulated for rolling sound emission, wet adhesion, and rolling
   resistance, requiring compliance with specified performance limits and test procedures
   for each of these three properties.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 6468de1cc0cbc75e1a5c36c0fc6f2724cb5627d7
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: ab1350bedf05ba5634a629294e9537f11688720e
 systems:
 - Tires & wheels
 - Noise

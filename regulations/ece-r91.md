@@ -19,11 +19,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42010X0630(04)
 status: in-force
-summary: Side-marker lamps on vehicles are regulated under UN R91, but the provided
-  text contains only a reference link and does not include the specific requirements
-  or mandates of the regulation.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 98cd5a71c7eaa5038f0cd529243c87cced0e0d90
+summary: UN Regulation No. 91 applies to side-marker lamps for vehicles of categories
+  M, N, O and T, which indicate the presence of the vehicle when viewed from the side.
+  It sets markings, general specifications, light intensity, colour (amber or red),
+  test procedure and conformity-of-production requirements. Incorporates Supplement
+  11 to the original version (15 October 2008).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a08742194fa505f3bd151fa1b09f5086617edb7d
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:37+00:00'
@@ -33,9 +35,9 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42010X0630(04), 2010-06-30). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

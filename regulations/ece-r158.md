@@ -22,11 +22,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X0828
 status: in-force
-summary: Reversing detection technology on vehicles is the subject of this regulation,
-  but the provided text contains insufficient detail to summarize specific requirements
-  or mandates beyond what the title establishes.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 16ef2f45c76c60980f33900d49e33bb7648f3832
+summary: UN Regulation No. 158 covers approval of reversing-safety devices (Part I)
+  and of their installation in vehicles (Part II) for categories M and N, so that
+  the driver is aware of vulnerable road users behind the vehicle when reversing.
+  Entered into force 10 June 2021.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 758d25213c3b92df177e4b9875607b96a1dc1df9
 systems:
 - ADAS
 - Visibility

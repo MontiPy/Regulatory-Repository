@@ -25,8 +25,8 @@ summary: Steering mechanism design in passenger vehicles requires that the syste
   protect the driver from serious injury during a frontal impact by limiting the rearward
   displacement of the steering column and controlling the force transmitted to the
   driver's body.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: d0c309afae6da655f8401bf66759b5bab97b8247
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 572e0ebc5cce1433b58aec43a32578e383407dc3
 systems:
 - Steering
 - Crashworthiness

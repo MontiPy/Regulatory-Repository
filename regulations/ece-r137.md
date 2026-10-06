@@ -26,12 +26,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1862
 status: in-force
-summary: Frontal impact occupant restraint systems in vehicles are regulated under
-  UN R137, which requires compliance with performance standards designed to protect
-  occupants during frontal crash events, as specified in the full UNECE WP.29 regulatory
-  text.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 510268ad0e51a1323658888f0db884c42e9f0fe7
+summary: Sets frontal collision requirements, with focus on the restraint system,
+  for category M1 vehicles up to 3,500 kg maximum mass and for category N1 vehicles.
+  It specifies full-width rigid barrier impact tests, dummy injury criteria and, for
+  electric power train vehicles, post-crash electrical safety. Incorporates the 02
+  series of amendments (in force 9 June 2021).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 36c664bc54e2ab1bca6da4a1a471ffbbda4c9a57
 systems:
 - Crashworthiness
 - Restraints

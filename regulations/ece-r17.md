@@ -24,8 +24,8 @@ status: in-force
 summary: Seats, their anchorages, and head restraints in motor vehicles are regulated
   under UN R17, which establishes requirements for their strength, safety, and performance
   to protect occupants in the event of a collision.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 1802f43cd8e89573b9299bd2f978e41277a99877
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 8f59925dcebe08177e834d4774d720bbbe2bf9b8
 systems:
 - Crashworthiness
 - Restraints

@@ -26,8 +26,8 @@ status: in-force
 summary: External projections on passenger vehicles are regulated, requiring that
   the design of a vehicle's exterior minimize the risk of injury to pedestrians and
   other road users upon contact.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 744877925cb1fe1de7f8e4a448c035741cc6088f
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: e47ebe4d26b4fd672dbd53b103171eadd2cd8733
 systems:
 - Crashworthiness
 - Pedestrian protection
@@ -36,7 +36,6 @@ tagging_status: llm-tagged
 title: UN Regulation No. 26 — External Projections
 vehicle_categories:
 - Passenger car
-- Light truck
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42022X0082, 2022-01-20). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

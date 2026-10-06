@@ -22,12 +22,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.213
 status: in-force
-summary: Child restraint systems used in motor vehicles and aircraft, manufactured
-  before December 5, 2026, are regulated under this standard to reduce child deaths
-  and injuries in crashes. It sets safety requirements for add-on and built-in child
-  restraint systems, including booster seats, car beds, harnesses, and rear-facing...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: f30d3c1095c38b20309263fd56d3c2020fc5d160
+summary: FMVSS No. 213 sets requirements for child restraint systems used in motor
+  vehicles and aircraft, including add-on, built-in, booster, belt-positioning and
+  car-bed types, to reduce child deaths and injuries in crashes. It applies to passenger
+  cars, MPVs, trucks and buses and to child restraint systems manufactured before
+  December 5, 2026; FMVSS No. 213b applies from that date.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 25b54292a5d1392408296a20e56710a3b2ebf466
 systems:
 - Restraints
 - Crashworthiness

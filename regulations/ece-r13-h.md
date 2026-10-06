@@ -23,11 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X0502
 status: in-force
-summary: Braking systems on passenger cars are the subject of this regulation, but
-  the provided text contains only a title and external reference link without specifying
-  the detailed requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 68e29f4bdbfb24042be825c1c820621b8873f6ec
+summary: Sets braking requirements for passenger cars and light goods vehicles of
+  categories M1 and N1, with test procedures and performance requirements. It does
+  not cover, for example, vehicles with a design speed not exceeding 25 km/h. Incorporates
+  the 02 series of amendments (in force 12 June 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 19ec7aaa1d40b847dc87aeb1c8fe954a80e6a375
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -35,6 +36,7 @@ tagging_status: llm-tagged
 title: UN Regulation No. 13-H — Braking of Passenger Cars
 vehicle_categories:
 - Passenger car
+- Light truck
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42026X0502, 2026-04-13). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

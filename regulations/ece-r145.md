@@ -20,11 +20,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X0906
 status: in-force
-summary: ISOFIX anchorage systems and top tether anchorages in vehicles are regulated
-  under UN R145, which establishes requirements for their design, installation, and
-  strength to ensure secure attachment points for child restraint systems.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 20191846f7dd537a1412d7a4e79883586a3c19cd
+summary: Sets requirements for ISOFIX anchorage systems, ISOFIX top tether and lower
+  tether anchorages for child restraint systems in M1 vehicles, and for other vehicle
+  categories that are fitted with them. It also covers i-Size seating positions in
+  any vehicle category where defined by the manufacturer. Incorporates Supplement
+  1 to the 01 series, with Corrigendum 1 (in force 12 November 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 2535cf8d5aa5ad4fef4145a9a7413f6232056af5
 systems:
 - Restraints
 - Crashworthiness

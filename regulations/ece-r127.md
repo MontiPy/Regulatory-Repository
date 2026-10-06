@@ -23,11 +23,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X0460
 status: in-force
-summary: UN Regulation No. 127 addresses pedestrian safety requirements for vehicles,
-  but the provided text contains only a reference link to the full regulation rather
-  than substantive content to summarize.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: cc55d7f51b6da33bdf8119201a6ca6d32395c631
+summary: Sets pedestrian safety performance requirements for motor vehicles of categories
+  M1 and N1, tested by impacting the front of the vehicle. Certain N1 vehicles with
+  the driver's R-point forward of, or close behind, the front axle are exempted, as
+  are heavier M1 vehicles derived from them. Incorporates Supplement 2 to the 04 series
+  of amendments (in force 17 May 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 3e6017a46aae0812b55858174f4ab9d79d9a6595
 systems:
 - Pedestrian protection
 - Crashworthiness

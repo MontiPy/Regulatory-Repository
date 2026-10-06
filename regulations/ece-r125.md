@@ -21,11 +21,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X0891
 status: in-force
-summary: The forward field of vision for motor vehicle drivers is regulated, requiring
-  that drivers have an adequate, unobstructed view of the road ahead. Full regulatory
-  details are available through the UNECE WP.29 Regulations index.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 837e5c965bcb2f5e46aec951d968c4771d1b18de
+summary: Sets requirements for the 180-degree forward field of vision of drivers of
+  category M1 and N1 vehicles, to ensure an adequate view when the windscreen and
+  other glazed surfaces are dry and clean. It covers obstruction by pillars and other
+  vehicle parts and includes a test procedure. Incorporates the 03 series of amendments
+  (in force 17 May 2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 335a8200378d5c8d0d78db6c22fc04cc6a3c0574
 systems:
 - Visibility
 - Glazing

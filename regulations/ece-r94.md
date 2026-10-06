@@ -28,11 +28,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1075
 status: in-force
-summary: Frontal collision protection for passenger vehicles is the subject of this
-  regulation, but the provided text contains only a reference link and does not state
-  specific requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 0b3f561d527f2c33576f90fa2230a21009a12d2f
+summary: UN Regulation No. 94 sets requirements for protection of occupants in a frontal
+  collision for vehicles of category M1 up to 3,500 kg and N1 up to 2,500 kg (others
+  at the manufacturer's request). Vehicle types are approved on the results of an
+  offset deformable-barrier impact test, covering the protective system, steering
+  and structural behaviour. Text incorporates Supplement 1 to the 05 series (12 June
+  2025).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: e29df2ac70f05fa456a99f9fedf966519ff4cba0
 systems:
 - Crashworthiness
 - Restraints

@@ -21,24 +21,21 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42012X0216(01)
 status: in-force
-summary: 'The full regulatory text was not provided, so only the title and citation
-  can be confirmed: UN R116 establishes requirements related to the protection of
-  motor vehicles against unauthorized use, as administered under the UNECE WP.29 framework.'
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 8ad0b72ac303e850361e937ae44d71baf64efdf4
+summary: UN Regulation No. 116 sets uniform technical prescriptions for protecting
+  motor vehicles against unauthorised use. It covers devices to prevent unauthorised
+  use (Part I), vehicle alarm systems (Parts II and III) and immobilisers (Part IV),
+  for vehicles of category M1 and N1 (alarm and immobiliser parts limited to N1 up
+  to 2 tonnes). Text incorporates Supplement 3 to the original version (23 June 2011).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: fb266b21d38d615ce9b9d2677f16b1ad10b106cd
 systems:
 - Theft prevention
-- Cybersecurity
-- Vehicle identification
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 116 — Protection of Motor Vehicles against Unauthorized Use
 vehicle_categories:
 - Passenger car
 - Light truck
-- Motorcycle
-- Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42012X0216(01), 2012-02-16). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

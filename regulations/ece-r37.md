@@ -21,11 +21,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0718(02)
 status: in-force
-summary: Filament light sources used in motor vehicle lighting equipment are the subject
-  of this regulation, but the provided text contains only a reference link and does
-  not state specific requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: e3ca838c336fe50628d3807d516c8d7d855211a1
+summary: UN Regulation No. 37 sets uniform provisions for approval of filament lamps
+  (bulbs) shown in its Annex 1, for use in approved lamp units of power-driven vehicles
+  and their trailers. It covers lamp categories such as H4, P21W and T4W, with type
+  definitions, approval marking, colour checks and conformity of production. Text
+  incorporates Supplement 42 to the 03 series (in force 10 June 2014).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 4460ed5c5ebb4aec14dcd2c1a83c1e09efd2d585
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:36+00:00'

@@ -21,11 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0822(01)
 status: in-force
-summary: Front fog lamps for motor vehicles are the subject of this regulation, but
-  the provided text contains only a reference link and does not include the substantive
-  requirements or mandates.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 29efd68460985a09c0c902927b38575c1504564d
+summary: UN Regulation No. 19 sets uniform provisions for the approval of power-driven
+  vehicle front fog lamps. It applies to front fog lamps for vehicles of categories
+  L3, L4, L5, L7, M, N and T (04 series, Supplement 6).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b2c0dde9881bd79148ab312789cc4e901092d604
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'
@@ -37,7 +37,7 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0822(01), 2014-08-22). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

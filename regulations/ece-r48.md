@@ -26,8 +26,8 @@ status: in-force
 summary: The installation of lighting and light-signalling devices on vehicles is
   regulated, requiring that such devices be positioned, oriented, and combined on
   the vehicle in accordance with specified technical and visibility standards.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 647bd4b759137c2559d4cc4f92c78c5b41b20df0
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 443e1981376051263564015039c05ac297406aec
 systems:
 - Lighting & signaling
 - Visibility
@@ -39,7 +39,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 ---

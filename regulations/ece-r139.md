@@ -23,11 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42018X1591
 status: in-force
-summary: Brake Assist Systems (BAS) on vehicles are regulated under UN R139, which
-  is administered by UNECE WP.29, but the full regulatory text is not provided here
-  and only a reference link to the external source is given.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 0ada7853809150b81c4ce153dc69cbd691f9d42d
+summary: Sets approval requirements for Brake Assist Systems (BAS) on passenger cars
+  and light goods vehicles of categories M1 and N1. BAS must detect emergency braking
+  and boost brake pressure, verified by a test with the ABS fully cycling. Incorporates
+  Supplement 1 to the original version (in force 29 December 2018).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a063f21c1037703460147e63bc1e783dae48d9c4
 systems:
 - Braking
 - ADAS

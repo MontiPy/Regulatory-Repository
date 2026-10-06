@@ -18,11 +18,11 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0808(01)
 status: in-force
-summary: Reversing lamps on motor vehicles are the subject of this regulation, but
-  the provided text contains no substantive content beyond a reference to an external
-  source and cannot be further summarized.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 1afb895fbf21b5d3722e2e584e8b5dd25ec2e231
+summary: UN Regulation No. 23 sets uniform provisions for the approval of reversing
+  and manoeuvring lamps for power-driven vehicles and their trailers, covering reversing
+  lamps for vehicles of categories M, N, O and T.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: e776670cd87f99fa594a41c8fe480a6139373547
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:38+00:00'
@@ -32,7 +32,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 - Off-road

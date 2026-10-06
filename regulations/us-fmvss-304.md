@@ -22,12 +22,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.304
 status: in-force
-summary: Compressed natural gas (CNG) fuel containers used on passenger cars, multipurpose
-  passenger vehicles, trucks, and buses are regulated to reduce fire-related deaths
-  and injuries from fuel leakage in crashes. The standard requires CNG containers
-  to pass pressure cycling, hydrostatic burst, and bonfire tests, be equipped...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 7886a2c6b333fbfea003bab917e2bb4087c066c8
+summary: FMVSS No. 304 specifies integrity requirements for compressed natural gas
+  (CNG) motor vehicle fuel containers, to reduce deaths and injuries from fires caused
+  by fuel leakage during and after crashes. It applies to each passenger car, MPV,
+  truck and bus that uses CNG as a motor fuel and to each container designed to store
+  CNG on board any motor vehicle.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 37b56baaa7df9ca92c47fa89dcad3c1246505e1b
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'

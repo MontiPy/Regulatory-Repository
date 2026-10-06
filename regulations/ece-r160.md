@@ -21,11 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1215
 status: in-force
-summary: Event Data Recorders (EDRs) in vehicles are regulated under UN R160, but
-  the provided text contains no substantive detail beyond a reference to an external
-  source, so only its subject and title can be confirmed from the text supplied.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 2e1fa54440fbe4e21aac37fe724897dd0965da5e
+summary: UN Regulation No. 160 (01 series) covers approval of vehicles of categories
+  M1 and N1 with regard to their Event Data Recorder (EDR), setting requirements for
+  the recording and retention of crash-related vehicle data.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a99284dbca9029f43e9554fda197df97f984085f
 systems:
 - On-board diagnostics
 - Crashworthiness

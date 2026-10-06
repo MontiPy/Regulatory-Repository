@@ -17,12 +17,14 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-585
 status: in-force
-summary: Phase-in reporting requirements for vehicle manufacturers mandate that manufacturers
-  submit reports to NHTSA identifying their compliance with applicable Federal Motor
-  Vehicle Safety Standards during phase-in periods, including details on vehicle counts,
-  production years, and responsible officials. Subpart B...
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 51aa65922f77cfe3131628690a4e4229bb7bbc5a
+summary: '49 CFR Part 585 sets reporting requirements for manufacturers to submit
+  phase-in reports to NHTSA showing compliance with specific FMVSS phase-ins. It covers
+  general report content, multi-manufacturer vehicles and extension petitions, plus
+  standard-specific subparts: FMVSS 208 Appendix A-1 child restraints, minimum sound
+  for hybrid and electric vehicles, child restraint anchorage systems, and event data
+  recorders.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 577e663d1ebfce9acad82f06bfba7e466ab2d9ed
 systems:
 - Restraints
 - Crashworthiness

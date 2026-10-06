@@ -21,16 +21,24 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1720
 status: in-force
-summary: 'UN R149 is the consolidated road-illumination regulation: passing- and driving-beam
-  headlamps, adaptive front-lighting systems (AFS), front fog and cornering lamps.
-  It replaces R98, R112, R113, R119 and R123 for new approvals.'
+summary: 'Sets approval requirements for road illumination devices: driving-beam and
+  passing-beam headlamps for categories L, M, N and T, adaptive front-lighting systems
+  (AFS) for M and N, and front fog and cornering lamps. It consolidates UN Regulations
+  Nos. 19, 98, 112, 113, 119 and 123 without changing technical requirements.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 55f0b75430dcc4810f4c9d4f76927c027fb61a1e
+summary_hash: b916a1d35ed318dab8980f0ea3b93f6f65a52280
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 149 — Road Illumination Devices (RID)
+un_equivalent_ai:
+- UN R19
+- UN R98
+- UN R112
+- UN R113
+- UN R119
+- UN R123
 vehicle_categories:
 - Passenger car
 - Light truck

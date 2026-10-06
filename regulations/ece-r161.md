@@ -24,7 +24,7 @@ summary: UN R161 sets uniform provisions for protecting motor vehicles against u
   use and for approving the locking device used for this purpose. (Pedal-misapplication
   control is UN R175.)
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 3aa9dc7046b09cff55e9217d1fb3c0b38cbe6fa4
+summary_hash: 2ccc5e277d16c02d65d09ff7362168980a8250f5
 systems:
 - Theft prevention
 tagged_at: '2026-06-16T15:44:38+00:00'

@@ -21,12 +21,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42010X0630(03)
 status: in-force
-summary: Daytime running lamps (DRL) on motor vehicles are the subject of this regulation,
-  which establishes approval requirements governing their performance, installation,
-  and photometric characteristics to ensure adequate visibility of vehicles during
-  daylight conditions.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: 6be38e880db16ad7f780c471ffa76a1cbd527502
+summary: UN Regulation No. 87 applies to daytime running lamps for vehicles of categories
+  L, M, N and T. It defines the lamp as a forward-facing lamp that makes the vehicle
+  more easily visible in daytime and sets requirements for markings, general specification,
+  luminous intensity, apparent surface, colour, test procedure and heat resistance,
+  plus conformity of production. Incorporates Supplement 14 to the original version
+  (24 October 2009).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 4b9e1a42cd613223ddca7a8e8d17ad9cda62dff4
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:39+00:00'
@@ -35,9 +37,11 @@ title: UN Regulation No. 87 — Daytime Running Lamps (DRL)
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Motorcycle
 - Bus
 - Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42010X0630(03), 2010-06-30). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

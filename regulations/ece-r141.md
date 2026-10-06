@@ -23,12 +23,11 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X1463
 status: in-force
-summary: Tyre Pressure Monitoring Systems (TPMS) on vehicles are regulated under UN
-  R141, which establishes requirements for their approval within ECE member countries.
-  The full regulatory text is maintained by the UNECE WP.29 body and must be referenced
-  directly for specific technical and compliance details.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 05bb2c39536c9cddb58d55bdb26eef66aa66f01d
+summary: Sets requirements for tyre pressure monitoring systems (TPMS) on vehicles
+  of categories M1 up to 3,500 kg, M2, M3, N1, N2, N3, O3 and O4 that are fitted with
+  such a system. Incorporates the 01 series of amendments (in force 30 September 2021).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 634e11a766acef08c6c2365855a76f1a92743209
 systems:
 - Tires & wheels
 - Tell-tales & controls
@@ -39,6 +38,9 @@ title: UN Regulation No. 141 — Tyre Pressure Monitoring Systems (TPMS)
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
+- Bus
+- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42021X1463, 2021-09-13). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

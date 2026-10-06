@@ -22,8 +22,8 @@ status: in-force
 summary: Rear fog lamps on motor vehicles are the subject of this regulation, which
   establishes approval requirements governing their construction, performance, and
   installation to ensure adequate visibility in conditions of poor visibility.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 765534b084fd9107469137293c78262e1c936d27
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 965be882761260d13621238e22b8957359498dd4
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:36+00:00'

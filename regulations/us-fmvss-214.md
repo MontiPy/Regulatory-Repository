@@ -22,12 +22,13 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.214
 status: in-force
-summary: Side impact protection for passenger cars, multipurpose passenger vehicles,
-  trucks, and buses with a GVWR of 10,000 lb or less requires these vehicles to meet
-  specified performance standards — including side door crush resistance, a moving
-  deformable barrier crash test, and a vehicle-to-pole test — to reduce the risk...
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 62d14e9aea4cffffb544a3dc3e6020a6bed1d757
+summary: FMVSS No. 214 specifies performance requirements for occupant protection
+  in side impacts, to reduce the risk of serious and fatal injury. It applies to passenger
+  cars and to MPVs, trucks and buses with a GVWR of 4,536 kg (10,000 lb) or less (walk-in
+  vans excepted), through side door strength requirements and limits on forces, deflections
+  and accelerations measured on dummies in crash tests.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: a99ed1af98ae06942b6f7f0f4eebc6ee55590625
 systems:
 - Crashworthiness
 - Restraints

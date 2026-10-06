@@ -27,8 +27,8 @@ summary: Rear-view devices and their installation on motor vehicles are the subj
   of this regulation, which establishes requirements governing the approval and fitment
   of mirrors and other rear-view systems to ensure drivers have adequate indirect
   vision around their vehicles.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 09dd4647184056fdf7aee3b5e5785ea5c26a5df0
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: dac0878e7775ab7a86d3dff708a8293241f4aa19
 systems:
 - Visibility
 - ADAS

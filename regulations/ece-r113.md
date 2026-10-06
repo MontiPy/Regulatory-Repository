@@ -21,12 +21,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0614(02)
 status: in-force
-summary: Headlamps emitting a symmetrical low-beam or driving beam are the subject
-  of this regulation, but the provided text contains only a reference link to the
-  full regulation rather than its substantive requirements, so no specific mandates
-  can be summarized from the text as given.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: ff34a6264c3a73f488085137cc68cf5e7cea738d
+summary: UN Regulation No. 113 sets uniform approval provisions for motor vehicle
+  headlamps emitting a symmetrical passing beam or a driving beam or both, equipped
+  with filament lamps, gas-discharge light sources or LED modules. It applies to headlamps
+  for vehicles of categories L and T only. Text incorporates Supplement 3 to the 01
+  series.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: f1a043a1f63f58b55326b1a8c19420c31d771beb
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -34,12 +35,8 @@ tagging_status: llm-tagged
 title: UN Regulation No. 113 — Headlamps Emitting a Symmetrical Low-Beam or a Driving
   Beam
 vehicle_categories:
-- Passenger car
-- Light truck
-- Heavy truck
 - Motorcycle
-- Bus
-- Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0614(02), 2014-06-14). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

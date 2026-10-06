@@ -22,11 +22,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42018X0629
 status: in-force
-summary: The full regulatory text was not provided, so only the title and citation
-  are available. UN Regulation No. 16 covers safety belts and restraint systems in
-  vehicles, as administered under the UNECE WP.29 framework.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: aafbe3116834f29abd5070e97af152f80f9a540e
+summary: UN Regulation No. 16 covers safety-belts, restraint systems, child restraint
+  systems and ISOFIX/i-Size systems, and the installation of safety-belts, belt reminders
+  and child restraints in vehicles. It applies to categories M, N, O, L2, L4-L7 and
+  T, with child restraint installation for M1 and N1 (M2/M3 on request).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: e4ce95f00d271d9cc0a128f92d302e08de227cf3
 systems:
 - Restraints
 - Crashworthiness
@@ -39,6 +40,8 @@ vehicle_categories:
 - Heavy truck
 - Bus
 - Motorcycle
+- Trailer
+- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42018X0629, 2018-04-27). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

@@ -20,12 +20,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42010X1126(01)
 status: in-force
-summary: Temporary-use spare units, run-flat tyres, and run-flat systems fitted to
-  vehicles are the subject of this regulation, which establishes approval requirements
-  governing their performance and use. The full regulatory text is maintained by UNECE
-  WP.29.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: d233ddf2e1e78d80cab6e4d8cabe2d40a78ab82c
+summary: UN Regulation No. 64 sets uniform provisions for approval of vehicles of
+  categories M1 and N1 equipped with a temporary-use spare unit, run-flat tyres and/or
+  a run-flat system, and/or a tyre pressure monitoring system (TPMS). It includes
+  tests for TPMS. Text incorporates the 02 series of amendments (in force 19 August
+  2010).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: bb8a68f284a524e89ca868c703dc98ee57772613
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:39+00:00'

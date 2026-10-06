@@ -4,6 +4,7 @@ commodities:
 - Fuel system
 - Fuel tanks
 - Hoses & lines
+effective_date: '2028-09-01'
 id: us-fmvss-307
 last_pulled: '2026-10-06T03:27:41+00:00'
 open_tags:
@@ -22,13 +23,15 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.307
-status: in-force
-summary: The fuel system integrity of hydrogen vehicles covers requirements for compressed
-  hydrogen fuel systems in motor vehicles manufactured on or after September 1, 2028.
-  It mandates that hydrogen fuel systems prevent leakage and reverse flow, includes
-  labeling requirements near fueling receptacles, and establishes...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 94aab1cb186cc9949db8bbf8a30be62900c8464e
+status: upcoming
+status_note: Applies to vehicles manufactured on or after 1 Sep 2028.
+summary: FMVSS No. 307 specifies requirements for the integrity of motor vehicle hydrogen
+  fuel systems, to reduce deaths and injuries from fires caused by hydrogen leakage
+  during operation and after crashes. It applies to each motor vehicle manufactured
+  on or after September 1, 2028 that uses compressed hydrogen gas as a fuel source
+  to propel the vehicle.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 61031845a218895b1b22675eb4c0c5b145a4cec1
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'

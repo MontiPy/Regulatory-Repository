@@ -23,8 +23,8 @@ status: in-force
 summary: Head restraints (headrests) in vehicles are regulated under UN R25, which
   establishes requirements for their design, performance, and testing to reduce whiplash
   and neck injuries to occupants.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 11a798c159d7cd716dc4f687a30aaf5a87b34cc8
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: e17e403ef82d52d54406b20dd1352deaafc748e2
 systems:
 - Restraints
 - Crashworthiness

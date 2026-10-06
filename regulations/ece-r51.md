@@ -2,7 +2,6 @@
 citation: UN R51
 commodities:
 - Exhaust
-- Horn
 id: ece-r51
 last_pulled: '2026-10-06T03:33:19+00:00'
 open_tags:
@@ -25,11 +24,10 @@ status: in-force
 summary: Sound emissions from M and N category motor vehicles (passenger cars and
   commercial vehicles) are regulated under this rule, which establishes noise limits
   and test procedures that such vehicles must meet for type approval.
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: e66d9c76825b949a2d89761d8a60ee205fca0231
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: b570943c2b36b00704bbd427ab9fa98b4e0df65a
 systems:
 - Noise
-- Emissions
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 51 — Noise of M and N Category Motor Vehicles

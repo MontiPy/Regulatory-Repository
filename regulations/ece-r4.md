@@ -14,11 +14,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42009X0131(02)
 status: in-force
-summary: The full regulatory text was not provided, so only the title and citation
-  are available. UN Regulation No. 4 covers the illumination of rear registration
-  plates on vehicles.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: e7f3ad55bd8b1266b53d9776ff237b12f854291a
+summary: UN Regulation No. 4 sets uniform provisions for approval of devices for illumination
+  of rear registration plates of power-driven vehicles and their trailers. It applies
+  to rear registration plate lamps for vehicles of categories M, N, O and T and covers
+  markings, light colour, incidence of light and photometric characteristics.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: ba1cdb2573bc2d37b3e33701a3a48d975301bda1
 systems:
 - Lighting & signaling
 - Vehicle identification
@@ -29,7 +30,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 ---

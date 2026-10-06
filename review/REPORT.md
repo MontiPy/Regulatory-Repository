@@ -209,3 +209,19 @@ Judgement calls worth checking (taken from the patch writers' notes):
 - **GCC and India:** the standards are sold or have no free text, so these stay as summaries.
 - Embedded base64 figures were replaced with "Figure omitted" markers, keeping `regulations/` at about 36 MB.
 - 183 summaries are flagged stale because their body changed. They need re-checking against the new text.
+
+### Phase 4b: metadata checked against the re-pulled text (2026-10-06)
+
+Ten verifier agents (`review/VERIFY_BRIEF.md`) checked every record whose body changed in the re-pull, using the regulation's own scope, applicability and dates. Results:
+- 183 records checked: 54 summaries confirmed and 129 rewritten. Most of the old summaries were template text that claimed the record had no text.
+- Vehicle categories corrected to match each scope clause on about 40 records (UN categories L/M/N/O/T mapped to the taxonomy).
+- `un_equivalent` for Australian ADRs now comes from each ADR's own "alternative standards" clause. Machine-suggested duplicates were removed on 33 records.
+- FMVSS 305a, 307 and 308 set to `upcoming`, because their mandatory dates fall in 2027–2028.
+- `br-anatel-cert` was excluded: the re-pull returned a generic landing page, so its previous body was restored.
+- No summaries are flagged stale any more.
+
+Worth a human look:
+- ADR 72/01 and ADR 68/01 first apply on 2026-11-01 but are marked `in-force` (the instrument is made; application is phased).
+- UN R83 (09 series) and R160 (01 series) say "entry into force TBC" in the OJ text.
+- The ADR 30/01 compilation header refers to ADR 79/05, which looks like an error in the source.
+- Some loose commodity and system tags remain where the taxonomy has no better value.

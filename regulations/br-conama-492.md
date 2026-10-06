@@ -28,7 +28,7 @@ summary: 'CONAMA Resolution 492/2018 establishes PROCONVE phases L7 and L8 for n
   It also specifies NMOG reporting and calculation, and requires L7/L8 vehicles to
   meet OBD Br2 until an OBD Br3 standard is regulated.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: dfd550716dd91d724197d8baba2f7968461e8add
+summary_hash: 7c74cd89d5a7e71da6c4e975ee9b7c31b509c9f0
 systems:
 - Emissions
 - On-board diagnostics

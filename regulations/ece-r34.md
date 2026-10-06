@@ -22,11 +22,14 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X1454
 status: in-force
-summary: The full text of UN Regulation No. 34 is not provided here, only a reference
-  link to the UNECE WP.29 index. Based solely on the title, this regulation addresses
-  the prevention of fire risk related to fuel tanks on vehicles.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: 5f5a246f6e4855d020689eacb7f93f85ad44f52b
+summary: UN Regulation No. 34 sets uniform provisions for approval of vehicles with
+  regard to the prevention of fire risks. It applies to liquid fuel tanks on vehicles
+  of categories M, N and O and to installation of liquid fuel tanks on M1 and N1 vehicles
+  up to 2.8 tonnes, with tank requirements, tests and approval of tanks as separate
+  technical units. Text incorporates the 04 series of amendments (in force 5 June
+  2023).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: d8763b63d0b659c297a9db9acada0dabe4e99b36
 systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -36,10 +39,8 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
-- Off-road
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42025X1454, 2025-07-29). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

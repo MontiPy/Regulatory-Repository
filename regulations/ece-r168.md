@@ -23,12 +23,12 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42024X0211
 status: in-force
-summary: The provided text contains only a reference link and does not include the
-  substantive regulatory content needed for a meaningful summary. The text plainly
-  establishes that UN Regulation No. 168 addresses Real Driving Emissions (RDE) under
-  the ECE region, directing readers to the UNECE WP.29 index for the full...
-summary_generated_at: '2026-06-22T17:48:29+00:00'
-summary_hash: 003a2783f4167f00a92adff2fc28f457fe530818
+summary: 'UN Regulation No. 168 covers type approval of light-duty vehicles with regard
+  to real driving emissions (RDE): M1 vehicles up to 2,610 kg reference mass and M2/N1
+  vehicles up to 2,610 kg reference mass and 3,500 kg technically permissible maximum
+  laden mass. Entered into force 26 March 2024.'
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 5bd536a480855baeedc4b26e6dc6867e24d685af
 systems:
 - Emissions
 - On-board diagnostics

@@ -22,18 +22,19 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X0746
 status: in-force
-summary: Braking systems on M (passenger), N (goods), and O (trailer) category vehicles
-  are regulated under UN R13, which establishes requirements for braking performance,
-  anti-lock braking systems, and related components to ensure safe vehicle deceleration.
-summary_generated_at: '2026-06-22T17:48:27+00:00'
-summary_hash: d8d7e0f6c5ae68a38c15e174f0520c22ce71bac7
+summary: Sets braking requirements for vehicles of categories M2, M3, N and O, covering
+  service, secondary and parking braking, anti-lock braking, electronic braking and
+  trailer compatibility, with test procedures. It does not cover, for example, vehicles
+  with a design speed not exceeding 25 km/h. Incorporates Supplement 1 to the 15 series
+  of amendments (in force 11 January 2026).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 05e9f6a7061fb5d2aaf58094d61047780315e12a
 systems:
 - Braking
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: UN Regulation No. 13 — Braking of M, N and O Category Vehicles
 vehicle_categories:
-- Passenger car
 - Light truck
 - Heavy truck
 - Bus

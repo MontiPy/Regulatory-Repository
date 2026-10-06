@@ -21,11 +21,13 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42014X0614(01)
 status: in-force
-summary: Gas-discharge light source headlamps are the subject of this regulation,
-  but the provided text contains only a reference link and no substantive regulatory
-  content to summarize.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: edafee36a5ef3857c2bfde2d223ed5c4f1b4e40e
+summary: UN Regulation No. 98 applies to headlamps and distributed lighting systems
+  using gas-discharge light sources, for vehicles of categories M, N and L3. It sets
+  requirements for markings, general specifications, illumination (beam pattern) and
+  glare, plus conformity of production. Incorporates Supplement 4 to the 01 series
+  of amendments (15 July 2013).
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: 4bc256f229bb966145a4d8291833f1a42d2840c8
 systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:35+00:00'
@@ -37,7 +39,6 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0614(01), 2014-06-14). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.
