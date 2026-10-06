@@ -3,7 +3,7 @@ citation: 49 CFR §571.216a
 commodities:
 - Body structure
 id: us-fmvss-216a
-last_pulled: '2026-06-01T18:41:12+00:00'
+last_pulled: '2026-10-06T03:26:48+00:00'
 open_tags:
 - roof crush resistance
 - roof panel
@@ -63,8 +63,6 @@ S3.1 Application.
 (1) Vehicles built in two or more stages, other than vehicles built using a chassis cab;
 
 (2) Vehicles with a GVWR greater than 2,722 kilograms (6,000 pounds) that have an altered roof as defined by S4 of this section.
-
-(c) Manufacturers may comply with the standard in this § 571.216a as an alternative to § 571.216.
 
 S3.2 Selection of compliance option. Where manufacturer options are specified, the manufacturer shall select the option by the time it certifies the vehicle and may not thereafter select a different option for the vehicle. Each manufacturer shall, upon the request from the National Highway Traffic Safety Administration, provide information regarding which of the compliance options it selected for a particular vehicle or make/model.
 
@@ -182,4 +180,4 @@ S9 Vehicles with a GVWR above 2,722 kilograms (6,000 pounds).
 
 (b) Vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having previously been certified in accordance with part 567 of this chapter are not subject to the requirements of S8.1 through S8.3. Instead, all vehicles produced by these manufacturers on or after September 1, 2017 must comply with this standard.
 
-*[74 FR 22384, May 12, 2009, as amended at 75 FR 17605, Apr. 7, 2010; 77 FR 768, Jan. 6, 2012; 87 FR 18599, Mar. 30, 2022]*
+*[74 FR 22384, May 12, 2009, as amended at 75 FR 17605, Apr. 7, 2010; 77 FR 768, Jan. 6, 2012; 87 FR 18599, Mar. 30, 2022; 91 FR 33081, June 3, 2026]*

@@ -4,7 +4,7 @@ commodities:
 - Exhaust
 - Fuel system
 id: br-conama-492
-last_pulled: '2026-06-01T18:53:23+00:00'
+last_pulled: '2026-10-06T03:24:48+00:00'
 open_tags:
 - NMOG emissions
 - NOx limits
@@ -697,9 +697,9 @@ abastecimento(5)
 
 6 
 
-15 
-
 80 
+
+15 
 
 1000 
 
@@ -1086,11 +1086,11 @@ IPM = Índice potência massa = (Pn/mro) * 1000 kg/kW, onde:
 - mro é a massa em ordem de marcha do veículo definida pela Res. CONAMA 15/95, expressa em 
 kg 
 
+78 
+
 75 
 
 76 
-
-78 
 
   
   

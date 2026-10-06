@@ -5,7 +5,7 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 id: us-fmvss-301
-last_pulled: '2026-06-01T18:41:50+00:00'
+last_pulled: '2026-10-06T03:27:25+00:00'
 open_tags:
 - fuel spillage
 - fuel tank integrity
@@ -73,37 +73,9 @@ S6. Test requirements. Each vehicle with a GVWR of 4,536 kg or less shall be cap
 
 S6.1 Frontal barrier crash. When the vehicle travelling longitudinally forward at any speed up to and including 48 km/h impacts a fixed collision barrier that is perpendicular to the line of travel of the vehicle, or at any angle up to 30° in either direction from the perpendicular to the line of travel of the vehicle, with 50th-percentile test dummies as specified in part 572 of this chapter at each front outboard designated seating position and at any other position whose protection system is required to be tested by a dummy under the provisions of Standard No. 208, under the applicable conditions of S7., fuel spillage shall not exceed the limits of S5.5.
 
-S6.2 Rear moving barrier crash. (a) Vehicles manufactured before September 1, 2006. When the vehicle is impacted from the rear by the barrier specified in S7.3(a) of this standard moving at 48 km/h, with 50th percentile test dummies as specified in part 572 of this chapter at each front outboard designated seating position, under the applicable conditions of S7, fuel spillage must not exceed the limits of S5.5.
+S6.2 Rear moving barrier crash. When the vehicle is impacted from the rear by a moving deformable barrier 80 ± 1.0 km/h with a 70 percent overlap, with 50th percentile test dummies as specified in part 572 of this chapter at each front outboard designated seating position, under the applicable conditions of S7, fuel spillage must not exceed the limits of S5.5.
 
-(b) Vehicles manufactured on or after September 1, 2006. When the vehicle is impacted from the rear by a moving deformable barrier 80 ±1.0 km/h with a 70 percent overlap, with 50th percentile test dummies as specified in part 572 of this chapter at each front outboard designated seating position, under the applicable conditions of S7, fuel spillage must not exceed the limits of S5.5.
-
-(c) Small volume manufacturers. Notwithstanding S6.2(b) of this standard, vehicles manufactured on or after September 1, 2004 and before September 1, 2008 by a manufacturer that produces fewer than 5,000 vehicles annually for sale in the United States may meet the requirements of S6.2(a). Vehicles manufactured on or after September 1, 2008 by small volume manufacturers must meet the requirements of S6.2(b).
-
-S6.3 Side moving barrier crash. (a) Vehicles manufactured before September 1, 2004. When the vehicle is impacted laterally on either side by a barrier moving at 32 km/h with 50th percentile test dummies as specified in part 572 of this chapter at positions required for testing to Standard No. 208 (49 CFR 571.208), under the applicable conditions of S7, fuel spillage must not exceed the limits of S5.5.
-
-(b) Vehicles manufactured on or after September 1, 2004. When the vehicle is impacted laterally on either side by a moving deformable barrier at 53 ± 1.0 km/h with the appropriate 49 CFR part 572 test dummies specified in 571.214 at positions required for testing by S7.1.1, S7.2.1, or S7.2.2 of Standard 214, under the applicable conditions of S7 of this standard, fuel spillage shall not exceed the limits of S5.5 of this standard.
-
-(c)(1) Notwithstanding S6.3(b) of this standard, vehicles having a GVWR greater than 6,000 lb (2,722 kg) may meet S6.3(a) instead of S6.3(b) of this standard until September 1, 2005.
-
-(2) Notwithstanding S6.3(b) of this standard, vehicles having a GVWR greater than 6,000 lb (2,722 kg) manufactured on or after September 1, 2005 must meet the requirements of S6.3(b) of this standard unless they are excluded from S6.3(b) under the phase-in specified in this paragraph. Excluded vehicles must meet the requirements of S6.3(a) of this standard. For vehicles having a GVWR greater than 6,000 lb (2,722 kg) manufactured on or after September 1, 2005 and before September 1, 2006, the number of vehicles complying with S6.3(b) shall be not less than 90 percent of:
-
-(i) The manufacturer's average annual production of vehicles with a GVWR greater than 6,000 lb (2,722 kg) manufactured on or after September 1, 2002 and before September 1, 2005; or
-
-(ii) The manufacturer's production of vehicles with a GVWR greater than 6,000 lb (2,722 kg) on or after September 1, 2004 and before September 1, 2005.
-
-(iii) Vehicles that have a GVWR greater than 6,000 lb (2,722 kg) and that are manufactured on or after September 1, 2006 must meet the requirements of S6.3(b) of this standard.
-
-(3) Vehicles produced by more than one manufacturer. For the purpose of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer under S6.3(c)(2)(i) and S6.3(c)(2)(ii) of this standard, a vehicle produced by more than one manufacturer shall be attributed to a single manufacturer as follows, subject to S6.3(c)(4).
-
-(i) A vehicle which is imported shall be attributed to the importer.
-
-(ii) A vehicle manufactured in the United States by more than one manufacturer, one of which also markets the vehicle, shall be attributed to the manufacturer that markets the vehicle.
-
-(4) A vehicle produced by more than one manufacturer shall be attributed to any one of the vehicle's manufacturers specified by an express written contract, reported to the National Highway Traffic Safety Administration under 49 CFR 568.6, between the manufacturer so specified and the manufacturer to which the vehicle would otherwise be attributed under S6.3(c)(3).
-
-(d) Notwithstanding S6.3(b) of this standard, vehicles with a GVWR of 6,000 lb (2,722 kg) or less that are manufactured in two or more stages or altered (within the meaning of 49 CFR 567.7) after having been previously certified in accordance with part 567 of this chapter may meet S6.3(a) of this standard until September 1, 2005. Vehicles with a GVWR of 6,000 lb (2,722 kg) or less that are manufactured in two or more stages or altered (within the meaning of 49 CFR 567.7) after having been previously certified in accordance with part 567 of this chapter and that are manufactured on or after September 1, 2005 must meet the requirements of S6.3(b)
-
-(e) Notwithstanding S6.3(b) and (c) of this standard, vehicles with a GVWR greater than 6,000 lb (2,722 kg) that are manufactured in two or more stages or altered (within the meaning of 49 CFR 567.7) after having been previously certified in accordance with part 567 of this chapter may meet S6.3(a) of this standard until September 1, 2006. Vehicles with a GVWR greater than 6,000 lb (2,722 kg) that are manufactured in two or more stages or altered (within the meaning of 49 CFR 567.7) after having been previously certified in accordance with part 567 of this chapter and that are manufactured on or after September 1, 2006 must meet the requirements of S6.3(b).
+S6.3 Side moving barrier crash. When the vehicle is impacted laterally on either side by a moving deformable barrier at 53 ± 1.0 km/h with the appropriate 49 CFR part 572 test dummies specified in FMVSS No. 214 (§ 571.214) at positions required for testing by S7.2.2 of FMVSS No. 214, under the applicable conditions of S7 of this standard, fuel spillage shall not exceed the limits of S5.5 of this standard.
 
 S6.4 Static rollover. When the vehicle is rotated on its longitudinal axis to each successive increment of 90°, following an impact crash of S6.1, S6.2, or S6.3, fuel spillage shall not exceed the limits of S5.6.
 
@@ -133,19 +105,13 @@ S7.1.6 The vehicle, including test devices and instrumentation, is loaded as fol
 
 (c) Except as specified in S7.1.1, a school bus with a GVWR greater than 4,536 kg is loaded to its unloaded vehicle weight, plus 54 kg of unsecured mass at each designated seating position.
 
-S7.2 Side moving barrier test conditions. (a) Vehicles manufactured before September 1, 2004. The side moving barrier crash test conditions are those specified in S8.2 of Standard No. 208 (49 CFR 571.208).
+S7.2 Side moving barrier test conditions. The side moving deformable barrier crash test conditions are those specified in S8 of FMVSS No. 214 (49 CFR 571.214).
 
-(b) Vehicles manufactured on or after September 1, 2004. The side moving deformable barrier crash test conditions are those specified in S8 of Standard 214 (49 CFR 571.214).
+S7.3 Rear moving barrier test conditions.
 
-S7.3 Rear moving barrier test conditions. (a) Vehicles manufactured before September 1, 2006. The rear moving barrier test conditions are those specified in S8.2 of Standard No. 208 (49 CFR 571.208), except for the positioning of the barrier and the vehicle. The barrier and test vehicle are positioned so that at impact—
+(a) [Reserved]
 
-(1) The vehicle is at rest in its normal attitude;
-
-(2) The barrier is traveling at 48 km/h with its face perpendicular to the longitudinal centerline of the vehicle; and
-
-(3) A vertical plane through the geometric center of the barrier impact surface and perpendicular to that surface coincides with the longitudinal centerline of the vehicle.
-
-(b) Vehicles manufactured on or after September 1, 2006. The rear moving deformable barrier is the same as that shown in Figure 2 of Standard No. 214 (49 CFR 571.214) and specified in 49 CFR part 587, except as otherwise specified in paragraph S7.3 (b). The barrier and test vehicle are positioned so that at impact—
+(b) The rear moving deformable barrier is the same as that shown in Figure 2 of FMVSS No. 214 (49 CFR 571.214) and specified in 49 CFR part 587, except as otherwise specified in paragraph S7.3. The barrier and test vehicle are positioned so that at impact—
 
 (1) The vehicle is stationary;
 
@@ -170,8 +136,6 @@ S7.5.4 The concrete surface upon which the vehicle is tested is level, rigid, an
 S7.5.5 The barrier assembly is released from the guidance mechanism immediately prior to impact with the vehicle.
 
 S7.6 The moving barrier assemblies specified in S7.2, S7.3 and S7.5 are equipped with P205/75R15 pneumatic tires inflated to 200 kPa ±21 kPa.
-
-S8 Phase-In schedule.
 
 S8.1 Rear impact test upgrade. (a) Vehicles manufactured on or after September 1, 2006 and before September 1, 2007. For vehicles manufactured on or after September 1, 2006, and before September 1, 2007, the number of vehicles complying with S6.2(b) of this standard must not be less than 40 percent of:
 

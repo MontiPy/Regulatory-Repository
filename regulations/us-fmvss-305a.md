@@ -8,7 +8,7 @@ commodities:
 - Power electronics
 - Electric motors
 id: us-fmvss-305a
-last_pulled: '2026-06-01T18:42:10+00:00'
+last_pulled: '2026-10-06T03:27:36+00:00'
 open_tags:
 - electric powertrain
 - high voltage protection
@@ -345,7 +345,7 @@ S9.1 Frontal barrier crash. The test vehicle, with test dummies in accordance wi
 
 S9.2 Rear moving barrier impact. The test vehicle, with test dummies in accordance with S6.1 of § 571.301, is impacted from the rear by a barrier that conforms to S7.3(b) of § 571.301 and that is moving at any speed between 79 and 81 km/h.
 
-S9.3 Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in § 571.214 at positions required for testing by S7.1.1, S7.2.1, or S7.2.2 of Standard 214 (§ 571.214), is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
+S9.3 Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in FMVSS No. 214 (§ 571.214) at positions required for testing by S7.2.2 of FMVSS No. 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
 
 S9.4 Post-impact test static rollover. After each crash test specified in S9.1, S9.2, and S9.3, without any alteration of the vehicle, the vehicle is rotated on its longitudinal axis to each successive increment of 90 degrees under the test conditions of S10.3 of this standard.
 
@@ -551,4 +551,4 @@ S14.2 Driving through standing water test. The vehicle is driven through a wade 
 
 (b) At the conclusion of the standing water test, with the vehicle still wet, electrical isolation is determined in accordance with S7.2 of this standard.
 
-*[89 FR 104352, Dec. 20, 2024]*
+*[89 FR 104352, Dec. 20, 2024, as amended at 91 FR 33115, June 3, 2026]*

@@ -179,7 +179,7 @@ All findings (including medium/low) with evidence are in `review/findings/<shard
 | 2 | Labels in the UI: what kind of text each record holds (`content_kind`: full, summary, index or link), AI-suggested UN equivalents marked unverified, `upcoming` status plus `status_note` | Applied |
 | 3 | Medium and high findings turned into structured patches by 11 patch writers, then checked by `apply_patches.py` (taxonomy, UN-ref format, dates, truncation) | Applied: 199 records, 304 fields, 0 rejected |
 | 3+ | Orchestrator follow-up: 5 record bodies copied from a wrong-topic template replaced with reference stubs; stale template `open_tags` cleared (18 records) | Applied |
-| 4 | Re-pull the regulation text from official sources (government sites are blocked in this environment) | Not done |
+| 4 | Re-pull from official sources into a staging folder, then merge body text only (`scripts/pull_staged.py`, `scripts/merge_staged.py`) | Done 2026-10-06: 161 records upgraded to full text, 22 refreshed; log in `REPULL_2026-10.md` |
 | 5 | Low-severity findings | Not done |
 
 Held for human verification (not applied):
@@ -197,3 +197,15 @@ Judgement calls worth checking (taken from the patch writers' notes):
 - India BS-VI citation and Brazil MOVER citation (Law 14.902/2024) come from the patch writers' own knowledge.
 - ERA-GLONASS, `br-contran-498` and `cn-gb-26572-2025`/`8410` have `systems` set to [], because the taxonomy has no eCall, flammability or substances value.
 - 0652 bundles ISO 34502, ISO/TR 4804 and PAS 8800, so it may need splitting into separate records.
+
+### Phase 4 re-pull (2026-10-06)
+
+- Records now holding **full regulation text: 486 of 726** (was 325).
+- **UN Regulations:** unece.org blocks automated access (403, PDFs included). 81 of 85 now carry the text the EU republished in the Official Journal (new connector `connectors/unece_oj.py`). Each body names its CELEX number and warns that later UNECE supplements may exist. R27, R114, R144 and R154 have no usable OJ copy.
+- **Australia:** the connector previously saved the register's landing page. It now pulls the compiled text as EPUB from the FRL API (90 records). The register lists every AU record as in force except F2012L01123 (an amending instrument), so the held ADR 28/01 "superseded" finding is rejected.
+- **US:** 22 eCFR texts refreshed with real amendments, e.g. obsolete phase-in subparts removed from Part 585 and FMVSS 301.
+- **Japan and Korea:** the bodies are kept as their English translations. The original-language re-pull matched them.
+- **China:** openstd.samr.gov.cn shows the standard text only as images, so the pull returns metadata only. That metadata matched every record except GB 1589, whose successor GB 1589-2026 now has a status note.
+- **GCC and India:** the standards are sold or have no free text, so these stay as summaries.
+- Embedded base64 figures were replaced with "Figure omitted" markers, keeping `regulations/` at about 36 MB.
+- 183 summaries are flagged stale because their body changed. They need re-checking against the new text.

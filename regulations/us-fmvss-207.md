@@ -4,7 +4,7 @@ commodities:
 - Seats
 - Seatbelts
 id: us-fmvss-207
-last_pulled: '2026-06-01T18:40:36+00:00'
+last_pulled: '2026-10-06T03:26:21+00:00'
 open_tags:
 - seat adjuster
 - seat track
@@ -57,7 +57,7 @@ S4. Requirements.
 
 S4.1 Driver's seat. Each vehicle with manually operated driving controls shall have a driver's designated seating position.
 
-S4.2. General performance requirements. When tested in accordance with S5, each occupant seat shall withstand the following forces, in newtons, except for: a side-facing seat; a passenger seat on a bus other than a school bus; a passenger seat on a school bus with a GVWR greater than 4,536 kilograms (10,000 pounds); and, a passenger seat on a school bus with a GVWR less than or equal to 4,536 kg manufactured before October 21, 2011.
+S4.2. General performance requirements. When tested in accordance with S5, each occupant seat shall withstand the following forces, in newtons, except for: a side-facing seat; a passenger seat on a bus other than a school bus; and, a passenger seat on a school bus with a GVWR greater than 4,536 kilograms (10,000 pounds).
 
 (a) In any position to which it can be adjusted—20 times the mass of the seat in kilograms multiplied by 9.8 applied in a forward longitudinal direction;
 
@@ -115,4 +115,4 @@ S5.3 Apply the forces specified in S4.3.2.1(a) and (b) to a hinged or folding se
 
 S5.4 Determine the center of gravity of a seat or seat component with all cushions and upholstery in place and with the head restraint in its fully extended design position.
 
-*[36 FR 22902, Dec. 2, 1971, as amended at 52 FR 7868, Mar. 13, 1987; 53 FR 30434, Aug. 12, 1988; 59 FR 37167, July 21, 1994; 60 FR 13647, Mar. 14, 1995; 63 FR 28935, May 27, 1998; 73 FR 62779, Oct. 21, 2008; 87 FR 18588, Mar. 30, 2022]*
+*[36 FR 22902, Dec. 2, 1971, as amended at 52 FR 7868, Mar. 13, 1987; 53 FR 30434, Aug. 12, 1988; 59 FR 37167, July 21, 1994; 60 FR 13647, Mar. 14, 1995; 63 FR 28935, May 27, 1998; 73 FR 62779, Oct. 21, 2008; 87 FR 18588, Mar. 30, 2022; 91 FR 33101, June 3, 2026]*

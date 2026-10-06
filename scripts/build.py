@@ -279,7 +279,10 @@ def clean_body(content: str, source_api: str) -> str:
 CONTENT_KINDS = ("full", "summary", "index", "link")
 _TEMPLATE_MARKERS = ("**Regulated Area:**", "## Key Compliance Intent", "**Regulatory Domain:**")
 _INDEX_MARKERS = ("Save this title to My Account", "Set up an alert")
-_LINK_PHRASES = ("full text", "official source", "excerpt from the eur-lex", "document does not exist")
+_LINK_PHRASES = (
+    "full text", "official source", "excerpt from the eur-lex", "document does not exist",
+    "not reproduced here", "could not be resolved",
+)
 
 
 def content_kind(cleaned_body: str) -> str:

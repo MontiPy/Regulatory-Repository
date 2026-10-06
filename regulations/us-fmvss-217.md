@@ -6,7 +6,7 @@ commodities:
 - Door latches & hinges
 - Body structure
 id: us-fmvss-217
-last_pulled: '2026-06-01T18:41:13+00:00'
+last_pulled: '2026-10-06T03:26:53+00:00'
 open_tags:
 - emergency exit
 - push-out window
@@ -102,8 +102,6 @@ S5.2.2.3 Buses with GVWR of 10,000 pounds or less. Buses other than school buses
 
 (c) Doors.
 
-S5.2.3 School buses. Except as provided in S5.2.3.4, each school bus shall comply with S5.2.3.1 through S5.2.3.3.
-
 S5.2.3.1. Each school bus shall be equipped with the exits specified in either S5.2.3.1(a) or S5.2.3.1(b), chosen at the option of the manufacturer.
 
 (a) One rear emergency door that opens outward and is hinged on the right side (either side in the case of a bus with a GVWR of 10,000 pounds or less), and the additional exits, if any, specified by Table 1.
@@ -145,12 +143,6 @@ S5.2.3.2 All emergency exits required by S5.2.3.1(a) and S5.2.3.1(b) shall meet 
 (c) Emergency exit windows. A bus equipped with emergency exit windows shall have an even number of such windows, not counting the push-out rear window required by S5.2.3.1(b). Any side emergency exit windows shall be evenly divided between the right and left sides of the bus. School buses shall not be equipped with horizontally-sliding emergency exit windows. Further, except for buses equipped with rear push-out emergency exit windows in accordance with S5.2.3.1(b), school buses shall not be equipped with both sliding and push-out emergency exit windows.
 
 S5.2.3.3 The engine starting system of a bus shall not operate if any emergency exit is locked from either inside or outside the bus. For purposes of this requirement, “locked” means that the release mechanism cannot be activated and the exit opened by a person at the exit without a special device such as a key or special information such as a combination.
-
-S5.2.3.4 Each school bus manufactured before September 1, 1994 may, at the manufacturer's option, comply with either S5.2.3.4(a) or S5.2.3.4(b) instead of S5.2.3.1 through S5.2.3.3.
-
-(a) Each bus shall be equipped with one rear emergency door that opens outward and is hinged on the right side (either side in the case of a bus with a GVWR of 4,536 kilograms or less); or
-
-(b) Each bus shall be equipped with one emergency door on the vehicle's left side that is hinged on its forward side and meets the requirements of S5.2.3.2(a), and a push-out rear window that provides a minimum opening clearance 41 centimeters high and 122 centimeters wide and meets the requirements of S5.2.3.2(c).
 
 S5.3 Emergency exit release.
 

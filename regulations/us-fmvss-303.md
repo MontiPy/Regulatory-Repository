@@ -5,7 +5,7 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 id: us-fmvss-303
-last_pulled: '2026-06-01T18:41:59+00:00'
+last_pulled: '2026-10-06T03:27:30+00:00'
 open_tags:
 - CNG fuel container
 - compressed natural gas
@@ -72,9 +72,9 @@ S5. General requirements.
 
 S5.1 Vehicle requirements.
 
-S5.1.1 Vehicles with GVWR of 10,000 pounds or less. Each passenger car, multipurpose passenger vehicle, truck, and bus with a GVWR of 10,000 pounds or less that uses CNG as a motor fuel and that is manufactured on or after September 1, 1995 shall meet the requirements of S6, except S6.4.
+S5.1.1 Vehicles with a GVWR of 10,000 pounds or less. Each passenger car, multipurpose passenger vehicle, truck, and bus with a GVWR of 10,000 pounds or less that uses CNG as a motor fuel shall meet the requirements of S6, except S6.4.
 
-S5.1.2 Schoolbuses with a GVWR greater than 10,000 pounds. Each schoolbus with a GVWR greater than 10,000 pounds that uses CNG as a motor fuel and that is manufactured on or after September 1, 1995 shall meet the requirements of S6.4.
+S5.1.2 School buses with a GVWR greater than 10,000 pounds. Each school bus with a GVWR greater than 10,000 pounds that uses CNG as a motor fuel shall meet the requirements of S6.4.
 
 S5.2 Fuel system pressure drop: barrier crash.
 
@@ -144,4 +144,4 @@ S7.3 Rear moving barrier test conditions. The rear moving barrier test condition
 
 S7.4 Moving contoured barrier test conditions. The moving contoured barrier crash test conditions are those specified in S7.5 of Standard No. 301, 49 CFR 571.301.
 
-*[59 FR 19659, Apr. 25, 1994, as amended at 60 FR 2543, Jan. 10, 1995; 60 FR 57948, Nov. 24, 1995]*
+*[59 FR 19659, Apr. 25, 1994, as amended at 60 FR 2543, Jan. 10, 1995; 60 FR 57948, Nov. 24, 1995; 91 FR 33097, June 3, 2026]*

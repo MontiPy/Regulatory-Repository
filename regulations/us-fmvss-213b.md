@@ -5,7 +5,7 @@ commodities:
 - Seatbelts
 effective_date: '2026-12-05'
 id: us-fmvss-213b
-last_pulled: '2026-06-01T18:41:01+00:00'
+last_pulled: '2026-10-06T03:26:42+00:00'
 open_tags:
 - child restraint system
 - ISOFIX anchorage
@@ -307,7 +307,7 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (b) The manufacturer's name. A distributor's name may be used instead if the distributor assumes responsibility for all duties and liabilities imposed on the manufacturer with respect to the system by the National Traffic and Motor Vehicle Safety Act, as amended.
 
-(c) The statement: “Manufactured in __,” inserting the month and year of manufacture.
+(c) The statement: “Manufactured in ____,” inserting the month and year of manufacture.
 
 (d) The place of manufacture (city and State, or foreign country). However, if the manufacturer uses the name of the distributor, then it shall state the location (city and State, or foreign country) of the principal offices of the distributor.
 
@@ -403,7 +403,7 @@ S5.5.5 The information specified in paragraphs (a) through (l) of this section t
 
 (b) The manufacturer's name. A distributor's or dealer's name may be used instead if the distributor or dealer assumes responsibility for all duties and liabilities imposed on the manufacturer with respect to the system by the National Traffic and Motor Vehicle Safety Act, as amended.
 
-(c) The statement: “Manufactured in ____,” inserting the month and year of manufacture.
+(c) The statement: “Manufactured in ________,” inserting the month and year of manufacture.
 
 (d) The place of manufacture (city and State, or foreign country). However, if the manufacturer uses the name of the distributor or dealer, then it shall state the location (city and State, or foreign country) of the principal offices of the distributor or dealer.
 

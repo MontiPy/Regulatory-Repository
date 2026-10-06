@@ -558,3 +558,9 @@
 | `jp-srrv-engine-power-train-and-pedal-lever` | open_tags | ['REESS', 'high-voltage isolation', 'service disconnect', 'thermal runaway protection', 'CNG storage', 'LPG storage', 'hydrogen storage', 'crash shutoff valve', | ∅ |
 | `jp-srrv-speedometer-and-odometer` | open_tags | ['speedometer', 'odometer', 'instrument cluster', 'driver information display', 'vehicle speed sensor', 'odometer calibration', 'analog gauge', 'digital display | ∅ |
 | `cn-gb-1495-2002` | open_tags | ['AVAS', 'acoustic cover', 'intake system', 'exterior sound calibration', 'pass-by noise', 'drive-by noise test', 'noise measurement', 'exhaust noise', 'engine  | ['acoustic cover', 'intake system', 'exterior sound calibration'] |
+
+## Phase 4 — portal metadata check
+
+| Record | Field | Before | After |
+|---|---|---|---|
+| `cn-gb-1589` | status_note | ∅ | Replaced by GB 1589-2026 (implementation 2027-07-01, per openstd.samr.gov.cn); GB 1589-2016 applies until then. |

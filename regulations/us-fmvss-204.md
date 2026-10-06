@@ -3,7 +3,7 @@ citation: 49 CFR §571.204
 commodities:
 - Steering column
 id: us-fmvss-204
-last_pulled: '2026-06-01T18:40:26+00:00'
+last_pulled: '2026-10-06T03:26:14+00:00'
 open_tags:
 - steering shaft
 - steering column displacement
@@ -45,7 +45,7 @@ vehicle_categories:
 
 S1. Purpose and scope. This standard specifies requirements limiting the rearward displacement of the steering control into the passenger compartment to reduce the likelihood of chest, neck, or head injury.
 
-S2. Application. This standard applies to passenger cars and to multipurpose passenger vehicles, trucks, and buses. However, it does not apply to walk-in vans or vehicles without steering controls.
+S2. Application. This standard applies to passenger cars and to multipurpose passenger vehicles, trucks and buses. However, it does not apply to vehicles certified to S14 of Standard No. 208 (49 CFR 571.208). It also does not apply to walk-in vans or vehicles without steering controls.
 
 S3. Definitions.
 
@@ -53,11 +53,7 @@ Steering column means a structural housing that surrounds a steering shaft.
 
 Steering shaft means a component that transmits steering torque from the steering wheel to the steering gear.
 
-S4 Requirements.
-
-S4.1 Vehicles manufactured before September 1, 1991. When a passenger car or a truck, bus, or multipurpose passenger vehicle with a gross vehicle weight rating of 10,000 pounds or less and an unloaded vehicle weight of 4,000 pounds or less is tested under the conditions of S5 in a 30 mile per hour perpendicular impact into a fixed collision barrier, the upper end of the steering column and shaft in the vehicle shall not be displaced more than 5 inches in a horizontal rearward direction parallel to the longitudinal axis of the vehicle. The amount of displacement shall be measured relative to an undisturbed point on the vehicle and shall represent the maximum dynamic movement of the upper end of the steering column and shaft during the crash test.
-
-S4.2 Vehicles manufactured on or after September 1, 1991. When a passenger car or a truck, bus or multipurpose passenger vehicle with a gross vehicle weight rating of 4,536 kg or less and an unloaded vehicle weight of 2,495 kg or less is tested under the conditions of S5 in a 48 km/h perpendicular impact into a fixed collision barrier, the upper end of the steering column and shaft in the vehicle shall not be displaced more than 127 mm in a horizontal rearward direction parallel to the longitudinal axis of the vehicle. The amount of displacement shall be measured relative to an undisturbed point on the vehicle and shall represent the maximum dynamic movement of the upper end of the steering column and shaft during the crash test.
+S4. Requirements. When a passenger car or a truck, bus or multipurpose passenger vehicle with a gross vehicle weight rating of 4,536 kg or less and an unloaded vehicle weight of 2,495 kg or less is tested under the conditions of S5 in a 48 km/h perpendicular impact into a fixed collision barrier, the upper end of the steering column and shaft in the vehicle shall not be displaced more than 127 mm in a horizontal rearward direction parallel to the longitudinal axis of the vehicle. The amount of displacement shall be measured relative to an undisturbed point on the vehicle and shall represent the maximum dynamic movement of the upper end of the steering column and shaft during the crash test.
 
 S5. Test conditions. The requirements of S4 shall be met when the vehicle is tested in accordance with the following conditions.
 
@@ -75,4 +71,4 @@ S5.6 The parking brake is disengaged and the transmission is in neutral.
 
 S5.7 Tires are inflated to the vehicle manufacturer's specifications.
 
-*[52 FR 44897, Nov. 23, 1987, as amended at 63 FR 28935, May 27, 1998; 63 FR 51003, Sept. 24, 1998; 87 FR 18588, Mar. 30, 2022]*
+*[52 FR 44897, Nov. 23, 1987, as amended at 63 FR 28935, May 27, 1998; 63 FR 51003, Sept. 24, 1998; 87 FR 18588, Mar. 30, 2022; 91 FR 33119, June 3, 2026]*

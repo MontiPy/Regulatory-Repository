@@ -5,7 +5,7 @@ commodities:
 - Seatbelts
 - Body structure
 id: us-fmvss-222
-last_pulled: '2026-06-01T18:41:34+00:00'
+last_pulled: '2026-10-06T03:27:05+00:00'
 open_tags:
 - school bus seating
 - compartmentalization
@@ -90,25 +90,17 @@ S4.1 Determination of the number of seating positions and seat belt positions
 
 S5. Requirements.
 
-(a) Large school buses.
+(a) Large school buses. Each school bus with a gross vehicle weight rating of more than 4,536 kg (10,000 pounds) shall be capable of meeting any of the requirements set forth under this heading when tested under the conditions of S6 of this standard or § 571.210. However, a particular school bus passenger seat (i.e., a test specimen) in that weight class need not meet further requirements after having met S5.1.2 and S5.1.5, or having been subjected to either S5.1.3, S5.1.4, S5.1.6 (if applicable), or S5.3. If S5.1.6.5.5(b) is applicable, a particular test specimen need only meet S5.1.6.5.5(b)(1) or (2) as part of meeting S5.1.6 in its entirety. Each vehicle with voluntarily installed Type 1 seat belts and seat belt anchorages at W seating positions in a bench seat, voluntarily installed Type 2 seat belts and seat belt anchorages at Y seat belt positions in a fixed occupancy seat, or voluntarily installed Type 2 seat belts and seat belt anchorages at Y and Y + 1 seat belt positions in a flexible occupancy seat, shall also meet the requirements of:
 
-(1) Each school bus manufactured before October 21, 2011 with a gross vehicle weight rating of more than 4,536 kg (10,000 pounds) shall be capable of meeting any of the requirements set forth under this heading when tested under the conditions of S6. However, a particular school bus passenger seat (i.e., a test specimen) in that weight class need not meet further requirements after having met S5.1.2 and S5.1.5, or having been subjected to either S5.1.3, S5.1.4, or S5.3.
+(1) S4.4.3.2 of Standard No. 208 (49 CFR 571.208);
 
-(2) Each school bus manufactured on or after October 21, 2011 with a gross vehicle weight rating of more than 4,536 kg (10,000 pounds) shall be capable of meeting any of the requirements set forth under this heading when tested under the conditions of S6 of this standard or § 571.210. However, a particular school bus passenger seat (i.e., a test specimen) in that weight class need not meet further requirements after having met S5.1.2 and S5.1.5, or having been subjected to either S5.1.3, S5.1.4, S5.1.6 (if applicable), or S5.3. If S5.1.6.5.5(b) is applicable, a particular test specimen need only meet S5.1.6.5.5(b)(1) or (2) as part of meeting S5.1.6 in its entirety. Each vehicle with voluntarily installed Type 1 seat belts and seat belt anchorages at W seating positions in a bench seat, voluntarily installed Type 2 seat belts and seat belt anchorages at Y seat belt positions in a fixed occupancy seat, or voluntarily installed Type 2 seat belts and seat belt anchorages at Y and Y + 1 seat belt positions in a flexible occupancy seat, shall also meet the requirements of:
+(2) Standard No. 209 (49 CFR 571.209), as they apply to school buses; and,
 
-(i) S4.4.3.2 of Standard No. 208 (49 CFR 571.208);
-
-(ii) Standard No. 209 (49 CFR 571.209), as they apply to school buses; and,
-
-(iii) Standard No. 210 (49 CFR 571.210) as it applies to school buses with a gross vehicle weight rating greater than 10,000 pounds.
+(3) Standard No. 210 (49 CFR 571.210) as it applies to school buses with a gross vehicle weight rating greater than 10,000 pounds.
 
 (b) Small school buses. Each vehicle with a gross vehicle weight rating of 4,536 kg (10,000 pounds) or less shall be capable of meeting the following requirements at all seating positions:
 
-(1)(i) In the case of vehicles manufactured before September 1, 1991, the requirements of §§ 571.208, 571.209, and 571.210 as they apply to multipurpose passenger vehicles;
-
-(ii) [Reserved]
-
-(iii) In the case of vehicles manufactured on or after October 21, 2011 the requirements of S4.4.3.2 of § 571.208 and the requirements of §§ 571.207, 571.209 and 571.210 as they apply to school buses with a gross vehicle weight rating of 4,536 kg or less; and,
+(1) The requirements of S4.4.3.2 of § 571.208 and the requirements of §§ 571.207, 571.209 and 571.210 as they apply to school buses with a gross vehicle weight rating of 4,536 kg or less; and,
 
 (2) The requirements of S5.1.2, S5.1.3, S5.1.4, S5.1.5, S5.1.6, S5.1.7, S5.3, S5.4 and S5.5 of this standard. However, the requirements of §§ 571.208 and 571.210 shall be met at Y seat belt positions in a fixed occupancy seat, and at Y and Y + 1 seat belt positions for a flexible occupancy seat. A particular school bus passenger seat (i.e. a test specimen) in that weight class need not meet further requirements after having met S5.1.2 and S5.1.5, or after having been subjected to either S5.1.3, S5.1.4, S5.1.6, or S5.3 of this standard or § 571.207, § 571.210 or § 571.225.
 
@@ -116,11 +108,7 @@ S5.1 Seating requirements. School bus passenger seats shall be forward facing.
 
 S5.1.1 [Reserved]
 
-S5.1.2 Seat back height, position, and surface area.
-
-(a) For school buses manufactured before October 21, 2009, each school bus passenger seat must be equipped with a seat back that has a vertical height of at least 508 mm (20 inches) above the seating reference point. Each school bus passenger seat must be equipped with a seat back that, in the front projected view, has front surface area above the horizontal plane that passes through the seating reference point, and below the horizontal plane 508 mm (20 inches) above the seating reference point, of not less than 90 percent of the seat bench width in millimeters multiplied by 508.
-
-(b) For school buses manufactured on or after October 21, 2009, each school bus passenger seat must be equipped with a seat back that has a vertical height of at least 610 mm (24 inches) above the seating reference point. The minimum total width of the seat back at 610 mm (24 inches) above the seating reference point shall be 75 percent of the maximum width of the seat bench. Each school bus passenger seat must be equipped with a seat back that, in the front projected view, has front surface area above the horizontal plane that passes through the seating reference point, and below the horizontal plane 610 mm (24 inches) above the seating reference point, of not less than 90 percent of the seat bench width in millimeters multiplied by 610.
+S5.1.2 Seat back height, position, and surface area. Each school bus passenger seat must be equipped with a seat back that has a vertical height of at least 610 mm (24 inches) above the seating reference point. The minimum total width of the seat back at 610 mm (24 inches) above the seating reference point shall be 75 percent of the maximum width of the seat bench. Each school bus passenger seat must be equipped with a seat back that, in the front projected view, has front surface area above the horizontal plane that passes through the seating reference point, and below the horizontal plane 610 mm (24 inches) above the seating reference point, of not less than 90 percent of the seat bench width in millimeters multiplied by 610.
 
 S5.1.3 Seat performance forward. When a school bus passenger seat that has another seat behind it is subjected to the application of force as specified in S5.1.3.1 and S5.1.3.2, and subsequently, the application of additional force to the seat back as specified in S5.1.3.3 and S5.1.3.4:
 
@@ -168,7 +156,7 @@ S5.1.5.1 Release the seat cushion self-latching mechanism. Lift the seat cushion
 
 S5.1.5.2 Apply an upward force of 5 times the weight of the seat cushion to the center of the bottom of the seat cushion. The upward force shall be applied in any period of not less than 1 and not more than 5 seconds, and maintained for 5 seconds.
 
-S5.1.6 Quasi-static test of compartmentalization and Type 2 seat belt performance. This section applies to school buses manufactured on or after October 21, 2011 with a gross vehicle weight rating expressed in the first column of Tables 2 through 4, and that are equipped with Type 2 seat belt assemblies.
+S5.1.6 Quasi-static test of compartmentalization and Type 2 seat belt performance. This section applies to school buses with a gross vehicle weight rating expressed in the first column of Tables 2 through 4, and that are equipped with Type 2 seat belt assemblies.
 
 (a) Except as provided in S5.1.6(b), when tested under the conditions of S5.1.6.5.1 through S5.1.6.5.6, the criteria specified in S5.1.6.1 and S5.1.6.2 must be met.
 
@@ -222,7 +210,7 @@ S5.1.6.5.6 Reach the specified load in not less than 5 and not more than 30 seco
 
 S5.1.6.5.7 Move the upper bar forward against the seat back until a force of 44 N has been applied. Apply an additional force horizontally in the forward direction through the upper bar until 452W joules of energy have been absorbed in deflecting the seat back. The maximum travel of the pivot attachment point for the upper loading bar shall not exceed 356 mm as measured from the position at which the initial application of 44 N of force is attained and the maximum load must stay below the upper boundary of the force/deflection zone in Figure 1. Apply the additional load in not less than 5 seconds and not more than 30 seconds. Maintain the pivot attachment point at the maximum forward travel position for not less than 5 seconds, and not more than 10 seconds and release the load in not less than 5 seconds and not more than 30 seconds. (For the determination of S5.1.6.5.7, the energy calculation describes only the force applied through the upper loading bar, and the forward and rearward travel distance of the upper loading bar pivot attachment point measured from the position at which the application in this section of 44 N of force is attained.)
 
-S5.1.7 Buckle side length limit. This section applies to rear passenger seats on school buses manufactured on or after October 21, 2011 that are equipped with Type 1 or Type 2 seat belt assemblies. All portions of the buckle/latchplate assembly must remain rearward of the limit plane defined in S5.1.7.1 when tested under the conditions of S5.1.7.2.
+S5.1.7 Buckle side length limit. This section applies to rear passenger seats on school buses that are equipped with Type 1 or Type 2 seat belt assemblies. All portions of the buckle/latchplate assembly must remain rearward of the limit plane defined in S5.1.7.1 when tested under the conditions of S5.1.7.2.
 
 S5.1.7.1 Buckle/latchplate limit plane. Establish a transverse limit plane 65 mm from the SgRP that is perpendicular to a transverse plane that passes through the SgRP at an angle of 50 degrees to the horizontal.
 

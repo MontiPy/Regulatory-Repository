@@ -3,7 +3,7 @@ citation: 49 CFR Part 555
 commodities:
 - Bumpers
 id: us-cfr-part-555
-last_pulled: '2026-06-01T18:43:59+00:00'
+last_pulled: '2026-10-06T03:29:06+00:00'
 open_tags:
 - temporary exemption
 - FMVSS compliance
@@ -81,7 +81,7 @@ United States means the several States, the District of Columbia, the Commonweal
 
 (1) Be written in the English language;
 
-(2) Be submitted in three copies to: Administrator, National Highway Traffic Safety Administration, Washington, DC 20590;
+(2) Be submitted to: Administrator, National Highway Traffic Safety Administration, Washington, DC electronically at GeneralExemptions@dot.gov;
 
 (3) State the full name and address of the applicant, the nature of its organization (individual, partnership, corporation, etc.) and the name of the State or country under the laws of which it is organized;
 
@@ -99,7 +99,7 @@ United States means the several States, the District of Columbia, the Commonweal
 
 (c) The knowing and willful submission of false, fictitious or fraudulent information will subject the petitioner to the civil and criminal penalties of 18 U.S.C. 1001.
 
-*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 46 FR 2063, Jan. 8, 1981; 63 FR 44173, Aug. 18, 1998; 64 FR 2861, Jan. 19, 1999; 70 FR 7429, Feb. 14, 2005]*
+*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 46 FR 2063, Jan. 8, 1981; 63 FR 44173, Aug. 18, 1998; 64 FR 2861, Jan. 19, 1999; 70 FR 7429, Feb. 14, 2005; 91 FR 48312, July 31, 2026]*
 
 #### § 555.6 Basis for application.
 
@@ -211,9 +211,11 @@ United States means the several States, the District of Columbia, the Commonweal
 
 (e) If the Administrator determines that the application contains adequate justification, he grants it, and notifies the petitioner in writing. He also publishes in the Federal Register a notice of the grant and the reasons for it.
 
-(f) Unless a later effective date is specified in the notice of the grant, a temporary exemption is effective upon publication of the notice in the Federal Register and exempts vehicles manufactured on and after the effective date.
+(f) Unless a later effective date is specified in the notice of the grant, a temporary exemption is effective upon publication of the notice in the Federal Register.
 
-*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 39 FR 37988, Oct. 25, 1974; 64 FR 2861, 2862, Jan. 19, 1999; 83 FR 66160, Dec. 26, 2018]*
+(g) Unless otherwise determined by the Administrator, a temporary exemption only exempts vehicles manufactured on or after the effective date.
+
+*[38 FR 2694, Jan. 29, 1973, as amended at 39 FR 5489, Feb. 13, 1974; 39 FR 37988, Oct. 25, 1974; 64 FR 2861, 2862, Jan. 19, 1999; 83 FR 66160, Dec. 26, 2018; 91 FR 48312, July 31, 2026]*
 
 #### § 555.8 Termination of temporary exemptions.
 

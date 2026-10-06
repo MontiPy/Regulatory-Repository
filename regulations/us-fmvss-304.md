@@ -4,7 +4,7 @@ commodities:
 - Fuel system
 - Fuel tanks
 id: us-fmvss-304
-last_pulled: '2026-06-01T18:42:04+00:00'
+last_pulled: '2026-10-06T03:27:35+00:00'
 open_tags:
 - CNG fuel container
 - compressed natural gas
@@ -86,7 +86,7 @@ S6 General requirements.
 
 S6.1 Each passenger car, multipurpose passenger vehicle, truck, and bus that uses CNG as a motor fuel shall be equipped with a CNG fuel container that meets the requirements of S7 through S7.4.
 
-S6.2 Each CNG fuel container manufactured on or after March 27, 1995 shall meet the requirements of S7 through S7.4.
+S6.2 Each CNG fuel container shall meet the requirements of S7 through S7.4.
 
 S7 Test requirements. Each CNG fuel container shall meet the applicable requirements of S7 through S7.4.
 
@@ -183,4 +183,4 @@ S8.3.9 Wind velocity. The average ambient wind velocity at the CNG fuel containe
 
 S8.3.10 The average wind velocity at the container is any velocity up to and including 2.24 meters/second (5 mph).
 
-*[59 FR 49021, Sept. 26, 1994; 59 FR 66776, Dec. 28, 1994; 60 FR 37843, July 24, 1995; 60 FR 57948, Nov. 24, 1995; 61 FR 19204, May 1, 1996; 61 FR 47089, Sept. 6, 1996; 63 FR 66765, Dec. 3, 1998; 65 FR 51772, Aug. 25, 2000; 65 FR 64626, Oct. 30, 2000; 87 FR 7964, Feb. 11, 2022]*
+*[59 FR 49021, Sept. 26, 1994; 59 FR 66776, Dec. 28, 1994; 60 FR 37843, July 24, 1995; 60 FR 57948, Nov. 24, 1995; 61 FR 19204, May 1, 1996; 61 FR 47089, Sept. 6, 1996; 63 FR 66765, Dec. 3, 1998; 65 FR 51772, Aug. 25, 2000; 65 FR 64626, Oct. 30, 2000; 87 FR 7964, Feb. 11, 2022; 91 FR 33108, June 3, 2026]*

@@ -5,7 +5,7 @@ commodities:
 - Fuel tanks
 - Hoses & lines
 id: us-fmvss-307
-last_pulled: '2026-06-01T18:42:15+00:00'
+last_pulled: '2026-10-06T03:27:41+00:00'
 open_tags:
 - compressed hydrogen storage system
 - thermally-activated pressure relief device
@@ -109,7 +109,7 @@ S5.1.1. Fueling receptacle requirements. (a) A compressed hydrogen fueling recep
 
 (1) The statement, “Compressed hydrogen gas only.”
 
-(2) The statement, “Service pressure ______MPa (_____psig).”
+(2) The statement, “Service pressure ____________MPa (_________psig).”
 
 (3) The statement, “See instructions on fuel container(s) for inspection and service life.”
 
@@ -185,7 +185,7 @@ S6.1.1. Frontal barrier crash. The test vehicle, with test dummies in accordance
 
 S6.1.2. Rear moving barrier impact. The test vehicle, with test dummies in accordance with S6.1 of § 571.301, is impacted from the rear by a barrier that conforms to S7.3(b) of § 571.301 and that is moving at any speed up to and including 80.0 km/h.
 
-S6.1.3. Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in § 571.214 (FMVSS No. 214) at positions required for testing by S7.1.1, S7.2.1, or S7.2.2 of Standard 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
+S6.1.3. Side moving deformable barrier impact. The test vehicle, with the appropriate 49 CFR part 572 test dummies specified in FMVSS No. 214 (§ 571.214) at positions required for testing by S7.2.2 of FMVSS No. 214, is impacted laterally on either side by a moving deformable barrier moving at any speed between 52.0 km/h and 54.0 km/h.
 
 S6.1.4. Moving contoured barrier crash. The test vehicle is impacted at any point and at any angle by the moving contoured barrier assembly, specified in S7.5 and S7.6 in § 571.301, traveling longitudinally forward at any speed up to and including 48.0 km/h.
 
@@ -318,4 +318,4 @@ S7. Test conditions. The requirements of S5.2 shall be met under the following c
 
 (3) A school bus with a GVWR greater than 10,000 pounds, whose fuel system is filled as specified in S7(d), is loaded to its unloaded vehicle weight, plus 54.4 kg of unsecured weight at each designated seating position.
 
-*[90 FR 6277, Jan. 17, 2025]*
+*[90 FR 6277, Jan. 17, 2025, as amended at 91 FR 33115, June 3, 2026]*

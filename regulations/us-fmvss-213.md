@@ -4,7 +4,7 @@ commodities:
 - Seats
 - Seatbelts
 id: us-fmvss-213
-last_pulled: '2026-06-01T18:40:56+00:00'
+last_pulled: '2026-10-06T03:26:36+00:00'
 open_tags:
 - child restraint system
 - ISOFIX anchorage
@@ -332,13 +332,13 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (1) One of the following statements, as appropriate, inserting the manufacturer's recommendations for the maximum mass of children who can safely occupy the system, except that booster seats shall not be recommended for children whose masses are less than 13.6 kg. For child restraint systems that can only be used as belt-positioning seats, manufacturers must include the maximum and minimum recommended height, but may delete the reference to weight:
 
-(i) Use only with children who weigh __ pounds (__ kg) or less and whose height is (insert values in English and metric units; use of word “mass” in label is optional) or less; or
+(i) Use only with children who weigh ____ pounds (____ kg) or less and whose height is (insert values in English and metric units; use of word “mass” in label is optional) or less; or
 
-(ii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less and who are capable of sitting upright alone; or
+(ii) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less and who are capable of sitting upright alone; or
 
-(iii) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less.
+(iii) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is (insert appropriate values in English and metric units) or less.
 
-(iv) Use only with children who weigh between __ and __ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is between __ and __ (insert appropriate values in English and metric units).
+(iv) Use only with children who weigh between ____ and ____ pounds (insert appropriate English and metric values; use of word “mass” is optional) and whose height is between ____ and ____ (insert appropriate values in English and metric units).
 
 (2) For child restraint systems manufactured on or after June 30, 2025: Statements or a combination of statements and pictograms specifying the manufacturer's recommendations for the mass and height ranges (in English and metric units) of children who can safely occupy the system in each applicable mode (rear-facing, forward facing, booster), except manufacturers shall not recommend forward-facing use for child restraint systems with internal harnesses for children of masses less than 12 kg (26.5 lb), and shall not recommend booster seats for children of masses less than 18 kg (40 lb).
 
