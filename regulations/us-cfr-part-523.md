@@ -36,6 +36,7 @@ vehicle_categories:
 - Light truck
 - Heavy truck
 - Bus
+- Trailer
 ---
 
 ## PART 523—VEHICLE CLASSIFICATION

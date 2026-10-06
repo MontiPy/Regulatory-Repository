@@ -15,12 +15,13 @@ open_tags:
 - occupant protection
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Front seats (excluding middle seats) of passenger cars, vans, trucks, and
-  special-purpose vehicles with a gross vehicle weight of 4.5 tonnes or less must
-  be equipped with head restraints capable of reducing impact to the occupant's head
-  in a rear collision.
+summary: Requires head restraints on front seats other than middle seats of passenger
+  cars excluding ultra-compact cars, and of vans, trucks and special-purpose vehicles
+  up to 4.5 tonnes gross vehicle weight. Item 3 excludes ultra-compact trucks and
+  towed vehicles from its truck requirement; item 4 excludes ultra-compact special-purpose
+  vehicles.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e991f40fc23d74f11cabfddc15929512d028a76a
 systems:

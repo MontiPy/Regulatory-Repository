@@ -22,7 +22,7 @@ open_tags:
 - water ingress protection
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Sets safety standards for electrical equipment in camper vehicles (water-proof
   external power inlet, charger overload protection, high-voltage warning label, earth

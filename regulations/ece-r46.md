@@ -41,7 +41,6 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
 - Off-road
 ---
 

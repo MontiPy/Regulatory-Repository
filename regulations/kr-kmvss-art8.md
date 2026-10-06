@@ -18,7 +18,7 @@ open_tags:
 - loaded condition
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: 'Sets the maximum safe tilt angle: vehicles must not overturn when tilted
   laterally to 35 degrees unloaded (30 degrees where gross weight is 1.2 times curb

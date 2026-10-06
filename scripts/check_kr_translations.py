@@ -1,6 +1,6 @@
 """Flag Korean (KMVSS) English translations that predate amendments in the current official text.
 
-Fetches the full KMVSS from law.go.kr once, extracts each translated article's current Korean
+Resolves the version currently in force, fetches the full KMVSS from law.go.kr once, extracts each translated article's current Korean
 text, and reports records whose Korean amendment dates (e.g. <개정 2026. 6. 5.>) are newer than
 any YYYY-MM-DD date in the English translation.
 
@@ -9,6 +9,7 @@ Usage: python scripts/check_kr_translations.py
 from __future__ import annotations
 
 import glob
+import html as htmllib
 import re
 import sys
 from pathlib import Path
@@ -18,7 +19,7 @@ import frontmatter
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from connectors._common import RateLimitedSession  # noqa: E402
-from connectors.law_go_kr import _fetch_full_law, _parse_article_text  # noqa: E402
+from connectors.law_go_kr import _fetch_full_law, _parse_article_text, resolve_current_version  # noqa: E402
 
 KO_DATE = re.compile(r"(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})\.")
 EN_DATE = re.compile(r"(\d{4})-(\d{2})-(\d{2})|(\d{1,2}) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* (\d{4})")
@@ -26,8 +27,11 @@ MONTHS = {m: i for i, m in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct No
 
 
 def main() -> int:
-    html = _fetch_full_law(RateLimitedSession(rate=1), "270023")
-    plain = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))
+    session = RateLimitedSession(rate=1)
+    current = resolve_current_version(session, "270023")
+    print(f"Checking against current version lsiSeq={current.get('lsiSeq')} (effective {current.get('efYd', '?')})")
+    html = _fetch_full_law(session, "270023")
+    plain = re.sub(r"\s+", " ", htmllib.unescape(re.sub(r"<[^>]+>", " ", html)))
     stale = 0
     for path in sorted(glob.glob(str(ROOT / "regulations" / "kr-kmvss-art*.md"))):
         post = frontmatter.load(path)

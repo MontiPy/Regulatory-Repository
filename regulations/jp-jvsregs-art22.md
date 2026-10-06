@@ -22,8 +22,11 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Seats in motor vehicles must be arranged and dimensioned to allow safe seating,
-  in accordance with ministerial standards for space, orientation, and size.
+summary: Article 22 sets seat arrangement, orientation and dimension standards and
+  requires specified passenger- and freight-vehicle seats and their mountings to withstand
+  collision loads. It also sets rear-seat-surface protection and auxiliary-seat rules,
+  with exceptions for particular vehicle and seat types, including two-wheelers, low-speed
+  vehicles and listed seat configurations.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: bece5581f9a5fa30fc3ff028959a18e804a2928d
 systems:

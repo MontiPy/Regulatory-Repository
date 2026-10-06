@@ -20,14 +20,13 @@ open_tags:
 - forward control vehicle
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Article 105 of the Korean Motor Vehicle Safety Standards (KMVSS) sets windshield
-  safety requirements. Glazing must have the mechanical strength prescribed by the
-  Minister. In a 48.3 km/h frontal barrier impact, a passenger car windshield must
-  stay attached to a minimum share of its retention frame (50% per side with airbag
-  or automatic belt, 75% without), and exterior components must not intrude beyond
-  a 6.3 mm limit. Open-top, forward control and light-class vehicles are exempt.
+summary: Article 105 requires glazing performance prescribed by the Minister and sets
+  passenger-car windshield retention and intrusion limits in a 48.3 km/h frontal barrier
+  impact. Retention must be at least 50% per side with an automatic occupant protection
+  device, or 75% of the full perimeter without one. Specified open-top, forward-control
+  and light-class vehicles are exempt from the impact requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9e76af8a8b689fee6fc60126f8c7f503182596fb
 systems:

@@ -28,7 +28,7 @@ summary: EPA Tier 3 (40 CFR Part 86, Subpart S) sets exhaust and evaporative emi
   plus a 10 ppm gasoline sulfur limit. It is a Clean Air Act rule, separate from the
   FMVSS in 49 CFR Part 571.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 56ce6e6589138eb00aabdfba87e9b7ffa27c7875
+summary_hash: 04223d37440d6f7ed69914dc79f2e7daa8f65ad7
 systems:
 - Emissions
 - On-board diagnostics
@@ -36,8 +36,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: EPA Tier 3 Motor Vehicle Emission and Fuel Standards (40 CFR Part 86)
-un_equivalent:
-- UN R83
+un_equivalent: []
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -47,7 +46,7 @@ vehicle_categories:
 
 **Regulated Area:** Emissions
 
-**Applicability:** Applies to passenger cars when listed in 49 CFR Part 571; verify effective dates, phase-ins, and vehicle classification for each model.
+**Applicability:** EPA Tier 3 emission standards under the Clean Air Act cover light-duty vehicles, light-duty trucks, medium-duty passenger vehicles and specified heavy-duty vehicles, with phase-ins beginning in model year 2017. Its gasoline sulfur provisions are fuel requirements; consult 40 CFR Parts 80 and 86 for exact category, model-year and phase-in provisions.
 
 
 ## Key Compliance Intent

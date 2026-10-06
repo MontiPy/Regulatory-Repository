@@ -15,10 +15,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-542
 status: in-force
-summary: 49 CFR Part 542 sets procedures for manufacturers and NHTSA to decide whether
-  a new light duty truck line is likely to have a theft rate above or below the 1990/91
-  median, and so whether it is covered by the Theft Prevention Standard in Part 541.
-  It applies to new lines introduced in the US on or after September 1, 2006.
+summary: 49 CFR Part 542 sets manufacturer and NHTSA procedures for selecting light
+  duty truck lines for Part 541 theft-prevention coverage. Section 542.1 addresses
+  new lines introduced from September 1, 2006 by likely theft rate; section 542.2
+  also covers low-theft lines with major parts interchangeable with covered passenger
+  motor vehicle lines.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d075a6103614659515f230d5a11986f12a24a313
 systems:

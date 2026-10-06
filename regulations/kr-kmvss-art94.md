@@ -17,12 +17,14 @@ open_tags:
 - window glass
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Passenger cars and light-class vans must provide the driver with forward
-  and rearward fields of view meeting specified standards, and their windshields and
-  side windows adjacent to the driver's seat must have a visible light transmittance
-  of at least 70%.
+summary: Article 94 sets forward and rearward field-of-view requirements for passenger
+  cars and light-class vans; the forward-view table excludes ultra-compact cars. Windshields,
+  windows to the left and right of the driver, and passenger-car rear glazing must
+  have at least 70% visible light transmittance, excluding sun-shading areas outside
+  the driver's field of view. All glazing in school vans for children must meet the
+  70% requirement.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 29b0acf2cb9d341257d085ac5caeb9d8eec465ba
 systems:

@@ -23,8 +23,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.114
 status: in-force
-summary: Theft protection and rollaway prevention for passenger cars and light trucks
-  and MPVs (GVWR ≤ 10,000 lbs) are regulated by this standard.
+summary: FMVSS No. 114 sets theft protection and rollaway prevention requirements
+  for passenger cars and trucks/MPVs up to 4,536 kg GVWR, excluding walk-in vans.
+  Its S5.3 brake-transmission shift-interlock requirement also applies to other motor
+  vehicles up to that GVWR, excluding trailers and motorcycles, with an automatic
+  transmission having a park position.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 83f4f22939dace00558ab8ec7c96ae0785c835d7
 systems:
@@ -36,6 +39,7 @@ title: § 571.114 Standard No. 114; Theft protection and rollaway prevention.
 vehicle_categories:
 - Passenger car
 - Light truck
+- Bus
 ---
 
 ## § 571.114 Standard No. 114; Theft protection and rollaway prevention.

@@ -22,16 +22,19 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: 'GSO-ECE 46 adopts UN R46 on devices for indirect vision (mirrors and camera-monitor
-  systems): fields of view, installation and performance.'
+summary: Summary record for GSO-ECE 46 concerning devices for indirect vision. The
+  official technical requirements and GCC applicability must be checked in the standard;
+  regulation text is not available in this record.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: d65fb07175018782fefc9d9d26e70bddfc55aedc
+summary_hash: 057471b2641d995bd6e8944b835ad7dedfdcd00a
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Devices for Indirect Vision
 translation_status: untranslated
+un_equivalent:
+- UN R46
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -43,23 +46,4 @@ vehicle_categories:
 
 # Devices for Indirect Vision
 
-**Regulated Area:** Visibility / lighting / HMI
-
-**Applicability:** Mirrors and camera-monitor systems Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.
-
-## Primary Vehicle Systems and Components
-
-Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.
-
-## Failure Modes and Symptoms
-
-Lighting nonconformance, wrong color/intensity, lamp out or flicker, mis-aimed beams, glare, visibility/conspicuity loss, incorrect tell-tale logic.
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

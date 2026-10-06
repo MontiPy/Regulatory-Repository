@@ -24,9 +24,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.138
 status: in-force
-summary: Tire pressure monitoring systems (TPMS) on passenger cars, multipurpose passenger
-  vehicles, trucks, and buses with a gross vehicle weight rating of 10,000 pounds
-  or less are regulated by this standard.
+summary: FMVSS No. 138 specifies tire-pressure monitoring systems to warn drivers
+  of significant under-inflation. It applies to passenger cars, multipurpose passenger
+  vehicles, trucks and buses with GVWR of 4,536 kg or less, excluding vehicles with
+  dual wheels on an axle. The system must illuminate the low-pressure warning within
+  20 minutes under the specified pressure thresholds.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e7bce0e4b1c08d02709ec3e5e18c9c59f5c604c3
 systems:

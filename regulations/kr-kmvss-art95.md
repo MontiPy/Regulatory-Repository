@@ -20,7 +20,7 @@ open_tags:
 - passenger compartment materials
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Interior materials inside a motor vehicle's passenger compartment — including
   seats, seat belts, armrests, head restraints, sun visors, ceiling, floor, floor

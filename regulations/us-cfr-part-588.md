@@ -19,11 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-588
 status: in-force
-summary: Manufacturers of child restraint systems are required to record and maintain
-  owner registration information — including names, mailing addresses, and restraint
-  model details — for at least six years from the date of manufacture, to support
-  recall notification campaigns and NHTSA oversight of recall responsibilities.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
+summary: Part 588 requires manufacturers of child restraint systems, except factory-installed
+  built-in restraints, to maintain registration records for owners who submit a registration
+  form. Records include owner names, mailing addresses and restraint model and manufacture
+  details, and must be retained for at least six years from the restraint’s manufacture
+  date to support recall notification.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: eaa4ae3a594875a270139992538f16c85998f846
 systems:
 - Restraints

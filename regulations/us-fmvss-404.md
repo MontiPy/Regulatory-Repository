@@ -33,8 +33,10 @@ tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
 title: § 571.404 Standard No. 404; Platform lift installations in motor vehicles.
 vehicle_categories:
+- Passenger car
 - Bus
 - Light truck
+- Heavy truck
 ---
 
 ## § 571.404 Standard No. 404; Platform lift installations in motor vehicles.

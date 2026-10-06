@@ -33,7 +33,6 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3613d734b4fedcca2314cfd42efd53e1d0235f90
 systems:
 - Emissions
-- Fuel safety
 - On-board diagnostics
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged

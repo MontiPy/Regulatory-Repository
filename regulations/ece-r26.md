@@ -3,7 +3,6 @@ citation: UN R26
 commodities:
 - Body structure
 - Bumpers
-- Mirrors
 id: ece-r26
 last_pulled: '2026-10-06T03:32:14+00:00'
 open_tags:

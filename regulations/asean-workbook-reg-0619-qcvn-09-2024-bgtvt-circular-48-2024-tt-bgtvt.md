@@ -28,11 +28,10 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://thuviennhadat.vn/van-ban-phap-luat-viet-nam/circular-48-2024-tt-bgtvt-technical-regulations-on-technical-environmental-protection-consumption-of-648713.html
 status: in-force
-summary: QCVN 09:2024/BGTVT is Vietnam's national technical regulation on technical
-  safety and environmental protection for automobiles, promulgated through Circular
-  48/2024/TT-BGTVT. Vehicles manufactured, assembled or imported into Vietnam need
-  type approval and conformity-of-production evidence, with correct certification
-  labels and documentation.
+summary: 'Overview entry for QCVN 09:2024/BGTVT (promulgated by Circular 48/2024/TT-BGTVT):
+  Vietnam technical and environmental safety requirements for vehicles. The body is
+  a summary, not regulation text; detailed requirements, approval pathways and vehicle
+  scope require verification against current official instruments.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: dc5d7c5634cba4c5a0a6e1314ad8216a34d288dd
 systems:

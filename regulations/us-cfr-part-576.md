@@ -18,10 +18,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-576
 status: in-force
-summary: Manufacturers of motor vehicles and motor vehicle equipment are required
-  to retain records — including complaints, claims, reports, warranty documents, and
-  internal communications — related to defects or malfunctions that may affect motor
-  vehicle safety.
+summary: Part 576 requires motor vehicle, child restraint and tire manufacturers to
+  retain safety-related defect and malfunction records for 10 calendar years from
+  generation or acquisition. Motor vehicle and equipment manufacturers must retain
+  underlying Part 579 reporting records for five calendar years, subject to the stated
+  exception for documents transmitted to NHTSA.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 223d750f68de40e3879589bbe3910c31d45278e5
 systems: []

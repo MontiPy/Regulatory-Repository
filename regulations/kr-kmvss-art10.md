@@ -16,7 +16,7 @@ open_tags:
 - crawler vehicle
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Article 10 of the Korean Motor Vehicle Safety Standards (KMVSS) sets standards
   for the ground contact area and ground pressure of a loaded motor vehicle. The ground

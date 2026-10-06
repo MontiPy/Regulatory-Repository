@@ -34,7 +34,6 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
 ---
 
 ## PART 580—ODOMETER DISCLOSURE REQUIREMENTS

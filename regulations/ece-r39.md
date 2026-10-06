@@ -29,7 +29,7 @@ systems:
 - Tell-tales & controls
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 39 — Speedometer Equipment
+title: UN Regulation No. 39 — Speedometer and Odometer Equipment
 vehicle_categories:
 - Passenger car
 - Light truck

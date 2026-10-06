@@ -21,9 +21,10 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Every vehicle sold or manufactured in Canada must have a unique 17-character
-  vehicle identification number (VIN) that is permanently and indelibly marked on
-  a structural part of the vehicle and readable without disassembly.
+summary: Requires a 17-character VIN, unique within the specified 60-year manufacturing
+  window. It must be indelibly marked on a permitted vehicle part or permanently affixed
+  plate or label. Specified vehicle classes must have the VIN readable through the
+  glazing without removing parts; snowmobiles have separate marking requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ff4616368b5a7309fc35e56b5fa3c8f4f283ed73
 systems:
@@ -35,7 +36,9 @@ title: MVSR s. 115 — Vehicle Identification Number
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Motorcycle
+- Bus
 - Trailer
 - Off-road
 ---

@@ -24,12 +24,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-563
 status: in-force
-summary: '49 CFR Part 563 sets uniform requirements for event data recorders (EDRs)
-  in vehicles so equipped: collection, storage and retrievability of crash event data,
-  data elements and format, crash-test survivability, owner''s manual information
-  and commercial availability of data retrieval tools. It applies to vehicles made
-  on or after 1 September 2012 up to 3,855 kg GVWR and 2,495 kg unloaded weight, with
-  a phase-in certification for production years ending 2029-2032.'
+summary: 'Sets requirements for vehicles fitted with EDRs: crash-event data, recording
+  and retrieval, crash-test survivability, owner information and retrieval tools.
+  Covers cars, MPVs, trucks and buses made from September 1, 2012 at up to 3,855 kg
+  GVWR and 2,495 kg unloaded weight, excluding walk-in van trucks and vehicles exclusively
+  for the U.S. Postal Service. Updated requirements phase in over production years
+  ending 2029–2032.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c36c4acf9dc61c04bedbf920d593a969ec81ba34
 systems:

@@ -34,6 +34,8 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: Tyre Rolling Resistance, Wet Grip and Rolling Sound
 translation_status: untranslated
+un_equivalent:
+- UN R117
 vehicle_categories:
 - Passenger car
 - Light truck

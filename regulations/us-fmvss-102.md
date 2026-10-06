@@ -23,9 +23,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.102
 status: in-force
-summary: Automatic transmissions and manual transmissions in passenger cars, MPVs,
-  trucks, and buses are regulated for shift position sequence, starter interlock behavior,
-  and braking effect.
+summary: FMVSS 102 regulates automatic-transmission shift-position sequence, starter
+  interlock and supplemental transmission braking in passenger cars, MPVs, trucks
+  and buses. For manual transmissions it specifies shift-pattern identification, except
+  for standard three-speed H patterns. The automatic-transmission starter interlock
+  has specified exceptions for automatic stop/start and electric propulsion.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: deae6e97b34e5fc8caabb6e296805b14a09f4d73
 systems:

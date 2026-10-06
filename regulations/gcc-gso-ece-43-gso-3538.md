@@ -22,10 +22,11 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: 'GSO-ECE 43 / GSO 3538 adopt UN R43 on safety glazing materials and their
-  installation: windscreens and windows, impact, optical and light-transmission tests.'
+summary: Summary record for GSO-ECE 43 / GSO 3538 concerning safety glazing and optical
+  test methods. The official technical requirements and GCC applicability must be
+  checked in the standard; regulation text is not available in this record.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: b9ebfdb287baef7a4e95b20f26d0fe796cee897f
+summary_hash: 297909602096694562908d4e9ad92748eda2eca0
 systems:
 - Glazing
 - Visibility
@@ -33,6 +34,8 @@ tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Safety Glazing and Optical Test Methods
 translation_status: untranslated
+un_equivalent:
+- UN R43
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -44,27 +47,4 @@ vehicle_categories:
 
 # Safety Glazing and Optical Test Methods
 
-**Regulated Area:** Visibility / lighting / HMI
-
-**Applicability:** Automotive glazing Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.
-
-## Primary Vehicle Systems and Components
-
-Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.
-
-## Failure Modes and Symptoms
-
-Lighting nonconformance, wrong color/intensity, lamp out or flicker, mis-aimed beams, glare, visibility/conspicuity loss, incorrect tell-tale logic.
-
-## Related Regulations
-
-Possible functional overlap: GCC / GSO GSO 1677:2002 - Motor Vehicles - Laminated Safety Glass
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

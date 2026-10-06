@@ -20,8 +20,10 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran
 status: in-force
-status_note: Installation schedule suspended by CONTRAN Resolution 559/2015 (effects
-  of Res. 245/2007 and Art. 4 of Res. 330/2009); verify whether later repealed.
+status_note: Resolution 559/2015 suspends the effects of Resolution 245/2007 and Article
+  4 of Resolution 330/2009. The official catalogue still records that suspension on
+  6 October 2026. This record is not evidence of a current mandatory factory-installation
+  schedule.
 summary: CONTRAN Resolutions 245/2007 and 330/2009 set out a schedule for mandatory
   factory installation of anti-theft equipment in new vehicles in Brazil. The mandatory
   installation schedule was suspended in 2015 by CONTRAN Resolution 559/2015; the

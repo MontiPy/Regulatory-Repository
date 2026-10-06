@@ -20,8 +20,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Steering control systems in vehicles must be designed so no component can
-  catch a driver's clothing or jewelry during normal driving.
+summary: Section 203 requires steering controls to avoid catching the driver’s clothing
+  or jewellery. Passenger cars, three-wheeled vehicles and specified MPVs, buses and
+  trucks up to 4,536 kg GVWR must also meet SAE J944 body-block impact testing at
+  24 km/h, with chest force limited to 11,120 N except for a cumulative 3 ms. Walk-in
+  vans and vehicles meeting the specified TSD 208 requirements are exempt from those
+  impact tests.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1ad2a06116eb373da3117f358f5db143cac47491
 systems:

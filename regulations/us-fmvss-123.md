@@ -24,9 +24,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.123
 status: in-force
-summary: Motorcycle controls and displays on handlebar-equipped motorcycles (except
-  law enforcement models) are regulated for standardized location, operation, identification,
-  and illumination.
+summary: FMVSS No. 123 standardises the location, operation, identification and illumination
+  of motorcycle controls and displays and sets requirements for stands and footrests.
+  It applies to motorcycles equipped with handlebars, excluding those designed and
+  sold exclusively for law enforcement. It requires a supplemental engine-stop control
+  and footrests at each designated seating position.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: f4280f62e131c51a96eef178901d581a763594de
 systems:

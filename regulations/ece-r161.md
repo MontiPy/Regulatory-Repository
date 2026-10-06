@@ -20,9 +20,10 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X2274
 status: in-force
-summary: UN R161 sets uniform provisions for protecting motor vehicles against unauthorized
-  use and for approving the locking device used for this purpose. (Pedal-misapplication
-  control is UN R175.)
+summary: UN R161 sets approval requirements for devices protecting M1 and N1 vehicles
+  against unauthorized use through a locking system. Devices fitted to other vehicle
+  categories must comply, and approvals for those categories may be granted at the
+  manufacturer's request.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2ccc5e277d16c02d65d09ff7362168980a8250f5
 systems:

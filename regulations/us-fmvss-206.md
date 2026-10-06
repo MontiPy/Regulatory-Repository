@@ -38,6 +38,7 @@ title: § 571.206 Standard No. 206; Door locks and door retention components.
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

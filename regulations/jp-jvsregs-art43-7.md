@@ -18,9 +18,11 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Electric motor vehicles (excluding two-wheeled, three-wheeled, special, and
-  towed vehicles) must be fitted with a vehicle approach warning device meeting ministerial
-  performance standards to alert pedestrians of the vehicle's presence.
+summary: Vehicles with an electrically powered engine must carry a vehicle approach
+  warning device meeting ministerial function and performance standards, subject to
+  the exclusions for two- and three-wheeled vehicles, specified crawler/sled and special
+  vehicles, and towed vehicles. Vehicles whose internal combustion engine operates
+  at all times while in motion are exempt.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7a085d00e879147e1429321f3ef1f33db680f80b
 systems:

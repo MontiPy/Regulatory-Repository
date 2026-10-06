@@ -38,8 +38,7 @@ systems:
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: Electrically propelled road vehicles - Safety specifications
-un_equivalent:
-- UN R100
+un_equivalent: []
 vehicle_categories:
 - Passenger car
 ---

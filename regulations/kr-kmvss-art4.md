@@ -20,7 +20,7 @@ open_tags:
 - towing vehicle
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Motor vehicle dimensions in Korea are regulated under this article, which
   sets maximum limits of 13 meters in length (16.7 meters for articulated vehicles),

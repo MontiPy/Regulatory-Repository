@@ -9,7 +9,7 @@
   regime: type-approval
   basis: "GSO/SASO technical regulations for motor vehicles (GSO standards largely referencing UN R/FMVSS) + SASO fuel-economy (CAFE) and labelling"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "SASO (Saudi Standards, Metrology and Quality Org.)", scope: "Vehicle technical regulation, SABER conformity platform, fuel economy (SASO 2864) & label (SASO 2847)", url: "https://www.saso.gov.sa" }
     - { name: Ministry of Commerce, scope: "Recalls", url: "https://mc.gov.sa" }
@@ -37,7 +37,7 @@
   regime: type-approval
   basis: "GSO technical regulations adopted as UAE standards + MOIAT Emirates Conformity Assessment Scheme (ECAS) vehicle conformity certificate"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: MOIAT (Ministry of Industry & Advanced Technology), scope: "ECAS conformity certificates for vehicles/tyres/EVs; UAE.S standards", url: "https://moiat.gov.ae" }
     - { name: TDRA, scope: "RF equipment registration", url: "https://tdra.gov.ae" }
@@ -59,7 +59,7 @@
   regime: type-approval
   basis: "GSO technical regulations for motor vehicles adopted nationally; GCC conformity certificate / national conformity overlays"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: GSO (GCC Standardization Organization), scope: "Common vehicle technical regulations and GSO standards", url: "https://www.gso.org.sa" }
     - { name: "National standards bodies (Kuwait PAI/KUCAS, Qatar MoCI, Bahrain MoIC, Oman MoCIIP)", scope: "National conformity procedures" }
@@ -79,7 +79,7 @@
   regime: recognition
   basis: "Ministry of Transport and Road Safety import approval — recognises EU WVTA and (since 2020s reforms) US-standard vehicles; 'Direct Import' and 'Parallel Import' channels"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Ministry of Transport and Road Safety — Vehicle Licensing Division, scope: "Type approval for import (homologation), recalls", url: "https://www.gov.il/en/departments/ministry_of_transport_and_road_safety" }
     - { name: Ministry of Environmental Protection, scope: "Green tax / emissions grading", url: "https://www.gov.il/en/departments/ministry_of_environmental_protection" }
@@ -101,7 +101,7 @@
   regime: registration-inspection
   basis: "National standards (Jordan JSMO technical regulations referencing GSO/UN R; Iraq COSQC with pre-shipment verification)"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "Jordan — JSMO", scope: "Vehicle technical regulations", url: "https://www.jsmo.gov.jo" }
     - { name: "Iraq — COSQC (pre-shipment conformity programme)", scope: "Import conformity", url: "https://cosqc.gov.iq" }
@@ -123,8 +123,8 @@
   drive: LHD
   regime: restricted
   basis: "Sanctions restrict vehicle/part exports and engagement — regimes differ: Iran and North Korea (UN, US, EU, UK); Cuba (US embargo only); Yemen (targeted listings)"
-  un_1958: null
-  un_1998: null
+  un_1958: false
+  un_1998: false
   authorities:
     - { name: US Treasury OFAC, scope: "US sanctions programmes", url: "https://ofac.treasury.gov" }
     - { name: EU sanctions map, scope: "EU restrictive measures", url: "https://www.sanctionsmap.eu" }
@@ -170,7 +170,7 @@
   regime: type-approval
   basis: "Egyptian standards (EOS) largely transposing UN Regulations; 1958 Agreement CP (E62 reported; confirm against the UNECE status table); GOEIC import conformity"
   un_1958: true
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Egyptian Organization for Standardization & Quality (EOS), scope: "Vehicle standards", url: "https://www.eos.org.eg" }
     - { name: GOEIC, scope: "Import control / conformity", url: "https://www.goeic.gov.eg" }
@@ -202,7 +202,7 @@
   emissions: "Euro 4–6 references"
   language: Arabic / French
   process: ["National homologation using EU/UN documentation; Algeria has periodic import quotas/restrictions — verify."]
-  notes: ["Tunisia is a 1958 Agreement CP (E58) and reported 1998 Agreement CP; Morocco and Algeria status unverified here."]
+  notes: ["UN Treaty Collection checked 6 October 2026: Tunisia is listed under both Agreements; Morocco, Algeria and Libya are not. Both group flags are null because membership is mixed."]
   records: []
   confidence: low
 
@@ -215,7 +215,7 @@
   regime: registration-inspection
   basis: "SON product conformity (SONCAP) and Nigerian Industrial Standards; NADDC automotive policy"
   un_1958: true
-  un_1998: null
+  un_1998: true
   authorities:
     - { name: Standards Organisation of Nigeria (SON), scope: "SONCAP certificates for imports", url: "https://son.gov.ng" }
     - { name: NADDC, scope: "Automotive industry development policy", url: "https://naddc.gov.ng" }
@@ -248,7 +248,7 @@
   emissions: "Limited; Euro references for new vehicles"
   language: English / Swahili / Amharic
   process: ["Pre-shipment inspection by appointed agent; registration."]
-  notes: ["Kenya, Tanzania, Uganda drive on the left (RHD); Rwanda and Ethiopia drive on the right (LHD; Rwanda debating RHD). Ethiopia restricted ICE imports in 2024 in favour of EVs — verify."]
+  notes: ["UN Treaty Collection checked 6 October 2026: Uganda acceded to both Agreements on 23 August 2022; the other four named states are not listed. Both group flags are null because membership is mixed.", "Kenya, Tanzania, Uganda drive on the left (RHD); Rwanda and Ethiopia drive on the right (LHD; Rwanda debating RHD). Ethiopia restricted ICE imports in 2024 in favour of EVs — verify."]
   records: []
   confidence: low
 

@@ -1,8 +1,6 @@
 ---
 citation: 49 CFR Part 596
-commodities:
-- Brakes
-- ADAS sensors
+commodities: []
 id: us-cfr-part-596
 last_pulled: '2026-06-01T18:45:40+00:00'
 open_tags:

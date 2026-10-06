@@ -20,9 +20,10 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-573
 status: in-force
-summary: Manufacturers of motor vehicles and motor vehicle equipment with respect
-  to safety-related defects and noncompliances with Federal motor vehicle safety standards
-  are regulated under this part.
+summary: Part 573 sets manufacturer responsibilities for safety-related defects and
+  FMVSS noncompliances in vehicles and equipment. Manufacturers must report determinations
+  to NHTSA within five working days, maintain required notification lists and submit
+  quarterly campaign reports. It also specifies recall reporting and remedy responsibilities.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 902f7e6d7b5529673b1e9803b8048740f448bca1
 systems: []

@@ -14,7 +14,7 @@ open_tags:
 - engine noise
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Noise suppression equipment on motor vehicles must comply with the vehicle
   noise limits established under Articles 30 and 35 of South Korea's Noise and Vibration

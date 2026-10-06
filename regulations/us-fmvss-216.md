@@ -17,26 +17,28 @@ open_tags:
 - front seat area roof
 region: US
 source_api: ecfr
-source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.216
-status: in-force
-summary: FMVSS No. 216 sets strength requirements for the passenger compartment roof,
-  to reduce deaths and injuries from roof crush in rollover crashes. It applies to
-  passenger cars and to multipurpose passenger vehicles, trucks and buses of 2,722
-  kg (6,000 lb) GVWR or less, excluding school buses, convertibles (with an exception)
-  and vehicles certified to FMVSS 216a.
+source_url: https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11068.htm
+status: withdrawn
+status_note: Removed from 49 CFR effective 6 July 2026 by FR 2026-11068 (3 June 2026).
+  The retained body is historic; use current FMVSS 216a for roof-crush requirements.
+summary: Historic FMVSS 216 set strength requirements for the passenger compartment
+  roof to reduce rollover roof-crush injuries. NHTSA removed this obsolete standard
+  effective 6 July 2026 (FR 2026-11068); FMVSS 216a supplies the current roof-crush
+  requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 70c0a0d9ea8c7721d448e87a374d8bc41b771ef3
+summary_hash: a3634e59a4a311d0d884a0ba7afe4ed6a33bfbfe
 systems:
 - Crashworthiness
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle
-  is certified to § 571.216a.
+title: FMVSS 216 — Roof crush resistance (historic; removed 6 July 2026)
 vehicle_categories:
 - Passenger car
 - Light truck
 - Bus
 ---
+
+**Historic text:** NHTSA removed §571.216 effective 6 July 2026. [Removal final rule](https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11068.htm). Use [FMVSS 216a](https://www.ecfr.gov/current/title-49/part-571/section-571.216a) for current requirements.
 
 ## § 571.216 Standard No. 216; Roof crush resistance; Applicable unless a vehicle is certified to § 571.216a.
 

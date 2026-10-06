@@ -22,11 +22,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.207
 status: in-force
-summary: FMVSS No. 207 establishes requirements for seats, their attachment assemblies
-  and installation to minimize seat failure from forces in a vehicle impact. It applies
-  to passenger cars, multipurpose passenger vehicles, trucks designed to carry at
-  least one person, and buses. Seats must withstand forward and rearward longitudinal
-  loads of 20 times seat mass, a back moment of 373 N-m, and stay in adjusted position.
+summary: FMVSS No. 207 regulates seats, their attachments and installation in passenger
+  cars, MPVs, trucks and buses to reduce seat failure in impacts. General seat-strength
+  tests include longitudinal forces of 20 times seat weight and a 373 N-m seat-back
+  moment, with exceptions for side-facing seats, passenger seats on non-school buses
+  and passenger seats on school buses over 4,536 kg GVWR. Seat adjustment and hinged-seat
+  restraint requirements also apply.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 642b4762ed8d53a8770e4a1d9990816ddc5216b9
 systems:

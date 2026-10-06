@@ -21,12 +21,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-561
 status: in-force
-summary: 49 CFR Part 561 requires standardized emergency response guides and rescue
-  sheets for electric-powered vehicles, and further documentation on low temperature
-  operation, REESS malfunction and thermal event warnings, and thermal runaway and
-  propagation risk mitigation. It applies to passenger cars, MPVs, trucks and buses
-  above 60 VDC or 30 VAC; rescue sheets from December 22, 2025, other documentation
-  from September 1, 2027 (GVWR 4,536 kg or less) or 2028 (over).
+summary: Requires emergency response guides and rescue sheets from 22 December 2025
+  for electrically propelled cars, MPVs, trucks and buses above 60 VDC or 30 VAC and
+  capable of more than 40 km/h over 1.6 km. Further REESS safety documentation applies
+  from 1 September 2027 at GVWR 4,536 kg or less and 2028 above that mass. Section
+  561.3(b) specifies one-year extensions for small-volume and final-stage manufacturers
+  and alterers; its exactly-4,536-kg boundary needs clarification.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c825a38a5841653c14538c123d2c4e884376eeb1
 systems:

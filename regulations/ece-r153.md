@@ -22,8 +22,9 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42021X2060
 status: in-force
-summary: UN R153 covers the integrity of the fuel system and the safety of the high-voltage
-  electric power train of M1 and N1 vehicles after a rear-end collision.
+summary: UN R153 covers fuel system integrity and high-voltage electric power train
+  safety after a rear-end collision for M1 vehicles with a total permissible mass
+  not exceeding 3,500 kg and for N1 vehicles.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 82cd291ac46758d05383c54836f926376fa87edf
 systems:

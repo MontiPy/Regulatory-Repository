@@ -38,6 +38,7 @@ title: UN Regulation No. 168 — Real Driving Emissions (RDE)
 vehicle_categories:
 - Passenger car
 - Light truck
+- Bus
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42024X0211, 2024-01-12). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

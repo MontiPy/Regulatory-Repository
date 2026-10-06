@@ -37,6 +37,7 @@ title: Motor Vehicle Restraint Systems and Booster Seats Safety Regulations
 vehicle_categories:
 - Passenger car
 - Light truck
+- Bus
 ---
 
 xml version="1.0"?SOR/2010-9020104:   29

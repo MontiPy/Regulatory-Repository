@@ -17,7 +17,7 @@ open_tags:
 - lane boundary detection
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Passenger vehicles (excluding light-class vans) and trucks or special-purpose
   vehicles over 3.5 tonnes gross vehicle weight must be equipped with a lane departure

@@ -24,9 +24,12 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html
 status: in-force
-summary: Greenhouse gas emissions from passenger automobiles and light trucks are
-  regulated under Canada's Environmental Protection Act, 1999, requiring manufacturers
-  to meet specified emission standards for these vehicles.
+summary: SOR/2010-201 sets greenhouse-gas emission standards and fleet credit requirements
+  for passenger automobiles and light trucks. The text held in this record also includes
+  zero-emission-vehicle requirements beginning in model year 2026, incrementally leading
+  to all new covered vehicles being zero-emission by model year 2035, with a separate
+  system of compliance units. Current amendments should be checked at the official
+  source.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 463e54a7dc7865128fbb69a1a5a637fd1839bf65
 systems:

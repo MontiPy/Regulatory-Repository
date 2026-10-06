@@ -33,7 +33,7 @@ systems:
 - Braking
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 13 — Braking of M, N and O Category Vehicles
+title: UN Regulation No. 13 — Braking of M2, M3, N and O Category Vehicles
 vehicle_categories:
 - Light truck
 - Heavy truck

@@ -36,6 +36,7 @@ title: MVSR s. 108 — Lamps, Reflective Devices and Associated Equipment (TSD 1
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 - Trailer
 - Motorcycle

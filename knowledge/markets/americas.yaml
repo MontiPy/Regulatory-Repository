@@ -7,7 +7,9 @@
 #   high   — stable, well-documented regime; details unlikely to be wrong
 #   medium — structure is right, specific instruments/dates may have moved
 #   low    — thin public documentation; treat as a starting pointer only
-# `un_1958` / `un_1998`: true / false, or null when not verified.
+# `un_1958` / `un_1998`: true / false for the named entity or all named group members;
+# null when unverified or mixed (see country-specific notes). Treaty membership
+# does not itself establish application or acceptance of particular UN Regulations.
 # Schema is enforced by scripts/knowledge.py (run as part of scripts/build.py).
 
 - code: US
@@ -32,10 +34,10 @@
     - "EPA Certificate of Conformity + Vehicle Emission Control Information (VECI) label (40 CFR 86/1066)"
     - "Monroney window sticker (15 U.S.C. 1232) with EPA/NHTSA fuel economy & environment label (40 CFR 600 Subpart D)"
     - "Parts marking for high-theft lines (49 CFR 541) unless exempted under Part 543"
-  emissions: "EPA Tier 3 → 2027+ criteria-pollutant standards. EPA rescinded the GHG endangerment finding and ALL federal vehicle GHG standards (final rule published 18 Feb 2026). CARB LEV III applies in California; the federal waiver for Advanced Clean Cars II (LEV IV / ZEV) was revoked by Congress under the CRA (12 Jun 2025) and is in litigation. Fuel economy: NHTSA CAFE reset for MY2022–2031 (SAFE Vehicles Rule III, FR 30 Sep 2026, effective 30 Nov 2026; credit trading eliminated)."
+  emissions: "EPA Tier 3 → 2027+ criteria-pollutant standards. EPA rescinded the GHG endangerment finding and federal vehicle GHG standards (final rule published 18 February 2026). Public Law 119-16 disapproved the ACC II waiver on 12 June 2025; CARB adopted permanent emergency vehicle emissions regulations on 26 March 2026 allowing earlier standards while litigation over newer rules is resolved. NHTSA published the CAFE reset for MY2022–2031 on 30 September 2026 (SAFE Vehicles Rule III), effective 30 November 2026; inter-manufacturer trading ends for credits earned in MY2028 onward."
   language: English (Spanish additionally expected for Puerto Rico consumer information)
   process:
-    - "Register as a manufacturer: Part 565 VIN-decoder/manufacturer-identifier submission at least 60 days before affixing the first VIN, and Part 566 manufacturer identification within 30 days of beginning manufacture."
+    - "Register as a manufacturer: Part 565 requires manufacturer-identifier information at least 60 days before affixing the first VIN using it; VIN-decoding information is due at least 60 days before offering the first vehicle for sale, or within one week after unavailable vehicle-characteristic information first becomes available. Part 566 manufacturer identification is due within 30 days of beginning manufacture."
     - "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D)."
     - "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests."
     - "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce."
@@ -73,8 +75,8 @@
   marks:
     - "Compliance label: either the National Safety Mark (Canadian manufacturers, authorized by TC) or a Statement of Compliance label (importers/foreign manufacturers) — MVSR s.6 / s.7"
     - "Tire information placard and bilingual labelling"
-  emissions: "ECCC On-Road Vehicle and Engine Emission Regulations (aligned with US EPA Tier 3 criteria pollutants). GHG: Canada keeps its own passenger-car/light-truck GHG regulations (no longer mirrors the US after the 2026 US repeal); amendments tightening them for MY2027–2032 were proposed in Canada Gazette I (15 Aug 2026). The Electric Vehicle Availability Standard's 2026 target was paused (Sep 2025) and its repeal proposed (draft regulations, comments to 29 Oct 2026)."
-  language: "English AND French for labels, owner's manual safety content, and recall notices"
+  emissions: "ECCC On-Road Vehicle and Engine Emission Regulations cover criteria pollutants. Canada retains separate passenger-automobile/light-truck GHG regulations. The consolidated SOR/2010-201 still contains EVAS targets, including MY2026; the 15 August 2026 Canada Gazette Part I proposal would repeal EVAS and update US references to preserve existing Canadian GHG requirements. Enhanced future GHG standards are being developed; that proposal does not establish tighter MY2027–2032 targets."
+  language: "English and French as specified by each provision. MVSR s.110 requires bilingual tire information; s.114 permits accompanying immobilizer operating and maintenance information in English, French or both, as requested by the first retail purchaser. Check the applicable owner-information and recall-notice provisions."
   process:
     - "Self-certify to applicable CMVSS (largely FMVSS-equivalent; Canadian-unique items include daytime running lamps (CMVSS 108), immobilization system (CMVSS 114), bilingual telltales/labels)."
     - "Apply the compliance label; foreign manufacturers/importers file the importer's declaration (Form 1) at the border."
@@ -82,7 +84,7 @@
     - "Post-market: notice of defect to the Minister and owners (MVSA s.10); Transport Canada can order recalls since 2018 amendments."
   watch:
     - "CMVSS updates tracking FMVSS 127 (AEB) and EV safety amendments."
-    - "EVAS repeal and replacement GHG standards for MY2027–2032 (Canada Gazette I, Aug 2026) — final regulations pending."
+    - "Proposed EVAS repeal and US-reference updates (Canada Gazette Part I, 15 August 2026; comments close 29 October 2026). Separate enhanced future GHG standards remain under development; verify any final registration before treating repeal as effective."
   notes:
     - "Canada-unique: DRL required on all new vehicles; immobilizer required; metric/bilingual displays."
   records: [ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038, ca-mvsr-c-r-c---c--1038-s108, ca-mvsr-c-r-c---c--1038-s114, ca-mvsr-sor-2003-2, ca-mvsr-sor-2010-201, ca-mvsr-sor-2013-198, ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices]
@@ -96,7 +98,7 @@
   regime: hybrid
   basis: "NOM (Normas Oficiales Mexicanas) — NOM-194-SE-2021 safety devices; emissions NOMs (SEMARNAT)"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Secretaría de Economía (SE / DGN), scope: "NOM-194 safety devices, conformity assessment", url: "https://www.gob.mx/se" }
     - { name: SEMARNAT / PROFEPA, scope: "Exhaust emissions (NOM-042-SEMARNAT-2003, NOM-076), CO2 (NOM-163-SEMARNAT-SCFI-2023)", url: "https://www.gob.mx/semarnat" }
@@ -129,7 +131,7 @@
   regime: registration-inspection
   basis: "National transport/registration rules; Central American Technical Regulations (RTCA) for some items; Costa Rica MOPT/RTV technical inspection"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "Costa Rica — MOPT / RTV (Riteve) technical inspection", scope: "Registration & periodic inspection", url: "https://www.mopt.go.cr" }
     - { name: "Panama — ATTT", scope: "Transit & registration", url: "https://www.transito.gob.pa" }
@@ -181,7 +183,7 @@
   regime: type-approval
   basis: "CONTRAN resolutions (safety) + CONAMA/PROCONVE (emissions) + INMETRO compulsory component certification"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: SENATRAN (formerly DENATRAN), scope: "Vehicle homologation — CAT certificate, RENAVAM registration code", url: "https://www.gov.br/transportes/pt-br/assuntos/transito/senatran" }
     - { name: IBAMA, scope: "PROCONVE emissions licence (LCVM) and noise", url: "https://www.gov.br/ibama" }
@@ -217,7 +219,7 @@
   regime: type-approval
   basis: "Ley Nacional de Tránsito 24.449 and Decree 779/95 (Annex) — LCM safety configuration licence + LCA environmental licence"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "Secretaría de Industria / Dirección de Industria (LCM issuance)", scope: "Licencia para Configuración de Modelo (LCM)", url: "https://www.argentina.gob.ar/produccion" }
     - { name: "Secretaría de Ambiente (LCA)", scope: "Licencia de Configuración Ambiental (emissions/noise)", url: "https://www.argentina.gob.ar/ambiente" }
@@ -242,7 +244,7 @@
   regime: type-approval
   basis: "Ministry of Transport (MTT) homologation via 3CV; Decree-based safety equipment requirements; Ley 21.305 energy efficiency"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "MTT — Centro de Control y Certificación Vehicular (3CV)", scope: "Homologation (emissions, safety equipment), labelling", url: "https://www.mtt.gob.cl" }
     - { name: Ministerio de Energía, scope: "Fuel-efficiency standards (Ley 21.305) and energy label", url: "https://energia.gob.cl" }
@@ -265,8 +267,8 @@
   drive: LHD
   regime: hybrid
   basis: "Ministerio de Transporte vehicle safety regulation (Res. 3752/2015 and successors) referencing UN R / FMVSS; Ministry of Environment emission rules"
-  un_1958: null
-  un_1998: null
+  un_1958: false
+  un_1998: false
   authorities:
     - { name: Ministerio de Transporte, scope: "Vehicle active/passive safety regulation (Res. 3752/2015 and successors), RUNT registration", url: "https://www.mintransporte.gov.co" }
     - { name: "Ministerio de Comercio, Industria y Turismo (MinCIT)", scope: "Component technical regulations (e.g. tyres)", url: "https://www.mincit.gov.co" }
@@ -294,7 +296,7 @@
   regime: hybrid
   basis: "Peru: Reglamento Nacional de Vehículos (D.S. 058-2003-MTC) + homologation; Ecuador: RTE INEN 034 minimum safety elements + INEN certificate; Bolivia/Venezuela: national rules"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "Peru — MTC (Ministerio de Transportes y Comunicaciones)", scope: "Homologation / vehicle regulation; emission limits (Euro 4+ references)", url: "https://www.gob.pe/mtc" }
     - { name: "Ecuador — INEN / SAE (accreditation) / ANT", scope: "RTE INEN 034 compliance certificate, homologation", url: "https://www.normalizacion.gob.ec" }
@@ -320,7 +322,7 @@
   regime: registration-inspection
   basis: "National rules; Mercosur resolutions on minimum safety equipment"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "Uruguay — MIEM / MTOP / UNASEV", scope: "Safety equipment requirements, emissions", url: "https://www.gub.uy" }
     - { name: "Paraguay — DINATRAN / MIC", scope: "Import and registration", url: "https://www.mic.gov.py" }

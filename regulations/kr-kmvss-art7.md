@@ -21,7 +21,7 @@ open_tags:
 - small-class vehicle
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Weight distribution requirements for motor vehicles in Korea mandate that
   the total wheel load on the steering axle must equal at least 20 percent (18 percent

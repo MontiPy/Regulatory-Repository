@@ -21,12 +21,13 @@ open_tags:
 - door support structure
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Side doors of passenger cars (excluding ultra-compact vehicles) must resist
-  specified crushing loads applied by a standardized cylindrical test device, with
-  minimum average and maximum resistance thresholds at 152 mm, 305 mm, and 457 mm
-  of displacement.
+summary: Article 104 sets side-door crush-resistance requirements for passenger cars
+  excluding ultra-compact cars, and separate latch, hinge and retention requirements
+  for hinged, sliding and ultra-compact vehicle doors. The latch and hinge rules include
+  specified strength and inertia loads, with exclusions for certain vehicle and door
+  types.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 913fc7cd8a4d57c1d8e283fecfbba92812ddc56b
 systems:

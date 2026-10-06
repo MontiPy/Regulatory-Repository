@@ -28,8 +28,8 @@ source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305a
 status: upcoming
 status_note: Mandatory applicability begins 1 Sep 2027 for vehicles of 4,536 kg GVWR
-  or less and 1 Sep 2028 for heavier vehicles; small-volume manufacturers get one
-  more year.
+  or less and 1 Sep 2028 for heavier vehicles; small-volume manufacturers, final-stage
+  manufacturers and alterers get one additional year.
 summary: FMVSS No. 305a specifies requirements for protection from electric shock,
   fire, explosion and gas venting during normal operation and after a crash, including
   electrolyte leakage and energy storage intrusion. It applies to passenger cars,

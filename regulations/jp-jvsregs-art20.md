@@ -24,15 +24,19 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Passenger accommodation in motor vehicles must be structured to prevent occupants
-  from falling or being thrown about, with enclosed passenger cabins required where
-  non-driver passengers are carried, and adequate ventilation provided throughout.
+summary: Passenger accommodation must keep occupants safely seated, and driver and
+  passenger cabins must provide adequate ventilation. A passenger cabin is required
+  for passengers other than the driver and assistant, except on two-wheelers, sidecars,
+  crawler/sled light vehicles and emergency vehicles. Interior components must meet
+  flame-retardancy standards, while designated interior components and sun visors
+  must meet occupant-protection standards; their vehicle exclusions vary.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c6fd4e40481bd0fab8a24b9ed8bdd59036180629
 systems:
 - Crashworthiness
 - Restraints
 - HVAC
+- Fire safety & flammability
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 20 — Passenger Accommodation

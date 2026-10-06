@@ -23,10 +23,12 @@ region: JP
 source_api: spreadsheet
 source_url: https://www.jasic.org/e/08_publication/bb/20_handbook.htm
 status: in-force
-summary: Windshield wiping, washing, defrosting, and defogging systems for vehicles
-  sold in Japan are regulated under SRRV/TRIAS to ensure adequate driver visibility.
+summary: Reference record for Japanese windshield wiping, washing, defrosting and
+  defogging requirements. This repository does not hold the applicable regulation
+  text; exact articles, test procedures and vehicle scope must be checked in the official
+  rules.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: bd3071077a98bd57b9c52dbd3e906805649f001b
+summary_hash: 5bed76336d3d26d5e8d0b0095a6e662d2a27c242
 systems:
 - Visibility
 - Glazing
@@ -41,27 +43,4 @@ vehicle_categories:
 
 # Windshield Wiping, Washing, Defrosting and Defogging
 
-**Regulated Area:** Visibility / lighting / HMI
-
-**Applicability:** Mirrors, cameras, glazing zones, wiper/washer, defrost/defog, rear visibility suppliers Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.
-
-## Primary Vehicle Systems and Components
-
-Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.
-
-## Failure Modes and Symptoms
-
-Lighting nonconformance, wrong color/intensity, lamp out or flicker, mis-aimed beams, glare, visibility/conspicuity loss, incorrect tell-tale logic.
-
-## Related Regulations
-
-Possible functional overlap: Japan MLIT / Safety Regulations Article 44 - Mirrors
-
-## Engineering Considerations
-
-Regional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

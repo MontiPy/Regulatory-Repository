@@ -20,13 +20,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.203
 status: in-force
-summary: Steering control systems in passenger cars and in multipurpose passenger
-  vehicles, trucks and buses with a GVWR of 4,536 kg or less are regulated to minimize
-  chest, neck and facial injuries to the driver. The steering control must not transmit
-  more than 11,120 N of force to the driver in the S5.1 impact test. The standard
-  does not apply to vehicles that meet the frontal barrier crash requirements (S5.1)
-  of FMVSS 208 by means other than seat belt assemblies, nor to walk-in vans or vehicles
-  without a steering control.
+summary: FMVSS No. 203 limits steering-control impact forces to reduce chest, neck
+  and facial injuries in passenger cars and MPVs, trucks and buses up to 4,536 kg
+  GVWR. In the specified 24 km/h body-block test, force may not exceed 11,120 N except
+  for intervals totaling at most 3 milliseconds. Vehicles meeting FMVSS 208 S5.1 by
+  means other than belts, walk-in vans and vehicles without steering controls are
+  excluded.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 9fe2592c650e12d606b46cd0d2748526314071c1
 systems:

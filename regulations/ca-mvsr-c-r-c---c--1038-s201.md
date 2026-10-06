@@ -5,6 +5,7 @@ commodities:
 - Airbags
 - Seatbelts
 - Body structure
+- Interior trim
 id: ca-mvsr-c-r-c---c--1038-s201
 last_pulled: '2026-06-01T18:52:49+00:00'
 open_tags:
@@ -24,12 +25,11 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Section 201 of Canada's Motor Vehicle Safety Regulations applies to passenger
-  cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4
-  536 kg or less. It requires the instrument panel within the head impact area to
-  decelerate a 6.8 kg head form no more than 80 g continuously for over 3 ms, when
-  struck at 19.3 km/h (with an air bag and Type 2 belt at the right front seat) or
-  24 km/h otherwise. The test follows SAE J921b.
+summary: Section 201 applies to passenger cars and to multi-purpose passenger vehicles,
+  trucks and buses with GVWR of 4,536 kg or less. It sets head-impact performance
+  requirements for instrument panels and seatbacks, retention tests for interior compartment
+  doors, and energy-absorption requirements for sun visors and armrests, with specified
+  test procedures and exclusions.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c7e9ec39a627047ab5d9e8f6294ef4489a324e07
 systems:

@@ -20,11 +20,14 @@ open_tags:
 - inertial load
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Driver and passenger seats in motor vehicles (excluding certain seat types)
-  must be structurally strong enough to withstand specified longitudinal forces and
-  moments at any adjusted position without displacing from their pre-force position.
+summary: Article 97 sets seat strength and retention requirements, excluding side-facing
+  seats, folding auxiliary seats and van passenger seats. Longitudinal forces apply
+  at any adjustable position; the forward- or rearward-facing seat moment test applies
+  with the seat at its rearmost position. Hinged and folding seats require locking
+  and release devices, subject to stated vehicle/seat exceptions, and their locks
+  must withstand the specified forces.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5df2453d1c65816881680727695275a3a325d8e4
 systems:
