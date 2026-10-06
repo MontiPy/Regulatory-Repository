@@ -1,0 +1,186 @@
+{
+ "group": "v03",
+ "patches": {
+  "au-f2018l01518": {
+   "summary": "ADR 23/03 is the Australian Design Rule for passenger car tyres. It specifies requirements for new pneumatic tyres designed primarily for passenger cars and other light vehicles (including light trailers, UN Class C1 tyres for M1, N1, O1, O2). It does not apply to commercial-vehicle (C2/C3) tyres, re-treaded trailer tyres or temporary-use spares. Compliance is by Appendix A (based on UN R30) or the UN R30 alternative standard.",
+   "un_equivalent": [
+    "UN R30"
+   ],
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Trailer"
+   ],
+   "_why": "Cl 2 function, cl 3 exclusions, cl 5 (C1 tyres, M1/N1/O1/O2), cl 7.1 UN R30 alternative; categories add light trailers/N1"
+  },
+  "au-f2018l01521": {
+   "summary": "ADR 93/00 requires that the driver has an adequate field of view to either side and in all directions in front of the vehicle, including limits on obstruction and on passenger seating position relative to the driver. It applies to category L, M and N vehicles (mandatory for new models from 1 July 2019). UN Regulation No. 125 is deemed equivalent for MA, MB, MC and NA vehicles. Compilation date 4 February 2026.",
+   "un_equivalent": [
+    "UN R125"
+   ],
+   "vehicle_categories": [
+    "Motorcycle",
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "Cl 2-3 (L, M, N from 1 Jul 2019), cl 7 UN R125 equivalence"
+  },
+  "au-f2019l00026": {
+   "summary": "ADR 4/06 specifies requirements for seatbelts: ease of fastening and adjustment, helping the driver stay seated, restraining occupants under impact and preventing ejection. It applies to category LEP, LEG, M and N vehicles (mandatory for new models from 1 July 2019). UN Regulation No. 16 (04 series from supplement 12 and 06 series from supplement 5, up to 09 series) is deemed equivalent, as is AS/NZS 2596. Compilation date 4 February 2026.",
+   "un_equivalent": [
+    "UN R16"
+   ],
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Motorcycle",
+    "Off-road"
+   ],
+   "_why": "Cl 2-3 scope LEP/LEG/M/N, applicability table shows trailers N/A; cl 7 UN R16"
+  },
+  "au-f2019l00029": {
+   "summary": "ADR 5/06 specifies requirements for seatbelt anchorages so that seatbelts can be adequately secured to the vehicle structure or seat and meet comfort requirements. It applies to category LEP, LEG, M and N vehicles (mandatory for new models from 1 July 2019), and vehicles must also be certified to ADR 4/06 or later. UN Regulation No. 14 (07, 08 and 09 series) is deemed equivalent. Compilation date 4 February 2026.",
+   "un_equivalent": [
+    "UN R14"
+   ],
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Off-road"
+   ],
+   "_why": "Cl 2-3 scope; applicability table trailers N/A; cl 7 UN R14"
+  },
+  "au-f2022l00211": {
+   "summary": "ADR 97/00 specifies requirements for Advanced Emergency Braking Systems on omnibuses and goods vehicles over 3.5 tonnes GVM, to avoid or mitigate rear-end in-lane collisions. It applies to category MD, ME, NB and NC vehicles in phases from 1 October 2023 to 1 February 2025, with exclusions (standee buses, articulated buses, 4+ axles, off-road, heavy cranes). UN R131 (01 and 02 series) is deemed equivalent. Compilation date 30 January 2025.",
+   "un_equivalent": [
+    "UN R131"
+   ],
+   "_why": "Cl 2-3 scope and dates, cl 7 UN R131"
+  },
+  "au-f2023l00129": {
+   "summary": "ADR 80/04 sets exhaust emission requirements for internal combustion engines in heavy vehicles, to reduce the burden of disease from air pollution. It applies to MA-MD vehicles over 3,500 kg GVM and all ME, NB and NC vehicles, from 1 November 2024 (new models) and 1 November 2025 (all vehicles); light electric and hydrogen vehicles up to 4,500 kg are exempt. UN Regulation No. 49 (06 series, Supplement 4 or later) is accepted with conditions. Compilation date 24 September 2026.",
+   "un_equivalent": [
+    "UN R49"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7.1 UN R49"
+  },
+  "au-f2023l01006": {
+   "summary": "ADR 108/00 specifies requirements for reversing technologies fitted to vehicles, to increase the driver's awareness of road users behind the vehicle when reversing and avoid or mitigate reversing collisions. It applies to category MA, MB, MC, MD, ME, NA, NB and NC vehicles from 1 November 2025 (new models) and 1 November 2027 (all vehicles); partially completed vehicles and prime movers are optional. Includes a 100% minimum detection rate over the test points. The original series of UN R158 is accepted as an alternative.",
+   "un_equivalent": [
+    "UN R158"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7 UN R158 alternative, detection rate 100% in text"
+  },
+  "au-f2023l01319": {
+   "summary": "ADR 14/03 specifies requirements for devices for indirect vision (mirrors and camera-monitor systems) giving drivers and riders a clear view to the rear, side or front. It is mandatory from 1 October 2023 only for sub-category NB2 and category NC vehicles over 2,500 mm wide, and optional for other L, M and N vehicles, which may continue to comply with ADR 14/02. UN R46 (04 to 06 series) and, for two-wheelers, UN R81 are deemed equivalent. Compilation date 4 February 2026.",
+   "un_equivalent": [
+    "UN R46",
+    "UN R81"
+   ],
+   "vehicle_categories": [
+    "Motorcycle",
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "Cl 2-3 applies/optional for L, M, N only (no trailers), cl 7 UN R46 and R81"
+  },
+  "au-f2023l01321": {
+   "summary": "ADR 105/00 specifies requirements for Blind Spot Information Systems on medium and heavy goods vehicles, to warn the driver of a possible collision with a bicycle on the near side when turning. It applies to goods vehicles over 8 tonnes GVM and over 2,500 mm wide from 1 November 2025 (new models) and 1 February 2027 (all vehicles); optional for smaller NB2/NC vehicles. UN Regulation No. 151 (00 series, supplements 1 to 3) is accepted as an alternative. Compilation date 4 March 2026.",
+   "un_equivalent": [
+    "UN R151"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7 UN R151"
+  },
+  "au-f2023l01526": {
+   "summary": "ADR 109/01 prescribes safety requirements for electric power trains, including protection against contact with high-voltage components and electrolyte spillage from batteries. It applies to MA-MD, ME and NA-NC vehicles with a maximum design speed of 25 km/h or more fitted with an electric power train and REESS, from 1 November 2025 (new models) and 1 November 2028 (all vehicles). The 03 series of UN R100, FMVSS 305 and UN GTR 20 are accepted as alternatives.",
+   "un_equivalent": [
+    "UN R100"
+   ],
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "Cl 2-3 scope is M and N categories only (no motorcycles), cl 7.1 UN R100"
+  },
+  "au-f2023l01530": {
+   "summary": "ADR 110/00 specifies safety-related performance requirements for passenger and goods vehicles fitted with a Compressed Hydrogen Storage System (CHSS), to minimise the risk of hydrogen leaks or explosions. It applies to MA-MD, ME and NA-NC vehicles fitted with a CHSS, from 1 November 2024 (new models) and 1 November 2026 (all vehicles). UN R134 (00 and 01 series) and UN GTR 13 are accepted as alternatives.",
+   "un_equivalent": [
+    "UN R134"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7 UN R134 and GTR 13"
+  },
+  "au-f2024l00089": {
+   "summary": "ADR 113/00 specifies minimum sound requirements for electrified passenger and goods vehicles that can be propelled without an internal combustion engine operating, so pedestrians and other vulnerable road users can detect them. It applies to MA-MD, ME and NA-NC vehicles from 1 November 2025 (new models) and 1 November 2026 (all vehicles). UN R138 (up to 01 series) and FMVSS 141 are accepted as alternatives. Compilation date 24 September 2026.",
+   "un_equivalent": [
+    "UN R138"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7.1 UN R138"
+  },
+  "au-f2024l00161": {
+   "summary": "ADR 99/01 specifies requirements for Lane Departure Warning Systems on omnibuses and medium and heavy goods vehicles, to warn a distracted or drowsy driver of unintentional drift out of the travel lane. It applies to MD, ME, NB and NC vehicles from 1 September 2026 (new models) and 1 September 2028 (all vehicles), excluding standee buses, articulated buses, 4+ axle, off-road and heavy crane vehicles. UN R130 (01 series) is accepted as an alternative. Compilation date 30 January 2025.",
+   "un_equivalent": [
+    "UN R130"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7 UN R130"
+  },
+  "au-f2024l00443": {
+   "summary": "ADR 79/05 sets exhaust emission requirements for light vehicles to reduce the burden of disease from air pollution, with Appendix A based on the 08 series of UN R83. It applies to MA, MB, MC, MD and NA vehicles up to 3,500 kg GVM from 1 December 2025 (new models) and 1 July 2028 (all vehicles). UN R83 (08 series) and UN R49 (06 series, Supplement 4 or later, with conditions) are accepted as alternatives. Compilation date 24 September 2026.",
+   "un_equivalent": [
+    "UN R83",
+    "UN R49"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7.1 UN R83, 7.2 UN R49"
+  },
+  "au-f2024l00446": {
+   "summary": "ADR 111/00 sets performance-based exhaust and evaporative emission requirements for light vehicles, with test procedures for criteria emissions, CO2, fuel consumption, electric energy consumption and range (based on WLTP, UN R154). It applies to MA, MB, MC, MD and NA vehicles up to 3,500 kg GVM from 1 December 2025 (new models) and 1 July 2028 (all vehicles). Vehicles complying with ADR 79/05 via its alternatives are exempt. UN R154 (Level 1A or 2) is accepted as an alternative.",
+   "un_equivalent": [
+    "UN R154"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7.1 UN R154"
+  },
+  "au-f2024l00447": {
+   "summary": "ADR 112/00 sets exhaust emission requirements for light vehicles in real-world driving, with Appendix A based on UN R168 (RDE). It applies to MA, MB, MC, MD and NA vehicles up to 3,500 kg GVM from 1 December 2025 (new models) and 1 July 2028 (all vehicles); pure electric and hydrogen fuel cell vehicles and vehicles meeting ADR 79/05 via its alternatives need not comply. UN R168 (original and 01 series) is accepted as an alternative. Compilation date 24 September 2026.",
+   "un_equivalent": [
+    "UN R168"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7 UN R168"
+  },
+  "au-f2024l01742": {
+   "summary": "ADR 68/01 specifies requirements for certain omnibuses covering seatbelts, seat strength, seat anchorages, seatbelt and child restraint anchorages, and protection from impact with seat backs, accessories and armrests (head injury criterion limits, dynamic and static tests). It applies to category MD and ME vehicles from 1 November 2026 (new models) and 1 November 2027 (all vehicles), excluding route service buses without passenger belts and buses with fewer than 17 seats.",
+   "un_equivalent_ai": [
+    "UN R80",
+    "UN R14",
+    "UN R16"
+   ],
+   "_why": "Cl 2-3 function/scope/dates; no UN alternative standards clause; UN R80 is the plausible seat-strength counterpart"
+  },
+  "au-f2025l00028": {
+   "summary": "ADR 72/01 aims to reduce the risk of serious and fatal injury to occupants in lateral crashes by limiting forces, accelerations and deflections measured on test dummies in a dynamic side impact test, including protection from high-voltage live parts. It applies to MA, MB, MC and NA vehicles with the lowest seat R point not more than 700 mm above ground, from 1 November 2026 (new models) and 1 November 2028 (all vehicles). UN R95 (03, 04 and 05 series) is accepted as an alternative.",
+   "un_equivalent": [
+    "UN R95"
+   ],
+   "_why": "Cl 2-3 function/scope/dates, cl 7 UN R95"
+  },
+  "au-f2025l01402": {
+   "summary": "ADR 81/03 prescribes requirements for measuring fuel consumption, CO2 emissions, energy consumption and range of light vehicles, and for the design and fitment of energy consumption labels. It applies to MA-MD and NA vehicles up to 3,500 kg GVM from 1 July 2026 (new models) and 1 July 2028 (all models), and to heavier vehicles if labelled. Annexes B1-B8 of UN R154 (WLTP), EU Regulation 2017/1151 and 2025/1706 Annex XXI and US 40 CFR are accepted as alternatives. Compilation date 24 September 2026.",
+   "un_equivalent": [
+    "UN R154"
+   ],
+   "un_equivalent_ai": [
+    "UN R101"
+   ],
+   "_why": "Cl 1/3 function and scope, cl 7.1 UN R154 Annexes B1-B8"
+  }
+ },
+ "skipped": []
+}
