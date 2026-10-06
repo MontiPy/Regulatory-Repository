@@ -1,0 +1,106 @@
+{
+  "shard": "mk-06",
+  "reviewed": ["EFTA","TR","UA","BALKANS","EAEU","CENTRAL-ASIA"],
+  "findings": [
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "notes[0]",
+      "verdict": "wrong",
+      "severity": "high",
+      "current": "Uzbekistan's 1958 Agreement accession was reported in 2025; Tajikistan is a 1958 Agreement CP — verify current status at UNECE.",
+      "proposed": "Uzbekistan acceded to the 1958 Agreement on 20 Oct 2025 (and also to the 1998 Agreement); Mongolia acceded to the 1958 Agreement on 29 Apr 2026. Tajikistan's CP status could not be confirmed and it does not appear in lists of 1958 CPs - remove the claim unless verified against ECE/TRANS/WP.29/343.",
+      "evidence": "UNECE 'Latest Ratifications' search result: 'Uzbekistan acceded to the ... 1958 ... on 20/10/2025'; 'Mongolia acceded to the 1958 Agreement on 29 April 2026'. Searches for Tajikistan as a 1958 CP returned nothing.",
+      "evidence_url": "https://unece.org/transport/latest-ratifications",
+      "confidence": "medium"
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "un_1958",
+      "verdict": "questionable",
+      "severity": "medium",
+      "current": "null",
+      "proposed": "Group is mixed: Uzbekistan = true (since Oct 2025), Mongolia = true (accession 29 Apr 2026; check entry-into-force date), Tajikistan/Turkmenistan unverified. Consider splitting the profile or describing per-country status instead of a single null.",
+      "evidence": "UNECE Latest Ratifications: Uzbekistan 20/10/2025, Mongolia 29 April 2026 accession to 1958 Agreement.",
+      "evidence_url": "https://unece.org/transport/latest-ratifications",
+      "confidence": "medium"
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "un_1998",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "null",
+      "proposed": "Uzbekistan also acceded to the 1998 Agreement; Mongolia has a UNECE 1958/1998 presentation (Glukhenkiy) - verify per country.",
+      "evidence": "Search result: 'Additionally, Uzbekistan acceded to the Agreement concerning the establishing of Global Technical Regulations for Wheeled Vehicles, 1998.'",
+      "evidence_url": "https://unece.org/technical-cooperation/uzbekistan",
+      "confidence": "low"
+    },
+    {
+      "id": "EAEU",
+      "field": "notes[1]",
+      "verdict": "wrong",
+      "severity": "medium",
+      "current": "Kyrgyzstan's 1958 Agreement accession was reported in 2025.",
+      "proposed": "Kyrgyzstan deposited its instrument of accession to the 1958 Agreement on 21 Aug 2023 (it is a Contracting Party now).",
+      "evidence": "UNECE latest ratifications record: Kyrgyzstan accession to the 1958 Agreement recorded 21/08/2023.",
+      "evidence_url": "https://unece.org/transport/latest-ratifications",
+      "confidence": "medium"
+    },
+    {
+      "id": "BALKANS",
+      "field": "authorities[0].name",
+      "verdict": "wrong",
+      "severity": "medium",
+      "current": "Serbia — Agency for Safety in Traffic / Ministry of Interior (homologation)",
+      "proposed": "Serbia — Road Traffic Safety Agency (Agencija za bezbednost saobraćaja, ABS); technical services authorised by the Ministry of Construction, Transport and Infrastructure. Remove 'Ministry of Interior'.",
+      "evidence": "'The competent authority for implementing the vehicle homologation ... in the Republic of Serbia is the Agencija za bezbednost saobraćaja (Road Traffic Safety Agency)'; authorisation of technical services comes from the minister of transportation.",
+      "evidence_url": "https://www.abs.gov.rs/rsl/nova_vozila/homologacija/tehnicka_sluzba",
+      "confidence": "medium"
+    },
+    {
+      "id": "BALKANS",
+      "field": "members / authorities",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Only Serbia has an authority entry; members Moldova, Georgia, Kosovo have no E-number or per-country process; un_1958 true is a group-level value",
+      "proposed": "Add per-country authorities or state that un_1958 holds for most members but not Kosovo; E-numbers for Moldova/Georgia could not be verified.",
+      "evidence": "Group profile mixes EU candidates, Caucasus and Moldova; searches could not confirm E-codes for Albania/Montenegro/Georgia/Moldova (E10, E31, E39, E40 confirmed).",
+      "evidence_url": "https://www.testups.com/e-marking-countries/",
+      "confidence": "low"
+    },
+    {
+      "id": "UA",
+      "field": "authorities[0]",
+      "verdict": "unverifiable",
+      "severity": "low",
+      "current": "Ministry of Infrastructure / designated technical services; url https://mtu.gov.ua",
+      "proposed": "",
+      "evidence": "Could not confirm which ministry currently holds type-approval competence after the 2025 government reorganisation, or that mtu.gov.ua is the right site. un_1998 null, 'Euro 5/6' and martial-law note also unverified.",
+      "evidence_url": "",
+      "confidence": "low"
+    },
+    {
+      "id": "TR",
+      "field": "un_1998",
+      "verdict": "unverifiable",
+      "severity": "medium",
+      "current": "true",
+      "proposed": "",
+      "evidence": "Searches did not return the 1998 Agreement CP list; Turkey's accession to the 1998 Agreement could not be confirmed (Turkey is confirmed as E37 / 1958 CP). Verify against UNECE status of the 1998 Agreement.",
+      "evidence_url": "https://unece.org/contracting-parties-4",
+      "confidence": "low"
+    },
+    {
+      "id": "EFTA",
+      "field": "un_1958",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "true",
+      "proposed": "Clarify per member: Norway (E16) and Switzerland (E14) are CPs; Iceland and Liechtenstein are not shown as CPs. Also the repo's TR basis/EFTA Swiss MRA wording (motor vehicles are covered under an MRA chapter per search) is acceptable.",
+      "evidence": "Repo members list only Norway E16 and Switzerland E14 with E-numbers; Iceland/Liechtenstein have none. Group-level 'true' overstates.",
+      "evidence_url": "knowledge/markets/europe.yaml",
+      "confidence": "low"
+    }
+  ],
+  "notes": "Group-level profiles (EFTA, BALKANS, CENTRAL-ASIA, EAEU) apply a single un_1958/un_1998 value to members with different status; UNECE accessions in 2023-2026 (Kyrgyzstan 2023, Uzbekistan 2025, Mongolia 2026) have overtaken the 'reported'/null wording. 1998 Agreement membership claims for TR, UA, EAEU, EFTA could not be verified from snippets. Precheck had no flags for these markets."
+}
