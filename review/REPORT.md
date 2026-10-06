@@ -238,3 +238,15 @@ Human-check items (resolved 2026-10-06):
 - `kr-kmvss-art18-5` (Software / OTA updates, in force 2025-08-14) now holds the official text, with an English translation and the Korean original.
 - Found while checking: `kr-kmvss-art18-4` held superseded camper-vehicle text. The 2025-08-14 amendment made Art. 18-4 "Cybersecurity" and moved the camper rules to 18-6. Records were renamed and rewritten to match, and the KR connector now takes the current version of an article (new parser fallback plus tests).
 - Some template-body records (GCC, some JP/ZA workbook records) still say in their summary that no regulation text is held. This is by design.
+
+### Follow-ups (2026-10-06)
+
+- **UN equivalents:** machine-suggested values (`un_equivalent_ai`) were removed from 353 records and are no longer built or shown. Their values are kept in `review/removed_un_equivalent_ai.json`. The text-stated `un_equivalent` field stays: 249 of 253 values appear in the record's own text, two unsupported values were removed (ADR 49 R7/R48), and GB 11552 → R21 is kept because the standard's foreword states the modified adoption.
+- **Taxonomy:** six systems and three commodities were added (eCall; fire safety & flammability; hazardous substances & recycling; radio & telecom; event & data recording; dimensions & weights; couplings & towing; interior trim; telematics unit). 48 records were retagged.
+- **Korean translations:** all 80 were checked against the current official text (`scripts/check_kr_translations.py`). Four were stale and have been retranslated:
+  - Art. 15: brake lamps for automatic braking may stay off at 1.3 m/s² or less (was 0.7).
+  - Art. 19: rear underrun protection amended.
+  - Art. 56-2: EDR trigger added for pedestrian/cyclist protection deployment.
+  - Art. 18-6: the 2025 renumbering and amendment.
+
+  All 80 are now current.
