@@ -1,0 +1,178 @@
+{
+ "shard": "rec-us-parts-02",
+ "reviewed": [
+  "us-cfr-part-541",
+  "us-cfr-part-542",
+  "us-cfr-part-543",
+  "us-cfr-part-545",
+  "us-cfr-part-551",
+  "us-cfr-part-554",
+  "us-cfr-part-555",
+  "us-cfr-part-556",
+  "us-cfr-part-557",
+  "us-cfr-part-561",
+  "us-cfr-part-563",
+  "us-cfr-part-564",
+  "us-cfr-part-565",
+  "us-cfr-part-566",
+  "us-cfr-part-567",
+  "us-cfr-part-568"
+ ],
+ "findings": [
+  {
+   "id": "us-cfr-part-541",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Body structure, Bumpers, Steering column, Seats, Mirrors, Wheels",
+   "proposed": "Engine, Transmission, Body structure (fenders, hood, doors, quarter panels, decklid/tailgate), Bumpers",
+   "evidence": "Parts marked per 49 CFR 541.5(a)(1)-(18): engine, transmission, front fenders, hood, front/rear/sliding doors, front and rear bumpers, quarter panels (cars) / side assemblies (MPVs), pickup/cargo box, decklid/tailgate/hatchback. No seats, steering column, mirrors or wheels. The body text in the repo never mentions seats, steering column, mirrors or wheels.",
+   "evidence_url": "https://www.law.cornell.edu/cfr/text/49/541.5",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-541",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Body of \u00a7 541.5(a) says parts are 'specified in paragraphs (a)(1) through (a)(18)'",
+   "proposed": "Restore the enumerated list of 18 marked parts (and Appendix A-I exempted lines / Appendix B / C content if dropped)",
+   "evidence": "Repo body \u00a7 541.5(a): 'identifying number affixed or inscribed on each of the parts specified in paragraphs (a)(1) through (a)(18) inclusive' but the (a)(1)-(a)(18) list itself is absent from the file, so the 'full text' does not tell the reader which parts must be marked.",
+   "evidence_url": "regulations/us-cfr-part-541.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-541",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R162",
+   "proposed": "(none; no UN counterpart for parts marking)",
+   "evidence": "UN R162 is 'Immobilisers' (repo ece-r162 title: 'UN Regulation No. 162 \u2014 Immobilisers'). Part 541 requires VIN marking on major parts to trace stolen components, not immobilizer performance.",
+   "evidence_url": "regulations/ece-r162.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-542",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R116, UN R162",
+   "proposed": "(none)",
+   "evidence": "Part 542 is purely a procedure for manufacturers and NHTSA to select new light-duty truck lines likely to have high/low theft rates (542.1(a) 'procedures ... to follow in the determination of whether any new light duty truck line is likely to have a theft rate above or below the 1990/91 median'). R116 (unauthorised use protection) and R162 (immobilisers) are technical device requirements, not equivalent.",
+   "evidence_url": "regulations/us-cfr-part-542.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-545",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R162, UN R116",
+   "proposed": "(none)",
+   "evidence": "Part 545 is a one-time manufacturer reporting/recordkeeping requirement about Part 541 phase-in (545.6: 'Within 60 days after the end of the production year ending August 31, 2007'). No UN technical counterpart.",
+   "evidence_url": "regulations/us-cfr-part-545.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-545",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "in-force",
+   "proposed": "in-force (spent/historical): reporting obligations expired in 2007",
+   "evidence": "545.4(a): 'At any time prior to August 31, 2007 ...'; 545.5 production year 'between September 1 of 2006 and August 31, 2007'. Text is still in the CFR but all reporting deadlines have passed; a certification engineer should not read it as an active obligation.",
+   "evidence_url": "regulations/us-cfr-part-545.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-561",
+   "field": "commodities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Batteries, Electric motors, Wiring, Power electronics, Charging inlet",
+   "proposed": "Batteries (REESS); drop Charging inlet / Wiring / Electric motors unless justified",
+   "evidence": "Part 561 is documentation (rescue sheets, ERGs, low-temperature, REESS warning, thermal propagation). The only charging mentions are 'charge and discharge rates' of the REESS (561.7(c)); no requirement addresses a charging inlet or wiring.",
+   "evidence_url": "regulations/us-cfr-part-561.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-561",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Battery safety, EV charging, Tell-tales & controls",
+   "proposed": "Battery safety, Tell-tales & controls (drop EV charging)",
+   "evidence": "Scope 561.1 lists ERGs/rescue sheets, low-temperature operation documentation, REESS malfunction/thermal event warning and thermal runaway documentation; nothing on charging infrastructure or charging interface.",
+   "evidence_url": "regulations/us-cfr-part-561.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-561",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R100",
+   "proposed": "UN R100 (REESS safety) / UN GTR 20 only as partial analogue for the thermal-event/REESS documentation parts; no UN equivalent for rescue sheets/ERGs (ISO 17840)",
+   "evidence": "Part 561 mandates submission of ISO 17840 rescue sheets and ERGs to NHTSA (561.4, 561.6); UN R100 contains electrical-safety and REESS construction requirements, not first-responder documentation. Mapping is at best partial and should be labelled so.",
+   "evidence_url": "regulations/us-cfr-part-561.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-567",
+   "field": "commodities",
+   "verdict": "wrong",
+   "severity": "low",
+   "current": "Bumpers, Mirrors, Tires, Suspension",
+   "proposed": "(none, or Tires only via weight-rating/tire information on label)",
+   "evidence": "Part 567 is the certification label rule. 'mirrors' appears only as an example of a readily attachable component in the 'Altered vehicle' definition; bumper appears only as a definitional reference to the bumper standard; suspension appears only in the 'incomplete vehicle' definition. None is regulated here.",
+   "evidence_url": "regulations/us-cfr-part-567.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-568",
+   "field": "commodities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Bumpers, Tires, Body structure",
+   "proposed": "(none)",
+   "evidence": "Part 568 prescribes IVD/addendum/final-stage certification documentation. 'bumper' appears only in the definitions cross-reference and 'tires' only in an example GAWR line; no component requirements.",
+   "evidence_url": "regulations/us-cfr-part-568.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-568",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(a)(5) GAWR example lines rendered as '(b) Front\u20145,215 kg ... (c) First intermediate to rear ...' at the same level as (b),(c) of the section",
+   "proposed": "Re-nest the GAWR example under \u00a7 568.4(a)(5)",
+   "evidence": "Repo body shows '(b) Front\u20145,215 kg (11,500 lb) with 295/75R22.5(G) tires.' / '(c) First intermediate to rear\u20149,070 kg ...' between (a)(5) and (a)(6), then a real \u00a7 568.4(b) on Reference Material: the example list is mis-parsed and creates duplicate (b)/(c) paragraph labels.",
+   "evidence_url": "regulations/us-cfr-part-568.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-563",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "### \u00a7 563.4 xxx",
+   "proposed": "\u00a7 563.4 [Reserved] (confirm against eCFR)",
+   "evidence": "Repo body contains the placeholder heading '### \u00a7 563.4 xxx' with no text; looks like a source/formatting artefact rather than regulation text.",
+   "evidence_url": "regulations/us-cfr-part-563.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-cfr-part-564",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R37, UN R128",
+   "proposed": "UN R37, UN R128, UN R99 (gas-discharge light sources)",
+   "evidence": "Open tags include 'HID light source'; UN R99 covers gas-discharge light sources for approved lamps and is omitted, whereas Part 564 Appendix A also covers HID sources. R37/R128 are correct as partial analogues (they standardise light-source specs).",
+   "evidence_url": "regulations/us-cfr-part-564.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Part 551 precheck flag ('[Reserved]' near start) dismissed: it is only 'Subpart B [Reserved]'; Part 551 content (written communications, Subpart D agent for service of process) matches summary. Titles, citations, statuses (aside from the spent Part 545 reporting) and source_urls checked out for all 16 records. Systemic: (1) AI-suggested un_equivalent_ai on procedural/administrative parts (542, 545) maps to UN technical regulations that have no counterpart; (2) AI commodity tags are driven by incidental words in definitions (567, 568, 541) rather than regulated components; (3) tables/lists nested in eCFR sections are sometimes dropped or flattened (541.5(a) parts list, 568.4(a)(5)). Not verified: effective dates of Part 561 (Dec 22, 2025 / Sept 1, 2027-28) were taken from the body only; no WebSearch evidence was obtained for them."
+}

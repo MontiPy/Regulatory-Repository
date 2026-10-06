@@ -1,0 +1,145 @@
+{
+ "shard": "rec-us-parts-03",
+ "reviewed": [
+  "us-cfr-part-569",
+  "us-cfr-part-570",
+  "us-cfr-part-572",
+  "us-cfr-part-573",
+  "us-cfr-part-574",
+  "us-cfr-part-576",
+  "us-cfr-part-577",
+  "us-cfr-part-578",
+  "us-cfr-part-579",
+  "us-cfr-part-580",
+  "us-cfr-part-581",
+  "us-cfr-part-582",
+  "us-cfr-part-583",
+  "us-cfr-part-585",
+  "us-cfr-part-586",
+  "us-cfr-part-587"
+ ],
+ "findings": [
+  {
+   "id": "us-cfr-part-585",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R114",
+   "proposed": "(none; reporting rule has no UN counterpart)",
+   "evidence": "UN R114 covers 'an airbag module for a replacement airbag system; a replacement steering wheel equipped with an airbag module...' (replacement parts approval), while Part 585 is phase-in reporting to NHTSA (Subparts A-O: advanced air bags, ESC, TPMS, roof crush, etc.).",
+   "evidence_url": "https://op.europa.eu/en/publication-detail/-/publication/1970a18a-757f-41c8-8e2b-f88f291ecbf1/language-en",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-574",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R142",
+   "proposed": "UN R30/R54/R117 (tyre approval/marking) or none",
+   "evidence": "UN R142 'approval of motor vehicles with regard to the installation of their tyres'; Part 574 is tire identification (TIN) and purchaser recordkeeping for tire manufacturers/dealers, not vehicle tyre installation.",
+   "evidence_url": "https://www.interregs.com/catalogue/details/ECE-14200/regulation-no-142-00/tyre-installation",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-572",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R94, UN R16",
+   "proposed": "Drop UN R16 (seat belts); UN R94/R95 only as loose related (they reference dummies, no UN equivalent of Part 572 itself)",
+   "evidence": "Part 572 body: 'This part describes the anthropomorphic test devices that are to be used for compliance testing... It does not in itself impose duties'. UN R16 is a seat-belt component regulation, not a dummy specification.",
+   "evidence_url": "regulations/us-cfr-part-572.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-569",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R30",
+   "proposed": "none (R108/R109 cover retreaded tyres but not regrooving)",
+   "evidence": "Part 569 body: 'sets forth the conditions under which regrooved and regroovable tires ... may be sold'. UN R30 is new pneumatic tyres for passenger cars; no regrooving provisions.",
+   "evidence_url": "regulations/us-cfr-part-569.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-570",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R13, UN R79",
+   "proposed": "none; closest analogue is periodic technical inspection (Directive 2014/45/EU / UN 1997 Agreement Rules)",
+   "evidence": "Body 570.3: 'This part does not in itself impose requirements on any person. It is intended to be implemented by States' in-use inspection programs. UN R13/R79 are type-approval regulations for new vehicles.",
+   "evidence_url": "regulations/us-cfr-part-570.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-570",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "Summary describes only vehicles with GVWR of 10,000 lb or less",
+   "proposed": "Mention Subpart B (GVWR > 10,000 lb; brake, steering/suspension, tire/wheel inspection)",
+   "evidence": "Body: '### Subpart B\u2014Vehicles With GVWR of More Than 10,000 Pounds ... \u00a7 570.51 Scope. This part specifies standards and procedures for the inspection of brake, steering and suspension systems, and tire and wheel assemblies, of motor vehicles in use with a gross vehicle weight rating of more than 10,000 pounds.'",
+   "evidence_url": "regulations/us-cfr-part-570.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-570",
+   "field": "vehicle_categories",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "Passenger car, Light truck",
+   "proposed": "add Heavy truck, Bus, Trailer",
+   "evidence": "Subpart B applies to vehicles over 10,000 lb GVWR (except mobile structure trailers), per 570.53.",
+   "evidence_url": "regulations/us-cfr-part-570.md",
+   "confidence": "high"
+  },
+  {
+   "id": "us-cfr-part-585",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Restraints, Crashworthiness; commodities Airbags only",
+   "proposed": "add Tires & wheels, Stability/Electronic systems, Visibility etc. or note multi-standard scope",
+   "evidence": "Body has Subparts F (Tires), G (TPMS), I (ESC), J (head restraints), L (roof crush), M (rear visibility), N (minimum sound), O (child restraint anchorages), not only air bags.",
+   "evidence_url": "regulations/us-cfr-part-585.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-585",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Heading '### Subpart P\u2014XXX'",
+   "proposed": "Subpart P placeholder heading has no regulation text; verify against eCFR",
+   "evidence": "Body line 758: '### Subpart P\u2014XXX' followed by nothing.",
+   "evidence_url": "regulations/us-cfr-part-585.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-573",
+   "field": "commodities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Tires",
+   "proposed": "empty (scope is all vehicles and equipment; tires only in 573.10)",
+   "evidence": "Body 573.1/573.3: 'applies to manufacturers of complete motor vehicles, incomplete motor vehicles, and motor vehicle original and replacement equipment'.",
+   "evidence_url": "regulations/us-cfr-part-573.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-cfr-part-579",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Restraints, Vehicle identification; commodities Airbags, Tires, Seatbelts, Seats",
+   "proposed": "empty/general; tags reflect only specific subpart items",
+   "evidence": "Body 579.1/579.3: applies to all manufacturers of motor vehicles and motor vehicle equipment; reporting rule, not a restraint requirement.",
+   "evidence_url": "regulations/us-cfr-part-579.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Systemic: AI-suggested un_equivalent_ai values are routinely attached to administrative/reporting/test-tool parts (569, 570, 572, 574, 585) that have no UN counterpart; they should be removed or flagged as loose. Status (in-force) and summaries of 573, 576-583, 586, 587 matched body text. Precheck for part 581 '[Reserved]' dismissed: it is only 581.5(b); full requirements 581.5(c)(1)-(9) are present. Penalty amounts in Part 578 and dates were not independently verified."
+}
