@@ -232,8 +232,9 @@ Worth a human look:
 - **Cut-off summaries**: the summary generator hard-cut text at 320 characters, which left 347 summaries ending in "...". It now cuts at a sentence boundary. 235 summaries were trimmed back to their last complete sentence and 112 were rewritten from the record text. None remain cut off.
 - **Orchestrator vetoes**: R94 was not added to GB 11551 (that standard is full-width, the R137 equivalent). ISO 24089 R156 moved to the machine-suggested field. The Suspension tag was dropped from JVSR Art. 5. Egypt's E62 is marked "reported".
 
-Left for a human (cannot be fixed from metadata):
-- `us-fmvss-224` body reads "4,356 kg" (probably 4,536). Body edits are out of scope.
-- `us-stub-nom-042-semarnat-2003` is a Mexican record with a `us-` id.
-- `kr-kmvss-art18-5` has no article text.
-- Some template-body records (GCC, some JP/ZA workbook records) say in their summary that no regulation text is held.
+Human-check items (resolved 2026-10-06):
+- `us-fmvss-224`: the official eCFR text itself reads "4,356 kg" in S3, while S1 and S2 say 4,536 kg. The text is kept verbatim and a status note flags the CFR typo.
+- The NOM-042 record was renamed from `us-stub-…` to `mx-workbook-reg-0611-nom-042-semarnat-2003`.
+- `kr-kmvss-art18-5` (Software / OTA updates, in force 2025-08-14) now holds the official text, with an English translation and the Korean original.
+- Found while checking: `kr-kmvss-art18-4` held superseded camper-vehicle text. The 2025-08-14 amendment made Art. 18-4 "Cybersecurity" and moved the camper rules to 18-6. Records were renamed and rewritten to match, and the KR connector now takes the current version of an article (new parser fallback plus tests).
+- Some template-body records (GCC, some JP/ZA workbook records) still say in their summary that no regulation text is held. This is by design.

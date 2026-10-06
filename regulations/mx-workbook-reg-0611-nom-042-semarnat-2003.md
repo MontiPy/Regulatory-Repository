@@ -5,7 +5,7 @@ commodities:
 - Fuel system
 - Fuel tanks
 - ECUs
-id: us-stub-nom-042-semarnat-2003
+id: mx-workbook-reg-0611-nom-042-semarnat-2003
 last_pulled: '2026-06-01T18:54:41+00:00'
 open_tags:
 - catalytic converter

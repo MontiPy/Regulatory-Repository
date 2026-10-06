@@ -44,16 +44,45 @@ def _article_label_pattern(article: str) -> re.Pattern[str]:
     return re.compile(pat)
 
 
+_ANY_HEADING = re.compile(r"제\s*\d+\s*조(?:의\s*\d+)?\s*\(")
+
+
+def _parse_article_text(text: str, article: str) -> tuple[str, str] | None:
+    """Plain-text fallback: the LAST "제N조(의M)(title)" heading on the page, up to the next heading.
+
+    Articles added by recent amendments are not always wrapped in <label> headings, and the page can
+    list a superseded version first, so the last occurrence is the current one.
+    """
+    pattern = re.compile(_article_label_pattern(article).pattern + r"\s*\(([^)]{1,60})\)")
+    hits = list(pattern.finditer(text))
+    if not hits:
+        return None
+    start = hits[-1]
+    nxt = _ANY_HEADING.search(text, start.end())
+    chunk = text[start.start(): nxt.start() if nxt else len(text)].strip()
+    chunk = re.sub(r"\s*제\s*\d+\s*조(?:의\s*\d+)?\s*$", "", chunk)  # trailing navigation stub
+    chunk = re.sub(r"\s+(?=[①-⑳])", "\n\n", chunk)
+    chunk = re.sub(r"\s+(?=\d{1,2}\.\s)", "\n\n", chunk)
+    chunk = re.sub(r"\s+(?=[가-하]\.\s)", "\n   ", chunk)
+    return f"KMVSS Article {article} — {start.group(0).strip()}", chunk
+
+
 def _parse_article(full_html: str, article: str) -> tuple[str, str]:
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(full_html, "html.parser")
     pattern = _article_label_pattern(article)
+    plain = re.sub(r"\s+", " ", soup.get_text(" "))
+    text_hits = len(re.findall(pattern.pattern + r"\s*\(", plain))
+    label_hits = sum(1 for lbl in soup.find_all("label") if pattern.search(lbl.get_text()))
+    if text_hits > label_hits:
+        parsed = _parse_article_text(plain, article)
+        if parsed:
+            return parsed
 
-    label = None
-    for lbl in soup.find_all("label"):
-        if pattern.search(lbl.get_text()):
-            label = lbl
-            break
+    # The page can show a superseded version of an article before the current one (e.g. the
+    # pre-2025 Art. 18-4, renumbered to 18-6), so take the last matching heading.
+    matches = [lbl for lbl in soup.find_all("label") if pattern.search(lbl.get_text())]
+    label = matches[-1] if matches else None
 
     if label is None:
         return f"KMVSS Article {article}", f"# KMVSS Article {article}\n\nSee source for full text."

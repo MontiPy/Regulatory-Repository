@@ -42,6 +42,7 @@ records:
   - { law_id: "270023", article: "18-3" }   # Traction battery
   - { law_id: "270023", article: "18-4" }   # Cybersecurity
   - { law_id: "270023", article: "18-5" }   # Software update
+  - { law_id: "270023", article: "18-6" }   # Camper vehicle electrical/camping equipment (was 18-4 before 2025-08-14)
   - { law_id: "270023", article: "27" }     # Fuel systems (additional requirements)
   - { law_id: "270023", article: "87" }     # Accelerator control system
   - { law_id: "270023", article: "91" }     # Fuel system safety in collision

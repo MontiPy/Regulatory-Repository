@@ -1279,9 +1279,9 @@ records:
   citation: NOM-194-SE-2021
   title: Safety devices for new light vehicles - requirements and specifications
   source_url: https://sidof.segob.gob.mx/notas/docFuente/5666804
-- id: us-stub-nom-042-semarnat-2003
+- id: mx-workbook-reg-0611-nom-042-semarnat-2003
   workbook_id: REG-0611
-  market_family: Mexico  # workbook lists "United States"; NOM-042 is a Mexican standard (id kept stable)
+  market_family: Mexico  # workbook lists "United States"; NOM-042 is a Mexican standard
   region_body: Mexico / SEMARNAT / PROFEPA
   region: MX
   citation: NOM-042-SEMARNAT-2003

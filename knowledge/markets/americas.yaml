@@ -116,7 +116,7 @@
     - "NOM-194-SE-2021 phase-in: ESC and ISOFIX/LATCH mandatory from MY2025, tyre-pressure monitoring from MY2026; pedestrian protection is listed as optional equipment — verify the current applicability table."
   notes:
     - "Many US-market vehicles are sold in Mexico on FMVSS evidence; UN R evidence is equally accepted for NOM-194 items."
-  records: [mx-workbook-reg-0610-nom-194-se-2021, us-stub-nom-042-semarnat-2003, mx-workbook-reg-0612-nom-163-semarnat-scfi-2023]
+  records: [mx-workbook-reg-0610-nom-194-se-2021, mx-workbook-reg-0611-nom-042-semarnat-2003, mx-workbook-reg-0612-nom-163-semarnat-scfi-2023]
   confidence: medium
 
 - code: CENTAM

@@ -18,6 +18,9 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.224
 status: in-force
+status_note: Official CFR text S3 reads "4,356 kg" while S1 and S2 say 4,536 kg (10,000
+  lb); the S3 figure appears to be a typographical error in the CFR itself (verified
+  against eCFR, 2026-10-06).
 summary: Rear impact protection for trailers and semitrailers with a GVWR of 4,536
   kg or more is regulated by this standard, which requires the installation of rear
   impact guards to reduce deaths and serious injuries caused by lighter vehicles colliding

@@ -1542,3 +1542,12 @@ Rejected by validator / orchestrator:
 | `us-fmvss-302` | summary | Flammability of interior materials in motor vehicle occupant compartments (including seats, trim panels, headlining, floor coverings, and other components) is r | FMVSS No. 302 specifies burn resistance requirements for materials used in occupant compartments, to reduce deaths and injuries from vehicle fires originating i |
 | `us-fmvss-500` | summary | Low-speed vehicles (LSVs) operated on public roads are required to have a maximum attainable speed of no more than 40 km/h (25 mph) and must be equipped with sp | FMVSS No. 500 specifies requirements for low-speed vehicles operated on public roads. A low-speed vehicle must not exceed 40 km/h (25 mph) in 1.6 km and must be |
 | `za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series` | summary | South Africa's compulsory specifications govern market access and type approval for motor vehicles and components sold in the country, requiring that vehicles c | Overview entry for South Africa's NRCS compulsory specifications (VC series) for motor vehicles and components, covering market access and type approval. The te |
+
+## Human-check items resolved
+
+| Record | Field | Before | After |
+|---|---|---|---|
+| `us-fmvss-224` | status_note | ∅ | Official CFR text S3 reads "4,356 kg" while S1 and S2 say 4,536 kg (10,000 lb); the S3 figure appears to be a typographical error in the CFR itself (verified ag |
+- `us-stub-nom-042-semarnat-2003` renamed to `mx-workbook-reg-0611-nom-042-semarnat-2003` (Mexican standard; manifest and MX market profile updated).
+- `kr-kmvss-art18-5` filled with the official Article 18-5 (Software, OTA updates; in force 2025-08-14), with English translation and the Korean original.
+- `kr-kmvss-art18-4` held the superseded camper-vehicle text; the 14 Aug 2025 amendment moved that to Article 18-6. Record renamed to `kr-kmvss-art18-6`, and a new `kr-kmvss-art18-4` (Cybersecurity) written from the official text.
