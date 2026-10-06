@@ -1,0 +1,143 @@
+{
+ "shard": "rec-us-fmvss-02",
+ "reviewed": [
+  "us-fmvss-118",
+  "us-fmvss-119",
+  "us-fmvss-120",
+  "us-fmvss-121",
+  "us-fmvss-122",
+  "us-fmvss-122a",
+  "us-fmvss-123",
+  "us-fmvss-124",
+  "us-fmvss-125",
+  "us-fmvss-126",
+  "us-fmvss-127",
+  "us-fmvss-129",
+  "us-fmvss-131",
+  "us-fmvss-135"
+ ],
+ "findings": [
+  {
+   "id": "us-fmvss-124",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "UN R161",
+   "proposed": "No direct UN equivalent (remove)",
+   "evidence": "UN Regulation No. 161 is 'protection of motor vehicles against unauthorized use ... device against unauthorized use (by mean of a locking system)', unrelated to accelerator return-to-idle. Repo itself uses R161 for unauthorized use in knowledge/crosswalk.yaml:1051.",
+   "evidence_url": "https://unece.org/transport/documents/2021/10/standards/un-regulation-no-161-devices-against-unauthorized-use",
+   "confidence": "high"
+  },
+  {
+   "id": "us-fmvss-123",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R121",
+   "proposed": "UN R60 (motorcycle/moped driver-operated controls and indicators)",
+   "evidence": "FMVSS 123 is motorcycle controls and displays ('S1 ... location, operation, identification, and illumination of motorcycle controls and displays'). UN R121 covers identification of controls/tell-tales for M and N vehicles; R60 is the L-category counterpart (from standard knowledge, not searched).",
+   "evidence_url": "regulations/us-fmvss-123.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-122a",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R13",
+   "proposed": "UN R78 (L-category braking)",
+   "evidence": "Body: 'S1 ... performance requirements for motorcycle brake systems'; 'S3 applies to motorcycles'. UN R13 covers M/N/O heavy vehicle braking; R78 is the motorcycle braking regulation (standard knowledge, not searched).",
+   "evidence_url": "regulations/us-fmvss-122a.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-122",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "UN R78",
+   "evidence": "Motorcycle brake standard has no UN equivalent listed; R78 (braking of L1-L5 vehicles) is the counterpart (standard knowledge, not searched).",
+   "evidence_url": "regulations/us-fmvss-122.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-131",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R150, UN R148",
+   "proposed": "Remove / no UN equivalent",
+   "evidence": "Body S1: 'devices that can be installed on school buses ... stop signal arm'. R150 is retro-reflecting devices and R148 is light-signalling devices; neither regulates school-bus stop arms. No UN counterpart known (standard knowledge, not searched).",
+   "evidence_url": "regulations/us-fmvss-131.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-119",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R54, UN R30",
+   "proposed": "UN R54 (commercial vehicle tyres); add UN R75 for motorcycle tyres; drop R30",
+   "evidence": "Body S3(a): 'New pneumatic tires for ... GVWR of more than 4,536 kilograms'; also motorcycle tyres. UN R30 covers passenger-car (M1) tyres, outside FMVSS 119 scope (standard knowledge, not searched).",
+   "evidence_url": "regulations/us-fmvss-119.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-135",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "UN R13-H (passenger car braking)",
+   "evidence": "Body S3: applies to passenger cars and MPVs/trucks/buses with GVWR 3,500 kg or less; UN R13-H is the counterpart. No un_equivalent entry present.",
+   "evidence_url": "regulations/us-fmvss-135.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-118",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Glazing, Theft prevention",
+   "proposed": "Glazing (+ Body/closures if vocabulary allows)",
+   "evidence": "Body S1: 'minimize the likelihood of death or injury from their accidental operation'; no theft-prevention content (remote actuation concerns inadvertent operation).",
+   "evidence_url": "regulations/us-fmvss-118.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-122",
+   "field": "systems",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Braking, Tires & wheels, ADAS",
+   "proposed": "Braking",
+   "evidence": "Body covers motorcycle service/parking brake systems incl. ABS; ABS is a brake feature, not ADAS, and tires/wheels are not regulated by this standard.",
+   "evidence_url": "regulations/us-fmvss-122.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-122",
+   "field": "commodities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Brakes, Wheels, Tires, Pedals",
+   "proposed": "Brakes, Pedals",
+   "evidence": "Standard regulates brake systems; tires and wheels are only test conditions.",
+   "evidence_url": "regulations/us-fmvss-122.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-122a",
+   "field": "title",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "\u00a7 571.122a Standard No. 122; Motorcycle brake systems.",
+   "proposed": "Keep, but note this is the legacy standard for motorcycles not certified to 571.122",
+   "evidence": "Title duplicates 571.122's name; body: 'does not apply to motorcycles certified to comply with \u00a7 571.122'. Distinct disambiguation helps users.",
+   "evidence_url": "regulations/us-fmvss-122a.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "All 14 bodies contain actual eCFR regulation text; statuses in-force plausible; summaries consistent with bodies (truncated with ellipsis). Precheck had no flags for these items. Main systemic issue: un_equivalent_ai suggestions are unreliable for motorcycle/school bus standards (R13, R121, R150 etc. mapped to the wrong UN regulation). Most UN-equivalent corrections rely on standard knowledge, not searched."
+}

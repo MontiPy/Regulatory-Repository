@@ -1,0 +1,84 @@
+{
+  "shard": "rec-us-fmvss-03",
+  "reviewed": ["us-fmvss-136","us-fmvss-138","us-fmvss-139","us-fmvss-141","us-fmvss-201","us-fmvss-202","us-fmvss-202a","us-fmvss-203","us-fmvss-204","us-fmvss-205","us-fmvss-206","us-fmvss-207","us-fmvss-208","us-fmvss-209"],
+  "findings": [
+    {
+      "id": "us-fmvss-136",
+      "field": "un_equivalent_ai",
+      "verdict": "wrong",
+      "severity": "medium",
+      "current": "UN R140",
+      "proposed": "UN R13 (Annex 21, vehicle stability function) for M3/N3/O heavy vehicles; remove UN R140",
+      "evidence": "Record body S3 limits scope to 'Truck tractors with a gross vehicle weight rating of greater than 11,793 kilograms' and 'Buses with a gross vehicle weight rating of greater than 11,793 kilograms'. UN R140 (ESC) applies to light vehicles (M1, N1 up to 3.5 t, and M2/N2 not covered by R13), not heavy tractors/buses; the heavy-vehicle stability requirement is in UN R13 Annex 21. Based on repository text plus standard knowledge of UN R140 scope (not web-verified).",
+      "evidence_url": "regulations/us-fmvss-136.md",
+      "confidence": "medium"
+    },
+    {
+      "id": "us-fmvss-202",
+      "field": "status",
+      "verdict": "questionable",
+      "severity": "medium",
+      "current": "in-force",
+      "proposed": "superseded (by 571.202a; applies only to vehicles manufactured before 1 Sept 2009 / phase-in period)",
+      "evidence": "Body S2: 'This standard applies to ... manufactured before September 1, 2009.' and 'For vehicles manufactured on or after September 1, 2009 and before September 1, 2010, manufacturers may comply with the standard in this § 571.202 ... only to the extent consistent with phase-in'. Title: 'Applicable at the manufacturers option until September 1, 2009.' Successor is 571.202a, mandatory from 1 Sept 2009. Section remains in the CFR but has no application to current new vehicles. (precheck '[Reserved]' flag is just S4.3 reserved sub-paragraph; dismissed.)",
+      "evidence_url": "regulations/us-fmvss-202.md",
+      "confidence": "high"
+    },
+    {
+      "id": "us-fmvss-202",
+      "field": "un_equivalent_ai",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "UN R17, UN R25",
+      "proposed": "UN R17 (seat/head restraint strength) and UN R25 (head restraints); acceptable but note body S4.3 itself references the European regulation (ECE R17/R25 style) as an alternative",
+      "evidence": "Body S2: 'manufacturers may comply with ... the European regulations referenced in S4.3'. Mapping is plausible; low-priority note only, no error found.",
+      "evidence_url": "regulations/us-fmvss-202.md",
+      "confidence": "low"
+    },
+    {
+      "id": "us-fmvss-201",
+      "field": "un_equivalent_ai",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "UN R21, UN R94",
+      "proposed": "UN R21 (interior fittings) only; R94 is frontal-collision protection, closer to FMVSS 208",
+      "evidence": "Body S1/S5/S6 concern head impact (free motion headform) against interior surfaces, pillars and upper interior head protection, which corresponds to UN R21 (and partly R21-style head-impact areas); UN R94 is a full-vehicle frontal crash regulation.",
+      "evidence_url": "regulations/us-fmvss-201.md",
+      "confidence": "medium"
+    },
+    {
+      "id": "us-fmvss-141",
+      "field": "commodities",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Horn, Electric motors, Batteries",
+      "proposed": "Remove 'Horn' (AVAS / pedestrian alert sound is not a horn); keep Electric motors, consider an audio/sound-generator tag if available in taxonomy.yaml",
+      "evidence": "Body S1: 'This standard establishes performance requirements for pedestrian alert sounds for motor vehicles.' Sound is propulsion-alert, not a horn (FMVSS horn requirements are not in 141). Batteries tag has no support in body.",
+      "evidence_url": "regulations/us-fmvss-141.md",
+      "confidence": "medium"
+    },
+    {
+      "id": "us-fmvss-203",
+      "field": "summary",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Summary applies standard to all vehicles with GVWR <= 4,536 kg without noting exemption",
+      "proposed": "Add: does not apply to vehicles that meet FMVSS 208 S5.1 frontal barrier requirements by means other than seat belts (i.e., airbag/passive-restraint-equipped), nor walk-in vans or vehicles without steering control",
+      "evidence": "Body S2: 'it does not apply to vehicles that conform to the frontal barrier crash requirements (S5.1) of Standard No. 208 ... by means of other than seat belt assemblies. It also does not apply to walk-in vans or vehicles without a steering control.' Important scope limiter omitted; summary is otherwise accurate (11,120 N, S5.1(a)).",
+      "evidence_url": "regulations/us-fmvss-203.md",
+      "confidence": "high"
+    },
+    {
+      "id": "us-fmvss-208",
+      "field": "vehicle_categories",
+      "verdict": "questionable",
+      "severity": "low",
+      "current": "Passenger car, Light truck, Bus",
+      "proposed": "Add Heavy truck (seat belt / warning requirements apply to all trucks and buses regardless of GVWR)",
+      "evidence": "Body S3(a): 'This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, and buses.' (no GVWR cap, unlike 201/203/206). Sibling records 207 and 209 carry Heavy truck.",
+      "evidence_url": "regulations/us-fmvss-208.md",
+      "confidence": "medium"
+    }
+  ],
+  "notes": "Records 136, 138, 139, 202a, 204, 205, 206, 207, 209 checked against body scope/numbers (e.g., 136 >11,793 kg; 138 20 min / 25% below cold pressure; 139 GVWR <=10,000 lb, after 1975; 141 GVWR <=4,536 kg, <30 km/h; 204 127 mm at 48 km/h; 205 ANSI/SAE Z26.1) and no errors found. No grounded un_equivalent field exists on any record in this shard; all mappings are AI-suggested. Summaries in frontmatter are truncated with '...'. Precheck '[Reserved]' flags on 202 and 203 are sub-paragraph reserves in live text and dismissed (202 status issue stands on separate grounds). Bodies are full eCFR text (no stubs). UN mappings are not web-verified; no WebSearch used."
+}
