@@ -1,0 +1,77 @@
+{
+ "shard": "rec-us-fmvss-04",
+ "reviewed": [
+  "us-fmvss-210",
+  "us-fmvss-212",
+  "us-fmvss-213",
+  "us-fmvss-213a",
+  "us-fmvss-213b",
+  "us-fmvss-214",
+  "us-fmvss-216",
+  "us-fmvss-216a",
+  "us-fmvss-217",
+  "us-fmvss-217a",
+  "us-fmvss-218",
+  "us-fmvss-219",
+  "us-fmvss-220",
+  "us-fmvss-221"
+ ],
+ "findings": [
+  {
+   "id": "us-fmvss-213b",
+   "field": "status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "in-force",
+   "proposed": "adopted / not yet applicable (applies to child restraint systems manufactured on or after 2026-12-05)",
+   "evidence": "S3. Application. ... manufactured on or after December 5, 2026. (today is 2026-10-06; us-fmvss-213 S3: 'manufactured before December 5, 2026. FMVSS No. 213b applies to child restraint systems manufactured on or after December 5, 2026')",
+   "evidence_url": "regulations/us-fmvss-213b.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-212",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "UN R43",
+   "proposed": "remove or note: no direct UN counterpart for windshield retention (R43 covers safety glazing materials, not mounting/retention)",
+   "evidence": "S1. Scope. This standard establishes windshield retention requirements for motor vehicles during crashes. (R43 is the glazing-material regulation, a different subject)",
+   "evidence_url": "regulations/us-fmvss-212.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-219",
+   "field": "commodities",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "Glass, Body structure, Steering column, Wipers & washers",
+   "proposed": "Glass, Body structure",
+   "evidence": "S1. This standard specifies limits for the displacement into the windshield area of motor vehicle components during a crash. Steering column and wipers are not subject of requirements as such.",
+   "evidence_url": "regulations/us-fmvss-219.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-218",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none); commodities empty",
+   "proposed": "add UN R22 (protective helmets and visors) as counterpart",
+   "evidence": "S1. Scope. This standard establishes minimum performance requirements for helmets designed for use by motorcyclists and other motor vehicle users. UN R22 is the corresponding helmet regulation.",
+   "evidence_url": "regulations/us-fmvss-218.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-220",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "consider UN R66 (superstructure strength of large passenger vehicles) as approximate counterpart",
+   "evidence": "S1. This standard establishes performance requirements for school bus rollover protection. R66 is the UN rollover-strength regulation for buses.",
+   "evidence_url": "regulations/us-fmvss-220.md",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Precheck had no flags for these items. All bodies contain full eCFR text. Numeric claims in summaries (212/219 4,536 kg and 75%; 216 22,240 N; 216a 3.0x/1.5x; 220 130 mm; 221 60%/203 mm; 217a Oct 30 2027, 11,793 kg) were verified against bodies. Summaries are truncated with '...' mid-sentence (generation cut-off). UN equivalents are sparse for 216/216a/217/217a/219/221 (no counterpart listed). No web search used; the 213b date rests on repo text only."
+}

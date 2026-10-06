@@ -1,0 +1,154 @@
+{
+ "shard": "rec-us-fmvss-05",
+ "reviewed": [
+  "us-fmvss-222",
+  "us-fmvss-223",
+  "us-fmvss-224",
+  "us-fmvss-225",
+  "us-fmvss-226",
+  "us-fmvss-227",
+  "us-fmvss-301",
+  "us-fmvss-302",
+  "us-fmvss-303",
+  "us-fmvss-304",
+  "us-fmvss-305",
+  "us-fmvss-305a",
+  "us-fmvss-307",
+  "us-fmvss-308"
+ ],
+ "findings": [
+  {
+   "id": "us-fmvss-302",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R21",
+   "proposed": "UN R118 (burning behaviour of interior materials)",
+   "evidence": "UN R21 covers interior fittings (head-impact/energy absorption), not flammability; the FMVSS 302 counterpart is UN R118 (also ISO 3795). Body: 'requires that these materials not burn or transmit a flame front ... exceeding 102 mm per minute'. Based on standard knowledge of UN R21/R118 scopes; no web check.",
+   "evidence_url": "regulations/us-fmvss-302.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-226",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R95",
+   "proposed": "none (no UN ejection-mitigation regulation); remove",
+   "evidence": "UN R95 is lateral collision protection; FMVSS 226 is ejection mitigation (side-window ejection impactor test/rollover). Body S2: applies to vehicles '4,536 kg or less' ... ejection of occupants through side windows. Not a counterpart.",
+   "evidence_url": "regulations/us-fmvss-226.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-304",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R34",
+   "proposed": "UN R110 (CNG/LNG specific components; container requirements)",
+   "evidence": "UN R34 covers fire-risk prevention (liquid fuel tanks); CNG containers are covered by UN R110. Body S3: 'each container designed to store CNG as motor fuel on-board any motor vehicle'.",
+   "evidence_url": "regulations/us-fmvss-304.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-303",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R34",
+   "proposed": "UN R110 (CNG vehicle components/installation)",
+   "evidence": "UN R34 is fire-risk prevention for liquid-fuel vehicles; CNG vehicle fuel system is UN R110. Body S3: 'use CNG as a motor fuel'.",
+   "evidence_url": "regulations/us-fmvss-303.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-307",
+   "field": "un_equivalent_ai",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "UN R34",
+   "proposed": "UN R134 (hydrogen vehicle safety); related UN GTR 13",
+   "evidence": "R34 does not cover hydrogen systems; UN R134 is the hydrogen/fuel-cell vehicle regulation. Body S3: 'uses compressed hydrogen gas as a fuel source'.",
+   "evidence_url": "regulations/us-fmvss-307.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-308",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "UN R134 / UN GTR 13 (hydrogen storage system) as AI-suggested",
+   "evidence": "Hydrogen CHSS integrity has well-known UN counterparts (R134, GTR 13) but none is tagged. Based on standard knowledge, not web-checked.",
+   "evidence_url": "regulations/us-fmvss-308.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-224",
+   "field": "body",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "S3: 'GVWR of 4,356 kg or more'",
+   "proposed": "4,536 kg",
+   "evidence": "Body S1/S2 and summary say 4,536 kg but S3 reads 'trailers and semitrailers with a GVWR of 4,356 kg or more' (digit transposition; eCFR source believed to read 4,536 - unverified here since gov sites blocked).",
+   "evidence_url": "regulations/us-fmvss-224.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-222",
+   "field": "un_equivalent_ai",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UN R16, UN R17",
+   "proposed": "UN R80 (strength of seats and anchorages, large passenger vehicles); R14/R16 only loosely related",
+   "evidence": "FMVSS 222 covers school-bus seat padding/compartmentalization and wheelchair anchorage; R16 (belts) and R17 (seat strength, M1/N) are not counterparts for buses. Body S3: 'applies to school buses'.",
+   "evidence_url": "regulations/us-fmvss-222.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-222",
+   "field": "summary",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "'mandates specific seating configurations, seat belt positioning...' and truncated with '...'",
+   "proposed": "Rewrite to: seat back force/deflection and energy absorption, seat spacing/padding, restraining barriers, Type 2 belt and wheelchair anchorage requirements for school buses",
+   "evidence": "Body S5.1.3 contains seat-back force/deflection and 452W J energy-absorption; 'seat belt positioning' is vague/unsupported. Summary ends mid-sentence.",
+   "evidence_url": "regulations/us-fmvss-222.md",
+   "confidence": "low"
+  },
+  {
+   "id": "us-fmvss-227",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "UN R66 (superstructure strength of large passenger vehicles)",
+   "evidence": "Bus rollover structural integrity has the well-known counterpart UN R66; not mapped. Standard knowledge, not web-checked.",
+   "evidence_url": "regulations/us-fmvss-227.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-223",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "UN R58 (rear underrun protective devices)",
+   "evidence": "Rear impact guards have counterpart UN R58 (RUPD); not mapped (same for us-fmvss-224). Standard knowledge, not web-checked.",
+   "evidence_url": "regulations/us-fmvss-223.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "us-fmvss-224",
+   "field": "un_equivalent",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "(none)",
+   "proposed": "UN R58 (rear underrun protective devices)",
+   "evidence": "See us-fmvss-223; installation requirement counterpart is R58.",
+   "evidence_url": "regulations/us-fmvss-224.md",
+   "confidence": "medium"
+  }
+ ],
+ "notes": "All summaries are truncated mid-sentence with '...' (summary field cut at ~300 chars) across every record. Pattern: un_equivalent_ai maps nearly every fuel-system standard to UN R34 regardless of fuel type (CNG->R110, hydrogen->R134). 223/224/227/308 have no UN mapping. 301 mapped to R153 (rear-impact fuel integrity) is only a partial counterpart; 305/305a -> R100 acceptable. Applicability scopes and dates in summaries for 223,225,226,301-305a,307,308 matched body text. precheck.json had no flags for these items. Bodies contain full regulation text."
+}
