@@ -1,5 +1,7 @@
 # External review continuation — 6 October 2026
 
+> **Full audit artifacts:** URL logs, coverage files, inventories, per-group findings/patches, run logs and helper scripts were left out of `main` to keep the repository lean. They are preserved on branch `review/2026-10-06-content` (commit ae77802). Links below to those files only work on that branch.
+
 Continues [the prior content review](../2026-10-06/REPORT.md) on `review/2026-10-06-content`, starting at `eb2bfdfb271b6fcc3f672d257b779115b5988aff`. The changes and review artifacts are committed together on this branch for independent review. This run does not certify every technical annex, translation, referenced standard or current national requirement.
 
 Applied supported corrections to **15 regulation records, 34 market profiles and four crosswalk topics**. Nine record bodies changed: six gained actual official publication text, two received isolated emissions-applicability repairs, and historic FMVSS216 gained a withdrawal notice. Six Brazilian records now link their exact official instruments. [Record changes](record-changes.json), [metadata/knowledge proposals](patches/external.json), [body proposals](body-proposals.json), [final body hashes](evidence/body-results.json) and [CHANGES](../../CHANGES.md) provide the audit trail.

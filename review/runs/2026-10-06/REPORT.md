@@ -1,5 +1,7 @@
 # Content accuracy review — 6 October 2026
 
+> **Full audit artifacts:** URL logs, coverage files, inventories, per-group findings/patches, run logs and helper scripts were left out of `main` to keep the repository lean. They are preserved on branch `review/2026-10-06-content` (commit ae77802). Links below to those files only work on that branch.
+
 **Continuation:** [The external review](../2026-10-06-external/REPORT.md) resumes this run with successful official-source retrieval and additional corrections. The results and network limitations below describe this earlier run.
 
 Branch: `review/2026-10-06-content`. Baseline: `faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92`. Review content is isolated with the `r20261006-` prefix so historical findings/proposals cannot be accidentally applied. No PR was opened and main was not modified.
