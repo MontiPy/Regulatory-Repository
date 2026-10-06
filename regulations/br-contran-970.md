@@ -21,11 +21,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9702022.pdf
 status: in-force
-summary: Brazilian CONTRAN Resolution 970/2022 (20 June 2022) sets the technical characteristics
-  and specifications of vehicle lighting and signalling systems and devices, and governs
-  the use of special lamps on vehicles. It applies to automobiles, light trucks, trucks,
-  truck tractors, buses, minibuses, trailers and semi-trailers, and accepts UN/UNECE
-  or FMVSS test results as an alternative. Entry into force 1 July 2022.
+summary: CONTRAN 970/2022 sets technical specifications for vehicle lighting and signalling,
+  including special lamps. It covers cars, trucks, buses, trailers and semi-trailers,
+  plus motorcycles, mopeds, tricycles and quadricycles under separate annexes. UN/UNECE
+  or FMVSS test results may demonstrate applicable performance requirements. Entered
+  into force 1 July 2022.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 58ed3833ef1ef2f59f684a31a8c5d637cbb5e456
 systems:

@@ -1,0 +1,259 @@
+{
+  "reviewed": [
+    "au-f2005l03523",
+    "au-f2005l03907",
+    "au-f2005l03908",
+    "au-f2005l03990",
+    "au-f2005l03991",
+    "au-f2005l04012",
+    "au-f2006l01279",
+    "au-f2006l01280",
+    "au-f2006l01362",
+    "au-f2006l01392",
+    "au-f2006l01410",
+    "au-f2006l01429",
+    "au-f2006l01430",
+    "au-f2006l01431",
+    "au-f2006l01433",
+    "au-f2006l01440",
+    "au-f2006l01442",
+    "au-f2006l01450",
+    "au-f2006l01455",
+    "au-f2006l01785"
+  ],
+  "skipped": [
+    {
+      "id": "au-f2005l03523",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2005l03523",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2005l03907",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2005l03907",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2005l03908",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2005l03908",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2005l03990",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2005l03990",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2005l03991",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2005l03991",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2005l04012",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2005l04012",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01279",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01279",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01280",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01280",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01362",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01362",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01392",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01392",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01410",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01410",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01429",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01429",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01430",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01430",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01431",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01431",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01433",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01433",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01440",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01440",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01442",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01442",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01450",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01450",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01455",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01455",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01785",
+      "field": "source_url",
+      "reason": "Shared curl -sIL audit: environment-policy HTTP 403/curl 56; official URL availability unverified."
+    },
+    {
+      "id": "au-f2006l01785",
+      "field": "status/status_note/effective_date",
+      "reason": "Commencement and historic applicability dates checked in body, but current repeal/supersession/currency not externally verifiable. Registration/commencement dates are not inferred from vehicle applicability dates."
+    },
+    {
+      "id": "au-f2006l01433",
+      "field": "vehicle_categories/body",
+      "reason": "Clause 3.1 references a table \"below\", but the current 2017 compilation has no applicability table and amendment history says it was deleted. Cannot safely repair category tags or official-text inconsistency without a reachable authoritative source."
+    },
+    {
+      "id": "au-f2006l01785",
+      "field": "un_equivalent",
+      "reason": "Clause 11.4 accepts only energy-absorption requirements via UN R21/01 Annex 4; no broad equivalence is inferred or added."
+    },
+    {
+      "id": "au-f2006l01431",
+      "field": "systems/commodities",
+      "reason": "Empty tags are not automatic defects; multi-topic specific-purpose requirements do not justify a guessed single commodity/system classification."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "au-f2005l03523",
+      "field": "un_equivalent/vehicle_categories",
+      "reason": "Current UN R51/41/63/9 equivalents match explicit 6.1–6.4 acceptance; trailers already excluded."
+    },
+    {
+      "id": "au-f2006l01431",
+      "field": "summary",
+      "reason": "Current summary correctly names tow trucks/pole trailers/LPG/emergency/motorhome/omnibus construction, matching own scope."
+    },
+    {
+      "id": "au-f2006l01455",
+      "field": "summary",
+      "reason": "Current summary correctly identifies full frontal dummy injury requirements and ADR73/00 dual-airbag deemed compliance."
+    }
+  ],
+  "notes": "All 20 current records checked for title/citation/body identity, summary against scope and key clauses, dates, categories, exact taxonomy values, and existing UN alternatives against explicit acceptance. No new UN alternatives added. Own-body evidence only; historic text does not prove current law. Generic but factually supported wording left alone."
+}

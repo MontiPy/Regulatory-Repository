@@ -15,7 +15,7 @@ open_tags:
 - automotive glass standard
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Glazing components in motor vehicles (excluding ultra-compact vehicles) must
   comply with the safety standards established in Article 105, paragraph ①.

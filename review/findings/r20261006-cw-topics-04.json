@@ -1,0 +1,263 @@
+[
+  {
+    "id": "ev-electrical-safety",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "FMVSS 305 (current); FMVSS 305a mandatory from 1 Sep 2027 (optional earlier)",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "proposed": {
+      "cite": "FMVSS 305 (current); FMVSS 305a mandatory from 1 Sep 2027 at GVWR ≤4,536 kg and 1 Sep 2028 above 4,536 kg; specified small-volume/final-stage manufacturers and alterers get one additional year",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "(b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b).",
+    "evidence_url": "regulations/us-fmvss-305a.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ev-post-crash",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 305a (after FMVSS 208/214/301 tests)",
+      "records": [
+        "us-fmvss-305a"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 305 (current unless certified to 305a); FMVSS 305a S8/S9 post-crash requirements for vehicles ≤4,536 kg and heavier school buses, with mandatory dates in S3(b): Sep 2027 for light vehicles, Sep 2028 for heavy vehicles, plus specified one-year extensions",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "applicable unless a vehicle is certified to § 571.305a. | S1. Scope. This standard specifies requirements for limitation of electrolyte spillage and retention of electric energy storage/conversion devices during and after a crash, and protection from harmful electric shock during and after a crash and during normal vehicle operation. | Secondary own-body source: regulations/us-fmvss-305a.md: (b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b). | Secondary own-body source: regulations/us-fmvss-305a.md: S8. Post-crash safety. Each vehicle with a GVWR of 4,536 kg or less to which this standard applies must meet the requirements in S8.1, S8.2, S8.3, and S8.4 when tested according to S9 of this standard under the conditions of S10 of this standard. Each school bus with a GVWR greater than 4,536 kg to which this standard applies must meet the requirements in S8.1, S8.2, S8.3, and S8.4 when tested according to S9.5 of this standard under the conditions of S10.",
+    "evidence_url": "regulations/us-fmvss-305.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "reess",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 305a (REESS provisions)",
+      "records": [
+        "us-fmvss-305a"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 305a (REESS provisions; mandatory from 1 Sep 2027 at GVWR ≤4,536 kg and 1 Sep 2028 above 4,536 kg, with specified additional one-year extensions)",
+      "records": [
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "(b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b).",
+    "evidence_url": "regulations/us-fmvss-305a.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "hydrogen",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 307 (fuel system integrity), 308 (storage)",
+      "records": [
+        "us-fmvss-307",
+        "us-fmvss-308"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 307 (hydrogen fuel system), 308 (compressed hydrogen storage), for vehicles manufactured from 1 Sep 2028; 308 excludes vehicles equipped only with cryo-compressed and/or solid-state hydrogen storage",
+      "records": [
+        "us-fmvss-307",
+        "us-fmvss-308"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "S3. Application. This standard applies to each motor vehicle manufactured on or after September 1, 2028, that uses compressed hydrogen gas as a fuel source to propel the vehicle. | Secondary own-body source: regulations/us-fmvss-308.md: S3. Application. This standard applies to each motor vehicle manufactured on or after September 1, 2028, that is equipped with compressed hydrogen gas as a fuel source to propel the vehicle. The standard does not apply to vehicles that are only equipped with cryo-compressed hydrogen storage systems and/or solid-state hydrogen storage system to propel the vehicle.",
+    "evidence_url": "regulations/us-fmvss-307.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "hydrogen",
+    "field": "powertrains",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "FCEV"
+    ],
+    "proposed": [
+      "FCEV",
+      "ICE"
+    ],
+    "evidence": "2.12. \"Hydrogen-fuelled vehicle\" means any motor vehicle that uses compressed gaseous hydrogen as a fuel to propel the vehicle, including fuel cell and internal combustion engine vehicles. Hydrogen fuel for passenger vehicles is specified in ISO 14687-2: 2012 and SAE J2719: (September 2011 Revision).",
+    "evidence_url": "regulations/au-f2023l01530.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "hydrogen",
+    "field": "title",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Hydrogen fuel-cell vehicle safety",
+    "proposed": "Hydrogen vehicle safety (fuel-cell and internal combustion)",
+    "evidence": "2.12. \"Hydrogen-fuelled vehicle\" means any motor vehicle that uses compressed gaseous hydrogen as a fuel to propel the vehicle, including fuel cell and internal combustion engine vehicles. Hydrogen fuel for passenger vehicles is specified in ISO 14687-2: 2012 and SAE J2719: (September 2011 Revision).",
+    "evidence_url": "regulations/au-f2023l01530.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "hydrogen",
+    "field": "cells.AU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "ADR 110/00",
+      "records": [
+        "au-f2023l01530"
+      ]
+    },
+    "proposed": {
+      "cite": "ADR 110/00 (new model vehicles from 1 Nov 2024; all vehicles from 1 Nov 2026)",
+      "records": [
+        "au-f2023l01530"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "1. 1 November 2024 for all new model vehicles. | 2. 1 November 2026 for all vehicles.",
+    "evidence_url": "regulations/au-f2023l01530.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "reess",
+    "field": "cells.AU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "ADR 109/01",
+      "records": [
+        "au-f2023l01526"
+      ]
+    },
+    "proposed": {
+      "cite": "ADR 109/01 (new model vehicles from 1 Nov 2025; all vehicles from 1 Nov 2028)",
+      "records": [
+        "au-f2023l01526"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "1. 1 November 2025 for all new model vehicles. | 2. 1 November 2028 for all vehicles.",
+    "evidence_url": "regulations/au-f2023l01526.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "exhaust-emissions",
+    "field": "cells.AU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "ADR 79/05; ADR 111/00; ADR 112/00 (RDE)",
+      "records": [
+        "au-f2024l00443",
+        "au-f2024l00446",
+        "au-f2024l00447"
+      ]
+    },
+    "proposed": {
+      "cite": "ADR 79/05; ADR 111/00; ADR 112/00 (RDE): new model vehicles from 1 Dec 2025; all vehicles from 1 Jul 2028",
+      "records": [
+        "au-f2024l00443",
+        "au-f2024l00446",
+        "au-f2024l00447"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "1 December 2025 for all new model vehicles. | 1 July 2028 for all vehicles. | Secondary own-body source: regulations/au-f2024l00446.md: 1 December 2025 for all new model vehicles. | Secondary own-body source: regulations/au-f2024l00446.md: 1 July 2028 for all vehicles. | Secondary own-body source: regulations/au-f2024l00447.md: 1 December 2025 for all new model vehicles. | Secondary own-body source: regulations/au-f2024l00447.md: 1 July 2028 for all vehicles.",
+    "evidence_url": "regulations/au-f2024l00443.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "mac-refrigerant",
+    "field": "cells.EU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "MAC Directive 2006/40/EC (GWP < 150); F-gas Reg. (EU) 2024/573",
+      "records": [
+        "eu-32006l0040",
+        "eu-32024r0573"
+      ]
+    },
+    "proposed": {
+      "cite": "MAC Directive 2006/40/EC (prohibits GWP >150 for new types from 2011 and new vehicles from 2017); F-gas Reg. (EU) 2024/573",
+      "records": [
+        "eu-32006l0040",
+        "eu-32024r0573"
+      ]
+    },
+    "evidence": "4.   With effect from 1 January 2011 Member States shall no longer grant EC type-approval or national type-approval for a type of vehicle fitted with an air conditioning system designed to contain fluorinated greenhouse gases with a global warming potential higher than 150.",
+    "evidence_url": "regulations/eu-32006l0040.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "anti-theft",
+    "field": "cells.BR",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "CONTRAN 245/2007, 330/2009; 215/2006",
+      "records": [
+        "br-contran-245-330",
+        "br-contran-215"
+      ]
+    },
+    "proposed": {
+      "cite": "CONTRAN 245/2007, 330/2009 (current applicability requires official verification)",
+      "records": [
+        "br-contran-245-330"
+      ]
+    },
+    "evidence": "# Bull bars (quebra-mato) on vehicles up to 3,500 kg GVW",
+    "evidence_url": "regulations/br-contran-215.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "exhaust-emissions",
+    "field": "cells.UN",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "UN R83 (NEDC legacy); UN R154 (WLTP); UN R168 (RDE)",
+      "records": [
+        "ece-r83",
+        "ece-r154",
+        "ece-r168"
+      ]
+    },
+    "proposed": {
+      "cite": "UN R83 (series-dependent emissions requirements; linked 09-series text has an entry-into-force date marked TBC); UN R154 (WLTP); UN R168 (RDE)",
+      "records": [
+        "ece-r83",
+        "ece-r154",
+        "ece-r168"
+      ]
+    },
+    "evidence": "09 series of amendments - Date of entry into force: XX September 2026 (TBC) | This Regulation establishes technical requirements for the type approval of motor vehicles with regard to crankcase emissions (Type 3 test) and exhaust emissions at low ambient temperature (Type 6 test) for emissions of gaseous compounds.",
+    "evidence_url": "regulations/ece-r83.md",
+    "confidence": 0.97
+  }
+]

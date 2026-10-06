@@ -1,0 +1,135 @@
+[
+  {
+    "name": "br-contran988-original",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9882022.pdf",
+    "ids": [
+      "br-contran-988"
+    ],
+    "retrieved_at": "2026-10-06T12:17:53.004262+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9882022.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 55124,
+    "truncated": false,
+    "sha256": "952301d5caa7b06d4870f51d171cb350c6de8b07e4c252fc948bb15c6fe36e3f",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran988-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran988-original.raw.gz"
+  },
+  {
+    "name": "br-contran559-original",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao5592015.pdf",
+    "ids": [
+      "br-contran-559"
+    ],
+    "retrieved_at": "2026-10-06T12:17:53.005048+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao5592015.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 84448,
+    "truncated": false,
+    "sha256": "ec7fb7d5f9a34ec7e547973edbc4314e4f2bd2633e428275b02e4a0f1061b162",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran559-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran559-original.raw.gz"
+  },
+  {
+    "name": "br-contran764-original",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao7642018.pdf",
+    "ids": [
+      "br-contran-764"
+    ],
+    "retrieved_at": "2026-10-06T12:17:53.004690+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao7642018.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 185305,
+    "truncated": false,
+    "sha256": "44ea6019ef401970b7c8e5246ef257187221d798dd262ab7558a1af76108d3db",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran764-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran764-original.raw.gz"
+  },
+  {
+    "name": "br-contran215-original",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_215.doc",
+    "ids": [
+      "br-contran-215"
+    ],
+    "retrieved_at": "2026-10-06T12:17:53.007333+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_215.doc",
+    "redirects": [],
+    "content_type": "application/msword",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 150528,
+    "truncated": false,
+    "sha256": "76e5dac7020eb1711ccd45c5ea0484e0cc29523bcb83b953eac7abf735c1bbf3",
+    "page_title": "",
+    "availability": "response_retrieved",
+    "text_preview": "��\u0011ࡱ\u001a�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000�� \u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000 \u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000!\u0001\u0000\u0000\u0001\u0000\u0000\u0000����\u0000\u0000\u0000\u0000\u0018\u0001\u0000\u0000\u0019\u0001\u0000\u0000 \u0001\u0000\u0000������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran215-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran215-original.raw.gz"
+  },
+  {
+    "name": "br-contran245-original",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_contran_245_07.pdf",
+    "ids": [
+      "br-contran-245"
+    ],
+    "retrieved_at": "2026-10-06T12:17:53.007205+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_contran_245_07.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 13085,
+    "truncated": false,
+    "sha256": "b338cc4d2c3bd5a6e391cd940815fe5abed20669c779d6e1ae4d39de0f7e6ec3",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran245-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran245-original.raw.gz"
+  },
+  {
+    "name": "br-contran330-original",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_contran_330_09.pdf",
+    "ids": [
+      "br-contran-330"
+    ],
+    "retrieved_at": "2026-10-06T12:17:53.006369+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_contran_330_09.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 12224,
+    "truncated": false,
+    "sha256": "8589a1f43481ad0d9e69cd53d05a072469e6d9605ca312074cf6ae6185497e72",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran330-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran330-original.raw.gz"
+  }
+]

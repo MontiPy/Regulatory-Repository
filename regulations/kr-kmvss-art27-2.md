@@ -20,12 +20,12 @@ open_tags:
 - seating reference point
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Child restraint system anchorages in passenger cars (excluding ultra-compact
-  and single-row vehicles) must be installed at two or more seats, with at least one
-  in the second row, comprising one upper and two lower anchorages per seat meeting
-  specified position, marking, usability, and safety requirements.
+summary: Passenger cars excluding ultra-compact and single-row vehicles require child
+  restraint anchorages at two or more seats, including one in the second row. Each
+  position has two lower anchorages and, except for convertibles, an upper anchorage,
+  meeting the specified installation, marking and safety requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d5f9d01e34b3907520758a630596680290895383
 systems:

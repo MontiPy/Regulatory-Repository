@@ -1,0 +1,76 @@
+[
+  {
+    "id": "us-cfr-part-595",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Retrofit air bag on-off switches installed by motor vehicle dealers and repair businesses are exempted from the federal prohibition against making safety equipment inoperative, provided specific conditions are met.",
+    "proposed": "49 CFR Part 595 sets conditional exemptions from the prohibition on making safety-standard compliance inoperative: retrofit airbag on-off switches for vehicles manufactured before 1 September 2015, modifications to accommodate people with disabilities (including temporary rental-vehicle modifications), and temporary AEB deactivation for law-enforcement vehicles. Disability modifications require specified labels and retained documentation.",
+    "evidence": "Section 595.2 includes \"otherwise modify motor vehicles to enable people with disabilities to operate or ride as a passenger\"; 595.3 applies to \"dealers, motor vehicle repair businesses, and rental companies\". Section 595.8 covers temporary rental disability modifications. Section 595.9 exempts law-enforcement-vehicle modifications enabling temporary AEB deactivation. Current summary describes airbag switches alone and omits these distinct exemption routes.",
+    "evidence_url": "regulations/us-cfr-part-595.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "us-fmvss-102",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Automatic transmissions and manual transmissions in passenger cars, MPVs, trucks, and buses are regulated for shift position sequence, starter interlock behavior, and braking effect.",
+    "proposed": "FMVSS 102 regulates automatic-transmission shift-position sequence, starter interlock and supplemental transmission braking in passenger cars, MPVs, trucks and buses. For manual transmissions it specifies shift-pattern identification, except for standard three-speed H patterns. The automatic-transmission starter interlock has specified exceptions for automatic stop/start and electric propulsion.",
+    "evidence": "S1 specifies \"a braking effect of automatic transmissions\". S3.1 heading is \"Automatic transmissions\" and contains starter interlock and transmission braking requirements. S3.2 \"Manual transmissions\" requires shift-lever pattern identification. Current summary groups manual and automatic transmissions together for all three obligations, overstating manual-transmission requirements.",
+    "evidence_url": "regulations/us-fmvss-102.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "us-fmvss-103",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Windshield defrosting and defogging systems on passenger cars, multipurpose passenger vehicles, trucks, and buses are regulated to ensure each vehicle is equipped with a functional system meeting specified performance requirements.",
+    "proposed": "FMVSS 103 requires windshield defrosting and defogging systems on passenger cars, MPVs, trucks and buses. The specified SAE performance and demonstration tests apply to passenger cars; other covered vehicles are required to have a system. Vehicles manufactured for sale in the noncontinental United States may use the alternative defogging option in S4(b).",
+    "evidence": "S4(a): \"each passenger car shall meet the requirements specified in S4.1, S4.2, and S4.3, and each multipurpose passenger vehicle, truck, and bus shall meet the requirements specified in § 4.1.\" S4.2: \"Each passenger car windshield defrosting and defogging system shall meet\" the SAE requirements. Current summary implies specified performance requirements across all listed vehicles.",
+    "evidence_url": "regulations/us-fmvss-103.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "us-cfr-part-596",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Brakes",
+      "ADAS sensors"
+    ],
+    "proposed": [],
+    "evidence": "Section 596.3: \"This part does not in itself impose duties or liabilities on any person. It is a description of tools that are used in compliance tests to measure the performance of automatic emergency braking systems required by the safety standards that refer to these tools.\" Scope 596.1 is \"test devices\"; Brakes and ADAS sensors are tested vehicle components, not the equipment specified in this part.",
+    "evidence_url": "regulations/us-cfr-part-596.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "us-cfr575-302",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Body structure"
+    ],
+    "proposed": [],
+    "evidence": "Section 575.302(a) requires manufacturers to \"include this information on the Monroney label\"; (d)(1) requires \"a safety rating label\" and (d)(2) \"depict the star ratings ... as reported ... by NHTSA\". It regulates information disclosure, not Body structure performance or construction. No commodity taxonomy value represents the label.",
+    "evidence_url": "regulations/us-cfr575-302.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "us-cfr575-401",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Fuel system",
+      "Exhaust"
+    ],
+    "proposed": [],
+    "evidence": "Section 575.401(d): \"each manufacturer must affix or cause to be affixed and each dealer must maintain or cause to be maintained ... a label\". Section (a) regulates point-of-sale information about fuel economy and emissions; it imposes no fuel-system or exhaust component standards. Current commodities conflate label subject matter with regulated component requirements.",
+    "evidence_url": "regulations/us-cfr575-401.md",
+    "confidence": 0.96
+  }
+]

@@ -1,0 +1,233 @@
+{
+  "reviewed": [
+    "kr-kmvss-art10",
+    "kr-kmvss-art102-2",
+    "kr-kmvss-art102-3",
+    "kr-kmvss-art102-4",
+    "kr-kmvss-art102",
+    "kr-kmvss-art103-2",
+    "kr-kmvss-art103",
+    "kr-kmvss-art104",
+    "kr-kmvss-art105",
+    "kr-kmvss-art107",
+    "kr-kmvss-art108-2",
+    "kr-kmvss-art109",
+    "kr-kmvss-art11",
+    "kr-kmvss-art110",
+    "kr-kmvss-art111-2",
+    "kr-kmvss-art111-3",
+    "kr-kmvss-art111",
+    "kr-kmvss-art112-11",
+    "kr-kmvss-art112-14",
+    "kr-kmvss-art112-2"
+  ],
+  "skipped": [
+    {
+      "id": "kr-kmvss-art10",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art10",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art102-2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art102-2",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art102-3",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art102-3",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art102-4",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art102-4",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art102",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art102",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art103-2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art103-2",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art103",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art103",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art104",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art104",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art105",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art105",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art107",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art107",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art108-2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art108-2",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art109",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art109",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art11",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art11",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art110",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art110",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art111-2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art111-2",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art111-3",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art111-3",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art111",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art111",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art112-11",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art112-11",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art112-14",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art112-14",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art112-2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip external legal currency and translation staleness: law.go.kr curl audit was denied by network policy (403); own translation amendment annotations do not prove current law or commencement."
+    },
+    {
+      "id": "kr-kmvss-art112-2",
+      "field": "vehicle_categories",
+      "reason": "National motor-vehicle, van and special-purpose categories cannot be fully mapped without Korean scope definitions. Only explicit passenger-car/towed-vehicle/truck-weight contradictions proposed."
+    },
+    {
+      "id": "kr-kmvss-art102",
+      "field": "vehicle_categories",
+      "reason": "Skip: truck collision paragraphs limit GVW to 3.5 t, but paragraph ④ airbag-warning-label scope says all vehicles equipped with a frontal passenger airbag; heavy trucks cannot safely be removed."
+    }
+  ],
+  "already_fixed": [],
+  "notes": "Read all 20 current translated bodies and metadata. Article titles/citations match local headings; no ellipsis summaries or UN equivalents; taxonomy entries valid. Summary accuracy checked against current local translation only, not Korean original. Summary omission findings preserve verified scope and actual requirements. No external status, repeal, currency or translation accuracy certified."
+}

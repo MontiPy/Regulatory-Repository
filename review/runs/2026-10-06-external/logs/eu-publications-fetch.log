@@ -1,0 +1,5 @@
+25/107: {'http_error': 3, 'response_retrieved': 22}
+50/107: {'http_error': 27, 'response_retrieved': 23}
+75/107: {'http_error': 29, 'response_retrieved': 46}
+100/107: {'http_error': 29, 'response_retrieved': 71}
+107/107: {'http_error': 30, 'response_retrieved': 77}

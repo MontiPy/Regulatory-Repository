@@ -298,7 +298,7 @@ def apply(fixes: dict[str, dict], label: str) -> list[str]:
             post.content = post.content.replace(old, new)
             log.append(f"| `{rid}` | body | {fmt(old)} | {fmt(new)} |")
         if changes.get("_stub_body"):
-            post.content = STUB_BODY.format(title=meta.get("title"))
+            post.content = STUB_BODY.format(title=changes.get("title", meta.get("title")))
             log.append(f"| `{rid}` | body | wrong-topic template text | honest reference stub |")
         for field, value in changes.items():
             if field.startswith("_"):

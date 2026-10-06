@@ -1,0 +1,30 @@
+{
+  "server": "http://127.0.0.1:8765",
+  "method": "Chromium via agent-browser; network permission granted for local sockets; server stopped afterward.",
+  "checks": [
+    {
+      "route": "/",
+      "has_content": true,
+      "error_overlay": false,
+      "interactive_snapshot": "browser-home-snapshot.txt",
+      "screenshot": "browser-home.png"
+    },
+    {
+      "route": "/?id=us-fmvss-216",
+      "historic_notice": true,
+      "withdrawn_status": true,
+      "has_content": true,
+      "screenshot": "browser-fmvss216.png"
+    },
+    {
+      "route": "/?id=eu-32017r1151",
+      "version_note": true,
+      "legal_articles": true,
+      "figure_note": true,
+      "screenshot": "browser-eu1151.png"
+    }
+  ],
+  "browser_errors": [],
+  "visual_inspection": "Both changed-record screenshots inspected: readable content and version/status notices are visible.",
+  "limitation": "Three samples, not a full browser audit of every changed profile, crosswalk or technical annex."
+}

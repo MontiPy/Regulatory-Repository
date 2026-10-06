@@ -21,10 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X0300
 status: in-force
-summary: Steering mechanism design in passenger vehicles requires that the system
-  protect the driver from serious injury during a frontal impact by limiting the rearward
-  displacement of the steering column and controlling the force transmitted to the
-  driver's body.
+summary: Sets frontal collision requirements for the steering mechanism and high-voltage
+  electric power train of M1 vehicles and N1 vehicles below 1,500 kg maximum permissible
+  mass. It limits steering-column displacement and forces transmitted to the driver,
+  and addresses post-crash electrical safety. Other vehicles may be approved at the
+  manufacturer's request.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 572e0ebc5cce1433b58aec43a32578e383407dc3
 systems:

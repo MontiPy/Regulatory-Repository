@@ -21,9 +21,13 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Locking devices fitted to the engine, power transmission, running gear, transmission,
-  steering, or braking systems of qualifying passenger and freight motor vehicles
-  (within specified weight and seating-capacity limits) are regulated under this article.
+summary: Article 11-2 requires locking devices on specified systems of passenger vehicles
+  seating fewer than 11 and freight vehicles up to 3.5 tonnes, excluding towed vehicles
+  and with an exception for braking systems on listed vehicle types. Locking devices
+  must stop the protected function reliably without impairing safe operation. Installed
+  immobilizers on qualifying passenger vehicles seating fewer than 10 and freight
+  vehicles up to 2 tonnes must meet prescribed structure and locking-performance standards;
+  this paragraph does not require immobilizer installation.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: e521e8fc3ec250cbe295be0ba25ad1a9213cdfbf
 systems:

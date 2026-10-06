@@ -35,6 +35,7 @@ title: UN Regulation No. 17 — Seats, their Anchorages and Head Restraints
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

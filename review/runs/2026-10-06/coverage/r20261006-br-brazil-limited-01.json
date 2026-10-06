@@ -1,0 +1,836 @@
+{
+  "reviewed": [
+    "br-abnt-nbr-15145",
+    "br-anatel-cert",
+    "br-contran-215",
+    "br-contran-224",
+    "br-contran-245-330",
+    "br-contran-37",
+    "br-contran-498",
+    "br-contran-749",
+    "br-contran-758",
+    "br-contran-759",
+    "br-contran-764",
+    "br-contran-885",
+    "br-contran-908",
+    "br-contran-912",
+    "br-contran-913",
+    "br-contran-915",
+    "br-contran-924",
+    "br-contran-936",
+    "br-contran-960",
+    "br-contran-964",
+    "br-contran-966",
+    "br-contran-safety-labeling",
+    "br-senatran-990"
+  ],
+  "skipped": [
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-anatel-cert",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-215",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-224",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-245-330",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-37",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-498",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-749",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-758",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-759",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-764",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-885",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-908",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-912",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-913",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-915",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-924",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-936",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-960",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-964",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-966",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "title",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "summary",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "vehicle_categories",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "systems/commodities",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "un_equivalent",
+      "reason": "Skip: no substantive regulation text; official text unavailable under current network policy. No correction inferred from title or template."
+    },
+    {
+      "id": "br-senatran-990",
+      "field": "source_url/citation",
+      "reason": "Skip: curl audit ['HTTP/1.1 403 Forbidden']; network-policy denial does not establish link failure or current official instrument."
+    }
+  ],
+  "already_fixed": [],
+  "notes": "All 23 current bodies inspected. Every body is a reference stub or archive index. All taxonomy values valid, no summary ends in ellipsis, no UN equivalents present. Several summaries already carry the review-date correction but prior claims were not imported or re-certified without text. Third-party ATIC URLs remain unverified and are not government sources."
+}

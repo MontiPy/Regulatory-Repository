@@ -1,0 +1,150 @@
+{
+  "reviewed": [
+    "cn-gb-17675",
+    "cn-gb-18296-2019",
+    "cn-gb-18352-6-2016",
+    "cn-gb-18384-2020-gb-18384-2025",
+    "cn-gb-19578",
+    "cn-gb-20071-2025",
+    "cn-gb-20072-2024",
+    "cn-gb-21670-2025",
+    "cn-gb-24550-2024",
+    "cn-gb-26149",
+    "cn-gb-26572-2025",
+    "cn-gb-27887-2024",
+    "cn-gb-27999",
+    "cn-gb-34660",
+    "cn-gb-38031-2025",
+    "cn-gb-4094-2016"
+  ],
+  "skipped": [
+    {
+      "id": "cn-gb-17675",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-18296-2019",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-18352-6-2016",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-18384-2020-gb-18384-2025",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-19578",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-20071-2025",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-20072-2024",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-21670-2025",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-24550-2024",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-26149",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-26572-2025",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-27887-2024",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-27999",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-34660",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-38031-2025",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-4094-2016",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip independent mandatory scope, numerical requirements, effective dates and supersession: only a nonofficial summary/template or reference stub, official SAMR metadata unavailable due network policy, technical text image-only. Metadata date/status consistency as of 2026-10-06 checked."
+    },
+    {
+      "id": "cn-gb-19578",
+      "field": "summary",
+      "reason": "Skip verification of about 18% tighter limits and 2026/2028 transition dates; neither numerical claim nor implementation clause is in the template body, and SAMR metadata not reachable."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "cn-gb-17675",
+      "field": "status,effective_date",
+      "reason": "Current dates/statuses already reflect review date; no upcoming-to-in-force correction repeated."
+    },
+    {
+      "id": "cn-gb-18384-2020-gb-18384-2025",
+      "field": "status,effective_date",
+      "reason": "Current dates/statuses already reflect review date; no upcoming-to-in-force correction repeated."
+    },
+    {
+      "id": "cn-gb-20071-2025",
+      "field": "status,effective_date",
+      "reason": "Current dates/statuses already reflect review date; no upcoming-to-in-force correction repeated."
+    },
+    {
+      "id": "cn-gb-20072-2024",
+      "field": "status,effective_date",
+      "reason": "Current dates/statuses already reflect review date; no upcoming-to-in-force correction repeated."
+    },
+    {
+      "id": "cn-gb-21670-2025",
+      "field": "status,effective_date",
+      "reason": "Current dates/statuses already reflect review date; no upcoming-to-in-force correction repeated."
+    },
+    {
+      "id": "cn-gb-38031-2025",
+      "field": "status,effective_date",
+      "reason": "Current dates/statuses already reflect review date; no upcoming-to-in-force correction repeated."
+    },
+    {
+      "id": "cn-gb-26572-2025",
+      "field": "body,summary,un_equivalent",
+      "reason": "Current record already explicit reference stub; unsupported equivalents absent."
+    },
+    {
+      "id": "cn-gb-34660",
+      "field": "body,summary,un_equivalent",
+      "reason": "Current record already explicit reference stub; unsupported equivalents absent."
+    }
+  ],
+  "notes": "All 16 complete bodies/current metadata reviewed. No Chinese GB technical clauses or current official metadata verified. Unrelated cross-reference in GB17675 body points to child restraints but is labelled possible functional overlap; not treated as legal equivalence. Fuel-consumption and TPMS templates mix in extraneous emissions/tire material; corrections held absent genuine standards. No invented alternative URLs or new equivalents."
+}

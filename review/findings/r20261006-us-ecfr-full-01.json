@@ -1,0 +1,110 @@
+[
+  {
+    "id": "us-40cfr-part-1066",
+    "field": "systems",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Emissions",
+      "Fuel safety"
+    ],
+    "proposed": [
+      "Emissions"
+    ],
+    "evidence": "This part describes the emission measurement procedures that apply to testing we require for the following vehicles: | The testing in this part 1066 is designed for measuring exhaust, evaporative, and refueling emissions.",
+    "evidence_url": "regulations/us-40cfr-part-1066.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-40cfr-part-600",
+    "field": "systems",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Emissions",
+      "Fuel safety",
+      "EV charging",
+      "Battery safety"
+    ],
+    "proposed": [
+      "Emissions"
+    ],
+    "evidence": "PART 600—FUEL ECONOMY AND GREENHOUSE GAS EXHAUST EMISSIONS OF MOTOR VEHICLES | The test procedures in subpart B of this part also describe how manufacturers can test larger vehicles to meet fuel consumption standards under 49 CFR part 535. | Unless stated otherwise, references to fuel economy or fuel economy data in this part shall also be interpreted to mean the related exhaust emissions of CO2, HC, and CO",
+    "evidence_url": "regulations/us-40cfr-part-600.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-40cfr-part-85",
+    "field": "systems",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Emissions",
+      "Fuel safety",
+      "On-board diagnostics"
+    ],
+    "proposed": [
+      "Emissions",
+      "On-board diagnostics"
+    ],
+    "evidence": "PART 85—CONTROL OF AIR POLLUTION FROM MOBILE SOURCES",
+    "evidence_url": "regulations/us-40cfr-part-85.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-40cfr-part-86",
+    "field": "systems",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Emissions",
+      "On-board diagnostics",
+      "Fuel safety"
+    ],
+    "proposed": [
+      "Emissions",
+      "On-board diagnostics"
+    ],
+    "evidence": "PART 86—CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES",
+    "evidence_url": "regulations/us-40cfr-part-86.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-47cfr-part-15",
+    "field": "systems",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "EMC"
+    ],
+    "proposed": [
+      "EMC",
+      "Radio & telecom"
+    ],
+    "evidence": "This part sets out the regulations under which an intentional, unintentional, or incidental radiator may be operated without an individual license. It also contains the technical specifications, administrative requirements and other conditions relating to the marketing of part 15 devices. | This subpart sets out the regulations for unlicensed personal communications services (PCS) devices operating in the 1920-1930 MHz band.",
+    "evidence_url": "regulations/us-47cfr-part-15.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-cfr-part-523",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus",
+      "Trailer"
+    ],
+    "evidence": "For the purpose of this section, heavy-duty vehicles are divided into four regulatory categories as follows: | Heavy-duty trailers. | ### § 523.10 Heavy-duty trailers.",
+    "evidence_url": "regulations/us-cfr-part-523.md",
+    "confidence": 0.99
+  }
+]

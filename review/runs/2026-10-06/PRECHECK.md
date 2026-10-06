@@ -1,0 +1,554 @@
+# Deterministic pre-checks — 2026-10-06
+
+Base: `faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92`; review branch: `review/2026-10-06-content`.
+
+Baseline: 727 records; build 0 errors / 0 warnings; pytest 212 passed. Korean translation check failed because law.go.kr was denied by network policy; no currency conclusion. EU staged pull returned 0 records, merge dry run 0 candidates; no text refreshed. All 602 distinct source/authority URLs denied by policy (curl exit 56, HTTP 403), so link works could not be established.
+
+Empty tags, repeated citations and title-word absence are hints, not established defects. Build content_kind is a heuristic and does not prove completeness.
+
+## not_regulation_text: 240
+
+- {"id": "ar-workbook-reg-0624-lcm-lca", "content_kind": "summary"}
+- {"id": "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra", "content_kind": "summary"}
+- {"id": "asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework", "content_kind": "summary"}
+- {"id": "asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework", "content_kind": "summary"}
+- {"id": "asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval", "content_kind": "summary"}
+- {"id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt", "content_kind": "summary"}
+- {"id": "asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework", "content_kind": "summary"}
+- {"id": "au-f2005l03873", "content_kind": "index"}
+- {"id": "au-f2005l03996", "content_kind": "index"}
+- {"id": "au-f2006l01786", "content_kind": "index"}
+- {"id": "au-f2006l02663", "content_kind": "index"}
+- {"id": "au-f2006l02664", "content_kind": "index"}
+- {"id": "au-f2006l02665", "content_kind": "index"}
+- {"id": "au-f2006l02745", "content_kind": "index"}
+- {"id": "au-f2009l03609", "content_kind": "index"}
+- {"id": "au-f2011l02016", "content_kind": "index"}
+- {"id": "au-f2012l00703", "content_kind": "index"}
+- {"id": "au-f2018l01519", "content_kind": "index"}
+- {"id": "au-f2018l01520", "content_kind": "index"}
+- {"id": "au-f2020l01254", "content_kind": "index"}
+- {"id": "au-f2022l00213", "content_kind": "index"}
+- {"id": "au-f2023l01317", "content_kind": "index"}
+- {"id": "au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019", "content_kind": "summary"}
+- {"id": "au-workbook-reg-0371-register-of-approved-vehicles-rav", "content_kind": "summary"}
+- {"id": "au-workbook-reg-0372-australian-road-vehicle-recall-framework", "content_kind": "summary"}
+- {"id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024", "content_kind": "summary"}
+- {"id": "au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma", "content_kind": "summary"}
+- {"id": "br-abnt-nbr-15145", "content_kind": "link"}
+- {"id": "br-anatel-cert", "content_kind": "link"}
+- {"id": "br-contran-215", "content_kind": "link"}
+- {"id": "br-contran-224", "content_kind": "link"}
+- {"id": "br-contran-245-330", "content_kind": "link"}
+- {"id": "br-contran-37", "content_kind": "link"}
+- {"id": "br-contran-498", "content_kind": "link"}
+- {"id": "br-contran-749", "content_kind": "link"}
+- {"id": "br-contran-758", "content_kind": "link"}
+- {"id": "br-contran-759", "content_kind": "link"}
+- {"id": "br-contran-764", "content_kind": "link"}
+- {"id": "br-contran-885", "content_kind": "link"}
+- {"id": "br-contran-908", "content_kind": "link"}
+- {"id": "br-contran-912", "content_kind": "link"}
+- {"id": "br-contran-913", "content_kind": "link"}
+- {"id": "br-contran-915", "content_kind": "link"}
+- {"id": "br-contran-924", "content_kind": "link"}
+- {"id": "br-contran-936", "content_kind": "link"}
+- {"id": "br-contran-960", "content_kind": "link"}
+- {"id": "br-contran-964", "content_kind": "link"}
+- {"id": "br-contran-966", "content_kind": "link"}
+- {"id": "br-contran-safety-labeling", "content_kind": "link"}
+- {"id": "br-senatran-990", "content_kind": "link"}
+- {"id": "ca-mvsr-c-r-c---c--1038-s108-1", "content_kind": "link"}
+- {"id": "ca-mvsr-c-r-c---c--1038-s1106", "content_kind": "link"}
+- {"id": "ca-workbook-reg-0145-eccc-sor-2003-2", "content_kind": "summary"}
+- {"id": "ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038", "content_kind": "summary"}
+- {"id": "ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198", "content_kind": "summary"}
+- {"id": "ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201", "content_kind": "summary"}
+- {"id": "ca-workbook-reg-0568-sor-2010-90", "content_kind": "summary"}
+- {"id": "ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices", "content_kind": "summary"}
+- {"id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval", "content_kind": "summary"}
+- {"id": "cn-cnca-c11-01-2020", "content_kind": "summary"}
+- {"id": "cn-gb-11551-2014", "content_kind": "summary"}
+- {"id": "cn-gb-11552", "content_kind": "summary"}
+- {"id": "cn-gb-11555-2025", "content_kind": "summary"}
+- {"id": "cn-gb-11562", "content_kind": "link"}
+- {"id": "cn-gb-11566", "content_kind": "summary"}
+- {"id": "cn-gb-13057", "content_kind": "summary"}
+- {"id": "cn-gb-14166-2024", "content_kind": "summary"}
+- {"id": "cn-gb-14167-2024", "content_kind": "summary"}
+- {"id": "cn-gb-1495-2002", "content_kind": "summary"}
+- {"id": "cn-gb-15083-2019", "content_kind": "summary"}
+- {"id": "cn-gb-15084-2022", "content_kind": "summary"}
+- {"id": "cn-gb-15085-2013", "content_kind": "summary"}
+- {"id": "cn-gb-15086-2013", "content_kind": "summary"}
+- {"id": "cn-gb-15740", "content_kind": "summary"}
+- {"id": "cn-gb-1589", "content_kind": "summary"}
+- {"id": "cn-gb-16735-2019", "content_kind": "summary"}
+- {"id": "cn-gb-17675", "content_kind": "summary"}
+- {"id": "cn-gb-18296-2019", "content_kind": "summary"}
+- {"id": "cn-gb-18352-6-2016", "content_kind": "summary"}
+- {"id": "cn-gb-18384-2020-gb-18384-2025", "content_kind": "summary"}
+- {"id": "cn-gb-19578", "content_kind": "summary"}
+- {"id": "cn-gb-20071-2025", "content_kind": "summary"}
+- {"id": "cn-gb-20072-2024", "content_kind": "summary"}
+- {"id": "cn-gb-21670-2025", "content_kind": "summary"}
+- {"id": "cn-gb-24550-2024", "content_kind": "summary"}
+- {"id": "cn-gb-26149", "content_kind": "summary"}
+- {"id": "cn-gb-26572-2025", "content_kind": "link"}
+- {"id": "cn-gb-27887-2024", "content_kind": "summary"}
+- {"id": "cn-gb-27999", "content_kind": "summary"}
+- {"id": "cn-gb-34660", "content_kind": "link"}
+- {"id": "cn-gb-38031-2025", "content_kind": "summary"}
+- {"id": "cn-gb-4094-2016", "content_kind": "summary"}
+- {"id": "cn-gb-44495-2024", "content_kind": "summary"}
+- {"id": "cn-gb-44496-2024", "content_kind": "summary"}
+- {"id": "cn-gb-44497", "content_kind": "summary"}
+- {"id": "cn-gb-4599-2024", "content_kind": "summary"}
+- {"id": "cn-gb-4785-2019", "content_kind": "summary"}
+- {"id": "cn-gb-5920-2024", "content_kind": "summary"}
+- {"id": "cn-gb-7258-2017", "content_kind": "summary"}
+- {"id": "cn-gb-8410", "content_kind": "link"}
+- {"id": "cn-gb-9656-2021", "content_kind": "summary"}
+- {"id": "cn-gb-9743-2024", "content_kind": "summary"}
+- {"id": "cn-gb-t-18411-2018", "content_kind": "summary"}
+- {"id": "cn-gb-t-20913-2007", "content_kind": "summary"}
+- {"id": "cn-gb-t-30512-2014", "content_kind": "summary"}
+- {"id": "cn-gb-t-30677-2014", "content_kind": "summary"}
+- {"id": "cn-gb-t-34590", "content_kind": "summary"}
+- {"id": "eaeu-workbook-reg-0613-tr-cu-018-2011", "content_kind": "summary"}
+- {"id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements", "content_kind": "summary"}
+- {"id": "ece-r114", "content_kind": "link"}
+- {"id": "ece-r144", "content_kind": "link"}
+- {"id": "ece-r154", "content_kind": "link"}
+- {"id": "ece-r27", "content_kind": "link"}
+- {"id": "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles", "content_kind": "summary"}
+- {"id": "eu-32006r1907", "content_kind": "link"}
+- {"id": "eu-32017r1151", "content_kind": "link"}
+- {"id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956", "content_kind": "summary"}
+- {"id": "gcc-ecas-moiat-conformity-certificates", "content_kind": "summary"}
+- {"id": "gcc-gcc-ev-technical-regulation-draft", "content_kind": "summary"}
+- {"id": "gcc-gso-1040-1041-1042", "content_kind": "summary"}
+- {"id": "gcc-gso-1052-2000", "content_kind": "summary"}
+- {"id": "gcc-gso-1053-2002", "content_kind": "summary"}
+- {"id": "gcc-gso-1503-2002", "content_kind": "summary"}
+- {"id": "gcc-gso-1598-2002", "content_kind": "summary"}
+- {"id": "gcc-gso-1624-2002", "content_kind": "summary"}
+- {"id": "gcc-gso-1677-2002", "content_kind": "summary"}
+- {"id": "gcc-gso-1680-1685-2003", "content_kind": "summary"}
+- {"id": "gcc-gso-1707-2005", "content_kind": "summary"}
+- {"id": "gcc-gso-1708-2005", "content_kind": "summary"}
+- {"id": "gcc-gso-1709-2005", "content_kind": "summary"}
+- {"id": "gcc-gso-290-1994", "content_kind": "summary"}
+- {"id": "gcc-gso-36-2005", "content_kind": "summary"}
+- {"id": "gcc-gso-37-2012", "content_kind": "summary"}
+- {"id": "gcc-gso-38-2005", "content_kind": "summary"}
+- {"id": "gcc-gso-39-2005", "content_kind": "summary"}
+- {"id": "gcc-gso-40-2011", "content_kind": "summary"}
+- {"id": "gcc-gso-41-2007", "content_kind": "summary"}
+- {"id": "gcc-gso-42-2015", "content_kind": "summary"}
+- {"id": "gcc-gso-51-2007", "content_kind": "summary"}
+- {"id": "gcc-gso-52-2007", "content_kind": "summary"}
+- {"id": "gcc-gso-53-2007", "content_kind": "summary"}
+- {"id": "gcc-gso-645-646-647", "content_kind": "summary"}
+- {"id": "gcc-gso-96-1988", "content_kind": "summary"}
+- {"id": "gcc-gso-97-1988", "content_kind": "summary"}
+- {"id": "gcc-gso-98-1988", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-10", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-100", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-117", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-121", "content_kind": "link"}
+- {"id": "gcc-gso-ece-125", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-127", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-13h-1-2-3", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-13h-2012", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-14", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-141", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-155", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-156", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-16", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-21", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-26", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-30", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-43-gso-3538", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-46", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-48", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-51", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-79", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-83-gso-ece-154", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-94", "content_kind": "summary"}
+- {"id": "gcc-gso-ece-95", "content_kind": "summary"}
+- {"id": "gcc-gso-my2027-emission-limit-implementation", "content_kind": "summary"}
+- {"id": "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3", "content_kind": "summary"}
+- {"id": "gcc-mc-250905-2025", "content_kind": "summary"}
+- {"id": "gcc-saso-2847-saso-2864-2022", "content_kind": "summary"}
+- {"id": "gcc-saso-3004-2022", "content_kind": "summary"}
+- {"id": "gcc-saso-3005-2022", "content_kind": "summary"}
+- {"id": "gcc-saso-3006-2022", "content_kind": "summary"}
+- {"id": "gcc-saso-3007-2022", "content_kind": "summary"}
+- {"id": "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles", "content_kind": "summary"}
+- {"id": "gcc-uae-s-5019-2024", "content_kind": "summary"}
+- {"id": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework", "content_kind": "summary"}
+- {"id": "in-ais-038-rev-2-ais-156", "content_kind": "summary"}
+- {"id": "in-bs-vi-india-cafe-fuel-consumption", "content_kind": "summary"}
+- {"id": "in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework", "content_kind": "summary"}
+- {"id": "jp-srrv-accelerator-control", "content_kind": "link"}
+- {"id": "jp-srrv-audible-warning-devices", "content_kind": "link"}
+- {"id": "jp-srrv-automated-lane-keeping-automated-driving-systems", "content_kind": "link"}
+- {"id": "jp-srrv-body-structure-and-load-path", "content_kind": "summary"}
+- {"id": "jp-srrv-brake-assist-systems", "content_kind": "summary"}
+- {"id": "jp-srrv-bumper-and-low-speed-impact-external-projections", "content_kind": "summary"}
+- {"id": "jp-srrv-controls-tell-tales-indicators-and-driver-information", "content_kind": "link"}
+- {"id": "jp-srrv-electric-vehicle-rechargeable-energy-storage-system", "content_kind": "summary"}
+- {"id": "jp-srrv-engine-power-train-and-pedal-lever", "content_kind": "link"}
+- {"id": "jp-srrv-exhaust-emissions-and-obd", "content_kind": "summary"}
+- {"id": "jp-srrv-fuel-system-and-fire-prevention", "content_kind": "summary"}
+- {"id": "jp-srrv-isofix-and-child-restraint-anchorages", "content_kind": "summary"}
+- {"id": "jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars", "content_kind": "summary"}
+- {"id": "jp-srrv-japan-automobile-recycling-law", "content_kind": "summary"}
+- {"id": "jp-srrv-japan-motor-vehicle-noise-requirements", "content_kind": "summary"}
+- {"id": "jp-srrv-japan-passenger-vehicle-exhaust-emission-standards", "content_kind": "summary"}
+- {"id": "jp-srrv-japan-radio-equipment-technical-conformity-certification", "content_kind": "summary"}
+- {"id": "jp-srrv-japanese-vehicle-type-approval-type-designation-framework", "content_kind": "summary"}
+- {"id": "jp-srrv-mlit-vehicle-recall-and-improvement-measures", "content_kind": "summary"}
+- {"id": "jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps", "content_kind": "summary"}
+- {"id": "jp-srrv-speedometer-and-odometer", "content_kind": "link"}
+- {"id": "jp-srrv-steering-equipment-and-steering-effort", "content_kind": "summary"}
+- {"id": "jp-srrv-tires-wheels-and-tpms", "content_kind": "summary"}
+- {"id": "jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity", "content_kind": "summary"}
+- {"id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging", "content_kind": "summary"}
+- {"id": "kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification", "content_kind": "summary"}
+- {"id": "kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise", "content_kind": "summary"}
+- {"id": "kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment", "content_kind": "summary"}
+- {"id": "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles", "content_kind": "link"}
+- {"id": "mx-workbook-reg-0610-nom-194-se-2021", "content_kind": "summary"}
+- {"id": "mx-workbook-reg-0611-nom-042-semarnat-2003", "content_kind": "summary"}
+- {"id": "mx-workbook-reg-0612-nom-163-semarnat-scfi-2023", "content_kind": "summary"}
+- {"id": "nz-workbook-reg-0628-land-transport-rules-approved-standards", "content_kind": "summary"}
+- {"id": "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0546-directive-2011-65-eu-rohs", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0641-iatf-16949", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0642-iso-9001", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0643-iso-26262", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0644-iso-21448", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0645-iso-sae-21434", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0646-iso-24089", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0647-automotive-spice-aspice", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0648-iso-6469-series", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0650-iso-22628", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp", "content_kind": "summary"}
+- {"id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800", "content_kind": "summary"}
+- {"id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework", "content_kind": "summary"}
+- {"id": "tw-vehicle-safety-type-approval-dgst", "content_kind": "summary"}
+- {"id": "us-stub-california-proposition-65", "content_kind": "summary"}
+- {"id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821", "content_kind": "summary"}
+- {"id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386", "content_kind": "summary"}
+- {"id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8", "content_kind": "summary"}
+- {"id": "us-stub-us-epa-40-cfr-part-86-tier-3", "content_kind": "summary"}
+- {"id": "us-workbook-reg-0451-49-cfr-part-575", "content_kind": "summary"}
+- {"id": "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series", "content_kind": "summary"}
+- {"id": "za-workbook-reg-0623-vc-8056", "content_kind": "summary"}
+
+## truncated_summaries: 0
+
+None.
+
+## empty_systems: 42
+
+- `au-f2006l01431`
+- `au-f2007l02226`
+- `au-f2012l01123`
+- `au-workbook-reg-0372-australian-road-vehicle-recall-framework`
+- `ca-mvsr-c-r-c---c--1038-s108-1`
+- `ca-mvsr-c-r-c---c--1038-s1106`
+- `ca-mvsr-c-r-c---c--1038-s2`
+- `cn-cnca-c11-01-2020`
+- `cn-gb-t-30512-2014`
+- `ece-r0`
+- `ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles`
+- `eu-32018r0858`
+- `eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956`
+- `gcc-gso-290-1994`
+- `jp-jvsregs-art1`
+- `jp-jvsregs-art14`
+- `jp-jvsregs-art26`
+- `jp-jvsregs-art5`
+- `jp-srrv-engine-power-train-and-pedal-lever`
+- `jp-srrv-mlit-vehicle-recall-and-improvement-measures`
+- `kr-kmvss-art3`
+- `kr-kmvss-art31`
+- `kr-kmvss-art5`
+- `other-workbook-reg-0641-iatf-16949`
+- `other-workbook-reg-0642-iso-9001`
+- `other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp`
+- `us-cfr-part-523`
+- `us-cfr-part-536`
+- `us-cfr-part-537`
+- `us-cfr-part-551`
+- `us-cfr-part-554`
+- `us-cfr-part-556`
+- `us-cfr-part-557`
+- `us-cfr-part-573`
+- `us-cfr-part-576`
+- `us-cfr-part-577`
+- `us-cfr-part-578`
+- `us-cfr-part-583`
+- `us-cfr-part-592`
+- `us-cfr-part-593`
+- `us-cfr-part-594`
+- `us-fmvss-403`
+
+## empty_commodities: 83
+
+- `ar-workbook-reg-0624-lcm-lca`
+- `asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra`
+- `asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework`
+- `asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework`
+- `au-f2006l01392`
+- `au-f2006l01431`
+- `au-f2006l01785`
+- `au-f2006l01786`
+- `au-f2006l02301`
+- `au-f2012l01123`
+- `au-f2020l01254`
+- `au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019`
+- `au-workbook-reg-0371-register-of-approved-vehicles-rav`
+- `au-workbook-reg-0372-australian-road-vehicle-recall-framework`
+- `au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024`
+- `br-contran-37`
+- `br-contran-safety-labeling`
+- `br-senatran-990`
+- `ca-mvsr-c-r-c---c--1038-s108-1`
+- `ca-mvsr-c-r-c---c--1038-s1106`
+- `ca-mvsr-c-r-c---c--1038-s2`
+- `ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038`
+- `cn-cnca-c11-01-2020`
+- `cn-gb-1589`
+- `cn-gb-7258-2017`
+- `cn-gb-t-18411-2018`
+- `eaeu-workbook-reg-0613-tr-cu-018-2011`
+- `ece-r0`
+- `ece-r27`
+- `ece-r39`
+- `ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles`
+- `eu-32006r1907`
+- `eu-32018r0858`
+- `gcc-ecas-moiat-conformity-certificates`
+- `gcc-gso-290-1994`
+- `gcc-gso-42-2015`
+- `gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3`
+- `gcc-saso-saber-fuel-economy-label-for-new-light-vehicles`
+- `il-workbook-reg-0627-israel-vehicle-import-type-approval-framework`
+- `jp-jvsregs-art1`
+- `jp-jvsregs-art5`
+- `jp-srrv-japanese-vehicle-type-approval-type-designation-framework`
+- `jp-srrv-mlit-vehicle-recall-and-improvement-measures`
+- `jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity`
+- `kr-kmvss-art110`
+- `kr-kmvss-art3`
+- `kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles`
+- `nz-workbook-reg-0628-land-transport-rules-approved-standards`
+- `other-workbook-reg-0641-iatf-16949`
+- `other-workbook-reg-0642-iso-9001`
+- `other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp`
+- `tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework`
+- `tw-vehicle-safety-type-approval-dgst`
+- `us-cfr-part-523`
+- `us-cfr-part-529`
+- `us-cfr-part-536`
+- `us-cfr-part-537`
+- `us-cfr-part-542`
+- `us-cfr-part-545`
+- `us-cfr-part-551`
+- `us-cfr-part-554`
+- `us-cfr-part-556`
+- `us-cfr-part-557`
+- `us-cfr-part-565`
+- `us-cfr-part-566`
+- `us-cfr-part-567`
+- `us-cfr-part-568`
+- `us-cfr-part-573`
+- `us-cfr-part-576`
+- `us-cfr-part-577`
+- `us-cfr-part-578`
+- `us-cfr-part-580`
+- `us-cfr-part-582`
+- `us-cfr-part-583`
+- `us-cfr-part-592`
+- `us-cfr-part-593`
+- `us-cfr-part-594`
+- `us-cfr575-105`
+- `us-cfr575-301`
+- `us-fmvss-125`
+- `us-fmvss-218`
+- `us-fmvss-403`
+- `za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series`
+
+## empty_vehicle_categories: 23
+
+- `br-anatel-cert`
+- `ca-mvsr-c-r-c---c--1038-s108-1`
+- `ca-mvsr-c-r-c---c--1038-s1106`
+- `ca-mvsr-c-r-c---c--1038-s2`
+- `ca-mvsr-c-r-c---c--1038-s213-4`
+- `eu-32006l0066`
+- `eu-32006r1907`
+- `eu-32014l0053`
+- `eu-32024r0573`
+- `other-workbook-reg-0546-directive-2011-65-eu-rohs`
+- `other-workbook-reg-0642-iso-9001`
+- `other-workbook-reg-0645-iso-sae-21434`
+- `other-workbook-reg-0647-automotive-spice-aspice`
+- `other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp`
+- `us-40cfr-part-82`
+- `us-47cfr-part-15`
+- `us-cfr-part-551`
+- `us-cfr-part-554`
+- `us-cfr-part-557`
+- `us-cfr-part-576`
+- `us-cfr-part-592`
+- `us-cfr-part-594`
+- `us-fmvss-500`
+
+## future_in_force: 0
+
+None.
+
+## prefix_region_mismatch: 0
+
+None.
+
+## title_words_absent: 123
+
+- {"id": "au-f2005l03990", "absent_words": ["offset"], "total_title_words": 5}
+- {"id": "au-f2006l02312", "absent_words": ["omnibuses", "padding", "strength"], "total_title_words": 4}
+- {"id": "ca-mvsr-c-r-c---c--1038-s101", "absent_words": ["displays"], "total_title_words": 2}
+- {"id": "ca-mvsr-c-r-c---c--1038-s102", "absent_words": ["systems"], "total_title_words": 3}
+- {"id": "ca-mvsr-c-r-c---c--1038-s113", "absent_words": ["systems"], "total_title_words": 2}
+- {"id": "ca-mvsr-c-r-c---c--1038-s2", "absent_words": ["definitions", "interpretation"], "total_title_words": 2}
+- {"id": "ca-mvsr-c-r-c---c--1038-s201", "absent_words": ["occupant"], "total_title_words": 4}
+- {"id": "ca-mvsr-c-r-c---c--1038-s208", "absent_words": ["assemblies", "installation"], "total_title_words": 2}
+- {"id": "ca-mvsr-c-r-c---c--1038-s210-2", "absent_words": ["isofix", "latch"], "total_title_words": 6}
+- {"id": "cn-gb-11555-2025", "absent_words": ["specification", "technical"], "total_title_words": 8}
+- {"id": "cn-gb-13057", "absent_words": ["buses"], "total_title_words": 5}
+- {"id": "cn-gb-14167-2024", "absent_words": ["driven", "power"], "total_title_words": 8}
+- {"id": "cn-gb-15085-2013", "absent_words": ["windscreen"], "total_title_words": 9}
+- {"id": "cn-gb-15086-2013", "absent_words": ["methods", "performance", "requirements"], "total_title_words": 8}
+- {"id": "cn-gb-15740", "absent_words": ["device", "protective"], "total_title_words": 6}
+- {"id": "cn-gb-1589", "absent_words": ["combination", "motor", "trailers", "vehicles"], "total_title_words": 7}
+- {"id": "cn-gb-17675", "absent_words": ["basic", "requirements"], "total_title_words": 6}
+- {"id": "cn-gb-20072-2024", "absent_words": ["safety"], "total_title_words": 5}
+- {"id": "cn-gb-26149", "absent_words": ["methods", "performance", "requirements"], "total_title_words": 7}
+- {"id": "cn-gb-27887-2024", "absent_words": ["driven", "power"], "total_title_words": 6}
+- {"id": "cn-gb-27999", "absent_words": ["targets"], "total_title_words": 5}
+- {"id": "cn-gb-44496-2024", "absent_words": ["general"], "total_title_words": 6}
+- {"id": "cn-gb-44497", "absent_words": ["recording"], "total_title_words": 7}
+- {"id": "cn-gb-4785-2019", "absent_words": ["their", "trailers"], "total_title_words": 11}
+- {"id": "cn-gb-t-30677-2014", "absent_words": ["testing"], "total_title_words": 10}
+- {"id": "cn-gb-t-34590", "absent_words": ["guideline"], "total_title_words": 4}
+- {"id": "ece-r114", "absent_words": ["modules", "replacement", "steering", "wheels"], "total_title_words": 7}
+- {"id": "ece-r116", "absent_words": ["unauthorized"], "total_title_words": 6}
+- {"id": "ece-r148", "absent_words": ["headlamps"], "total_title_words": 6}
+- {"id": "ece-r158", "absent_words": ["technology"], "total_title_words": 4}
+- {"id": "ece-r162", "absent_words": ["immobilisers"], "total_title_words": 2}
+- {"id": "ece-r30", "absent_words": ["passenger"], "total_title_words": 8}
+- {"id": "ece-r37", "absent_words": ["sources"], "total_title_words": 4}
+- {"id": "eu-32006r1907", "absent_words": ["authorisation", "chemicals", "evaluation", "reach", "registration", "regulation", "restriction"], "total_title_words": 7}
+- {"id": "eu-32017r1151", "absent_words": ["approval", "commission", "emissions", "light", "regulation", "vehicle"], "total_title_words": 6}
+- {"id": "gcc-gso-1707-2005", "absent_words": ["methods", "strength"], "total_title_words": 8}
+- {"id": "gcc-gso-1708-2005", "absent_words": ["methods", "strength"], "total_title_words": 9}
+- {"id": "gcc-gso-290-1994", "absent_words": ["appliances", "instruments"], "total_title_words": 5}
+- {"id": "in-ais-038-rev-2-ais-156", "absent_words": ["categories", "reess"], "total_title_words": 7}
+- {"id": "kr-kmvss-art10", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art102-2", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art102-3", "absent_words": ["kmvss"], "total_title_words": 7}
+- {"id": "kr-kmvss-art102-4", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art102", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art103-2", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art103", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art104", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art105", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art107", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art108-2", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art109", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art11", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art110", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art111-2", "absent_words": ["kmvss"], "total_title_words": 8}
+- {"id": "kr-kmvss-art111-3", "absent_words": ["kmvss"], "total_title_words": 9}
+- {"id": "kr-kmvss-art111", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art112-11", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art112-14", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art112-2", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art112-4", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art112-7", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art12-2", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art12", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art13", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art14-2", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art14", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art15-2", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art15-3", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art15", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art17", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art18-2", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art18-3", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art18-4", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art18-5", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art18-6", "absent_words": ["kmvss"], "total_title_words": 9}
+- {"id": "kr-kmvss-art18", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art19", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art21", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art22", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art24", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art25", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art26", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art27-2", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art27", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art3", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art30", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art31", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art34", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art35", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art36", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art38", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art39", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art4", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art5", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art50", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art53-2", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art53-3", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art53-4", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art53", "absent_words": ["kmvss"], "total_title_words": 2}
+- {"id": "kr-kmvss-art54", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art56-2", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art56", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art6", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art7", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art8", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art87", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art89-2", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art9", "absent_words": ["kmvss"], "total_title_words": 5}
+- {"id": "kr-kmvss-art90-2", "absent_words": ["kmvss"], "total_title_words": 7}
+- {"id": "kr-kmvss-art90-3", "absent_words": ["kmvss"], "total_title_words": 8}
+- {"id": "kr-kmvss-art90", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art91-3", "absent_words": ["kmvss"], "total_title_words": 7}
+- {"id": "kr-kmvss-art91", "absent_words": ["kmvss"], "total_title_words": 8}
+- {"id": "kr-kmvss-art92", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art93", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "kr-kmvss-art94", "absent_words": ["kmvss"], "total_title_words": 4}
+- {"id": "kr-kmvss-art95", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art97", "absent_words": ["kmvss"], "total_title_words": 6}
+- {"id": "kr-kmvss-art99", "absent_words": ["kmvss"], "total_title_words": 3}
+- {"id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework", "absent_words": ["martoy", "motor", "surveillance", "their", "trailers"], "total_title_words": 9}
+- {"id": "tw-vehicle-safety-type-approval-dgst", "absent_words": ["management"], "total_title_words": 8}
+- {"id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821", "absent_words": ["frank", "instruments", "separate"], "total_title_words": 7}
+- {"id": "us-stub-us-epa-40-cfr-part-86-tier-3", "absent_words": ["motor"], "total_title_words": 4}
+
+## summary_stale: 0
+
+None.
+
+## duplicate_citations: 2
+
+- {"citation": "sor/2010-90", "ids": ["ca-mvsr-sor-2010-90", "ca-workbook-reg-0568-sor-2010-90"]}
+- {"citation": "srrv / trias", "ids": ["jp-srrv-accelerator-control", "jp-srrv-body-structure-and-load-path", "jp-srrv-bumper-and-low-speed-impact-external-projections", "jp-srrv-controls-tell-tales-indicators-and-driver-information", "jp-srrv-exhaust-emissions-and-obd", "jp-srrv-fuel-system-and-fire-prevention", "jp-srrv-speedometer-and-odometer", "jp-srrv-steering-equipment-and-steering-effort", "jp-srrv-tires-wheels-and-tpms", "jp-srrv-windshield-wiping-washing-defrosting-and-defogging"]}

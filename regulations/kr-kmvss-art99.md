@@ -15,7 +15,7 @@ open_tags:
 - rear impact protection
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Head restraints on front seats (excluding center seats) and any other equipped
   seats in vehicles covered under Article 26 must conform to detailed standards set

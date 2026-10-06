@@ -1,0 +1,17 @@
+127.0.0.1 - - [06/Oct/2026 12:51:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /assets/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /assets/vendor/minisearch.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /assets/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /assets/reference.js HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /data/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /data/taxonomy.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /data/markets.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /data/crosswalk.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /data/glossary.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] code 404, message File not found
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [06/Oct/2026 12:51:12] "GET /data/search-text.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:13] "GET /?id=us-fmvss-216 HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:13] "GET /data/records/us-fmvss-216.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:14] "GET /?id=eu-32017r1151 HTTP/1.1" 200 -
+127.0.0.1 - - [06/Oct/2026 12:51:14] "GET /data/records/eu-32017r1151.json HTTP/1.1" 200 -

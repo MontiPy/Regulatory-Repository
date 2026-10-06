@@ -18,7 +18,7 @@ open_tags:
 - low-speed alert
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Low-noise vehicles powered by electric motors — including hybrid, electric,
   and fuel cell vehicles — must be equipped with an acoustic vehicle alerting system

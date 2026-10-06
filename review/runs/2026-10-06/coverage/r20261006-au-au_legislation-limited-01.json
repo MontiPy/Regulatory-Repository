@@ -1,0 +1,434 @@
+{
+  "reviewed": [
+    "au-f2005l03873",
+    "au-f2005l03996",
+    "au-f2006l01786",
+    "au-f2006l02663",
+    "au-f2006l02664",
+    "au-f2006l02665",
+    "au-f2006l02745",
+    "au-f2009l03609",
+    "au-f2011l02016",
+    "au-f2012l00703",
+    "au-f2018l01519",
+    "au-f2018l01520",
+    "au-f2020l01254",
+    "au-f2022l00213",
+    "au-f2023l01317"
+  ],
+  "skipped": [
+    {
+      "id": "au-f2005l03873",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03873",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03873",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03873",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03873",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03996",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03996",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03996",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03996",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2005l03996",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l01786",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l01786",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l01786",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l01786",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l01786",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02663",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02663",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02663",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02663",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02663",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02664",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02664",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02664",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02664",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02664",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02665",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02665",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02665",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02665",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02665",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02745",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02745",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02745",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02745",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2006l02745",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2009l03609",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2009l03609",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2009l03609",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2009l03609",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2009l03609",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2011l02016",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2011l02016",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2011l02016",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2011l02016",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2011l02016",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2012l00703",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2012l00703",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2012l00703",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2012l00703",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2012l00703",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01519",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01519",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01519",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01519",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01519",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01520",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01520",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01520",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01520",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2018l01520",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2020l01254",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2020l01254",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2020l01254",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2020l01254",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2020l01254",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2022l00213",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2022l00213",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2022l00213",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2022l00213",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2022l00213",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2023l01317",
+      "field": "vehicle_categories",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2023l01317",
+      "field": "systems/commodities",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2023l01317",
+      "field": "technical requirements/summary details",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2023l01317",
+      "field": "supersession/status_note/effective_date",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2023l01317",
+      "field": "source_url",
+      "reason": "Body is Federal Register index/navigation with document links, not technical text. Instrument title and index In force notice match metadata, but scope/category mapping and current technical obligations cannot be verified; official document curls policy-blocked."
+    },
+    {
+      "id": "au-f2011l02016",
+      "field": "status_note",
+      "reason": "ADR79/05 cutover dates 2025-12-01 / 2028-07-01 not in linked index own body; require successor text/current official confirmation."
+    },
+    {
+      "id": "au-f2022l00213",
+      "field": "vehicle_categories",
+      "reason": "Trailer tag looks questionable for commercial motor-vehicle braking, but no scope clause in index; do not guess from other ADR revisions."
+    },
+    {
+      "id": "au-f2018l01520",
+      "field": "vehicle_categories/commodities",
+      "reason": "Broad all-class tags and Mirrors may be template leftovers; no category or exclusion clause in this record body. Hold pending actual ADR92/00 text."
+    },
+    {
+      "id": "au-f2023l01317",
+      "field": "status/effective_date",
+      "reason": "Index In force indicates instrument legally exists; no mandatory application date in body. Cannot infer effective_date or upcoming solely from general knowledge."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "au-f2005l03996",
+      "field": "summary",
+      "reason": "Current summary already stays close to instrument subject/legal authority or explicitly notes missing technical text."
+    },
+    {
+      "id": "au-f2006l02665",
+      "field": "summary",
+      "reason": "Current summary already stays close to instrument subject/legal authority or explicitly notes missing technical text."
+    },
+    {
+      "id": "au-f2018l01519",
+      "field": "summary",
+      "reason": "Current summary already stays close to instrument subject/legal authority or explicitly notes missing technical text."
+    }
+  ],
+  "notes": "All 15 index bodies read. No full technical regulation text exists in this shard despite official-source pages. Titles/citations and index status notices agree. Four summaries claiming unsupported specific mandates proposed downgraded to explicit reference entries; other technically unverified fields held. No unsupported UN equivalents present. Detailed applicability, supersession dates and test requirements explicitly not verified."
+}

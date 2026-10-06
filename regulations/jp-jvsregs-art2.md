@@ -31,6 +31,7 @@ summary_hash: 8a6c1a2ad0944c25193f68ee6aef16b5bfa7b51e
 systems:
 - Visibility
 - ADAS
+- Dimensions & weights
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 2 — Length, Width, and Height

@@ -22,7 +22,7 @@ open_tags:
 - enclosed space gas detection
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Motor vehicle fuel systems — including tanks, filler ports, and gas outlets
   — must be structured to prevent fuel leakage, meet minimum distance requirements

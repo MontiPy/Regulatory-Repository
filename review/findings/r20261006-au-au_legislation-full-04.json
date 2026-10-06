@@ -1,0 +1,145 @@
+[
+  {
+    "id": "au-f2019l00029",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus",
+      "Off-road"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus",
+      "Off-road",
+      "Motorcycle"
+    ],
+    "evidence": "Clause 3.1: \"This vehicle standard applies to category LEP, LEG, and all category M and N vehicles\". Clause 3.3 specifies requirements for LEP and LEG; the applicability table identifies these as L5 motor tricycles. The current filter omits these vehicles.",
+    "evidence_url": "regulations/au-f2019l00029.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2023l00129",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Heavy truck",
+      "Bus"
+    ],
+    "proposed": [
+      "Heavy truck",
+      "Bus",
+      "Passenger car"
+    ],
+    "evidence": "Clause 3.1: \"This vehicle standard applies to all MA, MB, MC and MD category vehicles with a gross vehicle mass greater than 3,500kg and all ME, NB, and NC category vehicles\". The applicability table identifies MA/MB/MC as M1 passenger vehicles; those over 3,500 kg are omitted from the current filter.",
+    "evidence_url": "regulations/au-f2023l00129.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2024l00443",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Bus"
+    ],
+    "evidence": "Clause 3.1 applies to \"MA, MB, MC, MD\" and \"NA\" vehicles with gross vehicle mass not exceeding 3,500 kg. The applicability table identifies MD1/MD2 as light omnibuses (UN M2), both applicable from 1 December 2025 for new models. Current tags omit buses.",
+    "evidence_url": "regulations/au-f2024l00443.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2024l00446",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Bus"
+    ],
+    "evidence": "Clause 3.1 applies to \"MA, MB, MC, MD\" and \"NA\" vehicles with gross vehicle mass not exceeding 3,500 kg. The applicability table identifies MD1/MD2 as light omnibuses (UN M2), both applicable from 1 December 2025 for new models. Current tags omit buses.",
+    "evidence_url": "regulations/au-f2024l00446.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2024l00447",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Bus"
+    ],
+    "evidence": "Clause 3.1 applies to \"MA, MB, MC, MD\" and \"NA\" vehicles with gross vehicle mass not exceeding 3,500 kg. The applicability table identifies MD1/MD2 as light omnibuses (UN M2), both applicable from 1 December 2025 for new models. Current tags omit buses.",
+    "evidence_url": "regulations/au-f2024l00447.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2025l01402",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus"
+    ],
+    "evidence": "Clause 3.1 includes MD light omnibuses; clause 3.2 includes \"NB1 category vehicles and MA, MB, MC, MD category vehicles with a gross vehicle mass exceeding 3,500kg\" if labelled. The table identifies MD1/MD2/MD3 as light omnibuses (M2) and NB1 as medium goods vehicles (N2, >3.5 to 4.5 tonnes). Current tags omit these categories.",
+    "evidence_url": "regulations/au-f2025l01402.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2026l00512",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Heavy truck"
+    ],
+    "evidence": "Clause 3.1: \"MA, MB, MC, and NB category vehicles with a gross vehicle mass exceeding 3,500kg but not exceeding 3,855kg supplied from 30 June 2027\". The applicability table marks NA/N1 light goods vehicles Not Applicable and NB1/N2 medium goods vehicles applicable subject to clauses 3.1-3.3. Therefore the truck scope is N2, not N1.",
+    "evidence_url": "regulations/au-f2026l00512.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2026l00512",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Australian Design Rule 114/00 prescribes how the carbon dioxide emissions of vehicles with a gross vehicle mass over 3,500 kg are determined. It applies to MA, MB, MC and NB category vehicles of 3,500-3,855 kg GVM supplied from 30 June 2027, excludes NB1 work vans and work trucks, and accepts testing to UN R101, UN R154, EU 2017/1151, EU 2025/1706 or US 40 CFR Part 600.",
+    "proposed": "ADR 114/00 prescribes carbon dioxide emissions measurement for MA, MB, MC and NB vehicles with gross vehicle mass above 3,500 kg and up to 3,855 kg, supplied from 30 June 2027. Vehicles complying with ADR 81/03 and NB1 work vans or work trucks are exempt. Testing to UN R101, UN R154, EU 2017/1151, EU 2025/1706 or US 40 CFR Part 600 is accepted as an alternative.",
+    "evidence": "Clause 3.2: \"Vehicles that comply with the Vehicle Standard (Australian Design Rule 81/03 – Energy Consumption Labelling for Light Vehicles) 2025 (ADR 81/03) need not comply with this vehicle standard.\" The current summary mentions the work-van/truck exemption but omits the separate ADR 81/03 exemption, overstating the required measurement coverage. Clause 3.1 fixes the mass range and supplied-from date.",
+    "evidence_url": "regulations/au-f2026l00512.md",
+    "confidence": 0.99
+  }
+]

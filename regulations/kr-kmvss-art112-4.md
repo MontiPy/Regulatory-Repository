@@ -15,7 +15,7 @@ open_tags:
 - headlamp compliance
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Headlamps for motor vehicles (excluding ultra-compact vehicles) must meet
   the luminous intensity standards specified in Attached Tables 6-3 through 6-5 and

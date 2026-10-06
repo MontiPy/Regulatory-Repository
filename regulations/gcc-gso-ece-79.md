@@ -33,6 +33,8 @@ tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: Steering Equipment
 translation_status: untranslated
+un_equivalent:
+- UN R79
 vehicle_categories:
 - Passenger car
 ---

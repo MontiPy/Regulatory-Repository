@@ -1,0 +1,382 @@
+{
+  "reviewed": [
+    "SA",
+    "AE",
+    "GCC-OTHER",
+    "IL",
+    "LEVANT",
+    "SANCTIONED",
+    "ZA",
+    "EG",
+    "MAGHREB",
+    "NG",
+    "EAST-AFRICA",
+    "AFRICA-OTHER"
+  ],
+  "skipped": [
+    {
+      "id": "SA",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "SA",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "SA",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "SA",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "SA",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "SA",
+      "field": "records:gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "SA",
+      "field": "records:gcc-saso-2847-saso-2864-2022",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "SA",
+      "field": "records:gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "SA",
+      "field": "records:gcc-saso-3004-2022",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "AE",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "AE",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "AE",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "AE",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "AE",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "AE",
+      "field": "records:gcc-ecas-moiat-conformity-certificates",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "AE",
+      "field": "records:gcc-uae-s-5019-2024",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "records:gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "GCC-OTHER",
+      "field": "records:gcc-gso-42-2015",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "IL",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "IL",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "IL",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "IL",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "IL",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "IL",
+      "field": "records:il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "LEVANT",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "LEVANT",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "LEVANT",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "LEVANT",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "LEVANT",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "SANCTIONED",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "SANCTIONED",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "SANCTIONED",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "SANCTIONED",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "SANCTIONED",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "ZA",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "ZA",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "ZA",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "ZA",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "ZA",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "ZA",
+      "field": "records:za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "ZA",
+      "field": "records:za-workbook-reg-0623-vc-8056",
+      "reason": "Referenced id exists and body heading/application topic matches the profile. Body is a summary/template rather than regulation text, so exact cited instrument numbers, legal scope, dates and administrative requirements cannot be independently verified from this record. Official source URL checked in shared curl audit but blocked by policy."
+    },
+    {
+      "id": "EG",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "EG",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "EG",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "EG",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "EG",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "MAGHREB",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "MAGHREB",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "MAGHREB",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "MAGHREB",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "MAGHREB",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "NG",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "NG",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "NG",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "NG",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "NG",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "EAST-AFRICA",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "EAST-AFRICA",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "EAST-AFRICA",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "EAST-AFRICA",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "EAST-AFRICA",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    },
+    {
+      "id": "AFRICA-OTHER",
+      "field": "basis; regime; accepts; marks; process",
+      "reason": "National adoption, certificate procedure, equivalence/recognition and market-access claims require official national instruments; linked bodies are summaries/templates or no record is supplied. Do not treat template Key Compliance Intent as law."
+    },
+    {
+      "id": "AFRICA-OTHER",
+      "field": "un_1958; un_1998",
+      "reason": "Current UN agreement membership, including country-group generalisations, requires current official treaty status evidence; official network fetch unavailable."
+    },
+    {
+      "id": "AFRICA-OTHER",
+      "field": "authorities",
+      "reason": "All listed authority URLs are included in the shared curl -sIL audit and are blocked by policy 403/curl 56, so authority identity/jurisdiction and link availability were not externally verified."
+    },
+    {
+      "id": "AFRICA-OTHER",
+      "field": "emissions",
+      "reason": "National limits, Euro-equivalence claims and phase-in dates are not verified by the available legal text; summary/template bodies do not establish national emission limits."
+    },
+    {
+      "id": "AFRICA-OTHER",
+      "field": "drive; language; notes; watch",
+      "reason": "National driving side, mandatory consumer language, sanctions, trade policy, recognition by neighbouring states and watch items lack fetched official evidence; preserved without inference."
+    }
+  ],
+  "already_fixed": [],
+  "notes": [
+    "Reviewed all 12 market profiles, every listed reference, authority URL, date, instrument name and treaty-membership assertion; all 10 distinct referenced record ids exist and their metadata/body topic was reread. Record existence and topic linkage were verified, legal national administration was not.",
+    "All 27 unique authority URLs and all referenced source URLs were checked in shared URL audit; no live official content was fetched during this review. A policy rejection is not evidence that an official link is dead.",
+    "E47 South Africa historical approval identifier is supported by ece-r30.md footnote 5, which assigns numbers to 1958 Agreement contracting parties; this 2008 publication does not establish current status or national acceptance policy.",
+    "SA/GCC-OTHER/AE emissions claims reference the GSO MY2027 framework, but its own body is only a template/index overview, with no emission limit clauses or dates. Saudi and UAE national certificates/CAFE/eCall record numbers similarly lack full legal text.",
+    "LEVANT sanctions changes (EO 14312, 1 Jul 2025 and EU May 2025), SANCTIONED sanctions scope, Kenya eight-year import rule and Ethiopia 2024 ICE restriction are explicitly unverified. No knowledge-based replacements proposed.",
+    "No content changes proposed: missing official evidence is reported as skipped rather than converted to unsupported corrections."
+  ]
+}

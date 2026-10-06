@@ -1,0 +1,51 @@
+[
+  {
+    "id": "defrost",
+    "field": "cells.JP",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "Safety Regs / TRIAS",
+      "records": [
+        "jp-srrv-windshield-wiping-washing-defrosting-and-defogging"
+      ]
+    },
+    "proposed": {
+      "cite": "Safety Regs Art. 45(2)",
+      "records": [
+        "jp-jvsregs-art45"
+      ]
+    },
+    "evidence": "② Motor vehicles required to be equipped with windshield wipers under the preceding paragraph (excluding large special vehicles, small special vehicles for agricultural work, and vehicles with a maximum speed of less than 20 km/h) shall also be equipped with a washer fluid spray device and a defroster that comply with the standards for field-of-vision performance prescribed by ministerial notice, so as to secure the field of vision directly in front of the windshield and not to impair safe operation when the outside of the windshield is contaminated or when significant fogging from moisture accumulates on the windshield. However, a defroster is not required for vehicles where the cab and the vehicle exterior cannot be separated by a partition such as a roof or windows.",
+    "evidence_url": "regulations/jp-jvsregs-art45.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "bumpers",
+    "field": "cells.US.cite",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "49 CFR 581 (passenger cars, 2.5 mph)",
+    "proposed": "49 CFR 581 (passenger cars: 1.5 mph corner pendulum; 2.5 mph longitudinal pendulum and barrier tests)",
+    "evidence": "(a) Each vehicle shall meet the damage criteria of §§ 581.5(c)(1) through 581.5(c)(9) when impacted by a pendulum-type test device in accordance with the procedures of § 581.7(b), under the conditions of § 581.6, at an impact speed of 1.5 m.p.h., and when impacted by a pendulum-type test device in accordance with the procedures of § 581.7(a) at 2.5 m.p.h., followed by an impact into a fixed collision barrier that is perpendicular to the line of travel of the vehicle, while traveling longitudinally forward, then longitudinally rearward, under the conditions of § 581.6, at 2.5 m.p.h.",
+    "evidence_url": "regulations/us-cfr-part-581.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "flammability",
+    "field": "cells.UN",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "UN R118 (buses only)",
+      "status": "none"
+    },
+    "proposed": {
+      "cite": "UN R118 (fire resistance of interior materials in buses)",
+      "note": "Bus-specific requirement; no general passenger-car flammability requirement is asserted by this mapping."
+    },
+    "evidence": "| 118 | Fire resistance of interior materials in buses | 02 series of amendments | [OJ L 102, 21.4.2015, p. 67](./../../../../legal-content/EN/AUTO/?uri=OJ:L:2015:102:TOC) | M3 |",
+    "evidence_url": "regulations/eu-32019r2144.md",
+    "confidence": 0.99
+  }
+]

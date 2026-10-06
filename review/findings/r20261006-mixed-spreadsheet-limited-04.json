@@ -1,0 +1,37 @@
+[
+  {
+    "id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+    "field": "_stub_body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": false,
+    "proposed": true,
+    "evidence": "Body heading \"Windshield Wiping, Washing, Defrosting and Defogging\" but Key Compliance Intent says \"Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.\" Primary components are \"Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.\" This is lamp template text, not wiping/washing/defrosting regulation text.",
+    "evidence_url": "regulations/jp-srrv-windshield-wiping-washing-defrosting-and-defogging.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Windshield wiping, washing, defrosting, and defogging systems for vehicles sold in Japan are regulated under SRRV/TRIAS to ensure adequate driver visibility.",
+    "proposed": "Reference record for Japanese windshield wiping, washing, defrosting and defogging requirements. This repository does not hold the applicable regulation text; exact articles, test procedures and vehicle scope must be checked in the official rules.",
+    "evidence": "Body heading \"Windshield Wiping, Washing, Defrosting and Defogging\" but Key Compliance Intent says \"Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.\" Primary components are \"Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.\" This is lamp template text, not wiping/washing/defrosting regulation text.",
+    "evidence_url": "regulations/jp-srrv-windshield-wiping-washing-defrosting-and-defogging.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R51"
+    ],
+    "proposed": [],
+    "evidence": "Body Related Regulations section lists \"UNECE R51; Japan Noise Regulation Law; Brazil noise; ADR 83/28\". No clause states adoption of UN R51 or acceptance of UN R51 approval as an equivalent/alternative; the record is nonofficial descriptive template prose.",
+    "evidence_url": "regulations/kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise.md",
+    "confidence": 0.96
+  }
+]

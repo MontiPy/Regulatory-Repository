@@ -1,0 +1,292 @@
+{
+  "reviewed": [
+    "head-restraints",
+    "isofix",
+    "child-restraints",
+    "child-presence",
+    "brakes",
+    "esc",
+    "brake-assist",
+    "aeb",
+    "lane-keeping",
+    "isa",
+    "driver-monitoring",
+    "automated-driving",
+    "rear-visibility",
+    "lighting-installation",
+    "headlamps",
+    "signal-lamps",
+    "indirect-vision",
+    "glazing"
+  ],
+  "skipped": [
+    {
+      "id": "head-restraints",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-1598-2002: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "isofix",
+      "field": "cells.JP",
+      "reason": "Skip detailed legal verification of jp-srrv-isofix-and-child-restraint-anchorages: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "isofix",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-14167-2024: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "isofix",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-14: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "child-restraints",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-27887-2024: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "child-restraints",
+      "field": "cells.AU",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "child-restraints",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-1709-2005: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "child-restraints",
+      "field": "dates,status",
+      "reason": "Skip external date/current rulemaking/repeal claims not established by available cited bodies; no search-snippet or knowledge substitution."
+    },
+    {
+      "id": "child-presence",
+      "field": "cells.US",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "child-presence",
+      "field": "cells.EU",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "child-presence",
+      "field": "dates,status",
+      "reason": "Skip external date/current rulemaking/repeal claims not established by available cited bodies; no search-snippet or knowledge substitution."
+    },
+    {
+      "id": "brakes",
+      "field": "cells.JP.cite",
+      "reason": "Skip: a UN body establishes its technical scope, not Japan’s current adoption or mandatory implementation. No current official Japanese adoption source fetched."
+    },
+    {
+      "id": "brakes",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-21670-2025: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "brakes",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-13h-2012: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "brakes",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-13h-1-2-3: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "esc",
+      "field": "cells.JP.cite",
+      "reason": "Skip: a UN body establishes its technical scope, not Japan’s current adoption or mandatory implementation. No current official Japanese adoption source fetched."
+    },
+    {
+      "id": "esc",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-t-30677-2014: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "esc",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-7258-2017: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "esc",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-13h-2012: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "brake-assist",
+      "field": "cells.JP",
+      "reason": "Skip detailed legal verification of jp-srrv-brake-assist-systems: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "brake-assist",
+      "field": "cells.JP.cite",
+      "reason": "Skip: a UN body establishes its technical scope, not Japan’s current adoption or mandatory implementation. No current official Japanese adoption source fetched."
+    },
+    {
+      "id": "aeb",
+      "field": "cells.CA",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "aeb",
+      "field": "cells.JP.cite",
+      "reason": "Skip: a UN body establishes its technical scope, not Japan’s current adoption or mandatory implementation. No current official Japanese adoption source fetched."
+    },
+    {
+      "id": "aeb",
+      "field": "cells.CN",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "aeb",
+      "field": "dates,status",
+      "reason": "Skip external date/current rulemaking/repeal claims not established by available cited bodies; no search-snippet or knowledge substitution."
+    },
+    {
+      "id": "aeb",
+      "field": "dates,status",
+      "reason": "Skip external date/current rulemaking/repeal claims not established by available cited bodies; no search-snippet or knowledge substitution."
+    },
+    {
+      "id": "lane-keeping",
+      "field": "cells.US",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "isa",
+      "field": "cells.IN",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "isa",
+      "field": "cells.US",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "driver-monitoring",
+      "field": "cells.US",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "automated-driving",
+      "field": "cells.US",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "automated-driving",
+      "field": "cells.JP",
+      "reason": "Skip detailed legal verification of jp-srrv-automated-lane-keeping-automated-driving-systems: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "automated-driving",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-44497: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "rear-visibility",
+      "field": "cells.BR",
+      "reason": "Skip detailed legal verification of br-contran-759: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "lighting-installation",
+      "field": "cells.JP",
+      "reason": "Skip: no repository legal record supports cited instrument, date, status or national implementation claim, and official external sources are blocked."
+    },
+    {
+      "id": "lighting-installation",
+      "field": "cells.JP.cite",
+      "reason": "Skip: a UN body establishes its technical scope, not Japan’s current adoption or mandatory implementation. No current official Japanese adoption source fetched."
+    },
+    {
+      "id": "lighting-installation",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-4785-2019: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "lighting-installation",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-48: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "headlamps",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-4599-2024: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "headlamps",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-1503-2002: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "signal-lamps",
+      "field": "cells.JP",
+      "reason": "Skip detailed legal verification of jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "signal-lamps",
+      "field": "cells.JP.cite",
+      "reason": "Skip: a UN body establishes its technical scope, not Japan’s current adoption or mandatory implementation. No current official Japanese adoption source fetched."
+    },
+    {
+      "id": "signal-lamps",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-5920-2024: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "signal-lamps",
+      "field": "cells.AU",
+      "reason": "Skip detailed legal verification of au-f2005l03873: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "signal-lamps",
+      "field": "dates,status",
+      "reason": "Skip external date/current rulemaking/repeal claims not established by available cited bodies; no search-snippet or knowledge substitution."
+    },
+    {
+      "id": "indirect-vision",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-15084-2022: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "indirect-vision",
+      "field": "cells.BR",
+      "reason": "Skip detailed legal verification of br-contran-966: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "indirect-vision",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-46: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "glazing",
+      "field": "cells.CN",
+      "reason": "Skip detailed legal verification of cn-gb-9656-2021: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "glazing",
+      "field": "cells.BR",
+      "reason": "Skip detailed legal verification of br-contran-960: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "glazing",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-ece-43-gso-3538: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    },
+    {
+      "id": "glazing",
+      "field": "cells.GCC",
+      "reason": "Skip detailed legal verification of gcc-gso-1677-2002: body is summary/template/link/index, not instrument text. Citation/topic metadata and record existence checked; template wording is not primary evidence."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "automated-driving",
+      "field": "cells.CN.cite",
+      "reason": "Already fixed: current citation explicitly says GB44497 DSSAD does not itself approve ADS; not a UN R157 equivalent."
+    }
+  ],
+  "notes": "Read all assigned topic cells and every referenced record; all ids exist. Citation/topic match checked against own full-body headers and available scope clauses. Paid/image-only/template bodies cannot verify detailed requirements. Country adoption, absence-of-regulation claims, current phase-in dates, GTR relationships, EU application via GSR and repeal/currency are limited to explicit available text; remote official verification unavailable. Crosswalk is topic mapping, not equivalence."
+}

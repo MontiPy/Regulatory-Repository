@@ -23,7 +23,7 @@
     - "Statutory plate (manufacturer's plate) and VIN per (EU) 2021/535"
     - "E-marked / e-marked components (lamps, glazing, tyres, mirrors, belts, CRS)"
     - "Tyre label (EU) 2020/740; CO2/fuel consumption car label (Dir. 1999/94/EC)"
-  emissions: "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and all new vehicles from 29 Nov 2027 (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review (Commission proposal COM(2025) 995 of 16 Dec 2025 would lower it to 90 %; still a proposal)."
+  emissions: "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and new M1/N1 vehicles from 29 Nov 2027 (small-volume M1/N1 manufacturers: 1 Jul 2030) (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review (Commission proposal COM(2025) 995 of 16 Dec 2025 would lower it to 90 %; still a proposal)."
   language: "Official language(s) of the member state of sale for owner info, labels, recall notices"
   process:
     - "Choose approving authority (any member state); appoint technical service; establish initial assessment of the QMS for Conformity of Production (CoP)."
@@ -31,13 +31,13 @@
     - "Emissions: Euro 6/7 type approval incl. RDE, evaporative, OBD, ISC; CO2 monitoring data and WLTP values on CoC."
     - "Issue CoC per vehicle; register via national registration using CoC."
     - "Cybersecurity CSMS certificate (UN R155) and software-update SUMS (UN R156) are prerequisites for vehicle type approval."
-    - "Post-market: notify the approval authority and Commission of serious risks (2018/858 Art. 52); RAPEX/Safety Gate recalls; market-surveillance checks."
+    - "Post-market: manufacturers immediately provide approval authorities and market surveillance authorities detailed information on serious risks and measures taken (2018/858 Art. 14(2)); RAPEX/Safety Gate recalls; market-surveillance checks."
   watch:
     - "Remaining GSR2 phase-in steps — e.g. advanced driver distraction warning (ADDW) for all new registrations from 7 Jul 2026, enlarged pedestrian head-impact zone and heavy-vehicle direct vision in the 2026/2029 steps. Confirm each item's dates in 2019/2144 Annex II."
     - "Euro 7 application dates (Nov 2026 / Nov 2027) and Euro 7 battery durability for EVs."
     - "EU Battery Regulation (EU) 2023/1542 — carbon footprint declaration, battery passport (Feb 2027), due diligence."
     - "Data Act (EU) 2023/2854 (connected-vehicle data access, applies from Sept 2025)."
-    - "End-of-Life Vehicles Regulation (replacing Dir. 2000/53/EC) — recycled-plastic content targets."
+    - "ELV Regulation (EU) 2026/1738 is in force from 13 August 2026 and generally applies from 1 September 2028. Directive 2000/53/EC is repealed from that application date with staged exceptions in Article 57; check each circularity/recycled-content milestone separately."
   notes:
     - "Small series (2018/858 Art. 41/42) and individual vehicle approval (IVA) routes exist with quantity limits."
     - "eCall (EU) 2015/758 mandatory for M1/N1; transition to NG-eCall (4G/5G) ongoing."
@@ -87,7 +87,7 @@
   drive: LHD
   regime: recognition
   basis: "EEA states apply EU type-approval law; Switzerland recognises EU WVTA/CoC through the EU–CH MRA and applies VTS/TGV ordinances"
-  un_1958: true
+  un_1958: null
   un_1998: null
   authorities:
     - { name: "Norway — Statens vegvesen (NPRA)", scope: "Type approval / registration", url: "https://www.vegvesen.no" }
@@ -97,7 +97,7 @@
   emissions: "EU Euro 6/7 and CO2 rules (Switzerland applies EU-equivalent CO2 rules nationally)"
   language: "Norwegian; Icelandic; German; Swiss national languages (DE/FR/IT)"
   process: ["Register using EU CoC; check national add-ons (e.g. Swiss CO2 sanction scheme, Norwegian registration tax data)."]
-  notes: ["un_1958 true reflects Norway (E16) and Switzerland (E14); Iceland and Liechtenstein have no E-number recorded here."]
+  notes: ["UN Treaty Collection checked 6 October 2026: Norway and Switzerland are 1958 parties; only Norway is a 1998 party. Null denotes mixed membership in this group, not a group-wide commitment."]
   records: []
   confidence: medium
 
@@ -130,7 +130,7 @@
   regime: type-approval
   basis: "National type approval aligned with UN Regulations and progressively with EU 2018/858 (EU accession track)"
   un_1958: true
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Ministry of Infrastructure / designated technical services, scope: "Vehicle type approval (E46)", url: "https://mtu.gov.ua" }
   accepts: ["EU WVTA and UN R approvals are recognised in the national procedure"]
@@ -151,7 +151,7 @@
   drive: LHD
   regime: recognition
   basis: "UN Regulations (1958 Agreement CPs) with national homologation; progressive transposition of EU type-approval acts by EU candidates"
-  un_1958: true
+  un_1958: null
   un_1998: null
   authorities:
     - { name: "Serbia — Road Traffic Safety Agency (ABS)", scope: "Vehicle homologation; technical services authorised by the transport ministry", url: "https://www.abs.gov.rs" }
@@ -160,7 +160,7 @@
   emissions: "Euro 6 (most), Euro 5 references in some"
   language: National languages
   process: ["Homologation per vehicle type based on EU CoC / UN approvals."]
-  notes: ["Kosovo is not a UN member; it applies its own homologation based on EU documentation. un_1958 true is a group-level value; E-numbers and per-country processes for Moldova, Georgia and Kosovo are not recorded here."]
+  notes: ["UN Treaty Collection checked 6 October 2026: all named states except Kosovo are listed under the 1958 Agreement; Albania, Azerbaijan and Moldova are listed under the 1998 Agreement. Both group flags are null because membership is mixed. National approval procedures require separate verification."]
   records: []
   confidence: low
 
@@ -174,7 +174,7 @@
   regime: type-approval
   basis: "Technical Regulation of the Customs Union TR CU 018/2011 'On safety of wheeled vehicles' (largely UN R-based) + EAEU emergency-call (ERA-GLONASS / national equivalents)"
   un_1958: true
-  un_1998: true
+  un_1998: null
   authorities:
     - { name: "Russia — Rosstandart & accredited certification bodies", scope: "OTTS vehicle type approval under TR CU 018", url: "https://www.rst.gov.ru" }
     - { name: "Kazakhstan — Ministry of Trade and Integration / accredited bodies", scope: "OTTS issuance for KZ", url: "https://www.gov.kz" }
@@ -191,7 +191,7 @@
     - "EPTS created per vehicle; emergency call system certified (ERA-GLONASS in Russia)."
   notes:
     - "SANCTIONS: EU/US/UK/Japanese export controls and sanctions restrict vehicle and component exports to Russia and Belarus — consult trade compliance before any work."
-    - "Kyrgyzstan is reported as a 1958 Agreement CP (accession reported 21 Aug 2023 — verify at UNECE)."
+    - "UN Treaty Collection checked 6 October 2026: all five states are 1958 parties. Kyrgyzstan acceded on 1 September 2023 (1958) and 26 June 2026 (1998). Armenia is not listed under the 1998 Agreement, so that group flag is null."
   records: [eaeu-workbook-reg-0613-tr-cu-018-2011, eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements]
   confidence: medium
 
@@ -214,7 +214,7 @@
   language: National languages / Russian
   process: ["National certificate of conformity per vehicle type; check import rules."]
   notes:
-    - "Uzbekistan acceded to the 1958 Agreement (reported 20 Oct 2025, also the 1998 Agreement) and Mongolia's accession is reported for 29 Apr 2026; Tajikistan and Turkmenistan status not confirmed — verify all at UNECE."
+    - "UN Treaty Collection checked 6 October 2026: Uzbekistan (20 October 2025) and Mongolia (29 April 2026) acceded to the 1958 Agreement; Uzbekistan and Tajikistan are 1998 parties. Turkmenistan is not listed under either; mixed membership is represented by null."
     - "Mongolia drives on the right but permits RHD (Japanese-used) imports."
   records: []
   confidence: low

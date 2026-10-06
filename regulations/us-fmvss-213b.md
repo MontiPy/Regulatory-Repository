@@ -42,6 +42,7 @@ title: § 571.213b Standard No. 213b; Child restraint systems; Mandatory applica
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 ---
 

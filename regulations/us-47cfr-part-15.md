@@ -35,6 +35,7 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 73061180678a578fcff88a0e2af8f598f5146a1f
 systems:
 - EMC
+- Radio & telecom
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: PART 15—RADIO FREQUENCY DEVICES

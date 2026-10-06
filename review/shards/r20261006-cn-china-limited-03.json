@@ -1,0 +1,25 @@
+{
+  "shard": "r20261006-cn-china-limited-03",
+  "kind": "records",
+  "items": [
+    "cn-gb-44495-2024",
+    "cn-gb-44496-2024",
+    "cn-gb-44497",
+    "cn-gb-4599-2024",
+    "cn-gb-4785-2019",
+    "cn-gb-5920-2024",
+    "cn-gb-7258-2017",
+    "cn-gb-8410",
+    "cn-gb-9656-2021",
+    "cn-gb-9743-2024",
+    "cn-gb-t-18411-2018",
+    "cn-gb-t-20913-2007",
+    "cn-gb-t-30512-2014",
+    "cn-gb-t-30677-2014",
+    "cn-gb-t-34590"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "limited",
+  "source_api": "china"
+}

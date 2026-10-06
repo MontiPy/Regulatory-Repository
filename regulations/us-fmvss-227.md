@@ -23,9 +23,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.227
 status: in-force
-summary: Bus rollover structural integrity for over-the-road buses and heavy non-over-the-road
-  buses (GVWR over 26,000 lbs), excluding school buses, transit buses, and prison
-  buses, is regulated by this standard.
+summary: FMVSS No. 227 sets rollover structural integrity requirements for over-the-road
+  buses and other buses above 26,000 lb GVWR. School buses, school bus derivative
+  buses, transit buses, prison buses and buses with seven or fewer forward-facing
+  or tool-free convertible-to-forward-facing passenger seating positions behind the
+  driver are excluded.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 260c9274b0e3e15254cb184b36e4036f92f30457
 systems:

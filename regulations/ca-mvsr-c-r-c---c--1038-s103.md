@@ -23,10 +23,10 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Windshield defrosting and defogging systems on vehicles sold in Canada are
-  regulated, requiring that every vehicle (including three-wheeled vehicles equipped
-  with a windshield) be fitted with such a system meeting SAE Recommended Practice
-  J902 performance standards.
+summary: Requires windshield defrosting and defogging systems, with three-wheeled
+  vehicles covered when fitted with a windshield. Passenger cars and three-wheeled
+  vehicles must meet SAE J902 performance requirements and applicable J902 or J902a
+  test procedures, with the modifications specified in this section.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: a45bc8ffa1ccb8de89413d66733b4cd90a118cd1
 systems:

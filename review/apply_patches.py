@@ -14,8 +14,12 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import sys
+import tempfile
+from datetime import date
 from pathlib import Path
+from urllib.parse import urlparse
 
 import yaml
 
@@ -48,7 +52,13 @@ def validate(field: str, value) -> str | None:
     if field == "status":
         return None if value in TAX["statuses"] else f"status '{value}' not allowed"
     if field == "effective_date":
-        return None if isinstance(value, str) and DATE_RE.match(value) else "bad date"
+        if not isinstance(value, str) or not DATE_RE.fullmatch(value):
+            return "bad date"
+        try:
+            date.fromisoformat(value)
+        except ValueError:
+            return "invalid calendar date"
+        return None
     if field in ("_stub_body", "_confirmed"):
         return None if value is True else "must be true"
     if field in STRING_FIELDS:
@@ -56,11 +66,70 @@ def validate(field: str, value) -> str | None:
             return "empty string"
         if value.rstrip().endswith("...") or value.rstrip().endswith("…"):
             return "truncated text"
-        if field == "source_url" and not re.match(r"^https?://[^\s]+$", value):
-            return "bad URL"
+        if field == "source_url":
+            parsed = urlparse(value)
+            if not re.fullmatch(r"https?://[^\s]+", value) or not parsed.hostname or parsed.username:
+                return "bad URL"
         if field == "summary" and len(value) > 700:
             return "summary too long"
     return None
+
+
+def prepare_knowledge(edits: list[dict]) -> tuple[dict[Path, str], list[str]]:
+    """Validate exact, unique replacements against the whole knowledge schema.
+
+    No YAML is written until the candidate corpus validates. Exact replacements
+    retain comments and formatting and make stale proposals fail closed.
+    """
+    allowed = {"crosswalk.yaml", "glossary.yaml"} | {
+        f"markets/{p.name}" for p in (ROOT / "knowledge/markets").glob("*.yaml")
+    }
+    candidates: dict[Path, str] = {}
+    errors: list[str] = []
+    for edit in edits:
+        if not isinstance(edit, dict) or set(edit) - {"file", "old", "new", "_why"}:
+            errors.append("knowledge: invalid edit schema")
+            continue
+        name, old, new = (edit.get(k) for k in ("file", "old", "new"))
+        if name not in allowed or not all(isinstance(v, str) and v for v in (old, new, edit.get("_why"))):
+            errors.append(f"knowledge {name}: invalid path, replacement or evidence reason")
+            continue
+        path = ROOT / "knowledge" / name
+        raw = candidates.get(path, path.read_text(encoding="utf-8"))
+        if raw.count(old) != 1:
+            errors.append(f"knowledge {name}: expected exactly one occurrence of old text")
+            continue
+        if new.rstrip().endswith(("...", "…")):
+            errors.append(f"knowledge {name}: truncated text")
+            continue
+        candidates[path] = raw.replace(old, new, 1)
+    if errors:
+        return {}, errors
+    if not candidates:
+        return {}, []
+    from scripts import knowledge
+    attrs = ("KNOWLEDGE_DIR", "MARKETS_DIR", "CROSSWALK_PATH", "GLOSSARY_PATH")
+    originals = {key: getattr(knowledge, key) for key in attrs}
+    with tempfile.TemporaryDirectory(prefix="regulatory-knowledge-") as temp:
+        staged = Path(temp) / "knowledge"
+        shutil.copytree(ROOT / "knowledge", staged)
+        for path, raw in candidates.items():
+            (staged / path.relative_to(ROOT / "knowledge")).write_text(raw, encoding="utf-8")
+        knowledge.KNOWLEDGE_DIR = staged
+        knowledge.MARKETS_DIR = staged / "markets"
+        knowledge.CROSSWALK_PATH = staged / "crosswalk.yaml"
+        knowledge.GLOSSARY_PATH = staged / "glossary.yaml"
+        try:
+            _, schema_errors = knowledge.build_knowledge(
+                {p.stem for p in (ROOT / "regulations").glob("*.md")}, set(TAX["regions"])
+            )
+            errors.extend(f"knowledge: {e}" for e in schema_errors)
+        except (yaml.YAMLError, TypeError, KeyError, ValueError, AttributeError) as exc:
+            errors.append(f"knowledge: {exc}")
+        finally:
+            for key, value in originals.items():
+                setattr(knowledge, key, value)
+    return ({}, errors) if errors else (candidates, [])
 
 
 def main() -> int:
@@ -72,10 +141,13 @@ def main() -> int:
     args = ap.parse_args()
     fixes: dict[str, dict] = {}
     rejected: list[str] = []
+    conflicts: set[tuple[str, str]] = set()
+    knowledge_edits: list[dict] = []
     for path in sorted((ROOT / "review" / args.dir).glob("*.json")):
         if path.name.endswith(".input.json"):
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
+        knowledge_edits.extend(data.get("knowledge_patches") or [])
         for rid, patch in (data.get("patches") or {}).items():
             if rid in args.skip:
                 rejected.append(f"{rid}: vetoed by orchestrator")
@@ -91,18 +163,33 @@ def main() -> int:
                 if err:
                     rejected.append(f"{rid}.{field}: {err}")
                 else:
-                    clean[field] = value
+                    if (rid, field) in conflicts:
+                        rejected.append(f"{rid}.{field}: conflicting proposals")
+                    elif field in fixes.get(rid, {}) and fixes[rid][field] != value:
+                        rejected.append(f"{rid}.{field}: conflicting proposals")
+                        fixes[rid].pop(field)
+                        conflicts.add((rid, field))
+                    else:
+                        clean[field] = value
             if clean.get("_stub_body") and "summary" not in clean:
                 rejected.append(f"{rid}._stub_body: needs a corrected summary — skipped")
                 clean.pop("_stub_body")
             if clean:
                 fixes.setdefault(rid, {}).update(clean)
-    print(f"{len(fixes)} records, {sum(len(v) for v in fixes.values())} fields valid; {len(rejected)} rejected")
+    knowledge_candidates, knowledge_errors = prepare_knowledge(knowledge_edits)
+    rejected.extend(knowledge_errors)
+    print(f"{len(fixes)} records, {sum(len(v) for v in fixes.values())} fields valid; {len(knowledge_candidates)} knowledge files valid; {len(rejected)} rejected")
     for r in rejected:
         print("  REJECTED", r)
     if args.dry_run:
         return 0
     lines = apply(fixes, args.label)
+    for path, raw in knowledge_candidates.items():
+        path.write_text(raw, encoding="utf-8")
+    if knowledge_candidates:
+        lines += ["", "Knowledge edits (exact text; full schema and record references validated):"]
+        for edit in knowledge_edits:
+            lines.append(f"- `{edit['file']}`: {edit['_why']}")
     if rejected:
         lines += ["", "Rejected by validator / orchestrator:", *[f"- {r}" for r in rejected]]
     with (ROOT / "review" / "CHANGES.md").open("a", encoding="utf-8") as fh:

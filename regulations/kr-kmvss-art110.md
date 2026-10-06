@@ -15,11 +15,13 @@ open_tags:
 - driver information system
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Speedometers installed in motor vehicles must display speed within the driver's
-  direct field of view, readable day and night, with a range covering the vehicle's
-  maximum speed and scale graduations in specified intervals.
+summary: Speedometers must be clearly readable in the driver’s direct field of view
+  by day and night, cover the vehicle’s maximum speed, and use the specified scale
+  graduations. At actual speeds of at least 25 km/h on flat roads, indicated speed
+  must not be below actual speed and may exceed it by no more than one tenth of actual
+  speed plus 6 km/h.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 46050c7d81aa4906f7f69949d8886d962bf55d59
 systems:

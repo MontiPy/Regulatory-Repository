@@ -23,7 +23,7 @@ open_tags:
 - EV insulation standards
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: The high-voltage electrical system of motor vehicles must meet the insulation
   safety standards specified in Attached Table 5 of the regulation.

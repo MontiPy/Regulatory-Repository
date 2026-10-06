@@ -1,0 +1,152 @@
+{
+  "reviewed": [
+    "Type approval",
+    "Self-certification",
+    "Recognition regime",
+    "Registration / import-inspection regime",
+    "1958 Agreement",
+    "1998 Agreement",
+    "UN Regulation (UN R)",
+    "E-mark / e-mark",
+    "IWVTA",
+    "WVTA",
+    "Conformity of Production (CoP)",
+    "Certificate of Conformity (CoC)",
+    "Technical service",
+    "In-service conformity (ISC)",
+    "Market surveillance",
+    "CSMS",
+    "SUMS / RXSWIN",
+    "FMVSS",
+    "CMVSS",
+    "Part 567 certification label",
+    "Part 573 / Part 577 (defect & noncompliance)",
+    "EWR / TREAD Act",
+    "Monroney label"
+  ],
+  "skipped": [
+    {
+      "id": "Type approval",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Self-certification",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Recognition regime",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Registration / import-inspection regime",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "1958 Agreement",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "1998 Agreement",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "UN Regulation (UN R)",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "E-mark / e-mark",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "IWVTA",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "WVTA",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Conformity of Production (CoP)",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Certificate of Conformity (CoC)",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Technical service",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "In-service conformity (ISC)",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Market surveillance",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "CSMS",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "SUMS / RXSWIN",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "FMVSS",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "CMVSS",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Part 567 certification label",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Part 573 / Part 577 (defect & noncompliance)",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "EWR / TREAD Act",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    },
+    {
+      "id": "Monroney label",
+      "field": "official_source_verification",
+      "reason": "Skip current country adoption/recognition, membership, examples and unlinked instrument claims: official network fetch unavailable; repository glossary is not independent regulatory evidence."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "Market surveillance",
+      "field": "definition",
+      "reason": "Current definition already distinguishes Member State penalties (Article 84) from Commission administrative fines (Article 85); matching 2018/858 body supports distinction."
+    }
+  ],
+  "notes": "Opened every referenced repository record; all references exist and match broad subject. ece-1958-framework and IATF/ISO linked records contain descriptive summary bodies, not independent evidence. UN R0, 2018/858, R155, R156, 49 CFR 567/573/577/579 and 40 CFR 600 bodies read for relevant definitions. Did not establish current country memberships, mutual-recognition coverage or unlinked examples. No missing record links."
+}

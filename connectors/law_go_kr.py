@@ -22,6 +22,33 @@ PUBLIC_BASE = "https://law.go.kr"
 BODY_URL = f"{PUBLIC_BASE}/LSW/lsInfoR.do"
 _law_html_cache: dict[str, str] = {}
 
+# law.go.kr's lsiSeq identifies ONE historical version of a law. Manifests keep the original
+# lsiSeq as a stable key, but fetches resolve the version currently in force through the
+# law-name URL, which always embeds the current lsiSeq/efYd.
+LAW_NAMES = {"270023": "자동차및자동차부품의성능과기준에관한규칙"}
+_current_cache: dict[str, dict[str, str]] = {}
+
+
+def _law_name_url(law_id: str) -> str | None:
+    name = LAW_NAMES.get(law_id)
+    return f"{PUBLIC_BASE}/법령/{name}" if name else None
+
+
+def resolve_current_version(session: RateLimitedSession, law_id: str) -> dict[str, str]:
+    """Return {"lsiSeq", "efYd", "chrClsCd"} for the version currently in force (falls back to law_id)."""
+    if law_id in _current_cache:
+        return _current_cache[law_id]
+    found: dict[str, str] = {"lsiSeq": law_id}
+    url = _law_name_url(law_id)
+    if url:
+        html = session.get(url).text
+        for key in ("lsiSeq", "efYd", "chrClsCd"):
+            m = re.search(rf"{key}=(\d+)", html)
+            if m:
+                found[key] = m.group(1)
+    _current_cache[law_id] = found
+    return found
+
 
 def _kr_slug(law_id: str, article: str) -> str:
     return f"kr-kmvss-art{article}"
@@ -32,7 +59,8 @@ def _citation(law_id: str, article: str) -> str:
 
 
 def _source_url(law_id: str, article: str) -> str:
-    return f"https://law.go.kr/LSW/lsInfoP.do?lsiSeq={law_id}#AJAX"
+    # Stable URL that always shows the current version.
+    return _law_name_url(law_id) or f"https://law.go.kr/LSW/lsInfoP.do?lsiSeq={law_id}#AJAX"
 
 
 def _article_label_pattern(article: str) -> re.Pattern[str]:
@@ -54,7 +82,7 @@ def _parse_article_text(text: str, article: str) -> tuple[str, str] | None:
     list a superseded version first, so the last occurrence is the current one.
     """
     # Supplementary provisions (부칙) restart article numbering; only search the main body.
-    addenda = re.search(r"부\s*칙\s*<", text)
+    addenda = re.search(r"부\s*칙\s*(?:<|&lt;)", text)
     if addenda:
         text = text[: addenda.start()]
     pattern = re.compile(_article_label_pattern(article).pattern + r"\s*\(([^)]{1,60})\)")
@@ -114,11 +142,12 @@ def _parse_article(full_html: str, article: str) -> tuple[str, str]:
 
 
 def _discover_params(session: RateLimitedSession, law_id: str) -> dict[str, str]:
-    url = f"{PUBLIC_BASE}/LSW/lsInfoP.do?lsiSeq={law_id}"
+    current = resolve_current_version(session, law_id)
+    url = f"{PUBLIC_BASE}/LSW/lsInfoP.do?lsiSeq={current['lsiSeq']}"
     resp = session.get(url)
     html = resp.text
     params: dict[str, str] = {
-        "lsiSeq": law_id,
+        "lsiSeq": current["lsiSeq"],
         "efYn": "Y",
         "nwJoYnInfo": "Y",
         "ancYnChk": "0",
@@ -130,6 +159,9 @@ def _discover_params(session: RateLimitedSession, law_id: str) -> dict[str, str]
     m = re.search(r"chrClsCd['\"]?\s*[=:,]\s*['\"]?(\d+)", html)
     if m:
         params["chrClsCd"] = m.group(1)
+    for key in ("efYd", "chrClsCd"):  # the law-name page is authoritative for the current version
+        if key in current:
+            params[key] = current[key]
     return params
 
 

@@ -37,6 +37,7 @@ un_equivalent:
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 - Bus
 - Motorcycle
 ---

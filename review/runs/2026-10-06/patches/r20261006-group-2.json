@@ -1,0 +1,245 @@
+{
+  "group": "r20261006-group-2",
+  "patches": {
+    "au-f2006l01279": {
+      "summary": "ADR 28/01 limits external vehicle noise for LE, M and N vehicles; vehicles complying with ADR 83/00 need not comply. UN R51/01 or 51/02 is accepted subject to ADR stationary-noise requirements; for goods vehicles and omnibuses it is equivalent only for moving-vehicle tests, with separate stationary-test evidence required.",
+      "_why_summary": "F012: regulations/au-f2006l01279.md — Applicability clause 2 and exemption 2.2; clauses 28.3.1–28.3.2 make R51 conditional on stationary noise and restrict goods-vehicle/omnibus equivalence to moving tests."
+    },
+    "au-f2006l01450": {
+      "summary": "ADR 58/00 specifies construction requirements for M2 and M3 omnibuses designed for, and intended for licensing for, hire and reward. For small omnibuses carrying up to 15 persons including the driver, UN R52 (01 series) is an alternative; UN R107 (02–05 series) additionally requires compliance with ADR clauses 58.23 and 58.24.",
+      "_why_summary": "F013: regulations/au-f2006l01450.md — Function and scope and M2/M3 applicability table; alternatives 4.1–4.2 limit small omnibuses to 15 persons including driver, with R107 also requiring 58.23 and 58.24."
+    },
+    "au-f2006l02300": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F014: regulations/au-f2006l02300.md — | Motor tricycle | LE | L5 | | | | | all vehicles | LEP | | 1 July 1992 | Nil | | | Light goods vehicle | NA | N1 | Not Applicable | |"
+    },
+    "au-f2006l01362": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F116: regulations/au-f2006l01362.md — Clause 3.1: \"applies to the design and construction of LEP, LEG, MA, MB, MC and NA category vehicles\". Clause 3.5: \"LEP & LEG category vehicles must comply with M1 and N1 category vehicle requirements respectively.\" Table labels LE as Motor tricycle/L5; L-category vehicle search currently omits them."
+    },
+    "au-f2006l01392": {
+      "summary": "ADR 18/03 specifies requirements for speedometers in LC, LD, LE and all M and N vehicles from 1 July 2006 for new models and 1 July 2007 for all models. UN Regulation 39 in its 00, 01 or 02 series is accepted as an alternative.",
+      "_why_summary": "F117: regulations/au-f2006l01392.md — Function specifies speedometers; applicability clauses 2.1–2.2 give 1 July 2006 new-model and 1 July 2007 all-model dates; alternatives accept R39 series 00/01/02."
+    },
+    "au-f2006l01410": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Motorcycle",
+        "Bus"
+      ],
+      "_why_vehicle_categories": "F118: regulations/au-f2006l01410.md — Applicability Table C.3 lists \"Enclosed vehicles | LEP & LEG | ... | 1 March 1991\" and \"All vehicles | LEP & LEG | ... | 1 July 1992\" under Motor tricycle/L5; also \"Light omnibus | MD | M2\" and MD1 \"up to 3.5 tonnes GVM and up to 12 seats | ... | 1 July 1988\". Bus and L-category applicability are absent from the current filters."
+    },
+    "au-f2006l01429": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F119: regulations/au-f2006l01429.md — Applicability table lists Motor tricycle LE/L5 with LEP \"1 July 1992 | Nil\" while LEM and LEG are N/A, alongside MA/MB/MC and NA1. This is limited LEP tricycle applicability; the Motorcycle taxonomy bucket is the repository's L-category bucket."
+    },
+    "au-f2006l01785": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Motorcycle",
+        "Bus"
+      ],
+      "_why_vehicle_categories": "F120: regulations/au-f2006l01785.md — Applicability Table 3.2 lists Motor tricycle LE/L5, \"LEP & LEG All vehicles ... 1 July 1992\"; Medium goods vehicle NB/N2, NB1 \"over 3.5 tonnes up to 4.5 tonnes GVM ... 1 July 1988\". Both L-category and N2 vehicles are missing from the current search tags.",
+      "summary": "ADR 11/00 sets injury-reduction and energy-absorption requirements for internal sun visors and attached mirrors. It applies to M1 passenger vehicles, LEP/LEG motor tricycles, light omnibuses up to 4.5 tonnes GVM, light goods vehicles and NB1 medium goods vehicles up to 4.5 tonnes, from the dates in its applicability table.",
+      "_why_summary": "F121: regulations/au-f2006l01785.md — Applicability table 3.2 includes MA/MB/MC, LEP/LEG all vehicles, MD1–MD3 and NA/NB1, but excludes MD4; clauses 11.2–11.3 cover visor, attached mirror and energy absorption."
+    },
+    "au-f2006l02299": {
+      "summary": "ADR 63/00 specifies additional requirements for trailers used in road trains with a gross combination mass not exceeding 125 tonnes. It applies to the trailer categories and manufacturing dates in its applicability table and covers electrical and mechanical requirements. Pig trailers other than converter dollies must not be approved to this rule.",
+      "_why_summary": "F122: regulations/au-f2006l02299.md — Function and scope sets road-train gross combination mass not exceeding 125 tonnes; applicability table and electrical/mechanical requirements apply; pig trailers other than converter dollies must not be approved."
+    },
+    "au-f2006l02305": {
+      "summary": "ADR 77/00 prescribes photometric requirements for motor vehicle headlamps equipped with gas discharge light sources. Fitment is governed by ADRs 13, 19 and 67. Required headlamps must comply with Appendix A as varied by the exemptions and supplementary requirements, or the alternative technical requirements of UN Regulation No. 98.",
+      "_why_summary": "F123: regulations/au-f2006l02305.md — Function and scope specifies photometric gas-discharge headlamp requirements; applicability refers fitment to ADRs 13/19/67; requirements, exemptions and alternative technical requirements expressly identify UN R98."
+    },
+    "au-f2006l02308": {
+      "summary": "ADR 74/00 prescribes photometric requirements for side marker lamps to increase visibility of the sides of road vehicles. Fitment is governed by ADRs 13, 19 and 67. Compliance may use the modified Appendix A or the rule’s alternative side-marker requirements; UN Regulation No. 91, 00 series, is also deemed equivalent.",
+      "_why_summary": "F124: regulations/au-f2006l02308.md — Function and scope and applicability specify side-marker photometry and ADRs 13/19/67 fitment; requirements/alternatives and clause 6 accept modified Appendix A or alternative provisions and UN R91/00."
+    },
+    "au-f2006l02312": {
+      "summary": "ADR 66/00 regulates seat, seat-anchorage and seatbelt-anchorage strength and occupant protection from seat accessories in specified M2 and M3 omnibuses. It excludes route service omnibuses, omnibuses with fewer than 17 seats including driver and crew, and vehicles whose passenger seats all have a reference height below 1.0 m. Omnibuses complying with ADR 68 need not comply. It incorporates ECE Regulation 80 requirements with modifications.",
+      "_why_summary": "F125: regulations/au-f2006l02312.md — Function and scope; B.1–B.2 and table C apply to MD3/MD4 (M2) and ME (M3) subject to route-service, fewer-than-17-seat and reference-height exclusions; B.3 exempts ADR68-compliant omnibuses; 66.2.1–66.2.2 incorporate modified ECE R80. Scope wording modified as explicitly authorized by root after re-checking the table."
+    },
+    "au-f2008l02387": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F126: regulations/au-f2008l02387.md — Clause 3.4 applicability table: Motor tricycle LEP and LEG: 1 January 2010. Clause 6.4: \"For LEP and LEG vehicles fitted with handle-bar type steering control the point of displacement shall be taken to be the upper end of the ‘Steering Yoke’\". These L5 tricycles are omitted by the current filter."
+    },
+    "au-f2009l03609": {
+      "summary": "Reference entry for ADR 84/00 — Front Underrun Impact Protection. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+      "_why_summary": "F127: regulations/au-f2009l03609.md — Stored body identifies ADR84/00 on a Federal Register index page; no operative technical or vehicle-applicability clauses are reproduced."
+    },
+    "au-f2017l01214": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F128: regulations/au-f2017l01214.md — Clause 3.1: \"This vehicle standard applies to category LEP, MA, MB, MC and NA vehicles\". Clause 3.4 requires LEP vehicles with a single foot pedal controlling both front and rear service brakes to comply. Applicability table identifies NA as Light goods vehicle (N1) and LEP as a motor tricycle (L5).",
+      "summary": "ADR 31/04 prescribes braking requirements for MA, MB, MC and NA vehicles and certain LEP motor tricycles. It is mandatory for new models from 1 July 2019; other models may continue to comply with ADR 31/03. UN Regulation No. 13-H (01 series) is deemed equivalent.",
+      "_why_summary": "F129: regulations/au-f2017l01214.md — Applicability clauses cover MA/MB/MC/NA and specified LEP motor tricycles; new-model mandatory date is 1 July 2019, with ADR31/03 continuation for other models; alternative standards accepts UN R13-H/01."
+    },
+    "au-f2017l01221": {
+      "summary": "ADR 89/00 requires Brake Assist Systems on MA, MB, MC and NA vehicles to maximise emergency braking performance. It is mandatory for new models from 1 July 2019; other models may continue to comply with ADR 31/03 or ADR 35/05 as applicable. UN Regulation No. 139 (00 series) is deemed equivalent for vehicles equipped with BAS.",
+      "_why_summary": "F130: regulations/au-f2017l01221.md — Function and scope and applicability clauses cover BAS for MA/MB/MC/NA; new models from 1 July 2019, other models continuing ADR31/03 or ADR35/05; alternative standards accepts R139/00 for BAS-equipped vehicles."
+    },
+    "au-f2017l01229": {
+      "summary": "ADR 88/00 requires Electronic Stability Control on MA, MB, MC and NA vehicles to reduce crashes involving loss of directional control. It is mandatory for new models from 1 July 2019; other models may continue under ADR 31/03 or ADR 35/05 as applicable. UN Regulation No. 140 (00 series) and GTR No. 8 are alternative standards, subject to the stated exemptions.",
+      "_why_summary": "F131: regulations/au-f2017l01229.md — Function and scope and applicability clauses cover ESC for MA/MB/MC/NA; new models from 1 July 2019, other models continuing ADR31/03 or ADR35/05; alternative standards lists R140/00 and GTR8 with exemptions."
+    },
+    "au-f2017l01344": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus",
+        "Off-road",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F132: regulations/au-f2017l01344.md — Clause 3.1: \"This vehicle standard applies to category LEP, LEG, and all category M and N vehicles\". Clause 3.3: \"Category LEP & LEG vehicles must comply with the requirements of this standard applicable to category M1 and N1 vehicles respectively.\" Applicability table identifies LEP and LEG as motor tricycles."
+    },
+    "au-f2017l01351": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Bus",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F133: regulations/au-f2017l01351.md — Clause 3.1: \"This vehicle standard applies to category LEP, MA, MB, MC, MD1, MD3, MD4 and ME vehicles\". Applicability table identifies LEP as a motor tricycle (L5), applicable for new models from 1 November 2019."
+    },
+    "au-f2018l00692": {
+      "summary": "ADR 38/05 specifies normal and emergency braking requirements for trailers with Gross Trailer Mass exceeding 750 kg, excluding trailers designed for towing vehicles with maximum speed below 50 km/h. It applies to new models from 1 July 2019 and all applicable trailers from 1 November 2019. Compliance may be demonstrated by road tests or calculations using approved component data.",
+      "_why_summary": "F134: regulations/au-f2018l00692.md — Function/scope and applicability set GTM over 750 kg, exclude low-speed towing under 50 km/h, and specify 1 July 2019 new models/1 November 2019 all trailers; clause 2 permits road tests or approved-component-data calculations."
+    },
+    "au-f2018l01513": {
+      "summary": "ADR 94/00 requires audible warning devices on category L, M and N vehicles. It is mandatory for new models from 1 July 2019; other models may continue to comply with ADR 42/04. UN Regulation No. 28 (00 series) is deemed equivalent for categories LC, LD, LE, M and N.",
+      "_why_summary": "F135: regulations/au-f2018l01513.md — Applicability covers L/M/N, new models from 1 July 2019 and ADR42/04 continuation for others; alternative standards makes R28/00 equivalent only for LC/LD/LE/M/N."
+    },
+    "au-f2018l01515": {
+      "summary": "ADR 90/00 specifies steering safety under normal operating and failure conditions for category LB, LD, LE, M and N vehicles. It is mandatory for new models from 1 July 2019; other models may continue to comply with ADR 42/04. UN Regulation No. 79 (01 to 02 series) is deemed equivalent for category M and N vehicles.",
+      "_why_summary": "F136: regulations/au-f2018l01515.md — Function/scope and applicability cover normal/failure steering safety for LB/LD/LE/M/N, new models from 1 July 2019 and ADR42/04 continuation for others; alternative standards makes R79 series01–02 equivalent for M/N."
+    },
+    "au-f2018l01516": {
+      "summary": "ADR 95/00 specifies pneumatic tyre installation requirements for all vehicle categories, excluding temporary-use spare units. It is mandatory for new models from 1 July 2019; other models may continue to comply with ADR 42/04. For MA, MB and MC vehicles, UN Regulation No. 142 is an alternative standard.",
+      "_why_summary": "F137: regulations/au-f2018l01516.md — Function/scope excludes temporary-use spare units; applicability covers all categories with 1 July 2019 new-model date and ADR42/04 continuation for others; alternative standards accepts R142 for MA/MB/MC."
+    },
+    "au-f2018l01520": {
+      "summary": "Reference entry for ADR 92/00 — External Projections. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+      "_why_summary": "F138: regulations/au-f2018l01520.md — Stored body identifies ADR92/00 on a Federal Register index page; no operative technical or vehicle-applicability clauses are reproduced."
+    },
+    "au-f2019l00029": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus",
+        "Off-road",
+        "Motorcycle"
+      ],
+      "_why_vehicle_categories": "F139: regulations/au-f2019l00029.md — Clause 3.1: \"This vehicle standard applies to category LEP, LEG, and all category M and N vehicles\". Clause 3.3 specifies requirements for LEP and LEG; the applicability table identifies these as L5 motor tricycles. The current filter omits these vehicles."
+    },
+    "au-f2022l00213": {
+      "summary": "Reference entry for ADR 35/07 — Commercial Vehicle Brake Systems. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+      "_why_summary": "F140: regulations/au-f2022l00213.md — Stored body identifies ADR35/07 on a Federal Register index page; no operative technical or vehicle-applicability clauses are reproduced."
+    },
+    "au-f2023l00129": {
+      "vehicle_categories": [
+        "Heavy truck",
+        "Bus",
+        "Passenger car"
+      ],
+      "_why_vehicle_categories": "F141: regulations/au-f2023l00129.md — Clause 3.1: \"This vehicle standard applies to all MA, MB, MC and MD category vehicles with a gross vehicle mass greater than 3,500kg and all ME, NB, and NC category vehicles\". The applicability table identifies MA/MB/MC as M1 passenger vehicles; those over 3,500 kg are omitted from the current filter."
+    },
+    "au-f2023l01317": {
+      "summary": "Reference entry for ADR 106/00 — Side Underrun Protection. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+      "_why_summary": "F142: regulations/au-f2023l01317.md — Stored body identifies ADR106/00 on a Federal Register index page; no operative technical or vehicle-applicability clauses are reproduced."
+    },
+    "au-f2024l00443": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Bus"
+      ],
+      "_why_vehicle_categories": "F143: regulations/au-f2024l00443.md — Clause 3.1 applies to \"MA, MB, MC, MD\" and \"NA\" vehicles with gross vehicle mass not exceeding 3,500 kg. The applicability table identifies MD1/MD2 as light omnibuses (UN M2), both applicable from 1 December 2025 for new models. Current tags omit buses."
+    },
+    "au-f2024l00446": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Bus"
+      ],
+      "_why_vehicle_categories": "F144: regulations/au-f2024l00446.md — Clause 3.1 applies to \"MA, MB, MC, MD\" and \"NA\" vehicles with gross vehicle mass not exceeding 3,500 kg. The applicability table identifies MD1/MD2 as light omnibuses (UN M2), both applicable from 1 December 2025 for new models. Current tags omit buses."
+    },
+    "au-f2024l00447": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Bus"
+      ],
+      "_why_vehicle_categories": "F145: regulations/au-f2024l00447.md — Clause 3.1 applies to \"MA, MB, MC, MD\" and \"NA\" vehicles with gross vehicle mass not exceeding 3,500 kg. The applicability table identifies MD1/MD2 as light omnibuses (UN M2), both applicable from 1 December 2025 for new models. Current tags omit buses."
+    },
+    "au-f2025l01402": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus"
+      ],
+      "_why_vehicle_categories": "F146: regulations/au-f2025l01402.md — Clause 3.1 includes MD light omnibuses; clause 3.2 includes \"NB1 category vehicles and MA, MB, MC, MD category vehicles with a gross vehicle mass exceeding 3,500kg\" if labelled. The table identifies MD1/MD2/MD3 as light omnibuses (M2) and NB1 as medium goods vehicles (N2, >3.5 to 4.5 tonnes). Current tags omit these categories."
+    },
+    "au-f2026l00512": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Heavy truck"
+      ],
+      "_why_vehicle_categories": "F147: regulations/au-f2026l00512.md — Clause 3.1: \"MA, MB, MC, and NB category vehicles with a gross vehicle mass exceeding 3,500kg but not exceeding 3,855kg supplied from 30 June 2027\". The applicability table marks NA/N1 light goods vehicles Not Applicable and NB1/N2 medium goods vehicles applicable subject to clauses 3.1-3.3. Therefore the truck scope is N2, not N1.",
+      "summary": "ADR 114/00 prescribes carbon dioxide emissions measurement for MA, MB, MC and NB vehicles with gross vehicle mass above 3,500 kg and up to 3,855 kg, supplied from 30 June 2027. Vehicles complying with ADR 81/03 and NB1 work vans or work trucks are exempt. Testing to UN R101, UN R154, EU 2017/1151, EU 2025/1706 or US 40 CFR Part 600 is accepted as an alternative.",
+      "_why_summary": "F148: regulations/au-f2026l00512.md — Applicability 3.1 sets MA/MB/MC/NB, GVM over3500 through3855kg, supplied from30June2027; 3.2 exempts ADR81/03 compliance and 3.3 exempts NB1 work vans/trucks; alternatives7.1–7.5 list R101/R154/EU2017/1151/EU2025/1706/40CFR600."
+    },
+    "au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019": {
+      "summary": "Overview entry for Road Vehicle Standards Act 2018 / Road Vehicle Standards Rules 2019: Road Vehicle Standards - Supply, Type Approval and Compliance Framework. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+      "_why_summary": "F149: regulations/au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019.md — Stored summary heading identifies the advertised supply/type-approval/compliance framework; the body does not provide regulation text, so no legal or technical mandates are asserted."
+    },
+    "au-workbook-reg-0371-register-of-approved-vehicles-rav": {
+      "summary": "Overview entry for Register of Approved Vehicles (RAV): Register of Approved Vehicles Entry Requirements. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+      "_why_summary": "F150: regulations/au-workbook-reg-0371-register-of-approved-vehicles-rav.md — Stored summary heading identifies RAV entry requirements; the body does not provide regulation text, so no legal or technical mandates are asserted."
+    },
+    "au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma": {
+      "summary": "Overview entry for Radiocommunications Equipment (General) Rules 2021 / ACMA: Australia RF Equipment Compliance for In-vehicle Radio Devices. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+      "_why_summary": "F151: regulations/au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma.md — Stored summary heading identifies in-vehicle RF equipment compliance; the body does not provide regulation text, so no legal or technical mandates are asserted."
+    },
+    "br-contran-949": {
+      "summary": "CONTRAN 949/2022 sets side-barrier and pole-impact protection for specified cars, vans, pickups and utility vehicles. Barrier scope depends on seat R-point height; pole scope has mass or pickup-geometry conditions and listed exemptions. Barrier requirements phase in in 2020/2024 and pole requirements in 2026/2030. Applicable UN or North American test results are alternatives; pole tests expressly accept UN R135 or FMVSS 214.",
+      "_why_summary": "F170: regulations/br-contran-949.md — Articles2§1 and3§1 qualify barrier/pole vehicle scope; Article4 lists exemptions; Article5 phases barrier requirements2020/2024 and pole requirements2026/2030; Articles2§2/3§2 accept alternatives, with pole tests naming UN-R135 and FMVSS214."
+    },
+    "br-contran-954": {
+      "summary": "Requires ESC for new M1/N1 vehicles, allowing VSF for N1 and M1 above 1,735 kg running-order mass. Directional and roll VSF applies to M2/M3/N2 and specified N3 configurations; roll VSF applies to O3/O4 with one to three axles. Exclusively urban M3 fitment is optional except school vehicles. Vehicle exemptions and phased dates apply; applicable UN R13-H/R13/R140 or FMVSS 126 test results demonstrate performance.",
+      "_why_summary": "F171: regulations/br-contran-954.md — Article3§§1–6 requires ESC/VSF with running-order-mass threshold, N3/O3/O4 configuration limits and urban-M3/school distinction; Articles6–7 provide exemptions/dates; Article4 names ECE R13-H/R13/R140 or FMVSS126 as applicable."
+    },
+    "br-contran-970": {
+      "summary": "CONTRAN 970/2022 sets technical specifications for vehicle lighting and signalling, including special lamps. It covers cars, trucks, buses, trailers and semi-trailers, plus motorcycles, mopeds, tricycles and quadricycles under separate annexes. UN/UNECE or FMVSS test results may demonstrate applicable performance requirements. Entered into force 1 July 2022.",
+      "_why_summary": "F175: regulations/br-contran-970.md — Article1 covers lighting/signalling and special lamps; Articles3–4 list ordinary vehicles and motorcycles/mopeds/tricycles/quadricycles under separate annexes; Article14 accepts applicable UNECE/FMVSS results; Article21 sets1July2022 commencement."
+    },
+    "br-mover-rota-2030": {
+      "summary": "Government news article about Decree 12.435/2025 regulating the MOVER program. It reports technical and environmental parameters for vehicle makers and importers, including energy efficiency and recyclability, with commercialization requirements from June 2025. This record holds the announcement, rather than the decree text; consult the linked Official Gazette decree for legal requirements.",
+      "_why_summary": "F177: regulations/br-mover-rota-2030.md — Body is a Latest News article titled President Lula signs decree that regulates Green Mobility and Innovation Program; its main paragraph reports Decree12.435, efficiency/recyclability and commercialization from June2025, with an Official Gazette decree link."
+    }
+  },
+  "skipped": []
+}

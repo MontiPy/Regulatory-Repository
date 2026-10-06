@@ -36,6 +36,7 @@ title: § 571.139 Standard No. 139; New pneumatic radial tires for light vehicle
 vehicle_categories:
 - Passenger car
 - Light truck
+- Bus
 ---
 
 ## § 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.

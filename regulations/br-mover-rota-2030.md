@@ -26,11 +26,11 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/planalto/en/latest-news/2025/04/president-lula-signs-decree-that-regulates-green-mobility-and-innovation-program
 status: in-force
-summary: Decree 12.435 of 15 April 2025, published in the Official Gazette on 16 April
-  2025, regulates Brazil's Green Mobility and Innovation Program (MOVER), the successor
-  to Rota 2030. It sets technical and environmental parameters for energy efficiency,
-  recyclability and security that vehicle makers and importers must meet to commercialize
-  vehicles in Brazil from June 2025.
+summary: Government news article about Decree 12.435/2025 regulating the MOVER program.
+  It reports technical and environmental parameters for vehicle makers and importers,
+  including energy efficiency and recyclability, with commercialization requirements
+  from June 2025. This record holds the announcement, rather than the decree text;
+  consult the linked Official Gazette decree for legal requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: b122a6e449a60f08e020bcf12cbd5812d26dee3d
 systems:

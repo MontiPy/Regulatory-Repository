@@ -1,0 +1,81 @@
+[
+  {
+    "url": "https://publications.europa.eu/resource/celex/42015X0421(01)",
+    "ids": [
+      "crosswalk:flammability"
+    ],
+    "name": "un118-official",
+    "retrieved_at": "2026-10-06T12:26:17.459898+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)",
+      "Accept": "application/xhtml+xml",
+      "Accept-Language": "en"
+    },
+    "status": 404,
+    "final_url": "https://publications.europa.eu/resource/celex/42015X0421(01)",
+    "redirects": [],
+    "content_type": "",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 58,
+    "truncated": false,
+    "sha256": "0edd9d6fdad6f62fa8a0e6bb8bf724d3873af60a53217db50d41d709d7357ca3",
+    "page_title": "",
+    "availability": "http_error",
+    "text_preview": "Resource [system 'celex' - id '42015X0421(01)'] not found.",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/un118-official.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/un118-official.raw.gz"
+  },
+  {
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022R.pdf",
+    "ids": [
+      "br-contran-924"
+    ],
+    "name": "br-contran924-correction",
+    "retrieved_at": "2026-10-06T12:26:17.459369+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022R.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 60049,
+    "truncated": false,
+    "sha256": "73ecc1e47c88b8c2c86403d2fbb497d139aa66e1a31eda674e948ee6e78d8cd3",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-correction.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-correction.raw.gz"
+  },
+  {
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11068.htm",
+    "ids": [
+      "us-fmvss-216"
+    ],
+    "name": "fmvss216-removal-final",
+    "retrieved_at": "2026-10-06T12:26:17.458970+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "status": 200,
+    "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11068.htm",
+    "redirects": [],
+    "content_type": "text/html",
+    "last_modified": "Wed, 03 Jun 2026 11:38:10 GMT",
+    "etag": null,
+    "bytes_retained": 24847,
+    "truncated": false,
+    "sha256": "750f0d88bc471cdce9e5593b1507752ed56a3803e364429d44fdb3a713ed139e",
+    "page_title": "Federal Register, Volume 91 Issue 106 (Wednesday, June 3, 2026)",
+    "availability": "response_retrieved",
+    "text_preview": "Federal Register, Volume 91 Issue 106 (Wednesday, June 3, 2026) [Federal Register Volume 91, Number 106 (Wednesday, June 3, 2026)] [Rules and Regulations] [Pages 33078-33081] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-11068] ======================================================================= ----------------------------------------------------------------------- DEPARTMENT OF TRANSPORTATION National Highway Traffic Safety Admini",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/fmvss216-removal-final.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/fmvss216-removal-final.raw.gz"
+  }
+]

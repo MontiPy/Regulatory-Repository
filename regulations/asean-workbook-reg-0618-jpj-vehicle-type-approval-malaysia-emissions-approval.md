@@ -21,8 +21,10 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://www.jpj.gov.my/en/vta-guidelines/
 status: in-force
-summary: Vehicles imported or manufactured for sale in Malaysia must obtain JPJ Vehicle
-  Type Approval and relevant environmental/emissions approvals before market entry.
+summary: 'Overview entry for JPJ Vehicle Type Approval / Malaysia emissions approval:
+  Malaysia vehicle type approval and environmental approval framework. The body is
+  a summary, not regulation text; detailed requirements, approval pathways and vehicle
+  scope require verification against current official instruments.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: bbe6daf7c701f1e551d62c71192a5707e52ec65d
 systems:

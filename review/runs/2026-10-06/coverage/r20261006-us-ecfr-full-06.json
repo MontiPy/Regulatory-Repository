@@ -1,0 +1,121 @@
+{
+  "reviewed": [
+    "us-fmvss-127",
+    "us-fmvss-129",
+    "us-fmvss-131",
+    "us-fmvss-135",
+    "us-fmvss-136",
+    "us-fmvss-138",
+    "us-fmvss-139",
+    "us-fmvss-141",
+    "us-fmvss-201",
+    "us-fmvss-202",
+    "us-fmvss-202a",
+    "us-fmvss-203",
+    "us-fmvss-204",
+    "us-fmvss-205",
+    "us-fmvss-206",
+    "us-fmvss-207",
+    "us-fmvss-208"
+  ],
+  "skipped": [
+    {
+      "id": "us-fmvss-127",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-129",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-131",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-135",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-136",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-138",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-139",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-141",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-201",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-202",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-202a",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-203",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-204",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-205",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-206",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-207",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-208",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit blocked official eCFR URL. Current repeal/amendment currency and source availability not independently verified; retained record legal status unless own body clearly establishes a historic limited applicability."
+    },
+    {
+      "id": "us-fmvss-141",
+      "field": "commodities",
+      "reason": "Skip: Electric motors describes propulsion-based scope rather than the sound-emitting device; taxonomy lacks a loudspeaker/AVAS commodity. Do not relabel the alert sound as a horn or empty tags."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "us-fmvss-202",
+      "field": "status,status_note",
+      "reason": "Already fixed: legacy head-restraint standard marked superseded with 2009/2010 phase-in limitation and successor 202a."
+    }
+  ],
+  "notes": "Read all 17 current metadata and own scope/purpose/application clauses, plus relevant requirements supporting summaries. Field category tags checked using national application wording; no status change based on future mandatory dates. Long crash test appendices not reviewed line by line. No UN-equivalent proposals. Limits/exemptions in numeric summaries checked for material qualifications."
+}

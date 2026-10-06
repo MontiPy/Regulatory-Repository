@@ -1,0 +1,31 @@
+{
+  "shard": "r20261006-glossary-01",
+  "kind": "glossary",
+  "items": [
+    "Type approval",
+    "Self-certification",
+    "Recognition regime",
+    "Registration / import-inspection regime",
+    "1958 Agreement",
+    "1998 Agreement",
+    "UN Regulation (UN R)",
+    "E-mark / e-mark",
+    "IWVTA",
+    "WVTA",
+    "Conformity of Production (CoP)",
+    "Certificate of Conformity (CoC)",
+    "Technical service",
+    "In-service conformity (ISC)",
+    "Market surveillance",
+    "CSMS",
+    "SUMS / RXSWIN",
+    "FMVSS",
+    "CMVSS",
+    "Part 567 certification label",
+    "Part 573 / Part 577 (defect & noncompliance)",
+    "EWR / TREAD Act",
+    "Monroney label"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92"
+}

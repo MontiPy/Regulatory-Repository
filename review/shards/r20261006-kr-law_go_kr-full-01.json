@@ -1,0 +1,30 @@
+{
+  "shard": "r20261006-kr-law_go_kr-full-01",
+  "kind": "records",
+  "items": [
+    "kr-kmvss-art10",
+    "kr-kmvss-art102-2",
+    "kr-kmvss-art102-3",
+    "kr-kmvss-art102-4",
+    "kr-kmvss-art102",
+    "kr-kmvss-art103-2",
+    "kr-kmvss-art103",
+    "kr-kmvss-art104",
+    "kr-kmvss-art105",
+    "kr-kmvss-art107",
+    "kr-kmvss-art108-2",
+    "kr-kmvss-art109",
+    "kr-kmvss-art11",
+    "kr-kmvss-art110",
+    "kr-kmvss-art111-2",
+    "kr-kmvss-art111-3",
+    "kr-kmvss-art111",
+    "kr-kmvss-art112-11",
+    "kr-kmvss-art112-14",
+    "kr-kmvss-art112-2"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "full",
+  "source_api": "law_go_kr"
+}

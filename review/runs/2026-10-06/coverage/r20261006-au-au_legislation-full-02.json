@@ -1,0 +1,282 @@
+{
+  "reviewed": [
+    "au-f2006l02294",
+    "au-f2006l02296",
+    "au-f2006l02297",
+    "au-f2006l02298",
+    "au-f2006l02299",
+    "au-f2006l02300",
+    "au-f2006l02301",
+    "au-f2006l02302",
+    "au-f2006l02303",
+    "au-f2006l02304",
+    "au-f2006l02305",
+    "au-f2006l02306",
+    "au-f2006l02307",
+    "au-f2006l02308",
+    "au-f2006l02310",
+    "au-f2006l02312",
+    "au-f2006l02729",
+    "au-f2006l02732",
+    "au-f2006l03254",
+    "au-f2007l02226"
+  ],
+  "skipped": [
+    {
+      "id": "au-f2006l02294",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02294",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02296",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02296",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02297",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02297",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02298",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02298",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02299",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02299",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02300",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02300",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02301",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02301",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02302",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02302",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02303",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02303",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02304",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02304",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02305",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02305",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02306",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02306",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02307",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02307",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02308",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02308",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02310",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02310",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02312",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02312",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02729",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02729",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l02732",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l02732",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2006l03254",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2006l03254",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "au-f2007l02226",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "au-f2007l02226",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "au-f2006l02294",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02296",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02298",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02301",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02302",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02303",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02307",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l02310",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2006l03254",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    },
+    {
+      "id": "au-f2007l02226",
+      "field": "summary",
+      "reason": "Current summary already describes own scope and technical appendix/alternative standards; checked against body."
+    }
+  ],
+  "notes": [
+    "All 20 main ADR names, scopes, applicability, requirements and alternative-standards clauses read. Embedded UN appendices were searched for particular summary/equivalence claims. No new UN equivalent proposed. Missing effective dates remain missing: many dates are category application or UN amendment dates rather than instrument commencement; date convention is ambiguous.",
+    "Needs a human: ADR 60/00 Table of Instruments names ADR 1/00 – Reversing lamp for F2006L02300. Main body/title correctly identify centre high mounted stop lamps. No body rewrite/stub proposed. Several AU headings contain duplicated words/numbers (e.g. ADR 66/00 and 62/02)."
+  ]
+}

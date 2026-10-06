@@ -1,0 +1,30 @@
+{
+  "shard": "r20261006-au-au_legislation-full-01",
+  "kind": "records",
+  "items": [
+    "au-f2005l03523",
+    "au-f2005l03907",
+    "au-f2005l03908",
+    "au-f2005l03990",
+    "au-f2005l03991",
+    "au-f2005l04012",
+    "au-f2006l01279",
+    "au-f2006l01280",
+    "au-f2006l01362",
+    "au-f2006l01392",
+    "au-f2006l01410",
+    "au-f2006l01429",
+    "au-f2006l01430",
+    "au-f2006l01431",
+    "au-f2006l01433",
+    "au-f2006l01440",
+    "au-f2006l01442",
+    "au-f2006l01450",
+    "au-f2006l01455",
+    "au-f2006l01785"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "full",
+  "source_api": "au_legislation"
+}

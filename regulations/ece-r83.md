@@ -38,10 +38,11 @@ systems:
 - Fuel safety
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 83 — Emissions from M1 and N1 Category Vehicles (Euro 5/6)
+title: UN Regulation No. 83 — Emissions from M1 and N1 Category Vehicles
 vehicle_categories:
 - Passenger car
 - Light truck
+- Heavy truck
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42026X1086, 2026-05-29). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

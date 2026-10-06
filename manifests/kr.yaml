@@ -1,10 +1,10 @@
 region: KR
 connector: law_go_kr
 description: Korean Motor Vehicle Safety Standards (KMVSS) — 자동차 및 자동차부품의 성능과 기준에 관한 규칙
-source: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023
+source: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 
 records:
-  # KMVSS: 자동차 및 자동차부품의 성능과 기준에 관한 규칙 (lsiSeq=270023)
+  # KMVSS: 자동차 및 자동차부품의 성능과 기준에 관한 규칙 (manifest key lsiSeq=270023; fetches resolve the current version by law name)
   # Sub-article numbers use hyphen notation (e.g., 12의2 → "12-2")
 
   # ── General / Structure ──────────────────────────────────────────────────────

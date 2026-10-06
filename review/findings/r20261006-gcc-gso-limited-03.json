@@ -1,0 +1,108 @@
+[
+  {
+    "id": "gcc-gso-ece-43-gso-3538",
+    "field": "_stub_body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": false,
+    "proposed": true,
+    "evidence": "Body heading is \"Safety Glazing and Optical Test Methods\" but operative-looking template says \"Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.\". This describes a different system/topic rather than the identified instrument. No regulation text is present.",
+    "evidence_url": "regulations/gcc-gso-ece-43-gso-3538.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-ece-43-gso-3538",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "GSO-ECE 43 / GSO 3538 adopt UN R43 on safety glazing materials and their installation: windscreens and windows, impact, optical and light-transmission tests.",
+    "proposed": "Summary record for GSO-ECE 43 / GSO 3538 concerning safety glazing and optical test methods. The official technical requirements and GCC applicability must be checked in the standard; regulation text is not available in this record.",
+    "evidence": "Body title \"Safety Glazing and Optical Test Methods\" identifies the advertised topic, but its template compliance text describes a different topic and supplies no clauses of this instrument.",
+    "evidence_url": "regulations/gcc-gso-ece-43-gso-3538.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "gcc-gso-ece-46",
+    "field": "_stub_body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": false,
+    "proposed": true,
+    "evidence": "Body heading is \"Devices for Indirect Vision\" but operative-looking template says \"Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.\". This describes a different system/topic rather than the identified instrument. No regulation text is present.",
+    "evidence_url": "regulations/gcc-gso-ece-46.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-ece-46",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "GSO-ECE 46 adopts UN R46 on devices for indirect vision (mirrors and camera-monitor systems): fields of view, installation and performance.",
+    "proposed": "Summary record for GSO-ECE 46 concerning devices for indirect vision. The official technical requirements and GCC applicability must be checked in the standard; regulation text is not available in this record.",
+    "evidence": "Body title \"Devices for Indirect Vision\" identifies the advertised topic, but its template compliance text describes a different topic and supplies no clauses of this instrument.",
+    "evidence_url": "regulations/gcc-gso-ece-46.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "gcc-gso-ece-51",
+    "field": "_stub_body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": false,
+    "proposed": true,
+    "evidence": "Body heading is \"External Noise Emissions\" but operative-looking template says \"Limit environmental impact and ensure vehicles meet certified emissions, fuel economy, CO2 and OBD requirements in production and use.\". This describes a different system/topic rather than the identified instrument. No regulation text is present.",
+    "evidence_url": "regulations/gcc-gso-ece-51.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-ece-51",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "GSO-ECE 51 regulates external (pass-by) noise emissions from motor vehicles in the GCC region. It requires vehicles to meet certified noise limits, with compliance scope under review for final applicability determination.",
+    "proposed": "Summary record for GSO-ECE 51 concerning external noise emissions. The official technical requirements and GCC applicability must be checked in the standard; regulation text is not available in this record.",
+    "evidence": "Body title \"External Noise Emissions\" identifies the advertised topic, but its template compliance text describes a different topic and supplies no clauses of this instrument.",
+    "evidence_url": "regulations/gcc-gso-ece-51.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "gcc-gso-ece-83-gso-ece-154",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R83",
+      "UN R154"
+    ],
+    "proposed": [],
+    "evidence": "Record contains only descriptive summary/template prose. Related Regulations section: \"Possible functional overlap: GCC / GSO GSO MY2027 emission limit implementation - GCC Member State Euro-level Emission Limits\". It never states this instrument adopts, deems equivalent or accepts the listed UN Regulations as alternatives. A related-instrument list and a citation with similar numbers do not establish legal equivalence.",
+    "evidence_url": "regulations/gcc-gso-ece-83-gso-ece-154.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "gcc-gso-my2027-emission-limit-implementation",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R83"
+    ],
+    "proposed": [],
+    "evidence": "Record contains only descriptive summary/template prose. Related Regulations section: \"US EPA 40 CFR Part 86/Tier 3; EU Reg. 715/2007 and UNECE R83; GB 18352.6; ADR 79/111/112; CONAMA 492/IBAMA IN 3; GSO 1680-series and national Euro limits; Japan Article 31; KMVSS Art. 36.\". It never states this instrument adopts, deems equivalent or accepts the listed UN Regulations as alternatives. A related-instrument list and a citation with similar numbers do not establish legal equivalence.",
+    "evidence_url": "regulations/gcc-gso-my2027-emission-limit-implementation.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "gcc-mc-250905-2025",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R100"
+    ],
+    "proposed": [],
+    "evidence": "Record contains only descriptive summary/template prose. Related Regulations section: \"FMVSS/CMVSS 305/305a; UNECE R100; GB 18384/38031; KMVSS Arts. 18-2/18-3/91-3/112-14; ADR 109; CONTRAN 749; GSO MC-250905; Japan Article 17-2.\". It never states this instrument adopts, deems equivalent or accepts the listed UN Regulations as alternatives. A related-instrument list and a citation with similar numbers do not establish legal equivalence.",
+    "evidence_url": "regulations/gcc-mc-250905-2025.md",
+    "confidence": 0.95
+  }
+]

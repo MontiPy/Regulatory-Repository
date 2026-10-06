@@ -1,0 +1,78 @@
+[
+  {
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/portarias-2022",
+    "ids": [
+      "br-senatran-990"
+    ],
+    "name": "br-senatran-portarias2022-index",
+    "retrieved_at": "2026-10-06T12:29:03.910067+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/portarias-2022",
+    "redirects": [],
+    "content_type": "text/html;charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 449842,
+    "truncated": false,
+    "sha256": "b9f323a6d07167f1c4ffec5181bc87d6b680219110261792be7dd8f9ed28f36d",
+    "page_title": "Portarias 2022 — Ministério dos Transportes",
+    "availability": "response_retrieved",
+    "text_preview": "Portarias 2022 — Ministério dos Transportes Atenção! Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente. Abrir menu principal de navegação Ministério dos Transportes Termos mais buscados Desenrola Brasil assinatura mei imposto de renda inss Termos mais buscados Desenrola Brasil assinatura mei Info Portarias 2022 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de tr",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran-portarias2022-index.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran-portarias2022-index.raw.gz"
+  },
+  {
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022ANEXO.pdf",
+    "ids": [
+      "br-contran-924"
+    ],
+    "name": "br-contran924-annexes",
+    "retrieved_at": "2026-10-06T12:29:03.907862+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022ANEXO.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 1147157,
+    "truncated": false,
+    "sha256": "09825c381aca7b249ea5dc1a3af2372f361086124a2980c4d4e70e47d9954174",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-annexes.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-annexes.raw.gz"
+  },
+  {
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao4982014.pdf",
+    "ids": [
+      "br-contran-498"
+    ],
+    "name": "br-contran498-original",
+    "retrieved_at": "2026-10-06T12:29:03.908583+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao4982014.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 79657,
+    "truncated": false,
+    "sha256": "6aac277d2ea2b001cb64a2cc237fd1c40d9655ccb67ef17d96875eb68b3e32d2",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-original.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-original.raw.gz"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "shard": "r20261006-br-brazil-limited-01",
+  "kind": "records",
+  "items": [
+    "br-abnt-nbr-15145",
+    "br-anatel-cert",
+    "br-contran-215",
+    "br-contran-224",
+    "br-contran-245-330",
+    "br-contran-37",
+    "br-contran-498",
+    "br-contran-749",
+    "br-contran-758",
+    "br-contran-759",
+    "br-contran-764",
+    "br-contran-885",
+    "br-contran-908",
+    "br-contran-912",
+    "br-contran-913",
+    "br-contran-915",
+    "br-contran-924",
+    "br-contran-936",
+    "br-contran-960",
+    "br-contran-964",
+    "br-contran-966",
+    "br-contran-safety-labeling",
+    "br-senatran-990"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "limited",
+  "source_api": "brazil"
+}

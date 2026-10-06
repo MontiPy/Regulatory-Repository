@@ -20,6 +20,10 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-536
 status: in-force
+status_note: SAFE Vehicles Rule III (FR 2026-19964) is effective 30 November 2026
+  and eliminates inter-manufacturer trading for credits earned in MY2028 onward. Earlier
+  earned credits retain their applicable trading rules; distinguish trading from intra-manufacturer
+  transfers.
 summary: CAFE fuel economy credits for passenger cars and light trucks are regulated
   under this part, covering how credits earned by exceeding fuel economy standards
   can be carried back up to three model years or forward up to five model years.

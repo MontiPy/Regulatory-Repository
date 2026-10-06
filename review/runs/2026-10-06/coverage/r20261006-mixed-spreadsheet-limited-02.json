@@ -1,0 +1,327 @@
+{
+  "reviewed": [
+    "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+    "cn-cnca-c11-01-2020",
+    "eaeu-workbook-reg-0613-tr-cu-018-2011",
+    "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+    "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+    "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+    "gcc-ecas-moiat-conformity-certificates",
+    "gcc-gcc-ev-technical-regulation-draft",
+    "gcc-saso-2847-saso-2864-2022",
+    "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+    "gcc-uae-s-5019-2024",
+    "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+    "jp-srrv-accelerator-control",
+    "jp-srrv-audible-warning-devices",
+    "jp-srrv-automated-lane-keeping-automated-driving-systems",
+    "jp-srrv-body-structure-and-load-path",
+    "jp-srrv-brake-assist-systems",
+    "jp-srrv-bumper-and-low-speed-impact-external-projections"
+  ],
+  "skipped": [
+    {
+      "id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "cn-cnca-c11-01-2020",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "cn-cnca-c11-01-2020",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "cn-cnca-c11-01-2020",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "gcc-ecas-moiat-conformity-certificates",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "gcc-ecas-moiat-conformity-certificates",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "gcc-ecas-moiat-conformity-certificates",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "gcc-gcc-ev-technical-regulation-draft",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "gcc-gcc-ev-technical-regulation-draft",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "gcc-gcc-ev-technical-regulation-draft",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "gcc-saso-2847-saso-2864-2022",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "gcc-saso-2847-saso-2864-2022",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "gcc-saso-2847-saso-2864-2022",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "gcc-uae-s-5019-2024",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "gcc-uae-s-5019-2024",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "gcc-uae-s-5019-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "jp-srrv-body-structure-and-load-path",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "jp-srrv-body-structure-and-load-path",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "jp-srrv-body-structure-and-load-path",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "jp-srrv-brake-assist-systems",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "jp-srrv-brake-assist-systems",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "jp-srrv-brake-assist-systems",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "jp-srrv-bumper-and-low-speed-impact-external-projections",
+      "field": "source_url",
+      "reason": "Shared curl audit environment-policy 403/curl 56. Availability and destination instrument unverified; no link-dead conclusion."
+    },
+    {
+      "id": "jp-srrv-bumper-and-low-speed-impact-external-projections",
+      "field": "summary/title/citation/vehicle_categories/systems/commodities/body",
+      "reason": "Read complete current body and metadata. Body is a workbook summary/template or reference stub, not regulatory clauses. All substantive scope, requirements, national UN adoption and category/tag accuracy require official instrument evidence, which could not be fetched. Template statements are not accepted as regulation evidence."
+    },
+    {
+      "id": "jp-srrv-bumper-and-low-speed-impact-external-projections",
+      "field": "status/status_note/effective_date",
+      "reason": "Current force, draft/adoption, applicability date, supersession and exemptions not established by this limited body; official source blocked. Do not infer dates or statuses."
+    },
+    {
+      "id": "gcc-gcc-ev-technical-regulation-draft",
+      "field": "status",
+      "reason": "Draft status versus separate MC-250905:2025 record may need reconciliation, but no adopted official text fetched; hold rather than change to in-force."
+    },
+    {
+      "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "field": "source_url",
+      "reason": "Source is GLONASS UNION organizational page rather than government legal instrument. Its claims were not fetched and cannot establish mandatory scope/exemptions."
+    },
+    {
+      "id": "cn-cnca-c11-01-2020",
+      "field": "effective_date",
+      "reason": "2020-04-16 metadata date is absent from own body; blocked official source prevents authentication."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "jp-srrv-accelerator-control",
+      "field": "body/summary/un_equivalent",
+      "reason": "Current body already a reference stub; summary discloses lack of regulation text and no machine-suggested UN equivalent remains."
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "field": "body/summary/un_equivalent",
+      "reason": "Current body already a reference stub; summary discloses lack of regulation text and no machine-suggested UN equivalent remains."
+    },
+    {
+      "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+      "field": "body/summary/un_equivalent",
+      "reason": "Current body already a reference stub; summary discloses lack of regulation text and no machine-suggested UN equivalent remains."
+    }
+  ],
+  "notes": "Complete limited bodies read. Exact taxonomy values, id/region/citation consistency, truncation, internal subject matches and UN-equivalent fields mechanically checked; no invalid values or new equivalents. All substantive claims remain externally unverified. Several titles combine standards/frameworks; homepage or organizational links are not proof of instrument identity. No proposed fix can meet the evidence rule, so skip. Includes 3 already-correct stub disclosures."
+}

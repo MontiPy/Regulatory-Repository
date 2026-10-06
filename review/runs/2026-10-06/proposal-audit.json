@@ -1,0 +1,20 @@
+{
+  "records": 229,
+  "record_fields": 287,
+  "fields_by_name": {
+    "un_equivalent": 50,
+    "_stub_body": 8,
+    "summary": 121,
+    "systems": 14,
+    "vehicle_categories": 46,
+    "title": 14,
+    "commodities": 8,
+    "status": 1,
+    "status_note": 13,
+    "effective_date": 12
+  },
+  "knowledge_files": 4,
+  "knowledge_exact_replacements": 21,
+  "unauthorized_changes": 0,
+  "validator_rejections": 0
+}

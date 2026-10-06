@@ -1,0 +1,286 @@
+[
+  {
+    "id": "gcc-gso-1040-1041-1042",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Light duty diesel vehicle emissions under GCC standards GSO 1040/1041/1042 are regulated for pollutants including NOx, CO, HC, PM, and PN, along with CO2 and OBD requirements.",
+    "proposed": "Summary record for GSO 1040/1041/1042: Light Duty Diesel Pollutant Limits and Test Methods. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Light Duty Diesel Pollutant Limits and Test Methods",
+    "evidence_url": "regulations/gcc-gso-1040-1041-1042.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1053-2002",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R116"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 114; UNECE R116/R161/R162/R163; ADR 25/82; GSO 1053; KMVSS Art. 22; Japan Article 11-2; CONTRAN 245/330 needs current check.",
+    "evidence_url": "regulations/gcc-gso-1053-2002.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1053-2002",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Motor vehicles exported or registered in GCC member states are required to be equipped with effective locking and immobilization features to prevent theft and unauthorized use.",
+    "proposed": "Summary record for GSO 1053:2002: Protection Against Unauthorized Use. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Protection Against Unauthorized Use",
+    "evidence_url": "regulations/gcc-gso-1053-2002.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1503-2002",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "GSO 1503:2002 sets requirements for motor vehicle head lamps in GCC member states, including lamp intensity, aiming and operability, so that drivers can see the road without causing glare.",
+    "proposed": "Summary record for GSO 1503:2002: Head Lamps. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Head Lamps",
+    "evidence_url": "regulations/gcc-gso-1503-2002.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1598-2002",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R17"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 202/207; UNECE R17/R25; GB 15083; KMVSS Arts. 25/26/97/99; ADR 3/22; CONTRAN 951; GSO 1598; Japan Articles 22/22-4.",
+    "evidence_url": "regulations/gcc-gso-1598-2002.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1598-2002",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Head restraints and seat structures for motor vehicles exported or registered in GCC member states are regulated under this standard to ensure seats remain securely attached and properly support occupants, including the head and neck, during normal use and crash conditions.",
+    "proposed": "Summary record for GSO 1598:2002: Head Restraints for Vehicles. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Head Restraints for Vehicles",
+    "evidence_url": "regulations/gcc-gso-1598-2002.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1624-2002",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R51"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 141; UNECE R51/R138; ADR 83/113; GB 1495; KMVSS Art. 35; GSO 1624; Japan Articles 30/43-7.",
+    "evidence_url": "regulations/gcc-gso-1624-2002.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1677-2002",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R43"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 205/212/219; UNECE R43; GB 9656; KMVSS Arts. 34/105/112-7; ADR 8; CONTRAN 960; GSO 1677; Japan Article 29.",
+    "evidence_url": "regulations/gcc-gso-1677-2002.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1677-2002",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Laminated safety glass used in motor vehicles exported or registered in GCC member states must meet standards ensuring transparent, durable, and safe glazing that maintains driver visibility, proper light transmittance, and structural retention during a crash.",
+    "proposed": "Summary record for GSO 1677:2002: Laminated Safety Glass. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Laminated Safety Glass",
+    "evidence_url": "regulations/gcc-gso-1677-2002.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1680-1685-2003",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R83"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nUS EPA 40 CFR Part 86/Tier 3; EU Reg. 715/2007 and UNECE R83; GB 18352.6; ADR 79/111/112; CONAMA 492/IBAMA IN 3; GSO 1680-series and national Euro limits; Japan Article 31; KMVSS Art. 36.",
+    "evidence_url": "regulations/gcc-gso-1680-1685-2003.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1680-1685-2003",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "GSO 1680-1685:2003 specifies methods of test for gaseous pollutants (such as CO, HC and NOx) emitted from unleaded gasoline-engined vehicles registered or exported in GCC member states.",
+    "proposed": "Summary record for GSO 1680-1685:2003: test methods for Gaseous Pollutants Emitted from Unleaded Gasoline Engined Vehicles. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Methods of Test for Gaseous Pollutants Emitted from Unleaded Gasoline Engined Vehicles",
+    "evidence_url": "regulations/gcc-gso-1680-1685-2003.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1707-2005",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Side impact protection for motor vehicles exported or registered in GCC member states, following US-aligned test standards, is regulated under GSO 1707:2005, with particular applicability to passenger cars (M1 category).",
+    "proposed": "Summary record for GSO 1707:2005: test methods for Impact Strength - Part 3B: Moving Barrier Side Impact (US Standards). The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Moving Barrier Side Impact - US Standards",
+    "evidence_url": "regulations/gcc-gso-1707-2005.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1708-2005",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R95"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 214; UNECE R95/R135; GB 20071; KMVSS Arts. 102-4/104; ADR 72/85; CONTRAN 949; GSO 38/1707/1708; Japan Article 18.",
+    "evidence_url": "regulations/gcc-gso-1708-2005.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1708-2005",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Side impact protection for motor vehicles exported or registered in GCC member states requires compliance with European-aligned moving barrier crash test standards to limit occupant injury from door intrusion and crush in side collisions.",
+    "proposed": "Summary record for GSO 1708:2005: test methods for Impact Strength - Part 3C: Moving Barrier Side Impact (European Standards). The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Moving Barrier Side Impact - European Standards",
+    "evidence_url": "regulations/gcc-gso-1708-2005.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-1709-2005",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R129"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS 213/225; CMVSS 210.1/210.2/213.4; UNECE R129/R145; GB 27887; KMVSS Arts. 27-2/103-2; ADR 34; GSO 1709 and ECE 44/129/145 annex; Japan Article 22-5.",
+    "evidence_url": "regulations/gcc-gso-1709-2005.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-1709-2005",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": "GSO 1709:2005 sets requirements for child restraint systems used in motor vehicles, excluding those intended for folding or side-facing seats. Related UN regulations include R129 and R145; testing is covered by separate GSO standards.",
+    "proposed": "Summary record for GSO 1709:2005: Child Restraint Systems. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Child Restraint Systems",
+    "evidence_url": "regulations/gcc-gso-1709-2005.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-36-2005",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R94"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 208; UNECE R94/R137; GB 11551 and GB/T 20913; KMVSS Arts. 102/102-3; ADR 69/73; CONTRAN 910; GSO 36/40; Japan Article 18.",
+    "evidence_url": "regulations/gcc-gso-36-2005.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-36-2005",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Frontal impact testing methods for motor vehicles exported or registered in GCC member states establish procedures for evaluating occupant survival space and crash energy management in full, offset, or full-width frontal crashes.",
+    "proposed": "Summary record for GSO 36:2005: test methods for Impact Strength - Part 1: Frontal Impact. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Methods of Test for Impact Strength - Part 1: Frontal Impact",
+    "evidence_url": "regulations/gcc-gso-36-2005.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-37-2012",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": "Rear impact test methods for motor vehicles sold or registered in GCC member states, covering the rear body structure, fuel system, and EV battery protection. The standard mandates test procedures to verify that rear impacts do not result in fuel leakage, battery enclosure breach, or loss of rear occupant protection.",
+    "proposed": "Summary record for GSO 37:2012: test methods for Impact Strength - Part 2: Rear Impact. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Methods of Test for Impact Strength - Part 2: Rear Impact",
+    "evidence_url": "regulations/gcc-gso-37-2012.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-38-2005",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R95"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 214; UNECE R95/R135; GB 20071; KMVSS Arts. 102-4/104; ADR 72/85; CONTRAN 949; GSO 38/1707/1708; Japan Article 18.",
+    "evidence_url": "regulations/gcc-gso-38-2005.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-39-2005",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Roof strength of motor vehicles sold or registered in GCC member states is regulated by this standard, which establishes test methods for evaluating a vehicle's roof ability to withstand impact loads and retain occupants during rollover events.",
+    "proposed": "Summary record for GSO 39:2005: test methods for Impact Strength - Part 4: Roof Strength. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - Methods of Test for Impact Strength - Part 4: Roof Strength",
+    "evidence_url": "regulations/gcc-gso-39-2005.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-40-2011",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R94"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 208, 201; UNECE R94/R137; GB 11551; KMVSS Art. 102; ADR 69/73; CONTRAN 910/964; Japan Article 18.",
+    "evidence_url": "regulations/gcc-gso-40-2011.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "gcc-gso-41-2007",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Front and rear exterior protection devices (bumpers, fascias, crash boxes, and related trim) on passenger cars registered or exported in GCC member states are regulated to reduce minor-impact damage and eliminate exterior features that pose injury risks.",
+    "proposed": "Summary record for GSO 41:2007: Front and Rear Exterior Protection Devices for Passenger Cars and Methods of Test. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Front and Rear Exterior Protection Devices for Passenger Cars and Methods of Test",
+    "evidence_url": "regulations/gcc-gso-41-2007.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "gcc-gso-42-2015",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Motor vehicles exported or registered in GCC member states are required to match their approved or self-certified specification and maintain traceability through correct VIN marking, certification labels, and conformity documentation.",
+    "proposed": "Summary record for GSO 42:2015: General Requirements. The full standard text is not included; detailed requirements, vehicle scope and current applicability require official confirmation.",
+    "evidence": "# Motor Vehicles - General Requirements",
+    "evidence_url": "regulations/gcc-gso-42-2015.md",
+    "confidence": 0.97
+  }
+]

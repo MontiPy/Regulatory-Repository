@@ -73,7 +73,7 @@
 
 - term: CSMS
   aka: [Cybersecurity Management System]
-  definition: "Organisation-level process certificate required by UN R155 before a vehicle type can be approved for cybersecurity. Based on ISO/SAE 21434 practices."
+  definition: "A systematic risk-based approach defining organisational processes, responsibilities and governance to treat vehicle cyber risks and protect vehicles from cyber-attacks. UN R155 requires the manufacturer to hold a valid Certificate of Compliance for its CSMS for vehicle-type cybersecurity approval."
   markets: [EU, JP, KR, GB]
   records: [ece-r155, other-workbook-reg-0645-iso-sae-21434]
 

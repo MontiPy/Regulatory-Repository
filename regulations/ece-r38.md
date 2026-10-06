@@ -19,9 +19,9 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42010X0612(03)
 status: in-force
-summary: Rear fog lamps on motor vehicles are the subject of this regulation, which
-  establishes approval requirements governing their construction, performance, and
-  installation to ensure adequate visibility in conditions of poor visibility.
+summary: Sets approval requirements for rear fog lamps for vehicles of categories
+  L3, L4, L5, L7, M, N, O and T, including marking, photometric performance, colour
+  and conformity of production.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 965be882761260d13621238e22b8957359498dd4
 systems:

@@ -1,0 +1,9 @@
+{
+  "checks": [
+    "All nine final body hashes and summary hashes match logged outcomes.",
+    "Raw response hashes match retained and archived snapshots for the checked source manifests.",
+    "All 77 EU responses have matching authenticated HTTPS retrieval hashes.",
+    "Zero summaries are stale."
+  ],
+  "passed": true
+}

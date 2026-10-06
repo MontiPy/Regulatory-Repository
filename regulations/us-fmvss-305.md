@@ -26,9 +26,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.305
 status: in-force
-summary: Electric-powered passenger cars and light trucks/buses (GVWR ≤ 4,536 kg)
-  using high-voltage propulsion systems (>60 VDC or >30 VAC) and manufactured before
-  September 1, 2027, are subject to this standard.
+summary: FMVSS No. 305 limits crash electrolyte spillage and energy storage intrusion,
+  and protects against electrical shock during crashes and normal operation. It covers
+  passenger cars and MPVs, trucks and buses of 4,536 kg GVWR or less using propulsion
+  voltages above 60 VDC or 30 VAC, attaining over 40 km/h in 1.6 km and manufactured
+  before September 1, 2027; certification to FMVSS No. 305a is an alternative.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 33ab46d597869d7f18c70abf32394066ddb2a919
 systems:

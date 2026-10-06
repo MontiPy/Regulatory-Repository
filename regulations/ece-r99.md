@@ -37,7 +37,6 @@ vehicle_categories:
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42018X1997, 2018-12-17). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

@@ -16,7 +16,7 @@ open_tags:
 - brake system components
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Brake hoses in motor vehicles (excluding ultra-compact vehicles) must comply
   with the standards set out in Attached Table 30-4, and all brake hoses except air

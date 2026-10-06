@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=007939",
+    "ids": [
+      "KMVSS"
+    ],
+    "name": "kmvss-current-id",
+    "retrieved_at": "2026-10-06T12:24:33.964360+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "availability": "transport_error",
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.law.go.kr', port=443): Read timed out. (read timeout=8)"
+  },
+  {
+    "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=270023&efYd=20250315&chrClsCd=010202&efYn=Y&nwJoYnInfo=Y&ancYnChk=0&netPrivateYn=N",
+    "ids": [
+      "KMVSS historical March 2025"
+    ],
+    "name": "kmvss-history-body-dated",
+    "retrieved_at": "2026-10-06T12:24:33.965000+00:00",
+    "legal_verification": "not_adjudicated",
+    "request_headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; RegulatoryRepositoryReview/1.0)"
+    },
+    "availability": "transport_error",
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.law.go.kr', port=443): Read timed out. (read timeout=8)"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "shard": "r20261006-jp-egov_jp-full-01",
+  "kind": "records",
+  "items": [
+    "jp-jvsregs-art1",
+    "jp-jvsregs-art10",
+    "jp-jvsregs-art11-2",
+    "jp-jvsregs-art11",
+    "jp-jvsregs-art12",
+    "jp-jvsregs-art14",
+    "jp-jvsregs-art15",
+    "jp-jvsregs-art17-2",
+    "jp-jvsregs-art17",
+    "jp-jvsregs-art18",
+    "jp-jvsregs-art2",
+    "jp-jvsregs-art20",
+    "jp-jvsregs-art21",
+    "jp-jvsregs-art22-3",
+    "jp-jvsregs-art22-4",
+    "jp-jvsregs-art22-5"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "full",
+  "source_api": "egov_jp"
+}

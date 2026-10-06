@@ -1,0 +1,93 @@
+[
+  {
+    "name": "ca-2026-evas-proposal",
+    "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-08-15/html/reg2-eng.html",
+    "ids": [
+      "ca-2026-evas-proposal"
+    ]
+  },
+  {
+    "name": "epa-2026-ghg-final",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-18/html/2026-03157.htm",
+    "ids": [
+      "epa-2026-ghg-final"
+    ]
+  },
+  {
+    "name": "un-r83-treaty",
+    "url": "https://treaties.un.org/Pages/ViewDetails.aspx?chapter=11&clang=_en&mtdsg_no=XI-B-16-83&src=TREATY",
+    "ids": [
+      "un-r83-treaty"
+    ]
+  },
+  {
+    "name": "eu-elv-2026-commission",
+    "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/end-life-vehicles_en",
+    "ids": [
+      "eu-elv-2026-commission"
+    ]
+  },
+  {
+    "name": "eu-elv-2026-text",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1738",
+    "ids": [
+      "eu-elv-2026-text"
+    ]
+  },
+  {
+    "name": "eu-gsr-plain",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2144",
+    "ids": [
+      "eu-gsr-plain"
+    ]
+  },
+  {
+    "name": "eu-euro7-plain",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1257",
+    "ids": [
+      "eu-euro7-plain"
+    ]
+  },
+  {
+    "name": "eu-co2-proposal-parliament",
+    "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0995/COM_COM%282025%290995_EN.pdf",
+    "ids": [
+      "eu-co2-proposal-parliament"
+    ]
+  },
+  {
+    "name": "eu-co2-procedure",
+    "url": "https://eur-lex.europa.eu/procedure/EN/2025_420",
+    "ids": [
+      "eu-co2-procedure"
+    ]
+  },
+  {
+    "name": "kmvss-current-name",
+    "url": "https://www.law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙",
+    "ids": [
+      "kmvss-current-name"
+    ]
+  },
+  {
+    "name": "au-adr60-text",
+    "url": "https://www.legislation.gov.au/F2006L02300/latest/text",
+    "ids": [
+      "au-adr60-text"
+    ]
+  },
+  {
+    "name": "au-adr99-text",
+    "url": "https://www.legislation.gov.au/F2024L00161/latest/text",
+    "ids": [
+      "au-adr99-text"
+    ]
+  },
+  {
+    "name": "au-adr45-text",
+    "url": "https://www.legislation.gov.au/F2006L01433/latest/text",
+    "ids": [
+      "au-adr45-text"
+    ]
+  }
+]

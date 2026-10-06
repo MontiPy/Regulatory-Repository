@@ -21,9 +21,11 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42025X1453
 status: in-force
-summary: Tyres are regulated for rolling sound emission, wet adhesion, and rolling
-  resistance, requiring compliance with specified performance limits and test procedures
-  for each of these three properties.
+summary: Sets approval provisions for new pneumatic tyres of classes C1, C2 and C3
+  for rolling sound, wet adhesion and rolling resistance, and worn C1 tyres for wet
+  adhesion. Certain C1 tyre approvals also require abrasion information. Approvals
+  may cover the listed performance properties separately or together; the scope excludes
+  tyres for vehicles outside categories M, N and O.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: ab1350bedf05ba5634a629294e9537f11688720e
 systems:
@@ -38,7 +40,6 @@ vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
-- Motorcycle
 - Bus
 - Trailer
 ---

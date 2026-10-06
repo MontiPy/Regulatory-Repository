@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ece-r149",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus",
+      "Trailer"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus"
+    ],
+    "evidence": "Scope: \"Headlamps emitting a driving-beam and/or an asymmetrical passing-beam for vehicles of categories L, M, N and T\"; \"Adaptive front-lighting systems (AFS) for vehicles of categories M and N\"; \"Headlamps emitting a driving-beam and/or a symmetrical passing-beam for vehicles of categories L and T\"; \"Front fog lamps for vehicles of categories L3, L4, L5, L7, M, N and T\"; \"Cornering lamps for vehicles of categories M, N and T\". No category O/trailer devices are listed in the exhaustive scope.",
+    "evidence_url": "regulations/ece-r149.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ece-r153",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN R153 covers the integrity of the fuel system and the safety of the high-voltage electric power train of M1 and N1 vehicles after a rear-end collision.",
+    "proposed": "UN R153 covers fuel system integrity and high-voltage electric power train safety after a rear-end collision for M1 vehicles with a total permissible mass not exceeding 3,500 kg and for N1 vehicles.",
+    "evidence": "Scope: \"This Regulation applies to vehicles of category M1 ... with a total permissible mass not exceeding 3 500 kg and to vehicles of category N1 with regard to fuel system integrity and safety of electric power train operating on high voltage in the event of a rear-end collision.\"",
+    "evidence_url": "regulations/ece-r153.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ece-r161",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN R161 sets uniform provisions for protecting motor vehicles against unauthorized use and for approving the locking device used for this purpose. (Pedal-misapplication control is UN R175.)",
+    "proposed": "UN R161 sets approval requirements for devices protecting M1 and N1 vehicles against unauthorized use through a locking system. Devices fitted to other vehicle categories must comply, and approvals for those categories may be granted at the manufacturer's request.",
+    "evidence": "Instrument title: \"protection of motor vehicles against unauthorized use and the approval of the device against unauthorized use (by mean of a locking system)\". Scope 1.1: \"Approval of a vehicle of category M1 and N1 ... with regard to its devices to prevent unauthorized use.\" Scope 1.2: \"The fitting of devices to vehicles of other categories is optional but any such device fitted is required to comply with all relevant provisions of this Regulation.\" Scope 1.3 permits other-category approval on request. The body contains no UN R175 or pedal-misapplication statement.",
+    "evidence_url": "regulations/ece-r161.md",
+    "confidence": 0.98
+  }
+]

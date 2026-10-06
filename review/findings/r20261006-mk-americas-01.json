@@ -1,0 +1,38 @@
+[
+  {
+    "id": "US",
+    "field": "process",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Register as a manufacturer: Part 565 VIN-decoder/manufacturer-identifier submission at least 60 days before affixing the first VIN, and Part 566 manufacturer identification within 30 days of beginning manufacture.",
+      "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D).",
+      "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests.",
+      "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce.",
+      "Import: CBP entry with HS-7 declaration (box 2A for conforming vehicles) and EPA Form 3520-1.",
+      "Post-market: defect & noncompliance reports within 5 working days (Part 573), owner notification (Part 577), quarterly Early Warning Reporting (Part 579)."
+    ],
+    "proposed": [
+      "Register as a manufacturer: Part 565 requires manufacturer-identifier information at least 60 days before affixing the first VIN using it; VIN-decoding information is due at least 60 days before offering the first vehicle for sale, or within one week after unavailable vehicle-characteristic information first becomes available. Part 566 manufacturer identification is due within 30 days of beginning manufacture.",
+      "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D).",
+      "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests.",
+      "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce.",
+      "Import: CBP entry with HS-7 declaration (box 2A for conforming vehicles) and EPA Form 3520-1.",
+      "Post-market: defect & noncompliance reports within 5 working days (Part 573), owner notification (Part 577), quarterly Early Warning Reporting (Part 579)."
+    ],
+    "evidence": "49 CFR565.16(b): submit unique identifier \"at least 60 days before affixing the first VIN using the identifier\". 565.16(d): decoding information \"at least 60 days prior to offering for sale the first vehicle ... or ... within one week after that information first becomes available\" if unavailable by that date. 566.6: identification \"not later than 30 days after he begins manufacture\". Current profile collapses identifier and decoder submissions into one affixing-VIN deadline. These are clauses in the referenced instruments' own bodies.",
+    "evidence_url": "regulations/us-cfr-part-565.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "CA",
+    "field": "language",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "English AND French for labels, owner's manual safety content, and recall notices",
+    "proposed": "English and French as specified by each provision. MVSR s.110 requires bilingual tire information; s.114 permits accompanying immobilizer operating and maintenance information in English, French or both, as requested by the first retail purchaser. Check the applicable owner-information and recall-notice provisions.",
+    "evidence": "MVSR110(2): specified information may appear \"in both official languages on one vehicle placard\" or \"in each official language on two vehicle placards\". MVSR114(5) requires operating/maintenance instructions and warning; 114(6): \"The information shall be provided in English, French or both official languages, as requested by the first retail purchaser of the vehicle.\" Current profile's English AND French claim for all owner-manual safety content conflicts with this express choice.",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s114.md",
+    "confidence": 0.97
+  }
+]

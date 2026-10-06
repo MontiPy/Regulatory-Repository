@@ -1,0 +1,27 @@
+{
+  "shard": "r20261006-us-ecfr-full-03",
+  "kind": "records",
+  "items": [
+    "us-cfr-part-572",
+    "us-cfr-part-573",
+    "us-cfr-part-574",
+    "us-cfr-part-576",
+    "us-cfr-part-577",
+    "us-cfr-part-578",
+    "us-cfr-part-579",
+    "us-cfr-part-580",
+    "us-cfr-part-581",
+    "us-cfr-part-582",
+    "us-cfr-part-583",
+    "us-cfr-part-585",
+    "us-cfr-part-586",
+    "us-cfr-part-587",
+    "us-cfr-part-588",
+    "us-cfr-part-591",
+    "us-cfr-part-592"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "full",
+  "source_api": "ecfr"
+}

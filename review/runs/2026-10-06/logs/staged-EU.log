@@ -1,0 +1,51 @@
+  Pulling EUR-Lex CELEX 32018R0858 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32019R2144 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32021R0535 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32022R1426 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32009R0661 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32021R0646 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32021R1341 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32021R1958 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32022R0545 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32023R2590 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32007R0715 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32017R1151 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32024R1257 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32018R0985 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32019R0631 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32014R0540 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32009R0078 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32023R1542 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32006L0066 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32000L0053 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32006R1907 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32006L0040 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32024R0573 ... FAILED: Empty response from EUR-Lex
+  Pulling EUR-Lex CELEX 32014L0053 ... FAILED: Empty response from EUR-Lex
+
+24 failure(s):
+  EUR-Lex CELEX 32018R0858: Empty response from EUR-Lex
+  EUR-Lex CELEX 32019R2144: Empty response from EUR-Lex
+  EUR-Lex CELEX 32021R0535: Empty response from EUR-Lex
+  EUR-Lex CELEX 32022R1426: Empty response from EUR-Lex
+  EUR-Lex CELEX 32009R0661: Empty response from EUR-Lex
+  EUR-Lex CELEX 32021R0646: Empty response from EUR-Lex
+  EUR-Lex CELEX 32021R1341: Empty response from EUR-Lex
+  EUR-Lex CELEX 32021R1958: Empty response from EUR-Lex
+  EUR-Lex CELEX 32022R0545: Empty response from EUR-Lex
+  EUR-Lex CELEX 32023R2590: Empty response from EUR-Lex
+  EUR-Lex CELEX 32007R0715: Empty response from EUR-Lex
+  EUR-Lex CELEX 32017R1151: Empty response from EUR-Lex
+  EUR-Lex CELEX 32024R1257: Empty response from EUR-Lex
+  EUR-Lex CELEX 32018R0985: Empty response from EUR-Lex
+  EUR-Lex CELEX 32019R0631: Empty response from EUR-Lex
+  EUR-Lex CELEX 32014R0540: Empty response from EUR-Lex
+  EUR-Lex CELEX 32009R0078: Empty response from EUR-Lex
+  EUR-Lex CELEX 32023R1542: Empty response from EUR-Lex
+  EUR-Lex CELEX 32006L0066: Empty response from EUR-Lex
+  EUR-Lex CELEX 32000L0053: Empty response from EUR-Lex
+  EUR-Lex CELEX 32006R1907: Empty response from EUR-Lex
+  EUR-Lex CELEX 32006L0040: Empty response from EUR-Lex
+  EUR-Lex CELEX 32024R0573: Empty response from EUR-Lex
+  EUR-Lex CELEX 32014L0053: Empty response from EUR-Lex
+EU: 0 written to /tmp/regulatory-review-stage/EU

@@ -20,7 +20,7 @@ open_tags:
 - vehicle dynamics control
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Motor vehicles in Korea must be equipped with an electronic stability control
   (ESC) system, with specific exemptions including vehicles with four or more axles,
@@ -32,7 +32,6 @@ systems:
 - Braking
 - ADAS
 - Tell-tales & controls
-- On-board diagnostics
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 15-2 — Electronic Stability Control

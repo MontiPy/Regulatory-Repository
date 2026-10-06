@@ -1,0 +1,127 @@
+{
+  "reviewed": [
+    "au-f2019l00029",
+    "au-f2022l00211",
+    "au-f2023l00129",
+    "au-f2023l01006",
+    "au-f2023l01319",
+    "au-f2023l01321",
+    "au-f2023l01526",
+    "au-f2023l01530",
+    "au-f2024l00089",
+    "au-f2024l00161",
+    "au-f2024l00443",
+    "au-f2024l00446",
+    "au-f2024l00447",
+    "au-f2024l01742",
+    "au-f2025l00028",
+    "au-f2025l01402",
+    "au-f2026l00278",
+    "au-f2026l00284",
+    "au-f2026l00512"
+  ],
+  "skipped": [
+    {
+      "id": "au-f2019l00029",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2022l00211",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2023l00129",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2023l01006",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2023l01319",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2023l01321",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2023l01526",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2023l01530",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l00089",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l00161",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l00443",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l00446",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l00447",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l01742",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2025l00028",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2025l01402",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2026l00278",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2026l00284",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2026l00512",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: shared curl audit policy-blocked official URL; current currency/repeal and remote link availability unverified. Operative body identity, scope and application dates reviewed. Do not change in-force status merely because mandatory application phases are future."
+    },
+    {
+      "id": "au-f2024l00161",
+      "field": "body",
+      "reason": "Needs human: compilation introductory boilerplate calls the compiled law ADR 99/00 (2023), whereas cover and operative name clause say ADR 99/01 (2024). This is a possible typo in the official compilation; do not rewrite legal body."
+    }
+  ],
+  "already_fixed": [],
+  "notes": "Read all current metadata and operative introduction/scope/application/requirements/alternative-standard clauses. Long technical annexes checked only for relevant support, not line by line. Stored 2025/2026 compilation dates and UN alternative claims were checked against the current bodies. No status changes based on future application phases."
+}

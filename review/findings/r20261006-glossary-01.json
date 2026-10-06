@@ -1,0 +1,13 @@
+[
+  {
+    "id": "CSMS",
+    "field": "definition",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Organisation-level process certificate required by UN R155 before a vehicle type can be approved for cybersecurity. Based on ISO/SAE 21434 practices.",
+    "proposed": "Organisation-level process certificate required by UN R155 before a vehicle type can be approved for cybersecurity. The CSMS defines organisational processes, responsibilities and governance to assess and treat vehicle cyber risks.",
+    "evidence": "UN R155 paragraph 2.3: \"Cyber Security Management System (CSMS)\" means a systematic risk-based approach defining organisational processes, responsibilities and governance to treat risk associated with cyber threats to vehicles and protect them from cyber-attacks. Paragraph 7.2.1: For the assessment the Approval Authority or its Technical Service shall verify that the vehicle manufacturer has a Cyber Security Management System in place and shall verify its compliance with this Regulation. The instrument does not prescribe ISO/SAE 21434 as the basis of its CSMS requirements.",
+    "evidence_url": "regulations/ece-r155.md",
+    "confidence": 0.88
+  }
+]

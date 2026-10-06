@@ -1,0 +1,25 @@
+{
+  "shard": "r20261006-mixed-spreadsheet-limited-05",
+  "kind": "records",
+  "items": [
+    "other-workbook-reg-0648-iso-6469-series",
+    "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3",
+    "other-workbook-reg-0650-iso-22628",
+    "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+    "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+    "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+    "tw-vehicle-safety-type-approval-dgst",
+    "us-stub-california-proposition-65",
+    "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+    "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+    "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+    "us-stub-us-epa-40-cfr-part-86-tier-3",
+    "us-workbook-reg-0451-49-cfr-part-575",
+    "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+    "za-workbook-reg-0623-vc-8056"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "limited",
+  "source_api": "spreadsheet"
+}

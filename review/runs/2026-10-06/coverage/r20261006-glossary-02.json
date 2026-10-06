@@ -1,0 +1,130 @@
+{
+  "reviewed": [
+    "CAFE",
+    "Registered Importer (RI)",
+    "CCC",
+    "MIIT Announcement",
+    "TDS / PHP (Japan)",
+    "TAC / CMVR Rule 126 (India)",
+    "RAV / ROVER (Australia)",
+    "CAT / LCVM (Brazil)",
+    "LCM / LCA (Argentina)",
+    "OTTS / EPTS (EAEU)",
+    "SABER PCoC / SCoC (Saudi Arabia)",
+    "ECAS (UAE)",
+    "Letter of Authority (South Africa)",
+    "VTA / AP (Malaysia)",
+    "SUT / SRUT (Indonesia)",
+    "PVoC",
+    "GSR / GSR2",
+    "WLTP / RDE",
+    "OBD",
+    "NCAP",
+    "Functional safety (ISO 26262) & SOTIF (ISO 21448)",
+    "PPAP / APQP"
+  ],
+  "skipped": [
+    {
+      "id": "CAFE",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "CCC",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "MIIT Announcement",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "TDS / PHP (Japan)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "TAC / CMVR Rule 126 (India)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "RAV / ROVER (Australia)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "CAT / LCVM (Brazil)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "LCM / LCA (Argentina)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "OTTS / EPTS (EAEU)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "SABER PCoC / SCoC (Saudi Arabia)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "ECAS (UAE)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "Letter of Authority (South Africa)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "VTA / AP (Malaysia)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "SUT / SRUT (Indonesia)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "PVoC",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "WLTP / RDE",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "OBD",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "NCAP",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "Functional safety (ISO 26262) & SOTIF (ISO 21448)",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    },
+    {
+      "id": "PPAP / APQP",
+      "field": "definition",
+      "reason": "Skip: cited records are summary/link/template bodies or no supporting legal record is cited; official external verification is blocked by network policy. Administrative details, numerical thresholds, authority roles and legal status cannot be established from those bodies."
+    }
+  ],
+  "already_fixed": [],
+  "notes": "Read every assigned glossary definition, checked all listed record ids exist and read cited record bodies. Registered Importer is supported by 49 CFR 592.1, 592.3, 593.1 and 593.5; GSR by Regulation 2019/2144 Articles 6-9, Article 16 and Annex II. WLTP/RDE topic matches R168; R154 and 2017/1151 have no legal body available. ISO/core-tool template bodies are not primary evidence. Currency, external links, national program numbers, and exceptions are not independently verified."
+}

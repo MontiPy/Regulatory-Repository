@@ -1,0 +1,29 @@
+{
+  "shard": "r20261006-gcc-gso-limited-01",
+  "kind": "records",
+  "items": [
+    "gcc-gso-1040-1041-1042",
+    "gcc-gso-1052-2000",
+    "gcc-gso-1053-2002",
+    "gcc-gso-1503-2002",
+    "gcc-gso-1598-2002",
+    "gcc-gso-1624-2002",
+    "gcc-gso-1677-2002",
+    "gcc-gso-1680-1685-2003",
+    "gcc-gso-1707-2005",
+    "gcc-gso-1708-2005",
+    "gcc-gso-1709-2005",
+    "gcc-gso-290-1994",
+    "gcc-gso-36-2005",
+    "gcc-gso-37-2012",
+    "gcc-gso-38-2005",
+    "gcc-gso-39-2005",
+    "gcc-gso-40-2011",
+    "gcc-gso-41-2007",
+    "gcc-gso-42-2015"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "limited",
+  "source_api": "gso"
+}

@@ -21,8 +21,9 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Multi-purpose passenger vehicles, trucks, and buses must conform to Technical
-  Standards Document No. 105 on Hydraulic and Electric Brake Systems.
+summary: Subject to section 135 of this Schedule, multi-purpose passenger vehicles,
+  trucks and buses must conform to TSD 105, Hydraulic and Electric Brake Systems,
+  with the indicator-lamp and warning-statement provisions specified in this section.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: cbee7c3c530e648993f7bbce5170ddb52c099f95
 systems:

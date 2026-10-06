@@ -1,0 +1,430 @@
+{
+  "reviewed": [
+    "cn-gb-11551-2014",
+    "cn-gb-11552",
+    "cn-gb-11555-2025",
+    "cn-gb-11562",
+    "cn-gb-11566",
+    "cn-gb-13057",
+    "cn-gb-14166-2024",
+    "cn-gb-14167-2024",
+    "cn-gb-1495-2002",
+    "cn-gb-15083-2019",
+    "cn-gb-15084-2022",
+    "cn-gb-15085-2013",
+    "cn-gb-15086-2013",
+    "cn-gb-15740",
+    "cn-gb-1589",
+    "cn-gb-16735-2019"
+  ],
+  "skipped": [
+    {
+      "id": "cn-gb-11551-2014",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11551-2014",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11551-2014",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11551-2014",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11551-2014",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11552",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11552",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11552",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11552",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11552",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11555-2025",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11555-2025",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11555-2025",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11555-2025",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11555-2025",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11562",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11562",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11562",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11562",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11562",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11566",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11566",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11566",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11566",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-11566",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-13057",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-13057",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-13057",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-13057",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-13057",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14167-2024",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14167-2024",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14167-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14167-2024",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-14167-2024",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1495-2002",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1495-2002",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1495-2002",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1495-2002",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1495-2002",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15084-2022",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15084-2022",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15084-2022",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15084-2022",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15084-2022",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15085-2013",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15085-2013",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15085-2013",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15085-2013",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15085-2013",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15740",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15740",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15740",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15740",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-15740",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-1589",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-16735-2019",
+      "field": "title/citation",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-16735-2019",
+      "field": "summary",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-16735-2019",
+      "field": "status/status_note/effective_date",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-16735-2019",
+      "field": "vehicle_categories/systems/commodities",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    },
+    {
+      "id": "cn-gb-16735-2019",
+      "field": "source_url",
+      "reason": "Skip legal validation: Chinese GB regulation text is absent; templates and stored summaries are not regulation clauses. Official SAMR curl audit denied by network policy (403). Even when metadata accessible, underlying Chinese GB text is image-only and was not reviewed."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "cn-gb-11562",
+      "field": "status",
+      "current": "upcoming with effective_date 2027-01-01; no future-date/in-force contradiction."
+    }
+  ],
+  "notes": "Read 16 complete bodies and metadata. Eight stored UN equivalents supported only by related instruments; proposed removals, no guessed substitutions. GB11551 actual full-width/offset crash type was NOT verified from a template and no crash geometry claim added. GB11552 structure/pedestrian body and GB13057 passenger-car body conflict with current instrument topics. All dates/statuses internally consistent as of 2026-10-06, which is not independent verification of official currency. None of the Chinese standards technical text verified."
+}

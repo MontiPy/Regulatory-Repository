@@ -24,17 +24,19 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: GSO-ECE 51 regulates external (pass-by) noise emissions from motor vehicles
-  in the GCC region. It requires vehicles to meet certified noise limits, with compliance
-  scope under review for final applicability determination.
-summary_generated_at: '2026-06-22T17:48:28+00:00'
-summary_hash: e3ec63bc630e8f0b43b888f9f8d5b9e2f5d52bef
+summary: Summary record for GSO-ECE 51 concerning external noise emissions. The official
+  technical requirements and GCC applicability must be checked in the standard; regulation
+  text is not available in this record.
+summary_generated_at: '2026-10-06T00:00:00+00:00'
+summary_hash: e490ef43c996559d0e66eec250bcce008a769c1c
 systems:
 - Noise
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: External Noise Emissions
 translation_status: untranslated
+un_equivalent:
+- UN R51
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -44,27 +46,4 @@ vehicle_categories:
 
 # External Noise Emissions
 
-**Regulated Area:** Emissions / energy / environmental performance
-
-**Applicability:** Pass-by noise Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Limit environmental impact and ensure vehicles meet certified emissions, fuel economy, CO2 and OBD requirements in production and use.
-
-## Primary Vehicle Systems and Components
-
-Engine/aftertreatment, OBD, evaporative system, calibration, hybrid/EV energy management, fuel economy and CO2 reporting systems.
-
-## Failure Modes and Symptoms
-
-Excess NOx/CO/HC/PM/PN or CO2, OBD monitor gaps, evaporative emissions leak, fuel economy label error, emissions recall exposure, certification failure.
-
-## Related Regulations
-
-Possible functional overlap: GCC / GSO GSO 1624:2002 - Motor Vehicles - Noise Emitted by Motor Vehicles
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

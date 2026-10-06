@@ -17,10 +17,15 @@ open_tags:
 - maximum speed
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Motor vehicles in Korea must be equipped with a speedometer meeting Article
-  110 standards and an odometer displaying total distance travelled.
+summary: Article 54 requires motor vehicles to have a speedometer meeting Article
+  110 and an odometer displaying total distance travelled. Subject to emergency-vehicle
+  and maximum-speed exceptions, speed limiters are required for vans including school
+  vans, trucks and special-purpose vehicles over 3.5 tonnes, high-pressure-gas tank
+  trucks, and low-speed electric vehicles. Limiter settings are 110 km/h for vans,
+  90 km/h for the listed trucks/special-purpose vehicles and 60 km/h for low-speed
+  electric vehicles.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7aa3c5f82c85f45b4494e4a9dcc0301be4a3287a
 systems:

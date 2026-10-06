@@ -22,9 +22,10 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.120
 status: in-force
-summary: Tire selection, rim marking, and load carrying capacity requirements for
-  motor vehicles with a GVWR over 4,536 kilograms (10,000 pounds) are covered by this
-  standard.
+summary: FMVSS No. 120 sets tire and rim selection, rim marking and motor home/recreation
+  vehicle trailer load-carrying information requirements. It applies to motor vehicles
+  over 4,536 kg GVWR and motorcycles, rims for those vehicles and their non-pneumatic
+  spare tire assemblies.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5f32b54002b48d5110d73c11939e96bc942e9366
 systems:

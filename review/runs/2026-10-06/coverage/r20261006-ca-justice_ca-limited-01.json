@@ -1,0 +1,26 @@
+{
+  "reviewed": [
+    "ca-mvsr-c-r-c---c--1038-s108-1",
+    "ca-mvsr-c-r-c---c--1038-s1106"
+  ],
+  "skipped": [
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+      "field": "source_url,current legal currency",
+      "reason": "Skip independent live consolidated law check: official source blocked; stored repeal notice supports existing withdrawn metadata."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s1106",
+      "field": "title,citation,id,summary,status,status_note,effective_date,vehicle_categories,systems,commodities",
+      "reason": "Skip instrument identity and requirements: body is only a header and generic FullText URL, which cannot establish that MVSR section 1106 exists or that VIN tags are correct. Official source blocked. Id/citation may need human investigation; no renaming guessed."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+      "field": "title,status,status_note,summary,systems,commodities,vehicle_categories",
+      "reason": "Record already labelled Repealed, withdrawn, with SOR/2018-43 s.4 note and empty tags consistent with body repeal notice."
+    }
+  ],
+  "notes": "Both complete bodies/front matter read. No active obligations guessed for empty/tag-free records. Section 1106 identity not verified; reference URL is whole instrument, not evidence for section number. No findings patchable from supplied content."
+}

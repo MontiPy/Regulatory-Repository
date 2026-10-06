@@ -1,0 +1,13 @@
+{
+  "shard": "r20261006-in-ais-limited-01",
+  "kind": "records",
+  "items": [
+    "in-ais-038-rev-2-ais-156",
+    "in-bs-vi-india-cafe-fuel-consumption",
+    "in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "limited",
+  "source_api": "ais"
+}

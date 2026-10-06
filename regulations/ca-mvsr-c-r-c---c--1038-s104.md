@@ -22,13 +22,11 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Section 104 of Canada's Motor Vehicle Safety Regulations (CMVSS 104) requires
-  every vehicle to have a power-driven windshield wiping system with at least two
-  speeds, one of at least 45 cycles per minute, a speed of at least 20 cycles per
-  minute, and at least 15 cycles per minute between the highest and a lower speed.
-  Passenger cars and three-wheeled vehicles must wipe minimum percentages of areas
-  A, B and C per SAE J903a. Every vehicle must also have a washer system meeting SAE
-  J942.
+summary: 'Requires windshield wipers with at least two speeds: one at least 45 cycles/minute,
+  a lower speed at least 20, and at least 15 between the highest and a lower speed.
+  Passenger cars and three-wheeled vehicles have minimum wiped-area requirements.
+  Washer systems meet SAE J942 with specified modifications. Three-wheeled vehicle
+  requirements apply when a windshield is fitted.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 75054a18f4a434afcb414ea915845358cd696231
 systems:

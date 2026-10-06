@@ -1,0 +1,7127 @@
+{
+  "date": "2026-10-06",
+  "records_total": 727,
+  "content_kinds": {
+    "summary": 174,
+    "full": 493,
+    "index": 15,
+    "link": 45
+  },
+  "counts": {
+    "not_regulation_text": 234,
+    "truncated_summaries": 0,
+    "empty_systems": 41,
+    "empty_commodities": 86,
+    "empty_vehicle_categories": 23,
+    "future_in_force": 0,
+    "prefix_region_mismatch": 0,
+    "title_words_absent": 121,
+    "summary_stale": 0,
+    "duplicate_citations": 2
+  },
+  "lists": {
+    "not_regulation_text": [
+      {
+        "id": "ar-workbook-reg-0624-lcm-lca",
+        "content_kind": "summary"
+      },
+      {
+        "id": "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra",
+        "content_kind": "summary"
+      },
+      {
+        "id": "asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval",
+        "content_kind": "summary"
+      },
+      {
+        "id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
+        "content_kind": "summary"
+      },
+      {
+        "id": "asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "au-f2005l03873",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2005l03996",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2006l01786",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2006l02663",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2006l02664",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2006l02665",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2006l02745",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2009l03609",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2011l02016",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2012l00703",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2018l01519",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2018l01520",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2020l01254",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2022l00213",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-f2023l01317",
+        "content_kind": "index"
+      },
+      {
+        "id": "au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019",
+        "content_kind": "summary"
+      },
+      {
+        "id": "au-workbook-reg-0371-register-of-approved-vehicles-rav",
+        "content_kind": "summary"
+      },
+      {
+        "id": "au-workbook-reg-0372-australian-road-vehicle-recall-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma",
+        "content_kind": "summary"
+      },
+      {
+        "id": "br-abnt-nbr-15145",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-anatel-cert",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-215",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-224",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-245-330",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-749",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-758",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-759",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-885",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-908",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-912",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-913",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-915",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-936",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-960",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-964",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-966",
+        "content_kind": "link"
+      },
+      {
+        "id": "br-contran-safety-labeling",
+        "content_kind": "link"
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+        "content_kind": "link"
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s1106",
+        "content_kind": "link"
+      },
+      {
+        "id": "ca-workbook-reg-0145-eccc-sor-2003-2",
+        "content_kind": "summary"
+      },
+      {
+        "id": "ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038",
+        "content_kind": "summary"
+      },
+      {
+        "id": "ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198",
+        "content_kind": "summary"
+      },
+      {
+        "id": "ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201",
+        "content_kind": "summary"
+      },
+      {
+        "id": "ca-workbook-reg-0568-sor-2010-90",
+        "content_kind": "summary"
+      },
+      {
+        "id": "ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-cnca-c11-01-2020",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-11551-2014",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-11552",
+        "content_kind": "link"
+      },
+      {
+        "id": "cn-gb-11555-2025",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-11562",
+        "content_kind": "link"
+      },
+      {
+        "id": "cn-gb-11566",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-13057",
+        "content_kind": "link"
+      },
+      {
+        "id": "cn-gb-14166-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-14167-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-1495-2002",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-15083-2019",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-15084-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-15085-2013",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-15086-2013",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-15740",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-1589",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-16735-2019",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-17675",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-18296-2019",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-18352-6-2016",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-18384-2020-gb-18384-2025",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-19578",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-20071-2025",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-20072-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-21670-2025",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-24550-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-26149",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-26572-2025",
+        "content_kind": "link"
+      },
+      {
+        "id": "cn-gb-27887-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-27999",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-34660",
+        "content_kind": "link"
+      },
+      {
+        "id": "cn-gb-38031-2025",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-4094-2016",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-44495-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-44496-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-44497",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-4599-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-4785-2019",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-5920-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-7258-2017",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-8410",
+        "content_kind": "link"
+      },
+      {
+        "id": "cn-gb-9656-2021",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-9743-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-t-18411-2018",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-t-20913-2007",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-t-30512-2014",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-t-30677-2014",
+        "content_kind": "summary"
+      },
+      {
+        "id": "cn-gb-t-34590",
+        "content_kind": "summary"
+      },
+      {
+        "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
+        "content_kind": "summary"
+      },
+      {
+        "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+        "content_kind": "summary"
+      },
+      {
+        "id": "ece-r114",
+        "content_kind": "link"
+      },
+      {
+        "id": "ece-r144",
+        "content_kind": "link"
+      },
+      {
+        "id": "ece-r154",
+        "content_kind": "link"
+      },
+      {
+        "id": "ece-r27",
+        "content_kind": "link"
+      },
+      {
+        "id": "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+        "content_kind": "summary"
+      },
+      {
+        "id": "eu-32006r1907",
+        "content_kind": "link"
+      },
+      {
+        "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-ecas-moiat-conformity-certificates",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gcc-ev-technical-regulation-draft",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1040-1041-1042",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1052-2000",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1053-2002",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1503-2002",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1598-2002",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1624-2002",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1677-2002",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1680-1685-2003",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1707-2005",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1708-2005",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-1709-2005",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-290-1994",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-36-2005",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-37-2012",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-38-2005",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-39-2005",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-40-2011",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-41-2007",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-42-2015",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-51-2007",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-52-2007",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-53-2007",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-645-646-647",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-96-1988",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-97-1988",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-98-1988",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-10",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-100",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-117",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-121",
+        "content_kind": "link"
+      },
+      {
+        "id": "gcc-gso-ece-125",
+        "content_kind": "link"
+      },
+      {
+        "id": "gcc-gso-ece-127",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-13h-1-2-3",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-13h-2012",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-14",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-141",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-155",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-156",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-16",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-21",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-26",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-30",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-43-gso-3538",
+        "content_kind": "link"
+      },
+      {
+        "id": "gcc-gso-ece-46",
+        "content_kind": "link"
+      },
+      {
+        "id": "gcc-gso-ece-48",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-51",
+        "content_kind": "link"
+      },
+      {
+        "id": "gcc-gso-ece-79",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-83-gso-ece-154",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-94",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-ece-95",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-my2027-emission-limit-implementation",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-mc-250905-2025",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-saso-2847-saso-2864-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-saso-3004-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-saso-3005-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-saso-3006-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-saso-3007-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+        "content_kind": "summary"
+      },
+      {
+        "id": "gcc-uae-s-5019-2024",
+        "content_kind": "summary"
+      },
+      {
+        "id": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "in-ais-038-rev-2-ais-156",
+        "content_kind": "summary"
+      },
+      {
+        "id": "in-bs-vi-india-cafe-fuel-consumption",
+        "content_kind": "summary"
+      },
+      {
+        "id": "in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-accelerator-control",
+        "content_kind": "link"
+      },
+      {
+        "id": "jp-srrv-audible-warning-devices",
+        "content_kind": "link"
+      },
+      {
+        "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+        "content_kind": "link"
+      },
+      {
+        "id": "jp-srrv-body-structure-and-load-path",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-brake-assist-systems",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-bumper-and-low-speed-impact-external-projections",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-controls-tell-tales-indicators-and-driver-information",
+        "content_kind": "link"
+      },
+      {
+        "id": "jp-srrv-electric-vehicle-rechargeable-energy-storage-system",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-engine-power-train-and-pedal-lever",
+        "content_kind": "link"
+      },
+      {
+        "id": "jp-srrv-exhaust-emissions-and-obd",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-fuel-system-and-fire-prevention",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-isofix-and-child-restraint-anchorages",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-japan-automobile-recycling-law",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-japan-motor-vehicle-noise-requirements",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-japan-passenger-vehicle-exhaust-emission-standards",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-japan-radio-equipment-technical-conformity-certification",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-japanese-vehicle-type-approval-type-designation-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-mlit-vehicle-recall-and-improvement-measures",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-speedometer-and-odometer",
+        "content_kind": "link"
+      },
+      {
+        "id": "jp-srrv-steering-equipment-and-steering-effort",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-tires-wheels-and-tpms",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity",
+        "content_kind": "summary"
+      },
+      {
+        "id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+        "content_kind": "link"
+      },
+      {
+        "id": "kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification",
+        "content_kind": "summary"
+      },
+      {
+        "id": "kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise",
+        "content_kind": "summary"
+      },
+      {
+        "id": "kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment",
+        "content_kind": "summary"
+      },
+      {
+        "id": "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles",
+        "content_kind": "link"
+      },
+      {
+        "id": "mx-workbook-reg-0610-nom-194-se-2021",
+        "content_kind": "summary"
+      },
+      {
+        "id": "mx-workbook-reg-0611-nom-042-semarnat-2003",
+        "content_kind": "summary"
+      },
+      {
+        "id": "mx-workbook-reg-0612-nom-163-semarnat-scfi-2023",
+        "content_kind": "summary"
+      },
+      {
+        "id": "nz-workbook-reg-0628-land-transport-rules-approved-standards",
+        "content_kind": "summary"
+      },
+      {
+        "id": "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0546-directive-2011-65-eu-rohs",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0641-iatf-16949",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0642-iso-9001",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0643-iso-26262",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0644-iso-21448",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0645-iso-sae-21434",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0646-iso-24089",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0647-automotive-spice-aspice",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0648-iso-6469-series",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0650-iso-22628",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+        "content_kind": "summary"
+      },
+      {
+        "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+        "content_kind": "summary"
+      },
+      {
+        "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+        "content_kind": "summary"
+      },
+      {
+        "id": "tw-vehicle-safety-type-approval-dgst",
+        "content_kind": "summary"
+      },
+      {
+        "id": "us-stub-california-proposition-65",
+        "content_kind": "summary"
+      },
+      {
+        "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+        "content_kind": "summary"
+      },
+      {
+        "id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+        "content_kind": "summary"
+      },
+      {
+        "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+        "content_kind": "summary"
+      },
+      {
+        "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+        "content_kind": "summary"
+      },
+      {
+        "id": "us-workbook-reg-0451-49-cfr-part-575",
+        "content_kind": "link"
+      },
+      {
+        "id": "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+        "content_kind": "summary"
+      },
+      {
+        "id": "za-workbook-reg-0623-vc-8056",
+        "content_kind": "summary"
+      }
+    ],
+    "truncated_summaries": [],
+    "empty_systems": [
+      "au-f2006l01431",
+      "au-f2007l02226",
+      "au-f2012l01123",
+      "au-workbook-reg-0372-australian-road-vehicle-recall-framework",
+      "ca-mvsr-c-r-c---c--1038-s108-1",
+      "ca-mvsr-c-r-c---c--1038-s1106",
+      "ca-mvsr-c-r-c---c--1038-s2",
+      "cn-cnca-c11-01-2020",
+      "ece-r0",
+      "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "eu-32018r0858",
+      "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+      "gcc-gso-290-1994",
+      "jp-jvsregs-art1",
+      "jp-jvsregs-art14",
+      "jp-jvsregs-art26",
+      "jp-jvsregs-art5",
+      "jp-srrv-engine-power-train-and-pedal-lever",
+      "jp-srrv-mlit-vehicle-recall-and-improvement-measures",
+      "kr-kmvss-art3",
+      "kr-kmvss-art31",
+      "kr-kmvss-art5",
+      "other-workbook-reg-0641-iatf-16949",
+      "other-workbook-reg-0642-iso-9001",
+      "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+      "us-cfr-part-523",
+      "us-cfr-part-536",
+      "us-cfr-part-537",
+      "us-cfr-part-551",
+      "us-cfr-part-554",
+      "us-cfr-part-556",
+      "us-cfr-part-557",
+      "us-cfr-part-573",
+      "us-cfr-part-576",
+      "us-cfr-part-577",
+      "us-cfr-part-578",
+      "us-cfr-part-583",
+      "us-cfr-part-592",
+      "us-cfr-part-593",
+      "us-cfr-part-594",
+      "us-fmvss-403"
+    ],
+    "empty_commodities": [
+      "ar-workbook-reg-0624-lcm-lca",
+      "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra",
+      "asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework",
+      "asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework",
+      "au-f2006l01392",
+      "au-f2006l01431",
+      "au-f2006l01785",
+      "au-f2006l01786",
+      "au-f2006l02301",
+      "au-f2012l01123",
+      "au-f2020l01254",
+      "au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019",
+      "au-workbook-reg-0371-register-of-approved-vehicles-rav",
+      "au-workbook-reg-0372-australian-road-vehicle-recall-framework",
+      "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024",
+      "br-contran-37",
+      "br-contran-safety-labeling",
+      "br-senatran-990",
+      "ca-mvsr-c-r-c---c--1038-s108-1",
+      "ca-mvsr-c-r-c---c--1038-s1106",
+      "ca-mvsr-c-r-c---c--1038-s2",
+      "ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038",
+      "cn-cnca-c11-01-2020",
+      "cn-gb-1589",
+      "cn-gb-7258-2017",
+      "cn-gb-t-18411-2018",
+      "eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "ece-r0",
+      "ece-r27",
+      "ece-r39",
+      "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "eu-32006r1907",
+      "eu-32018r0858",
+      "gcc-ecas-moiat-conformity-certificates",
+      "gcc-gso-290-1994",
+      "gcc-gso-42-2015",
+      "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+      "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+      "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+      "jp-jvsregs-art1",
+      "jp-jvsregs-art5",
+      "jp-srrv-japanese-vehicle-type-approval-type-designation-framework",
+      "jp-srrv-mlit-vehicle-recall-and-improvement-measures",
+      "jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity",
+      "kr-kmvss-art110",
+      "kr-kmvss-art3",
+      "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles",
+      "nz-workbook-reg-0628-land-transport-rules-approved-standards",
+      "other-workbook-reg-0641-iatf-16949",
+      "other-workbook-reg-0642-iso-9001",
+      "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+      "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+      "tw-vehicle-safety-type-approval-dgst",
+      "us-cfr-part-523",
+      "us-cfr-part-529",
+      "us-cfr-part-536",
+      "us-cfr-part-537",
+      "us-cfr-part-542",
+      "us-cfr-part-545",
+      "us-cfr-part-551",
+      "us-cfr-part-554",
+      "us-cfr-part-556",
+      "us-cfr-part-557",
+      "us-cfr-part-565",
+      "us-cfr-part-566",
+      "us-cfr-part-567",
+      "us-cfr-part-568",
+      "us-cfr-part-573",
+      "us-cfr-part-576",
+      "us-cfr-part-577",
+      "us-cfr-part-578",
+      "us-cfr-part-580",
+      "us-cfr-part-582",
+      "us-cfr-part-583",
+      "us-cfr-part-592",
+      "us-cfr-part-593",
+      "us-cfr-part-594",
+      "us-cfr-part-596",
+      "us-cfr575-105",
+      "us-cfr575-301",
+      "us-cfr575-302",
+      "us-cfr575-401",
+      "us-fmvss-125",
+      "us-fmvss-218",
+      "us-fmvss-403",
+      "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series"
+    ],
+    "empty_vehicle_categories": [
+      "br-anatel-cert",
+      "ca-mvsr-c-r-c---c--1038-s108-1",
+      "ca-mvsr-c-r-c---c--1038-s1106",
+      "ca-mvsr-c-r-c---c--1038-s2",
+      "ca-mvsr-c-r-c---c--1038-s213-4",
+      "eu-32006l0066",
+      "eu-32006r1907",
+      "eu-32014l0053",
+      "eu-32024r0573",
+      "other-workbook-reg-0546-directive-2011-65-eu-rohs",
+      "other-workbook-reg-0642-iso-9001",
+      "other-workbook-reg-0645-iso-sae-21434",
+      "other-workbook-reg-0647-automotive-spice-aspice",
+      "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+      "us-40cfr-part-82",
+      "us-47cfr-part-15",
+      "us-cfr-part-551",
+      "us-cfr-part-554",
+      "us-cfr-part-557",
+      "us-cfr-part-576",
+      "us-cfr-part-592",
+      "us-cfr-part-594",
+      "us-fmvss-500"
+    ],
+    "future_in_force": [],
+    "prefix_region_mismatch": [],
+    "title_words_absent": [
+      {
+        "id": "au-f2005l03990",
+        "absent_words": [
+          "offset"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "au-f2006l02312",
+        "absent_words": [
+          "omnibuses",
+          "padding",
+          "strength"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s101",
+        "absent_words": [
+          "displays"
+        ],
+        "total_title_words": 2
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s102",
+        "absent_words": [
+          "systems"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s113",
+        "absent_words": [
+          "systems"
+        ],
+        "total_title_words": 2
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s2",
+        "absent_words": [
+          "definitions",
+          "interpretation"
+        ],
+        "total_title_words": 2
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s201",
+        "absent_words": [
+          "occupant"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s208",
+        "absent_words": [
+          "installation"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "ca-mvsr-c-r-c---c--1038-s210-2",
+        "absent_words": [
+          "isofix",
+          "latch"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "cn-gb-11555-2025",
+        "absent_words": [
+          "specification",
+          "technical"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "cn-gb-14167-2024",
+        "absent_words": [
+          "driven",
+          "power"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "cn-gb-15085-2013",
+        "absent_words": [
+          "windscreen"
+        ],
+        "total_title_words": 9
+      },
+      {
+        "id": "cn-gb-15086-2013",
+        "absent_words": [
+          "methods",
+          "performance",
+          "requirements"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "cn-gb-15740",
+        "absent_words": [
+          "device",
+          "protective"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "cn-gb-1589",
+        "absent_words": [
+          "combination",
+          "motor",
+          "trailers",
+          "vehicles"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "cn-gb-17675",
+        "absent_words": [
+          "basic",
+          "requirements"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "cn-gb-20072-2024",
+        "absent_words": [
+          "safety"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "cn-gb-26149",
+        "absent_words": [
+          "methods",
+          "performance",
+          "requirements"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "cn-gb-27887-2024",
+        "absent_words": [
+          "driven",
+          "power"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "cn-gb-27999",
+        "absent_words": [
+          "targets"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "cn-gb-44496-2024",
+        "absent_words": [
+          "general"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "cn-gb-44497",
+        "absent_words": [
+          "recording"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "cn-gb-4785-2019",
+        "absent_words": [
+          "their",
+          "trailers"
+        ],
+        "total_title_words": 11
+      },
+      {
+        "id": "cn-gb-t-30677-2014",
+        "absent_words": [
+          "testing"
+        ],
+        "total_title_words": 10
+      },
+      {
+        "id": "cn-gb-t-34590",
+        "absent_words": [
+          "guideline"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "ece-r114",
+        "absent_words": [
+          "modules",
+          "replacement",
+          "steering",
+          "wheels"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "ece-r116",
+        "absent_words": [
+          "unauthorized"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "ece-r148",
+        "absent_words": [
+          "headlamps"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "ece-r158",
+        "absent_words": [
+          "technology"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "ece-r162",
+        "absent_words": [
+          "immobilisers"
+        ],
+        "total_title_words": 2
+      },
+      {
+        "id": "ece-r30",
+        "absent_words": [
+          "passenger"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "ece-r37",
+        "absent_words": [
+          "sources"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "eu-32006r1907",
+        "absent_words": [
+          "authorisation",
+          "chemicals",
+          "evaluation",
+          "reach",
+          "registration",
+          "regulation",
+          "restriction"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "gcc-gso-1707-2005",
+        "absent_words": [
+          "methods",
+          "strength"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "gcc-gso-1708-2005",
+        "absent_words": [
+          "methods",
+          "strength"
+        ],
+        "total_title_words": 9
+      },
+      {
+        "id": "gcc-gso-290-1994",
+        "absent_words": [
+          "appliances",
+          "instruments"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "in-ais-038-rev-2-ais-156",
+        "absent_words": [
+          "categories",
+          "reess"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "kr-kmvss-art10",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art102-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art102-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "kr-kmvss-art102-4",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art102",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art103-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art103",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art104",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art105",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art107",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art108-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art109",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art11",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art110",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art111-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "kr-kmvss-art111-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 9
+      },
+      {
+        "id": "kr-kmvss-art111",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art112-11",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art112-14",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art112-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art112-4",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art112-7",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art12-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art12",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art13",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art14-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art14",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art15-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art15-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art15",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art17",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art18-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art18-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art18-4",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art18-5",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art18-6",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 9
+      },
+      {
+        "id": "kr-kmvss-art18",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art19",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art21",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art22",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art24",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art25",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art26",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art27-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art27",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art30",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art31",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art34",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art35",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art36",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art38",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art39",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art4",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art5",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art50",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art53-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art53-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art53-4",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art53",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 2
+      },
+      {
+        "id": "kr-kmvss-art54",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art56-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art56",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art6",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art7",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art8",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art87",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art89-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art9",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 5
+      },
+      {
+        "id": "kr-kmvss-art90-2",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "kr-kmvss-art90-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "kr-kmvss-art90",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art91-3",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "kr-kmvss-art91",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "kr-kmvss-art92",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art93",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "kr-kmvss-art94",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 4
+      },
+      {
+        "id": "kr-kmvss-art95",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art97",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 6
+      },
+      {
+        "id": "kr-kmvss-art99",
+        "absent_words": [
+          "kmvss"
+        ],
+        "total_title_words": 3
+      },
+      {
+        "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+        "absent_words": [
+          "martoy",
+          "motor",
+          "surveillance",
+          "their",
+          "trailers"
+        ],
+        "total_title_words": 9
+      },
+      {
+        "id": "tw-vehicle-safety-type-approval-dgst",
+        "absent_words": [
+          "management"
+        ],
+        "total_title_words": 8
+      },
+      {
+        "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+        "absent_words": [
+          "frank",
+          "instruments",
+          "separate"
+        ],
+        "total_title_words": 7
+      },
+      {
+        "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+        "absent_words": [
+          "motor"
+        ],
+        "total_title_words": 4
+      }
+    ],
+    "summary_stale": [],
+    "duplicate_citations": [
+      {
+        "citation": "sor/2010-90",
+        "ids": [
+          "ca-mvsr-sor-2010-90",
+          "ca-workbook-reg-0568-sor-2010-90"
+        ]
+      },
+      {
+        "citation": "srrv / trias",
+        "ids": [
+          "jp-srrv-accelerator-control",
+          "jp-srrv-body-structure-and-load-path",
+          "jp-srrv-bumper-and-low-speed-impact-external-projections",
+          "jp-srrv-controls-tell-tales-indicators-and-driver-information",
+          "jp-srrv-exhaust-emissions-and-obd",
+          "jp-srrv-fuel-system-and-fire-prevention",
+          "jp-srrv-speedometer-and-odometer",
+          "jp-srrv-steering-equipment-and-steering-effort",
+          "jp-srrv-tires-wheels-and-tpms",
+          "jp-srrv-windshield-wiping-washing-defrosting-and-defogging"
+        ]
+      }
+    ]
+  },
+  "records": [
+    {
+      "id": "ar-workbook-reg-0624-lcm-lca",
+      "region": "AR",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1159
+    },
+    {
+      "id": "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra",
+      "region": "ASEAN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1123
+    },
+    {
+      "id": "asean-workbook-reg-0616-thailand-tis-dlt-vehicle-type-approval-framework",
+      "region": "ASEAN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1103
+    },
+    {
+      "id": "asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework",
+      "region": "ASEAN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1087
+    },
+    {
+      "id": "asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval",
+      "region": "ASEAN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1163
+    },
+    {
+      "id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
+      "region": "ASEAN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1130
+    },
+    {
+      "id": "asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework",
+      "region": "ASEAN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1237
+    },
+    {
+      "id": "au-f2005l03523",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 217328
+    },
+    {
+      "id": "au-f2005l03873",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 3499
+    },
+    {
+      "id": "au-f2005l03907",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 65368
+    },
+    {
+      "id": "au-f2005l03908",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 192979
+    },
+    {
+      "id": "au-f2005l03990",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 86214
+    },
+    {
+      "id": "au-f2005l03991",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 298677
+    },
+    {
+      "id": "au-f2005l03996",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 2075
+    },
+    {
+      "id": "au-f2005l04012",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 111129
+    },
+    {
+      "id": "au-f2006l01279",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 26492
+    },
+    {
+      "id": "au-f2006l01280",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 125835
+    },
+    {
+      "id": "au-f2006l01362",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 72331
+    },
+    {
+      "id": "au-f2006l01392",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 25247
+    },
+    {
+      "id": "au-f2006l01410",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 10752
+    },
+    {
+      "id": "au-f2006l01429",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 11805
+    },
+    {
+      "id": "au-f2006l01430",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 28625
+    },
+    {
+      "id": "au-f2006l01431",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 31234
+    },
+    {
+      "id": "au-f2006l01433",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 7344
+    },
+    {
+      "id": "au-f2006l01440",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 68665
+    },
+    {
+      "id": "au-f2006l01442",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 39449
+    },
+    {
+      "id": "au-f2006l01450",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 31826
+    },
+    {
+      "id": "au-f2006l01455",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 40988
+    },
+    {
+      "id": "au-f2006l01785",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 12356
+    },
+    {
+      "id": "au-f2006l01786",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 2540
+    },
+    {
+      "id": "au-f2006l02294",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 202800
+    },
+    {
+      "id": "au-f2006l02296",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 135497
+    },
+    {
+      "id": "au-f2006l02297",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 13292
+    },
+    {
+      "id": "au-f2006l02298",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 6677
+    },
+    {
+      "id": "au-f2006l02299",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 7676
+    },
+    {
+      "id": "au-f2006l02300",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 9643
+    },
+    {
+      "id": "au-f2006l02301",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 16659
+    },
+    {
+      "id": "au-f2006l02302",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 74772
+    },
+    {
+      "id": "au-f2006l02303",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 37597
+    },
+    {
+      "id": "au-f2006l02304",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 35832
+    },
+    {
+      "id": "au-f2006l02305",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 102723
+    },
+    {
+      "id": "au-f2006l02306",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 52514
+    },
+    {
+      "id": "au-f2006l02307",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 40074
+    },
+    {
+      "id": "au-f2006l02308",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 59346
+    },
+    {
+      "id": "au-f2006l02310",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 80055
+    },
+    {
+      "id": "au-f2006l02312",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 23027
+    },
+    {
+      "id": "au-f2006l02663",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 2068
+    },
+    {
+      "id": "au-f2006l02664",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 2062
+    },
+    {
+      "id": "au-f2006l02665",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 2068
+    },
+    {
+      "id": "au-f2006l02729",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 33293
+    },
+    {
+      "id": "au-f2006l02732",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 54976
+    },
+    {
+      "id": "au-f2006l02745",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 2125
+    },
+    {
+      "id": "au-f2006l03254",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 202506
+    },
+    {
+      "id": "au-f2007l02226",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 3231
+    },
+    {
+      "id": "au-f2007l04077",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 115297
+    },
+    {
+      "id": "au-f2008l02387",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 86586
+    },
+    {
+      "id": "au-f2009l03609",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1643
+    },
+    {
+      "id": "au-f2011l02016",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1778
+    },
+    {
+      "id": "au-f2012l00703",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 3344
+    },
+    {
+      "id": "au-f2012l01123",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 1648
+    },
+    {
+      "id": "au-f2015l02109",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 105106
+    },
+    {
+      "id": "au-f2017l01214",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 159982
+    },
+    {
+      "id": "au-f2017l01221",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 41367
+    },
+    {
+      "id": "au-f2017l01229",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 61922
+    },
+    {
+      "id": "au-f2017l01344",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 89722
+    },
+    {
+      "id": "au-f2017l01351",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 39315
+    },
+    {
+      "id": "au-f2017l01484",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 47405
+    },
+    {
+      "id": "au-f2017l01497",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 50802
+    },
+    {
+      "id": "au-f2017l01554",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 88419
+    },
+    {
+      "id": "au-f2018l00692",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 85681
+    },
+    {
+      "id": "au-f2018l01513",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 65935
+    },
+    {
+      "id": "au-f2018l01515",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 108524
+    },
+    {
+      "id": "au-f2018l01516",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 43614
+    },
+    {
+      "id": "au-f2018l01517",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 28918
+    },
+    {
+      "id": "au-f2018l01518",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 63723
+    },
+    {
+      "id": "au-f2018l01519",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1917
+    },
+    {
+      "id": "au-f2018l01520",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1631
+    },
+    {
+      "id": "au-f2018l01521",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 23650
+    },
+    {
+      "id": "au-f2019l00026",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 73170
+    },
+    {
+      "id": "au-f2019l00029",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 85022
+    },
+    {
+      "id": "au-f2020l01254",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1941
+    },
+    {
+      "id": "au-f2022l00211",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 68668
+    },
+    {
+      "id": "au-f2022l00213",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1232
+    },
+    {
+      "id": "au-f2023l00129",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 13361
+    },
+    {
+      "id": "au-f2023l01006",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 93242
+    },
+    {
+      "id": "au-f2023l01317",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "index",
+      "body_chars": 1195
+    },
+    {
+      "id": "au-f2023l01319",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 201742
+    },
+    {
+      "id": "au-f2023l01321",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 73489
+    },
+    {
+      "id": "au-f2023l01526",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 206556
+    },
+    {
+      "id": "au-f2023l01530",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 133515
+    },
+    {
+      "id": "au-f2024l00089",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 81743
+    },
+    {
+      "id": "au-f2024l00161",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 57659
+    },
+    {
+      "id": "au-f2024l00443",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 190530
+    },
+    {
+      "id": "au-f2024l00446",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 1382044
+    },
+    {
+      "id": "au-f2024l00447",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 268122
+    },
+    {
+      "id": "au-f2024l01742",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 56854
+    },
+    {
+      "id": "au-f2025l00028",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 147152
+    },
+    {
+      "id": "au-f2025l01402",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 32968
+    },
+    {
+      "id": "au-f2026l00278",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 74695
+    },
+    {
+      "id": "au-f2026l00284",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 118435
+    },
+    {
+      "id": "au-f2026l00512",
+      "region": "AU",
+      "source_api": "au_legislation",
+      "content_kind": "full",
+      "body_chars": 259808
+    },
+    {
+      "id": "au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019",
+      "region": "AU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1130
+    },
+    {
+      "id": "au-workbook-reg-0371-register-of-approved-vehicles-rav",
+      "region": "AU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 972
+    },
+    {
+      "id": "au-workbook-reg-0372-australian-road-vehicle-recall-framework",
+      "region": "AU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1098
+    },
+    {
+      "id": "au-workbook-reg-0604-new-vehicle-efficiency-standard-act-2024",
+      "region": "AU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 993
+    },
+    {
+      "id": "au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma",
+      "region": "AU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1060
+    },
+    {
+      "id": "br-abnt-nbr-15145",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 396
+    },
+    {
+      "id": "br-anatel-cert",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 332
+    },
+    {
+      "id": "br-conama-492",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 39047
+    },
+    {
+      "id": "br-contran-215",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 176
+    },
+    {
+      "id": "br-contran-224",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 409
+    },
+    {
+      "id": "br-contran-245-330",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 438
+    },
+    {
+      "id": "br-contran-37",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 4614
+    },
+    {
+      "id": "br-contran-498",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 17323
+    },
+    {
+      "id": "br-contran-749",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 452
+    },
+    {
+      "id": "br-contran-758",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 417
+    },
+    {
+      "id": "br-contran-759",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 412
+    },
+    {
+      "id": "br-contran-764",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 15748
+    },
+    {
+      "id": "br-contran-885",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 424
+    },
+    {
+      "id": "br-contran-908",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 429
+    },
+    {
+      "id": "br-contran-910",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 53409
+    },
+    {
+      "id": "br-contran-912",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 401
+    },
+    {
+      "id": "br-contran-913",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 394
+    },
+    {
+      "id": "br-contran-915",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 420
+    },
+    {
+      "id": "br-contran-924",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 137132
+    },
+    {
+      "id": "br-contran-936",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 400
+    },
+    {
+      "id": "br-contran-949",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 6597
+    },
+    {
+      "id": "br-contran-951",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 3924
+    },
+    {
+      "id": "br-contran-954",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 11321
+    },
+    {
+      "id": "br-contran-960",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 430
+    },
+    {
+      "id": "br-contran-964",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 423
+    },
+    {
+      "id": "br-contran-966",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 399
+    },
+    {
+      "id": "br-contran-970",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 22214
+    },
+    {
+      "id": "br-contran-safety-labeling",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "link",
+      "body_chars": 413
+    },
+    {
+      "id": "br-ibama-in-3",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 32857
+    },
+    {
+      "id": "br-mover-rota-2030",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 18637
+    },
+    {
+      "id": "br-senatran-990",
+      "region": "BR",
+      "source_api": "brazil",
+      "content_kind": "full",
+      "body_chars": 63891
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s101",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 14007
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s102",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 3129
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s103",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 3595
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s104",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 5830
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s105",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1164
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s106",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1919
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s108-1",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "link",
+      "body_chars": 34
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s108",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 19145
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s110",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 4864
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s1106",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "link",
+      "body_chars": 128
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s111",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 22537
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s113",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 561
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s114",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 8573
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s115",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 10171
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s116",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 2386
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s118",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 781
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s120",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 2236
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s121",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 2210
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s124",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 342
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s126",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1364
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s131",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 2060
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s135",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1221
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s141",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1246
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s2",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 59602
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s201",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 10258
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s202",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 432
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s203",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1591
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s204",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 945
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s205",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 3849
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s206",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1173
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s207",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 629
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s208",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 15990
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s209",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 3250
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210-1",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 16530
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210-2",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 22013
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1349
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s212",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 878
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s213-4",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 13298
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s214",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 4050
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s215",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1079
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s216",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1152
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s219",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 768
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s226",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 4422
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s301-1",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 4317
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s301-2",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 5347
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s301",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 863
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s302",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 396
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s305",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 1229
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s401",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 615
+    },
+    {
+      "id": "ca-mvsr-sor-2003-2",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 125782
+    },
+    {
+      "id": "ca-mvsr-sor-2010-201",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 141882
+    },
+    {
+      "id": "ca-mvsr-sor-2010-90",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 142761
+    },
+    {
+      "id": "ca-mvsr-sor-2013-198",
+      "region": "CA",
+      "source_api": "justice_ca",
+      "content_kind": "full",
+      "body_chars": 48284
+    },
+    {
+      "id": "ca-workbook-reg-0145-eccc-sor-2003-2",
+      "region": "CA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1241
+    },
+    {
+      "id": "ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038",
+      "region": "CA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1188
+    },
+    {
+      "id": "ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198",
+      "region": "CA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1051
+    },
+    {
+      "id": "ca-workbook-reg-0360-passenger-automobile-and-light-truck-greenhouse-gas-emission-regulations-sor-201",
+      "region": "CA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1028
+    },
+    {
+      "id": "ca-workbook-reg-0568-sor-2010-90",
+      "region": "CA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1031
+    },
+    {
+      "id": "ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices",
+      "region": "CA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1002
+    },
+    {
+      "id": "cn-china-srrc-miit-radio-transmission-equipment-type-approval",
+      "region": "CN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1156
+    },
+    {
+      "id": "cn-cnca-c11-01-2020",
+      "region": "CN",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1135
+    },
+    {
+      "id": "cn-gb-11551-2014",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1085
+    },
+    {
+      "id": "cn-gb-11552",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "link",
+      "body_chars": 160
+    },
+    {
+      "id": "cn-gb-11555-2025",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 957
+    },
+    {
+      "id": "cn-gb-11562",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "link",
+      "body_chars": 212
+    },
+    {
+      "id": "cn-gb-11566",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1112
+    },
+    {
+      "id": "cn-gb-13057",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "link",
+      "body_chars": 169
+    },
+    {
+      "id": "cn-gb-14166-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1043
+    },
+    {
+      "id": "cn-gb-14167-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1030
+    },
+    {
+      "id": "cn-gb-1495-2002",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1005
+    },
+    {
+      "id": "cn-gb-15083-2019",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1028
+    },
+    {
+      "id": "cn-gb-15084-2022",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1028
+    },
+    {
+      "id": "cn-gb-15085-2013",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 954
+    },
+    {
+      "id": "cn-gb-15086-2013",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1010
+    },
+    {
+      "id": "cn-gb-15740",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 920
+    },
+    {
+      "id": "cn-gb-1589",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1053
+    },
+    {
+      "id": "cn-gb-16735-2019",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 932
+    },
+    {
+      "id": "cn-gb-17675",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1087
+    },
+    {
+      "id": "cn-gb-18296-2019",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 975
+    },
+    {
+      "id": "cn-gb-18352-6-2016",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1096
+    },
+    {
+      "id": "cn-gb-18384-2020-gb-18384-2025",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1119
+    },
+    {
+      "id": "cn-gb-19578",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1170
+    },
+    {
+      "id": "cn-gb-20071-2025",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1072
+    },
+    {
+      "id": "cn-gb-20072-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1045
+    },
+    {
+      "id": "cn-gb-21670-2025",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1076
+    },
+    {
+      "id": "cn-gb-24550-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1006
+    },
+    {
+      "id": "cn-gb-26149",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 989
+    },
+    {
+      "id": "cn-gb-26572-2025",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "link",
+      "body_chars": 215
+    },
+    {
+      "id": "cn-gb-27887-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1054
+    },
+    {
+      "id": "cn-gb-27999",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1181
+    },
+    {
+      "id": "cn-gb-34660",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "link",
+      "body_chars": 198
+    },
+    {
+      "id": "cn-gb-38031-2025",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1126
+    },
+    {
+      "id": "cn-gb-4094-2016",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 946
+    },
+    {
+      "id": "cn-gb-44495-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1056
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1080
+    },
+    {
+      "id": "cn-gb-44497",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1200
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1024
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1055
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1032
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1094
+    },
+    {
+      "id": "cn-gb-8410",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "link",
+      "body_chars": 167
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1045
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 939
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1072
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1057
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1024
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1104
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "region": "CN",
+      "source_api": "china",
+      "content_kind": "summary",
+      "body_chars": 1073
+    },
+    {
+      "id": "eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "region": "EAEU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1124
+    },
+    {
+      "id": "eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "region": "EAEU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1048
+    },
+    {
+      "id": "ece-r0",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 64776
+    },
+    {
+      "id": "ece-r10",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 286265
+    },
+    {
+      "id": "ece-r100",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 284705
+    },
+    {
+      "id": "ece-r101",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 200014
+    },
+    {
+      "id": "ece-r11",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 60005
+    },
+    {
+      "id": "ece-r112",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 146229
+    },
+    {
+      "id": "ece-r113",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 151151
+    },
+    {
+      "id": "ece-r114",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "link",
+      "body_chars": 191
+    },
+    {
+      "id": "ece-r116",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 125257
+    },
+    {
+      "id": "ece-r117",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 575142
+    },
+    {
+      "id": "ece-r119",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 46187
+    },
+    {
+      "id": "ece-r12",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 95669
+    },
+    {
+      "id": "ece-r121",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 36703
+    },
+    {
+      "id": "ece-r123",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 176442
+    },
+    {
+      "id": "ece-r125",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 47824
+    },
+    {
+      "id": "ece-r127",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 125053
+    },
+    {
+      "id": "ece-r128",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 45158
+    },
+    {
+      "id": "ece-r129",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 375422
+    },
+    {
+      "id": "ece-r13-h",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 229780
+    },
+    {
+      "id": "ece-r13",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 766089
+    },
+    {
+      "id": "ece-r135",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 101442
+    },
+    {
+      "id": "ece-r137",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 108508
+    },
+    {
+      "id": "ece-r138",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 63987
+    },
+    {
+      "id": "ece-r139",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 37478
+    },
+    {
+      "id": "ece-r14",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 78781
+    },
+    {
+      "id": "ece-r140",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 57202
+    },
+    {
+      "id": "ece-r141",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 81760
+    },
+    {
+      "id": "ece-r142",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 45366
+    },
+    {
+      "id": "ece-r144",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "link",
+      "body_chars": 208
+    },
+    {
+      "id": "ece-r145",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 83468
+    },
+    {
+      "id": "ece-r148",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 124677
+    },
+    {
+      "id": "ece-r149",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 355757
+    },
+    {
+      "id": "ece-r150",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 227446
+    },
+    {
+      "id": "ece-r152",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 106347
+    },
+    {
+      "id": "ece-r153",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 71632
+    },
+    {
+      "id": "ece-r154",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "link",
+      "body_chars": 219
+    },
+    {
+      "id": "ece-r155",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 78407
+    },
+    {
+      "id": "ece-r156",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 36734
+    },
+    {
+      "id": "ece-r157",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 142057
+    },
+    {
+      "id": "ece-r158",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 88425
+    },
+    {
+      "id": "ece-r159",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 56567
+    },
+    {
+      "id": "ece-r16",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 222280
+    },
+    {
+      "id": "ece-r160",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 55005
+    },
+    {
+      "id": "ece-r161",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 54773
+    },
+    {
+      "id": "ece-r162",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 54732
+    },
+    {
+      "id": "ece-r163",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 76603
+    },
+    {
+      "id": "ece-r168",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 249551
+    },
+    {
+      "id": "ece-r17",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 161431
+    },
+    {
+      "id": "ece-r19",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 149374
+    },
+    {
+      "id": "ece-r21",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 101101
+    },
+    {
+      "id": "ece-r23",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 47037
+    },
+    {
+      "id": "ece-r25",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 45942
+    },
+    {
+      "id": "ece-r26",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 55707
+    },
+    {
+      "id": "ece-r27",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "link",
+      "body_chars": 192
+    },
+    {
+      "id": "ece-r28",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 37623
+    },
+    {
+      "id": "ece-r3",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 74664
+    },
+    {
+      "id": "ece-r30",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 64832
+    },
+    {
+      "id": "ece-r34",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 57214
+    },
+    {
+      "id": "ece-r37",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 306968
+    },
+    {
+      "id": "ece-r38",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 48604
+    },
+    {
+      "id": "ece-r39",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 38623
+    },
+    {
+      "id": "ece-r4",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 47391
+    },
+    {
+      "id": "ece-r43",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 282793
+    },
+    {
+      "id": "ece-r44",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 289498
+    },
+    {
+      "id": "ece-r45",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 44834
+    },
+    {
+      "id": "ece-r46",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 126242
+    },
+    {
+      "id": "ece-r48",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 320625
+    },
+    {
+      "id": "ece-r51",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 154470
+    },
+    {
+      "id": "ece-r54",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 76850
+    },
+    {
+      "id": "ece-r55",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 178177
+    },
+    {
+      "id": "ece-r6",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 79051
+    },
+    {
+      "id": "ece-r64",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 63339
+    },
+    {
+      "id": "ece-r7",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 77189
+    },
+    {
+      "id": "ece-r77",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 49574
+    },
+    {
+      "id": "ece-r79",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 250523
+    },
+    {
+      "id": "ece-r83",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 309106
+    },
+    {
+      "id": "ece-r85",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 94019
+    },
+    {
+      "id": "ece-r87",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 46399
+    },
+    {
+      "id": "ece-r89",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 71299
+    },
+    {
+      "id": "ece-r90",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 267978
+    },
+    {
+      "id": "ece-r91",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 54804
+    },
+    {
+      "id": "ece-r94",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 151858
+    },
+    {
+      "id": "ece-r95",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 168340
+    },
+    {
+      "id": "ece-r98",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 142004
+    },
+    {
+      "id": "ece-r99",
+      "region": "ECE",
+      "source_api": "unece",
+      "content_kind": "full",
+      "body_chars": 40455
+    },
+    {
+      "id": "ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "region": "ECE",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1098
+    },
+    {
+      "id": "eu-32000l0053",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 37562
+    },
+    {
+      "id": "eu-32006l0040",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 27374
+    },
+    {
+      "id": "eu-32006l0066",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 57834
+    },
+    {
+      "id": "eu-32006r1907",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "link",
+      "body_chars": 965
+    },
+    {
+      "id": "eu-32007r0715",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 67130
+    },
+    {
+      "id": "eu-32009r0078",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 75687
+    },
+    {
+      "id": "eu-32009r0661",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 93134
+    },
+    {
+      "id": "eu-32014l0053",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 142040
+    },
+    {
+      "id": "eu-32014r0540",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 168552
+    },
+    {
+      "id": "eu-32017r1151",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 1522186
+    },
+    {
+      "id": "eu-32018r0858",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 642441
+    },
+    {
+      "id": "eu-32018r0985",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 50599
+    },
+    {
+      "id": "eu-32019r0631",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 139767
+    },
+    {
+      "id": "eu-32019r2144",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 147479
+    },
+    {
+      "id": "eu-32021r0535",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 500213
+    },
+    {
+      "id": "eu-32021r0646",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 71769
+    },
+    {
+      "id": "eu-32021r1341",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 50374
+    },
+    {
+      "id": "eu-32021r1958",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 197027
+    },
+    {
+      "id": "eu-32022r0545",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 17808
+    },
+    {
+      "id": "eu-32022r1426",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 193107
+    },
+    {
+      "id": "eu-32023r1542",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 464861
+    },
+    {
+      "id": "eu-32023r2590",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 50845
+    },
+    {
+      "id": "eu-32024r0573",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 243628
+    },
+    {
+      "id": "eu-32024r1257",
+      "region": "EU",
+      "source_api": "eurlex",
+      "content_kind": "full",
+      "body_chars": 143464
+    },
+    {
+      "id": "eu-workbook-reg-0637-directive-eu-2022-2464-directive-eu-2024-1760-regulation-eu-2023-956",
+      "region": "EU",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1086
+    },
+    {
+      "id": "gcc-ecas-moiat-conformity-certificates",
+      "region": "GCC",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1146
+    },
+    {
+      "id": "gcc-gcc-ev-technical-regulation-draft",
+      "region": "GCC",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 978
+    },
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1029
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 931
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1038
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1000
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1003
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 937
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 976
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1090
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 986
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 998
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1066
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 920
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1050
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1002
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1054
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1012
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1028
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1031
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1089
+    },
+    {
+      "id": "gcc-gso-51-2007",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1014
+    },
+    {
+      "id": "gcc-gso-52-2007",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 945
+    },
+    {
+      "id": "gcc-gso-53-2007",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 920
+    },
+    {
+      "id": "gcc-gso-645-646-647",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 941
+    },
+    {
+      "id": "gcc-gso-96-1988",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 983
+    },
+    {
+      "id": "gcc-gso-97-1988",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 949
+    },
+    {
+      "id": "gcc-gso-98-1988",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 942
+    },
+    {
+      "id": "gcc-gso-ece-10",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 766
+    },
+    {
+      "id": "gcc-gso-ece-100",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 942
+    },
+    {
+      "id": "gcc-gso-ece-117",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 942
+    },
+    {
+      "id": "gcc-gso-ece-121",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "link",
+      "body_chars": 174
+    },
+    {
+      "id": "gcc-gso-ece-125",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "link",
+      "body_chars": 145
+    },
+    {
+      "id": "gcc-gso-ece-127",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 829
+    },
+    {
+      "id": "gcc-gso-ece-13h-1-2-3",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 933
+    },
+    {
+      "id": "gcc-gso-ece-13h-2012",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1073
+    },
+    {
+      "id": "gcc-gso-ece-14",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 904
+    },
+    {
+      "id": "gcc-gso-ece-141",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 773
+    },
+    {
+      "id": "gcc-gso-ece-155",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 818
+    },
+    {
+      "id": "gcc-gso-ece-156",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 822
+    },
+    {
+      "id": "gcc-gso-ece-16",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 870
+    },
+    {
+      "id": "gcc-gso-ece-21",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 828
+    },
+    {
+      "id": "gcc-gso-ece-26",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 838
+    },
+    {
+      "id": "gcc-gso-ece-30",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 914
+    },
+    {
+      "id": "gcc-gso-ece-43-gso-3538",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "link",
+      "body_chars": 161
+    },
+    {
+      "id": "gcc-gso-ece-46",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "link",
+      "body_chars": 149
+    },
+    {
+      "id": "gcc-gso-ece-48",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 911
+    },
+    {
+      "id": "gcc-gso-ece-51",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "link",
+      "body_chars": 146
+    },
+    {
+      "id": "gcc-gso-ece-79",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 761
+    },
+    {
+      "id": "gcc-gso-ece-83-gso-ece-154",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 982
+    },
+    {
+      "id": "gcc-gso-ece-94",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 993
+    },
+    {
+      "id": "gcc-gso-ece-95",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 988
+    },
+    {
+      "id": "gcc-gso-my2027-emission-limit-implementation",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1103
+    },
+    {
+      "id": "gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1097
+    },
+    {
+      "id": "gcc-mc-250905-2025",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 1140
+    },
+    {
+      "id": "gcc-saso-2847-saso-2864-2022",
+      "region": "GCC",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1041
+    },
+    {
+      "id": "gcc-saso-3004-2022",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 964
+    },
+    {
+      "id": "gcc-saso-3005-2022",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 925
+    },
+    {
+      "id": "gcc-saso-3006-2022",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 966
+    },
+    {
+      "id": "gcc-saso-3007-2022",
+      "region": "GCC",
+      "source_api": "gso",
+      "content_kind": "summary",
+      "body_chars": 933
+    },
+    {
+      "id": "gcc-saso-saber-fuel-economy-label-for-new-light-vehicles",
+      "region": "GCC",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1288
+    },
+    {
+      "id": "gcc-uae-s-5019-2024",
+      "region": "GCC",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 959
+    },
+    {
+      "id": "il-workbook-reg-0627-israel-vehicle-import-type-approval-framework",
+      "region": "IL",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1127
+    },
+    {
+      "id": "in-ais-038-rev-2-ais-156",
+      "region": "IN",
+      "source_api": "ais",
+      "content_kind": "summary",
+      "body_chars": 1099
+    },
+    {
+      "id": "in-bs-vi-india-cafe-fuel-consumption",
+      "region": "IN",
+      "source_api": "ais",
+      "content_kind": "summary",
+      "body_chars": 1158
+    },
+    {
+      "id": "in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework",
+      "region": "IN",
+      "source_api": "ais",
+      "content_kind": "summary",
+      "body_chars": 1192
+    },
+    {
+      "id": "jp-jvsregs-art1",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 6906
+    },
+    {
+      "id": "jp-jvsregs-art10",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 771
+    },
+    {
+      "id": "jp-jvsregs-art11-2",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1824
+    },
+    {
+      "id": "jp-jvsregs-art11",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1037
+    },
+    {
+      "id": "jp-jvsregs-art12",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 334
+    },
+    {
+      "id": "jp-jvsregs-art14",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 640
+    },
+    {
+      "id": "jp-jvsregs-art15",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1023
+    },
+    {
+      "id": "jp-jvsregs-art17-2",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 2613
+    },
+    {
+      "id": "jp-jvsregs-art17",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1155
+    },
+    {
+      "id": "jp-jvsregs-art18",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 7896
+    },
+    {
+      "id": "jp-jvsregs-art2",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1724
+    },
+    {
+      "id": "jp-jvsregs-art20",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 2396
+    },
+    {
+      "id": "jp-jvsregs-art21",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1018
+    },
+    {
+      "id": "jp-jvsregs-art22-3",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 4710
+    },
+    {
+      "id": "jp-jvsregs-art22-4",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1303
+    },
+    {
+      "id": "jp-jvsregs-art22-5",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1762
+    },
+    {
+      "id": "jp-jvsregs-art22",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 2856
+    },
+    {
+      "id": "jp-jvsregs-art26",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 931
+    },
+    {
+      "id": "jp-jvsregs-art28",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 280
+    },
+    {
+      "id": "jp-jvsregs-art29",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1956
+    },
+    {
+      "id": "jp-jvsregs-art30",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 735
+    },
+    {
+      "id": "jp-jvsregs-art31",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 2323
+    },
+    {
+      "id": "jp-jvsregs-art32",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 3652
+    },
+    {
+      "id": "jp-jvsregs-art43-7",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 657
+    },
+    {
+      "id": "jp-jvsregs-art44-2",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 875
+    },
+    {
+      "id": "jp-jvsregs-art44",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 3269
+    },
+    {
+      "id": "jp-jvsregs-art45",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 1225
+    },
+    {
+      "id": "jp-jvsregs-art46-2",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 620
+    },
+    {
+      "id": "jp-jvsregs-art48",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 731
+    },
+    {
+      "id": "jp-jvsregs-art5",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 160
+    },
+    {
+      "id": "jp-jvsregs-art9",
+      "region": "JP",
+      "source_api": "egov_jp",
+      "content_kind": "full",
+      "body_chars": 892
+    },
+    {
+      "id": "jp-srrv-accelerator-control",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 141
+    },
+    {
+      "id": "jp-srrv-audible-warning-devices",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 145
+    },
+    {
+      "id": "jp-srrv-automated-lane-keeping-automated-driving-systems",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 172
+    },
+    {
+      "id": "jp-srrv-body-structure-and-load-path",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1078
+    },
+    {
+      "id": "jp-srrv-brake-assist-systems",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1059
+    },
+    {
+      "id": "jp-srrv-bumper-and-low-speed-impact-external-projections",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1165
+    },
+    {
+      "id": "jp-srrv-controls-tell-tales-indicators-and-driver-information",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 177
+    },
+    {
+      "id": "jp-srrv-electric-vehicle-rechargeable-energy-storage-system",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1181
+    },
+    {
+      "id": "jp-srrv-engine-power-train-and-pedal-lever",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 157
+    },
+    {
+      "id": "jp-srrv-exhaust-emissions-and-obd",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1157
+    },
+    {
+      "id": "jp-srrv-fuel-system-and-fire-prevention",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1140
+    },
+    {
+      "id": "jp-srrv-isofix-and-child-restraint-anchorages",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1120
+    },
+    {
+      "id": "jp-srrv-japan-2030-fuel-economy-standards-for-passenger-cars",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1037
+    },
+    {
+      "id": "jp-srrv-japan-automobile-recycling-law",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 987
+    },
+    {
+      "id": "jp-srrv-japan-motor-vehicle-noise-requirements",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 915
+    },
+    {
+      "id": "jp-srrv-japan-passenger-vehicle-exhaust-emission-standards",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1049
+    },
+    {
+      "id": "jp-srrv-japan-radio-equipment-technical-conformity-certification",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 997
+    },
+    {
+      "id": "jp-srrv-japanese-vehicle-type-approval-type-designation-framework",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1193
+    },
+    {
+      "id": "jp-srrv-mlit-vehicle-recall-and-improvement-measures",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 958
+    },
+    {
+      "id": "jp-srrv-signal-lamps-position-lamps-stop-lamps-and-reverse-lamps",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1128
+    },
+    {
+      "id": "jp-srrv-speedometer-and-odometer",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 146
+    },
+    {
+      "id": "jp-srrv-steering-equipment-and-steering-effort",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1110
+    },
+    {
+      "id": "jp-srrv-tires-wheels-and-tpms",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 960
+    },
+    {
+      "id": "jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1289
+    },
+    {
+      "id": "jp-srrv-windshield-wiping-washing-defrosting-and-defogging",
+      "region": "JP",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 174
+    },
+    {
+      "id": "kr-kmvss-art10",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 493
+    },
+    {
+      "id": "kr-kmvss-art102-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1519
+    },
+    {
+      "id": "kr-kmvss-art102-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 297
+    },
+    {
+      "id": "kr-kmvss-art102-4",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 443
+    },
+    {
+      "id": "kr-kmvss-art102",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2443
+    },
+    {
+      "id": "kr-kmvss-art103-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 704
+    },
+    {
+      "id": "kr-kmvss-art103",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2511
+    },
+    {
+      "id": "kr-kmvss-art104",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 5646
+    },
+    {
+      "id": "kr-kmvss-art105",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1564
+    },
+    {
+      "id": "kr-kmvss-art107",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 232
+    },
+    {
+      "id": "kr-kmvss-art108-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 717
+    },
+    {
+      "id": "kr-kmvss-art109",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 3021
+    },
+    {
+      "id": "kr-kmvss-art11",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 985
+    },
+    {
+      "id": "kr-kmvss-art110",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1099
+    },
+    {
+      "id": "kr-kmvss-art111-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 668
+    },
+    {
+      "id": "kr-kmvss-art111-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 350
+    },
+    {
+      "id": "kr-kmvss-art111",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 705
+    },
+    {
+      "id": "kr-kmvss-art112-11",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 299
+    },
+    {
+      "id": "kr-kmvss-art112-14",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 315
+    },
+    {
+      "id": "kr-kmvss-art112-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 295
+    },
+    {
+      "id": "kr-kmvss-art112-4",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 301
+    },
+    {
+      "id": "kr-kmvss-art112-7",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 199
+    },
+    {
+      "id": "kr-kmvss-art12-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 968
+    },
+    {
+      "id": "kr-kmvss-art12",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 858
+    },
+    {
+      "id": "kr-kmvss-art13",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 4999
+    },
+    {
+      "id": "kr-kmvss-art14-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 872
+    },
+    {
+      "id": "kr-kmvss-art14",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 3099
+    },
+    {
+      "id": "kr-kmvss-art15-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1501
+    },
+    {
+      "id": "kr-kmvss-art15-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 812
+    },
+    {
+      "id": "kr-kmvss-art15",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 23985
+    },
+    {
+      "id": "kr-kmvss-art17",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1640
+    },
+    {
+      "id": "kr-kmvss-art18-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 249
+    },
+    {
+      "id": "kr-kmvss-art18-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 543
+    },
+    {
+      "id": "kr-kmvss-art18-4",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 3714
+    },
+    {
+      "id": "kr-kmvss-art18-5",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2900
+    },
+    {
+      "id": "kr-kmvss-art18-6",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 3387
+    },
+    {
+      "id": "kr-kmvss-art18",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 577
+    },
+    {
+      "id": "kr-kmvss-art19",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 11913
+    },
+    {
+      "id": "kr-kmvss-art21",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 277
+    },
+    {
+      "id": "kr-kmvss-art22",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 808
+    },
+    {
+      "id": "kr-kmvss-art24",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1225
+    },
+    {
+      "id": "kr-kmvss-art25",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2878
+    },
+    {
+      "id": "kr-kmvss-art26",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 645
+    },
+    {
+      "id": "kr-kmvss-art27-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1604
+    },
+    {
+      "id": "kr-kmvss-art27",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2229
+    },
+    {
+      "id": "kr-kmvss-art3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 179
+    },
+    {
+      "id": "kr-kmvss-art30",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 211
+    },
+    {
+      "id": "kr-kmvss-art31",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 342
+    },
+    {
+      "id": "kr-kmvss-art34",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 3003
+    },
+    {
+      "id": "kr-kmvss-art35",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 253
+    },
+    {
+      "id": "kr-kmvss-art36",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 225
+    },
+    {
+      "id": "kr-kmvss-art38",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2059
+    },
+    {
+      "id": "kr-kmvss-art39",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 784
+    },
+    {
+      "id": "kr-kmvss-art4",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1444
+    },
+    {
+      "id": "kr-kmvss-art5",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 466
+    },
+    {
+      "id": "kr-kmvss-art50",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1912
+    },
+    {
+      "id": "kr-kmvss-art53-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2723
+    },
+    {
+      "id": "kr-kmvss-art53-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 336
+    },
+    {
+      "id": "kr-kmvss-art53-4",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1260
+    },
+    {
+      "id": "kr-kmvss-art53",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 367
+    },
+    {
+      "id": "kr-kmvss-art54",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1421
+    },
+    {
+      "id": "kr-kmvss-art56-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 2487
+    },
+    {
+      "id": "kr-kmvss-art56",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 263
+    },
+    {
+      "id": "kr-kmvss-art6",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 687
+    },
+    {
+      "id": "kr-kmvss-art7",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 404
+    },
+    {
+      "id": "kr-kmvss-art8",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 933
+    },
+    {
+      "id": "kr-kmvss-art87",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 972
+    },
+    {
+      "id": "kr-kmvss-art89-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 251
+    },
+    {
+      "id": "kr-kmvss-art9",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 425
+    },
+    {
+      "id": "kr-kmvss-art90-2",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 334
+    },
+    {
+      "id": "kr-kmvss-art90-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 648
+    },
+    {
+      "id": "kr-kmvss-art90",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1609
+    },
+    {
+      "id": "kr-kmvss-art91-3",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 423
+    },
+    {
+      "id": "kr-kmvss-art91",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 393
+    },
+    {
+      "id": "kr-kmvss-art92",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 462
+    },
+    {
+      "id": "kr-kmvss-art93",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 223
+    },
+    {
+      "id": "kr-kmvss-art94",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 957
+    },
+    {
+      "id": "kr-kmvss-art95",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 396
+    },
+    {
+      "id": "kr-kmvss-art97",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 1708
+    },
+    {
+      "id": "kr-kmvss-art99",
+      "region": "KR",
+      "source_api": "law_go_kr",
+      "content_kind": "full",
+      "body_chars": 462
+    },
+    {
+      "id": "kr-workbook-reg-0596-clean-air-conservation-act-motor-vehicle-emissions-certification",
+      "region": "KR",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1028
+    },
+    {
+      "id": "kr-workbook-reg-0597-noise-and-vibration-control-act-vehicle-noise",
+      "region": "KR",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 958
+    },
+    {
+      "id": "kr-workbook-reg-0598-radio-waves-act-rra-kc-conformity-assessment",
+      "region": "KR",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1016
+    },
+    {
+      "id": "kr-workbook-reg-0599-act-on-resource-circulation-of-electrical-and-electronic-equipment-and-vehicles",
+      "region": "KR",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 181
+    },
+    {
+      "id": "mx-workbook-reg-0610-nom-194-se-2021",
+      "region": "MX",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1011
+    },
+    {
+      "id": "mx-workbook-reg-0611-nom-042-semarnat-2003",
+      "region": "MX",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1126
+    },
+    {
+      "id": "mx-workbook-reg-0612-nom-163-semarnat-scfi-2023",
+      "region": "MX",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1031
+    },
+    {
+      "id": "nz-workbook-reg-0628-land-transport-rules-approved-standards",
+      "region": "NZ",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1122
+    },
+    {
+      "id": "nz-workbook-reg-0629-land-transport-clean-vehicle-standard-regulations-2022",
+      "region": "NZ",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1046
+    },
+    {
+      "id": "other-workbook-reg-0546-directive-2011-65-eu-rohs",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1040
+    },
+    {
+      "id": "other-workbook-reg-0641-iatf-16949",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 947
+    },
+    {
+      "id": "other-workbook-reg-0642-iso-9001",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 833
+    },
+    {
+      "id": "other-workbook-reg-0643-iso-26262",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 948
+    },
+    {
+      "id": "other-workbook-reg-0644-iso-21448",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 976
+    },
+    {
+      "id": "other-workbook-reg-0645-iso-sae-21434",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 915
+    },
+    {
+      "id": "other-workbook-reg-0646-iso-24089",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 884
+    },
+    {
+      "id": "other-workbook-reg-0647-automotive-spice-aspice",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 887
+    },
+    {
+      "id": "other-workbook-reg-0648-iso-6469-series",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 868
+    },
+    {
+      "id": "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 985
+    },
+    {
+      "id": "other-workbook-reg-0650-iso-22628",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1019
+    },
+    {
+      "id": "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 871
+    },
+    {
+      "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+      "region": "OTHER",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 941
+    },
+    {
+      "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+      "region": "TR",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1083
+    },
+    {
+      "id": "tw-vehicle-safety-type-approval-dgst",
+      "region": "TW",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1066
+    },
+    {
+      "id": "us-40cfr-part-1066",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 236948
+    },
+    {
+      "id": "us-40cfr-part-600",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 286451
+    },
+    {
+      "id": "us-40cfr-part-82",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 896085
+    },
+    {
+      "id": "us-40cfr-part-85",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 325047
+    },
+    {
+      "id": "us-40cfr-part-86",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 2260634
+    },
+    {
+      "id": "us-47cfr-part-15",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 423541
+    },
+    {
+      "id": "us-cfr-part-523",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 20337
+    },
+    {
+      "id": "us-cfr-part-525",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 13927
+    },
+    {
+      "id": "us-cfr-part-526",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 5786
+    },
+    {
+      "id": "us-cfr-part-529",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 13300
+    },
+    {
+      "id": "us-cfr-part-531",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 11644
+    },
+    {
+      "id": "us-cfr-part-533",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 14776
+    },
+    {
+      "id": "us-cfr-part-534",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 10934
+    },
+    {
+      "id": "us-cfr-part-536",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 27800
+    },
+    {
+      "id": "us-cfr-part-537",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 34369
+    },
+    {
+      "id": "us-cfr-part-538",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 9064
+    },
+    {
+      "id": "us-cfr-part-541",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 18070
+    },
+    {
+      "id": "us-cfr-part-542",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6970
+    },
+    {
+      "id": "us-cfr-part-543",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 18892
+    },
+    {
+      "id": "us-cfr-part-545",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6187
+    },
+    {
+      "id": "us-cfr-part-551",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 14441
+    },
+    {
+      "id": "us-cfr-part-554",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6868
+    },
+    {
+      "id": "us-cfr-part-555",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 26027
+    },
+    {
+      "id": "us-cfr-part-556",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 7155
+    },
+    {
+      "id": "us-cfr-part-557",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 5660
+    },
+    {
+      "id": "us-cfr-part-561",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 14811
+    },
+    {
+      "id": "us-cfr-part-563",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 22005
+    },
+    {
+      "id": "us-cfr-part-564",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 15480
+    },
+    {
+      "id": "us-cfr-part-565",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 32178
+    },
+    {
+      "id": "us-cfr-part-566",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 3929
+    },
+    {
+      "id": "us-cfr-part-567",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 33994
+    },
+    {
+      "id": "us-cfr-part-568",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 7746
+    },
+    {
+      "id": "us-cfr-part-569",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 5086
+    },
+    {
+      "id": "us-cfr-part-570",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 39111
+    },
+    {
+      "id": "us-cfr-part-572",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 361643
+    },
+    {
+      "id": "us-cfr-part-573",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 59909
+    },
+    {
+      "id": "us-cfr-part-574",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 27436
+    },
+    {
+      "id": "us-cfr-part-576",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 3666
+    },
+    {
+      "id": "us-cfr-part-577",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 41522
+    },
+    {
+      "id": "us-cfr-part-578",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 22384
+    },
+    {
+      "id": "us-cfr-part-579",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 108784
+    },
+    {
+      "id": "us-cfr-part-580",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 47670
+    },
+    {
+      "id": "us-cfr-part-581",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 10360
+    },
+    {
+      "id": "us-cfr-part-582",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6858
+    },
+    {
+      "id": "us-cfr-part-583",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 44276
+    },
+    {
+      "id": "us-cfr-part-585",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 20554
+    },
+    {
+      "id": "us-cfr-part-586",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 17737
+    },
+    {
+      "id": "us-cfr-part-587",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 17866
+    },
+    {
+      "id": "us-cfr-part-588",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 2514
+    },
+    {
+      "id": "us-cfr-part-591",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 49647
+    },
+    {
+      "id": "us-cfr-part-592",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 58157
+    },
+    {
+      "id": "us-cfr-part-593",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 15681
+    },
+    {
+      "id": "us-cfr-part-594",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 16981
+    },
+    {
+      "id": "us-cfr-part-595",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 21446
+    },
+    {
+      "id": "us-cfr-part-596",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 12994
+    },
+    {
+      "id": "us-cfr575-104",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 38507
+    },
+    {
+      "id": "us-cfr575-105",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6529
+    },
+    {
+      "id": "us-cfr575-106",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 16720
+    },
+    {
+      "id": "us-cfr575-301",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 13486
+    },
+    {
+      "id": "us-cfr575-302",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 15241
+    },
+    {
+      "id": "us-cfr575-401",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 32128
+    },
+    {
+      "id": "us-fmvss-101",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 14983
+    },
+    {
+      "id": "us-fmvss-102",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 5130
+    },
+    {
+      "id": "us-fmvss-103",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4672
+    },
+    {
+      "id": "us-fmvss-104",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 5492
+    },
+    {
+      "id": "us-fmvss-105",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 71458
+    },
+    {
+      "id": "us-fmvss-106",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 104432
+    },
+    {
+      "id": "us-fmvss-108",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 237379
+    },
+    {
+      "id": "us-fmvss-109",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 22503
+    },
+    {
+      "id": "us-fmvss-110",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 30577
+    },
+    {
+      "id": "us-fmvss-111",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 40457
+    },
+    {
+      "id": "us-fmvss-113",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 767
+    },
+    {
+      "id": "us-fmvss-114",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 8288
+    },
+    {
+      "id": "us-fmvss-116",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 78178
+    },
+    {
+      "id": "us-fmvss-117",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4694
+    },
+    {
+      "id": "us-fmvss-118",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 11231
+    },
+    {
+      "id": "us-fmvss-119",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 12587
+    },
+    {
+      "id": "us-fmvss-120",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 19999
+    },
+    {
+      "id": "us-fmvss-121",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 75804
+    },
+    {
+      "id": "us-fmvss-122",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 43155
+    },
+    {
+      "id": "us-fmvss-122a",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 20495
+    },
+    {
+      "id": "us-fmvss-123",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4730
+    },
+    {
+      "id": "us-fmvss-124",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 3679
+    },
+    {
+      "id": "us-fmvss-125",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 11093
+    },
+    {
+      "id": "us-fmvss-126",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 34719
+    },
+    {
+      "id": "us-fmvss-127",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 44482
+    },
+    {
+      "id": "us-fmvss-129",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 16785
+    },
+    {
+      "id": "us-fmvss-131",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 8074
+    },
+    {
+      "id": "us-fmvss-135",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 65690
+    },
+    {
+      "id": "us-fmvss-136",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 32610
+    },
+    {
+      "id": "us-fmvss-138",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 21172
+    },
+    {
+      "id": "us-fmvss-139",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 24393
+    },
+    {
+      "id": "us-fmvss-141",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 37242
+    },
+    {
+      "id": "us-fmvss-201",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 77958
+    },
+    {
+      "id": "us-fmvss-202",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 8425
+    },
+    {
+      "id": "us-fmvss-202a",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 45432
+    },
+    {
+      "id": "us-fmvss-203",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 2176
+    },
+    {
+      "id": "us-fmvss-204",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 2597
+    },
+    {
+      "id": "us-fmvss-205",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6072
+    },
+    {
+      "id": "us-fmvss-206",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 39234
+    },
+    {
+      "id": "us-fmvss-207",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 8317
+    },
+    {
+      "id": "us-fmvss-208",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 348829
+    },
+    {
+      "id": "us-fmvss-209",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 58549
+    },
+    {
+      "id": "us-fmvss-210",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 27000
+    },
+    {
+      "id": "us-fmvss-212",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4247
+    },
+    {
+      "id": "us-fmvss-213",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 117931
+    },
+    {
+      "id": "us-fmvss-213a",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 25022
+    },
+    {
+      "id": "us-fmvss-213b",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 106291
+    },
+    {
+      "id": "us-fmvss-214",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 88623
+    },
+    {
+      "id": "us-fmvss-216",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 8215
+    },
+    {
+      "id": "us-fmvss-216a",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 12897
+    },
+    {
+      "id": "us-fmvss-217",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 30028
+    },
+    {
+      "id": "us-fmvss-217a",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 12362
+    },
+    {
+      "id": "us-fmvss-218",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 20230
+    },
+    {
+      "id": "us-fmvss-219",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6053
+    },
+    {
+      "id": "us-fmvss-220",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4356
+    },
+    {
+      "id": "us-fmvss-221",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 6135
+    },
+    {
+      "id": "us-fmvss-222",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 38238
+    },
+    {
+      "id": "us-fmvss-223",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 17211
+    },
+    {
+      "id": "us-fmvss-224",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 7811
+    },
+    {
+      "id": "us-fmvss-225",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 46252
+    },
+    {
+      "id": "us-fmvss-226",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 33864
+    },
+    {
+      "id": "us-fmvss-227",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 9838
+    },
+    {
+      "id": "us-fmvss-301",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 14786
+    },
+    {
+      "id": "us-fmvss-302",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 7083
+    },
+    {
+      "id": "us-fmvss-303",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 10628
+    },
+    {
+      "id": "us-fmvss-304",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 11383
+    },
+    {
+      "id": "us-fmvss-305",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 33512
+    },
+    {
+      "id": "us-fmvss-305a",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 56699
+    },
+    {
+      "id": "us-fmvss-307",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 23023
+    },
+    {
+      "id": "us-fmvss-308",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 64831
+    },
+    {
+      "id": "us-fmvss-401",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4147
+    },
+    {
+      "id": "us-fmvss-403",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 74257
+    },
+    {
+      "id": "us-fmvss-404",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4219
+    },
+    {
+      "id": "us-fmvss-500",
+      "region": "US",
+      "source_api": "ecfr",
+      "content_kind": "full",
+      "body_chars": 4229
+    },
+    {
+      "id": "us-stub-california-proposition-65",
+      "region": "US",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1242
+    },
+    {
+      "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+      "region": "US",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1277
+    },
+    {
+      "id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+      "region": "US",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1158
+    },
+    {
+      "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+      "region": "US",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1010
+    },
+    {
+      "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+      "region": "US",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1294
+    },
+    {
+      "id": "us-workbook-reg-0451-49-cfr-part-575",
+      "region": "US",
+      "source_api": "spreadsheet",
+      "content_kind": "link",
+      "body_chars": 160
+    },
+    {
+      "id": "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+      "region": "ZA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1129
+    },
+    {
+      "id": "za-workbook-reg-0623-vc-8056",
+      "region": "ZA",
+      "source_api": "spreadsheet",
+      "content_kind": "summary",
+      "body_chars": 1020
+    }
+  ],
+  "limitations": [
+    "content_kind full is a heuristic; it does not establish instrument identity, completeness or currency.",
+    "Title word absence includes translation, punctuation and editorial-title false positives.",
+    "Empty tags and duplicate citations can be legitimate; never patch automatically."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "group": "r20261006-titles",
+  "patches": {
+    "eu-32006l0040": {
+      "title": "Directive 2006/40/EC - Emissions from Air-Conditioning Systems in Motor Vehicles",
+      "_why": "F375 — regulations/eu-32006l0040.md: instrument heading states \"relating to emissions from air-conditioning systems in motor vehicles and amending Council Directive 70/156/EEC\". Add the instrument subject to the lookup title."
+    },
+    "eu-32006l0066": {
+      "title": "Directive 2006/66/EC - Batteries, Accumulators and Waste Batteries and Accumulators",
+      "_why": "F376 — regulations/eu-32006l0066.md: instrument heading states \"on batteries and accumulators and waste batteries and accumulators and repealing Directive 91/157/EEC\". Add the instrument subject to the lookup title."
+    },
+    "eu-32007r0715": {
+      "title": "Regulation (EC) No 715/2007 - Euro 5 and Euro 6 Emissions and Vehicle Repair and Maintenance Information",
+      "_why": "F377 — regulations/eu-32007r0715.md: instrument heading states \"on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information\". Add the instrument subject to the lookup title."
+    },
+    "eu-32009r0078": {
+      "title": "Regulation (EC) No 78/2009 - Pedestrian Protection and Protection of Other Vulnerable Road Users",
+      "_why": "F378 — regulations/eu-32009r0078.md: instrument heading states \"on the type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users, amending Directive 2007/46/EC and repealing Directives 2003/102/EC and 2005/66/EC\". Add the instrument subject to the lookup title."
+    },
+    "eu-32009r0661": {
+      "title": "Regulation (EC) No 661/2009 - General Safety Type-Approval Requirements",
+      "_why": "F379 — regulations/eu-32009r0661.md: instrument heading states \"concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor\". Add the instrument subject to the lookup title."
+    },
+    "eu-32014l0053": {
+      "title": "Directive 2014/53/EU - Making Radio Equipment Available on the Market",
+      "_why": "F380 — regulations/eu-32014l0053.md: instrument heading states \"on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC\". Add the instrument subject to the lookup title."
+    },
+    "eu-32014r0540": {
+      "title": "Regulation (EU) No 540/2014 - Sound Levels of Motor Vehicles and Replacement Silencing Systems",
+      "_why": "F381 — regulations/eu-32014r0540.md: instrument heading states \"on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC\". Add the instrument subject to the lookup title."
+    },
+    "eu-32018r0858": {
+      "title": "Regulation (EU) 2018/858 - Approval and Market Surveillance of Motor Vehicles and Trailers",
+      "_why": "F382 — regulations/eu-32018r0858.md: instrument heading states \"on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC\". Add the instrument subject to the lookup title."
+    },
+    "eu-32019r0631": {
+      "title": "Regulation (EU) 2019/631 - CO2 Emission Performance Standards for New Passenger Cars and Light Commercial Vehicles",
+      "_why": "F383 — regulations/eu-32019r0631.md: instrument heading states \"setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011\". Add the instrument subject to the lookup title."
+    }
+  },
+  "skipped": []
+}

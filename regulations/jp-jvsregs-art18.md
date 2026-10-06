@@ -22,13 +22,17 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Motor vehicle frames and bodies must meet ministerial-notice standards for
-  structural strength, durability, and exterior shape, including prohibitions on sharp
-  protrusions and limits on rear body overhang beyond the rear axle.
+summary: Article 18 sets frame and body strength, durability, exterior-shape and rear-overhang
+  standards. It also prescribes occupant protection in frontal, partial-frontal, side
+  and partial-side impacts, pedestrian head and leg protection, and rollover protection
+  for qualifying vehicles; vehicle exclusions vary by requirement. The body must display
+  maximum payload, with additional information for tankers, and qualifying school
+  and childcare transport vehicles must carry prescribed markings.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1d2fdee3846e42718ba8653b01a25b9da373d06b
 systems:
 - Crashworthiness
+- Pedestrian protection
 tagged_at: '2026-06-16T15:44:38+00:00'
 tagging_status: llm-tagged
 title: JVSR Article 18 — Frame and Body

@@ -3,6 +3,7 @@ citation: 49 CFR §571.217a
 commodities:
 - Glass
 - Body structure
+effective_date: '2027-10-30'
 id: us-fmvss-217a
 last_pulled: '2026-06-01T18:41:18+00:00'
 open_tags:
@@ -21,7 +22,9 @@ open_tags:
 region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.217a
-status: in-force
+status: upcoming
+status_note: Mandatory manufacturing applicability begins 30 October 2027 under S3;
+  the displayed upcoming status refers to that compliance date.
 summary: Anti-ejection glazing for side and roof portals on over-the-road buses and
   heavy buses (GVWR greater than 11,793 kg) manufactured on or after October 30, 2027,
   is regulated by this standard, excluding school, transit, prison, and perimeter-seating

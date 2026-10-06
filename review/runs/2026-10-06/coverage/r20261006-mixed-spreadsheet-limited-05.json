@@ -1,0 +1,139 @@
+{
+  "reviewed": [
+    "other-workbook-reg-0648-iso-6469-series",
+    "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3",
+    "other-workbook-reg-0650-iso-22628",
+    "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+    "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+    "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+    "tw-vehicle-safety-type-approval-dgst",
+    "us-stub-california-proposition-65",
+    "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+    "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+    "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+    "us-stub-us-epa-40-cfr-part-86-tier-3",
+    "us-workbook-reg-0451-49-cfr-part-575",
+    "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+    "za-workbook-reg-0623-vc-8056"
+  ],
+  "skipped": [
+    {
+      "id": "other-workbook-reg-0648-iso-6469-series",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "other-workbook-reg-0649-un-manual-of-tests-and-criteria-section-38-3",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "other-workbook-reg-0650-iso-22628",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "tw-vehicle-safety-type-approval-dgst",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-stub-california-proposition-65",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-workbook-reg-0451-49-cfr-part-575",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "za-workbook-reg-0623-vc-8056",
+      "field": "title,summary,status,status_note,effective_date,citation,source_url,vehicle_categories,systems,commodities",
+      "reason": "Skip substantive legal requirements, dates, authorities, current legal status and accepted approvals: summary/template body only, official government or standards sources blocked by network policy; no independent technical text."
+    },
+    {
+      "id": "us-stub-title-13-ccr-1961-4-1962-4-1962-8",
+      "field": "status,status_note",
+      "reason": "Skip live litigation, waiver-revocation outcome and standard withdrawal-date verification: unsupported by template and inaccessible official sources."
+    },
+    {
+      "id": "us-stub-massachusetts-general-laws-chapter-93k-acts-of-2020-chapter-386",
+      "field": "status,status_note",
+      "reason": "Skip live litigation, waiver-revocation outcome and standard withdrawal-date verification: unsupported by template and inaccessible official sources."
+    },
+    {
+      "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+      "field": "status,status_note",
+      "reason": "Skip live litigation, waiver-revocation outcome and standard withdrawal-date verification: unsupported by template and inaccessible official sources."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "other-workbook-reg-0651-aiag-vda-fmea-msa-spc-ppap-apqp",
+      "field": "summary",
+      "reason": "Current record already distinguishes legal/voluntary regime or labels overview; historical conflation not repeated."
+    },
+    {
+      "id": "other-workbook-reg-0652-iso-34502-iso-tr-4804-iso-pas-8800",
+      "field": "summary",
+      "reason": "Current record already distinguishes legal/voluntary regime or labels overview; historical conflation not repeated."
+    },
+    {
+      "id": "us-stub-dodd-frank-section-1502-regulation-eu-2017-821",
+      "field": "summary",
+      "reason": "Current record already distinguishes legal/voluntary regime or labels overview; historical conflation not repeated."
+    },
+    {
+      "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+      "field": "summary",
+      "reason": "Current record already distinguishes legal/voluntary regime or labels overview; historical conflation not repeated."
+    },
+    {
+      "id": "za-workbook-reg-0622-nrcs-compulsory-specifications-vc-series",
+      "field": "summary",
+      "reason": "Current record already distinguishes legal/voluntary regime or labels overview; historical conflation not repeated."
+    }
+  ],
+  "notes": "All 15 complete bodies and metadata read. UN38.3 carrier obligations, Turkey/Taiwan approval authorities, Prop65 thresholds/exemptions, conflict-mineral issuer scope, Massachusetts litigation and ACCII waiver outcome unverified. EPA body has one wrong jurisdictional scope sentence but otherwise correct topic; reported unpatchable body finding rather than claiming whole body is another topic. Empty UN-equivalent lists proposed only where no acceptance/adoption clause exists."
+}

@@ -32,7 +32,6 @@ tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: § 571.223 Standard No. 223; Rear impact guards.
 vehicle_categories:
-- Heavy truck
 - Trailer
 ---
 

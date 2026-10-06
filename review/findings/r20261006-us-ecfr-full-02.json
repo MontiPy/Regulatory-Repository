@@ -1,0 +1,35 @@
+[
+  {
+    "id": "us-cfr-part-542",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "49 CFR Part 542 sets procedures for manufacturers and NHTSA to decide whether a new light duty truck line is likely to have a theft rate above or below the 1990/91 median, and so whether it is covered by the Theft Prevention Standard in Part 541. It applies to new lines introduced in the US on or after September 1, 2006.",
+    "proposed": "49 CFR Part 542 sets manufacturer and NHTSA procedures for selecting light duty truck lines for Part 541 theft-prevention coverage. Section 542.1 addresses new lines introduced from September 1, 2006 by likely theft rate; section 542.2 also covers low-theft lines with major parts interchangeable with covered passenger motor vehicle lines.",
+    "evidence": "Section 542.1(b) applies to new lines introduced on or after September 1, 2006. Section 542.2(a): \"whether any light duty truck lines that have or are likely to have a low theft rate have major parts interchangeable with a majority of the covered major parts of a passenger motor vehicle line\"; section 542.2(b) applies to each identified likely sub-median line without the 542.1 new-line/date restriction. Current summary makes the narrower 542.1 application sound universal for Part542.",
+    "evidence_url": "regulations/us-cfr-part-542.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "us-cfr-part-561",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "49 CFR Part 561 requires standardized emergency response guides and rescue sheets for electric-powered vehicles, and further documentation on low temperature operation, REESS malfunction and thermal event warnings, and thermal runaway and propagation risk mitigation. It applies to passenger cars, MPVs, trucks and buses above 60 VDC or 30 VAC; rescue sheets from December 22, 2025, other documentation from September 1, 2027 (GVWR 4,536 kg or less) or 2028 (over).",
+    "proposed": "Requires emergency response guides and rescue sheets from December 22, 2025 for electrically propelled cars, MPVs, trucks and buses above 60 VDC or 30 VAC and capable of more than 40 km/h over 1.6 km. Further REESS safety documentation applies from September 1, 2027 at GVWR 4,536 kg or less, or 2028 above, with specified one-year extensions for small-volume, final-stage manufacturers and alterers.",
+    "evidence": "Section 561.3 scope requires working voltages greater than 60 VDC or 30 VAC \"and whose speed attainable over a distance of 1.6 km on a paved level surface is more than 40 km/h\". Section 561.3(a) applies rescue sheets AND ERGs from December22,2025; (b)(1)–(4) provides 2027/2028 dates with one-year extensions for specified manufacturer groups. Current summary omits the speed eligibility condition and deadline extensions.",
+    "evidence_url": "regulations/us-cfr-part-561.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "us-cfr-part-563",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "49 CFR Part 563 sets uniform requirements for event data recorders (EDRs) in vehicles so equipped: collection, storage and retrievability of crash event data, data elements and format, crash-test survivability, owner's manual information and commercial availability of data retrieval tools. It applies to vehicles made on or after 1 September 2012 up to 3,855 kg GVWR and 2,495 kg unloaded weight, with a phase-in certification for production years ending 2029-2032.",
+    "proposed": "Sets requirements for vehicles fitted with EDRs: crash-event data, recording and retrieval, crash-test survivability, owner information and retrieval tools. Covers cars, MPVs, trucks and buses made from September 1, 2012 at up to 3,855 kg GVWR and 2,495 kg unloaded weight, excluding walk-in van trucks and vehicles exclusively for the U.S. Postal Service. Updated requirements phase in over production years ending 2029–2032.",
+    "evidence": "Section 563.3: the listed vehicles and weight limits apply \"except for walk-in van-type trucks or vehicles designed to be sold exclusively to the U.S. Postal Service\". Section 563.6a provides production-year-ending-2029–2032 certification phase-in. Current scope summary omits both excluded vehicle types.",
+    "evidence_url": "regulations/us-cfr-part-563.md",
+    "confidence": 0.98
+  }
+]

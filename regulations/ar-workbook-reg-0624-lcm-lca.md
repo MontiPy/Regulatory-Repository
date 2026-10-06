@@ -20,9 +20,10 @@ region: AR
 source_api: spreadsheet
 source_url: https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo
 status: in-force
-summary: New vehicles intended for public-road circulation in Argentina must obtain
-  a Model Configuration License (LCM) for safety compliance and an Environmental Configuration
-  License (LCA) for emissions compliance before sale or registration.
+summary: 'Overview entry for LCM / LCA: Argentina model configuration and environmental
+  configuration licenses. The body is a summary, not regulation text; detailed requirements,
+  approval pathways and vehicle scope require verification against current official
+  instruments.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 3ac68998c3835a0c3b3f67685509ec44e77102df
 systems:

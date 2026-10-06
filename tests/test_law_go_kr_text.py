@@ -29,3 +29,29 @@ def test_ignores_supplementary_provisions():
     page = PAGE + " 부칙 <제1234호, 2026. 6. 5.> 제18조의4(다른 법령의 개정) 부칙 내용."
     title, _ = _parse_article_text(page, "18-4")
     assert title.endswith("제18조의4(사이버보안)")
+
+
+class _FakeResp:
+    def __init__(self, text):
+        self.text = text
+
+
+class _FakeSession:
+    def __init__(self, text):
+        self._text = text
+        self.urls = []
+
+    def get(self, url, **kwargs):
+        self.urls.append(url)
+        return _FakeResp(self._text)
+
+
+def test_resolves_current_version_from_law_name_page():
+    from connectors import law_go_kr
+    law_go_kr._current_cache.clear()
+    page = '<iframe src="/LSW//lsInfoP.do?lsiSeq=288083&amp;chrClsCd=010202&amp;efYd=20260710"></iframe>'
+    session = _FakeSession(page)
+    current = law_go_kr.resolve_current_version(session, "270023")
+    assert current == {"lsiSeq": "288083", "efYd": "20260710", "chrClsCd": "010202"}
+    assert "법령/" in session.urls[0]
+    law_go_kr._current_cache.clear()

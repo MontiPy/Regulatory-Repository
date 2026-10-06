@@ -19,9 +19,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-595
 status: in-force
-summary: Retrofit air bag on-off switches installed by motor vehicle dealers and repair
-  businesses are exempted from the federal prohibition against making safety equipment
-  inoperative, provided specific conditions are met.
+summary: '49 CFR Part 595 sets conditional exemptions from the prohibition on making
+  safety-standard compliance inoperative: retrofit airbag on-off switches for vehicles
+  manufactured before 1 September 2015, modifications to accommodate people with disabilities
+  (including temporary rental-vehicle modifications), and temporary AEB deactivation
+  for law-enforcement vehicles. Disability modifications require specified labels
+  and retained documentation.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: da463b22b0cb51294d1a0214ad4f00eaff4556ce
 systems:

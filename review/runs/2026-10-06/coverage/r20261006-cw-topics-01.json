@@ -1,0 +1,501 @@
+{
+  "reviewed": [
+    "approval-framework",
+    "vin",
+    "certification-label",
+    "recalls",
+    "frontal-full",
+    "frontal-offset",
+    "side-mdb",
+    "side-pole",
+    "rear-impact",
+    "roof-crush",
+    "pedestrian",
+    "interior-impact",
+    "steering-impact",
+    "edr",
+    "seat-belts",
+    "belt-anchorages",
+    "seat-belt-reminder",
+    "seats"
+  ],
+  "skipped": [
+    {
+      "id": "approval-framework",
+      "field": "cells.CA",
+      "reason": "Linked ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.UN",
+      "reason": "Linked ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.JP",
+      "reason": "Linked jp-srrv-japanese-vehicle-type-approval-type-designation-framework exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.JP",
+      "reason": "Linked jp-srrv-whole-vehicle-type-designation-and-safety-regulation-conformity exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.CN",
+      "reason": "Linked cn-cnca-c11-01-2020 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.IN",
+      "reason": "Linked in-central-motor-vehicles-rules-cmvr-ais-type-approval-framework exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.IN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.AU",
+      "reason": "Linked au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.AU",
+      "reason": "Linked au-workbook-reg-0371-register-of-approved-vehicles-rav exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.BR",
+      "reason": "Linked br-senatran-990 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-technical-regulations-for-motor-vehicles-my2027-d3 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-saso-saber-fuel-economy-label-for-new-light-vehicles exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "approval-framework",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "vin",
+      "field": "cells.UN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "vin",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-16735-2019 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "vin",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "vin",
+      "field": "cells.KR.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "vin",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "certification-label",
+      "field": "cells.CA",
+      "reason": "Linked ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "certification-label",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-t-18411-2018 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "certification-label",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-7258-2017 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "certification-label",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "certification-label",
+      "field": "cells.AU",
+      "reason": "Linked au-workbook-reg-0371-register-of-approved-vehicles-rav exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "certification-label",
+      "field": "cells.BR",
+      "reason": "Linked br-contran-safety-labeling exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.CA",
+      "reason": "Linked ca-workbook-reg-0358-motor-vehicle-safety-regulations-c-r-c-c-1038 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.JP",
+      "reason": "Linked jp-srrv-mlit-vehicle-recall-and-improvement-measures exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.KR.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.AU",
+      "reason": "Linked au-workbook-reg-0372-australian-road-vehicle-recall-framework exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "recalls",
+      "field": "cells.IN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-full",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-full",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-11551-2014 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "frontal-full",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-full",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-36-2005 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "frontal-full",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-40-2011 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "frontal-full",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-offset",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-offset",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-t-20913-2007 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "frontal-offset",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-offset",
+      "field": "cells.IN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "frontal-offset",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-ece-94 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "frontal-offset",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-20071-2025 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.IN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-ece-95 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-1707-2005 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-1708-2005 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-38-2005 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "side-mdb",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "rear-impact",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-20072-2024 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "rear-impact",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "rear-impact",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-37-2012 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "rear-impact",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "roof-crush",
+      "field": "cells.UN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "roof-crush",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "roof-crush",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-39-2005 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "roof-crush",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.US.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.CA.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-24550-2024 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.IN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.AU.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-ece-127 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "pedestrian",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "interior-impact",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-11552 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "interior-impact",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "interior-impact",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-ece-21 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "interior-impact",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "steering-impact",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "edr",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "edr",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "seat-belts",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "seat-belts",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-14166-2024 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "seat-belts",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "seat-belts",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-ece-16 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "seat-belts",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-97-1988 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "seat-belts",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "belt-anchorages",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-14167-2024 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "belt-anchorages",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "belt-anchorages",
+      "field": "cells.GCC",
+      "reason": "Linked gcc-gso-ece-14 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "belt-anchorages",
+      "field": "cells.GCC.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "seat-belt-reminder",
+      "field": "cells.BR",
+      "reason": "Linked br-contran-936 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "seat-belt-reminder",
+      "field": "cells.IN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "seats",
+      "field": "cells.JP.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    },
+    {
+      "id": "seats",
+      "field": "cells.CN",
+      "reason": "Linked cn-gb-15083-2019 exists and its title/topic matches, but body is a template/summary/link. Substantive requirements, exact legal citations, dates and national adoption are not independently verifiable from it."
+    },
+    {
+      "id": "seats",
+      "field": "cells.CN.cite/status/note",
+      "reason": "Official national adoption, instrument currency, no-rule assertions and standalone authority/phase-in claims require current official evidence; none could be fetched under policy403."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "frontal-full",
+      "field": "cells.CN.records",
+      "reason": "GB11551 remains in full-width topic; no incorrect swap with offset regulation proposed."
+    }
+  ],
+  "notes": [
+    "Opened all 121 unique linked current records; every referenced id exists. Checked names, scope and relevant requirement clauses in text bodies; source-summary/template prose was not treated as regulation evidence. No equivalence between different regional instruments was inferred. Japan adoption claims and claimed absence of regulations cannot be confirmed from UN bodies alone.",
+    "US roof-crush load and expanded seat-belt warning citations contradicted explicit current clauses. A linked KMVSS structure-safety article is not the Korean self-certification framework, so only that link is removed; the self-certification citation itself remains held for official verification. Other UN/EU references are topical but live amended adoption tables not verified.",
+    "Needs a human: possible UN R34 version ambiguity for rear-impact row (current body primarily fuel tanks/installation but retains historical collision annex headings); no removal based on missing current rear-crash clause. KR crash-table rear-impact substantive tests remain unverified because attached tables are absent."
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "reviewed": [
+    "EU",
+    "GB",
+    "EFTA",
+    "TR",
+    "UA",
+    "BALKANS",
+    "EAEU",
+    "CENTRAL-ASIA"
+  ],
+  "skipped": [
+    {
+      "id": "EU",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "EU",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "EU",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "EU",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "EU",
+      "field": "records:eu-32017r1151",
+      "reason": "Referenced id exists and own heading topic matches; body is template/overview or EUR-Lex size-limit link page, so detailed instrument scope, dates and national adoption cannot be verified from it."
+    },
+    {
+      "id": "EU",
+      "field": "records:ece-workbook-reg-0639-unece-1958-agreement-schedule-1-cop-principles",
+      "reason": "Referenced id exists and own heading topic matches; body is template/overview or EUR-Lex size-limit link page, so detailed instrument scope, dates and national adoption cannot be verified from it."
+    },
+    {
+      "id": "GB",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "GB",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "GB",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "GB",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "GB",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "EFTA",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "EFTA",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "EFTA",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "EFTA",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "EFTA",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "TR",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "TR",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "TR",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "TR",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "TR",
+      "field": "records:tr-workbook-reg-0630-turkey-motor-vehicle-type-approval-framework",
+      "reason": "Referenced id exists and own heading topic matches; body is template/overview or EUR-Lex size-limit link page, so detailed instrument scope, dates and national adoption cannot be verified from it."
+    },
+    {
+      "id": "TR",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "UA",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "UA",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "UA",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "UA",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "UA",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "BALKANS",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "BALKANS",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "BALKANS",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "BALKANS",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "BALKANS",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "EAEU",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "EAEU",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "EAEU",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "EAEU",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "EAEU",
+      "field": "records:eaeu-workbook-reg-0613-tr-cu-018-2011",
+      "reason": "Referenced id exists and own heading topic matches; body is template/overview or EUR-Lex size-limit link page, so detailed instrument scope, dates and national adoption cannot be verified from it."
+    },
+    {
+      "id": "EAEU",
+      "field": "records:eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements",
+      "reason": "Referenced id exists and own heading topic matches; body is template/overview or EUR-Lex size-limit link page, so detailed instrument scope, dates and national adoption cannot be verified from it."
+    },
+    {
+      "id": "EAEU",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "un_1958; un_1998; members",
+      "reason": "Current treaty status and country/group membership require current official treaty-status evidence. Historical E-numbers in regulation footnotes do not establish current membership for each grouped country."
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "authorities",
+      "reason": "Every listed authority URL is present in shared curl -sIL audit; all are blocked by network policy 403/curl 56. Legal competence and current authority names cannot be externally verified."
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "drive; language; notes",
+      "reason": "National driving side and mandatory language claims, sanctions, martial-law administrative effects, and accession dates require unavailable official evidence."
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "currency; supersession; watch",
+      "reason": "Current amendments, replacement measures, transition deadlines and national adoption/enforcement were not verified externally. Own text is the historical publication supplied in each record, not proof of later amendments."
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "basis; regime; accepts; marks; emissions; process",
+      "reason": "No full national legal text is linked for these procedures, standards recognition, emission equivalence/targets or labelling. UN text can establish UN technical approval requirements but not national adoption, acceptance or administrative procedures."
+    },
+    {
+      "id": "EU",
+      "field": "emissions:Euro 6e-bis/6e-bis-FCM; CO2 2025-2027 flexibility; 2035 target; COM(2025) 995",
+      "reason": "2017/1151 is only a EUR-Lex size-limit link page; 2019/631 is the original 2019 publication. Neither contains these later amendment/proposal claims. Kept current text unchanged while correcting only Euro 7 category/date wording from Article 21."
+    },
+    {
+      "id": "EU",
+      "field": "accepts:UN R0 as alternative EU route",
+      "reason": "Own UN R0 body establishes IWVTA for M1 and its covered approvals, but does not establish EU recognition of that route; 2018/858 original body contains no R0/IWVTA provision. Skip without official EU adoption evidence."
+    },
+    {
+      "id": "EU",
+      "field": "marks:2020/740; 1999/94/EC; notes:2015/758; watch:2023/2854; ELV replacement",
+      "reason": "These instruments/claims have no linked full legal body in the market profile. No external official sources fetched; dates and legal current status held."
+    },
+    {
+      "id": "EU",
+      "field": "watch:battery due diligence/carbon footprint",
+      "reason": "2023/1542 Article 77 verifies battery passport from 18 Feb 2027, but later amendments and implementing dates for due diligence/carbon footprint were not fetched. Do not extrapolate current deadlines."
+    },
+    {
+      "id": "GB",
+      "field": "emissions:ZEV 28% 2025; 80% 2030; 100% 2035; Euro 7 alignment",
+      "reason": "No Vehicle Emissions Trading Schemes Order 2023 legal text, amendments or current DfT guidance available. Passenger car/van targets and flexibility claims not verified."
+    },
+    {
+      "id": "EAEU",
+      "field": "records:eaeu-workbook-reg-0614-era-glonass-emergency-call-requirements source provenance",
+      "reason": "Source https://en.glonassunion.ru/era-glonass/info is an industry union website rather than a government regulation source; only a template body exists. It cannot substantiate mandatory equipment/adoption claims."
+    },
+    {
+      "id": "EAEU",
+      "field": "notes:Kyrgyzstan accession 21 Aug 2023",
+      "reason": "No official treaty-status text fetched; accession date explicitly held."
+    },
+    {
+      "id": "CENTRAL-ASIA",
+      "field": "notes:Uzbekistan 20 Oct 2025; Mongolia 29 Apr 2026 treaty accession",
+      "reason": "No official treaty-status text fetched; dates and 1998 Agreement assertion explicitly held."
+    }
+  ],
+  "already_fixed": [],
+  "notes": [
+    "Reviewed all 8 European/Eurasian profiles and all 17 unique referenced record ids. Every reference exists and own heading/scope topic was reread; 5 records have summary/template/link bodies.",
+    "All 16 unique authority URLs and all referenced source URLs are included in the shared policy-blocked curl audit. No further source retries performed after instruction to finish from body evidence. A policy denial is not a dead-link finding.",
+    "EU own-body support checked: 2018/858 scope, manufacturer serious-risk reporting Article 14(2), UN-equivalence Article 58, small-series Articles 41/42 and CoP Annex IV; 2019/2144 Article 4(2), Annex I/II, ADDW E3 category C and head impact B2 category C, direct vision B9 category D; 2021/535 manufacturer plate and VIN subject; Euro 7 Article 21 dates and small-volume exceptions; Battery Regulation Article 77 passport 18 Feb 2027; UN R155 7.3.1 CSMS certificate and R156 section 6 SUMS certificate. Full technical annexes were not audited line by line.",
+    "EU Euro 7 finding changes only M1/N1 category wording and explicit small-volume timing. Euro 6e and later CO2 amendments/proposal claims in the same field are carried through unchanged and remain unverified.",
+    "The UN R0, R155 and R156 records establish technical topics for GB profile links, but they cannot establish GB recognition/approval procedures or mandatory adoption dates. TR MARTOY and EAEU national records are templates, not legal instruments.",
+    "Non-government source explicitly held: ERA-GLONASS industrial union URL. No correction proposal rests on that source.",
+    "Historical E-number identity cross-check in UN R30 footnote 5 is consistent with EU member identifiers listed and GB E11, Norway E16, Switzerland E14, Türkiye E37, Ukraine E46, Serbia E10, Bosnia E31, North Macedonia E40, Montenegro E56, Azerbaijan E39, Russia E22 and Belarus E28; current membership and newer E54 not established."
+  ]
+}

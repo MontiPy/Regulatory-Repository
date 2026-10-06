@@ -1,0 +1,138 @@
+[
+  {
+    "id": "ar-workbook-reg-0624-lcm-lca",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "New vehicles intended for public-road circulation in Argentina must obtain a Model Configuration License (LCM) for safety compliance and an Environmental Configuration License (LCA) for emissions compliance before sale or registration.",
+    "proposed": "Overview entry for LCM / LCA: Argentina model configuration and environmental configuration licenses. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Argentina model configuration and environmental configuration licenses",
+    "evidence_url": "regulations/ar-workbook-reg-0624-lcm-lca.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "The ASEAN Automotive Products Mutual Recognition Arrangement (APMRA) is a regional framework for recognizing automotive product approvals among ASEAN member states. It does not replace national type approval, so each member state still needs a market-by-market check.",
+    "proposed": "Overview entry for ASEAN Automotive Products Mutual Recognition Arrangement (APMRA): ASEAN framework for mutual recognition of automotive product approvals. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# ASEAN framework for mutual recognition of automotive product approvals",
+    "evidence_url": "regulations/asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Vehicles and components sold in Indonesia must obtain national type approval and conform to applicable SNI (Indonesian National Standard) requirements before market entry, supported by complete approval documentation, conformity of production records, and correct labeling and local-language materials.",
+    "proposed": "Overview entry for Indonesia SNI / Vehicle Type Approval Framework: Indonesia national vehicle type approval and SNI conformity framework. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Indonesia national vehicle type approval and SNI conformity framework",
+    "evidence_url": "regulations/asean-workbook-reg-0617-indonesia-sni-vehicle-type-approval-framework.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Vehicles imported or manufactured for sale in Malaysia must obtain JPJ Vehicle Type Approval and relevant environmental/emissions approvals before market entry.",
+    "proposed": "Overview entry for JPJ Vehicle Type Approval / Malaysia emissions approval: Malaysia vehicle type approval and environmental approval framework. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Malaysia vehicle type approval and environmental approval framework",
+    "evidence_url": "regulations/asean-workbook-reg-0618-jpj-vehicle-type-approval-malaysia-emissions-approval.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "QCVN 09:2024/BGTVT is Vietnam's national technical regulation on technical safety and environmental protection for automobiles, promulgated through Circular 48/2024/TT-BGTVT. Vehicles manufactured, assembled or imported into Vietnam need type approval and conformity-of-production evidence, with correct certification labels and documentation.",
+    "proposed": "Overview entry for QCVN 09:2024/BGTVT (promulgated by Circular 48/2024/TT-BGTVT): Vietnam technical and environmental safety requirements for vehicles. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Vietnam technical and environmental safety requirements for vehicles",
+    "evidence_url": "regulations/asean-workbook-reg-0619-qcvn-09-2024-bgtvt-circular-48-2024-tt-bgtvt.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Passenger vehicles and regulated components sold or registered in the Philippines must obtain conformity of production certification, emissions certificates of conformity, and complete type-approval documentation before market entry or registration.",
+    "proposed": "Overview entry for Philippines motor vehicle/component conformity and emissions approval framework: Philippines vehicle and component certification, COC and emissions/environmental framework. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Philippines vehicle and component certification, COC and emissions/environmental framework",
+    "evidence_url": "regulations/asean-workbook-reg-0620-philippines-motor-vehicle-component-conformity-and-emissions-approval-framework.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Supply of road vehicles to the Australian market requires type approval, entry on the Register of Approved Vehicles (RAV), and demonstrated conformity with applicable Australian Design Rules (ADRs) covering safety, anti-theft, and emissions standards.",
+    "proposed": "Overview entry for Road Vehicle Standards Act 2018 / Road Vehicle Standards Rules 2019: Road Vehicle Standards - Supply, Type Approval and Compliance Framework. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Road Vehicle Standards - Supply, Type Approval and Compliance Framework",
+    "evidence_url": "regulations/au-workbook-reg-0370-road-vehicle-standards-act-2018-road-vehicle-standards-rules-2019.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "au-workbook-reg-0371-register-of-approved-vehicles-rav",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "The Register of Approved Vehicles (RAV) is a national database that records vehicles approved for the Australian market. Road vehicles, including passenger vehicles, must have a correct RAV entry — covering VIN, variant/version data, and approval number — before they can be legally supplied or registered in Australia.",
+    "proposed": "Overview entry for Register of Approved Vehicles (RAV): Register of Approved Vehicles Entry Requirements. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Register of Approved Vehicles Entry Requirements",
+    "evidence_url": "regulations/au-workbook-reg-0371-register-of-approved-vehicles-rav.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "In-vehicle radio devices supplied in Australia, including telematics, keyless entry, Bluetooth/Wi-Fi/cellular modules, radar and tire-pressure sensors, must comply with spectrum, EMC and equipment approval requirements under the Radiocommunications Equipment (General) Rules 2021 administered by the ACMA.",
+    "proposed": "Overview entry for Radiocommunications Equipment (General) Rules 2021 / ACMA: Australia RF Equipment Compliance for In-vehicle Radio Devices. The body is a summary, not regulation text; detailed requirements, approval pathways and vehicle scope require verification against current official instruments.",
+    "evidence": "# Australia RF Equipment Compliance for In-vehicle Radio Devices",
+    "evidence_url": "regulations/au-workbook-reg-0605-radiocommunications-equipment-general-rules-2021-acma.md",
+    "confidence": 0.96
+  },
+  {
+    "id": "ca-workbook-reg-0145-eccc-sor-2003-2",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R83"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nUS EPA 40 CFR Part 86/Tier 3; EU Reg. 715/2007 and UNECE R83; GB 18352.6; ADR 79/111/112; CONAMA 492/IBAMA IN 3; GSO 1680-series and national Euro limits; Japan Article 31; KMVSS Art. 36.",
+    "evidence_url": "regulations/ca-workbook-reg-0145-eccc-sor-2003-2.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R30"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\n49 CFR Part 574; FMVSS 110/139; UNECE R30; CMVSS tire-related standards.",
+    "evidence_url": "regulations/ca-workbook-reg-0359-motor-vehicle-tire-safety-regulations-sor-2013-198.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-workbook-reg-0145-eccc-sor-2003-2",
+    "field": "body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": "**Applicability:** Applies to passenger cars when marked in Schedule III of the Motor Vehicle Safety Regulations; verify TSD/test-method amendments and import/manufacture date.",
+    "proposed": "Replace copied Motor Vehicle Safety Regulations applicability text with reference-stub text, retaining a corrected emissions summary.",
+    "evidence": "**Applicability:** Applies to passenger cars when marked in Schedule III of the Motor Vehicle Safety Regulations; verify TSD/test-method amendments and import/manufacture date.\n\nNot a CMVSS safety standard. Included for Canada passenger vehicle emissions; regulations align broadly with U.S. EPA framework.",
+    "evidence_url": "regulations/ca-workbook-reg-0145-eccc-sor-2003-2.md",
+    "confidence": 0.99
+  }
+]

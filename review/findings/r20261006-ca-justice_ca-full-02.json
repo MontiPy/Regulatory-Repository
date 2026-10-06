@@ -1,0 +1,157 @@
+[
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s126",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Passenger cars, multi-purpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kg or less must conform to Technical Standards Document No. 126 for Electronic Stability Control Systems for Light Vehicles.",
+    "proposed": "Passenger cars, multi-purpose passenger vehicles, trucks and buses with GVWR of 4,536 kg or less must meet TSD 126 for electronic stability control, or alternatively Annex 9 of UN Regulation No. 13H before the 01 series of amendments, subject to the Canadian adaptations in subsection (2).",
+    "evidence": "126(2)Instead of conforming to the requirements of subsection (1), every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, may comply with the requirements set out in Annex 9 of United Nations Regulation No. 13H ... as amended by any amendment prior to the 01 series of amendments, with the following adaptations:",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s126.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s201",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Section 201 of Canada's Motor Vehicle Safety Regulations applies to passenger cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4 536 kg or less. It requires the instrument panel within the head impact area to decelerate a 6.8 kg head form no more than 80 g continuously for over 3 ms, when struck at 19.3 km/h (with an air bag and Type 2 belt at the right front seat) or 24 km/h otherwise. The test follows SAE J921b.",
+    "proposed": "Section 201 applies to passenger cars and to multi-purpose passenger vehicles, trucks and buses with GVWR of 4,536 kg or less. It sets head-impact performance requirements for instrument panels and seatbacks, retention tests for interior compartment doors, and energy-absorption requirements for sun visors and armrests, with specified test procedures and exclusions.",
+    "evidence": "201(4)Subject to subsection (4.1), the seats of a vehicle shall be constructed so that the deceleration of a spherical head form ... does not exceed 80 g continuously for more than 3 ms ... (5) ... every interior compartment door ... shall remain closed ... (8)A sun visor shall be provided ... (9)Each arm-rest installed on a vehicle ... shall meet at least one of the following performance requirements:",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s201.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s201",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Seats",
+      "Airbags",
+      "Seatbelts",
+      "Body structure"
+    ],
+    "proposed": [
+      "Seats",
+      "Airbags",
+      "Seatbelts",
+      "Body structure",
+      "Interior trim"
+    ],
+    "evidence": "201(8)A sun visor shall be provided at each front outboard designated seating position on every vehicle and shall be constructed of, or covered with, energy absorbing material ... (9)Each arm-rest installed on a vehicle ...",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s201.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s203",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": "Steering control systems in vehicles must be designed so no component can catch a driver's clothing or jewelry during normal driving.",
+    "proposed": "Section 203 requires steering controls to avoid catching the driver’s clothing or jewellery. Passenger cars, three-wheeled vehicles and specified MPVs, buses and trucks up to 4,536 kg GVWR must also meet SAE J944 body-block impact testing at 24 km/h, with chest force limited to 11,120 N except for a cumulative 3 ms. Walk-in vans and vehicles meeting the specified TSD 208 requirements are exempt from those impact tests.",
+    "evidence": "203(2)Subject to subsection (4), the steering control system ... shall be tested in accordance with SAE Recommended Practice J944 ... (3)(a)the system shall be impacted by a body block at a relative velocity of 24 km/h;(b)the impact force developed on the chest of the body block and transmitted to the system shall not exceed 11 120 N, except for intervals with a cumulative duration of not more than 3 ms.",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s203.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s206",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Bus",
+      "Motorcycle"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus",
+      "Motorcycle"
+    ],
+    "evidence": "206(1)Every bus with a GVWR of 4 536 kg or less, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors ...",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s206.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s208",
+    "field": "title",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": "MVSR s. 208 — Seat Belt Assemblies (Installation)",
+    "proposed": "MVSR s. 208 — Occupant Crash Protection and Seat Belt Installation",
+    "evidence": "208(13)Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle, and their owner’s manuals, shall conform to the requirements of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s208.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s208",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": "Section 208 of Canada's Motor Vehicle Safety Regulations specifies which seat belt assemblies (Type 1 or Type 2, manual, with emergency- or automatic-locking retractors, and whether detachable) must be installed at each designated seating position. Requirements vary by vehicle type: enclosed motorcycles, passenger cars and three-wheeled vehicles, trucks and multi-purpose passenger vehicles with GVWR of 4 536 kg or less, and those above 4 536 kg.",
+    "proposed": "Section 208 sets seat belt installation and fit requirements for enclosed motorcycles, passenger cars, three-wheeled vehicles, trucks, multi-purpose passenger vehicles and buses, with rules varying by seating position and vehicle type. It also requires specified vehicles and their manuals to conform to TSD 208 Occupant Crash Protection, with Canadian adaptations, exceptions and bilingual airbag warnings.",
+    "evidence": "208(5)Every bus, other than a school bus, transit bus, perimeter-seating bus and prison bus, must be equipped ... (6)Every school bus, transit bus, perimeter-seating bus and prison bus must be equipped, at the driver’s designated seating position ... (13)Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle, and their owner’s manuals, shall conform to ... TSD 208, Occupant Crash Protection ... (25)If a vehicle is equipped with an air bag ...",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s208.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s208",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus"
+    ],
+    "evidence": "208(5)Every bus, other than a school bus, transit bus, perimeter-seating bus and prison bus, must be equipped ... (6)Every school bus, transit bus, perimeter-seating bus and prison bus must be equipped ...",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s208.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s208",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Seatbelts",
+      "Seats"
+    ],
+    "proposed": [
+      "Seatbelts",
+      "Seats",
+      "Airbags"
+    ],
+    "evidence": "208(19) ... may be equipped with a device that deactivates the air bag installed at the right front outboard designated seating position ... (25)If a vehicle is equipped with an air bag at a front outboard designated seating position, the vehicle shall have a label or labels permanently affixed to the sun visor ...",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s208.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "ca-mvsr-c-r-c---c--1038-s209",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Seatbelts",
+      "Airbags"
+    ],
+    "proposed": [
+      "Seatbelts"
+    ],
+    "evidence": "209(1)Every passenger car, multi-purpose passenger vehicle, truck, bus, low-speed vehicle, three-wheeled vehicle and enclosed motorcycle shall be equipped with seat belt assemblies that conform to ... Technical Standards Document No. 209, Seat Belt Assemblies (TSD 209) ... (2)The pelvic restraint of a Type 2 manual seat belt assembly ... The whole body addresses seat belt assemblies, webbing/coatings/test standard substitutions; no airbag requirements appear.",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s209.md",
+    "confidence": 0.98
+  }
+]

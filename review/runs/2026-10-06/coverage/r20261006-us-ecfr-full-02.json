@@ -1,0 +1,241 @@
+{
+  "reviewed": [
+    "us-cfr-part-542",
+    "us-cfr-part-543",
+    "us-cfr-part-545",
+    "us-cfr-part-551",
+    "us-cfr-part-554",
+    "us-cfr-part-555",
+    "us-cfr-part-556",
+    "us-cfr-part-557",
+    "us-cfr-part-561",
+    "us-cfr-part-563",
+    "us-cfr-part-564",
+    "us-cfr-part-565",
+    "us-cfr-part-566",
+    "us-cfr-part-567",
+    "us-cfr-part-568",
+    "us-cfr-part-569",
+    "us-cfr-part-570"
+  ],
+  "skipped": [
+    {
+      "id": "us-cfr-part-542",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-542",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-543",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-543",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-545",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-545",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-551",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-551",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-554",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-554",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-555",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-555",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-556",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-556",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-557",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-557",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-561",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-561",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-563",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-563",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-564",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-564",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-565",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-565",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-566",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-566",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-567",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-567",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-568",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-568",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-569",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-569",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-570",
+      "field": "source_url",
+      "reason": "Shared curl audit: environment-policy403/curl56, so live official source availability unverified."
+    },
+    {
+      "id": "us-cfr-part-570",
+      "field": "status/status_note/effective_date",
+      "reason": "Own-text historic/scheduled applicability dates and spent obligations checked; current official consolidation, later amendments and repeal not fetched, so no status changes inferred."
+    },
+    {
+      "id": "us-cfr-part-551",
+      "field": "systems/commodities/vehicle_categories",
+      "reason": "Empty tags are justified for procedural/general-law scope; do not invent a specific regulated system or component."
+    },
+    {
+      "id": "us-cfr-part-554",
+      "field": "systems/commodities/vehicle_categories",
+      "reason": "Empty tags are justified for procedural/general-law scope; do not invent a specific regulated system or component."
+    },
+    {
+      "id": "us-cfr-part-556",
+      "field": "systems/commodities/vehicle_categories",
+      "reason": "Empty tags are justified for procedural/general-law scope; do not invent a specific regulated system or component."
+    },
+    {
+      "id": "us-cfr-part-557",
+      "field": "systems/commodities/vehicle_categories",
+      "reason": "Empty tags are justified for procedural/general-law scope; do not invent a specific regulated system or component."
+    },
+    {
+      "id": "us-cfr-part-561",
+      "field": "body",
+      "reason": "561.3(b)(3) says manufacturer-extension threshold \"under 4,536\" while general paragraph(b)(1) says \"4,536 ... or less\". Exact-equality treatment requires official clarification; do not silently correct the regulation text."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "us-cfr-part-545",
+      "field": "summary/status_note",
+      "reason": "Current summary and spent note already identify 2006–2007 production/reporting obligations rather than implying current phase-in reports."
+    },
+    {
+      "id": "us-cfr-part-543",
+      "field": "un_equivalent",
+      "reason": "Current UN R97/R116 references are expressly accepted performance-criteria certification routes in 543.7(a)(3)–(4), with dated versions; retain rather than wrongly remove."
+    },
+    {
+      "id": "us-cfr-part-570",
+      "field": "summary/vehicle_categories",
+      "reason": "Current summary already distinguishes state implementation from direct obligations and correctly includes heavier SubpartB trailers except mobile structure trailers."
+    },
+    {
+      "id": "us-cfr-part-556",
+      "field": "summary",
+      "reason": "Current summary correctly limits exemption to notice/remedy obligations for inconsequentiality, not general FMVSS compliance."
+    }
+  ],
+  "notes": "All current front matters read; current scope/purpose/application and each summary requirement/date searched in body. Shorter procedural bodies read completely; technical appendices and detailed inspection test methods only inspected as relevant to metadata. Exact taxonomy values and UN formats valid. Existing UN543 alternatives proven by own clause. No new UN equivalents or externally inferred dates/statuses."
+}

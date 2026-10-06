@@ -1,0 +1,106 @@
+{
+  "reviewed": [
+    "eu-32006r1907",
+    "eu-32017r1151"
+  ],
+  "skipped": [
+    {
+      "id": "eu-32006r1907",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "title/citation",
+      "reason": "CELEX identifier in stored EUR-Lex page matches the record citation/source URL, but no instrument heading or legal clause is present; full title and subject cannot be independently verified from this body."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "summary",
+      "reason": "Skip: stored body contains no regulation clauses. Earlier substantive summary rewrite is present, but accuracy of scope, requirements, dates and supporting claims cannot be verified from this page or blocked official sources."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "effective_date/status_note",
+      "reason": "Skip: no commencement, application, repeal or transition clauses in this body. Preserve dates/status rather than guessing from external knowledge."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "vehicle_categories",
+      "reason": "Skip: no scope clause in this body; empty vehicle categories on cross-sector REACH are not an automatic defect, and no new categories are inferred."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "systems/commodities",
+      "reason": "Current values are valid taxonomy strings, but exact substantive relevance/removal cannot be proved without regulation clauses. No tag edits or empty-list changes proposed."
+    },
+    {
+      "id": "eu-32006r1907",
+      "field": "body",
+      "reason": "Body is a fetch-error/oversize pointer page rather than regulatory text. Requires an official text refresh, not a guessed replacement or a different-topic _stub_body action."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "title/citation",
+      "reason": "CELEX identifier in stored EUR-Lex page matches the record citation/source URL, but no instrument heading or legal clause is present; full title and subject cannot be independently verified from this body."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "summary",
+      "reason": "Skip: stored body contains no regulation clauses. Earlier substantive summary rewrite is present, but accuracy of scope, requirements, dates and supporting claims cannot be verified from this page or blocked official sources."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "effective_date/status_note",
+      "reason": "Skip: no commencement, application, repeal or transition clauses in this body. Preserve dates/status rather than guessing from external knowledge."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "vehicle_categories",
+      "reason": "Skip: no scope clause in this body; empty vehicle categories on cross-sector REACH are not an automatic defect, and no new categories are inferred."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "systems/commodities",
+      "reason": "Current values are valid taxonomy strings, but exact substantive relevance/removal cannot be proved without regulation clauses. No tag edits or empty-list changes proposed."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "body",
+      "reason": "Body is a fetch-error/oversize pointer page rather than regulatory text. Requires an official text refresh, not a guessed replacement or a different-topic _stub_body action."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "eu-32006r1907",
+      "field": "title/summary",
+      "reason": "Current checkout has named-instrument titles and complete summaries, replacing earlier generic wording; no repeat finding. Substantive accuracy remains explicitly unverifiable because the body lacks law."
+    },
+    {
+      "id": "eu-32017r1151",
+      "field": "title/summary",
+      "reason": "Current checkout has named-instrument titles and complete summaries, replacing earlier generic wording; no repeat finding. Substantive accuracy remains explicitly unverifiable because the body lacks law."
+    }
+  ],
+  "notes": [
+    "Both records read in full including current front matter. No UN equivalents exist in either record, and none were proposed.",
+    "eu-32006r1907 contains \"The requested document does not exist.\" This historical page is not evidence that REACH or the live official link is nonexistent; live availability is blocked.",
+    "eu-32017r1151 contains an oversize-page notice and a publications.europa.eu cellar link to DOC_1. The PDF/other official rendition was not fetched in this review.",
+    "No substantive field was verified against regulation text. All scope, requirements, dates, present currency, later amendments and live URL checks remain uncovered. No non-official evidence was used."
+  ]
+}

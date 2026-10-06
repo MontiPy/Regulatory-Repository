@@ -22,10 +22,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.226
 status: in-force
-summary: Ejection mitigation systems in passenger cars, multipurpose passenger vehicles,
-  trucks, and buses with a GVWR of 4,536 kg or less are regulated to reduce the likelihood
-  of complete and partial occupant ejections through side windows during rollovers
-  or side impacts.
+summary: FMVSS No. 226 regulates ejection mitigation through side windows during rollovers
+  and side impacts for passenger cars and MPVs, trucks and buses of 4,536 kg GVWR
+  or less. It excludes walk-in vans, modified-roof vehicles, convertibles, vehicles
+  designed for operation without doors, and certain multistage or altered vehicles
+  with security partitions.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 5b2de5051fc509e630390ede78a6d4eb27ab36c5
 systems:

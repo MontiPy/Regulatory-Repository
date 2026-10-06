@@ -22,9 +22,10 @@ region: ASEAN
 source_api: spreadsheet
 source_url: https://bps.dti.gov.ph/
 status: in-force
-summary: Passenger vehicles and regulated components sold or registered in the Philippines
-  must obtain conformity of production certification, emissions certificates of conformity,
-  and complete type-approval documentation before market entry or registration.
+summary: 'Overview entry for Philippines motor vehicle/component conformity and emissions
+  approval framework: Philippines vehicle and component certification, COC and emissions/environmental
+  framework. The body is a summary, not regulation text; detailed requirements, approval
+  pathways and vehicle scope require verification against current official instruments.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 8bec71bd2534b60f02621fb93a2a7bbd15174b7a
 systems:

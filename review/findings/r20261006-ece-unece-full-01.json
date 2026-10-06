@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ece-r112",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus",
+      "Trailer"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus"
+    ],
+    "evidence": "This Regulation applies to headlamps for vehicles of categories L, M, N and T",
+    "evidence_url": "regulations/ece-r112.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ece-r112",
+    "field": "title",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN Regulation No. 112 — Headlamps Emitting an Asymmetrical Low-Beam",
+    "proposed": "UN Regulation No. 112 — Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam",
+    "evidence": "Uniform provisions concerning the approval of motor vehicle headlamps emitting an asymmetrical passing-beam or a driving-beam or both and equipped with filament lamps and/or light-emitting diode (LED) modules",
+    "evidence_url": "regulations/ece-r112.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ece-r117",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus",
+      "Trailer"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Bus",
+      "Trailer"
+    ],
+    "evidence": "Tyres intended to be fitted to road vehicles of categories other than M, N and O;",
+    "evidence_url": "regulations/ece-r117.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ece-r117",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Tyres are regulated for rolling sound emission, wet adhesion, and rolling resistance, requiring compliance with specified performance limits and test procedures for each of these three properties.",
+    "proposed": "Sets approval provisions for new pneumatic tyres of classes C1, C2 and C3 for rolling sound, wet adhesion and rolling resistance, and worn C1 tyres for wet adhesion. Certain C1 tyre approvals also require abrasion information. Approvals may cover the listed performance properties separately or together; the scope excludes tyres for vehicles outside categories M, N and O.",
+    "evidence": "Contracting Parties shall issue or accept approvals to rolling sound and/or adhesion of tyres in new state on wet surfaces and/or adhesion of tyres in worn state on wet surfaces and/or rolling resistance.",
+    "evidence_url": "regulations/ece-r117.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ece-r13",
+    "field": "title",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN Regulation No. 13 — Braking of M, N and O Category Vehicles",
+    "proposed": "UN Regulation No. 13 — Braking of M2, M3, N and O Category Vehicles",
+    "evidence": "This Regulation applies to vehicles of categories M2, M3, N and O",
+    "evidence_url": "regulations/ece-r13.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "ece-r12",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Steering mechanism design in passenger vehicles requires that the system protect the driver from serious injury during a frontal impact by limiting the rearward displacement of the steering column and controlling the force transmitted to the driver's body.",
+    "proposed": "Sets frontal collision requirements for the steering mechanism and high-voltage electric power train of M1 vehicles and N1 vehicles below 1,500 kg maximum permissible mass. It limits steering-column displacement and forces transmitted to the driver, and addresses post-crash electrical safety. Other vehicles may be approved at the manufacturer's request.",
+    "evidence": "This Regulation applies to the behaviour of the steering mechanism and to the electric power train operating on high voltage as well as the high voltage components and systems which are galvanically connected to the high voltage bus of the electric power train of motor vehicles of category M1, and vehicles of category N1 with a maximum permissible mass less than 1 500 kg, with regard to the protection of the occupants in a frontal collision.",
+    "evidence_url": "regulations/ece-r12.md",
+    "confidence": 0.99
+  }
+]

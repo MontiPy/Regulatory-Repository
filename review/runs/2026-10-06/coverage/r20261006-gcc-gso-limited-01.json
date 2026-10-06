@@ -1,0 +1,618 @@
+{
+  "reviewed": [
+    "gcc-gso-1040-1041-1042",
+    "gcc-gso-1052-2000",
+    "gcc-gso-1053-2002",
+    "gcc-gso-1503-2002",
+    "gcc-gso-1598-2002",
+    "gcc-gso-1624-2002",
+    "gcc-gso-1677-2002",
+    "gcc-gso-1680-1685-2003",
+    "gcc-gso-1707-2005",
+    "gcc-gso-1708-2005",
+    "gcc-gso-1709-2005",
+    "gcc-gso-290-1994",
+    "gcc-gso-36-2005",
+    "gcc-gso-37-2012",
+    "gcc-gso-38-2005",
+    "gcc-gso-39-2005",
+    "gcc-gso-40-2011",
+    "gcc-gso-41-2007",
+    "gcc-gso-42-2015"
+  ],
+  "skipped": [
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1040-1041-1042",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1052-2000",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1053-2002",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1598-2002",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1624-2002",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1677-2002",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1680-1685-2003",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1708-2005",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-1709-2005",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-36-2005",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-37-2012",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-38-2005",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-39-2005",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-40-2011",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "field": "title/citation",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "field": "status/status_note/effective_date",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "field": "vehicle_categories",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "field": "systems/commodities",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "field": "source_url",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    },
+    {
+      "id": "gcc-gso-42-2015",
+      "field": "body requirements",
+      "reason": "Summary/template body is not regulation text; normative scope, requirements and currency cannot be verified. Official GSO source blocked by policy in shared curl audit; paywalled standard text unavailable. Title-body subject checked, but template statements are not legal evidence."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "gcc-gso-290-1994",
+      "field": "summary/systems/commodities",
+      "reason": "Current summary labels general manual standard and asks scope verification; empty tags retained."
+    },
+    {
+      "id": "gcc-gso-1503-2002",
+      "field": "un_equivalent",
+      "reason": "Already empty; no guessed UN equivalent reintroduced."
+    },
+    {
+      "id": "gcc-gso-1707-2005",
+      "field": "un_equivalent",
+      "reason": "Already empty; US side-impact topic does not imply a UN equivalent."
+    },
+    {
+      "id": "gcc-gso-41-2007",
+      "field": "un_equivalent",
+      "reason": "Already empty; current body distinguishes Part 581 from FMVSS Part 571."
+    }
+  ],
+  "notes": "All 19 limited bodies read in full. Every listed UN equivalent is merely in a Related Regulations/template list, never an adoption/acceptance clause; proposed removal acknowledges absence of required evidence, not proof the standards can never accept UN alternatives. Summary proposals deliberately retain only recorded instrument subject and expose missing full text. No template Key Compliance Intent used as law. No different-topic body requiring stubbing found in this shard. All links policy-blocked."
+}

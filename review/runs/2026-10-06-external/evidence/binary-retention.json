@@ -1,0 +1,335 @@
+{
+  "policy": "All extracted text and response hashes retained. Adjudicated EU documents retain both original and matching HTTPS raw copies. Bulky unadjudicated EU responses archived outside the review tree.",
+  "archived": [
+    {
+      "celex": "32014R0540",
+      "original_sha256": "0192a79ba555039cbabb03c1ea412a04bdc76b4d5b60eb979f5ca2a3e39f807e",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32014R0540.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32014R0540.txt"
+    },
+    {
+      "celex": "32018R0858",
+      "original_sha256": "ba63fb09f56ad2378302a964957f8c01f8407e60a64bcd7ba3ac5e2fc2cdf058",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32018R0858.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32018R0858.txt"
+    },
+    {
+      "celex": "32019R0631",
+      "original_sha256": "1673651c90cca24449a1b678668fac73e9aae02b43a6cfdd7ecfa0da57c039e5",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32019R0631.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32019R0631.txt"
+    },
+    {
+      "celex": "32021R0535",
+      "original_sha256": "f594d0c473a0dd5fc4ffb87c7155d054bd5cde29b44060e76eedd064db1e27b9",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32021R0535.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R0535.txt"
+    },
+    {
+      "celex": "32021R1958",
+      "original_sha256": "4a067508b6fc07e7b292b808925592f9a96cad1bec70a8eb34033526eb21c1bb",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32021R1958.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R1958.txt"
+    },
+    {
+      "celex": "32022R1426",
+      "original_sha256": "d60410776f23bcd3ca6590ea20d9fcbb95d7537521cb14582c77a71775ed5e5d",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32022R1426.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32022R1426.txt"
+    },
+    {
+      "celex": "32023R1542",
+      "original_sha256": "68abfefee867300d6d0646b9c6dbf6bc4ece70d96e1d2b976856e8613a031f31",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32023R1542.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32023R1542.txt"
+    },
+    {
+      "celex": "32023R2590",
+      "original_sha256": "ba6a2fc656b06c2e1c9e4dd53f61563ac2abbd84f0b6e15405c6ce7cf334e23f",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-32023R2590.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32023R2590.txt"
+    },
+    {
+      "celex": "42017X0071",
+      "original_sha256": "a3cf537df62e5ffb88ccd262f11415ce61f9eefa3549a76e0a7d31462bef12b3",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42017X0071.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42017X0071.txt"
+    },
+    {
+      "celex": "42018X0629",
+      "original_sha256": "38096a402063c3ee40d1fe4aa5b75ad80b4c6a01eac85abf8cfb5322ff2703d4",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X0629.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X0629.txt"
+    },
+    {
+      "celex": "42018X0780",
+      "original_sha256": "67c0509a716662c4aa0ef679a55a956e65126f3e2c33c2d4d03ebedd391da4fd",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X0780.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X0780.txt"
+    },
+    {
+      "celex": "42018X0798",
+      "original_sha256": "6f5dfba1c6ac98157d916aced396808362e62f6a714bca4e1c290414b81287c9",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X0798.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X0798.txt"
+    },
+    {
+      "celex": "42018X1591",
+      "original_sha256": "a9b8a480281c3616b0c33f72564482b292d714b0661d13637a2d3f3eeb81f870",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X1591.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1591.txt"
+    },
+    {
+      "celex": "42018X1592",
+      "original_sha256": "2535af7e7833a9ec9c2150d4230c13e538eb16740d07478698639c25f3b9d353",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X1592.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1592.txt"
+    },
+    {
+      "celex": "42018X1706",
+      "original_sha256": "6dc84551c8778c326689852f76befabcffdffe8fd146607d1fec7e07c9e62774",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X1706.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1706.txt"
+    },
+    {
+      "celex": "42018X1997",
+      "original_sha256": "9bf4b839af605efa1c82ad7fa192c0fd33aeb5761a997e1aeb1b66ca172e5211",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X1997.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1997.txt"
+    },
+    {
+      "celex": "42018X1998",
+      "original_sha256": "e78857a1e5317b4ccd29446ff37417dcdbdb948c443dff9b4178f98b28ec72fd",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42018X1998.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1998.txt"
+    },
+    {
+      "celex": "42019X0273",
+      "original_sha256": "6829883828b1f34a9f1ceb02df1b37ea71be08cd5e2b23c11f4f7c9f5f3e16ec",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42019X0273.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42019X0273.txt"
+    },
+    {
+      "celex": "42019X1354",
+      "original_sha256": "b7c60d8c5d9782651acb1a50a4b4345b30fc27aec30745f6655c6dbaa65a4c61",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42019X1354.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42019X1354.txt"
+    },
+    {
+      "celex": "42019X2141",
+      "original_sha256": "7aec73e5540959f13671622ab35265b9160cba0a1c50f16a3700162ba65a07e8",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42019X2141.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42019X2141.txt"
+    },
+    {
+      "celex": "42020X0486",
+      "original_sha256": "80745847ed009a512e0b702de574cdbcce6e61a1eee4ce51c1245d9d4068d43f",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42020X0486.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X0486.txt"
+    },
+    {
+      "celex": "42020X0575",
+      "original_sha256": "e6233d62b70637066c6379db2fc6b41e655c0964f6800c12da3fe2770e0c88e1",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42020X0575.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X0575.txt"
+    },
+    {
+      "celex": "42020X1169",
+      "original_sha256": "b7c62b6145890c63c035442d6a849df62eb39f45e0bc74251629ef33a5addf61",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42020X1169.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X1169.txt"
+    },
+    {
+      "celex": "42020X1223",
+      "original_sha256": "3ee1b34f789055a56c35a858e25115f57bd7d8b7c9c911e6dfada597dfb46aed",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42020X1223.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X1223.txt"
+    },
+    {
+      "celex": "42021X0389",
+      "original_sha256": "00a29ff14635f1d34d1bb7b4c560660941a39ec595643205331e8d4440e8ead1",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X0389.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0389.txt"
+    },
+    {
+      "celex": "42021X0828",
+      "original_sha256": "d2ca4e581e1426c16fd5f70fb3021185248897431a9f217e1ce6a0c12d6a4c33",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X0828.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0828.txt"
+    },
+    {
+      "celex": "42021X0829",
+      "original_sha256": "09a919fd1c97c20700bb5ab8e547523c8cc554cae846299465a6e221a72f810b",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X0829.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0829.txt"
+    },
+    {
+      "celex": "42021X1463",
+      "original_sha256": "7fc3c9399bd552a4f59fd5ec5ea712c480ff9b12abab2132d722cd29e403ee81",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X1463.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1463.txt"
+    },
+    {
+      "celex": "42021X1718",
+      "original_sha256": "309d69741db7cb7aa94c5b270898569fdb24a5a36c6399d8cc93aa49b8609324",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X1718.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1718.txt"
+    },
+    {
+      "celex": "42021X1719",
+      "original_sha256": "0999ff474edec4404a526a54b9b91336b7237f864f2938dc4c682b536068661a",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X1719.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1719.txt"
+    },
+    {
+      "celex": "42021X1720",
+      "original_sha256": "01b53e4d6761757c3c26a0721246ef6118589e5372b20542469d31476b295039",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X1720.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1720.txt"
+    },
+    {
+      "celex": "42021X1721",
+      "original_sha256": "8d94c75a65205864941620c17d2bd3cf53e511225de1d68a16c0fde458138b06",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X1721.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1721.txt"
+    },
+    {
+      "celex": "42021X1862",
+      "original_sha256": "3a7beddf54758b55a4160547fc18a48897ada769711105f64c9876b9b2307977",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X1862.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1862.txt"
+    },
+    {
+      "celex": "42021X2060",
+      "original_sha256": "660171833117c6d16cad2b0bb476953dbadbbee17608c60c36912e98186d1402",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X2060.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2060.txt"
+    },
+    {
+      "celex": "42021X2276",
+      "original_sha256": "b944d8bf85dec4052a3c9ad4269e2922d51abe30f78b78b6f54a013a97faafc0",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42021X2276.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2276.txt"
+    },
+    {
+      "celex": "42022X0082",
+      "original_sha256": "167ceb6169e0e3ff68639bd4c9a96d1f950b08bc25ceff39badca6caccff2162",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42022X0082.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42022X0082.txt"
+    },
+    {
+      "celex": "42022X2263",
+      "original_sha256": "beeaa70a1b840c9e4313cae0d69783c4c69b838b811d3c4b7a07322d9e715bdd",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42022X2263.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42022X2263.txt"
+    },
+    {
+      "celex": "42023X0406",
+      "original_sha256": "a45437cb6258cb1a77104f6c3a9c8628bc06d53c2e699ed0bf2b3469874c774a",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42023X0406.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42023X0406.txt"
+    },
+    {
+      "celex": "42024X0211",
+      "original_sha256": "498edd27c409cc716074f8cd876fa1dae9da5a9e0c98b4b770aa22b0aa550c91",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42024X0211.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42024X0211.txt"
+    },
+    {
+      "celex": "42024X2497",
+      "original_sha256": "a44b25d0a88e339c388d294ef73ff9eb00fa6831277061aafde6c11365d65922",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42024X2497.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42024X2497.txt"
+    },
+    {
+      "celex": "42025X0003",
+      "original_sha256": "3562648b1993b510fdd34a43be89504b138c683b9db41e8ac2db1a8ca4cf2135",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42025X0003.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0003.txt"
+    },
+    {
+      "celex": "42025X0460",
+      "original_sha256": "6f46238b61a8d5db4a691b1fd06bf5d8767d123910c02bd535c08ba2880af985",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42025X0460.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0460.txt"
+    },
+    {
+      "celex": "42025X0891",
+      "original_sha256": "eb327bf38136a61a6ae01b56f8e8723b972f1164ac5974ea7877f854c967ba8b",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42025X0891.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0891.txt"
+    },
+    {
+      "celex": "42025X1453",
+      "original_sha256": "a935f70fac7b39be242f0435f3b7287c927deee41f5d3799bdb40d8e07956aa8",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42025X1453.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X1453.txt"
+    },
+    {
+      "celex": "42025X1454",
+      "original_sha256": "3ef21e57a029c03aa20a78c498484628c7f4f66c276288f7a4e097ae2bf48eec",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42025X1454.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X1454.txt"
+    },
+    {
+      "celex": "42025X1902",
+      "original_sha256": "dd3a7998988cf45c93603f800f9b33f50bfca02d5ec7846c98fdbbfb806e19d7",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42025X1902.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X1902.txt"
+    },
+    {
+      "celex": "42026X0275",
+      "original_sha256": "9ccad21c2379fb5d366166b9288e35fbad8e896f420201b5ff0bb54a6eb1e666",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X0275.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0275.txt"
+    },
+    {
+      "celex": "42026X0300",
+      "original_sha256": "e800d33ece353703176f5602c3cbccd9d8eddb81b0f3eb83faae3d0309a5d8b9",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X0300.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0300.txt"
+    },
+    {
+      "celex": "42026X0502",
+      "original_sha256": "4535c2ba8ac67e85f63ac7203857c9c184a0bc0446065b40be9330de8bce2c7a",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X0502.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0502.txt"
+    },
+    {
+      "celex": "42026X0746",
+      "original_sha256": "38619e834fb1fb8eafca3f4218276034a51b9d2933304f460f1b6525373c5dd5",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X0746.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0746.txt"
+    },
+    {
+      "celex": "42026X0906",
+      "original_sha256": "251f4c8fc9468e32cd29df621edf2e8e769926b217b49f2105201ec5447fb256",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X0906.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0906.txt"
+    },
+    {
+      "celex": "42026X1075",
+      "original_sha256": "8d29141950d3a6e16f0e80fb71cf6345a724049fad1a2e7c1f4b30fe09eec876",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X1075.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1075.txt"
+    },
+    {
+      "celex": "42026X1095",
+      "original_sha256": "b693c8371764ea4c752bf2eda605d1c2da5bc67d99f01cb6c849798e44b4f881",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X1095.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1095.txt"
+    },
+    {
+      "celex": "42026X1534",
+      "original_sha256": "111be831dc530a1797e120b9bfec306b15221b2ed8593c26d9825ea50fe946f7",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X1534.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1534.txt"
+    },
+    {
+      "celex": "42026X1695",
+      "original_sha256": "c8ab6581a214f07d030060afceb62846518ae3f2711ab5d4af0023b24afaa41d",
+      "archived_raw_path": "/tmp/regulatory-external-eu-binary-archive/eu-publication-42026X1695.raw.gz",
+      "retained_text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1695.txt"
+    }
+  ]
+}

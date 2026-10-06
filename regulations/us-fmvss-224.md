@@ -33,7 +33,6 @@ tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: § 571.224 Standard No. 224; Rear impact protection.
 vehicle_categories:
-- Heavy truck
 - Trailer
 ---
 

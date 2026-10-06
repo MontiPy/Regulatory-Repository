@@ -1,0 +1,195 @@
+{
+  "reviewed": [
+    "ca-mvsr-c-r-c---c--1038-s126",
+    "ca-mvsr-c-r-c---c--1038-s131",
+    "ca-mvsr-c-r-c---c--1038-s135",
+    "ca-mvsr-c-r-c---c--1038-s141",
+    "ca-mvsr-c-r-c---c--1038-s2",
+    "ca-mvsr-c-r-c---c--1038-s201",
+    "ca-mvsr-c-r-c---c--1038-s202",
+    "ca-mvsr-c-r-c---c--1038-s203",
+    "ca-mvsr-c-r-c---c--1038-s204",
+    "ca-mvsr-c-r-c---c--1038-s205",
+    "ca-mvsr-c-r-c---c--1038-s206",
+    "ca-mvsr-c-r-c---c--1038-s207",
+    "ca-mvsr-c-r-c---c--1038-s208",
+    "ca-mvsr-c-r-c---c--1038-s209",
+    "ca-mvsr-c-r-c---c--1038-s210-1",
+    "ca-mvsr-c-r-c---c--1038-s210-2",
+    "ca-mvsr-c-r-c---c--1038-s210"
+  ],
+  "skipped": [
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s126",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s126",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s131",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s131",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s135",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s135",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s141",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s141",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s2",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s201",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s201",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s202",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s202",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s203",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s203",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s204",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s204",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s205",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s205",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s206",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s206",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s207",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s207",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s208",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s208",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s209",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s209",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210-1",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210-1",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210-2",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210-2",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210",
+      "field": "status/status_note/effective_date/source_url",
+      "reason": "Skip present legal currency, repeal and external source verification: all Justice Canada curl requests denied by network policy (403). Body amendment citations prove incorporated versions only; not current online law."
+    },
+    {
+      "id": "ca-mvsr-c-r-c---c--1038-s210",
+      "field": "vehicle_categories",
+      "reason": "Three-wheeled vehicles are separately defined national classes, not automatically motorcycles. Taxonomy lacks this precise class; no inferred motorcycle tag added."
+    }
+  ],
+  "already_fixed": [],
+  "notes": "Read all 17 metadata records, complete short bodies, and relevant scope/requirements/exception sections of long s2/s201/s208/s210.1/s210.2. Correct identity and section numbering. S206 UN R11 explicitly accepted as an alternative, retained. S126 permits adapted pre-01-series UN R13H and s141 permits UN R138, but no new equivalents proposed. Empty tags in definitions s2 appropriate. Material summary omission proposals only, not wording/style cleanup. Body-dependent TSD/SAE/ANSI incorporated documents were not externally read."
+}

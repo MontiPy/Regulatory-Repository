@@ -1,0 +1,139 @@
+{
+  "reviewed": [
+    "au-f2007l04077",
+    "au-f2008l02387",
+    "au-f2012l01123",
+    "au-f2015l02109",
+    "au-f2017l01214",
+    "au-f2017l01221",
+    "au-f2017l01229",
+    "au-f2017l01344",
+    "au-f2017l01351",
+    "au-f2017l01484",
+    "au-f2017l01497",
+    "au-f2017l01554",
+    "au-f2018l00692",
+    "au-f2018l01513",
+    "au-f2018l01515",
+    "au-f2018l01516",
+    "au-f2018l01517",
+    "au-f2018l01518",
+    "au-f2018l01521",
+    "au-f2019l00026"
+  ],
+  "skipped": [
+    {
+      "id": "au-f2007l04077",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2008l02387",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2012l01123",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2015l02109",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01214",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01221",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01229",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01344",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01351",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01484",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01497",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2017l01554",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l00692",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l01513",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l01515",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l01516",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l01517",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l01518",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2018l01521",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2019l00026",
+      "field": "source_url,status,status_note,effective_date",
+      "reason": "Skip: source URL checked in shared curl audit; policy-blocked response does not establish link failure. Current legal currency/repeal not independently verified; body identity and applicability dates checked, without inferring commencement from applicability dates."
+    },
+    {
+      "id": "au-f2012l01123",
+      "field": "vehicle_categories",
+      "reason": "Skip: actual Amendment 6 solely adds Pedalec/power-assisted pedal-cycle definitions; broad vehicle tags do not represent its operative scope, but taxonomy has no bicycle/cycle value. Needs human taxonomy/category decision; do not map cycles to Motorcycle."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "au-f2012l01123",
+      "field": "title,summary,status",
+      "reason": "Already fixed: current metadata identifies Amendment 6, Pedalec subject and superseded status; not a general ADR definitions compilation."
+    }
+  ],
+  "notes": "Read current front matter and operative introductory clauses/application tables/alternative standards for all 20 records, with bounded reads of long technical appendices. Existing UN equivalents are text-grounded. Do not interpret ADR applicability exclusions using the unmodified UN appendix scope. Current stored bodies were reviewed; earlier staged-refresh provenance was not revalidated in this run; technical annexes not checked line by line."
+}

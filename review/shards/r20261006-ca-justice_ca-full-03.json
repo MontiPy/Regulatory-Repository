@@ -1,0 +1,27 @@
+{
+  "shard": "r20261006-ca-justice_ca-full-03",
+  "kind": "records",
+  "items": [
+    "ca-mvsr-c-r-c---c--1038-s212",
+    "ca-mvsr-c-r-c---c--1038-s213-4",
+    "ca-mvsr-c-r-c---c--1038-s214",
+    "ca-mvsr-c-r-c---c--1038-s215",
+    "ca-mvsr-c-r-c---c--1038-s216",
+    "ca-mvsr-c-r-c---c--1038-s219",
+    "ca-mvsr-c-r-c---c--1038-s226",
+    "ca-mvsr-c-r-c---c--1038-s301-1",
+    "ca-mvsr-c-r-c---c--1038-s301-2",
+    "ca-mvsr-c-r-c---c--1038-s301",
+    "ca-mvsr-c-r-c---c--1038-s302",
+    "ca-mvsr-c-r-c---c--1038-s305",
+    "ca-mvsr-c-r-c---c--1038-s401",
+    "ca-mvsr-sor-2003-2",
+    "ca-mvsr-sor-2010-201",
+    "ca-mvsr-sor-2010-90",
+    "ca-mvsr-sor-2013-198"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "full",
+  "source_api": "justice_ca"
+}

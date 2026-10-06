@@ -21,9 +21,11 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-571/section-571.103
 status: in-force
-summary: Windshield defrosting and defogging systems on passenger cars, multipurpose
-  passenger vehicles, trucks, and buses are regulated to ensure each vehicle is equipped
-  with a functional system meeting specified performance requirements.
+summary: FMVSS 103 requires windshield defrosting and defogging systems on passenger
+  cars, MPVs, trucks and buses. The specified SAE performance and demonstration tests
+  apply to passenger cars; other covered vehicles are required to have a system. Vehicles
+  manufactured for sale in the noncontinental United States may use the alternative
+  defogging option in S4(b).
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 689118bd6b347a95d149775da9748754da9a236f
 systems:

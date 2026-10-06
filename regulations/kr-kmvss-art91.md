@@ -18,7 +18,7 @@ open_tags:
 - GVW 3.5t
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: Fuel systems of passenger cars, vans up to 4.5 tonnes GVW, and trucks up
   to 3.5 tonnes GVW that use flammable liquid fuel must meet the crash test standards

@@ -1,0 +1,205 @@
+[
+  {
+    "name": "us-fmvss-224",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.224",
+    "ids": [
+      "us-fmvss-224"
+    ]
+  },
+  {
+    "name": "us-cfr-part-561",
+    "url": "https://www.ecfr.gov/current/title-49/part-561",
+    "ids": [
+      "us-cfr-part-561"
+    ]
+  },
+  {
+    "name": "us-cfr-part-588",
+    "url": "https://www.ecfr.gov/current/title-49/part-588",
+    "ids": [
+      "us-cfr-part-588"
+    ]
+  },
+  {
+    "name": "us-fmvss-120",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.120",
+    "ids": [
+      "us-fmvss-120"
+    ]
+  },
+  {
+    "name": "us-fmvss-208",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.208",
+    "ids": [
+      "us-fmvss-208"
+    ]
+  },
+  {
+    "name": "us-fmvss-305a",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.305a",
+    "ids": [
+      "us-fmvss-305a"
+    ]
+  },
+  {
+    "name": "us-fmvss-307",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.307",
+    "ids": [
+      "us-fmvss-307"
+    ]
+  },
+  {
+    "name": "us-fmvss-308",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.308",
+    "ids": [
+      "us-fmvss-308"
+    ]
+  },
+  {
+    "name": "us-fmvss-217a",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.217a",
+    "ids": [
+      "us-fmvss-217a"
+    ]
+  },
+  {
+    "name": "us-cfr-part-531",
+    "url": "https://www.ecfr.gov/current/title-49/part-531",
+    "ids": [
+      "us-cfr-part-531"
+    ]
+  },
+  {
+    "name": "us-cfr-part-533",
+    "url": "https://www.ecfr.gov/current/title-49/part-533",
+    "ids": [
+      "us-cfr-part-533"
+    ]
+  },
+  {
+    "name": "ca-mvsr-c-r-c---c--1038-s116",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html",
+    "ids": [
+      "ca-mvsr-c-r-c---c--1038-s116"
+    ]
+  },
+  {
+    "name": "ca-mvsr-sor-2003-2",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html",
+    "ids": [
+      "ca-mvsr-sor-2003-2"
+    ]
+  },
+  {
+    "name": "ca-mvsr-sor-2010-201",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html",
+    "ids": [
+      "ca-mvsr-sor-2010-201"
+    ]
+  },
+  {
+    "name": "ece-r83",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1086",
+    "ids": [
+      "ece-r83"
+    ]
+  },
+  {
+    "name": "au-f2006l02729",
+    "url": "https://www.legislation.gov.au/Details/F2006L02729",
+    "ids": [
+      "au-f2006l02729"
+    ]
+  },
+  {
+    "name": "au-f2006l02297",
+    "url": "https://www.legislation.gov.au/Details/F2006L02297",
+    "ids": [
+      "au-f2006l02297"
+    ]
+  },
+  {
+    "name": "au-f2023l01006",
+    "url": "https://www.legislation.gov.au/Details/F2023L01006",
+    "ids": [
+      "au-f2023l01006"
+    ]
+  },
+  {
+    "name": "eu-32024r1257",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1257",
+    "ids": [
+      "eu-32024r1257"
+    ]
+  },
+  {
+    "name": "eu-32019r2144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2144",
+    "ids": [
+      "eu-32019r2144"
+    ]
+  },
+  {
+    "name": "eu-32019r0631",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0631",
+    "ids": [
+      "eu-32019r0631"
+    ]
+  },
+  {
+    "name": "un-1958-treaty",
+    "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-16&chapter=11&clang=_en",
+    "ids": [
+      "un-1958-treaty"
+    ]
+  },
+  {
+    "name": "un-1998-treaty",
+    "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-32&chapter=11&clang=_en",
+    "ids": [
+      "un-1998-treaty"
+    ]
+  },
+  {
+    "name": "ecfr-titles",
+    "url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
+    "ids": [
+      "ecfr-titles"
+    ]
+  },
+  {
+    "name": "cafe-2026-final",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19964.htm",
+    "ids": [
+      "cafe-2026-final"
+    ]
+  },
+  {
+    "name": "epa-2026-ghg",
+    "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment",
+    "ids": [
+      "epa-2026-ghg"
+    ]
+  },
+  {
+    "name": "ca-2026-ghg-proposal",
+    "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-08-15/html/reg1-eng.html",
+    "ids": [
+      "ca-2026-ghg-proposal"
+    ]
+  },
+  {
+    "name": "kmvss-official",
+    "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=270023&efYn=Y&nwJoYnInfo=Y&ancYnChk=0&netPrivateYn=N",
+    "ids": [
+      "kmvss-official"
+    ]
+  },
+  {
+    "name": "eu-co2-proposal",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC0995",
+    "ids": [
+      "eu-co2-proposal"
+    ]
+  }
+]

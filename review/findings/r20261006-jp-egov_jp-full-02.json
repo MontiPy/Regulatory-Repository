@@ -1,0 +1,62 @@
+[
+  {
+    "id": "jp-jvsregs-art22",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Seats in motor vehicles must be arranged and dimensioned to allow safe seating, in accordance with ministerial standards for space, orientation, and size.",
+    "proposed": "Article 22 sets seat arrangement, orientation and dimension standards and requires specified passenger- and freight-vehicle seats and their mountings to withstand collision loads. It also sets rear-seat-surface protection and auxiliary-seat rules, with exceptions for particular vehicle and seat types, including two-wheelers, low-speed vehicles and listed seat configurations.",
+    "evidence": "③ Seats (including their mounting devices) ... shall comply with the standards for structure prescribed by ministerial notice, so as to sufficiently withstand loads from vehicle occupants when the vehicle is subjected to a collision or similar impact ... ④ The rear portion of seats ... protect vehicle occupants ... ⑤ Vehicles with a seating capacity of 11 or more passengers may have auxiliary seats ... ⑥ Auxiliary seats shall not be installed as infant seats ...",
+    "evidence_url": "regulations/jp-jvsregs-art22.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "jp-jvsregs-art26",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Vehicles exclusively for transporting young children and those with a seating capacity of 30 or more (excluding emergency vehicles) must be equipped with emergency exits meeting ministerially prescribed standards for location and size, unless all seats are directly accessible from the boarding entrance.",
+    "proposed": "Vehicles exclusively transporting young children and vehicles seating at least 30 passengers, excluding emergency vehicles, must have emergency exits meeting ministerial location and size standards, unless every seat is directly accessible from the boarding entrance. Equipped vehicles must visibly mark exit location and opening instructions, use green light when exit location is indicated by lighting, and warn the driver when an exit door opens.",
+    "evidence": "② Motor vehicles equipped with emergency exits shall display the location of the emergency exit and the method of opening the door in a clearly visible manner ... where ... indicated by lighting, the color of the light shall be green. ③ Motor vehicles equipped with emergency exits shall be fitted with a device that warns the driver when the emergency exit door is opened.",
+    "evidence_url": "regulations/jp-jvsregs-art26.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "jp-jvsregs-art29",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Motor vehicle windows must be made of safety glass meeting ministerial standards, and windshields must maintain driver visibility when damaged and resist penetration.",
+    "proposed": "Article 29 sets ministerial safety-glass and windshield strength standards, with low-speed and specified-window exceptions. It also requires suitable distortion and visible-light transmittance for windshields and side windows of vehicles other than towed vehicles, and restricts what may be affixed, painted or engraved on those windows to the listed permitted markings and designated items.",
+    "evidence": "① The windows ... excluding vehicles with a maximum speed of 25 km/h or less ... ② The windshield ... excluding vehicles with a maximum speed of less than 40 km/h ... ③ The windshield and side windows ... excluding towed vehicles ... standards for distortion, visible light transmittance ... ④ ... shall not have anything affixed, pasted, painted, or engraved on them other than the following: ...",
+    "evidence_url": "regulations/jp-jvsregs-art29.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "jp-jvsregs-art30",
+    "field": "systems",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Noise",
+      "Emissions"
+    ],
+    "proposed": [
+      "Noise"
+    ],
+    "evidence": "① ... standards for structure, noise levels ... ② ... a muffler ... structure, noise suppression performance ... ③ Noise suppression devices ... No pollutant-emission or exhaust-gas requirements occur in this article.",
+    "evidence_url": "regulations/jp-jvsregs-art30.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "jp-jvsregs-art43-7",
+    "field": "summary",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Electric motor vehicles (excluding two-wheeled, three-wheeled, special, and towed vehicles) must be fitted with a vehicle approach warning device meeting ministerial performance standards to alert pedestrians of the vehicle's presence.",
+    "proposed": "Vehicles with an electrically powered engine must carry a vehicle approach warning device meeting ministerial function and performance standards, subject to the exclusions for two- and three-wheeled vehicles, specified crawler/sled and special vehicles, and towed vehicles. Vehicles whose internal combustion engine operates at all times while in motion are exempt.",
+    "evidence": "① Motor vehicles equipped with an electrically powered engine ... shall be equipped with a vehicle approach warning device ... However, this does not apply to vehicles whose internal combustion engine operates at all times while in motion.",
+    "evidence_url": "regulations/jp-jvsregs-art43-7.md",
+    "confidence": 0.99
+  }
+]

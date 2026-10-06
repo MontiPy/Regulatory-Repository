@@ -48,7 +48,7 @@
   regime: type-approval
   basis: "Hong Kong: Road Traffic (Construction and Maintenance of Vehicles) Regulations; Transport Department type approval; EPD emission standards (Air Pollution Control (Vehicle Design Standards) (Emission) Regulations; Noise Control (Motor Vehicles) Regulation). Macau is not separately profiled here (traffic authority: DSAT) — verify"
   un_1958: false
-  un_1998: null
+  un_1998: true
   authorities:
     - { name: "HK Transport Department — Vehicle Safety & Standards", scope: "Type approval", url: "https://www.td.gov.hk" }
     - { name: "HK Environmental Protection Department", scope: "Emission type approval (Euro 6 / US / JP accepted)", url: "https://www.epd.gov.hk" }
@@ -57,6 +57,7 @@
   emissions: "Hong Kong: Euro 6c (or Japanese/US equivalents) for petrol private cars; Macau not profiled"
   language: Chinese (Traditional) / English
   process: ["Type approval with TD; emission approval with EPD before first registration."]
+  notes: ["The UN Treaty Collection 1998 Agreement entry for China expressly extends the Agreement to Hong Kong and Macao. The true flag records territorial application through China, not separate contracting-party status (checked 6 October 2026)."]
   records: []
   confidence: medium
 
@@ -193,7 +194,7 @@
   regime: registration-inspection
   basis: "Pakistan: Motor Vehicle Safety & Quality standards (EDB / PSQCA) moving toward UN R adoption after its 1958 Agreement accession (E64, 2020); others: import/registration checks"
   un_1958: null
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: "Pakistan — Engineering Development Board (EDB) / PSQCA", scope: "Vehicle safety & quality standards (UN R-based list)", url: "https://www.engineeringpakistan.gov.pk" }
     - { name: "Sri Lanka — Department of Motor Traffic", scope: "Registration", url: "https://dmt.gov.lk" }
@@ -203,7 +204,7 @@
   emissions: "Pakistan fuel moved from Euro 2 to Euro 5 (petrol Aug 2020, diesel Jan 2021; vehicle emission-standard dates to be verified separately); Sri Lanka/Bangladesh Euro 4/5 references"
   language: English / Urdu / Bengali / Sinhala / Tamil / Nepali
   process: ["Pakistan: comply with the EDB-notified UN R list for locally assembled and imported vehicles; others verify at import/registration."]
-  notes: ["Pakistan acceded to the 1958 Agreement (E64, reported 2020; confirm against the UNECE status table). Sri Lanka has had periodic vehicle-import suspensions — check current import policy."]
+  notes: ["UN Treaty Collection checked 6 October 2026: Pakistan acceded to the 1958 Agreement on 24 February 2020; the other five named states are not listed. None of the six is listed under the 1998 Agreement. Treaty membership does not itself establish national approval acceptance.", "Sri Lanka has had periodic vehicle-import suspensions; check current import policy."]
   records: []
   confidence: low
 
@@ -216,7 +217,7 @@
   regime: type-approval
   basis: "TISI compulsory standards (TIS adopting UN Regulations) + Department of Land Transport (DLT) registration requirements; PCD emissions"
   un_1958: true
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Thai Industrial Standards Institute (TISI), scope: "Compulsory TIS licences (UN R-based) incl. emissions, components; E53 approvals", url: "https://www.tisi.go.th" }
     - { name: Department of Land Transport (DLT), scope: "Vehicle registration requirements", url: "https://www.dlt.go.th" }
@@ -262,7 +263,7 @@
   regime: type-approval
   basis: "Ministry of Transportation type test (SUT) and registration test (SRUT); Ministry of Industry SNI compulsory certification for components; MoEF emissions"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Ministry of Transportation (Kemenhub), scope: "Type test certificate (SUT) and SRUT per vehicle", url: "https://dephub.go.id" }
     - { name: Ministry of Industry (Kemenperin), scope: "SNI compulsory certification (tyres, glazing, batteries, etc.); vehicle industry registration", url: "https://kemenperin.go.id" }
@@ -286,7 +287,7 @@
   regime: hybrid
   basis: "LTO registration + DTI-BPS Philippine Standard (PS) / Import Commodity Clearance (ICC) for components; DENR-EMB emissions (Euro 4); 1958 Agreement CP"
   un_1958: true
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Land Transportation Office (LTO), scope: "Registration, vehicle standards", url: "https://lto.gov.ph" }
     - { name: DTI — Bureau of Philippine Standards (BPS), scope: "PS licence / ICC for tyres, glazing, batteries, etc.", url: "https://bps.dti.gov.ph" }
@@ -308,7 +309,7 @@
   regime: type-approval
   basis: "QCVN national technical regulations (many UN R-based) — Vietnam Register (VR) under Ministry of Construction (formerly MOT) — import and domestic production certification; 1958 Agreement CP since 24 Sep 2023"
   un_1958: true
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Vietnam Register (VR), scope: "Type approval / import quality certification, QCVN", url: "https://www.vr.org.vn" }
   accepts: ["UN R approvals under the 1958 Agreement (mutual recognition being implemented — Decision 77/QD-TTg, Jan 2026)", "UN R test reports as evidence for QCVN items", "ASEAN MRA"]
@@ -328,7 +329,7 @@
   regime: type-approval
   basis: "Land Transport Authority (LTA) Vehicle Type Approval — accepts EU/UN, Japanese, or US standards; NEA emissions"
   un_1958: false
-  un_1998: null
+  un_1998: false
   authorities:
     - { name: Land Transport Authority (LTA), scope: "Vehicle type approval, registration (COE)", url: "https://www.lta.gov.sg" }
     - { name: National Environment Agency (NEA), scope: "Euro 6 emissions, Vehicular Emissions Scheme (VES)", url: "https://www.nea.gov.sg" }
@@ -350,8 +351,8 @@
   drive: mixed
   regime: registration-inspection
   basis: "National registration/import rules; ASEAN APMRA for UN R-based mutual recognition"
-  un_1958: false
-  un_1998: null
+  un_1958: null
+  un_1998: false
   authorities:
     - { name: "Brunei — Land Transport Department (JPD)", scope: "Registration", url: "https://www.jpd.gov.bn" }
   accepts: ["UN R / Japanese / EU documentation"]
@@ -359,7 +360,7 @@
   emissions: "Euro 2–5 references depending on country"
   language: National languages
   process: ["Verified at import/registration."]
-  notes: ["Authorities are listed for Brunei only; none listed for Cambodia, Laos, Myanmar or Timor-Leste (Timor-Leste joined ASEAN in Oct 2025 and is not an APMRA signatory). Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
+  notes: ["UN Treaty Collection checked 6 October 2026: Cambodia acceded to the 1958 Agreement on 3 February 2026; the other four named states are not listed. Cambodia declared it would not be bound by annexed UN Regulations until further notification. None of the five is listed under the 1998 Agreement.", "Authorities are listed for Brunei only; none listed for Cambodia, Laos, Myanmar or Timor-Leste (Timor-Leste joined ASEAN in Oct 2025 and is not an APMRA signatory). Drive side: Brunei & Timor-Leste RHD; Cambodia, Laos, Myanmar drive on the right (Myanmar historically tolerates RHD imports)."]
   records: [asean-workbook-reg-0615-asean-automotive-products-mutual-recognition-arrangement-apmra]
   confidence: low
 

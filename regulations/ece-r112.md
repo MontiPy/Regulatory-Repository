@@ -33,14 +33,14 @@ systems:
 - Lighting & signaling
 tagged_at: '2026-06-16T15:44:40+00:00'
 tagging_status: llm-tagged
-title: UN Regulation No. 112 — Headlamps Emitting an Asymmetrical Low-Beam
+title: UN Regulation No. 112 — Headlamps Emitting an Asymmetrical Passing Beam or
+  a Driving Beam
 vehicle_categories:
 - Passenger car
 - Light truck
 - Heavy truck
 - Motorcycle
 - Bus
-- Trailer
 ---
 
 > **Source:** text as published in the Official Journal of the European Union (CELEX 42014X0822(02), 2014-08-22). Only the original UN/ECE texts have legal effect, and later supplements or series of amendments may exist — check the UNECE status document (ECE/TRANS/WP.29/343) for the current version.

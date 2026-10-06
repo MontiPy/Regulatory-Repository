@@ -20,13 +20,11 @@ region: US
 source_api: spreadsheet
 source_url: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-575
 status: in-force
-summary: Consumer information requirements for new vehicles and tires, including the
-  Uniform Tire Quality Grading system (§575.104), truck-camper loading information
-  (§575.103), the utility-vehicle rollover warning (§575.105) and NCAP safety-rating
-  labeling on the Monroney label (§§575.301-575.302). Traceability and recall reporting
-  are covered by other parts, not Part 575.
+summary: Reference record for consumer information under 49 CFR Part 575. This repository
+  does not hold the regulation text; consult the official source for scope and disclosure
+  requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 68806a8b0d683b78693127983b63ef5d6e079b79
+summary_hash: df4585f79626779df168bd02e0689ab43f3ea852
 systems:
 - Tires & wheels
 tagged_at: '2026-06-16T15:44:40+00:00'
@@ -37,29 +35,6 @@ vehicle_categories:
 - Light truck
 ---
 
-# Consumer Information / Labels and Ratings
+# Consumer Information (49 CFR Part 575)
 
-**Regulated Area:** Certification / labels / recall / records
-
-**Applicability:** Consumer information such as UTQG, rollover warnings, safety-rating labels as applicable Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Ensure the vehicle and compliance record can be legally placed on market, traced, recalled and reported to authorities.
-
-## Primary Vehicle Systems and Components
-
-Compliance documentation, VIN/certification labels, owner manuals, type approval files, recall systems, dealer/importer records, production traceability data.
-
-## Failure Modes and Symptoms
-
-Incorrect VIN/label, incomplete type-approval evidence, recall population not traceable, missing owner notification, delayed reporting, import/conformity hold.
-
-## Related Regulations
-
-Possible functional overlap: FMVSS / United States 49 CFR Part 582 - Insurance Cost Information Regulation
-
-## Engineering Considerations
-
-Technically outside Part 571
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

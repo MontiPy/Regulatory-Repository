@@ -21,8 +21,11 @@ region: JP
 source_api: egov_jp
 source_url: https://laws.e-gov.go.jp/law/326M50000800067
 status: in-force
-summary: Motor vehicle windows must be made of safety glass meeting ministerial standards,
-  and windshields must maintain driver visibility when damaged and resist penetration.
+summary: Article 29 sets ministerial safety-glass and windshield strength standards,
+  with low-speed and specified-window exceptions. It also requires suitable distortion
+  and visible-light transmittance for windshields and side windows of vehicles other
+  than towed vehicles, and restricts what may be affixed, painted or engraved on those
+  windows to the listed permitted markings and designated items.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 8443ab058e73333d23605907f17464e52bca44c1
 systems:

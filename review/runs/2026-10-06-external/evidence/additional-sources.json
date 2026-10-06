@@ -1,0 +1,126 @@
+[
+  {
+    "name": "eu-elv-2026-eli",
+    "url": "https://eur-lex.europa.eu/eli/reg/2026/1738/oj/eng",
+    "ids": [
+      "eu-32000l0053"
+    ],
+    "retrieved_at": "2026-10-06T12:18:24.134707+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 202,
+    "final_url": "https://eur-lex.europa.eu/eli/reg/2026/1738/oj/eng",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 0,
+    "truncated": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "page_title": "",
+    "availability": "challenge_or_interstitial",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-eli.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-eli.raw.gz"
+  },
+  {
+    "name": "official-br-abnt-nbr-15145",
+    "url": "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/",
+    "ids": [
+      "br-abnt-nbr-15145"
+    ],
+    "retrieved_at": "2026-10-06T12:18:24.131185+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.atic-ts.com/brazilian-whole-vehicle-certfication-2/",
+    "redirects": [
+      {
+        "url": "https://www.atic-ts.com/brazilian-whole-vehicle-certfication/",
+        "status": 301
+      }
+    ],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 415448,
+    "truncated": false,
+    "sha256": "3724cbcca04aee2c85262e4ca8dfbc7f47f76b55197e6d421896bb09f997e560",
+    "page_title": "Brazil Vehicle Type Approval",
+    "availability": "response_retrieved",
+    "text_preview": "Brazil Vehicle Type Approval Brazil Vehicle Type Approval To enter the Brazilian market, vehicles must first obtain the Certificate of Compliance with Traffic Legislation (CAT) issued by the National Secretariat of Traffic (SENATRAN), and the License for the Use of Vehicle or Engine Configuration (LCVM) issued by the Brazilian Institute of Environment and Renewable Natural Resources (IBAMA) to demonstrate compliance with applicable vehicle emissions requirements. Brazil Emissions Certification: ",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/official-br-abnt-nbr-15145.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/official-br-abnt-nbr-15145.raw.gz"
+  },
+  {
+    "name": "official-us-stub-us-epa-40-cfr-part-86-tier-3",
+    "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3",
+    "ids": [
+      "us-stub-us-epa-40-cfr-part-86-tier-3"
+    ],
+    "retrieved_at": "2026-10-06T12:18:24.130683+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": "Tue, 06 Oct 2026 12:10:16 GMT",
+    "etag": "W/\"1791288616\"",
+    "bytes_retained": 64466,
+    "truncated": false,
+    "sha256": "7aec74518c4f36b6d43308e33057a9fd6438dcb531503079f61769073b60c216",
+    "page_title": "Final Rule for Control of Air Pollution from Motor Vehicles: Tier 3 Motor Vehicle Emission and Fuel Standards | US EPA",
+    "availability": "response_retrieved",
+    "text_preview": "Final Rule for Control of Air Pollution from Motor Vehicles: Tier 3 Motor Vehicle Emission and Fuel Standards | US EPA Skip to main content An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information on",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/official-us-stub-us-epa-40-cfr-part-86-tier-3.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/official-us-stub-us-epa-40-cfr-part-86-tier-3.raw.gz"
+  },
+  {
+    "name": "br-senatran990-republication",
+    "url": "https://www.gov.br/infraestrutura/pt-br/assuntos/transito/arquivos-senatran/portarias/2022/Portaria9902022R.pdf",
+    "ids": [
+      "br-senatran-990"
+    ],
+    "retrieved_at": "2026-10-06T12:18:24.133952+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 404,
+    "final_url": "https://www.gov.br/transportes/pt-br/pt-br/assuntos/transito/arquivos-senatran/portarias/2022/Portaria9902022R.pdf",
+    "redirects": [
+      {
+        "url": "https://www.gov.br/infraestrutura/pt-br/assuntos/transito/arquivos-senatran/portarias/2022/Portaria9902022R.pdf",
+        "status": 302
+      }
+    ],
+    "content_type": "application/json",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 26,
+    "truncated": false,
+    "sha256": "6bbcea2b37bd092cc60604157a0ceec8944866fc2478f7af8aea3c3df40bc258",
+    "page_title": "",
+    "availability": "http_error",
+    "text_preview": "{\"error_type\": \"NotFound\"}",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-republication.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-republication.raw.gz"
+  },
+  {
+    "name": "br-senatran990-official",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2022/Portaria9902022.pdf",
+    "ids": [
+      "br-senatran-990"
+    ],
+    "retrieved_at": "2026-10-06T12:18:24.132636+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2022/Portaria9902022.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 939808,
+    "truncated": false,
+    "sha256": "79c69a01e9622de7d06f7055dcaa1120ffcf05d2d9aa453f6efebd241c607133",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-official.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-official.raw.gz"
+  }
+]

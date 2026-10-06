@@ -29,7 +29,7 @@ summary: Canadian regulations under the Canadian Environmental Protection Act, 1
   the National Emissions Mark. They are not part of the Motor Vehicle Safety Regulations
   or Schedule III.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 53f8a5f6cfedf1e860f080837004f801649c0bbb
+summary_hash: c3d46053b263da16f46b78699167b363508f731e
 systems:
 - Emissions
 - On-board diagnostics
@@ -37,8 +37,7 @@ systems:
 tagged_at: '2026-06-16T15:44:36+00:00'
 tagging_status: llm-tagged
 title: On-Road Vehicle and Engine Emission Regulations
-un_equivalent:
-- UN R83
+un_equivalent: []
 vehicle_categories:
 - Passenger car
 - Light truck
@@ -51,7 +50,7 @@ vehicle_categories:
 
 **Regulated Area:** Emissions
 
-**Applicability:** Applies to passenger cars when marked in Schedule III of the Motor Vehicle Safety Regulations; verify TSD/test-method amendments and import/manufacture date.
+**Applicability:** SOR/2003-2 under the Canadian Environmental Protection Act, 1999 regulates emissions from prescribed classes of on-road vehicles and engines, including light-duty vehicles, heavy-duty vehicles and engines, and motorcycles. Consult its category definitions, model-year provisions and evidence-of-conformity requirements.
 
 
 ## Key Compliance Intent

@@ -1,0 +1,280 @@
+{
+  "reviewed": [
+    "US",
+    "CA",
+    "MX",
+    "CENTAM",
+    "CARIB",
+    "BR",
+    "AR",
+    "CL",
+    "CO",
+    "ANDEAN",
+    "UY-PY"
+  ],
+  "skipped": [
+    {
+      "id": "US",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "US",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "US",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "US",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "CA",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "CA",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "CA",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "CA",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "MX",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "MX",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "MX",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "MX",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "CENTAM",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "CENTAM",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "CENTAM",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "CENTAM",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "CARIB",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "CARIB",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "CARIB",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "CARIB",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "BR",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "BR",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "BR",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "BR",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "AR",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "AR",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "AR",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "AR",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "CL",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "CL",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "CL",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "CL",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "CO",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "CO",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "CO",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "CO",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "ANDEAN",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "ANDEAN",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "ANDEAN",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "ANDEAN",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "UY-PY",
+      "field": "authorities",
+      "reason": "Every authority name/scope/URL read. Shared curl policy403/curl56 makes availability, current names and legal competence externally unverified."
+    },
+    {
+      "id": "UY-PY",
+      "field": "un_1958/un_1998/accepts",
+      "reason": "Agreement membership and national UN/FMVS-equivalence or recognition claims require UNECE/national official evidence, which was not reachable."
+    },
+    {
+      "id": "UY-PY",
+      "field": "basis/marks/emissions/process/watch/notes",
+      "reason": "Every instrument citation, number, date, authority and process claim read; all linked record IDs exist and title/region matches. Only specific linked regulation-body clauses quoted in findings are supported; other claims not authenticated externally."
+    },
+    {
+      "id": "UY-PY",
+      "field": "drive/language/regime",
+      "reason": "Read for internal consistency; country classification and broad consumer-language claims externally unverified, except specific own-body language rules noted in findings."
+    },
+    {
+      "id": "US",
+      "field": "emissions/watch",
+      "reason": "Critical 2026 claims (18Feb EPA GHG repeal, 30Sep CAFE reset effective30Nov, credit trading elimination, CARB waiver/Congress litigation) cannot be authenticated from current linked bodies or an official source fetched now. Hold; do not substitute model knowledge."
+    },
+    {
+      "id": "CA",
+      "field": "emissions/watch",
+      "reason": "15Aug2026 Gazette proposal, paused EVAS2026 target, repeal proposal and 29Oct2026 comment deadline not verified from official source during this review."
+    },
+    {
+      "id": "CENTAM",
+      "field": "authorities",
+      "reason": "Costa Rica RTV/Riteve agency name may be stale but official source unavailable; do not guess replacement provider."
+    },
+    {
+      "id": "MX",
+      "field": "watch",
+      "reason": "NOM194 model-year2025 ESC/ISOFIX and 2026 TPMS dates and optional pedestrian protection require official applicability table; linked body is limited summary."
+    },
+    {
+      "id": "CO",
+      "field": "emissions",
+      "reason": "Euro6/Tier3 light-vehicle claim under Ley1972/2019 cannot be authenticated; no official instrument fetched."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "US",
+      "field": "process",
+      "reason": "Part565 vs Part566 distinction exists currently; proposed change only splits the different VIN identifier/decoder deadlines."
+    },
+    {
+      "id": "BR",
+      "field": "records",
+      "reason": "Current 949,954,936 linked record titles correctly match side impact, ESC, belt-reminder topics; no title/topic confusion found."
+    },
+    {
+      "id": "CA",
+      "field": "accepts",
+      "reason": "Current UN/FMVS alternative claim already asks users to check each text; own s108 and s114 contain explicit limited alternatives."
+    }
+  ],
+  "notes": "Read all 11 complete Americas profiles and checked all 40 linked IDs, titles and regions (no missing/mismatched links). Two findings quote referenced instruments' own regulation-text bodies and qualify unverified broader claims. No official website text or live status/membership authenticated; all 2026 US/Canadian emissions developments explicitly held. Profiles without records or with workbook-only bodies retain uncovered substantive-law verification."
+}

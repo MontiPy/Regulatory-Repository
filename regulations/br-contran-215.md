@@ -7,7 +7,7 @@ last_pulled: '2026-06-01T18:53:17+00:00'
 open_tags: []
 region: BR
 source_api: brazil
-source_url: https://www.atic-ts.com/brazilian-whole-vehicle-certfication/
+source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_215.doc
 status: in-force
 summary: CONTRAN Resolution 215/2006 regulates the manufacture, installation and use
   of bull bars (quebra-mato) on motor vehicles up to 3,500 kg GVW, including an identification

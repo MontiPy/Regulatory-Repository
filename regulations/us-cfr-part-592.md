@@ -18,9 +18,12 @@ region: US
 source_api: ecfr
 source_url: https://www.ecfr.gov/current/title-49/part-592
 status: in-force
-summary: Persons wishing to import motor vehicles not originally manufactured to comply
-  with Federal Motor Vehicle Safety Standards must register with NHTSA by submitting
-  a formal application meeting specified content and format requirements.
+summary: Part 592 sets registration procedures and duties for Registered Importers
+  of vehicles not originally manufactured to conform to applicable FMVSS. It applies
+  to persons seeking registration and registered importers. Duties include confirming
+  import eligibility, bringing imported vehicles into conformity and certifying them
+  within 120 calendar days after entry, subject to the part’s provisions. It also
+  governs suspension, revocation and reinstatement of registrations.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 2bf154e76d9d9a62755290bcaca242822afb9c59
 systems: []

@@ -1,0 +1,509 @@
+{
+  "reviewed": [
+    "cn-gb-44495-2024",
+    "cn-gb-44496-2024",
+    "cn-gb-44497",
+    "cn-gb-4599-2024",
+    "cn-gb-4785-2019",
+    "cn-gb-5920-2024",
+    "cn-gb-7258-2017",
+    "cn-gb-8410",
+    "cn-gb-9656-2021",
+    "cn-gb-9743-2024",
+    "cn-gb-t-18411-2018",
+    "cn-gb-t-20913-2007",
+    "cn-gb-t-30512-2014",
+    "cn-gb-t-30677-2014",
+    "cn-gb-t-34590"
+  ],
+  "skipped": [
+    {
+      "id": "cn-gb-44495-2024",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44495-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44495-2024",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44495-2024",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44495-2024",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44495-2024",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44496-2024",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-7258-2017",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-8410",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9656-2021",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-9743-2024",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-18411-2018",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-20913-2007",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30512-2014",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "title/citation official metadata",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "status/status_note/effective_date",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "vehicle_categories",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "systems/commodities detailed scope",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "technical requirements",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "source_url",
+      "reason": "Chinese GB full text image-only and unavailable; stored body is template/summary/stub, not legal text. Instrument subject checked and taxonomy values valid, but current official metadata, scope and details cannot be authenticated because SAMR curls denied by policy."
+    },
+    {
+      "id": "cn-gb-44497",
+      "field": "body/systems",
+      "reason": "Data-recorder title is correct; body mixes cybersecurity, software updating and generic failure modes. No official text to isolate appropriate clauses; mixed topic held rather than stub whole body."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "status/status_note",
+      "reason": "2022 successor series and 2023-07-01 date are absent from body; do not reverse superseded status without current official metadata."
+    },
+    {
+      "id": "cn-gb-t-30677-2014",
+      "field": "status_note",
+      "reason": "GB30677-2026 mandatory successor claim lacks own-body clause/current official source; human confirmation required."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "cn-gb-4599-2024",
+      "field": "summary/citation",
+      "reason": "Current metadata already identifies updated recorded device/installation subject or precise Part10 citation; no reintroduction of prior broad guessed equivalents. Detailed accuracy still not independently verified."
+    },
+    {
+      "id": "cn-gb-4785-2019",
+      "field": "summary/citation",
+      "reason": "Current metadata already identifies updated recorded device/installation subject or precise Part10 citation; no reintroduction of prior broad guessed equivalents. Detailed accuracy still not independently verified."
+    },
+    {
+      "id": "cn-gb-5920-2024",
+      "field": "summary/citation",
+      "reason": "Current metadata already identifies updated recorded device/installation subject or precise Part10 citation; no reintroduction of prior broad guessed equivalents. Detailed accuracy still not independently verified."
+    },
+    {
+      "id": "cn-gb-t-34590",
+      "field": "summary/citation",
+      "reason": "Current metadata already identifies updated recorded device/installation subject or precise Part10 citation; no reintroduction of prior broad guessed equivalents. Detailed accuracy still not independently verified."
+    }
+  ],
+  "notes": "All 15 limited bodies read in full. Eight Related Regulations-only UN equivalents lack required adoption/acceptance evidence and proposed removed. Exact prohibited-substances taxonomy subject added from own recorded subject. Two material-scope summaries downgraded; two recommended GB/T qualifiers restored. Did not verify Chinese legal text, numeric requirements, implementation/supersession dates or official metadata under network policy."
+}

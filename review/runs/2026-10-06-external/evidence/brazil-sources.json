@@ -1,0 +1,93 @@
+[
+  {
+    "name": "br-resolutions-status",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran",
+    "ids": [
+      "br-resolutions-status"
+    ],
+    "retrieved_at": "2026-10-06T12:15:57.464955+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/resolucoes-contran",
+    "redirects": [],
+    "content_type": "text/html;charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 1449114,
+    "truncated": false,
+    "sha256": "abbbe54018dde4f96fa27d3402e42f95e0ea93d754452ec7809f62a8249c13f0",
+    "page_title": "Resoluções Contran — Ministério dos Transportes",
+    "availability": "response_retrieved",
+    "text_preview": "Resoluções Contran — Ministério dos Transportes Atenção! Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente. Abrir menu principal de navegação Ministério dos Transportes Termos mais buscados Desenrola Brasil assinatura mei imposto de renda inss Termos mais buscados Desenrola Brasil assinatura mei Info Resoluções Contran Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para ár",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-resolutions-status.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-resolutions-status.raw.gz"
+  },
+  {
+    "name": "br-contran37-official",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-37-de-21-de-maio-de-1998",
+    "ids": [
+      "br-contran37-official"
+    ],
+    "retrieved_at": "2026-10-06T12:15:57.465357+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-37-de-21-de-maio-de-1998",
+    "redirects": [],
+    "content_type": "text/html;charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 131365,
+    "truncated": false,
+    "sha256": "734f1dee50da0b5db29337978b7777513b53baec1dab8bdc47881208c24aa52b",
+    "page_title": "RESOLUÇÃO CONTRAN Nº 37, DE 21 DE MAIO DE 1998 — Ministério dos Transportes",
+    "availability": "response_retrieved",
+    "text_preview": "RESOLUÇÃO CONTRAN Nº 37, DE 21 DE MAIO DE 1998 — Ministério dos Transportes Atenção! Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente. Abrir menu principal de navegação Ministério dos Transportes Termos mais buscados Desenrola Brasil assinatura mei imposto de renda inss Termos mais buscados Desenrola Brasil assinatura mei Info RESOLUÇÃO CONTRAN Nº 37, DE 21 DE MAIO DE 1998 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por Li",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran37-official.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran37-official.raw.gz"
+  },
+  {
+    "name": "br-contran498-official",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-498-de-29-de-julho-de-2014",
+    "ids": [
+      "br-contran498-official"
+    ],
+    "retrieved_at": "2026-10-06T12:15:57.466803+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-498-de-29-de-julho-de-2014",
+    "redirects": [],
+    "content_type": "text/html;charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 131926,
+    "truncated": false,
+    "sha256": "0100badecc95449806734d97f9493c1bdf00881fcce8db21e703184205185883",
+    "page_title": "RESOLUÇÃO CONTRAN Nº 498, DE 29 DE JULHO DE 2014 — Ministério dos Transportes",
+    "availability": "response_retrieved",
+    "text_preview": "RESOLUÇÃO CONTRAN Nº 498, DE 29 DE JULHO DE 2014 — Ministério dos Transportes Atenção! Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente. Abrir menu principal de navegação Ministério dos Transportes Termos mais buscados Desenrola Brasil assinatura mei imposto de renda inss Termos mais buscados Desenrola Brasil assinatura mei Info RESOLUÇÃO CONTRAN Nº 498, DE 29 DE JULHO DE 2014 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe po",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-official.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-official.raw.gz"
+  },
+  {
+    "name": "br-contran924-official",
+    "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022.pdf",
+    "ids": [
+      "br-contran924-official"
+    ],
+    "retrieved_at": "2026-10-06T12:15:57.467539+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022.pdf",
+    "redirects": [],
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 74075,
+    "truncated": false,
+    "sha256": "248f0989704594e0cd54aa5192678fe5a19b7ad6d314e91b3ba6a97fb8c235c4",
+    "availability": "response_retrieved",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-official.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-official.raw.gz"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "au-f2006l02300",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Motorcycle"
+    ],
+    "evidence": "| Motor tricycle | LE | L5 |  |  | | | all vehicles | LEP |  | 1 July 1992 | Nil | | | Light goods vehicle | NA | N1 | Not Applicable |  |",
+    "evidence_url": "regulations/au-f2006l02300.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2006l02312",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Seat strength, seat anchorage strength, and padding in omnibuses are regulated under this Australian Design Rule, which establishes requirements covering the structural integrity of seats and their anchorages, as well as padding standards applicable to omnibuses.",
+    "proposed": "ADR 66/00 regulates seat, seat-anchorage and seatbelt-anchorage strength and occupant protection from seat accessories in heavy omnibuses. It excludes route service omnibuses, omnibuses with fewer than 17 seats including driver and crew, and vehicles whose passenger seats all have a reference height below 1.0 m. Omnibuses complying with ADR 68 need not comply. It incorporates ECE Regulation 80 requirements with modifications.",
+    "evidence": "The function of this ADR is to specify requirements for the strength of ‘Seats’, seat-anchorages and seatbelt ‘Anchorages’’ of certain omnibuses; and for protecting occupants from accessories on the ‘Seats’ and the armrests. | This ADR does not apply to ‘Route Service Omnibuses’ or omnibuses with less than 17 ‘Seats’  including the driver and crew, or to vehicles in which all passenger ‘Seats’ have a “reference height” of less than 1.0 metre. | Omnibuses complying with ADR 68/...  need not comply with this rule. | | Heavy omnibus | | ME | M3 | 1 July 1992 | Nil | | Vehicles and the ‘Seats’ therein shall comply with the requirements of this rule, which incorporates ECE Regulation 80 requirements in Appendix A.",
+    "evidence_url": "regulations/au-f2006l02312.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2006l02299",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Trailers designed for use in road trains in Australia are regulated under this standard, which establishes electrical and mechanical requirements for such trailers. It operates as a national road vehicle standard under the Road Vehicle Standards Act 2018.",
+    "proposed": "ADR 63/00 specifies additional requirements for trailers used in road trains with a gross combination mass not exceeding 125 tonnes. It applies to the trailer categories and manufacturing dates in its applicability table and covers electrical and mechanical requirements. Pig trailers other than converter dollies must not be approved to this rule.",
+    "evidence": "The function of this Australian Design Rule is to specify additional requirements for trailers designed for use in ‘Road Trains’ having a ‘Gross Combination Mass’ not exceeding 125 tonnes. | A ‘Pig Trailer’ other than a ‘Converter Dolly’ must not be ‘Approved’ to this rule.",
+    "evidence_url": "regulations/au-f2006l02299.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2006l02305",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "ADR 77/00 covers gas discharge headlamps fitted to road vehicles in Australia, establishing national design requirements for such lighting systems. The standard is administered under the Road Vehicle Standards Act 2018 and repeals any prior instruments of the same name made under the Motor Vehicle Standards Act 1989.",
+    "proposed": "ADR 77/00 prescribes photometric requirements for motor vehicle headlamps equipped with gas discharge light sources. Fitment is governed by ADRs 13, 19 and 67. Required headlamps must comply with Appendix A as varied by the exemptions and supplementary requirements, or the alternative technical requirements of UN Regulation No. 98.",
+    "evidence": "This Australian Design rule (ADR) prescribes the photometric requirements for motor vehicle headlamps equipped with gas discharge light sources. | The circumstances under which gas discharge headlamps are mandatory, optional or prohibited are set out in either ADRs 13/..., 19/... or 67/… | The technical requirements of United Nations Regulation No. 98 - UNIFORM PROVISIONS CONCERNING THE APPROVAL OF MOTOR VEHICLE HEADLAMPS EQUIPPED WITH GAS-DISCHARGE LIGHT SOURCES.",
+    "evidence_url": "regulations/au-f2006l02305.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "au-f2006l02308",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Side marker lamps on vehicles in Australia are regulated under this Australian Design Rule, which establishes the national standard for their requirements and repeals all previous instruments of the same name made under the Motor Vehicle Standards Act 1989.",
+    "proposed": "ADR 74/00 prescribes photometric requirements for side marker lamps to increase visibility of the sides of road vehicles. Fitment is governed by ADRs 13, 19 and 67. Compliance may use the modified Appendix A or the rule’s alternative side-marker requirements; UN Regulation No. 91, 00 series, is also deemed equivalent.",
+    "evidence": "The function of Australian Design Rule (ADR) 74/00 is to prescribe the photometric requirements of side marker lamps which are used to increase the visibility of the sides of road vehicles. | The circumstances under which side marker lamps are mandatory, optional, or prohibited are set out in either ADRs 13/…, 19/… or 67/… | The technical requirements of United Nations Regulation No. 91 - UNIFORM PROVISIONS CONCERNING THE APPROVAL OF SIDE MARKER LAMPS FOR MOTOR VEHICLES AND THEIR TRAILERS, incorporating the 00 series of amendments are deemed to be equivalent to the technical requirements of this standard.",
+    "evidence_url": "regulations/au-f2006l02308.md",
+    "confidence": 0.99
+  }
+]

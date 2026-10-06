@@ -1,5 +1,7 @@
 # Content & accuracy review — 728 regulation records + knowledge layer
 
+**Latest continuation:** [External review — 6 October 2026](runs/2026-10-06-external/REPORT.md), following [the completed727-record content review](runs/2026-10-06/REPORT.md). The report below is retained as historical review evidence; its change/network statements are not the current branch state.
+
 **Run:** 2026-10-06 · **Method:** 47 Sonnet reviewer agents (one shard each, fixed item lists, shared
 [brief](REVIEWER_BRIEF.md)) orchestrated by Opus; deterministic pre-checks
 ([precheck.json](precheck.json)); orchestrator re-verification of every high-severity external claim it
@@ -250,3 +252,11 @@ Human-check items (resolved 2026-10-06):
   - Art. 18-6: the 2025 renumbering and amendment.
 
   All 80 are now current.
+
+## 2026-10-06 body-evidence review
+
+54/54 shards completed: 727 records and162 knowledge items. 383 findings (92high/282medium/9low);302 applied,80 held,1 rejected.229 records and4 knowledge files changed. Final build0 errors/0 warnings;pytest228 passed;11 browser samples passed;summary_stale0. No official body refresh succeeded; all602 URL requests were policy-blocked, and the user selected body-only completion.
+
+The [complete report](runs/2026-10-06/REPORT.md) contains the ten consequential corrections, non-regulatory/third-party evidence limitations, all needs-a-human issues, remaining coverage and exact counts. [Final adjudication](runs/2026-10-06/adjudication.json) is authoritative for this run. No PR or main push.
+
+Published review branch: [https://github.com/MontiPy/Regulatory-Repository/tree/review/2026-10-06-content](https://github.com/MontiPy/Regulatory-Repository/tree/review/2026-10-06-content). Content commit `6e43f84`; no PR opened.

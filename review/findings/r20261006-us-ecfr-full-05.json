@@ -1,0 +1,102 @@
+[
+  {
+    "id": "us-fmvss-119",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "Heavy truck",
+      "Light truck",
+      "Motorcycle",
+      "Trailer"
+    ],
+    "proposed": [
+      "Heavy truck",
+      "Light truck",
+      "Motorcycle",
+      "Bus",
+      "Trailer"
+    ],
+    "evidence": "This standard establishes performance and marking requirements for tires for use on motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles. | New pneumatic tires for use on motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds) manufactured after 1948;",
+    "evidence_url": "regulations/us-fmvss-119.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-fmvss-119",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "New pneumatic tires for heavy vehicles (GVWR over 10,000 lbs), specialty tires, and motorcycle tires are subject to this standard, which mandates performance requirements for endurance, strength, and high-speed capability, as well as marking and rim-matching information to ensure proper tire selection and safe use.",
+    "proposed": "FMVSS No. 119 regulates performance and markings of new pneumatic tires for vehicles over 4,536 kg GVWR, specified deep-tread light-truck tires for lighter vehicles, special-use trailer tires and motorcycle tires. It sets endurance, strength, marking and rim-matching requirements. High-speed testing is required only for motorcycle tires and the non-speed-restricted small-rim tires specified in S6.3.",
+    "evidence": "This standard establishes performance and marking requirements for tires for use on motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles. | However, this requirement applies only to motorcycle tires and to non-speed-restricted tires of nominal rim diameter code 14.5 or less marked load range A, B, C, or D.",
+    "evidence_url": "regulations/us-fmvss-119.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-fmvss-120",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Tire selection, rim marking, and load carrying capacity requirements for motor vehicles with a GVWR over 4,536 kilograms (10,000 pounds) are covered by this standard.",
+    "proposed": "FMVSS No. 120 sets tire and rim selection, rim marking and motor home/recreation vehicle trailer load-carrying information requirements. It applies to motor vehicles over 4,536 kg GVWR and motorcycles, rims for those vehicles and their non-pneumatic spare tire assemblies.",
+    "evidence": "This standard specifies tire and rim selection requirements, rim marking requirements and motor home/recreation vehicle trailer load carrying capacity information. | This standard applies to motor vehicles with a gross vehicle weight rating (GVWR) of more than 4,536 kilograms (10,000 pounds and motorcycles, to rims for use on those vehicles, and to non-pneumatic spare tire assemblies for use on those vehicles.",
+    "evidence_url": "regulations/us-fmvss-120.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-fmvss-114",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Bus"
+    ],
+    "evidence": "Additionally, paragraph S5.3 of this standard applies to all motor vehicles, except trailers and motorcycles, with a GVWR of 4,536 kilograms (10,000 pounds) or less.",
+    "evidence_url": "regulations/us-fmvss-114.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-fmvss-114",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Theft protection and rollaway prevention for passenger cars and light trucks and MPVs (GVWR ≤ 10,000 lbs) are regulated by this standard.",
+    "proposed": "FMVSS No. 114 sets theft protection and rollaway prevention requirements for passenger cars and trucks/MPVs up to 4,536 kg GVWR, excluding walk-in vans. Its S5.3 brake-transmission shift-interlock requirement also applies to other motor vehicles up to that GVWR, excluding trailers and motorcycles, with an automatic transmission having a park position.",
+    "evidence": "This standard applies to all passenger cars, and to trucks and multipurpose passenger vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less. However, it does not apply to walk-in van-type vehicles. | Each motor vehicle manufactured on or after September 1, 2010 with a GVWR of 4,536 kilograms (10,000 pounds) or less with an automatic transmission that includes a “park” position shall be equipped with a system that requires the service brake to be depressed before the transmission can be shifted out of “park.”",
+    "evidence_url": "regulations/us-fmvss-114.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-fmvss-113",
+    "field": "commodities",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Body structure",
+      "Door latches & hinges"
+    ],
+    "proposed": [
+      "Body structure"
+    ],
+    "evidence": "Hood means any exterior movable body panel forward of the windshield that is used to cover an engine, luggage, storage, or battery compartment.",
+    "evidence_url": "regulations/us-fmvss-113.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "us-fmvss-123",
+    "field": "summary",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Motorcycle controls and displays on handlebar-equipped motorcycles (except law enforcement models) are regulated for standardized location, operation, identification, and illumination.",
+    "proposed": "FMVSS No. 123 standardises the location, operation, identification and illumination of motorcycle controls and displays and sets requirements for stands and footrests. It applies to motorcycles equipped with handlebars, excluding those designed and sold exclusively for law enforcement. It requires a supplemental engine-stop control and footrests at each designated seating position.",
+    "evidence": "This standard specifies requirements for the location, operation, identification, and illumination of motorcycle controls and displays, and requirements for motorcycle stands and footrests. | Each motorcycle shall be equipped with a supplemental engine stop control, located and operable as specified in Table 1. | Footrests shall be provided for each designated seating position.",
+    "evidence_url": "regulations/us-fmvss-123.md",
+    "confidence": 0.99
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "reviewed": [
+    "us-fmvss-209",
+    "us-fmvss-210",
+    "us-fmvss-212",
+    "us-fmvss-213",
+    "us-fmvss-213a",
+    "us-fmvss-213b",
+    "us-fmvss-214",
+    "us-fmvss-216",
+    "us-fmvss-216a",
+    "us-fmvss-217",
+    "us-fmvss-217a",
+    "us-fmvss-218",
+    "us-fmvss-219",
+    "us-fmvss-220",
+    "us-fmvss-221",
+    "us-fmvss-222",
+    "us-fmvss-223"
+  ],
+  "skipped": [
+    {
+      "id": "us-fmvss-209",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-209",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-210",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-210",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-212",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-212",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-213",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-213",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-213a",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-213a",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-213b",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-213b",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-214",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-214",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-216",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-216",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-216a",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-216a",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-217",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-217",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-217a",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-217a",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-218",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-218",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-219",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-219",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-220",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-220",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-221",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-221",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-222",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-222",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-223",
+      "field": "source_url",
+      "reason": "Citation and source URL section match current own-body heading; availability unverified because shared curl audit denied by network policy."
+    },
+    {
+      "id": "us-fmvss-223",
+      "field": "current external status/supersession",
+      "reason": "Scope/application dates in own body checked; independent latest repeal/amendment verification blocked. No speculative status changes proposed."
+    },
+    {
+      "id": "us-fmvss-213a",
+      "field": "vehicle_categories",
+      "reason": "Component-focused scope without exhaustive vehicle classes; existing tags retained instead of inventing mappings."
+    },
+    {
+      "id": "us-fmvss-218",
+      "field": "vehicle_categories",
+      "reason": "Component-focused scope without exhaustive vehicle classes; existing tags retained instead of inventing mappings."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "us-fmvss-213b",
+      "field": "status/effective_date",
+      "reason": "Already upcoming for 2026-12-05, consistent with S3 and review date."
+    },
+    {
+      "id": "us-fmvss-213",
+      "field": "summary",
+      "reason": "Already shows manufacturing cutover before 2026-12-05 and successor 213b."
+    },
+    {
+      "id": "us-fmvss-218",
+      "field": "vehicle_categories/commodities",
+      "reason": "Already motorcycle-only tag and no invented helmet commodity."
+    },
+    {
+      "id": "us-fmvss-216/216a",
+      "field": "summary",
+      "reason": "Current summaries match original and upgraded roof crush instruments and existing applicability exclusions."
+    }
+  ],
+  "notes": "All 17 records reviewed against own-body scope/application, subject, summary claims, dates and taxonomy. No un_equivalent values present. Future application of 217a derived from S3, not external knowledge. Whole technical annexes not audited; latest eCFR source availability blocked."
+}

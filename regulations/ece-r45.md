@@ -18,10 +18,10 @@ region: ECE
 source_api: unece
 source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42020X0575
 status: in-force
-summary: UN Regulation No. 45 sets uniform provisions for approval of headlamp cleaners
-  and of vehicles with regard to headlamp cleaners. A headlamp cleaner approved as
-  a component may optionally be installed. Text incorporates Supplement 11 to the
-  01 series of amendments (in force 10 October 2017).
+summary: Sets approval provisions for headlamp cleaners and for vehicle types with
+  regard to headlamp cleaners. A manufacturer may install a cleaner previously approved
+  as a component, but separate component approval is not mandatory. Text incorporates
+  Supplement 11 to the 01 series of amendments (in force 10 October 2017).
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 23686f0b71204bc66901a4c80ee15abdb808f4c1
 systems:

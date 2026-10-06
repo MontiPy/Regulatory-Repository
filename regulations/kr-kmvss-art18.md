@@ -19,7 +19,7 @@ open_tags:
 - electrical safety
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: 'Sets basic requirements for motor vehicle electrical equipment: all wiring
   must be insulated and fixed to the body, terminals and switches inside the passenger
@@ -29,7 +29,6 @@ summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 7e1fb9aaaf3365e5082a42ccc24e5a7f77a514ff
 systems:
 - Battery safety
-- EMC
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: KMVSS Article 18 — Electrical Equipment

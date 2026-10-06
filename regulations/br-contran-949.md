@@ -23,12 +23,12 @@ region: BR
 source_api: brazil
 source_url: https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9492022.pdf/@@download/file
 status: in-force
-summary: Brazilian CONTRAN Resolution 949/2022 (28 March 2022) sets occupant protection
-  requirements for side impact against a deformable barrier and against a pole, for
-  domestic and imported automobiles, light trucks, vans and utility vehicles. Results
-  of tests under UN technical regulations or North American standards are accepted
-  as an alternative. Entry into force 1 April 2022, with phased application dates
-  for the barrier requirements (2020, 2024) and pole requirements (2026, 2030).
+summary: CONTRAN 949/2022 sets side-barrier and pole-impact protection for specified
+  cars, vans, pickups and utility vehicles. Barrier scope depends on seat R-point
+  height; pole scope has mass or pickup-geometry conditions and listed exemptions.
+  Barrier requirements phase in in 2020/2024 and pole requirements in 2026/2030. Applicable
+  UN or North American test results are alternatives; pole tests expressly accept
+  UN R135 or FMVSS 214.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: d1f6681646589147201ceaa43a4e800b1b1f6482
 systems:

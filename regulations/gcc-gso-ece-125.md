@@ -23,40 +23,23 @@ region: GCC
 source_api: gso
 source_url: https://static.gso.org.sa/gso-public-docs/conformity/mutabiq/GSO_TechnicalRegulations_MV_2027_MY-D2.pdf
 status: in-force
-summary: 'GSO-ECE 125 adopts UN R125 on the forward field of vision of motor-vehicle
-  drivers (M1): limits on A-pillar obscuration and required forward visibility. It
-  is not a lighting regulation.'
+summary: Reference entry for GSO-ECE 125, identified as Forward Field of Vision. The
+  repository does not hold the regulation text; consult the official GSO source for
+  scope and requirements.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
-summary_hash: 2dddfa50e0c2721d64d827b128416f567e8f0539
+summary_hash: dd40c37f714fb42b8e3a646d1e6e4d0ac50d9990
 systems:
 - Visibility
 tagged_at: '2026-06-16T15:44:39+00:00'
 tagging_status: llm-tagged
 title: Forward Field of Vision
 translation_status: untranslated
+un_equivalent:
+- UN R125
 vehicle_categories:
 - Passenger car
 ---
 
 # Forward Field of Vision
 
-**Regulated Area:** Visibility / lighting / HMI
-
-**Applicability:** Forward visibility Retained under broad-scope review so the program team can manually disposition applicability.
-
-
-## Key Compliance Intent
-
-Ensure the vehicle can be seen, signals driver intent clearly, and provides adequate road illumination without glare.
-
-## Primary Vehicle Systems and Components
-
-Exterior lamps, reflectors, light-signalling devices, lighting ECU, wiring, lens/optics, bulbs/LED modules, aim adjusters.
-
-## Failure Modes and Symptoms
-
-Lighting nonconformance, wrong color/intensity, lamp out or flicker, mis-aimed beams, glare, visibility/conspicuity loss, incorrect tell-tale logic.
-
-## Engineering Considerations
-
-GCC/GSO technical regulation mapping
+**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.

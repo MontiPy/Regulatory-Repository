@@ -19,14 +19,14 @@ open_tags:
 - vehicle crash sensing
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
-summary: Event data recorders (EDRs) are regulated for passenger cars, vans and trucks
-  up to 3.85 tonnes GVW. A recordable accident is a cumulative speed change of 8 km/h
-  or more within 0.15 seconds, or deployment of an irreversible safety device such
-  as an airbag or seat belt pre-tensioner. The latest amendment (2024-11-29, effective
-  2025-05-30) added deployment of an external pedestrian protection system as a third
-  trigger.
+summary: Article 56-2 defines EDR events as a cumulative speed change of at least
+  8 km/h within 0.15 s (including lateral change where recorded), irreversible safety-device
+  deployment, or external pedestrian-protection-system deployment. It covers passenger
+  cars except ultra-compact cars, vans up to 3.85 t GVW, and trucks up to 3.85 t except
+  ultra-compact and towed vehicles; installation follows Table 5-25. The stored text
+  includes amendments of 14 February 2025, effective 30 May 2025.
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 654ee6cc3555843abf6f9d8d07df9c90db3565d2
 systems:

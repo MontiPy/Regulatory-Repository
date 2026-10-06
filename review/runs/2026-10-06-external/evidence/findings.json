@@ -1,0 +1,453 @@
+[
+  {
+    "id": "EXT-001",
+    "severity": "high",
+    "decision": "applied",
+    "claim": "FMVSS 216 is withdrawn effective 6 July 2026; retain its body only as history and link current 216a.",
+    "evidence": [
+      {
+        "source": "fmvss216-removal-final",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11068.htm",
+        "sha256": "750f0d88bc471cdce9e5593b1507752ed56a3803e364429d44fdb3a713ed139e",
+        "retrieved_at": "2026-10-06T12:26:17.458970+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/fmvss216-removal-final.txt",
+        "quote": "the proposed rule. Therefore, the agency is removing the obsolete FMVSS No. 216 as proposed. DATES: Effective date: July 6, 2026. Petitions for Reconsideration: If you wish to petition for reconsideration of this rule, your petition must be received by July 20, 2026. ADDRESSES: You may submit comments identified by the Docket N"
+      }
+    ],
+    "limitation": null
+  },
+  {
+    "id": "EXT-002",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "SAFE Vehicles Rule III is published but future-effective on 30 November 2026. Inter-manufacturer trading ends for credits earned in MY2028 onward.",
+    "evidence": [
+      {
+        "source": "cafe-2026-final",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19964.htm",
+        "sha256": "7bdb99480f274b8ead076500b51935427b74f317ed6a8165f1ae8181585ce740",
+        "retrieved_at": "2026-10-06T12:09:20.173653+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/cafe-2026-final.txt",
+        "quote": "the program, including to vehicle classification and other compliance pathways. DATES: This rule is effective November 30, 2026. The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of November 30, 2026. ADDRESSES: For access to the dockets or "
+      },
+      {
+        "source": "cafe-2026-final",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19964.htm",
+        "sha256": "7bdb99480f274b8ead076500b51935427b74f317ed6a8165f1ae8181585ce740",
+        "retrieved_at": "2026-10-06T12:09:20.173653+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/cafe-2026-final.txt",
+        "quote": "-manufacturer credit trading program (which is authorized, but not required, by 49 U.S.C. 32903(f)) beginning with credits earned in MY 2028. This change in the program is long overdue. Although NHTSA does not consider the availability of credits or credit trading in establishing standards, the agency believes that eliminating inter-manuf"
+      }
+    ],
+    "limitation": null
+  },
+  {
+    "id": "EXT-003",
+    "severity": "high",
+    "decision": "applied",
+    "claim": "The 15 August Canadian proposal repeals EVAS and updates references; it is not a proposal establishing tighter MY2027–2032 GHG targets.",
+    "evidence": [
+      {
+        "source": "ca-2026-evas-proposal",
+        "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-08-15/html/reg2-eng.html",
+        "sha256": "8f791f306d008bd846291f307ee5504ecfc27336a587f1ae1e129c5f39cf7654",
+        "retrieved_at": "2026-10-06T12:12:04.655886+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-evas-proposal.txt",
+        "quote": "ustry with regard to the repeal of the Electric Vehicle Availability Standard, while the Government works to develop enhanced greenhouse gas emission standards that put Canada on a path to achieve a goal of 75% electric vehicle sales by 2035 and 90% by 2040, as announced in CanadaŌĆÖs Automotive Strategy. The repeal of the Electric Vehicle Availability Stan"
+      }
+    ],
+    "limitation": "A proposal/announcement does not amend the consolidated regulation before final registration."
+  },
+  {
+    "id": "EXT-004",
+    "severity": "medium",
+    "decision": "confirmed",
+    "claim": "Consolidated Canadian SOR/2010-201 still includes MY2026-onward ZEV provisions.",
+    "evidence": [
+      {
+        "source": "ca-mvsr-sor-2010-201",
+        "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html",
+        "sha256": "91722b1bbd89d33ad7c758b309f963f36f4798d72012e14e31263057281f5703",
+        "retrieved_at": "2026-10-06T12:09:18.077807+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2010-201.txt",
+        "quote": "on Marginal note: Definitions 30.1 (1) The following definitions apply in this section, in sections 30.11 to 30.21 and in subsections 33(4.1) to (5). combined fleet combined fleet means all automobiles of a specific model year that a company manufactures in Canada or imports into Canada for the purpose o"
+      }
+    ],
+    "limitation": "No authenticated final EVAS repeal retrieved."
+  },
+  {
+    "id": "EXT-005",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "ELV Regulation 2026/1738 is in force from 13 August 2026, generally applies 1 September 2028, and contains phased Directive repeals.",
+    "evidence": [
+      {
+        "source": "eu-publication-32026R1738",
+        "url": "https://publications.europa.eu/resource/celex/32026R1738",
+        "sha256": "c8832c61dad067712f9c23a1c1d1dc0fe377927ef8bd914e1e1fa2ce213087b8",
+        "retrieved_at": "2026-10-06T12:21:58.267975+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32026R1738.txt",
+        "quote": "g or level of minimum percentages set out therein. Article 57 Repeal and transitional provisions 1. Directive 2000/53/EC is repealed with effect from 1 September 2028. However, the following provisions of Directive 2000/53/EC shall continue to apply: (a) Article 4(2) and Annex II, until 31 August 2032; however, entries 5(a), 5(b)(i), 5(b)(ii) and 16 of Annex II to"
+      },
+      {
+        "source": "eu-publication-32026R1738",
+        "url": "https://publications.europa.eu/resource/celex/32026R1738",
+        "sha256": "c8832c61dad067712f9c23a1c1d1dc0fe377927ef8bd914e1e1fa2ce213087b8",
+        "retrieved_at": "2026-10-06T12:21:58.267975+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32026R1738.txt",
+        "quote": " twentieth day following that of its publication in the Official Journal of the European Union . 2. It shall apply from 1 September 2028. However, Articles 4(3), 5(2) to (9), 6(4) to (9), 6(11), 7(3), 7(4), 9(7), 11(4), 12(2), 13(6), 14(4), 15(6), 21(2), 22(6), 26(3), 37(3), 41(3), 46(5) and 50(5) shall apply from 14 September 2026, Ar"
+      }
+    ],
+    "limitation": null
+  },
+  {
+    "id": "EXT-006",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "Official treaty party lists support state/entity flags, mixed-group notes and recent accessions; China expressly extends 1998 to Hong Kong/Macao.",
+    "evidence": [
+      {
+        "source": "un-1958-treaty",
+        "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-16&chapter=11&clang=_en",
+        "sha256": "9bfd370755a2e7b97f973d62bc2c5632b786a31737128735548f098fafc2b82f",
+        "retrieved_at": "2026-10-06T12:09:20.151342+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/un-1958-treaty.txt",
+        "quote": "rus 3 May 1995 a Belgium 7 Jul 1959 a Bosnia and Herzegovina 1 12 Jan 1994 d Bulgaria 22 Nov 1999 a Cambodia 3 Feb 2026 a Croatia 1 17 Mar 1994 d Czech Republic 2 2 Jun 1993 d Denmark 3 21 Oct 1976 a Egypt 5 Dec 2012 a Estonia 2 Mar 1995 a European Union 4 23 Jan 1998 a Finland 19 Jul 1976 a France 26 Jun 1"
+      },
+      {
+        "source": "un-1998-treaty",
+        "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-32&chapter=11&clang=_en",
+        "sha256": "cd5a73fb2a312f238846823f011135c841f0094f6f61974eefea0c18cb383203",
+        "retrieved_at": "2026-10-06T12:09:20.166194+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/un-1998-treaty.txt",
+        "quote": "tory of Christmas Island.” 2 With a declaration to the effect that the Agreement shall apply to the Special Administrative Regions of Hong Kong and Macao of the People’s Republic of China. 3 As from 30 April 2003: in respect of the Netherlands Antilles. 4 On 27 November 2001, the Secreary-General received the following: \"[T]he Government of New Zealan"
+      }
+    ],
+    "limitation": "See treaty-profile-decisions.json for all 48 profiles. Treaty membership alone does not establish regulation adoption or E-mark recognition."
+  },
+  {
+    "id": "EXT-007",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "Replace six generic Brazilian third-party links with exact official instruments; import source text for five Brazilian records.",
+    "evidence": [
+      {
+        "source": "br-senatran990-republication",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/portarias/2022/Portaria9902022R.pdf",
+        "sha256": "b43f07baf172a06413eefbb43752d999b0b65e76f825396273433f311b5aa69a",
+        "retrieved_at": "2026-10-06T12:34:14.682204+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-republication.txt",
+        "quote": "19/08/2022 06:36 Portaria Nº 990, DE 1º DE AGOSTO DE 2022 (*) - Portaria Nº 990, DE 1º DE AGOSTO DE 2022 (*) - DOU - Imprensa Nacional DIÁRIO OFICIAL DA UNIÃO Publicado em: 19/08/2022 | Edição: 158 | Seção: 1 | Página: 59 Órgão: Min"
+      }
+    ],
+    "limitation": "The DOC for 215 was downloaded but not text-extracted. Paid ABNT and the generic safety-label record remain unresolved."
+  },
+  {
+    "id": "EXT-008",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "Resolution 924 covers school-transport utilitário/camioneta as well as buses; the correction changes Article 4(I)'s first-registration cutoff from 2019 to 2024.",
+    "evidence": [
+      {
+        "source": "br-contran924-official",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022.pdf",
+        "sha256": "248f0989704594e0cd54aa5192678fe5a19b7ad6d314e91b3ba6a97fb8c235c4",
+        "retrieved_at": "2026-10-06T12:15:57.467539+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-official.txt",
+        "quote": "isão indireta, estão estabelecidas nos Anexos desta Resolução. Art. 3º Os espelhos retrovisores dos veículos do tipo utilitário, camioneta, ônibus e micro-ônibus, especialmente destinados à condução coletiva de escolares, devem observar os requisitos estabelecidos nos Anexos I, II e III desta Resolução, para os veículos em circulação, ou nos Anexos IV, V e VI"
+      },
+      {
+        "source": "br-contran924-correction",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9242022R.pdf",
+        "sha256": "73ecc1e47c88b8c2c86403d2fbb497d139aa66e1a31eda674e948ee6e78d8cd3",
+        "retrieved_at": "2026-10-06T12:26:17.459369+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-correction.txt",
+        "quote": " 1º de abril de 2022, Seção 1, página 63, Onde se lê: \"a partir de 1º de janeiro de 2019\" Leia-se: \"a partir de 1º de janeiro de 2024\" Este conteúdo não substitui o publicado na versão certiﬁcada. https://www.in.gov.br/web/dou/-/retificacao-403527582 1/1 "
+      }
+    ],
+    "limitation": "Coarse repository categories are browsing aids; Brazilian national definitions govern applicability."
+  },
+  {
+    "id": "EXT-009",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "Anti-theft factory-installation effects are suspended by Resolution 559/2015; accessory and sound-alarm rules remain distinct.",
+    "evidence": [
+      {
+        "source": "br-contran559-original",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao5592015.pdf",
+        "sha256": "ec7fb7d5f9a34ec7e547973edbc4314e4f2bd2633e428275b02e4a0f1061b162",
+        "retrieved_at": "2026-10-06T12:17:53.005048+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran559-original.txt",
+        "quote": " que consta nos Processos Administrativos nº 80001.003014/2007- 99 e 80000.041457/2010-93; RESOLVE: Art. 1º Suspender os efeitos das Resoluções CONTRAN nº 245, de 27 de julho de 2007 e nº 485, de 07 de maio de 2014 e do art. 4º da Resolução CONTRAN nº 330, de 14 de agosto de 2009. Art. 2º Esta Resolução en"
+      },
+      {
+        "source": "br-contran37-official",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-37-de-21-de-maio-de-1998",
+        "sha256": "734f1dee50da0b5db29337978b7777513b53baec1dab8bdc47881208c24aa52b",
+        "retrieved_at": "2026-10-06T12:15:57.465357+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/br-contran37-official.txt",
+        "quote": " dispositivo sonoro do sistema, a que se refere o art. 1º desta Resolução, não poderá: I - produzir sons contínuos ou intermitentes assemelhados aos utilizados, privativamente, pelos veículos de socorro de incêndio e salvamento, de polícia, de operação e fiscalização de trânsito e ambulância; II - emitir sons contínuos ou intermi"
+      }
+    ],
+    "limitation": null
+  },
+  {
+    "id": "EXT-010",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "Repair copied FMVSS/MVSR applicability sentences in the Tier 3 and Canadian emissions overviews.",
+    "evidence": [
+      {
+        "source": "official-us-stub-us-epa-40-cfr-part-86-tier-3",
+        "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-control-air-pollution-motor-vehicles-tier-3",
+        "sha256": "7aec74518c4f36b6d43308e33057a9fd6438dcb531503079f61769073b60c216",
+        "retrieved_at": "2026-10-06T12:18:24.130683+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/official-us-stub-us-epa-40-cfr-part-86-tier-3.txt",
+        "quote": "d evaporative emissions from passenger cars, light-duty trucks, medium-duty passenger vehicles, and some heavy-duty vehicles. The gasoline sulfur standard will enable more stringent vehicle emissions standards and will make emissions control systems more effective. Final Rule (pdf) (6.5 MB, published April 28, 2014) Regula"
+      },
+      {
+        "source": "ca-mvsr-sor-2003-2",
+        "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html",
+        "sha256": "19f333044074be7e2d442e6eb6d982100baea3509ae681398245b7b7fe26d5df",
+        "retrieved_at": "2026-10-06T12:09:17.738377+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2003-2.txt",
+        "quote": "03. Previous Versions Table of Contents On-Road Vehicle and Engine Emission Regulations SOR /2003-2 CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 Registration 2002-12-12 On-Road Vehicle and Engine Emission Regulations P.C. 2002-2164 2002-12-12 Whereas, pursuant to subsection 332(1) of the Canadian Environmental Protection Act, 1999 Footnote a "
+      }
+    ],
+    "limitation": "The remaining bodies are engineering overviews, not authentic regulation text."
+  },
+  {
+    "id": "EXT-011",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "Replace the EUR-Lex large-document notice in 2017/1151 with its actual original 2017 legal text.",
+    "evidence": [
+      {
+        "source": "eu-publication-32017R1151",
+        "url": "https://publications.europa.eu/resource/celex/32017R1151",
+        "sha256": "46244be1b0096bfd73d84d6f67eaf1d16e88ce899d9cb3a7a92af061669f35cb",
+        "retrieved_at": "2026-10-06T12:21:17.242818+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32017R1151.txt",
+        "quote": ".01000101.xml 7.7.2017 EN Official Journal of the European Union L 175/1 COMMISSION REGULATION (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial"
+      }
+    ],
+    "limitation": "Later amendments are not consolidated; 783 embedded images were replaced by explicit figure pointers. The official source remains necessary for mathematical notation and diagrams."
+  },
+  {
+    "id": "EXT-012",
+    "severity": "medium",
+    "decision": "confirmed_source_ambiguity",
+    "claim": "The FMVSS224 4,356/4,536 discrepancy and Part561 exactly-4,536 boundary ambiguity are present in the official source.",
+    "evidence": [
+      {
+        "source": "us-fmvss-224",
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.224",
+        "sha256": "5cc0b7ff4a1dcdfc1905eb902be3a8c525f490c636158f86d8ebde110d70fd3d",
+        "retrieved_at": "2026-10-06T12:09:16.870932+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-224.txt",
+        "quote": "536 kg or more. S3 . Application. This standard applies to trailers and semitrailers with a GVWR of 4,356 kg or more. The standard does not apply to pole trailers, pulpwood trailers, low chassis vehicles, road construction controlled horizontal discharge trailers, special purpose vehicles, wheels back ve"
+      },
+      {
+        "source": "us-cfr-part-561",
+        "url": "https://www.ecfr.gov/current/title-49/part-561",
+        "sha256": "6e06b95999f6869f761094c172c1b21db86a9f56c50f8a31fb674b255e2b44f9",
+        "retrieved_at": "2026-10-06T12:09:16.872620+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-561.txt",
+        "quote": "to § 561.6 . ( b ) Documentation requirements. ( 1 ) Vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less manufactured on or after September 1, 2027, are subject to §§ 561.7 through 561.10 . ( 2 ) Vehicles with a gross vehicle weight rating over 4,536 kilograms (kg) manufactured on"
+      }
+    ],
+    "limitation": "Preserve legal wording; obtain authoritative clarification before treating the apparent errors as corrected."
+  },
+  {
+    "id": "EXT-013",
+    "severity": "low",
+    "decision": "confirmed_source_artifact",
+    "claim": "Part588 'se-mail', CA116 'of a every', and FMVSS120 punctuation reproduce official source text.",
+    "evidence": [
+      {
+        "source": "us-cfr-part-588",
+        "url": "https://www.ecfr.gov/current/title-49/part-588",
+        "sha256": "d64860fcb896d383478bdcd8f6c6c0682b6f50da06b940da8a27022507777415",
+        "retrieved_at": "2026-10-06T12:09:16.873685+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-588.txt",
+        "quote": "on storage devices or card files, and shall include the names, mailing addresses, and if collected, se-mail addresses of the owners, and the model name or number and date of manufacture (month, year) of the owner's child restraint systems. [ 70 FR 53579 , Sept. 9, 2005] § 588.6 Record retention. Each manuf"
+      },
+      {
+        "source": "ca-mvsr-c-r-c---c--1038-s116",
+        "url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html",
+        "sha256": "2a86d70f3171e2f7b80501515808c030233e9fcba3f9bd32afcbed33b0965d79",
+        "retrieved_at": "2026-10-06T12:09:16.875569+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-c-r-c---c--1038-s116.txt",
+        "quote": "116) [ SOR/93-561, s. 5 SOR/97-421, s. 7(F) SOR/2011-238, s. 2 ] 116 (1) The hydraulic brake system of a every passenger car, multi-purpose passenger vehicle, truck, bus, three-wheeled vehicle, motorcycle, trailer, and trailer converter dolly shall contain brake fluid that conforms to the requirements of Tech"
+      }
+    ],
+    "limitation": "FMVSS120 also matches the current official XML under whitespace normalization; no silent copy edit applied."
+  },
+  {
+    "id": "EXT-014",
+    "severity": "high",
+    "decision": "held",
+    "claim": "UN R83's 09-series placeholder is also present in official EU publication; authentic commencement remains unresolved.",
+    "evidence": [
+      {
+        "source": "eu-publication-42026X1086",
+        "url": "https://publications.europa.eu/resource/celex/42026X1086",
+        "sha256": "d100ca93e8091e87e70963539070851e75522a7b5c537b952d90afc1e6a7fd04",
+        "retrieved_at": "2026-10-06T12:21:56.729677+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1086.txt",
+        "quote": "[2026/1086] Incorporating all valid text up to: 09 series of amendments - Date of entry into force: XX September 2026 (TBC) This document is meant purely as documentation tool. The authentic and legally binding texts are: ECE/TRANS/WP.29/2026/25 (as amended by paragraph 66 and Annex V of the report ECE/TRANS/WP.29/1190) W"
+      }
+    ],
+    "limitation": "CN214–217/2026 relate to older amendment submissions and do not supply an authenticated 09-series commencement date."
+  },
+  {
+    "id": "EXT-015",
+    "severity": "medium",
+    "decision": "held",
+    "claim": "ADR60's instrument-table name conflict, ADR99's 00/01 conflict, and ADR45's absent applicability table are source artifacts.",
+    "evidence": [
+      {
+        "source": "au-adr60-text-original",
+        "url": "https://www.legislation.gov.au/F2006L02300/2023-01-20/2023-01-20/text/original/epub/OEBPS/document_1/document_1.html",
+        "sha256": "37e86c0d8f603c46a4ae9556c859e3f8c05246d165e86feb5ba5f4ec9f24e4dc",
+        "retrieved_at": "2026-10-06T12:13:39.670534+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/au-adr60-text-original.txt",
+        "quote": "e of Instrument Registration Date Commencement Date Vehicle Standard (Australian Design Rule 1/00 – Reversing lamp) 2006 (F2006L02300) 05/07/2006 05/07/2006 Vehicle Standard (Australian Design Rule) Lighting Standards Amendment Instrument 2022 (No.1) (F2023L00042) 19/01/2023 20/01/2023 Table of Amendments Cl"
+      },
+      {
+        "source": "au-adr99-text-original",
+        "url": "https://www.legislation.gov.au/F2024L00161/2025-01-30/2025-01-30/text/original/epub/OEBPS/document_1/document_1.html",
+        "sha256": "e4b1b354ecdd1b4a6625fd8487435d070f85322b6c8473e38ca36192d20b4cb2",
+        "retrieved_at": "2026-10-06T12:13:39.671204+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/au-adr99-text-original.txt",
+        "quote": "Vehicle Standard (Australian Design Rule 99/01 – Lane Departure Warning Systems) 2024 made under the Road Vehicle Standards Act 2018. Compilation No. 1 Compilation date: 30/01/2025 Includes amendments: Vehicle Standard (Australian Design Rule) Mo"
+      },
+      {
+        "source": "au-adr45-text-original",
+        "url": "https://www.legislation.gov.au/F2006L01433/2017-11-18/2017-11-18/text/original/epub/OEBPS/document_1/document_1.html",
+        "sha256": "08c8325a7f1a3df905ff14d7694890ffc71a913e9a53ba34e0b7efd3740fa065",
+        "retrieved_at": "2026-10-06T12:13:39.671954+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/au-adr45-text-original.txt",
+        "quote": "IMPL E MENTATION 3.1. This ADR applies to the design and construction of vehicles as set out in the table below . 3.2. ‘ External Cabin Lamps ’ shall comply with the relevant requirements of this A DR . 3.3. The circumstances under which such lamps are mandatory, optional, alternative or prohibited are s"
+      }
+    ],
+    "limitation": "No guessed table reconstruction or silent operative-clause repair."
+  },
+  {
+    "id": "EXT-016",
+    "severity": "high",
+    "decision": "held",
+    "claim": "The Korean checker is pinned to lsiSeq270023, a March 2025 version; that cannot establish current translation currency.",
+    "evidence": [
+      {
+        "source": "kmvss-history-page",
+        "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270023",
+        "sha256": "6c9803ed548ede5fe512ae726dd072306b9a4fab4a12427025993482d06b1c45",
+        "retrieved_at": "2026-10-06T12:22:42.478988+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/kmvss-history-page.txt",
+        "quote": "성한 것으로 참고용으로만 이용하시기 바라며, 정확한 개정내용의 확인은 제·개정이유(제·개정문) 또는 관보를 확인해 주세요. 자동차 및 자동차부품의 성능과 기준에 관한 규칙 [시행 2025. 3. 15.] [국토교통부령 제1464호, 2025. 3. 14., 일부개정] 본문목록열림 본문 부칙목록열림 부칙 별표목록열림 별표 본문 제정·개정이유 별표·서식 연혁 3단비교 신구법비교 법령체계도 법령비교 생활법령정보 조례위임조문 위임조례 한눈보기 원문다운로드 음성지원 점자뷰어 조문 선택 조문선택 화면내검색 새창 선택 카카오톡 페이스북 트위터 라인 주소복사 조례위임"
+      }
+    ],
+    "limitation": "Current name/ID/body routes timed out or failed. The checker itself failed with HTTP502. No stale/clean translation verdict is supported."
+  },
+  {
+    "id": "EXT-017",
+    "severity": "medium",
+    "decision": "held",
+    "claim": "Korean Article26 bus-category bridge and omitted attached technical tables remain unauthenticated.",
+    "evidence": [],
+    "limitation": "Do not substitute broad repository categories for unverified national definitions."
+  },
+  {
+    "id": "EXT-018",
+    "severity": "medium",
+    "decision": "confirmed",
+    "claim": "Euro7 M1/N1 new-type/new-vehicle dates and the small-volume exception are supported by the official original publication.",
+    "evidence": [
+      {
+        "source": "eu-publication-32024R1257",
+        "url": "https://publications.europa.eu/resource/celex/32024R1257",
+        "sha256": "a7ee04aa134dda4cbfeb5912b283146e5f8c3f6aac052db3d59324f140e732d4",
+        "retrieved_at": "2026-10-06T12:21:28.210958+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32024R1257.txt",
+        "quote": "ry into service of such a new vehicle or engine complying with this Regulation. 4. With effect from 29 November 2026, approval authorities shall, in the case of new types of vehicles of category M 1 or N 1 which do not comply with this Regulation, refuse to grant EU emission type-approval or national emission type-"
+      }
+    ],
+    "limitation": "The original publication is not a complete review of later amendments or technical annexes."
+  },
+  {
+    "id": "EXT-019",
+    "severity": "medium",
+    "decision": "confirmed_with_limit",
+    "claim": "COM(2025)995 contains the proposed 90% 2035 target; retain proposal status.",
+    "evidence": [
+      {
+        "source": "eu-co2-proposal-parliament",
+        "url": "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0995/COM_COM%282025%290995_EN.pdf",
+        "sha256": "c31e7a02b4f297dd95f23276ba870a338c4105a8f90603418c45fc7ef8672c1d",
+        "retrieved_at": "2026-10-06T12:12:04.662199+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal-parliament.txt",
+        "quote": "-wide CO2 emission target for vans from 50% to 40% reduction from the 2021 baseline and the 2035 EU fleet-wide CO2 emission target for cars and vans from 100% to 90%. It also adds vehicle labelling to the subject matter of the Regulation. Article 1(2) amends Article 2(1)(b) to clarify that all ZEV N vehicles (including N1 and N2), whose mass without the mass of t"
+      }
+    ],
+    "limitation": "An adopted replacement and the latest legislative-procedure status were not independently authenticated."
+  },
+  {
+    "id": "EXT-020",
+    "severity": "medium",
+    "decision": "confirmed_with_limit",
+    "claim": "EPA's February 2026 federal vehicle GHG rescission and June2025 ACCII waiver disapproval are authenticated; CARB's March2026 response is documented.",
+    "evidence": [
+      {
+        "source": "epa-2026-ghg-final",
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-02-18/html/2026-03157.htm",
+        "sha256": "faccd5c1efb619bf390600f330b5a21e18f0d371a7488d10dca3be637e8503ee",
+        "retrieved_at": "2026-10-06T12:12:04.656297+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg-final.txt",
+        "quote": "------------------------ SUMMARY: In this action, the U.S. Environmental Protection Agency (EPA) is rescinding the Administrator's 2009 findings of contribution and endangerment and repealing all greenhouse gas (GHG) emission standards for light-duty, medium-duty, and heavy-duty vehicles and engines to effect"
+      },
+      {
+        "source": "acc-ii-public-law",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ16/pdf/PLAW-119publ16.pdf",
+        "sha256": "30259959be41d8e9b4bf3d4b4f89c460db98419bad3af8030a8bac1cae525f3e",
+        "retrieved_at": "2026-10-06T12:34:14.683257+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/acc-ii-public-law.txt",
+        "quote": "139 STAT. 66 PUBLIC LAW 119–16—JUNE 12, 2025 Public Law 119–16 119th Congress Joint Resolution June 12, 2025 [H.J. Res. 88] Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environ"
+      },
+      {
+        "source": "carb-emergency-2026",
+        "url": "https://ww2.arb.ca.gov/news/carb-approves-permanent-adoption-emergency-vehicle-emissions-regulation/printable/print",
+        "sha256": "feffa98d261581780ce761bba57f728a7cbebef5cd8ddb450a728da3695793f0",
+        "retrieved_at": "2026-10-06T12:34:14.682754+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/carb-emergency-2026.txt",
+        "quote": " until a court resolves litigation over federal actions on the state’s newer regulations PRINT Date March 26, 2026 Release Number 26-02 Contacts Office of Communications comms@arb.ca.gov Categories Programs New Vehicle and Engine Certification (http://carbuswest2.prod.acquia-sites.com/our-work/programs/new-vehicl"
+      }
+    ],
+    "limitation": "CARB's press release documents its action; it is not a fresh court-docket review or the full adopted regulatory text."
+  },
+  {
+    "id": "EXT-021",
+    "severity": "medium",
+    "decision": "applied",
+    "claim": "UN R118 is not a no-requirement mapping for buses. The retrieved 02-series scope covers M3 Classes II/III; the GSR original references that series.",
+    "evidence": [
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42015X0421(01)",
+        "text_path": "review/runs/2026-10-06-external/evidence/browser-un118-body.txt",
+        "text_sha256": "a233d96898d326e6b4a0e06def4efb2931bd6be3cf298b3adaa9bd434094c29e",
+        "retrieval": "Chromium browser with verified proxy CA",
+        "quote": "1.1.   This Regulation applies to the burning behaviour (ignitibility, burning rate and melting behaviour) and to the capability to repel fuel or lubricants of materials used in vehicles of categories M3, Classes II and III (1)."
+      },
+      {
+        "source": "eu-publication-32019R2144",
+        "url": "https://publications.europa.eu/resource/celex/32019R2144",
+        "sha256": "4fa2a965a0369122168eca514c932ed171079b98dd09246eeab06071603b6ea0",
+        "retrieved_at": "2026-10-06T12:21:18.527594+00:00",
+        "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32019R2144.txt",
+        "quote": "us construction UN Regulation No 107 A A F15 Bus strength of superstructure UN Regulation No 66 A A F16 Flammability in buses UN Regulation No 118 A A Notes to the table A: Date for the prohibition of the registration of vehicles, as well as the placing on the market and entry into service of components and separate technic"
+      }
+    ],
+    "limitation": "Conditional approval scope is stated explicitly. Original publication does not establish latest series or every national mandate."
+  }
+]

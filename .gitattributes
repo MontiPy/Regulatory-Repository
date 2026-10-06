@@ -1,0 +1,4 @@
+# Preserve downloaded evidence and command output exactly; their whitespace is data.
+review/runs/2026-10-06-external/evidence/**/*.txt -whitespace
+review/runs/2026-10-06-external/evidence/eu1151-body.md -whitespace
+review/runs/2026-10-06-external/logs/*.log -whitespace

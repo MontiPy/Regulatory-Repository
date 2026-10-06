@@ -1,0 +1,184 @@
+{
+  "reviewed": [
+    "kr-kmvss-art112-4",
+    "kr-kmvss-art112-7",
+    "kr-kmvss-art12-2",
+    "kr-kmvss-art12",
+    "kr-kmvss-art13",
+    "kr-kmvss-art14-2",
+    "kr-kmvss-art14",
+    "kr-kmvss-art15-2",
+    "kr-kmvss-art15-3",
+    "kr-kmvss-art15",
+    "kr-kmvss-art17",
+    "kr-kmvss-art18-2",
+    "kr-kmvss-art18-3",
+    "kr-kmvss-art18-4",
+    "kr-kmvss-art18-5",
+    "kr-kmvss-art18-6",
+    "kr-kmvss-art18",
+    "kr-kmvss-art19",
+    "kr-kmvss-art21",
+    "kr-kmvss-art22"
+  ],
+  "skipped": [
+    {
+      "id": "kr-kmvss-art112-4",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art112-7",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art12-2",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art12",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art13",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art14-2",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art14",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art15-2",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art15-3",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art15",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art17",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18-2",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18-3",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18-4",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18-5",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18-6",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art19",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art21",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art22",
+      "field": "status,status_note,effective_date,source_url,translation_currency",
+      "reason": "Skip current amendment/repeal and official source accessibility verification; network policy blocks official site. English translated body can support internal metadata but does not independently establish current Korean law. National-to-UN vehicle mappings not assumed without definitions."
+    },
+    {
+      "id": "kr-kmvss-art18-2",
+      "field": "systems,commodities,vehicle_categories",
+      "reason": "Skip changes that depend on unavailable referenced annexes or national camper/bus/ultra-compact classifications."
+    },
+    {
+      "id": "kr-kmvss-art18-6",
+      "field": "systems,commodities,vehicle_categories",
+      "reason": "Skip changes that depend on unavailable referenced annexes or national camper/bus/ultra-compact classifications."
+    },
+    {
+      "id": "kr-kmvss-art14-2",
+      "field": "systems,commodities,vehicle_categories",
+      "reason": "Skip changes that depend on unavailable referenced annexes or national camper/bus/ultra-compact classifications."
+    },
+    {
+      "id": "kr-kmvss-art12-2",
+      "field": "systems,commodities,vehicle_categories",
+      "reason": "Skip changes that depend on unavailable referenced annexes or national camper/bus/ultra-compact classifications."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "kr-kmvss-art15",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    },
+    {
+      "id": "kr-kmvss-art18-3",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    },
+    {
+      "id": "kr-kmvss-art18-4",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    },
+    {
+      "id": "kr-kmvss-art18-5",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    },
+    {
+      "id": "kr-kmvss-art18-6",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    },
+    {
+      "id": "kr-kmvss-art19",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    },
+    {
+      "id": "kr-kmvss-art22",
+      "field": "body,summary",
+      "reason": "Current record already includes current amendment text and matching summary; no historical correction repeated."
+    }
+  ],
+  "notes": "All current metadata and complete operative English clauses read, including renumbered cyber/software/camper articles. Title/citation/body subject consistent; summaries not truncated; taxonomy values valid; no UN equivalents added. Law URL currently uses an old consolidated lsiSeq; whether it resolves to a current instrument is not established, so no URL replacement guessed."
+}

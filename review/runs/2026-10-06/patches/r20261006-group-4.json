@@ -1,0 +1,261 @@
+{
+  "group": "r20261006-group-4",
+  "patches": {
+    "us-cfr-part-523": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus",
+        "Trailer"
+      ],
+      "_why": "vehicle_categories: F083 — §§523.8/523.10 explicitly classify heavy-duty trailers. Evidence: regulations/us-cfr-part-523.md."
+    },
+    "us-cfr-part-592": {
+      "summary": "Part 592 sets registration procedures and duties for Registered Importers of vehicles not originally manufactured to conform to applicable FMVSS. It applies to persons seeking registration and registered importers. Duties include confirming import eligibility, bringing imported vehicles into conformity and certifying them within 120 calendar days after entry, subject to the part’s provisions. It also governs suspension, revocation and reinstatement of registrations.",
+      "_why": "summary: F084 — §§592.1–3 and 592.6(a): importer registration/duties, eligibility before import and conformity certification within 120 calendar days; §592.2 names suspension, revocation and reinstatement. Evidence: regulations/us-cfr-part-592.md."
+    },
+    "us-fmvss-114": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Bus"
+      ],
+      "summary": "FMVSS No. 114 sets theft protection and rollaway prevention requirements for passenger cars and trucks/MPVs up to 4,536 kg GVWR, excluding walk-in vans. Its S5.3 brake-transmission shift-interlock requirement also applies to other motor vehicles up to that GVWR, excluding trailers and motorcycles, with an automatic transmission having a park position.",
+      "_why": "vehicle_categories: F085 — S3 extends S5.3 to motor vehicles at ≤4,536 kg except trailers and motorcycles, including buses. Evidence: regulations/us-fmvss-114.md.\nsummary: F354 — S3 states basic vehicle scope/walk-in exclusion and extended S5.3 scope; S5.3 specifies automatic transmissions with a park position. Evidence: regulations/us-fmvss-114.md."
+    },
+    "us-fmvss-119": {
+      "vehicle_categories": [
+        "Heavy truck",
+        "Light truck",
+        "Motorcycle",
+        "Bus",
+        "Trailer"
+      ],
+      "summary": "FMVSS No. 119 regulates performance and markings of new pneumatic tires for vehicles over 4,536 kg GVWR, specified deep-tread light-truck tires for lighter vehicles, special-use trailer tires and motorcycle tires. It sets endurance, strength, marking and rim-matching requirements. High-speed testing is required only for motorcycle tires and the non-speed-restricted small-rim tires specified in S6.3.",
+      "_why": "vehicle_categories: F086 — S1–S3: tyres for motor vehicles over 4,536 kg, specified deep-tread light-truck and trailer tyres, and motorcycle tyres; buses are included. Evidence: regulations/us-fmvss-119.md.\nsummary: F355 — S3 states weight/tyre-type scope; S6.3 expressly limits high-speed tests to motorcycle and specified non-speed-restricted small-rim tyres. Evidence: regulations/us-fmvss-119.md."
+    },
+    "us-fmvss-217a": {
+      "status": "upcoming",
+      "status_note": "Mandatory manufacturing applicability begins 30 October 2027 under S3; the displayed upcoming status refers to that compliance date.",
+      "effective_date": "2027-10-30",
+      "_why": "status: F087 — S3(a)(1)–(2) expressly begins mandatory bus manufacturing applicability on 30 October 2027; upcoming is the compliance milestone, as explained in status_note. Evidence: regulations/us-fmvss-217a.md.\nstatus_note: F087 — S3(a)(1)–(2) expressly begins mandatory bus manufacturing applicability on 30 October 2027; upcoming is the compliance milestone, as explained in status_note. Evidence: regulations/us-fmvss-217a.md.\neffective_date: F088 — S3(a)(1)–(2) supplies 30 October 2027 manufacturing applicability; paired status_note distinguishes this milestone from rule issuance. Evidence: regulations/us-fmvss-217a.md."
+    },
+    "us-stub-us-epa-40-cfr-part-86-tier-3": {
+      "un_equivalent": [],
+      "_why": "un_equivalent: F089 — Related Regulations lists UNECE R83 only as a related instrument; the entire short template body has no adoption/equivalence/accepted-alternative provision. Remove unsupported mapping without asserting non-equivalence. Evidence: regulations/us-stub-us-epa-40-cfr-part-86-tier-3.md."
+    },
+    "us-workbook-reg-0451-49-cfr-part-575": {
+      "_stub_body": true,
+      "summary": "Reference record for consumer information under 49 CFR Part 575, including tire grading, rollover warnings and vehicle safety-rating labels. This repository does not hold the Part 575 regulation text; detailed scope and disclosure requirements should be checked in the official source.",
+      "_why": "_stub_body: F091 — Consumer-information heading and applicability contrast with recall/type-approval Key Compliance Intent and failures; replace this different-topic template with a reference stub, paired with F374 summary. Evidence: regulations/us-workbook-reg-0451-49-cfr-part-575.md.\nsummary: F374 — Own consumer-information heading/applicability supports subject-only reference wording. No legal Part575 text is held; this summary is paired with F091 stub rather than inventing technical mandates. Evidence: regulations/us-workbook-reg-0451-49-cfr-part-575.md."
+    },
+    "us-40cfr-part-1066": {
+      "systems": [
+        "Emissions"
+      ],
+      "_why": "systems: F334 — §1066.1(a)/(c) establishes exhaust, evaporative and refuelling emission-measurement procedures, rather than fuel-safety requirements. Evidence: regulations/us-40cfr-part-1066.md."
+    },
+    "us-40cfr-part-600": {
+      "systems": [
+        "Emissions"
+      ],
+      "_why": "systems: F335 — Part 600 title and §600.001 establish fuel economy/GHG emission tests and data, rather than fuel, battery or EV-charging safety standards. Evidence: regulations/us-40cfr-part-600.md."
+    },
+    "us-40cfr-part-85": {
+      "systems": [
+        "Emissions",
+        "On-board diagnostics"
+      ],
+      "_why": "systems: F336 — Part 85 regulates mobile-source air pollution, emission-control conversions and inspection/diagnostic provisions; fuel-safety tag is unsupported by its subject. Evidence: regulations/us-40cfr-part-85.md."
+    },
+    "us-40cfr-part-86": {
+      "systems": [
+        "Emissions",
+        "On-board diagnostics"
+      ],
+      "_why": "systems: F337 — Part 86 title and operative emission/OBD provisions regulate highway vehicle/engine emissions, rather than fuel-safety standards. Evidence: regulations/us-40cfr-part-86.md."
+    },
+    "us-47cfr-part-15": {
+      "systems": [
+        "EMC",
+        "Radio & telecom"
+      ],
+      "_why": "systems: F338 — §15.1 regulates intentional/unintentional/incidental radiators; unlicensed PCS subpart expressly regulates radio communications devices. Evidence: regulations/us-47cfr-part-15.md."
+    },
+    "us-cfr-part-542": {
+      "summary": "49 CFR Part 542 sets manufacturer and NHTSA procedures for selecting light duty truck lines for Part 541 theft-prevention coverage. Section 542.1 addresses new lines introduced from September 1, 2006 by likely theft rate; section 542.2 also covers low-theft lines with major parts interchangeable with covered passenger motor vehicle lines.",
+      "_why": "summary: F339 — §542.1 addresses new truck lines introduced from 1 September 2006; §542.2 separately addresses low-theft lines with a majority of covered major parts interchangeable. Evidence: regulations/us-cfr-part-542.md."
+    },
+    "us-cfr-part-561": {
+      "summary": "Requires emergency response guides and rescue sheets from 22 December 2025 for electrically propelled cars, MPVs, trucks and buses above 60 VDC or 30 VAC and capable of more than 40 km/h over 1.6 km. Further REESS safety documentation applies from 1 September 2027 at GVWR 4,536 kg or less and 2028 above that mass. Section 561.3(b) specifies one-year extensions for small-volume and final-stage manufacturers and alterers; its exactly-4,536-kg boundary needs clarification.",
+      "_why": "summary: F340 — §561.3 sets propulsion voltage and >40 km/h over 1.6 km scope, ERG/rescue-sheet manufacturing date and later REESS documentation dates. §561.3(b)(3) says under 4,536 kg, leaving exactly 4,536 kg extension eligibility unclear; preserve for human review. Evidence: regulations/us-cfr-part-561.md."
+    },
+    "us-cfr-part-563": {
+      "summary": "Sets requirements for vehicles fitted with EDRs: crash-event data, recording and retrieval, crash-test survivability, owner information and retrieval tools. Covers cars, MPVs, trucks and buses made from September 1, 2012 at up to 3,855 kg GVWR and 2,495 kg unloaded weight, excluding walk-in van trucks and vehicles exclusively for the U.S. Postal Service. Updated requirements phase in over production years ending 2029–2032.",
+      "_why": "summary: F341 — §563.3 gives EDR-equipped scope and walk-in/USPS exclusions; §§563.4(a), 563.6 and 563.12 support phase-in production years 2029–2032, data/owner-info/survivability and retrieval tools. Reviewer §563.6a reference is not used. Evidence: regulations/us-cfr-part-563.md."
+    },
+    "us-cfr-part-573": {
+      "summary": "Part 573 sets manufacturer responsibilities for safety-related defects and FMVSS noncompliances in vehicles and equipment. Manufacturers must report determinations to NHTSA within five working days, maintain required notification lists and submit quarterly campaign reports. It also specifies recall reporting and remedy responsibilities.",
+      "_why": "summary: F342 — §573.1 lists notification lists and quarterly campaign reports; §573.6(b) requires determination reports within five working days. Evidence: regulations/us-cfr-part-573.md."
+    },
+    "us-cfr-part-576": {
+      "summary": "Part 576 requires motor vehicle, child restraint and tire manufacturers to retain safety-related defect and malfunction records for 10 calendar years from generation or acquisition. Motor vehicle and equipment manufacturers must retain underlying Part 579 reporting records for five calendar years, subject to the stated exception for documents transmitted to NHTSA.",
+      "_why": "summary: F343 — §576.5(a) requires ten-year safety-related record retention for vehicle/child-restraint/tyre makers; (b) requires five-year underlying Part579 records, with transmitted-document exception in (c). Evidence: regulations/us-cfr-part-576.md."
+    },
+    "us-cfr-part-580": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Motorcycle",
+        "Bus"
+      ],
+      "_why": "vehicle_categories: F344 — §580.17(a)(2) excludes non-self-propelled vehicles from odometer disclosure; remove Trailer. Evidence: regulations/us-cfr-part-580.md."
+    },
+    "us-cfr-part-585": {
+      "systems": [
+        "Restraints",
+        "Crashworthiness",
+        "Noise",
+        "Event & data recording"
+      ],
+      "_why": "systems: F345 — §585.128/Subpart N covers FMVSS141 minimum-sound reporting; §585.142/Subpart P covers Part563 EDR reporting, alongside existing restraint/crashworthiness reporting. Evidence: regulations/us-cfr-part-585.md."
+    },
+    "us-cfr-part-588": {
+      "summary": "Part 588 requires manufacturers of child restraint systems, except factory-installed built-in restraints, to maintain registration records for owners who submit a registration form. Records include owner names, mailing addresses and restraint model and manufacture details, and must be retained for at least six years from the restraint’s manufacture date to support recall notification.",
+      "_why": "summary: F346 — §588.3 excludes factory-installed built-ins; §588.5 covers owners who submitted registration forms, and §588.6 requires at least six years from restraint manufacture. Evidence: regulations/us-cfr-part-588.md."
+    },
+    "us-cfr-part-595": {
+      "summary": "49 CFR Part 595 sets conditional exemptions from the prohibition on making safety-standard compliance inoperative: retrofit airbag on-off switches for vehicles manufactured before 1 September 2015, modifications to accommodate people with disabilities (including temporary rental-vehicle modifications), and temporary AEB deactivation for law-enforcement vehicles. Disability modifications require specified labels and retained documentation.",
+      "_why": "summary: F347 — §595.5 covers retrofit airbag switches before 1 September 2015; §§595.7–8 cover disability and rental modifications; §595.9 covers temporary law-enforcement AEB deactivation. Evidence: regulations/us-cfr-part-595.md."
+    },
+    "us-cfr-part-596": {
+      "commodities": [],
+      "_why": "commodities: F348 — §596.3 expressly describes compliance test tools and imposes no independent duties; these test targets are not Brakes or ADAS sensors. Taxonomy has no test-device commodity, so [] is deliberate. Evidence: regulations/us-cfr-part-596.md."
+    },
+    "us-cfr575-302": {
+      "commodities": [],
+      "_why": "commodities: F349 — §575.302(a)/(d) requires safety-rating information on a Monroney label; it does not regulate Body structure. Taxonomy has no label commodity, so [] is deliberate. Evidence: regulations/us-cfr575-302.md."
+    },
+    "us-cfr575-401": {
+      "commodities": [],
+      "_why": "commodities: F350 — §575.401(a)/(d) requires point-of-sale fuel-economy/emission labels, not Fuel system or Exhaust component requirements. Taxonomy has no label commodity, so [] is deliberate. Evidence: regulations/us-cfr575-401.md."
+    },
+    "us-fmvss-102": {
+      "summary": "FMVSS 102 regulates automatic-transmission shift-position sequence, starter interlock and supplemental transmission braking in passenger cars, MPVs, trucks and buses. For manual transmissions it specifies shift-pattern identification, except for standard three-speed H patterns. The automatic-transmission starter interlock has specified exceptions for automatic stop/start and electric propulsion.",
+      "_why": "summary: F351 — S3.1 specifies automatic-transmission interlock/braking; S3.2 specifies manual shift-pattern identification except standard three-speed H patterns; S3.1.3 provides starter exceptions. Evidence: regulations/us-fmvss-102.md."
+    },
+    "us-fmvss-103": {
+      "summary": "FMVSS 103 requires windshield defrosting and defogging systems on passenger cars, MPVs, trucks and buses. The specified SAE performance and demonstration tests apply to passenger cars; other covered vehicles are required to have a system. Vehicles manufactured for sale in the noncontinental United States may use the alternative defogging option in S4(b).",
+      "_why": "summary: F352 — S4(a)/S4.1–3 limits specified SAE performance tests to passenger cars; S4(b) permits alternative defogging for noncontinental-US sale. Evidence: regulations/us-fmvss-103.md."
+    },
+    "us-fmvss-113": {
+      "commodities": [
+        "Body structure"
+      ],
+      "_why": "commodities: F353 — S3 defines the hood as an exterior movable body panel; S4 regulates hood latches, rather than door latches. Retain Body structure only. Evidence: regulations/us-fmvss-113.md."
+    },
+    "us-fmvss-120": {
+      "summary": "FMVSS No. 120 sets tire and rim selection, rim marking and motor home/recreation vehicle trailer load-carrying information requirements. It applies to motor vehicles over 4,536 kg GVWR and motorcycles, rims for those vehicles and their non-pneumatic spare tire assemblies.",
+      "_why": "summary: F356 — S1 covers rim selection/marking and motor-home/recreation-trailer load information; S3 explicitly also covers motorcycles, relevant rims and non-pneumatic spares. Evidence: regulations/us-fmvss-120.md."
+    },
+    "us-fmvss-123": {
+      "summary": "FMVSS No. 123 standardises the location, operation, identification and illumination of motorcycle controls and displays and sets requirements for stands and footrests. It applies to motorcycles equipped with handlebars, excluding those designed and sold exclusively for law enforcement. It requires a supplemental engine-stop control and footrests at each designated seating position.",
+      "_why": "summary: F357 — S1/S3 specify controls, stands and footrests, handlebar scope and exclusive law-enforcement exclusion; S5.1 and footrest requirement support key duties. Evidence: regulations/us-fmvss-123.md."
+    },
+    "us-fmvss-138": {
+      "summary": "FMVSS No. 138 specifies tire-pressure monitoring systems to warn drivers of significant under-inflation. It applies to passenger cars, multipurpose passenger vehicles, trucks and buses with GVWR of 4,536 kg or less, excluding vehicles with dual wheels on an axle. The system must illuminate the low-pressure warning within 20 minutes under the specified pressure thresholds.",
+      "_why": "summary: F358 — S2 explicitly excludes vehicles with dual wheels on an axle; S1 states TPMS warning purpose and S4.2(a) requires warning within 20 minutes under stated pressure thresholds. Evidence: regulations/us-fmvss-138.md."
+    },
+    "us-fmvss-139": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Bus"
+      ],
+      "_why": "vehicle_categories: F359 — S2 covers tyres for motor vehicles ≤10,000 lb except motorcycles/LSVs and specified tyre types; buses within the limit are included. Evidence: regulations/us-fmvss-139.md."
+    },
+    "us-fmvss-203": {
+      "summary": "FMVSS No. 203 limits steering-control impact forces to reduce chest, neck and facial injuries in passenger cars and MPVs, trucks and buses up to 4,536 kg GVWR. In the specified 24 km/h body-block test, force may not exceed 11,120 N except for intervals totaling at most 3 milliseconds. Vehicles meeting FMVSS 208 S5.1 by means other than belts, walk-in vans and vehicles without steering controls are excluded.",
+      "_why": "summary: F360 — S5.1(a) prescribes a 24 km/h body-block test with 11,120 N limit except cumulative excursions ≤3 ms; S2 supplies exclusions. Evidence: regulations/us-fmvss-203.md."
+    },
+    "us-fmvss-206": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus"
+      ],
+      "_why": "vehicle_categories: F361 — S2 includes trucks designed to carry at least one person without a truck GVWR limit; the stated 4,536 kg qualification applies to buses. Evidence: regulations/us-fmvss-206.md."
+    },
+    "us-fmvss-207": {
+      "summary": "FMVSS No. 207 regulates seats, their attachments and installation in passenger cars, MPVs, trucks and buses to reduce seat failure in impacts. General seat-strength tests include longitudinal forces of 20 times seat weight and a 373 N-m seat-back moment, with exceptions for side-facing seats, passenger seats on non-school buses and passenger seats on school buses over 4,536 kg GVWR. Seat adjustment and hinged-seat restraint requirements also apply.",
+      "_why": "summary: F362 — S4.2 excludes side-facing seats and specified bus passenger seats from the listed strength loads; S4.2(a)/(b)/(d) supplies 20-times-weight forces and 373 N-m moment. Evidence: regulations/us-fmvss-207.md."
+    },
+    "us-fmvss-213a": {
+      "summary": "Sets side impact protection requirements for add-on child restraints recommended for a weight range that includes weights up to 18 kg, regardless of height, or a height range that includes heights up to 1100 mm, regardless of weight. Car beds and harnesses are excluded. Applicable FMVSS No. 213 requirements also apply.",
+      "_why": "summary: F363 — S3 covers recommended weight/height ranges that include ≤18 kg or ≤1100 mm regardless of the other measure; excludes car beds/harnesses. S2 also requires applicable FMVSS213 requirements. Evidence: regulations/us-fmvss-213a.md."
+    },
+    "us-fmvss-213b": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Light truck",
+        "Heavy truck",
+        "Bus"
+      ],
+      "_why": "vehicle_categories: F364 — S3 expressly includes passenger cars, MPVs, trucks and buses without a truck weight restriction. Evidence: regulations/us-fmvss-213b.md."
+    },
+    "us-fmvss-220": {
+      "summary": "Sets school bus rollover requirements using a downward roof load of 1.5 times unloaded vehicle weight and limiting application-plate movement to 130 mm. Emergency exits must remain operable under the prescribed conditions; roof exits need not open during loading, and a specimen tested for opening under full load need not also satisfy the post-release opening test.",
+      "_why": "summary: F365 — S4 limits application-plate movement to 130 mm under 1.5-times-unloaded-weight load; S4(b) gives roof-exit and full-load/post-release specimen exceptions. Evidence: regulations/us-fmvss-220.md."
+    },
+    "us-fmvss-223": {
+      "vehicle_categories": [
+        "Trailer"
+      ],
+      "_why": "vehicle_categories: F366 — S1/S3 restrict rear-impact guard applicability to trailers and semitrailers subject to FMVSS224. Evidence: regulations/us-fmvss-223.md."
+    },
+    "us-fmvss-224": {
+      "vehicle_categories": [
+        "Trailer"
+      ],
+      "_why": "vehicle_categories: F367 — S1/S3 applies rear-impact guard installation to trailers/semitrailers; existing official S3 weight discrepancy is preserved, not corrected through this category patch. Evidence: regulations/us-fmvss-224.md."
+    },
+    "us-fmvss-226": {
+      "summary": "FMVSS No. 226 regulates ejection mitigation through side windows during rollovers and side impacts for passenger cars and MPVs, trucks and buses of 4,536 kg GVWR or less. It excludes walk-in vans, modified-roof vehicles, convertibles, vehicles designed for operation without doors, and certain multistage or altered vehicles with security partitions.",
+      "_why": "summary: F368 — S1/S2 gives ejection purpose and expressly excludes walk-in vans, modified roofs, convertibles, no/removable doors and specified partitioned multistage/altered vehicles. Evidence: regulations/us-fmvss-226.md."
+    },
+    "us-fmvss-227": {
+      "summary": "FMVSS No. 227 sets rollover structural integrity requirements for over-the-road buses and other buses above 26,000 lb GVWR. School buses, school bus derivative buses, transit buses, prison buses and buses with seven or fewer forward-facing or tool-free convertible-to-forward-facing passenger seating positions behind the driver are excluded.",
+      "_why": "summary: F369 — S3(b) excludes school-bus derivatives and vehicles with ≤7 forward-facing/tool-free convertible designated seating positions behind the driver, alongside listed bus types. Evidence: regulations/us-fmvss-227.md."
+    },
+    "us-fmvss-305": {
+      "summary": "FMVSS No. 305 limits crash electrolyte spillage and energy storage intrusion, and protects against electrical shock during crashes and normal operation. It covers passenger cars and MPVs, trucks and buses of 4,536 kg GVWR or less using propulsion voltages above 60 VDC or 30 VAC, attaining over 40 km/h in 1.6 km and manufactured before September 1, 2027; certification to FMVSS No. 305a is an alternative.",
+      "_why": "summary: F370 — Root-modified wording: S1 restricts electrolyte spillage/energy-storage retention to crashes and covers electric shock in crashes/normal operation; S3 supplies voltage, speed/distance, weight/date scope; own title permits certification to FMVSS305a. Evidence: regulations/us-fmvss-305.md."
+    },
+    "us-fmvss-305a": {
+      "status_note": "Mandatory applicability begins 1 Sep 2027 for vehicles of 4,536 kg GVWR or less and 1 Sep 2028 for heavier vehicles; small-volume manufacturers, final-stage manufacturers and alterers get one additional year.",
+      "_why": "status_note: F371 — S3(b) explicitly extends the stated 2027/2028 mandatory applicability dates by one year for small-volume manufacturers, final-stage manufacturers and alterers. Evidence: regulations/us-fmvss-305a.md."
+    },
+    "us-fmvss-403": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Bus",
+        "Light truck",
+        "Heavy truck"
+      ],
+      "_why": "vehicle_categories: F372 — S3 covers motor-vehicle platform lifts; S6(d) explicitly allows private/public-use certification for all other vehicles beyond the specified bus/heavy-MPV group. Evidence: regulations/us-fmvss-403.md."
+    },
+    "us-fmvss-404": {
+      "vehicle_categories": [
+        "Passenger car",
+        "Bus",
+        "Light truck",
+        "Heavy truck"
+      ],
+      "_why": "vehicle_categories: F373 — S3 covers motor vehicles with platform lifts; S4.1.2 covers all other lift-equipped motor vehicles beyond the public-use group in S4.1.1. Evidence: regulations/us-fmvss-404.md."
+    }
+  },
+  "skipped": []
+}

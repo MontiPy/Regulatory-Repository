@@ -1,0 +1,724 @@
+[
+  {
+    "name": "eu-32019r0631",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0631",
+    "ids": [
+      "eu-32019r0631"
+    ],
+    "retrieved_at": "2026-10-06T12:09:19.838829+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0631",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 0,
+    "truncated": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "page_title": "",
+    "availability": "challenge_or_interstitial",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r0631.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r0631.raw.gz"
+  },
+  {
+    "name": "eu-32019r2144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2144",
+    "ids": [
+      "eu-32019r2144"
+    ],
+    "retrieved_at": "2026-10-06T12:09:19.547945+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2144",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 0,
+    "truncated": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "page_title": "",
+    "availability": "challenge_or_interstitial",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r2144.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r2144.raw.gz"
+  },
+  {
+    "name": "eu-32024r1257",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1257",
+    "ids": [
+      "eu-32024r1257"
+    ],
+    "retrieved_at": "2026-10-06T12:09:19.275721+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1257",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 0,
+    "truncated": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "page_title": "",
+    "availability": "challenge_or_interstitial",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-32024r1257.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/eu-32024r1257.raw.gz"
+  },
+  {
+    "name": "ece-r83",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1086",
+    "ids": [
+      "ece-r83"
+    ],
+    "retrieved_at": "2026-10-06T12:09:18.610057+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:42026X1086",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 0,
+    "truncated": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "page_title": "",
+    "availability": "challenge_or_interstitial",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/ece-r83.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/ece-r83.raw.gz"
+  },
+  {
+    "name": "eu-co2-proposal",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC0995",
+    "ids": [
+      "eu-co2-proposal"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.972301+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 202,
+    "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC0995",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 0,
+    "truncated": false,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "page_title": "",
+    "availability": "challenge_or_interstitial",
+    "text_preview": "",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal.raw.gz"
+  },
+  {
+    "name": "ca-2026-ghg-proposal",
+    "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-08-15/html/reg1-eng.html",
+    "ids": [
+      "ca-2026-ghg-proposal"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.728525+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-08-15/html/reg1-eng.html",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 56314,
+    "truncated": false,
+    "sha256": "eee3b0cf6a9bc7a648499d46fcfa91f5c5f3f79a57c6336f86375da0e3909aa4",
+    "page_title": "Canada Gazette, Part 1, Volume 160, Number 33: Regulations Amending the Immigration and Refugee Protection Regulations",
+    "availability": "response_retrieved",
+    "text_preview": "Canada Gazette, Part 1, Volume 160, Number 33: Regulations Amending the Immigration and Refugee Protection Regulations Skip to main content Skip to \"About this site\" Language selection FranĂ§ais fr / Gouvernement du Canada Search Search Canada Gazette gazette.gc.ca canada.ca Search Canada Gazette, Part I, Volume 160, Number 33: Regulations Amending the Immigration and Refugee Protection Regulations August 15, 2026 Statutory authority Immigration and Refugee Protection Act Sponsoring agency Canad",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-ghg-proposal.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-ghg-proposal.raw.gz"
+  },
+  {
+    "name": "ca-mvsr-c-r-c---c--1038-s116",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html",
+    "ids": [
+      "ca-mvsr-c-r-c---c--1038-s116"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.875569+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html",
+    "redirects": [],
+    "content_type": "text/html",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 982435,
+    "truncated": false,
+    "sha256": "2a86d70f3171e2f7b80501515808c030233e9fcba3f9bd32afcbed33b0965d79",
+    "page_title": "Motor Vehicle Safety Regulations",
+    "availability": "response_retrieved",
+    "text_preview": "Motor Vehicle Safety Regulations Language selection Français Search Search Canada.ca Search Motor Vehicle Safety Regulations ( C.R.C. , c. 1038) Full Document: HTML Full Document: Motor Vehicle Safety Regulations (Accessibility Buttons available) | XML Full Document: Motor Vehicle Safety Regulations [1042 KB] | PDF Full Document: Motor Vehicle Safety Regulations [12238 KB] Regulations are current to 2026-09-21 and last amended on 2025-01-01. Previous Versions Table of Contents Motor Vehicle Saf",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-c-r-c---c--1038-s116.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-c-r-c---c--1038-s116.raw.gz"
+  },
+  {
+    "name": "ca-mvsr-sor-2003-2",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html",
+    "ids": [
+      "ca-mvsr-sor-2003-2"
+    ],
+    "retrieved_at": "2026-10-06T12:09:17.738377+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2003-2/FullText.html",
+    "redirects": [],
+    "content_type": "text/html",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 266132,
+    "truncated": false,
+    "sha256": "19f333044074be7e2d442e6eb6d982100baea3509ae681398245b7b7fe26d5df",
+    "page_title": "On-Road Vehicle and Engine Emission Regulations",
+    "availability": "response_retrieved",
+    "text_preview": "On-Road Vehicle and Engine Emission Regulations Language selection Français Search Search Canada.ca Search On-Road Vehicle and Engine Emission Regulations ( SOR /2003-2) Full Document: HTML Full Document: On-Road Vehicle and Engine Emission Regulations (Accessibility Buttons available) | XML Full Document: On-Road Vehicle and Engine Emission Regulations [266 KB] | PDF Full Document: On-Road Vehicle and Engine Emission Regulations [648 KB] Regulations are current to 2026-09-21 and last amended o",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2003-2.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2003-2.raw.gz"
+  },
+  {
+    "name": "ca-mvsr-sor-2010-201",
+    "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html",
+    "ids": [
+      "ca-mvsr-sor-2010-201"
+    ],
+    "retrieved_at": "2026-10-06T12:09:18.077807+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-201/FullText.html",
+    "redirects": [],
+    "content_type": "text/html",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 293740,
+    "truncated": false,
+    "sha256": "91722b1bbd89d33ad7c758b309f963f36f4798d72012e14e31263057281f5703",
+    "page_title": "Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations",
+    "availability": "response_retrieved",
+    "text_preview": "Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations Language selection Français Search Search Canada.ca Search Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations ( SOR /2010-201) Full Document: HTML Full Document: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations (Accessibility Buttons available) | XML Full Document: Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations [326 KB] | PDF Full Document: Passenger Au",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2010-201.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2010-201.raw.gz"
+  },
+  {
+    "name": "un-1958-treaty",
+    "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-16&chapter=11&clang=_en",
+    "ids": [
+      "un-1958-treaty"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.151342+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-16&chapter=11&clang=_en",
+    "redirects": [],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": "Tue, 06 Oct 2026 11:12:44 GMT",
+    "etag": null,
+    "bytes_retained": 212922,
+    "truncated": false,
+    "sha256": "9bfd370755a2e7b97f973d62bc2c5632b786a31737128735548f098fafc2b82f",
+    "page_title": "UNTC",
+    "availability": "response_retrieved",
+    "text_preview": "UNTC Français | Contact Us Home Page Search Depositary Status of Treaties Depositary Notifications Certified True Copies Photos of Treaty Ceremonies Model Instruments Titles of Treaties League of Nations Treaties Status of treaties (1959-2009) Automated Subscription Services PRINT SEND MAIL VIEW THIS PAGE IN PDF FULL DETAILS VIEW CTC VIEW XML BOOKMARK CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII CHAPTER IX CHAPTER X CHAPTER XI CHAPTER XII CHAPTER XIII",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/un-1958-treaty.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/un-1958-treaty.raw.gz"
+  },
+  {
+    "name": "un-1998-treaty",
+    "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-32&chapter=11&clang=_en",
+    "ids": [
+      "un-1998-treaty"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.166194+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-B-32&chapter=11&clang=_en",
+    "redirects": [],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": "Tue, 06 Oct 2026 11:14:19 GMT",
+    "etag": null,
+    "bytes_retained": 136724,
+    "truncated": false,
+    "sha256": "cd5a73fb2a312f238846823f011135c841f0094f6f61974eefea0c18cb383203",
+    "page_title": "UNTC",
+    "availability": "response_retrieved",
+    "text_preview": "UNTC Français | Contact Us Home Page Search Depositary Status of Treaties Depositary Notifications Certified True Copies Photos of Treaty Ceremonies Model Instruments Titles of Treaties League of Nations Treaties Status of treaties (1959-2009) Automated Subscription Services PRINT SEND MAIL VIEW THIS PAGE IN PDF FULL DETAILS VIEW CTC VIEW XML BOOKMARK CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII CHAPTER IX CHAPTER X CHAPTER XI CHAPTER XII CHAPTER XIII",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/un-1998-treaty.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/un-1998-treaty.raw.gz"
+  },
+  {
+    "name": "ecfr-titles",
+    "url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
+    "ids": [
+      "ecfr-titles"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.172049+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/api/versioner/v1/titles.json",
+    "redirects": [],
+    "content_type": "application/json; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 8033,
+    "truncated": false,
+    "sha256": "70a04b5bdf1f3de874bc5a3dfc37cf877b3948a7cd88fb9db562decd608ed575",
+    "page_title": "",
+    "availability": "response_retrieved",
+    "text_preview": "{\"titles\":[{\"number\":1,\"name\":\"General Provisions\",\"latest_amended_on\":\"2022-12-29\",\"latest_issue_date\":\"2026-08-10\",\"up_to_date_as_of\":\"2026-10-02\",\"reserved\":false},{\"number\":2,\"name\":\"Federal Financial Assistance\",\"latest_amended_on\":\"2026-08-17\",\"latest_issue_date\":\"2026-08-18\",\"up_to_date_as_of\":\"2026-10-02\",\"reserved\":false},{\"number\":3,\"name\":\"The President\",\"latest_amended_on\":\"2015-03-17\",\"latest_issue_date\":\"2024-05-17\",\"up_to_date_as_of\":\"2026-10-02\",\"reserved\":false},{\"number\":4,\"nam",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/ecfr-titles.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/ecfr-titles.raw.gz"
+  },
+  {
+    "name": "us-cfr-part-531",
+    "url": "https://www.ecfr.gov/current/title-49/part-531",
+    "ids": [
+      "us-cfr-part-531"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.875025+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-531",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-531",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 170106,
+    "truncated": false,
+    "sha256": "fc075e9b20b1e81285ae69902c075b89aba35b77be4482361a7c7304cbdcbd26",
+    "page_title": "eCFR :: 49 CFR Part 531 -- Passenger Automobile Average Fuel Economy Standards",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR Part 531 -- Passenger Automobile Average Fuel Economy Standards Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associat",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-531.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-531.raw.gz"
+  },
+  {
+    "name": "us-cfr-part-533",
+    "url": "https://www.ecfr.gov/current/title-49/part-533",
+    "ids": [
+      "us-cfr-part-533"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.875350+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-533",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-533",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 160190,
+    "truncated": false,
+    "sha256": "211ea8441e62bd7e49c2b3567ab29961ff53bd47922dfe154b581b7eafba31c8",
+    "page_title": "eCFR :: 49 CFR Part 533 -- Light Truck Fuel Economy Standards",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR Part 533 -- Light Truck Fuel Economy Standards Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associated with the conte",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-533.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-533.raw.gz"
+  },
+  {
+    "name": "us-cfr-part-561",
+    "url": "https://www.ecfr.gov/current/title-49/part-561",
+    "ids": [
+      "us-cfr-part-561"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.872620+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-561",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-561",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 112873,
+    "truncated": false,
+    "sha256": "6e06b95999f6869f761094c172c1b21db86a9f56c50f8a31fb674b255e2b44f9",
+    "page_title": "eCFR :: 49 CFR Part 561 -- Documentation for Electric-Powered Vehicles",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR Part 561 -- Documentation for Electric-Powered Vehicles Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associated with ",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-561.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-561.raw.gz"
+  },
+  {
+    "name": "us-fmvss-120",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.120",
+    "ids": [
+      "us-fmvss-120"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.873880+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.120",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.120",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 116247,
+    "truncated": false,
+    "sha256": "84490bac05ef776a7065a0c480ca2ca9ec080f98e53fbcdb80d048f56a4c05db",
+    "page_title": "eCFR :: 49 CFR 571.120 -- Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds).",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.120 -- Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds). Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf o",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-120.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-120.raw.gz"
+  },
+  {
+    "name": "us-fmvss-208",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.208",
+    "ids": [
+      "us-fmvss-208"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.874000+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.208",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.208",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 783409,
+    "truncated": false,
+    "sha256": "858a61c644666adf0227927e8775cf9d50e41d3e84b5c7cecaf544c329b0dbb8",
+    "page_title": "eCFR :: 49 CFR 571.208 -- Standard No. 208; Occupant crash protection.",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.208 -- Standard No. 208; Occupant crash protection. Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associated with ",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-208.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-208.raw.gz"
+  },
+  {
+    "name": "us-fmvss-217a",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.217a",
+    "ids": [
+      "us-fmvss-217a"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.874912+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.217a",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.217a",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 104168,
+    "truncated": false,
+    "sha256": "3a5a63e724895a59543b94ddaf089990aadafa1d120995292b75040c1f38633f",
+    "page_title": "eCFR :: 49 CFR 571.217a -- Standard No. 217a; Anti-ejection glazing for bus portals; Mandatory applicability beginning October 30, 2027.",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.217a -- Standard No. 217a; Anti-ejection glazing for bus portals; Mandatory applicability beginning October 30, 2027. Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their progr",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-217a.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-217a.raw.gz"
+  },
+  {
+    "name": "us-fmvss-224",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.224",
+    "ids": [
+      "us-fmvss-224"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.870932+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.224",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.224",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 94869,
+    "truncated": false,
+    "sha256": "5cc0b7ff4a1dcdfc1905eb902be3a8c525f490c636158f86d8ebde110d70fd3d",
+    "page_title": "eCFR :: 49 CFR 571.224 -- Standard No. 224; Rear impact protection.",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.224 -- Standard No. 224; Rear impact protection. Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associated with the",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-224.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-224.raw.gz"
+  },
+  {
+    "name": "us-fmvss-305a",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.305a",
+    "ids": [
+      "us-fmvss-305a"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.874236+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.305a",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.305a",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 193448,
+    "truncated": false,
+    "sha256": "f25fdda96ca03286df8b806d0930b3b66e7c852bd1af9e909dc7a8fc79f0af63",
+    "page_title": "eCFR :: 49 CFR 571.305a -- Standard No. 305a; electric-powered vehicles: Electric powertrain integrity; mandatory applicability begins on September 1, 2027.",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.305a -- Standard No. 305a; electric-powered vehicles: Electric powertrain integrity; mandatory applicability begins on September 1, 2027. Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any author",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-305a.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-305a.raw.gz"
+  },
+  {
+    "name": "us-fmvss-307",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.307",
+    "ids": [
+      "us-fmvss-307"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.874391+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.307",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.307",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 148766,
+    "truncated": false,
+    "sha256": "c829253ab447d464c7e35de5d26df6e2c6cb616c2856683809d998d96e9ab87b",
+    "page_title": "eCFR :: 49 CFR 571.307 -- Standard No. 307; Fuel system integrity of hydrogen vehicles.",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.307 -- Standard No. 307; Fuel system integrity of hydrogen vehicles. Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-307.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-307.raw.gz"
+  },
+  {
+    "name": "us-fmvss-308",
+    "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.308",
+    "ids": [
+      "us-fmvss-308"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.874763+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-571/subpart-B/section-571.308",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-571/section-571.308",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 178895,
+    "truncated": false,
+    "sha256": "c588eea48256ff5134e0e518b8a9d0c614db66762f0b413d0f8e9698e1bdf337",
+    "page_title": "eCFR :: 49 CFR 571.308 -- Standard No. 308; Compressed hydrogen storage system integrity.",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR 571.308 -- Standard No. 308; Compressed hydrogen storage system integrity. Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agen",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-308.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-308.raw.gz"
+  },
+  {
+    "name": "us-cfr-part-588",
+    "url": "https://www.ecfr.gov/current/title-49/part-588",
+    "ids": [
+      "us-cfr-part-588"
+    ],
+    "retrieved_at": "2026-10-06T12:09:16.873685+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-588",
+    "redirects": [
+      {
+        "url": "https://www.ecfr.gov/current/title-49/part-588",
+        "status": 302
+      }
+    ],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 84620,
+    "truncated": false,
+    "sha256": "d64860fcb896d383478bdcd8f6c6c0682b6f50da06b940da8a27022507777415",
+    "page_title": "eCFR :: 49 CFR Part 588 -- Child Restraint Systems Recordkeeping Requirements",
+    "availability": "response_retrieved",
+    "text_preview": "eCFR :: 49 CFR Part 588 -- Child Restraint Systems Recordkeeping Requirements Site Feedback You are using an unsupported browser × You are using an unsupported browser. This web site is designed for the current versions of Microsoft Edge, Google Chrome, Mozilla Firefox, or Safari. × Site Feedback The Office of the Federal Register publishes documents on behalf of Federal agencies but does not have any authority over their programs. We recommend you directly contact the agency associate",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-588.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-588.raw.gz"
+  },
+  {
+    "name": "epa-2026-ghg",
+    "url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment",
+    "ids": [
+      "epa-2026-ghg"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.180256+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment",
+    "redirects": [],
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": "Tue, 06 Oct 2026 04:35:21 GMT",
+    "etag": "W/\"1791261321\"",
+    "bytes_retained": 60795,
+    "truncated": false,
+    "sha256": "155b3f6f19158dc188adfb12b75d2a2553a151600b74be93beb01125842af195",
+    "page_title": "Final Rule: Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act | US EPA",
+    "availability": "response_retrieved",
+    "text_preview": "Final Rule: Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act | US EPA Skip to main content An official website of the United States government Here’s how you know Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg.raw.gz"
+  },
+  {
+    "name": "cafe-2026-final",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19964.htm",
+    "ids": [
+      "cafe-2026-final"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.173653+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19964.htm",
+    "redirects": [],
+    "content_type": "text/html",
+    "last_modified": "Thu, 01 Oct 2026 19:30:33 GMT",
+    "etag": null,
+    "bytes_retained": 1679538,
+    "truncated": false,
+    "sha256": "7bdb99480f274b8ead076500b51935427b74f317ed6a8165f1ae8181585ce740",
+    "page_title": "Federal Register, Volume 91 Issue 188 (Wednesday, September 30, 2026)",
+    "availability": "response_retrieved",
+    "text_preview": "Federal Register, Volume 91 Issue 188 (Wednesday, September 30, 2026) [Federal Register Volume 91, Number 188 (Wednesday, September 30, 2026)] [Rules and Regulations] [Pages 61988-62291] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-19964] [[Page 61987]] Vol. 91 Wednesday, No. 188 September 30, 2026 Part III Department of Transportation ----------------------------------------------------------------------- National ",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/cafe-2026-final.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/cafe-2026-final.raw.gz"
+  },
+  {
+    "name": "kmvss-official",
+    "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=270023&efYn=Y&nwJoYnInfo=Y&ancYnChk=0&netPrivateYn=N",
+    "ids": [
+      "kmvss-official"
+    ],
+    "retrieved_at": "2026-10-06T12:09:20.798721+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=270023&efYn=Y&nwJoYnInfo=Y&ancYnChk=0&netPrivateYn=N",
+    "redirects": [],
+    "content_type": "text/html;charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "bytes_retained": 454,
+    "truncated": false,
+    "sha256": "2954ba9341bff477923ae2073c15b07cd0d241a2d63fae3957e0d0ea5a521ded",
+    "page_title": "Error",
+    "availability": "source_error_page",
+    "text_preview": "Error",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/kmvss-official.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/kmvss-official.raw.gz"
+  },
+  {
+    "name": "au-f2006l02297",
+    "url": "https://www.legislation.gov.au/Details/F2006L02297",
+    "ids": [
+      "au-f2006l02297"
+    ],
+    "retrieved_at": "2026-10-06T12:09:19.066096+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.legislation.gov.au/Details/F2006L02297",
+    "redirects": [],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": "W/\"14d27-0lDcipaZ1Vql3Z7OdPLZhTT85ws\"",
+    "bytes_retained": 85287,
+    "truncated": false,
+    "sha256": "17a75e3e81aef85582a118c0c984c2c68996280217f8f5d8392dc4279b60c4fc",
+    "page_title": "Vehicle Standard (Australian Design Rule 65/00 – Maximum Road Speed Limiting for Heavy Goods Vehicles and Heavy Omnibuses) 2006 - Federal Register of Legislation",
+    "availability": "response_retrieved",
+    "text_preview": "Vehicle Standard (Australian Design Rule 65/00 – Maximum Road Speed Limiting for Heavy Goods Vehicles and Heavy Omnibuses) 2006 - Federal Register of Legislation Skip to main Australian Government Federal Register of Legislation Site navigation Help and resources Register for My Account Sign in to My Account Search Home Text Details Authorises Downloads All versions Interactions Vehicle Standard (Australian Design Rule 65/00 – Maximum Road Speed Limiting for Heavy Goods Vehicles and Heavy Omnibu",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02297.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02297.raw.gz"
+  },
+  {
+    "name": "au-f2006l02729",
+    "url": "https://www.legislation.gov.au/Details/F2006L02729",
+    "ids": [
+      "au-f2006l02729"
+    ],
+    "retrieved_at": "2026-10-06T12:09:18.818079+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.legislation.gov.au/Details/F2006L02729",
+    "redirects": [],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": "W/\"13625-8lrJlcraDCaOyRYAX+ZIEBOyvhU\"",
+    "bytes_retained": 79397,
+    "truncated": false,
+    "sha256": "7eba5e8b5cf947d7e776c873fbdb18a2e034f43db13d151ab4175a61910ab553",
+    "page_title": "Vehicle Standard (Australian Design Rule 54/00 – Headlamps for Mopeds) 2006 - Federal Register of Legislation",
+    "availability": "response_retrieved",
+    "text_preview": "Vehicle Standard (Australian Design Rule 54/00 – Headlamps for Mopeds) 2006 - Federal Register of Legislation Skip to main Australian Government Federal Register of Legislation Site navigation Help and resources Register for My Account Sign in to My Account Search Home Text Details Authorises Downloads All versions Interactions Vehicle Standard (Australian Design Rule 54/00 – Headlamps for Mopeds) 2006 In force Administered by Department of Infrastructure, Transport, Regional Development, Commun",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02729.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02729.raw.gz"
+  },
+  {
+    "name": "au-f2023l01006",
+    "url": "https://www.legislation.gov.au/Details/F2023L01006",
+    "ids": [
+      "au-f2023l01006"
+    ],
+    "retrieved_at": "2026-10-06T12:09:19.257978+00:00",
+    "legal_verification": "not_adjudicated",
+    "status": 200,
+    "final_url": "https://www.legislation.gov.au/Details/F2023L01006",
+    "redirects": [],
+    "content_type": "text/html; charset=utf-8",
+    "last_modified": null,
+    "etag": "W/\"14580-RDMAI/qzEao43DQ+7HBi2LXn8Dk\"",
+    "bytes_retained": 83328,
+    "truncated": false,
+    "sha256": "2d1c10232d6906c503d0734c86adb264c64a1fe7b2b8cc97065d6fca3053441c",
+    "page_title": "Vehicle Standard (Australian Design Rule 108/00 – Reversing Technologies) 2023 - Federal Register of Legislation",
+    "availability": "response_retrieved",
+    "text_preview": "Vehicle Standard (Australian Design Rule 108/00 – Reversing Technologies) 2023 - Federal Register of Legislation Skip to main Australian Government Federal Register of Legislation Site navigation Help and resources Register for My Account Sign in to My Account Search Home Text Details Authorises Downloads All versions Interactions Vehicle Standard (Australian Design Rule 108/00 – Reversing Technologies) 2023 In force Administered by Department of Infrastructure, Transport, Regional Development, ",
+    "text_path": "review/runs/2026-10-06-external/evidence/sources/au-f2023l01006.txt",
+    "raw_path": "review/runs/2026-10-06-external/evidence/sources/au-f2023l01006.raw.gz"
+  }
+]

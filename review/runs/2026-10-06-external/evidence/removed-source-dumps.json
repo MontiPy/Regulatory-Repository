@@ -1,0 +1,2945 @@
+{
+ "note": "Raw source downloads, text extractions and proposed-body copies were removed from the repository on 2026-10-06 to keep it small (they were ~60 MB). Each entry keeps the file's path, size and SHA-256 so a re-fetched copy can be matched. Source URLs, retrieval timestamps and response hashes remain in url-checks.json, ecfr-sources.json, eu-publications-sources.json and findings.json. Full copies remain in git history at commit 76e516a.",
+ "files": [
+  {
+   "path": "review/runs/2026-10-06-external/evidence/eu1151-body.md",
+   "bytes": 1539570,
+   "sha256": "6557345cf8a33a846cd9acc36a0f728f7abfdb80911ce9fa3c9d5cfc3d98c89b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/acc-ii-public-law.raw.gz",
+   "bytes": 145485,
+   "sha256": "a1751cb5ee5e84f9d1822b608f268f59e87d944cea846ac168070cf145dc064e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/acc-ii-public-law.txt",
+   "bytes": 1465,
+   "sha256": "08002a1cb830fde15a382eadf2aaa705628a91986e12623c0179c7b56c9c8c3f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr45-text-original.raw.gz",
+   "bytes": 4945,
+   "sha256": "90f34cb8570cbb3b9b486162e1918dc6fb856c38b4ff6f17cec528dd29cd10cd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr45-text-original.txt",
+   "bytes": 6993,
+   "sha256": "90eebbcae6a4cc885d5892dc01dda0d5f9b253f5651172b82d7fbeffa23a853f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr45-text.raw.gz",
+   "bytes": 15242,
+   "sha256": "9e79173daab2d5229896075f0a9a2df0632ba42c6ae9dc424bcf8019d5fab37c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr45-text.txt",
+   "bytes": 2006,
+   "sha256": "42d9fe973a4470c267d9e26da16d204b98a3f761b925b34ed5aa00ff9a711ab5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr60-text-original.raw.gz",
+   "bytes": 6901,
+   "sha256": "c63a4561a2e4af53b240b96e2f8a68902abae140b2e538e99569c42aad1af919"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr60-text-original.txt",
+   "bytes": 8522,
+   "sha256": "3408627fa76327313d495c7c824604a72da03f4ec5c5c19b9f2ee2b02f05eecc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr60-text.raw.gz",
+   "bytes": 14840,
+   "sha256": "95e4291ca66a7b15a8eb2df121ac2bb443197f79977ccd8cb7a4acba2094a35f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr60-text.txt",
+   "bytes": 1707,
+   "sha256": "9f393024680ffde97dcd925c4be4cc2e7e234c8f9d762cb9709f3e77cde30ae8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr99-text-original.raw.gz",
+   "bytes": 24343,
+   "sha256": "acf9abb3c846131a450fadfbbd71cdc18112e71b1b3c015cd33db32ec717b332"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr99-text-original.txt",
+   "bytes": 43266,
+   "sha256": "39deb288771017baac0972ac86ff13786336e7155c1f8df30e9bdb7fdb62b066"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr99-text.raw.gz",
+   "bytes": 14492,
+   "sha256": "86e7945fceb74815df1018998136ed72c273264122fde03aa58993b326dba1fd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-adr99-text.txt",
+   "bytes": 910,
+   "sha256": "1eea3b6b51d887e3449c076bfa38ab6758c1cfbdc452ac7605f62e6ab022b463"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02297.raw.gz",
+   "bytes": 15117,
+   "sha256": "80326ee7ced02d142f5647f78c1593bdc70a8e8879b5fa980382054bde03ebc5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02297.txt",
+   "bytes": 1994,
+   "sha256": "e006ba32ee4e8690b7305a2b7fd1277e9ae420f116728d542a2d2b102181c0b7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02729.raw.gz",
+   "bytes": 14888,
+   "sha256": "66b14c98c0d65748c4f9c2ed5997fd583695b11c870394f241ce3da2bbb033a6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-f2006l02729.txt",
+   "bytes": 1689,
+   "sha256": "5992f17889747a8f81f43d3ad3b70ee9392dba00bf7f25e555916fe884e4b1b5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-f2023l01006.raw.gz",
+   "bytes": 15116,
+   "sha256": "80a773b55d0401b6a627e233003708b6a79d099c88bb196487513356e84d45cd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/au-f2023l01006.txt",
+   "bytes": 2402,
+   "sha256": "6577718a0dc14b5ace39c021cb1480a70a5e25430229f64768f876316362b8d2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran215-original.raw.gz",
+   "bytes": 100357,
+   "sha256": "9e5dbf6ee84f27c9900d80850079e9a3674ffd1e6edb588971c338ec8479b1ab"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran215-original.txt",
+   "bytes": 99,
+   "sha256": "bfd99cdba8a99585259aba97be0be019c2120a2f6228d83819d29244e75a5061"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran245-original.raw.gz",
+   "bytes": 11795,
+   "sha256": "bea09a6f9acbd3d4202190aef6e4ee71af02a339b57044f1623dd0827ae427fb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran245-original.txt",
+   "bytes": 5115,
+   "sha256": "1b3b81022b1a9b13aeddb9d490f646bbcc9d60845f0a848d385b5f4ba4007a80"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran330-original.raw.gz",
+   "bytes": 10990,
+   "sha256": "f3d3ba88162812576c7e6f0f3e7c5acdd945379572712d20334b66e28af694e5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran330-original.txt",
+   "bytes": 5933,
+   "sha256": "06f51fb4d06158f830908fc51968adca1ca4d958791a4d4c1c81de7bff60db9e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran37-official.raw.gz",
+   "bytes": 20737,
+   "sha256": "bf78cddd1a4756dd53431d86c4e4c2e825fd78fa96e99575fd30dad14186ab1b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran37-official.txt",
+   "bytes": 3010,
+   "sha256": "479bf6c9f4a48700e7f82f4b02882ee103397dcf475a4886c290a4d6061b87b8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-official.raw.gz",
+   "bytes": 20682,
+   "sha256": "e193679cfdb61d8af7722f33c832d99ccc55418a3902bc13b0edcb14dcc8e839"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-official.txt",
+   "bytes": 2923,
+   "sha256": "d1414346e47b8c7a7a0ffa6d1099c3595056f46e5dca37411d973c4d4a8ac3a8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-original.raw.gz",
+   "bytes": 69028,
+   "sha256": "ac44fd7c8b56e8281df34a7fc521878a98d0becf765dcf9a599e5666d192b439"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran498-original.txt",
+   "bytes": 18101,
+   "sha256": "fb503e2c66f491f72f2a26b6a77c2fe4f1838771cc7f9995c33acc212bcec6cb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran559-original.raw.gz",
+   "bytes": 76767,
+   "sha256": "307f27255a6dceee1f4614f9c66dda74aab40bbbdff24e72d8395d4f6916edf1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran559-original.txt",
+   "bytes": 1673,
+   "sha256": "807c058fe28bb76d5bb82adc0a6db3b31b3c314be370c46dc908e2b885d2671d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran764-original.raw.gz",
+   "bytes": 177926,
+   "sha256": "67f855563c411c5845121089ffb6104e1bb6075dea20986f15da3d51cb88aa5f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran764-original.txt",
+   "bytes": 16377,
+   "sha256": "44befed7f9b582b20bbdb5f6416c692c3f3af52adb49fa53c7e91d315c153cdc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-annexes.raw.gz",
+   "bytes": 1015040,
+   "sha256": "89971618fa329ee210ebc543c10f3e8a36fc4747d73566328d611d4abede1c75"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-annexes.txt",
+   "bytes": 139053,
+   "sha256": "00b5df74b1672b7473efad8c001a018f0bc2c041b0811021fb38ac874703ee62"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-correction.raw.gz",
+   "bytes": 56766,
+   "sha256": "521a81a2c1b63f8ce1ee4ec9551a067a179e6513553029c9667e600e37de6d78"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-correction.txt",
+   "bytes": 655,
+   "sha256": "8e967c0678f109041f4c4923530244fc133fe1efa487d6a33f7a5aa369d83329"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-official.raw.gz",
+   "bytes": 70368,
+   "sha256": "61f8f9a4a924a94f092d0cacca83d30d2d8a2f86b54c171b8e51ae1b6a40090b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran924-official.txt",
+   "bytes": 5114,
+   "sha256": "eeac40b7c7133e0387024de35c66c97030ed0fdf14505a83b2bdb16c9a9a97ac"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran988-original.raw.gz",
+   "bytes": 41875,
+   "sha256": "7ba7c662a28f58b63003cbd906e6647344569f2a3ed5c5744802b731e5730e64"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-contran988-original.txt",
+   "bytes": 2093,
+   "sha256": "31d58a67a24499415245a6a74d1df5177dad68e6ba92af87ae3da5ca4cdc622c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-resolutions-status.raw.gz",
+   "bytes": 127283,
+   "sha256": "d8e1bd385256fd98d95dcb0683e53c1bbd1bd93232696c750b997bbb0527cdd4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-resolutions-status.txt",
+   "bytes": 311926,
+   "sha256": "cb13f11fa495c353ceb8c56ced3445a404f059fc5e05abf500291632e9a047e1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-senatran-portarias2022-index.raw.gz",
+   "bytes": 46856,
+   "sha256": "de43ffa92fb32aa180957d4448bf619b6bfd8e3ff597850e0a1fabde777864f0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-senatran-portarias2022-index.txt",
+   "bytes": 87599,
+   "sha256": "048a9922f90ab9732fc6089b60011aed688ea0695ab1adb542adf2e901dd75a3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-official.raw.gz",
+   "bytes": 423208,
+   "sha256": "e89a0f37929936356885805907ef55048f12338b0da3218f9a87fa2725944d22"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-official.txt",
+   "bytes": 64949,
+   "sha256": "188406dc0c7f2f2d53bcfa9662f6bee9bcd96a8e816223b38d5401a5b757f526"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-republication.raw.gz",
+   "bytes": 656493,
+   "sha256": "35847a7d37a5a0cee6c722af9380e3363bccfd3b771b4e3077820f6c4b2d0a4b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/br-senatran990-republication.txt",
+   "bytes": 66030,
+   "sha256": "b2d5bc143c062b2854337da0434499b4ca9f6ccee7e037dc874ef49c13c886ad"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-evas-proposal.raw.gz",
+   "bytes": 43500,
+   "sha256": "95db655c0667e842906e57bb38705901df5fd153718b49a84a0a4ab2bb4b7e3e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-evas-proposal.txt",
+   "bytes": 118384,
+   "sha256": "a5c66262898a04050cc34f0602f5959349e60c1a1fe83d8d4d504e784574cd49"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-ghg-proposal.raw.gz",
+   "bytes": 16738,
+   "sha256": "8f4d0b6e118f32cc063a95788f8185b5df21da66d07fa2ccc3dd9c7000b31145"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-2026-ghg-proposal.txt",
+   "bytes": 34076,
+   "sha256": "58cedf43b7246d2a716bc7623f02802883a78ad6b4fc0fd06f8e3f3a39498983"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-c-r-c---c--1038-s116.raw.gz",
+   "bytes": 148340,
+   "sha256": "a4af315a36b7d0b97b006d88dcdcf9f984878d8e3b9bebc762af0aa9086f294b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-c-r-c---c--1038-s116.txt",
+   "bytes": 462593,
+   "sha256": "34313fa2de9e323b2bffd0c71395e541a6cb781284564b207f16b0260469151e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2003-2.raw.gz",
+   "bytes": 39045,
+   "sha256": "2b3b628b6263acd0e3706c67e5d5dcb858a7f551ca06a649927b4e826d094faf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2003-2.txt",
+   "bytes": 130586,
+   "sha256": "b69dbd04f28130c3fb9559bb928fe51f69587e45dfa9f2ee4e2db22d4725b910"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2010-201.raw.gz",
+   "bytes": 41295,
+   "sha256": "5443ac4b1e470ada10a40184648225abc1558174054235e350e7838a2427bc3e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ca-mvsr-sor-2010-201.txt",
+   "bytes": 150425,
+   "sha256": "6d104ad9488a7c6188e1a54d885f267facd14a1f99d1c4c966b6134c981ae328"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/cafe-2026-final.raw.gz",
+   "bytes": 471801,
+   "sha256": "5b24d6fc68d1bb3d23f6295b1458fe90cdea2a985bb7321f8b4a959a925ad617"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/cafe-2026-final.txt",
+   "bytes": 1658108,
+   "sha256": "4b6ccd0f187d0a1cc1255852f85b4d41fb8c2b16a14710b013b790ded940e1e2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/carb-emergency-2026.raw.gz",
+   "bytes": 13890,
+   "sha256": "6eb7a7eec0d1a58cda1e31784ffd02fe67c9ebe6dc08a4657a12db04a075496b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/carb-emergency-2026.txt",
+   "bytes": 4265,
+   "sha256": "6a24da0d3a14c463b8de58954260cdbc96e46b7e33e8b5fdbb695ae5d42c3667"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ece-r83.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ece-r83.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-titles.raw.gz",
+   "bytes": 1207,
+   "sha256": "e3bab7c53ecc8c9cbb37bdf434dd74a9ea92fd87036d8be7341b86ea5c8eeb16"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-titles.txt",
+   "bytes": 8033,
+   "sha256": "70a04b5bdf1f3de874bc5a3dfc37cf877b3948a7cd88fb9db562decd608ed575"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-1066.raw.gz",
+   "bytes": 84241,
+   "sha256": "68ca244aac2e79e8fc10d6f04a9bb3f9d90ed453f1a4ab25cec202ee0dddf205"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-1066.txt",
+   "bytes": 284268,
+   "sha256": "abc4bb26a074bf164985025bd79205ab66c3a092e79f398899737f78cf538437"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-600.raw.gz",
+   "bytes": 81930,
+   "sha256": "d913409d4bd66139f6ddb7ff5f91300ac445f3d01898fa11460f67b479090983"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-600.txt",
+   "bytes": 332594,
+   "sha256": "09544b1a8ba0b342c5a19038e5e978ef4fd6af856a7efcacc89a9ba2efc1472a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-82.raw.gz",
+   "bytes": 303040,
+   "sha256": "8c5fad3b9450cd96b2c0e79280e70f642b94466907c2aa71fa9ccf33d4c8eeb8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-82.txt",
+   "bytes": 1321340,
+   "sha256": "0540365f09e0cf690104f790ffc06d044f537ab84345f2aaf8d1e39d826c522a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-85.raw.gz",
+   "bytes": 81109,
+   "sha256": "4750123078d3ad9c604eeef9614229d2a1b71301d4bf2a2cc27082bf8ad7f6e7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-85.txt",
+   "bytes": 327716,
+   "sha256": "f4f7687b03fb2f1f921e28b8b5c2fcae123416bc6f9ece59f44d9065c53b6084"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-86.raw.gz",
+   "bytes": 628579,
+   "sha256": "3bba8782c54a2d3dee453a550e44c94b549595cab6671f5d66078442ee604c44"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-40cfr-part-86.txt",
+   "bytes": 2439029,
+   "sha256": "b7a0ee9c19085fe44cfd9067192a6e9bee7a9e3ed3e0894f7e59132bd0408dd7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-47cfr-part-15.raw.gz",
+   "bytes": 116241,
+   "sha256": "06a5de19dbc10f10bd5bbdd0bc39e43217d9259c58b95223ae3287201d78fb2f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-47cfr-part-15.txt",
+   "bytes": 442873,
+   "sha256": "c9ba427c1b75382dc9ff8453b7248e6df8bb19bbdce6d8ddd4c77bdc0915a243"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-523.raw.gz",
+   "bytes": 6755,
+   "sha256": "6936e0e9b1d3fb7d4ccd5420883fc16437d93b2c6ac4ccc611dfc64662488690"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-523.txt",
+   "bytes": 20565,
+   "sha256": "07055d791364b59dcdd899677f3db4626f1961d64980dd917494c787c5b52537"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-525.raw.gz",
+   "bytes": 4835,
+   "sha256": "092afcb88754ea75c6da4c0b4fba0834bf3320e2f3c1164b04667fa28b58e8ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-525.txt",
+   "bytes": 14624,
+   "sha256": "12b1da1845764ede3c1327e2b01dd2d234053b826778c90d188d8820e1f13ab5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-526.raw.gz",
+   "bytes": 2401,
+   "sha256": "e5dbe21406855af69f6640fe44262c09764a18cc67f97033731ae1abe73df817"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-526.txt",
+   "bytes": 5865,
+   "sha256": "32944f37afce34bef526f4266673a8b0ccb0b420c8cf267dc6fb7b5e231c33b2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-529.raw.gz",
+   "bytes": 3311,
+   "sha256": "48015428daaaf28041e3d649411ab91c448be7a26084bd3b9c3babf70c0753d5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-529.txt",
+   "bytes": 13430,
+   "sha256": "6b202cb2483e41c1f932147ad69f6869d6f97ed119dfa60aa312aa86721c9bfc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-531.raw.gz",
+   "bytes": 8471,
+   "sha256": "b4a53ab889c206d480ffa696596fbcf7430b166993002a636666cd0451874a1f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-531.txt",
+   "bytes": 19759,
+   "sha256": "84f78e42caf4cba0b461236df915e9e0c55c392711e3a7899d7dc9d5dac0718b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-533.raw.gz",
+   "bytes": 8162,
+   "sha256": "c4d85e0e316ed61dd8f311227db56e87777f667961308d90f68ece1af528e1c4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-533.txt",
+   "bytes": 21642,
+   "sha256": "e3c90e112098e4aedd4eabe6d97918c1511db54163d5342920b9a37fa3e0ab53"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-534.raw.gz",
+   "bytes": 3290,
+   "sha256": "bd7f3ca914bba381f47c67ff0e43f85f996cd0145ca79215ed17e1abf78ec857"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-534.txt",
+   "bytes": 11000,
+   "sha256": "af3eb15a736bc5a78ef426aec2b911abf1ed0bdcb6cfed5e8799dca31601b1d5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-536.raw.gz",
+   "bytes": 9107,
+   "sha256": "def2d8f9d8e84aa32f0f13707e9acf55385ad4545ef3981f5ce99bf5836b7340"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-536.txt",
+   "bytes": 29194,
+   "sha256": "164fe72b5f7cf1f739e984aa3efd0fa7435273136973033138fdc9b63264befa"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-537.raw.gz",
+   "bytes": 9063,
+   "sha256": "c742019efc39b92eb9af693529127cbd7dfa783114f326b18309afc187783e1c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-537.txt",
+   "bytes": 34435,
+   "sha256": "6013ece7ef795a2176dd08680ead6d5d1bb41ef312a9d4d02bc7b76494e8755c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-538.raw.gz",
+   "bytes": 3779,
+   "sha256": "931314b61d3e05b8c29e888c6bf1381e1a7da50098201427ed22c89573b20cab"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-538.txt",
+   "bytes": 9358,
+   "sha256": "ca7ac311d409197635ecc91099f99110b198a72a5e76df0cd25474dc086086c2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-541.raw.gz",
+   "bytes": 7727,
+   "sha256": "a34333a744a1a8ba8c7c8d1fbe89a730a3e444bacb766a550b84ed51b1815f34"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-541.txt",
+   "bytes": 22251,
+   "sha256": "0fac44195b44df3f713638c2408312e57374234bc8c293fd45b4e8b69ccb946f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-542.raw.gz",
+   "bytes": 2035,
+   "sha256": "f8c533a7bef5a5311d8dfd961cb52fb8014ff3fca2804df7a784c6d0c65ae605"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-542.txt",
+   "bytes": 7101,
+   "sha256": "fe89ca769958b849a1596e42deb652b15d83ba8495cae75ea175766329ac52e6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-543.raw.gz",
+   "bytes": 6352,
+   "sha256": "16308258c91185038ab8b7fffadef9f1468d011dcc743898944c75845c6a6526"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-543.txt",
+   "bytes": 18922,
+   "sha256": "9fabda3bf9c787cee20a4bd22a64084263df96f732d534d103e9343b284c8dc0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-545.raw.gz",
+   "bytes": 2172,
+   "sha256": "84301f4bed5da184b5cf86ca17fd96bb5d5c2cf32831b15d9e07325750a8fead"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-545.txt",
+   "bytes": 6284,
+   "sha256": "c60ef6719aad4bc7e203b899b3dd804f23ca831c90f94ef217f6e6476415a977"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-551.raw.gz",
+   "bytes": 4971,
+   "sha256": "c941c01342d0fbdcf9fff9816827f02a26d261e1a992cd0b3e509803ba55eae4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-551.txt",
+   "bytes": 14522,
+   "sha256": "fe32fe6df3ce40c34758d7c6bcfe2f1d17494814b624a381dbe5b5bf480942bb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-554.raw.gz",
+   "bytes": 3046,
+   "sha256": "9f5003fa4fc0b19665db1c5e9cf9762702d78dc1f5356c09d2b0f0037b7717fe"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-554.txt",
+   "bytes": 6953,
+   "sha256": "e943f2ab9b417d6f0ed07e3ff554a389f1e54f38baf6bb5098e768e760dc2348"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-555.raw.gz",
+   "bytes": 7679,
+   "sha256": "8bc44f977171d21d00ab407540f797ddaf7fec44f8368fd41c46f23c2b3128b4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-555.txt",
+   "bytes": 26281,
+   "sha256": "ab8d27cb1417ed62c72ce6d846d0c1f0a99b654c46f61d0575044c00ff35e33c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-556.raw.gz",
+   "bytes": 2895,
+   "sha256": "c41b8d47d9072cb63542a13c92500b1f31ac7b654eabc5f7364180d8693b5f6f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-556.txt",
+   "bytes": 7330,
+   "sha256": "f2ecc797f31071081fd8a771c7a4a10c9ac9b3987f4e8715a45368555daa0dae"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-557.raw.gz",
+   "bytes": 2491,
+   "sha256": "b8652684c8876ffd6b30938f505aac4089190e15963c889ce52a3522d25c5f4d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-557.txt",
+   "bytes": 5903,
+   "sha256": "f5a9cbeaa708ff8ab9a8296b4b78e4265636808ced035de675292aa7bd1ba0b2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-561.raw.gz",
+   "bytes": 4705,
+   "sha256": "f14fc9fb087aeedff8d14237975ea9cf5af753eddb391e766ed58c5904798ce6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-561.txt",
+   "bytes": 14891,
+   "sha256": "210bfc2db3ea84f1aaf8ec52048f5dd1c671ccd62b13bd48b0c27610aa4f5dbf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-563.raw.gz",
+   "bytes": 9836,
+   "sha256": "801ffdcfa47bf86ed3027cf0946fad3796e305da9d59def5bf83fa3ce2a1db33"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-563.txt",
+   "bytes": 34075,
+   "sha256": "c1a94cc9b75c4d521ad329243a3e2d302efb390b94e18f95b720a6389ca67ff7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-564.raw.gz",
+   "bytes": 5212,
+   "sha256": "bd3970eca17dba99e84790affa42737c7e903a9cb187039588af9af0d9bc4305"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-564.txt",
+   "bytes": 18913,
+   "sha256": "f07862a08f6164762d5c63ee5a589a97799f05e5bc0aa4408ca5124aa465d2ef"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-565.raw.gz",
+   "bytes": 12795,
+   "sha256": "b41f48c7fea254dfe0bd3c9330f5a8cce23b7d9da2a612d30ecb4c2c78756989"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-565.txt",
+   "bytes": 39839,
+   "sha256": "15e40fdff7bf6da5bf84ad1bef6e71b9ef78ba8862414ba624395e1e8b8b43c9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-566.raw.gz",
+   "bytes": 2126,
+   "sha256": "d36201622221eceecde5537de434788a8b324afbd5a6d0180fb4ea80afac3610"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-566.txt",
+   "bytes": 4437,
+   "sha256": "21f0209a99ec97f70495f9d31d921eed18c8f45cc2dae51fd2771f1c7a95f3ff"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-567.raw.gz",
+   "bytes": 7907,
+   "sha256": "13f165dce451213079a798d05e97610a30374a739f0646fc888be800a6e4c737"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-567.txt",
+   "bytes": 34554,
+   "sha256": "3d2e5d5ab3e473e3a807f5a9b6f057f12c0b6a7bac42eb0c2ce2d754f9e029b8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-568.raw.gz",
+   "bytes": 3232,
+   "sha256": "1190919616417724653595dbc37500e7ff0b4e42ad5ada936ca7456feb88aa85"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-568.txt",
+   "bytes": 8433,
+   "sha256": "45170f7b90fa752ff612c4e585b3db0eab7984ade01ee91dc6c3307b3ff76fd6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-569.raw.gz",
+   "bytes": 2269,
+   "sha256": "cbaeb2a22eaf19f847abcda70aa4ef80ceed6663109ff3c81f8775723abef1fe"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-569.txt",
+   "bytes": 5169,
+   "sha256": "065cb4333f747b7060fb44ee9f0dcbb200665acaad52edb8bcbeb6d78f07d3e6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-570.raw.gz",
+   "bytes": 11758,
+   "sha256": "f464ff1c63af531cb750d9c34ad34d0cd5fbebdad80ca4405560b6c4cdc8af90"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-570.txt",
+   "bytes": 39954,
+   "sha256": "a1c13cfb3a0cb2ef72a614bd7160ef737b767a59882ea37be3fac1016a0799fa"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-572.raw.gz",
+   "bytes": 81934,
+   "sha256": "b956d557c6a3d65b34eb432ad4c460fdefb16bc5d40350948a45ef3c6538d00d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-572.txt",
+   "bytes": 369537,
+   "sha256": "064ef8bffe6ce79227889445c7992d6e4b92d03393c33a1ed11789e8e39d47cb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-573.raw.gz",
+   "bytes": 16019,
+   "sha256": "5fdec8476dcf195cb5d0244997bbf617f80240237dc7c5cb50158d255077afb1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-573.txt",
+   "bytes": 59898,
+   "sha256": "12e659a372dbadc2b91c656e9f431d9ebd36b504ec432b1eeddc2550c82473f9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-574.raw.gz",
+   "bytes": 8211,
+   "sha256": "d29d39c1c71d7a0e4b5a254ac9fab88f9e777a988274482b9bd48c3e4d5df508"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-574.txt",
+   "bytes": 29223,
+   "sha256": "fefb8e6c966e5ab6345a34cb2d3d9b515de46944359a7c9d212b4480ea257c1e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-576.raw.gz",
+   "bytes": 1958,
+   "sha256": "1ab01382ac25d3b708801b0965d56470adcdf04d86e2082245e32fac247a855a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-576.txt",
+   "bytes": 3872,
+   "sha256": "25cd7d76e3354c0664e04e53a205a7ce552460e168c6e9a71996549f546d007e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-577.raw.gz",
+   "bytes": 11068,
+   "sha256": "66e47b64c65834d454535d203454790763825ae8282bf5c7dc287e41be1233ac"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-577.txt",
+   "bytes": 41770,
+   "sha256": "fce0fbfb05a6c132ad98f7b9cd755e1ec1a67bfe1ea5aa51830ec00a0f3ee41c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-578.raw.gz",
+   "bytes": 7213,
+   "sha256": "e73da6079821e2c47bcd1535859f590f8cd6b70c071724cab20b5ede44458d8a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-578.txt",
+   "bytes": 22760,
+   "sha256": "3f8fe06b0bdc316b226898f1849d7b487adf1d5e8b1f431579a7621032a8897a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-579.raw.gz",
+   "bytes": 22522,
+   "sha256": "dc8f90eddff7e285f8d7a8fe83335dd17ea75cafb3674b8a13d7aa4f1572cc29"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-579.txt",
+   "bytes": 108751,
+   "sha256": "3ea891713144b5e31a34d09d2a225ea7cfdfaa7e2d8c4ca60d59b1b53e688261"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-580.raw.gz",
+   "bytes": 11617,
+   "sha256": "1faffadcac00db25a460e79ff7d10fd0b262ab9b195d888fca89bb6aa1759a18"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-580.txt",
+   "bytes": 48238,
+   "sha256": "4084e6565ca13f36b909a24ac9ef22653304b53d96eb8835f41cf78224c630fc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-581.raw.gz",
+   "bytes": 4107,
+   "sha256": "11ace8f09be7d79cc60513db16338a624a9d1e94374cfdbf07dea565edf0ef16"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-581.txt",
+   "bytes": 10638,
+   "sha256": "a271ecaf45912cbeb89adad233eb62b361650c581ddf0f592f176b3703ae178f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-582.raw.gz",
+   "bytes": 3308,
+   "sha256": "ca04676ba66b3245ee0499b863cf3b675635aa5b4b3d21abde152abe3ac2b7e9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-582.txt",
+   "bytes": 7137,
+   "sha256": "9159fa62ba185926497664b65f162c8fa6563346076defb424acfac71f7646ee"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-583.raw.gz",
+   "bytes": 10998,
+   "sha256": "d7c6a9d7dbe07d9da2df894dad58fbbb8daf7c302cb674118b68f4cdfb55d4dc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-583.txt",
+   "bytes": 44570,
+   "sha256": "0143042e6db400605bb5710ec128d6d2a1a288b32da433b3c8a45a905f3b41b7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-585.raw.gz",
+   "bytes": 4519,
+   "sha256": "f7cf90f4f8476143a67e0a6d4455705e3e2b7815b171a2f7824ee5e0806cf199"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-585.txt",
+   "bytes": 20682,
+   "sha256": "88d65aa4d57a09e6a9cbb1a6e2629729f2232a8efa46fa4f13848fb482847e9d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-586.raw.gz",
+   "bytes": 5634,
+   "sha256": "1146eb46e621093472d1fb61ad52e38709e7d6d5b83c3b9191bc564d24651d26"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-586.txt",
+   "bytes": 17772,
+   "sha256": "fc9213c92b8e62b42efd3f66b6eff68512a8513841f6142951c7f0d638426236"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-587.raw.gz",
+   "bytes": 7179,
+   "sha256": "9ca3172ec1cfcfe3881a50fa14d95c7b89d1849315f3334400b4e656f28eda16"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-587.txt",
+   "bytes": 18399,
+   "sha256": "3dbe1cb739022d598851a399d5816052510a264cb59799d2f9b47b55ffc58145"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-588.raw.gz",
+   "bytes": 1487,
+   "sha256": "637b8560c09bdf3969f3054e90277135e3c1e5cb398514d2502849f301eca5cd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-588.txt",
+   "bytes": 2638,
+   "sha256": "2e07569029bb09542c7466ec30ecbfd78e4a7dfc2177e48453d6a6b61ed937d3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-591.raw.gz",
+   "bytes": 11777,
+   "sha256": "4cf474c9683f49b36f1a166835b53db9085bb41ceeeb42a34ef61626311d8c80"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-591.txt",
+   "bytes": 50000,
+   "sha256": "3c1568635cf840fee6014d52878ccf1191f2aa8a9942cf99a8e1169443dc0aff"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-592.raw.gz",
+   "bytes": 15037,
+   "sha256": "738465f7649e2d7031e736a521e1e1cda81b17e709b9efb8af22295637ec549d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-592.txt",
+   "bytes": 58187,
+   "sha256": "729f7f3bec539f9d984336d39ec9694612c9ee3ab61e62620d9ed25bc50b19a5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-593.raw.gz",
+   "bytes": 12801,
+   "sha256": "b77fb3ec9b9e639a251a851a310c486afac3bf84efd214476beb6fa90ca705f1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-593.txt",
+   "bytes": 38212,
+   "sha256": "9133e8c6b5eee9e733307d7c18167243a6c24ff9876e2a686f2d026519801f84"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-594.raw.gz",
+   "bytes": 5141,
+   "sha256": "e5d1febb1a9ca2379e7b89f3ff9987f07c9645d321f0340d2b2423f0723a67f5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-594.txt",
+   "bytes": 17021,
+   "sha256": "7e7b0d574346f80bb0845a1881cf5ead227ce636e2737a8603f3bf3cdd026252"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-595.raw.gz",
+   "bytes": 6481,
+   "sha256": "2f73511d4ede620f46a24cb8d3f3adf62ce165926578665ebc60168d4b36bd5a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-595.txt",
+   "bytes": 21708,
+   "sha256": "faacf629dd303b62747bfc746ec40735ae10b071f272b1e32c13debfce521338"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-596.raw.gz",
+   "bytes": 4444,
+   "sha256": "947e96a0dcc679365be3ff0605f952e9723d6619ad6c46420e244903596b0b83"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr-part-596.txt",
+   "bytes": 13166,
+   "sha256": "404dfa0a140d96139fefc33d38eed0209b13b424fdbcfba20904bc1bb28f53ce"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-104.raw.gz",
+   "bytes": 13673,
+   "sha256": "b7af195f2b791cbbca6a0029075bdc8a3d4a77da5772696fc78b4d51bf3378d5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-104.txt",
+   "bytes": 41881,
+   "sha256": "da61d79a105edc9a57df59337d9663bcc0bd6977bb4b49c2b0d39310a94ef639"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-105.raw.gz",
+   "bytes": 2316,
+   "sha256": "2a6c34a72c5344e153f2483af2a1a47018406ba907ee43b499534c49df430a47"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-105.txt",
+   "bytes": 6585,
+   "sha256": "5e2fc3e9827c1d76ddce216f09ddf80cf83c1e46282553c7608d4160bdfd080e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-106.raw.gz",
+   "bytes": 4914,
+   "sha256": "e607257210adf9d618ff544fc2fbe434aabacbf27041b9c847e3f7b08b1f812e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-106.txt",
+   "bytes": 16739,
+   "sha256": "3c030f8feaa4f0f7993c97d7311e765624e884b2848037b1f30ab1d40827e8f1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-301.raw.gz",
+   "bytes": 3839,
+   "sha256": "7a40c5edcd30e9fc0e5c216cc4d2ec2232e3f64b8bc841439448be542819d4d6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-301.txt",
+   "bytes": 13711,
+   "sha256": "3c6147577bef1294893cdf48d7e8bee86db64ca60c0b682a532f936be12bcd1c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-302.raw.gz",
+   "bytes": 3989,
+   "sha256": "f46786030120035fc75ffefeaafa5e73ca52cad7365550c3e36061c08794271a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-302.txt",
+   "bytes": 15491,
+   "sha256": "285d898309f17b4ac899bf44116552a9bf6680b42baf6e7ca373e88c3283eabb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-401.raw.gz",
+   "bytes": 6170,
+   "sha256": "19d0e2d3bad29476e6e2c1afde9ee34349f213d8a1a81a2336ad8c7111271f7c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-cfr575-401.txt",
+   "bytes": 32484,
+   "sha256": "9ca97260b195dd72f4bbd70890bdf7c48118e87e20bf0794e057fad4881b641a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-101.raw.gz",
+   "bytes": 4985,
+   "sha256": "0e5cfe76014b52e86adaa26d2e5fa238ddf38d9ba5b67fcb117106fa07b47dee"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-101.txt",
+   "bytes": 15406,
+   "sha256": "89b677a5bb986b2f5a1f80c5fdcacea95288c36cb1517f245a12255a722b391a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-102.raw.gz",
+   "bytes": 1814,
+   "sha256": "695af3a5a2e43a3a33d4774ca767268d5e1c41687c1c70297bd6b8f50870d1de"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-102.txt",
+   "bytes": 5103,
+   "sha256": "43fb47c0a23d14ee6ce1485fa249e77f07552093e76ea086729680a5d55fc18b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-103.raw.gz",
+   "bytes": 1937,
+   "sha256": "631236077aa5346349dec2f4c3c4851afa08e7023005e1542e1516a4adc5d08a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-103.txt",
+   "bytes": 4665,
+   "sha256": "686d33941c4c292f5d6ea12c861c46d3844603643c4e7fc1052d61e0b3be6c82"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-104.raw.gz",
+   "bytes": 2497,
+   "sha256": "b6c7e8346c4301cf70200dac86ff61d0bb06960a856da320a2c29269e04a9b8e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-104.txt",
+   "bytes": 6423,
+   "sha256": "7fa5bcb07e744a52e35b0d90dd0f3eee473eb6fb90837efa68e7b6543e5ba513"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-105.raw.gz",
+   "bytes": 19458,
+   "sha256": "ffe3eab70496e43c732d6f86146627f97313a3fe52d03409a13cfed80e9f6d7d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-105.txt",
+   "bytes": 73419,
+   "sha256": "c991aa89ac0a4c15c25163a414a63dcecf96c5fa0b1f940eb6878e3a3dd8b8a5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-106.raw.gz",
+   "bytes": 28747,
+   "sha256": "ad790ee76a0b1244d740ee77b7be8eda918806dcaf0ad223f2e52de64f081572"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-106.txt",
+   "bytes": 112888,
+   "sha256": "f779032d04c1b786ff471735904a3a7af17044edc1871953b80f56e815b9b522"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-108.raw.gz",
+   "bytes": 64891,
+   "sha256": "d7810b56f3c0d2c97c87652f1f63696b583c1bd76266d901ecb085d36db422bd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-108.txt",
+   "bytes": 276387,
+   "sha256": "b451fbf85b4aa7bfe1f29ac282509222bdaedbf24dcf775cf5a7f4bdfda8a9c4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-109.raw.gz",
+   "bytes": 8781,
+   "sha256": "ab22c4af0dce36a3250108d281e31f1a8217cf96aca047d86e1c1b6716183d5b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-109.txt",
+   "bytes": 25281,
+   "sha256": "1e8aaa13c2610c2b2ad98ece4173944cd3010e40764124e77879e6f2d4894311"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-110.raw.gz",
+   "bytes": 9165,
+   "sha256": "56c4638f392079cf709edb64f17a666f1dece9e1cc37c61c946334aebdba6fbc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-110.txt",
+   "bytes": 31352,
+   "sha256": "61b06df09c02cb6722e1370cc1641547427f0b1e63727d46efa4289887acd1d6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-111.raw.gz",
+   "bytes": 12795,
+   "sha256": "e90185a525879b99974fed1cced91aa78305bfcffc601d03b55653c699093050"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-111.txt",
+   "bytes": 42488,
+   "sha256": "4982b644f68e2f152b6951606e00a1b0c2b28470620043dbdf50fd220ae2fa92"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-113.raw.gz",
+   "bytes": 594,
+   "sha256": "8a46c141bd3d4392994821c7468770439cc17ffd874739f12370c57f3f1f76b1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-113.txt",
+   "bytes": 759,
+   "sha256": "c51c5d5300769647b0a472f6ccdc74f1cbe89ee5293d90dcadb842a7932a9b20"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-114.raw.gz",
+   "bytes": 2769,
+   "sha256": "91158e859e57946799f8e0215f600e69f5827d8bb96d36b7fae09f0bfe868c7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-114.txt",
+   "bytes": 8304,
+   "sha256": "3082997355dc6fa3bd6141046f790feb37d19ebbf2a52a7cf5bd35c625605a10"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-116.raw.gz",
+   "bytes": 26407,
+   "sha256": "b6be7e78260dc2ba43a5ba59855a47664aa334e472e581f9106572b42ab16dfe"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-116.txt",
+   "bytes": 81349,
+   "sha256": "831371b12e3fb3be6129f95aa294f81e0566899fce1bf3b90b1f9f94b9933d00"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-117.raw.gz",
+   "bytes": 1982,
+   "sha256": "0c2060c2d6ae06d016452f6665a16bf4fab56ecdd9d7b1b5ccd3b59b21f734d6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-117.txt",
+   "bytes": 4748,
+   "sha256": "e6ebb8ca22a1eb4835bc68b4ca43b6cdbc48249d43c247ddc9e30e48c99f8ad5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-118.raw.gz",
+   "bytes": 3918,
+   "sha256": "ea2094cf2ba3edc4431a7dcc05d195c0cd12027def29618ca633dee9da530d4a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-118.txt",
+   "bytes": 11195,
+   "sha256": "3e83ed4e0348c4cdb9b306725430b4c131416e891d40b52ad22d70c3737f0b45"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-119.raw.gz",
+   "bytes": 6855,
+   "sha256": "c9a9bbf7abc8689278e7bf7c7c208cf9cf15909c0d045b1869e2abbd6ed34eb0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-119.txt",
+   "bytes": 15806,
+   "sha256": "95b86d914eeda04321868ee29e8dba5a1c14d2439668f6e79a6521d5391c6522"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-120.raw.gz",
+   "bytes": 6697,
+   "sha256": "1ba56dbf960a4e0b4519adcc6f3b545a1ba64c64db6ddb120769e1bbf8863468"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-120.txt",
+   "bytes": 20871,
+   "sha256": "54cd377a1a807564b7ec7f21fe27998786e6a041d73dbf3443d7a4091d94955c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-121.raw.gz",
+   "bytes": 18496,
+   "sha256": "6b755cf5b4935bbff411ef20c6febe7154355c7910c66dec49f3541d5fc500db"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-121.txt",
+   "bytes": 78495,
+   "sha256": "8d14543aad94253526f812476bc2d6498ebd76890319dcb958579fe2b4aa28df"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-122.raw.gz",
+   "bytes": 11736,
+   "sha256": "192d2f015e57c992acc42700eefd2bad8c227b76e419da7af2f638f07584039b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-122.txt",
+   "bytes": 45657,
+   "sha256": "860dc008632b038a2123e06f1767714a173c37ffac25265681ba0b65550e3e65"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-122a.raw.gz",
+   "bytes": 7379,
+   "sha256": "a46afeb5710bf89327fae8a26d0fee4b77939f19e2849b1088a1f5ab7559a600"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-122a.txt",
+   "bytes": 21909,
+   "sha256": "92f30ab655974f8dfe7e0d4efe9cb3e2a96e08ab50a260e45d81549b004b2f3c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-123.raw.gz",
+   "bytes": 2366,
+   "sha256": "43707c7135ca2c89e8c70be13ca54f54d7ed908889fdb9d44299dbf9a53c7b84"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-123.txt",
+   "bytes": 5033,
+   "sha256": "ff9ddd703d2983901e116a1bb3bd5abc6481cb9e111815c73935b2f747fcbe7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-124.raw.gz",
+   "bytes": 1615,
+   "sha256": "e2b525587b393524beaeac0a6f78fb581f935117681a9ea525cf57d5920658ed"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-124.txt",
+   "bytes": 3666,
+   "sha256": "6b90f980f54beb9244b9f8d9673baaf2c49bd4326bf31a50bc1de252099cdd87"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-125.raw.gz",
+   "bytes": 4075,
+   "sha256": "a8f4fb4294b1bceb4b39c47d1528760ff8274f5db712120590f3e88a2f79d294"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-125.txt",
+   "bytes": 11165,
+   "sha256": "c5f190ed1545895556179a7bc4e7187d4c8687e1d3d50d02cdf8d651dc74f571"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-126.raw.gz",
+   "bytes": 10014,
+   "sha256": "26c0d45862ceb30ece0291c3a83f01617822032028ddd6b8718ec1664940dad5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-126.txt",
+   "bytes": 34882,
+   "sha256": "1a1ddd2cac114369595017520c0fbc3d0a4ea497fd25bdd50c664ac1c34aa001"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-127.raw.gz",
+   "bytes": 10506,
+   "sha256": "eeea6115688cd204edbc1cd188e9dd9d93337e8af94390fad609bb74b209a7fd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-127.txt",
+   "bytes": 45943,
+   "sha256": "e839797eabeb58d607a6f2817ef4ec19be10e5790f33b57d8404e3174d16b9fa"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-129.raw.gz",
+   "bytes": 5467,
+   "sha256": "96931a2c7cf7e859206af62450b0afd1c0168c67450bc9d73a0c7c8ed9d49303"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-129.txt",
+   "bytes": 17264,
+   "sha256": "192237624a3bbc5b16a5e8fa6e54ca2cb78b66feee8b941ff6f7c9ae22755d64"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-131.raw.gz",
+   "bytes": 3651,
+   "sha256": "6578efb7bca474cc2c392a6b13695c9028c179b46daa30c409c0cd820ef27539"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-131.txt",
+   "bytes": 8444,
+   "sha256": "f4c4ab6ba939f7cb4dd5938b76b1ebd1a762c6927c28b4c502bbf08102e48af1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-135.raw.gz",
+   "bytes": 18690,
+   "sha256": "db97ef2741005c6fe6934db750350f3d59f3c128e7ae4e1ec40520480fe2332e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-135.txt",
+   "bytes": 67161,
+   "sha256": "093063a6e88d6b9edf485c098de20d7ff2eec759b22371ebd7c2aa625760889c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-136.raw.gz",
+   "bytes": 9605,
+   "sha256": "323c090a4e502d7bc7716dfc5b46a1d9aed1b0fd3f87498976840adff46e7447"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-136.txt",
+   "bytes": 32609,
+   "sha256": "1a71bbf21d620f65f10b6d2bce5d657a07dd76a9fb089777b24d662a14e6b952"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-138.raw.gz",
+   "bytes": 6536,
+   "sha256": "a9313421464019a6e5ec1081dfa7e3581dfdf1daedbe89c1d34fd7fac7b5c20b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-138.txt",
+   "bytes": 21646,
+   "sha256": "cd14973e8452629495c7a1e3a333f21d8259413c9bfc450f1daab5f511779de4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-139.raw.gz",
+   "bytes": 7818,
+   "sha256": "2141735b0ae2b9613811968181cad4a13ed947bfc2185426210778620edc2d46"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-139.txt",
+   "bytes": 25317,
+   "sha256": "a91c2c99c9dfca376021c065ef5cd5a7f53be1d9171b9c3389bd86ef776b673e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-141.raw.gz",
+   "bytes": 10249,
+   "sha256": "8711395d01ecbb8062009c12d9bba2c8bf417614e87b86a2350fa2e676212666"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-141.txt",
+   "bytes": 39732,
+   "sha256": "fc23ea7afb5ab437046b2b4dcdf29e0633ddb10cd47c8179c04a8ac0df0cf3a3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-201.raw.gz",
+   "bytes": 16756,
+   "sha256": "6e0d752bc2f7ed6fa3e090e2a9d28cf13e788cd1809b64d26f028397115dbeb8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-201.txt",
+   "bytes": 78976,
+   "sha256": "da7c55d67f07dda2f47b149d42a14bef827b31a4c7e07c4b420f5fd6964909c7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-202.raw.gz",
+   "bytes": 2944,
+   "sha256": "efa703e0c8c1c8b2046b45b8a094fb205716d98023bc29bbe1916d6856b78924"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-202.txt",
+   "bytes": 8396,
+   "sha256": "ce29bcc796f0b4a89f7a9448271b76fc209b60199dd3ff35ec71afb340c7f3d1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-202a.raw.gz",
+   "bytes": 10766,
+   "sha256": "aac0ae5baf9d9b21a22ba7bfb23ba0c9cb7ee86cfd8b07dbb3733e92cce6001c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-202a.txt",
+   "bytes": 45390,
+   "sha256": "12c64a0823338d88f9a1bf40751e157cb85f31bdfb561d1ed2dc5256edf67986"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-203.raw.gz",
+   "bytes": 1293,
+   "sha256": "bd26b1d92176ea68656f6ec3bc3dea80d0d97b461cd733560205e53b35c1f22b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-203.txt",
+   "bytes": 2168,
+   "sha256": "c7b62e9ed4f62dd32495a8e25f64d0c3ab3003512622960c10ad5ec5797f3e11"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-204.raw.gz",
+   "bytes": 1446,
+   "sha256": "89b8db0cce02f54d2eef245d9fad41a38d805c078496ba8e7cbb6df84adf8dce"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-204.txt",
+   "bytes": 2578,
+   "sha256": "a21fb34e0e4cc18f1ba2322078cfc4f41ee52d0ae8a58293c72315d337022906"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-205.raw.gz",
+   "bytes": 2653,
+   "sha256": "8f752e1ccdb8721fbc5e9611035c9272d1392bb200183784024ff19d6569fb59"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-205.txt",
+   "bytes": 6306,
+   "sha256": "efff8253ba82bd56032503b056d7ac6fd28646d5cdcd4ad7243840cefc508853"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-206.raw.gz",
+   "bytes": 8256,
+   "sha256": "4281d2fc1c1cda7592a5c681a830c7a0e2b72acdc571f86e1acd7e757d8b7eec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-206.txt",
+   "bytes": 39049,
+   "sha256": "67ea7e33c9435634e73fb5385ee0a2eda2f3a41f06544929e7663eabe89586fc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-207.raw.gz",
+   "bytes": 2900,
+   "sha256": "2c230ff96e1e15bcdcbe002a451b692d68b18fe6c2f8cb454acd51e32dea4928"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-207.txt",
+   "bytes": 8308,
+   "sha256": "d46e41337f86c71e976d3191a29de9a87a40c938d706bc89f9cc2bff47d3d57d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-208.raw.gz",
+   "bytes": 65502,
+   "sha256": "891cb492044a5ca779bedc9b03e62ddc3c19aa5497321d77bd99822521aa3c8b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-208.txt",
+   "bytes": 352026,
+   "sha256": "ac75c38e48068fb73aec1d9dfa755ca858397273c3075997e6002f335b9c302b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-209.raw.gz",
+   "bytes": 15330,
+   "sha256": "d6ee3a9f8253be329431d26a1d875e84282922a0941f5f937d73393a3116dfd6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-209.txt",
+   "bytes": 59038,
+   "sha256": "3d825451489c41edd43d29a600a655579104ad3073b3f3d2c0afa9a3667a8633"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-210.raw.gz",
+   "bytes": 7067,
+   "sha256": "716591a59d37d8433e6c15cfaa5c40cc5b2a3ec3e6c18dac245bc7b55777f092"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-210.txt",
+   "bytes": 28538,
+   "sha256": "5e08a7a592fd354d99cdb351ee3621a10a293261c9c9ab7814edf1d60b066c79"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-212.raw.gz",
+   "bytes": 1846,
+   "sha256": "5662272c25c2b33553ab53648950100c4a4b53fdf7faff1385b21d279fbbf4e9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-212.txt",
+   "bytes": 4229,
+   "sha256": "6a1ec85b0718e35421cd073cce29395d3b0f80ced663381c32a6f0d05eb87764"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-213.raw.gz",
+   "bytes": 27034,
+   "sha256": "5fc3bd19fc2eedef143bbfaa0c043fc01000857505d2897ddd3f5027bb170c03"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-213.txt",
+   "bytes": 123473,
+   "sha256": "b620a8f5afaf234350a2134bd42da055bc4125265a0b99c226b5fae9fcb69f80"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-213a.raw.gz",
+   "bytes": 6659,
+   "sha256": "54156fef49e4a7616eea0e984ede6f6ec819a9b79772f92c1f8adec44f7cb888"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-213a.txt",
+   "bytes": 25371,
+   "sha256": "e991a73bd6c908409a1418a511567f238ca6c1c069200eb51331b4c67b8bbc13"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-213b.raw.gz",
+   "bytes": 25703,
+   "sha256": "1d161b7d1badc77f6c0c75abd4d6b4350110e41b8b0d0b67266127ecc075962f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-213b.txt",
+   "bytes": 111972,
+   "sha256": "d3347633878c41f551f3494c43834a1f88a24f42e868974b6d260c6551eae92b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-214.raw.gz",
+   "bytes": 17928,
+   "sha256": "92d72fa9f3e323b8341df2d5ce7092b465951fefcf205deb4fa5f9f6688556c7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-214.txt",
+   "bytes": 89638,
+   "sha256": "28d03fc3ae709ef358716e53c697566028f9e82581d72fdd4c2264cb2978207b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-216.raw.gz",
+   "bytes": 58,
+   "sha256": "6887e646af0f5e7b87af3c9d1e764b72462cd7c0a93d2ae8dcb4cf7fefeff341"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-216.txt",
+   "bytes": 38,
+   "sha256": "b1dc008cf1287a845a94d8b0e873894a5b3e011c579cc79e5136cae207dc8a24"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-216a.raw.gz",
+   "bytes": 4176,
+   "sha256": "03e7450e409a9d4d0a2ad027d10e324a3e5d7206bbc622f251078d2b1c62ad99"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-216a.txt",
+   "bytes": 12837,
+   "sha256": "e9a25ac9fe65d4939bbfe1e3d83bee2e76d9a8d4e72c9c7880afe76ad47d4f5f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-217.raw.gz",
+   "bytes": 8712,
+   "sha256": "4c6883b762807d871d9f9b254ca6496f4b656e64805bbe7885d15c5dd2d73bc7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-217.txt",
+   "bytes": 31645,
+   "sha256": "c128fde8efc0f5e83d40ea6e9e9329bd01e1277adcc0ba87cf7e3d80038ae7b2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-217a.raw.gz",
+   "bytes": 4147,
+   "sha256": "953fbc29f0f40a7584335ef645b2eb1684c88109b730baeaa6fc575a359872c7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-217a.txt",
+   "bytes": 12538,
+   "sha256": "6a6a84d88ad54551c63de6dd190d98de8647344fc99e7c4f34059d7b69496d72"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-218.raw.gz",
+   "bytes": 7150,
+   "sha256": "8fe691820e9e5dcf98e0c35d2658117bb8b9e85afafc3cf1fc59688adf0d0b33"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-218.txt",
+   "bytes": 20466,
+   "sha256": "75d3250c6982c9f24859e8ddd85371f01750dbb5a7cb3cbb8c7be9d19a70fcf7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-219.raw.gz",
+   "bytes": 2551,
+   "sha256": "da47a92c5e2dea04cb426ebb8958890670e0a2d1a92dcbf0da874fc9d76e1676"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-219.txt",
+   "bytes": 6023,
+   "sha256": "205db2104d245d20e0d37ba5ce398c9a7af883a8824b3d43f0ac6fba7c3bed38"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-220.raw.gz",
+   "bytes": 1901,
+   "sha256": "0f8854a68ac53118f253de9c9ecba0844db33bb6f3cbdba08a421a3e18a02375"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-220.txt",
+   "bytes": 4337,
+   "sha256": "bda9e37d606da6f6f52d76c5afc8ef3c35c137a63324ccc149ea9952699cc490"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-221.raw.gz",
+   "bytes": 2579,
+   "sha256": "c3a340232b339eb3a0e6aaf2f4337b9b14d31f50490b5f43b017464046982c0f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-221.txt",
+   "bytes": 6105,
+   "sha256": "c53dbd5ea6aa28ce8044b9a119ed8ee74ce263759d3510d62804358fa0fb8c74"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-222.raw.gz",
+   "bytes": 10060,
+   "sha256": "435f6f4a5be5aadd6062625fb05ef236320a6fe6aaaebcfc566a25004ace0aff"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-222.txt",
+   "bytes": 39732,
+   "sha256": "0e18c5c513db7b3438122df22614382164aeeceb83a3babfd478bceeba4bde18"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-223.raw.gz",
+   "bytes": 5222,
+   "sha256": "a7123047fece122d5edbc868e2880d72525b49b8921b0c7a0f61e6865d043ee4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-223.txt",
+   "bytes": 17152,
+   "sha256": "6720ffeb5159742b6a1cc4033cdf3e760003123b74595352a80e0be31d66d59f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-224.raw.gz",
+   "bytes": 2819,
+   "sha256": "6a32ed22133a8a3cabc34ea6a385bdd3597bd72bdb1be2253314b0bfd1b7810d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-224.txt",
+   "bytes": 7779,
+   "sha256": "8fc5e5d7908bc56b82fceb0702259b730077f54fe368261eeb6ffbd7bf56ea3f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-225.raw.gz",
+   "bytes": 11286,
+   "sha256": "746ae03bcf4c3650ff31b1fb60a544e17310228a3becabe39b525449c383013f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-225.txt",
+   "bytes": 47086,
+   "sha256": "febad2b8c676b12d1f028cfe05a284b917e78dbdf482ab1b71f645b8d6aad999"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-226.raw.gz",
+   "bytes": 9534,
+   "sha256": "4e34e3e9f74a5171506be7fb8d8c828509f805276c2984c1ffb0c155ed55fe53"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-226.txt",
+   "bytes": 34296,
+   "sha256": "4882a8857a61ed952949d6c501c2d95bc1382faa0fb1b9fb23579dbffaa846df"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-227.raw.gz",
+   "bytes": 3703,
+   "sha256": "802b5cd819336c77cb6f495afe1c05c3d9483a71220596fe3d69095ad1da2ea0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-227.txt",
+   "bytes": 9783,
+   "sha256": "00258cc660e8453e938a4fde8fec1df100a6edca72873af5460fa526edac7bd0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-301.raw.gz",
+   "bytes": 4989,
+   "sha256": "584bef1b7f7569d74a6e10ec9497f0129128adc044d706209543126bbfc0763b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-301.txt",
+   "bytes": 14946,
+   "sha256": "ed6aab63cde1d6b47a226676693ae871bd971cedf0f2df92b9da648057110d22"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-302.raw.gz",
+   "bytes": 3176,
+   "sha256": "ed7f93831eb68cfb3dfb2b7cb8c3bd7371ba73350de02e68ced37e7cfc3ddb3a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-302.txt",
+   "bytes": 7211,
+   "sha256": "e5b35d9b3011213813b7b146f1fb4ae4284e297a8a7e4879be09c5c32d46af5e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-303.raw.gz",
+   "bytes": 3643,
+   "sha256": "2c501589a96e1d3f86bc6366b651af31f60e88d0f0e51ee83869c7d01ff2de7e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-303.txt",
+   "bytes": 10595,
+   "sha256": "8b0bf74b6b0c46428df375360239e1401bdf30570be6e2a66385536829ae7394"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-304.raw.gz",
+   "bytes": 4045,
+   "sha256": "791b62e99e477813481e790781c7a44d8f20cf4a3e2d47f5957e5522b9405856"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-304.txt",
+   "bytes": 11358,
+   "sha256": "49d1896f954a4d4a238a4a03f8695b53e44a92a082d91f55f279b0a558af24d6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-305.raw.gz",
+   "bytes": 8272,
+   "sha256": "080e422bfe7accd2759790a007b4532ad5df5c116016686ae521863611b6aec6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-305.txt",
+   "bytes": 33385,
+   "sha256": "7b203f8f9b250b348cd051af8ea16fe396e2304cf4070dd74f980e195e6dbd52"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-305a.raw.gz",
+   "bytes": 13271,
+   "sha256": "fc4404ea612e08f034637aba66127d483e994b8ef305224a18e918800936832f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-305a.txt",
+   "bytes": 57463,
+   "sha256": "cfd2f92a75e94ce3a746b06dcfd3510ce8a135f4b42dc6d25243abffc0fdc258"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-307.raw.gz",
+   "bytes": 8664,
+   "sha256": "a26760b1a8ca82565292b6ee0ed41fec1211101705efcb161aa032d77ab3468e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-307.txt",
+   "bytes": 25375,
+   "sha256": "7a987b6845f81ab52ef7314d6e68585f48ea1580a65a87bba0a0d14a22bba313"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-308.raw.gz",
+   "bytes": 18214,
+   "sha256": "f8cbe73c4c7b5f415cb21a031fe6273bec166b1d0e0ab378a7b5464e0c18dbd5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-308.txt",
+   "bytes": 70771,
+   "sha256": "79de4ef9717143ce6150cd82ab4127f9214aa341b62aa0c27819c4d7715ab1a5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-401.raw.gz",
+   "bytes": 1714,
+   "sha256": "90bd20bc1dd43ebfa21102c6876dfdd15c06e9fce646faa055cde2e5574c6179"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-401.txt",
+   "bytes": 4122,
+   "sha256": "275d9500ad8dd56af2730b2695eb0fd5729c380a7889564fd8530669d681e9d0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-403.raw.gz",
+   "bytes": 17536,
+   "sha256": "743dcbc401bb1ba754573d0974bbbf6e4eab52fa10dac64c3f49c8e5f844c7e6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-403.txt",
+   "bytes": 74494,
+   "sha256": "48232de3a895e7c25ed776d4805896427c081fdfef8eea601e6ea21da8fe5858"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-404.raw.gz",
+   "bytes": 1804,
+   "sha256": "db69829eb78199dc6d4a8b6c3f58b44352d5d924bcc988a3a5fe62dd2bb3d2ba"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-404.txt",
+   "bytes": 4201,
+   "sha256": "e2fe49fd86f3ffec30bbea48fd0995c214fb434d037a9ca679a9d09354754506"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-500.raw.gz",
+   "bytes": 2102,
+   "sha256": "67109db3d4aa9287a28f82fc69bf9bbad1a48bb73f917eabed4ac9f245fcc266"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/ecfr-us-fmvss-500.txt",
+   "bytes": 4195,
+   "sha256": "d669294a2aee98acac161f6278212801f66f48bcb4ced24af3382d1e38475a80"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg-final.raw.gz",
+   "bytes": 218204,
+   "sha256": "6af416648beaa1d10a7b923c877137fa52fb388bea0667576781e83a8bae3263"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg-final.txt",
+   "bytes": 784809,
+   "sha256": "198074a3e0e94e950539693a3e1a81e355cf0ee4766c35a077d6fb00e7ee5b0d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg.raw.gz",
+   "bytes": 13870,
+   "sha256": "c5ee07838b274b41892e8244aee344d9adffda9c36adef9ae45ca8a95fdbc9a8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/epa-2026-ghg.txt",
+   "bytes": 3945,
+   "sha256": "d20f540ecb9d7127250a0d4eeb584249adadde11d69f1824270e50e5e9b66e9f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r0631.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r0631.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r2144.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-32019r2144.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-32024r1257.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-32024r1257.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-procedure.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-procedure.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal-parliament.raw.gz",
+   "bytes": 601872,
+   "sha256": "03f774a73747249f1760cee6c3ced6d3c46ce7b08665e8b6a579fc88e4cfa5c9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal-parliament.txt",
+   "bytes": 105351,
+   "sha256": "47b976197d02bcf5ff7c985201ac5ef20c056e740dc16ec10ec258d4008f40de"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-co2-proposal.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-commission.raw.gz",
+   "bytes": 19556,
+   "sha256": "24e7b31471c8ade0ea13265666b0b3ed706afc3198fc98f67fe494f1e38155c2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-commission.txt",
+   "bytes": 8829,
+   "sha256": "db413f90b80a66713fdb03d39034b7e99828a2339cec082332fab8a516866015"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-eli.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-eli.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-text.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-elv-2026-text.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-euro7-plain.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-euro7-plain.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-gsr-plain.raw.gz",
+   "bytes": 20,
+   "sha256": "f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-gsr-plain.txt",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32000L0053.raw.gz",
+   "bytes": 176,
+   "sha256": "ded4c54ddd01e921e75224e41c39729b069e0235938941c0604d0894df745266"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32000L0053.txt",
+   "bytes": 214,
+   "sha256": "8c832494addfacccc0dec4e0dc0fb38de9ac9429b772f03d408e9b7d499312be"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32006L0040.raw.gz",
+   "bytes": 9764,
+   "sha256": "b8a75f0c0e5c9c3c22300708613ff41ceb5491f341e88310da1de52065f8a7e7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32006L0040.txt",
+   "bytes": 22213,
+   "sha256": "5df38c99bf4b9a8c12d5ca3edee4b55c20c01563a6a4e28199dcbcc9506b5602"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32006L0066.raw.gz",
+   "bytes": 36286,
+   "sha256": "6d4bb75fab1b3bb82c0fd0cd4c25aea1565d448ed731e7e059ffbccd02134ac2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32006L0066.txt",
+   "bytes": 50895,
+   "sha256": "9c8fe6bee5fdc6f6906931adae0ef8821da6d6e0ab78809b7d8534b0e28ca5eb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32006R1907.raw.gz",
+   "bytes": 178,
+   "sha256": "3f9eba14873164d63ac0584d3dc780fffcfcdf277029a7a6a05862bdf4da5ef3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32006R1907.txt",
+   "bytes": 214,
+   "sha256": "b5bb2f8bbd8678595f58e1dd9777cf33de7929a3c75010f9a425d84c2dd919c9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32007R0715.raw.gz",
+   "bytes": 22058,
+   "sha256": "cb4d86d6ef1f38ee36889c84a8f1575b460fe21b78d553b4bdd612d377a6bc3a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32007R0715.txt",
+   "bytes": 57716,
+   "sha256": "250e51e0e60886b596ca325b0e0b81f32018defdf1d61cdd4de7504f8b2232fe"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32009R0078.raw.gz",
+   "bytes": 50557,
+   "sha256": "001a20dbc82773a9393cac27fe0449e4e16ac71e1ed282ac0a98c3af4546286d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32009R0078.txt",
+   "bytes": 66436,
+   "sha256": "145b15f4190ca89316accde314c369259719fae61319a90ea6a1d5229ff82557"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32009R0661.raw.gz",
+   "bytes": 27716,
+   "sha256": "e154264a5a218810f6abae4cf2ab0e47c44dc2b0ea4c66f27d1cb51818f0d836"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32009R0661.txt",
+   "bytes": 70949,
+   "sha256": "167e7c7fd3c3ac0472b7e52f2f7bff5fda41fc8871c8a18698987c95af764ae1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32014L0053.raw.gz",
+   "bytes": 39896,
+   "sha256": "3d28f22171d50ccf2c3f571f778f439ec8dbc05911bf23aab45fc11a6abb1285"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32014L0053.txt",
+   "bytes": 132908,
+   "sha256": "70650a20ec41d5db9fa896bda1d2ab823a832f1ed701f784e11b5c5ab9c5d76e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32014R0540.txt",
+   "bytes": 144722,
+   "sha256": "9035dfcbfe822c00943b11ac1dd15e411952741081500489d13aadbc307524f2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32017R1151.raw.gz",
+   "bytes": 8947168,
+   "sha256": "83af2c62d59f48d6b7bc271df0e4b054dba365864ccb449fd0d4aa4f4fff48b6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32017R1151.txt",
+   "bytes": 1162734,
+   "sha256": "a3a13362bcbce9e11cbb634753f0a525c908f6e6a772fcf490f3467ddab85ffb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32018R0858.txt",
+   "bytes": 587754,
+   "sha256": "3da1dced3ae2a4cfacb9d78f9d3710a96c311fd6fc84805b172753bedecbadbe"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32018R0985.raw.gz",
+   "bytes": 58424,
+   "sha256": "d8dcd8d7cd7f78037f549c0ab30c5e207efe076f51b04944dc547c99d4569868"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32018R0985.txt",
+   "bytes": 47130,
+   "sha256": "d4b4f172dc3ebac97d10d894612fc158d37f87c5593409e9fea9bb4c94d1bc9a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32019R0631.txt",
+   "bytes": 127952,
+   "sha256": "940aaf333e7018b7c83a2e3a1fc32672cc376756005f5f9581f00768f8fb8047"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32019R2144.raw.gz",
+   "bytes": 41835,
+   "sha256": "4381e304fb8d19e885b9f8ad3b157233fea622cd0157fce804ad784de844da23"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32019R2144.txt",
+   "bytes": 107485,
+   "sha256": "2a15fb93d61b55a053160e07274897e59cecc90e1d07d1e048b3dd85a17797ea"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R0535.txt",
+   "bytes": 412142,
+   "sha256": "8218e8e9608d4e043d28f674861dc1768b188d0fc88bebc494961f4541381eac"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R0646.raw.gz",
+   "bytes": 41909,
+   "sha256": "52b10ba2bc158fdf1aeba3480fb2dccb506b3120b166465af763364cdb8646ef"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R0646.txt",
+   "bytes": 58696,
+   "sha256": "808ab8bfeb1f26de452155164178fce821020b3ff4b4ba8d0fe5c60e756c2eda"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R1341.raw.gz",
+   "bytes": 70300,
+   "sha256": "555f642ec3081559a43593368deb6fab2e1343b3a5370f469d278dd326ce4aea"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R1341.txt",
+   "bytes": 44135,
+   "sha256": "822b70856e8be397a6f32567c70a8326ec43847bcfe0e8d53e6485dd8ca0fa90"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32021R1958.txt",
+   "bytes": 142577,
+   "sha256": "81edc5f7aa98554a6adb69b628bf7e942a39212b8ddb77d1f86127718beba9f6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32022R0545.raw.gz",
+   "bytes": 6709,
+   "sha256": "90d27017507e48d817e3b0d0bee819273b4311b3d41f964242bfa63bca814029"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32022R0545.txt",
+   "bytes": 15767,
+   "sha256": "68d0a76497dd06f2d8bbc0b53aa46f2a074f21486b8d02adf7526ba0dd47d60e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32022R1426.txt",
+   "bytes": 158379,
+   "sha256": "b616cc5d1ecc68430df2519c84ce70ba812cda12dfe99c1f8a20df1c173f6fb7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32023R1542.txt",
+   "bytes": 431605,
+   "sha256": "ef0d98ad49b49f8c066b36d1f43632eb7439315e03dc4e58e4670d28a1ea4d65"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32023R2590.txt",
+   "bytes": 42717,
+   "sha256": "71ba3af02cd43e37b97f4fc38534b2839dead501b224950342655442ba4159e9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32024R0573.raw.gz",
+   "bytes": 70435,
+   "sha256": "99788ffd151ad967969b9ad53d2d5868c555a603414d262644d686e21d1a64ff"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32024R0573.txt",
+   "bytes": 225187,
+   "sha256": "81b08434afebd4bb2f950c7e3a7cf14dd81e339060a22137dd5c2b3a7c1d7685"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32024R1257.raw.gz",
+   "bytes": 41393,
+   "sha256": "e7114f87ccb4876a059e9a0274400fd621925539494f3c8853a3e8190dd38f51"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32024R1257.txt",
+   "bytes": 128760,
+   "sha256": "a17c82960d3cec10466151ab2980651a3020f664045f3529a6a7aeb1f9bee8c3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32026R1738.raw.gz",
+   "bytes": 108057,
+   "sha256": "24f9f63ce848528914454e41f12211cf0d161ba1b544a1d129e859ab56c3a2a9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-32026R1738.txt",
+   "bytes": 334382,
+   "sha256": "370ba9ece57dcf9ef30f894824c22cff8c0f24c564ceabb2d939a7177e4dad71"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42007X0619-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "aa2c0c93c81fb9a1b4f69fdc2a7978190702a55f8f1e53cd549b7137b05bc43c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42007X0619-01-.txt",
+   "bytes": 58,
+   "sha256": "bd578957f2ea7dcedba5f33de3beb5f075143d5f88e21dfd5f4919dce254ed19"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42008X0711-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "7f307ed9a03c8e9c46ae6b6f13ba8d7236eff3f4934aeeb6a087942308f1c536"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42008X0711-01-.txt",
+   "bytes": 58,
+   "sha256": "af7b4ce8a1047cb6e99c4532e0d6f9931b57f9cf46339a1622c4810858d7132d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42008X0716-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "c9a6ba0408cb5d16fc1322a8c0e03ae5c9cc1aae23edbfd5c6a91361e214f698"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42008X0716-01-.txt",
+   "bytes": 58,
+   "sha256": "827aac780ae024c4e8183aecd5d152a1f6a01e5c505e534c99ec22e835c90258"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42008X0730-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "81af41a85940cc3e58e6c2de28ce56f01b381bb6310c7031bcae8d79aa98da7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42008X0730-01-.txt",
+   "bytes": 58,
+   "sha256": "909d47ac6a9dda47c9389e57194e3e61d32ec8c05da1c380169c7dcb7cfbbae7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42009X0131-02-.raw.gz",
+   "bytes": 78,
+   "sha256": "3c57d25c32162cab30f0ba80f8bd3d2d0e4c40f7e4ea8f28ab6e3ef1cc22832e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42009X0131-02-.txt",
+   "bytes": 58,
+   "sha256": "4914d0289900fdada5b456f5e70d21ca33dd8de7b26376dd7d406a2c7218a05d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0528-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "b8dbccac8abf882d9f0ab2c4fead003f1d7cdd4182997e9cb63cff0df0240fb4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0528-01-.txt",
+   "bytes": 58,
+   "sha256": "f5bdaf35d068a8fedfc46bdbace261ec6496c13dc3118952a4709aabba752ef6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0612-03-.raw.gz",
+   "bytes": 78,
+   "sha256": "6dae2f803f90ad7860a4ab2f09cb58f5fe646083f72fda293802913ff92899dd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0612-03-.txt",
+   "bytes": 58,
+   "sha256": "bfc8e2537b66ff33d843cad83d33fe33bcf1fcbbe49fbc626717e812a3ceb668"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0630-03-.raw.gz",
+   "bytes": 78,
+   "sha256": "74fa2be85a8b4c5ceb9a46f3d9959ea2ce1b1ae116953221724f9db1f7e9a364"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0630-03-.txt",
+   "bytes": 58,
+   "sha256": "cc9ee40984762f54e3af2d3c3770f9316579434cfc8678e27f71ea7ef1501530"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0630-04-.raw.gz",
+   "bytes": 78,
+   "sha256": "b2133503f2dca75c66065e636842224d76b36af75f2fc004f510c0843e8cd5af"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X0630-04-.txt",
+   "bytes": 58,
+   "sha256": "5a43368452d9ee92a87faa5c9dcbf9948690d34ca718b1c69619bf29235cfa97"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X1126-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "ad9fc22c3177556f98b4200b13e201ca5cf413aa8d3bf86bfe70e2ef9411493c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42010X1126-01-.txt",
+   "bytes": 58,
+   "sha256": "2d96b9945e1c68770ffc49bb6a4724ccf630179f2cbb31c2f5ca9e967b71e606"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42011X1206-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "233716ad0332fd8950cf0d6b58b2723d3f99ad97700362a7a7b46d28a6d1570e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42011X1206-01-.txt",
+   "bytes": 58,
+   "sha256": "d4b43d7a2196a49a5c1938781a24180607425537626cc45646bf91449d7a2790"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42011X1206-02-.raw.gz",
+   "bytes": 78,
+   "sha256": "b559882bf7d2f553c804e39af6e00a3e889ecff0b8c96bd7fb41f64eecd59458"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42011X1206-02-.txt",
+   "bytes": 58,
+   "sha256": "849ad86d2c7d4cf73c315f9643ed22df2cf1ad417519ec9a8bdb00e6b4768f50"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42012X0216-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "4e98e16670ff8ab00a227c69d1290e799b51cf1fbbf29a866c9b374a77669e9e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42012X0216-01-.txt",
+   "bytes": 58,
+   "sha256": "2fac8f405b5a73b16bbe5b1cfab49d91ac76e4aa2f94805a70db548910d23ca0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42012X0526-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "cc27f6cd9cb8bd3e5d9fdd8172b85031fdb89054b57387bebe01a054ca36ff42"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42012X0526-01-.txt",
+   "bytes": 58,
+   "sha256": "b5a17fcfaa97a203fa96b1b53391e41cf3da8a8792e3c5a95e3f03c11eb2a34c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0212-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "f437b1cbcc5a6c8b3bbf007c3103e36d04bfff2af652565a7be22b3eca01099d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0212-01-.txt",
+   "bytes": 58,
+   "sha256": "87dab5d85bb5ffc2dd43427fed753b6a48e9b5e3d31a20347e08d9dd7fb22dae"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0325-03-.raw.gz",
+   "bytes": 78,
+   "sha256": "30f998395cb05b5f409206c81607a5a370c4138828dd3f67815ca97c44114e52"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0325-03-.txt",
+   "bytes": 58,
+   "sha256": "3c033dd7f163e52d431273ff386f66fd574e618ef8fb1d799a77dbe3d02ed790"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0614-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "33291cff9fceb3574a8b5b6def0987e43a7ce388e970257b10b22fddb6b36402"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0614-01-.txt",
+   "bytes": 58,
+   "sha256": "5a4e4d36994fff8a6c80c01bc76c56b88822e6e8f25948bef54c928019ea8c4f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0614-02-.raw.gz",
+   "bytes": 78,
+   "sha256": "b6cafbfeb57341c0e9376c689c0878d46baf4101489613329b8532f8d23aa1ac"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0614-02-.txt",
+   "bytes": 58,
+   "sha256": "2597862dc70a4af4838bb95d8334a1f06633ee3081a242a036844998065ec244"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0718-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "3fef1c99488c04148845a7a057154067eee3a7b5be8181bb494c7a8fd547d529"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0718-01-.txt",
+   "bytes": 58,
+   "sha256": "1b19cb37ea6181f985ea52bc7082a5c94d51073f96c2eac58df9692fd964610c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0718-02-.raw.gz",
+   "bytes": 78,
+   "sha256": "4ea6a01efdaf18887920d7edb00cf39030e09d6b54fd1412ec36e8f42c6a6268"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0718-02-.txt",
+   "bytes": 58,
+   "sha256": "e31293fe068b78e4b9defdb8a9983f2da179506d72e9b1fa8352be47c86c0ff6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0808-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "82b190870a56ca50488a20d6d476fd60f63473e0c40e907bb08001e925ea4bbd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0808-01-.txt",
+   "bytes": 58,
+   "sha256": "254cc56b50389a776536b880892b2ee4e34e7be62aaf467eee187527f66813c9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0808-02-.raw.gz",
+   "bytes": 78,
+   "sha256": "c8a48e93b4a6699e30b5c326fbc654e91cb4c9041bdf2793db4b5f3ecf7c004b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0808-02-.txt",
+   "bytes": 58,
+   "sha256": "d937ce5b384ca1a88c1a02a67d38d99d4274d41a8a1221a5ee62a5c929e8ca3d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0822-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "b18934e249515887b64b75af916188233db4eddfd3794f6334b6c7b0796eba0e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0822-01-.txt",
+   "bytes": 58,
+   "sha256": "1c35eb4ab46f3e50a701d004a0b8637f79b7467f32a7572b9d75ccd41a8f941e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0822-02-.raw.gz",
+   "bytes": 78,
+   "sha256": "7e3f76ad357100ff2cd93f7f4e5b7f9c3aa63a8ecc1474bb4014dc3ecbddc545"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0822-02-.txt",
+   "bytes": 58,
+   "sha256": "8d4f77feb21e6775f85e2e89b5c6623dbab212cf07f7d7d3aa8b9eb65caced7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0930-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "2df79ef7000e6f6a6379fba04356d1ca74deb9d340804fc0be6009e249e3cee2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X0930-01-.txt",
+   "bytes": 58,
+   "sha256": "0e6f51ef8e8420df52d20404440965334db3c3fdecb005c73cb90d25a37b3d6b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X1107-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "1fb55e39f9cd5d9e7666d655cc9765c266fb3822c54207cd70f11b4ef3d6902e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42014X1107-01-.txt",
+   "bytes": 58,
+   "sha256": "a81b81eebc9d378ec0e6eb8344cebcba7877637b9eef47b70a321da058d9a217"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42016X0108-01-.raw.gz",
+   "bytes": 78,
+   "sha256": "952e59954bb599b36f85518613ec66e299e7718b10660b7ba7e9156d70d28ebf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42016X0108-01-.txt",
+   "bytes": 58,
+   "sha256": "c751f3a48696f011c1aa611bc70a0bc348e5194f8c8f767ad3c60a738c9cc4c8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42017X0071.txt",
+   "bytes": 59148,
+   "sha256": "475bb23aa63a8d6004db191abd70a4e1821e88e733e97937640e980e6e126bb7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X0629.txt",
+   "bytes": 206481,
+   "sha256": "f979add3bb9347be115945f40d8ed0ff4e5cab07c44d6487e5d79e28736edbda"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X0780.txt",
+   "bytes": 58113,
+   "sha256": "be63f264538513b3452ce241a2d4aae4cab11db57c73cf13924962bc90a01ab6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X0798.txt",
+   "bytes": 145008,
+   "sha256": "5da0d7bc773da2c462891bd8d4ac169c2909e13c413b968c9b2406fa2eb19b33"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1591.txt",
+   "bytes": 34211,
+   "sha256": "f3320d7442c8a2c53776f968b2f0d6c48c6b228ffe87ae681e6c8b645cf0f518"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1592.txt",
+   "bytes": 53196,
+   "sha256": "200078f0f4321a467fa86ea7766919b6c41b22207949230b7fadb996a8b59d93"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1706.txt",
+   "bytes": 239545,
+   "sha256": "5f5361ceb2efd9daf5b6148791578fb7af8d684456cb5a46d2c350409054fbd2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1997.txt",
+   "bytes": 36480,
+   "sha256": "73983387267e1d04be293d5c1d48d0606a357859b35a468a62ec9ea676c603e1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42018X1998.txt",
+   "bytes": 40653,
+   "sha256": "e1b84e1aeaeacf89572bd491b3c09e6458566dcde6c6d002d8f85856e5411a9d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42019X0273.txt",
+   "bytes": 153641,
+   "sha256": "7218ed335decd11ec732d24d371403d3d1244da9a804c2785bb6501e1feebe7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42019X1354.txt",
+   "bytes": 56529,
+   "sha256": "857e35eccc78794ac510370ebb3d95cb8a86ab62764f2b9828c470804533fe6e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42019X2141.txt",
+   "bytes": 66981,
+   "sha256": "1c6ff18e2d6ab34c12159202c1d65faccf72232c8f46b323bfeceeaafda16822"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X0486.txt",
+   "bytes": 82723,
+   "sha256": "511e48a3023351906cea703521a39041fe43ba479d810681b6799083ae91a24e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X0575.txt",
+   "bytes": 37683,
+   "sha256": "c0298a49356ce00e71e4f49036e73b0d379063f898f4f41cbf98ef1ca63f0c48"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X1169.txt",
+   "bytes": 37500,
+   "sha256": "44aebd1e030d16e78dbf62bb6b8d5177fa61380cd9514d3a47c5494291de5052"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42020X1223.txt",
+   "bytes": 235256,
+   "sha256": "ce418004bf169df3d51f8f46d2c42af9c468fa9019692e4ff002d5c802a61a19"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0388.raw.gz",
+   "bytes": 39470,
+   "sha256": "2a05646dfa43069be9e3e1aa15d5da82390937b32d3fbef296feabd125790f09"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0388.txt",
+   "bytes": 30460,
+   "sha256": "68ab35e811090f1914734876a6837746cbc7ca2d73bad6ac10c637fddf607285"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0389.txt",
+   "bytes": 117064,
+   "sha256": "4121d9ea06480061943fbab2bed067a7beb0dcfe655c35fed83ad35733553149"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0828.txt",
+   "bytes": 73798,
+   "sha256": "727bec56bbb15b64b7378a1b350fb9358dd455451f1b82db25ed6c2035255b7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X0829.txt",
+   "bytes": 48049,
+   "sha256": "15ff40ac8a77b5f872a8a0035e4889404142518b358320855b59853ef4e372bb"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1215.raw.gz",
+   "bytes": 55060,
+   "sha256": "cfcb49817954fe5039cda385eca80126b497842a921374c0db942060df3d4912"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1215.txt",
+   "bytes": 44224,
+   "sha256": "abe9a110714713bbbee382f5c27a59cea81d38780a048d2cc0cc54e814380bc8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1366.raw.gz",
+   "bytes": 44665,
+   "sha256": "1e65013423c3b0e401a1df00f2306ee0218d1d5ca5856043d7ef7f766d95d6cf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1366.txt",
+   "bytes": 37075,
+   "sha256": "0c0d58094198f2064945e7da1eaa471c17d9c04281bd4515b6e626c17f03dddf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1463.txt",
+   "bytes": 67393,
+   "sha256": "e18ef40168bdf30d7ab2a84ffd34c702520340b1380b849fe2963e6ba25a012d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1718.txt",
+   "bytes": 259564,
+   "sha256": "5c34d3c3aac7ce7aced62ca3f84cdcc79e6114acf225e7c60c06304732a64014"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1719.txt",
+   "bytes": 100822,
+   "sha256": "0db6f1b0ccf72a0e3d2855b970760ff668e465e0b9ae8aa202ff9450b761e11c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1720.txt",
+   "bytes": 251283,
+   "sha256": "cb3e5d727925f3b797b2d4ca053546b1988ccd7a3395c6a7cc5a1654e8bcc595"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1721.txt",
+   "bytes": 176897,
+   "sha256": "36984922d3e2b0ae741bccace773baaeed56c6c627d00b9b6cfc6c14eb95b52f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X1862.txt",
+   "bytes": 97313,
+   "sha256": "b90849ce54ff97afcba96dec012d9eced31cb9aaf83c0c666454b157217bdc37"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2060.txt",
+   "bytes": 59837,
+   "sha256": "16374159d45dbe5a71a41f2af444e5340267fb76996422cecb4fed126453066e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2274.raw.gz",
+   "bytes": 86106,
+   "sha256": "8e9fb54a1ef6cd7199f900e2454b4ef819891f0611cb856f5c243b81055067bf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2274.txt",
+   "bytes": 45110,
+   "sha256": "e121cb0f62be4ce705852afd8686f2b0fccba5217c5a6d1e670beb31d20c3acf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2275.raw.gz",
+   "bytes": 61672,
+   "sha256": "33300a675e1c85a1758c632ae2b2620c87e9bf7f398098897562b570f6b2e89d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2275.txt",
+   "bytes": 43688,
+   "sha256": "58e692d639c03a321c4be0bc710b100409fc90540c7dbf117e2a2cbe89b374c3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42021X2276.txt",
+   "bytes": 63314,
+   "sha256": "034136d95b5aecd54d664d96b9c135b437ae4fb8ce7fe455cc45fe5ba85c2881"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42022X0082.txt",
+   "bytes": 45313,
+   "sha256": "d1f1ee7d1c55219884fab4fa480f950473b86cba56b6e732724b50a3f96db0bf"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42022X2263.txt",
+   "bytes": 235139,
+   "sha256": "ad6aa874ed843d92e09915197cddc9077004c966456933523e7629e5cef01084"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42023X0406.txt",
+   "bytes": 135511,
+   "sha256": "477bcb9d7fb89af9546150593bf1976ba83c0ca8339c6ab8340a6841db68465b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42024X0211.txt",
+   "bytes": 216923,
+   "sha256": "9e54ce5da5fe8e0ad3bf914a91b82c7e0ffe6df1f4b2f640f9edd48fdeefa2f5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42024X2497.txt",
+   "bytes": 84089,
+   "sha256": "5dfa777d34e3b56d64dfac161e90d279961f7d46a5b086874f772dd47eabec8d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0003.txt",
+   "bytes": 212782,
+   "sha256": "23fe351355f105fda9d212835892acd9fea114027aa0769d6b46bde1d8582b7b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0005.raw.gz",
+   "bytes": 55122,
+   "sha256": "1c3652e9355eeff28eefa491edfc1d4f37db08537e532a162600adf3be5ef18c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0005.txt",
+   "bytes": 65398,
+   "sha256": "6aef5414b0048b44a0c8ee63ba8f8984b33f69b9fc5f2632cdbf90398c714c2a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0460.txt",
+   "bytes": 105201,
+   "sha256": "da8c457503a0b6afc53d1b151aaf3de31fc074931196897e83a05657d5cc5b62"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X0891.txt",
+   "bytes": 38317,
+   "sha256": "9d1198257f5183244c3a3ca6c758dcca2f018622f3c844a90b981c4c1848dc90"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X1453.txt",
+   "bytes": 381699,
+   "sha256": "94e35ee5d9e5a57080dc1d001ce4d65df752b8b3f48609b4d61e1cb1ce0d257d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X1454.txt",
+   "bytes": 47879,
+   "sha256": "045bcd3ff55902e2c0f531164dcb74a28d9a3cfb79ab17d8fa20090ce70c4167"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42025X1902.txt",
+   "bytes": 32108,
+   "sha256": "270221d0c43387ccbcfd067794031606295c2486a0f80e83f27d293537155028"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0275.txt",
+   "bytes": 144830,
+   "sha256": "71929c3bedcd3cb176708856c044044df31f6a8c078433978a36fa97dcdf9d5b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0300.txt",
+   "bytes": 81119,
+   "sha256": "5441a40beb6b66bb2b38061667198eab74266f46492b644f47aa7a2514cb1c92"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0502.txt",
+   "bytes": 196813,
+   "sha256": "ad2418874f28f68ab54c1fbdcdc489128a8c720cfc5b685116f272c5a53e5492"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0746.txt",
+   "bytes": 623995,
+   "sha256": "039b6cfdf8df18911ffa6866bb579e13d16f0a7517742b12abee3d8988c40b9e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X0906.txt",
+   "bytes": 68428,
+   "sha256": "94956c53138332cd6582b61fcc3928112342f8a027d60ae77f5a2d3d1243410a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1075.txt",
+   "bytes": 128996,
+   "sha256": "630d30eba238298e37625ece4a911cdf08237cb52551da85d693717664ffe42b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1086.raw.gz",
+   "bytes": 729234,
+   "sha256": "9f53fe53bc4458288cbd9cc127122f6f651e10ad1d99bdc133141d6ef4f50a1a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1086.txt",
+   "bytes": 259497,
+   "sha256": "35fa99bf53aee3633d04604811f9ecff84d0d583d6916f6fd944db29b0dccac4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1095.txt",
+   "bytes": 137003,
+   "sha256": "880703279ee604a54f682444ae6b0e7145a05789963db7ded83e50acf11dc465"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1534.txt",
+   "bytes": 318320,
+   "sha256": "998416d0b5af4d8eac327e09a27da540601f7e885c15468e161c825d440e113f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-42026X1695.txt",
+   "bytes": 237872,
+   "sha256": "2128455c3bda2101d10d806eac7b716c89ccd535a2b2a6792ee23a33d18369d1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-52025PC0995.raw.gz",
+   "bytes": 175,
+   "sha256": "fa13b02b5684e444ab4d0755741aaeb9e2897a3e63f35d80e9686edb7a05dea4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/eu-publication-52025PC0995.txt",
+   "bytes": 214,
+   "sha256": "92f860dafc4740ed9fa5f58d3b21f83a27dc081a7c4f567bcdddb0b27daeb927"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/fmvss216-removal-final.raw.gz",
+   "bytes": 9086,
+   "sha256": "1278944a7926863203f5d31f0b554d32c776f2e5b79027f24227a3103b0138c3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/fmvss216-removal-final.txt",
+   "bytes": 23700,
+   "sha256": "8b3636affc27326ee370c03cf65e88e6d67387b9116d6313f3eefc0bc657334f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/https-eu-publication-32017R1151.raw.gz",
+   "bytes": 8947168,
+   "sha256": "83af2c62d59f48d6b7bc271df0e4b054dba365864ccb449fd0d4aa4f4fff48b6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/https-eu-publication-32019R2144.raw.gz",
+   "bytes": 41835,
+   "sha256": "4381e304fb8d19e885b9f8ad3b157233fea622cd0157fce804ad784de844da23"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/https-eu-publication-32024R1257.raw.gz",
+   "bytes": 41393,
+   "sha256": "e7114f87ccb4876a059e9a0274400fd621925539494f3c8853a3e8190dd38f51"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/https-eu-publication-32026R1738.raw.gz",
+   "bytes": 108057,
+   "sha256": "24f9f63ce848528914454e41f12211cf0d161ba1b544a1d129e859ab56c3a2a9"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/https-eu-publication-42026X1086.raw.gz",
+   "bytes": 729234,
+   "sha256": "9f53fe53bc4458288cbd9cc127122f6f651e10ad1d99bdc133141d6ef4f50a1a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/kmvss-history-page.raw.gz",
+   "bytes": 30642,
+   "sha256": "c11fc50a6c316e78a2863a1f7c50841a7d794e2aea1bff8ef058b77b5064b61c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/kmvss-history-page.txt",
+   "bytes": 3725,
+   "sha256": "40830ceba230c0e51d01d7d90da58f56708de141ffd7a90ebddb934d8bb6f86c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/kmvss-official.raw.gz",
+   "bytes": 337,
+   "sha256": "544351edbd9a386e84d4fbc6908a1955eaa2000c39f7a9eb39af4dca9cf47a93"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/kmvss-official.txt",
+   "bytes": 5,
+   "sha256": "54a0e8c17ebb21a11f8a25b8042786ef7efe52441e6cc87e92c67e0c4c0c6e78"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/official-br-abnt-nbr-15145.raw.gz",
+   "bytes": 47420,
+   "sha256": "6d2e53264fd8792e5140b749e656b3783cbc6c5893defa733b48e251ebb54cf5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/official-br-abnt-nbr-15145.txt",
+   "bytes": 15854,
+   "sha256": "13c1c1f1c59c0ec3890aaae2726e6c86f1244a16473faeb2af204e102dc7fef5"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/official-us-stub-us-epa-40-cfr-part-86-tier-3.raw.gz",
+   "bytes": 14757,
+   "sha256": "117b8c091362bae42f78fd61b54a88daf4e20e343aabe07a79739f0a56e0882b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/official-us-stub-us-epa-40-cfr-part-86-tier-3.txt",
+   "bytes": 4243,
+   "sha256": "9e2ae25bbc40f7ca378f7a9ed2ed940c95c5087fedbf47803b569fbec13aa8be"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-1958-treaty.raw.gz",
+   "bytes": 75800,
+   "sha256": "d257cfbaf8371d4cdf425396f0447e19204be6e483bf82d19578e51e5a9e852a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-1958-treaty.txt",
+   "bytes": 22735,
+   "sha256": "dc2ccfb926c3beccad81e16ef8e090daee1c7b6755d12025dbe8481536930bc7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-1998-treaty.raw.gz",
+   "bytes": 46102,
+   "sha256": "ddaff99747713aaf9b062c2644a0f8afe6511b674d74a0983fb59a7bb4786017"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-1998-treaty.txt",
+   "bytes": 8164,
+   "sha256": "96cf9d9b2b47bd38925cd2aefc4d6d0f1ebd025c06221bda78bd5bd34d90ce17"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn214-2026.raw.gz",
+   "bytes": 52359,
+   "sha256": "8d6cab5113f225a4d5a2bc7374f0a81200818c4ced3204071ce997e2f121189e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn214-2026.txt",
+   "bytes": 1691,
+   "sha256": "9c828f4a6268a8d61288db8bfe7ec624e03f3ea26ec7c31dd48b60e70108ea5c"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn215-2026.raw.gz",
+   "bytes": 52346,
+   "sha256": "f3fd2f111836b1a057f9701855b342b5fc5c8b721054fc8f621b1bf073e8b9d7"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn215-2026.txt",
+   "bytes": 1691,
+   "sha256": "b958fab86e46214a110207a13c27d692d4e782fd37badba0214698e9cbab3ebd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn216-2026.raw.gz",
+   "bytes": 52562,
+   "sha256": "2dd6f0a3b1ae67e0d8f8ce521b47360b6802db6256ee9b7c2e8346ab0603a7d1"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn216-2026.txt",
+   "bytes": 1691,
+   "sha256": "8f673371c421048c4d0aa55411a7aca9bb8eadad54c803c97de4887003a6648e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn217-2026.raw.gz",
+   "bytes": 52564,
+   "sha256": "0bc80035120e37a8455742cdee79d1ce0b153d9897096ebbd965d46c9a301028"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-cn217-2026.txt",
+   "bytes": 1691,
+   "sha256": "a21c8f9da8ca63af6aab51b43d4f5abeeeadf4661ff0e66e1d5592cadfac33c3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-treaty.raw.gz",
+   "bytes": 68615,
+   "sha256": "f306c5ddacf0248fef34e20d9aaa9a56d62ecb9dffa69e35fb96ea47db634416"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un-r83-treaty.txt",
+   "bytes": 16937,
+   "sha256": "f8e76c04ad78e8936fbc1d1755cab62a9662a3b5d5800fa1684fbb4c8717cfd8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un118-official.raw.gz",
+   "bytes": 78,
+   "sha256": "22c6dc324a3af64fe5bb908b165fbcbf51e335221b96fda53fe094bf15da6911"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/un118-official.txt",
+   "bytes": 58,
+   "sha256": "0edd9d6fdad6f62fa8a0e6bb8bf724d3873af60a53217db50d41d709d7357ca3"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-531.raw.gz",
+   "bytes": 25436,
+   "sha256": "ea31acc48dfefbb507467bd0e035df6d21dfc44ae677bfbf07b618d8905170fc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-531.txt",
+   "bytes": 27163,
+   "sha256": "a5e5676c5034673f92a87c2afd2af948bf3ad24b70777998202daf289aa9dc5d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-533.raw.gz",
+   "bytes": 25332,
+   "sha256": "86fbadadaea2096d2162792b1133b4f1043503c5084db3954f198d1a7ccd5b1b"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-533.txt",
+   "bytes": 28771,
+   "sha256": "04d60db12d19bf1a3565fc0091ee7acd183903b8496a81395665ebf07b677f92"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-561.raw.gz",
+   "bytes": 20518,
+   "sha256": "a642eaf85339038a947bda3727a0d2a591f3f0f8704995cf6c4c93dcac3f92b0"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-561.txt",
+   "bytes": 21542,
+   "sha256": "f7cc15d9c6e2e40fc1f15a524addafe2619828307a5957a78671dfdcbd4dc81d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-588.raw.gz",
+   "bytes": 16273,
+   "sha256": "a11495577ffa09bf83d34f28d00d69cc93f499834bbb225042c02cd154c2a0fd"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-cfr-part-588.txt",
+   "bytes": 8761,
+   "sha256": "941886737b2e2b39b8acb080b88d20aea5f7f91134eca78d8c40426095b705e8"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-120.raw.gz",
+   "bytes": 22971,
+   "sha256": "280a9a1beab96b440daab6dc17c0a82023050752b3ae6121400a51e4d094906a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-120.txt",
+   "bytes": 27481,
+   "sha256": "53123c4c15e41066e6a8a2600581c1cd680bbe0466a4631dbd81fc026aec7f4d"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-208.raw.gz",
+   "bytes": 106784,
+   "sha256": "17a68cd9ee0de85fbe661ac52848a6a8478f55b0884ad5e6d7a8928c1f9d67d4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-208.txt",
+   "bytes": 364076,
+   "sha256": "a169bc2f0c9b1e6b01fa17c6919f06842fefc9b64e8c99d914f747df2ff06201"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-217a.raw.gz",
+   "bytes": 19989,
+   "sha256": "9c55974fa0c6cb515e2305bec33cad328131b59d709efcbfad8e893582da8024"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-217a.txt",
+   "bytes": 19216,
+   "sha256": "788996963fa43b3542602e666d602aa78ea26176e5f24a2e065943531e409ede"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-224.raw.gz",
+   "bytes": 18558,
+   "sha256": "e2f4963c0fb024700539cdb2171f88168fb188f9ea10001c0c332e58119e6f5a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-224.txt",
+   "bytes": 14238,
+   "sha256": "c7d26bfda6241296293f5c2d5a33269f91ac0a48ebadae023f74c0877c1c5d8f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-305a.raw.gz",
+   "bytes": 32382,
+   "sha256": "605ba0536c52c8d6eecea3ad559776ca6406208d71af221c6484e6ce3e117720"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-305a.txt",
+   "bytes": 64692,
+   "sha256": "f9fdf74aff32e315af21837c3f447ded1b305dc76af18bcdfcaa016f21a1dcd6"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-307.raw.gz",
+   "bytes": 25745,
+   "sha256": "bf01c5addf52f2c703983031117c0ae01d4c828b0751c79439eb45686773ea0a"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-307.txt",
+   "bytes": 32317,
+   "sha256": "ec263c92b406a99c2cf622ed6bfa2a1c109ad1255f5288599de8a3a14d17f6b4"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-308.raw.gz",
+   "bytes": 33700,
+   "sha256": "69117705b0034fd616cde59755d5e7d9b75a9916dbe93def82da6b9f920aeb0f"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/evidence/sources/us-fmvss-308.txt",
+   "bytes": 77261,
+   "sha256": "10c4089107f76267f1a1e530205198b73cb093c3412ac117b4adcf3da20e5abc"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/br-contran-37.md",
+   "bytes": 4795,
+   "sha256": "fa9d72b05b705792be2c79390c11ccf692c807f13774ab6cc8ab89bce07e2fc2"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/br-contran-498.md",
+   "bytes": 17834,
+   "sha256": "6b7266bda55c4dbc3f530130663924eee0121ee66525b13595cf9c36f0785924"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/br-contran-764.md",
+   "bytes": 16334,
+   "sha256": "f49b56f338b2f0fb0795875a722cd0e12a250602b621fe1b068c7c10af225155"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/br-contran-924.md",
+   "bytes": 142091,
+   "sha256": "b2f103455749a11689c8edbfeb76d201fca2e487d18a4627fb38b965c600879e"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/br-senatran-990.md",
+   "bytes": 66599,
+   "sha256": "0a325eba8e4843afc93d342667345f42c157e5c4e5abf5f90ea918eeb599c2ef"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/ca-workbook-reg-0145-eccc-sor-2003-2.md",
+   "bytes": 1242,
+   "sha256": "bd627ce2e35f97a0cb2acaaafc6a130f2bc0945b36e67af90b8f578e74ecf510"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/eu-32017r1151.md",
+   "bytes": 1539720,
+   "sha256": "9d89fe3582c1092097ea9e2c4f974e7680b2e1737db421e2c79c118abc7ad968"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/us-fmvss-216.md",
+   "bytes": 8233,
+   "sha256": "ecc02a112953653bd52a93af348e91999cdee33de824e831924c138547cd4c36"
+  },
+  {
+   "path": "review/runs/2026-10-06-external/proposed-bodies/us-stub-us-epa-40-cfr-part-86-tier-3.md",
+   "bytes": 1295,
+   "sha256": "0384658c81cf58fbe32f535cb62c52284b5088c5d6fbd8396ed8dc472adc1f5a"
+  }
+ ]
+}

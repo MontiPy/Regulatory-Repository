@@ -1,0 +1,46 @@
+[
+  {
+    "id": "au-f2009l03609",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Front underrun impact protection on vehicles is regulated by ADR 84/00, which mandates structural requirements designed to prevent smaller vehicles from sliding underneath the front of large vehicles during a collision.",
+    "proposed": "Reference entry for ADR 84/00 — Front Underrun Impact Protection. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+    "evidence": "# Vehicle Standard (Australian Design Rule 84/00 – Front Underrun Impact Protection) 2009",
+    "evidence_url": "regulations/au-f2009l03609.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "au-f2018l01520",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "ADR 92/00 covers the external projections of vehicles sold in Australia. It establishes requirements under the Road Vehicle Standards Act 2018 governing how exterior vehicle surfaces and protrusions must be designed to limit injury risk.",
+    "proposed": "Reference entry for ADR 92/00 — External Projections. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+    "evidence": "# Vehicle Standard (Australian Design Rule 92/00 – External Projections) 2018",
+    "evidence_url": "regulations/au-f2018l01520.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "au-f2022l00213",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Brake systems on commercial vehicles are regulated under this Australian Design Rule, which establishes mandatory performance and construction standards that such vehicles must meet to be approved for use on Australian roads.",
+    "proposed": "Reference entry for ADR 35/07 — Commercial Vehicle Brake Systems. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+    "evidence": "# Vehicle Standard (Australian Design Rule 35/07 – Commercial Vehicle Brake Systems) 2022",
+    "evidence_url": "regulations/au-f2022l00213.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "au-f2023l01317",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "ADR 106/00 establishes Australian design requirements for side underrun protection on vehicles. The regulation mandates structural guards or barriers fitted to the sides of applicable vehicles to prevent smaller road users, such as pedestrians or cyclists, from passing beneath the vehicle in a collision.",
+    "proposed": "Reference entry for ADR 106/00 — Side Underrun Protection. The stored body is the Federal Register index page; technical requirements and vehicle applicability are not reproduced.",
+    "evidence": "# Vehicle Standard (Australian Design Rule 106/00 – Side Underrun Protection) 2023",
+    "evidence_url": "regulations/au-f2023l01317.md",
+    "confidence": 0.98
+  }
+]

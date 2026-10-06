@@ -1,0 +1,74 @@
+[
+  {
+    "id": "other-workbook-reg-0648-iso-6469-series",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R100"
+    ],
+    "proposed": [],
+    "evidence": "Body Related Regulations section: \"UN R100; FMVSS 305; GB 38031; AIS-038; ADR 109.\". There is no statement adopting, deeming equivalent or accepting any UN Regulation as a compliance alternative. Similar subject matter and a related-instrument list do not meet the required evidence threshold for legal equivalence.",
+    "evidence_url": "regulations/other-workbook-reg-0648-iso-6469-series.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R83"
+    ],
+    "proposed": [],
+    "evidence": "Body Related Regulations section: \"US EPA 40 CFR Part 86/Tier 3; EU Reg. 715/2007 and UNECE R83; GB 18352.6; ADR 79/111/112; CONAMA 492/IBAMA IN 3; GSO 1680-series and national Euro limits; Japan Article 31; KMVSS Art. 36.\". There is no statement adopting, deeming equivalent or accepting any UN Regulation as a compliance alternative. Similar subject matter and a related-instrument list do not meet the required evidence threshold for legal equivalence.",
+    "evidence_url": "regulations/us-stub-us-epa-40-cfr-part-86-tier-3.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "za-workbook-reg-0623-vc-8056",
+    "field": "un_equivalent",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": [
+      "UN R30"
+    ],
+    "proposed": [],
+    "evidence": "Body Related Regulations section: \"UNECE R30; FMVSS 139; CMVSS tire rules; ADR tyre standards.\". There is no statement adopting, deeming equivalent or accepting any UN Regulation as a compliance alternative. Similar subject matter and a related-instrument list do not meet the required evidence threshold for legal equivalence.",
+    "evidence_url": "regulations/za-workbook-reg-0623-vc-8056.md",
+    "confidence": 0.97
+  },
+  {
+    "id": "us-workbook-reg-0451-49-cfr-part-575",
+    "field": "_stub_body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": false,
+    "proposed": true,
+    "evidence": "Body heading \"Consumer Information / Labels and Ratings\" and applicability names \"UTQG, rollover warnings, safety-rating labels\", but Key Compliance Intent says \"Ensure the vehicle and compliance record can be legally placed on market, traced, recalled and reported to authorities.\" Primary components are \"Compliance documentation, VIN/certification labels ... recall systems ... production traceability data\" and failures are \"recall population not traceable, missing owner notification, delayed reporting\". This is a recall/approval template, not consumer-information regulation text.",
+    "evidence_url": "regulations/us-workbook-reg-0451-49-cfr-part-575.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "us-workbook-reg-0451-49-cfr-part-575",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "Consumer information requirements for new vehicles and tires, including the Uniform Tire Quality Grading system (§575.104), truck-camper loading information (§575.103), the utility-vehicle rollover warning (§575.105) and NCAP safety-rating labeling on the Monroney label (§§575.301-575.302). Traceability and recall reporting are covered by other parts, not Part 575.",
+    "proposed": "Reference record for consumer information under 49 CFR Part 575, including tire grading, rollover warnings and vehicle safety-rating labels. This repository does not hold the Part 575 regulation text; detailed scope and disclosure requirements should be checked in the official source.",
+    "evidence": "Body heading \"Consumer Information / Labels and Ratings\" and applicability names \"UTQG, rollover warnings, safety-rating labels\", but Key Compliance Intent says \"Ensure the vehicle and compliance record can be legally placed on market, traced, recalled and reported to authorities.\" Primary components are \"Compliance documentation, VIN/certification labels ... recall systems ... production traceability data\" and failures are \"recall population not traceable, missing owner notification, delayed reporting\". This is a recall/approval template, not consumer-information regulation text.",
+    "evidence_url": "regulations/us-workbook-reg-0451-49-cfr-part-575.md",
+    "confidence": 0.95
+  },
+  {
+    "id": "us-stub-us-epa-40-cfr-part-86-tier-3",
+    "field": "body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": "# Light-duty Vehicle and Fuel Emission Standards\n\n**Regulated Area:** Emissions\n\n**Applicability:** Applies to passenger cars when listed in 49 CFR Part 571; verify effective dates, phase-ins, and vehicle classification for each model.\n\n\n## Key Compliance Intent\n\nLimit pollutants from passenger vehicles over useful life and ensure emission control faults are detected.\n\n## Primary Vehicle Systems and Components\n\nEngine, catalysts, particulate filters, EGR, SCR/urea, evaporative system, OBD, fuel system, calibration software.\n\n## Failure Modes and Symptoms\n\nExcess NOx/HC/CO/PM, MIL/OBD noncompliance, evaporative leaks, catalyst deterioration, defeat-risk calibration behavior.\n\n## Related Regulations\n\nUS EPA 40 CFR Part 86/Tier 3; EU Reg. 715/2007 and UNECE R83; GB 18352.6; ADR 79/111/112; CONAMA 492/IBAMA IN 3; GSO 1680-series and national Euro limits; Japan Article 31; KMVSS Art. 36.\n\n## Engineering Considerations\n\nNot an FMVSS. Included because passenger vehicle emissions in the U.S. are regulated by EPA; coordinate with CARB where sold in California/177 states.",
+    "proposed": null,
+    "evidence": "Applicability says \"Applies to passenger cars when listed in 49 CFR Part 571\" while Engineering Considerations explicitly says \"Not an FMVSS. Included because passenger vehicle emissions in the U.S. are regulated by EPA\" and the record citation is \"US EPA 40 CFR Part 86 / Tier 3\". The Part 571 conditional applicability contradicts the identified EPA instrument. No field-only metadata patch can repair this sentence; replace with regulation text or correct source-backed body when accessible.",
+    "evidence_url": "regulations/us-stub-us-epa-40-cfr-part-86-tier-3.md",
+    "confidence": 0.99
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "shard": "r20261006-cw-topics-03",
+  "kind": "crosswalk",
+  "items": [
+    "wipers",
+    "defrost",
+    "forward-vision",
+    "controls-telltales",
+    "speedometer",
+    "horn",
+    "avas",
+    "tyres",
+    "tyre-installation",
+    "tpms",
+    "door-latches",
+    "external-projections",
+    "bumpers",
+    "power-windows",
+    "flammability",
+    "hood-latch",
+    "accelerator-control",
+    "dimensions"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "lane-keeping",
+    "field": "cells.UN.cite",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": "No single UN R for M1/N1 ELKS — UN R130 (LDWS) and UN R79 (corrective steering) cover the functions",
+    "proposed": "UN R178 (M1/N1 ELKS; no repository record); UN R130 (LDWS); UN R79 (corrective steering)",
+    "evidence": "ADR 107/00 clause 7.1 expressly lists \"United Nations Regulation No. 178 – UNIFORM PROVISIONS CONCERNING THE APPROVAL OF MOTOR VEHICLES WITH REGARD TO THE EMERGENCY LANE KEEPING SYSTEMS (ELKS) FOR M1 AND N1 VEHICLES, incorporating the original version of the regulation (00 series of amendments)\" as the alternative standard. Thus the crosswalk claim that no single UN R for M1/N1 ELKS exists is contradicted by the current official body. No UN R178 repository record exists.",
+    "evidence_url": "regulations/au-f2026l00278.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "head-restraints",
+    "field": "cells.UN.cite",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN R17 (integrated); UN R25 (separate)",
+    "proposed": "UN R17 (seats and head restraints); UN R25 (head restraints, whether or not incorporated in seats)",
+    "evidence": "Own R25 body instrument name: \"Uniform provisions concerning the approval of head restraints (headrests), whether or not incorporated in vehicle seats\". The current label confines R25 to separate head restraints even though incorporated head restraints are also within this instrument.",
+    "evidence_url": "regulations/ece-r25.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "child-presence",
+    "field": "description",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Detection of a child left in a parked vehicle.",
+    "proposed": "Systems to detect a child or prompt the driver to check for occupants left in a parked vehicle.",
+    "evidence": "KMVSS Article 53-4 item 1 requires warnings if \"the confirmation button (including NFC contact) installed near the seats in the rearmost row is not pressed within 3 minutes after the engine is stopped or the ignition key is removed from the operating position\". This is a driver-confirmation reminder, not a requirement to detect the actual presence of a child; the current description inaccurately narrows the cited Korean system.",
+    "evidence_url": "regulations/kr-kmvss-art53-4.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "isofix",
+    "field": "cells.UN.cite",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN R145 (ISOFIX / i-Size anchorages); UN R14",
+    "proposed": "UN R145 (ISOFIX / i-Size anchorages); legacy UN R14 ISOFIX provisions in earlier series",
+    "evidence": "Current linked UN R14 body is the 09 series and its instrument heading is \"Uniform provisions concerning the approval of vehicles with regard to safety-belt anchorages\"; its scope and technical clauses do not regulate ISOFIX. ADR 34/03 clause 14.2 explicitly deems UN R14 07-series ISOFIX provisions equivalent to its child-anchorage Appendices 1 and 2. The crosswalk should identify that earlier-series context rather than imply the linked 09-series body contains ISOFIX requirements.",
+    "evidence_url": "regulations/ece-r14.md",
+    "confidence": 0.99
+  }
+]

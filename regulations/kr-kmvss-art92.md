@@ -15,7 +15,7 @@ open_tags:
 - vehicle weight multiplier
 region: KR
 source_api: law_go_kr
-source_url: https://law.go.kr/LSW/lsInfoP.do?lsiSeq=270023#AJAX
+source_url: https://law.go.kr/법령/자동차및자동차부품의성능과기준에관한규칙
 status: in-force
 summary: 'Sets roof strength for passenger cars other than convertibles: under a load
   applied through a plate of at least 75 cm by 180 cm at no more than 12.7 mm per

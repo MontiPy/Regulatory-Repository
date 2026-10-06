@@ -20,10 +20,10 @@ region: AU
 source_api: spreadsheet
 source_url: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/road-vehicle-standards-laws
 status: in-force
-summary: Supply of road vehicles to the Australian market requires type approval,
-  entry on the Register of Approved Vehicles (RAV), and demonstrated conformity with
-  applicable Australian Design Rules (ADRs) covering safety, anti-theft, and emissions
-  standards.
+summary: 'Overview entry for Road Vehicle Standards Act 2018 / Road Vehicle Standards
+  Rules 2019: Road Vehicle Standards - Supply, Type Approval and Compliance Framework.
+  The body is a summary, not regulation text; detailed requirements, approval pathways
+  and vehicle scope require verification against current official instruments.'
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: c37bbf7caa9bd727f46cfcafa486fcc935bbba68
 systems:

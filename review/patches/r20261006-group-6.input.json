@@ -1,0 +1,878 @@
+[
+  {
+    "id": "anti-theft",
+    "field": "cells.BR",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "CONTRAN 245/2007, 330/2009; 215/2006",
+      "records": [
+        "br-contran-245-330",
+        "br-contran-215"
+      ]
+    },
+    "proposed": {
+      "cite": "CONTRAN 245/2007, 330/2009 (current applicability requires official verification)",
+      "records": [
+        "br-contran-245-330"
+      ]
+    },
+    "evidence": "# Bull bars (quebra-mato) on vehicles up to 3,500 kg GVW",
+    "evidence_url": "regulations/br-contran-215.md",
+    "confidence": 0.97,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F001",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.BR",
+    "patch_value": {
+      "cite": "CONTRAN 245/2007, 330/2009 (current applicability requires official verification)",
+      "records": [
+        "br-contran-245-330"
+      ]
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "approval-framework",
+    "field": "cells.KR.records",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "kr-kmvss-art3"
+    ],
+    "proposed": [],
+    "evidence": "The structure and equipment of motor vehicles and motorcycles shall be manufactured or maintained so as to ensure safe operation.",
+    "evidence_url": "regulations/kr-kmvss-art3.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-01",
+    "kind": "crosswalk",
+    "finding_id": "F002",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.KR.records",
+    "patch_value": [],
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "ev-post-crash",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 305a (after FMVSS 208/214/301 tests)",
+      "records": [
+        "us-fmvss-305a"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 305 (current unless certified to 305a); FMVSS 305a S8/S9 post-crash requirements for vehicles ≤4,536 kg and heavier school buses, with mandatory dates in S3(b): Sep 2027 for light vehicles, Sep 2028 for heavy vehicles, plus specified one-year extensions",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "applicable unless a vehicle is certified to § 571.305a. | S1. Scope. This standard specifies requirements for limitation of electrolyte spillage and retention of electric energy storage/conversion devices during and after a crash, and protection from harmful electric shock during and after a crash and during normal vehicle operation. | Secondary own-body source: regulations/us-fmvss-305a.md: (b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b). | Secondary own-body source: regulations/us-fmvss-305a.md: S8. Post-crash safety. Each vehicle with a GVWR of 4,536 kg or less to which this standard applies must meet the requirements in S8.1, S8.2, S8.3, and S8.4 when tested according to S9 of this standard under the conditions of S10 of this standard. Each school bus with a GVWR greater than 4,536 kg to which this standard applies must meet the requirements in S8.1, S8.2, S8.3, and S8.4 when tested according to S9.5 of this standard under the conditions of S10.",
+    "evidence_url": "regulations/us-fmvss-305.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F003",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 305 (current unless certified to 305a); FMVSS 305a S8/S9 post-crash requirements for vehicles ≤4,536 kg and heavier school buses, with mandatory dates in S3(b): Sep 2027 for light vehicles, Sep 2028 for heavy vehicles, plus specified one-year extensions",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "hydrogen",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 307 (fuel system integrity), 308 (storage)",
+      "records": [
+        "us-fmvss-307",
+        "us-fmvss-308"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 307 (hydrogen fuel system), 308 (compressed hydrogen storage), for vehicles manufactured from 1 Sep 2028; 308 excludes vehicles equipped only with cryo-compressed and/or solid-state hydrogen storage",
+      "records": [
+        "us-fmvss-307",
+        "us-fmvss-308"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "S3. Application. This standard applies to each motor vehicle manufactured on or after September 1, 2028, that uses compressed hydrogen gas as a fuel source to propel the vehicle. | Secondary own-body source: regulations/us-fmvss-308.md: S3. Application. This standard applies to each motor vehicle manufactured on or after September 1, 2028, that is equipped with compressed hydrogen gas as a fuel source to propel the vehicle. The standard does not apply to vehicles that are only equipped with cryo-compressed hydrogen storage systems and/or solid-state hydrogen storage system to propel the vehicle.",
+    "evidence_url": "regulations/us-fmvss-307.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F005",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 307 (hydrogen fuel system), 308 (compressed hydrogen storage), for vehicles manufactured from 1 Sep 2028; 308 excludes vehicles equipped only with cryo-compressed and/or solid-state hydrogen storage",
+      "records": [
+        "us-fmvss-307",
+        "us-fmvss-308"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "hydrogen",
+    "field": "powertrains",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": [
+      "FCEV"
+    ],
+    "proposed": [
+      "FCEV",
+      "ICE"
+    ],
+    "evidence": "2.12. \"Hydrogen-fuelled vehicle\" means any motor vehicle that uses compressed gaseous hydrogen as a fuel to propel the vehicle, including fuel cell and internal combustion engine vehicles. Hydrogen fuel for passenger vehicles is specified in ISO 14687-2: 2012 and SAE J2719: (September 2011 Revision).",
+    "evidence_url": "regulations/au-f2023l01530.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F006",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "powertrains",
+    "patch_value": [
+      "FCEV",
+      "ICE"
+    ],
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "lane-keeping",
+    "field": "cells.UN.cite",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": "No single UN R for M1/N1 ELKS — UN R130 (LDWS) and UN R79 (corrective steering) cover the functions",
+    "proposed": "UN R178 (M1/N1 ELKS; no repository record); UN R130 (LDWS); UN R79 (corrective steering)",
+    "evidence": "ADR 107/00 clause 7.1 expressly lists \"United Nations Regulation No. 178 – UNIFORM PROVISIONS CONCERNING THE APPROVAL OF MOTOR VEHICLES WITH REGARD TO THE EMERGENCY LANE KEEPING SYSTEMS (ELKS) FOR M1 AND N1 VEHICLES, incorporating the original version of the regulation (00 series of amendments)\" as the alternative standard. Thus the crosswalk claim that no single UN R for M1/N1 ELKS exists is contradicted by the current official body. No UN R178 repository record exists.",
+    "evidence_url": "regulations/au-f2026l00278.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-02",
+    "kind": "crosswalk",
+    "finding_id": "F007",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.UN.cite",
+    "patch_value": "UN R178 (M1/N1 ELKS; no repository record); UN R130 (LDWS); UN R79 (corrective steering)",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "rear-impact",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 301 (fuel); FMVSS 305a (EV)",
+      "records": [
+        "us-fmvss-301",
+        "us-fmvss-305a"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 301 (fuel); FMVSS 305 (EV, applicable unless certified to 305a); FMVSS 305a (mandatory applicability from Sep 2027/2028)",
+      "records": [
+        "us-fmvss-301",
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ]
+    },
+    "evidence": "§ 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage and electrical shock protection; applicable unless a vehicle is certified to § 571.305a. | that are manufactured before September 1, 2027. | S6.2 Rear moving barrier impact. The vehicle must meet the requirements of S5.1, S5.2, and S5.3 when it is impacted from the rear by a barrier that conforms to S7.3(b) of 571.301 of this chapter and that is moving at any speed up to and including 80 km/h (50 mph) with dummies in accordance with S6.2 of 571.301 of this chapter. | (b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b). | Secondary own-body source: regulations/us-fmvss-305a.md, S3(b).",
+    "evidence_url": "regulations/us-fmvss-305.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-01",
+    "kind": "crosswalk",
+    "finding_id": "F008",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 301 (fuel); FMVSS 305 (EV, applicable unless certified to 305a); FMVSS 305a (mandatory applicability from Sep 2027/2028)",
+      "records": [
+        "us-fmvss-301",
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ]
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "reess",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 305a (REESS provisions)",
+      "records": [
+        "us-fmvss-305a"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 305a (REESS provisions; mandatory from 1 Sep 2027 at GVWR ≤4,536 kg and 1 Sep 2028 above 4,536 kg, with specified additional one-year extensions)",
+      "records": [
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "(b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b).",
+    "evidence_url": "regulations/us-fmvss-305a.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F009",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 305a (REESS provisions; mandatory from 1 Sep 2027 at GVWR ≤4,536 kg and 1 Sep 2028 above 4,536 kg, with specified additional one-year extensions)",
+      "records": [
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "roof-crush",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 216a (3.0 × UVW)",
+      "records": [
+        "us-fmvss-216a"
+      ]
+    },
+    "proposed": {
+      "cite": "FMVSS 216a (3.0 × UVW for GVWR ≤2,722 kg; 1.5 × UVW for GVWR >2,722 kg)",
+      "records": [
+        "us-fmvss-216a"
+      ]
+    },
+    "evidence": "For vehicles with a GVWR of 2,722 kilograms (6,000 pounds) or less, any value up to and including 3.0 times the unloaded vehicle weight of the vehicle, measured in kilograms and multiplied by 9.8, and | For vehicles with a GVWR greater than 2,722 kilograms (6,000 pounds), any value up to and including 1.5 times the unloaded vehicle weight of the vehicle, measured in kilograms and multiplied by 9.8.",
+    "evidence_url": "regulations/us-fmvss-216a.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-01",
+    "kind": "crosswalk",
+    "finding_id": "F010",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 216a (3.0 × UVW for GVWR ≤2,722 kg; 1.5 × UVW for GVWR >2,722 kg)",
+      "records": [
+        "us-fmvss-216a"
+      ]
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "seat-belt-reminder",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": {
+      "cite": "FMVSS 208 S7.3 (front seats, compliance 1 Sep 2026) and S7.4 (rear seats, compliance 1 Sep 2027) — final rule published 3 Jan 2025",
+      "records": [
+        "us-fmvss-208"
+      ],
+      "status": "phase-in"
+    },
+    "proposed": {
+      "cite": "FMVSS 208 S7.3 (existing driver warning) and S7.5 (expanded warning systems for vehicles manufactured on or after 1 Sep 2028)",
+      "records": [
+        "us-fmvss-208"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "S7.3 (a) A seat belt assembly provided at the driver's seating position shall be equipped with a warning system that, at the option of the manufacturer, either— | S7.4 Seat belt comfort and convenience. | S7.5 Seat belt warning systems for vehicles manufactured on or after September 1, 2028 provided in accordance with the requirements S4.1.5.7, S4.2.8, and S4.4.3.4 of this standard.",
+    "evidence_url": "regulations/us-fmvss-208.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-01",
+    "kind": "crosswalk",
+    "finding_id": "F011",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 208 S7.3 (existing driver warning) and S7.5 (expanded warning systems for vehicles manufactured on or after 1 Sep 2028)",
+      "records": [
+        "us-fmvss-208"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "bumpers",
+    "field": "cells.US.cite",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "49 CFR 581 (passenger cars, 2.5 mph)",
+    "proposed": "49 CFR 581 (passenger cars: 1.5 mph corner pendulum; 2.5 mph longitudinal pendulum and barrier tests)",
+    "evidence": "(a) Each vehicle shall meet the damage criteria of §§ 581.5(c)(1) through 581.5(c)(9) when impacted by a pendulum-type test device in accordance with the procedures of § 581.7(b), under the conditions of § 581.6, at an impact speed of 1.5 m.p.h., and when impacted by a pendulum-type test device in accordance with the procedures of § 581.7(a) at 2.5 m.p.h., followed by an impact into a fixed collision barrier that is perpendicular to the line of travel of the vehicle, while traveling longitudinally forward, then longitudinally rearward, under the conditions of § 581.6, at 2.5 m.p.h.",
+    "evidence_url": "regulations/us-cfr-part-581.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-03",
+    "kind": "crosswalk",
+    "finding_id": "F093",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US.cite",
+    "patch_value": "49 CFR 581 (passenger cars: 1.5 mph corner pendulum; 2.5 mph longitudinal pendulum and barrier tests)",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "child-presence",
+    "field": "description",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Detection of a child left in a parked vehicle.",
+    "proposed": "Systems to detect a child or prompt the driver to check for occupants left in a parked vehicle.",
+    "evidence": "KMVSS Article 53-4 item 1 requires warnings if \"the confirmation button (including NFC contact) installed near the seats in the rearmost row is not pressed within 3 minutes after the engine is stopped or the ignition key is removed from the operating position\". This is a driver-confirmation reminder, not a requirement to detect the actual presence of a child; the current description inaccurately narrows the cited Korean system.",
+    "evidence_url": "regulations/kr-kmvss-art53-4.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-02",
+    "kind": "crosswalk",
+    "finding_id": "F094",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "description",
+    "patch_value": "Systems to detect a child or prompt the driver to check for occupants left in a parked vehicle.",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "defrost",
+    "field": "cells.JP",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "Safety Regs / TRIAS",
+      "records": [
+        "jp-srrv-windshield-wiping-washing-defrosting-and-defogging"
+      ]
+    },
+    "proposed": {
+      "cite": "Safety Regs Art. 45(2)",
+      "records": [
+        "jp-jvsregs-art45"
+      ]
+    },
+    "evidence": "② Motor vehicles required to be equipped with windshield wipers under the preceding paragraph (excluding large special vehicles, small special vehicles for agricultural work, and vehicles with a maximum speed of less than 20 km/h) shall also be equipped with a washer fluid spray device and a defroster that comply with the standards for field-of-vision performance prescribed by ministerial notice, so as to secure the field of vision directly in front of the windshield and not to impair safe operation when the outside of the windshield is contaminated or when significant fogging from moisture accumulates on the windshield. However, a defroster is not required for vehicles where the cab and the vehicle exterior cannot be separated by a partition such as a roof or windows.",
+    "evidence_url": "regulations/jp-jvsregs-art45.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-03",
+    "kind": "crosswalk",
+    "finding_id": "F095",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.JP",
+    "patch_value": {
+      "cite": "Safety Regs Art. 45(2)",
+      "records": [
+        "jp-jvsregs-art45"
+      ]
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "ev-electrical-safety",
+    "field": "cells.US",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "FMVSS 305 (current); FMVSS 305a mandatory from 1 Sep 2027 (optional earlier)",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "proposed": {
+      "cite": "FMVSS 305 (current); FMVSS 305a mandatory from 1 Sep 2027 at GVWR ≤4,536 kg and 1 Sep 2028 above 4,536 kg; specified small-volume/final-stage manufacturers and alterers get one additional year",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "(b) Mandatory applicability begins September 1, 2027, for vehicles with a gross vehicle weight rating of 4,536 kilograms (kg) or less and September 1, 2028, for vehicles with a gross vehicle weight rating over 4,536 kg. Small-volume manufacturers, final-stage manufacturers, and alterers are provided an additional year to comply with the requirements beyond the dates identified in this paragraph (b).",
+    "evidence_url": "regulations/us-fmvss-305a.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F096",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.US",
+    "patch_value": {
+      "cite": "FMVSS 305 (current); FMVSS 305a mandatory from 1 Sep 2027 at GVWR ≤4,536 kg and 1 Sep 2028 above 4,536 kg; specified small-volume/final-stage manufacturers and alterers get one additional year",
+      "records": [
+        "us-fmvss-305",
+        "us-fmvss-305a"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "exhaust-emissions",
+    "field": "cells.AU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "ADR 79/05; ADR 111/00; ADR 112/00 (RDE)",
+      "records": [
+        "au-f2024l00443",
+        "au-f2024l00446",
+        "au-f2024l00447"
+      ]
+    },
+    "proposed": {
+      "cite": "ADR 79/05; ADR 111/00; ADR 112/00 (RDE): new model vehicles from 1 Dec 2025; all vehicles from 1 Jul 2028",
+      "records": [
+        "au-f2024l00443",
+        "au-f2024l00446",
+        "au-f2024l00447"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "1 December 2025 for all new model vehicles. | 1 July 2028 for all vehicles. | Secondary own-body source: regulations/au-f2024l00446.md: 1 December 2025 for all new model vehicles. | Secondary own-body source: regulations/au-f2024l00446.md: 1 July 2028 for all vehicles. | Secondary own-body source: regulations/au-f2024l00447.md: 1 December 2025 for all new model vehicles. | Secondary own-body source: regulations/au-f2024l00447.md: 1 July 2028 for all vehicles.",
+    "evidence_url": "regulations/au-f2024l00443.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F097",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.AU",
+    "patch_value": {
+      "cite": "ADR 79/05; ADR 111/00; ADR 112/00 (RDE): new model vehicles from 1 Dec 2025; all vehicles from 1 Jul 2028",
+      "records": [
+        "au-f2024l00443",
+        "au-f2024l00446",
+        "au-f2024l00447"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "exhaust-emissions",
+    "field": "cells.UN",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "UN R83 (NEDC legacy); UN R154 (WLTP); UN R168 (RDE)",
+      "records": [
+        "ece-r83",
+        "ece-r154",
+        "ece-r168"
+      ]
+    },
+    "proposed": {
+      "cite": "UN R83 (series-dependent emissions requirements; linked 09-series text has an entry-into-force date marked TBC); UN R154 (WLTP); UN R168 (RDE)",
+      "records": [
+        "ece-r83",
+        "ece-r154",
+        "ece-r168"
+      ]
+    },
+    "evidence": "09 series of amendments - Date of entry into force: XX September 2026 (TBC) | This Regulation establishes technical requirements for the type approval of motor vehicles with regard to crankcase emissions (Type 3 test) and exhaust emissions at low ambient temperature (Type 6 test) for emissions of gaseous compounds.",
+    "evidence_url": "regulations/ece-r83.md",
+    "confidence": 0.97,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F098",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.UN",
+    "patch_value": {
+      "cite": "UN R83 (series-dependent emissions requirements; linked 09-series text has an entry-into-force date marked TBC); UN R154 (WLTP); UN R168 (RDE)",
+      "records": [
+        "ece-r83",
+        "ece-r154",
+        "ece-r168"
+      ]
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "head-restraints",
+    "field": "cells.UN.cite",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN R17 (integrated); UN R25 (separate)",
+    "proposed": "UN R17 (seats and head restraints); UN R25 (head restraints, whether or not incorporated in seats)",
+    "evidence": "Own R25 body instrument name: \"Uniform provisions concerning the approval of head restraints (headrests), whether or not incorporated in vehicle seats\". The current label confines R25 to separate head restraints even though incorporated head restraints are also within this instrument.",
+    "evidence_url": "regulations/ece-r25.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-02",
+    "kind": "crosswalk",
+    "finding_id": "F099",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.UN.cite",
+    "patch_value": "UN R17 (seats and head restraints); UN R25 (head restraints, whether or not incorporated in seats)",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "hydrogen",
+    "field": "title",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Hydrogen fuel-cell vehicle safety",
+    "proposed": "Hydrogen vehicle safety (fuel-cell and internal combustion)",
+    "evidence": "2.12. \"Hydrogen-fuelled vehicle\" means any motor vehicle that uses compressed gaseous hydrogen as a fuel to propel the vehicle, including fuel cell and internal combustion engine vehicles. Hydrogen fuel for passenger vehicles is specified in ISO 14687-2: 2012 and SAE J2719: (September 2011 Revision).",
+    "evidence_url": "regulations/au-f2023l01530.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F100",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "title",
+    "patch_value": "Hydrogen vehicle safety (fuel-cell and internal combustion)",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "hydrogen",
+    "field": "cells.AU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "ADR 110/00",
+      "records": [
+        "au-f2023l01530"
+      ]
+    },
+    "proposed": {
+      "cite": "ADR 110/00 (new model vehicles from 1 Nov 2024; all vehicles from 1 Nov 2026)",
+      "records": [
+        "au-f2023l01530"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "1. 1 November 2024 for all new model vehicles. | 2. 1 November 2026 for all vehicles.",
+    "evidence_url": "regulations/au-f2023l01530.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F101",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.AU",
+    "patch_value": {
+      "cite": "ADR 110/00 (new model vehicles from 1 Nov 2024; all vehicles from 1 Nov 2026)",
+      "records": [
+        "au-f2023l01530"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "isofix",
+    "field": "cells.UN.cite",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN R145 (ISOFIX / i-Size anchorages); UN R14",
+    "proposed": "UN R145 (ISOFIX / i-Size anchorages); legacy UN R14 ISOFIX provisions in earlier series",
+    "evidence": "Current linked UN R14 body is the 09 series and its instrument heading is \"Uniform provisions concerning the approval of vehicles with regard to safety-belt anchorages\"; its scope and technical clauses do not regulate ISOFIX. ADR 34/03 clause 14.2 explicitly deems UN R14 07-series ISOFIX provisions equivalent to its child-anchorage Appendices 1 and 2. The crosswalk should identify that earlier-series context rather than imply the linked 09-series body contains ISOFIX requirements.",
+    "evidence_url": "regulations/ece-r14.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-02",
+    "kind": "crosswalk",
+    "finding_id": "F102",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.UN.cite",
+    "patch_value": "UN R145 (ISOFIX / i-Size anchorages); legacy UN R14 ISOFIX provisions in earlier series",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "mac-refrigerant",
+    "field": "cells.EU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "MAC Directive 2006/40/EC (GWP < 150); F-gas Reg. (EU) 2024/573",
+      "records": [
+        "eu-32006l0040",
+        "eu-32024r0573"
+      ]
+    },
+    "proposed": {
+      "cite": "MAC Directive 2006/40/EC (prohibits GWP >150 for new types from 2011 and new vehicles from 2017); F-gas Reg. (EU) 2024/573",
+      "records": [
+        "eu-32006l0040",
+        "eu-32024r0573"
+      ]
+    },
+    "evidence": "4.   With effect from 1 January 2011 Member States shall no longer grant EC type-approval or national type-approval for a type of vehicle fitted with an air conditioning system designed to contain fluorinated greenhouse gases with a global warming potential higher than 150.",
+    "evidence_url": "regulations/eu-32006l0040.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F103",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.EU",
+    "patch_value": {
+      "cite": "MAC Directive 2006/40/EC (prohibits GWP >150 for new types from 2011 and new vehicles from 2017); F-gas Reg. (EU) 2024/573",
+      "records": [
+        "eu-32006l0040",
+        "eu-32024r0573"
+      ]
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "reess",
+    "field": "cells.AU",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": {
+      "cite": "ADR 109/01",
+      "records": [
+        "au-f2023l01526"
+      ]
+    },
+    "proposed": {
+      "cite": "ADR 109/01 (new model vehicles from 1 Nov 2025; all vehicles from 1 Nov 2028)",
+      "records": [
+        "au-f2023l01526"
+      ],
+      "status": "phase-in"
+    },
+    "evidence": "1. 1 November 2025 for all new model vehicles. | 2. 1 November 2028 for all vehicles.",
+    "evidence_url": "regulations/au-f2023l01526.md",
+    "confidence": 0.99,
+    "shard": "r20261006-cw-topics-04",
+    "kind": "crosswalk",
+    "finding_id": "F104",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "cells.AU",
+    "patch_value": {
+      "cite": "ADR 109/01 (new model vehicles from 1 Nov 2025; all vehicles from 1 Nov 2028)",
+      "records": [
+        "au-f2023l01526"
+      ],
+      "status": "phase-in"
+    },
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "CSMS",
+    "field": "definition",
+    "verdict": "questionable",
+    "severity": "medium",
+    "current": "Organisation-level process certificate required by UN R155 before a vehicle type can be approved for cybersecurity. Based on ISO/SAE 21434 practices.",
+    "proposed": "Organisation-level process certificate required by UN R155 before a vehicle type can be approved for cybersecurity. The CSMS defines organisational processes, responsibilities and governance to assess and treat vehicle cyber risks.",
+    "evidence": "UN R155 paragraph 2.3: \"Cyber Security Management System (CSMS)\" means a systematic risk-based approach defining organisational processes, responsibilities and governance to treat risk associated with cyber threats to vehicles and protect them from cyber-attacks. Paragraph 7.2.1: For the assessment the Approval Authority or its Technical Service shall verify that the vehicle manufacturer has a Cyber Security Management System in place and shall verify its compliance with this Regulation. The instrument does not prescribe ISO/SAE 21434 as the basis of its CSMS requirements.",
+    "evidence_url": "regulations/ece-r155.md",
+    "confidence": 0.88,
+    "shard": "r20261006-glossary-01",
+    "kind": "glossary",
+    "finding_id": "F105",
+    "decision": "modified",
+    "disposition": "apply",
+    "patch_field": "definition",
+    "patch_value": "A systematic risk-based approach defining organisational processes, responsibilities and governance to treat vehicle cyber risks and protect vehicles from cyber-attacks. UN R155 requires the manufacturer to hold a valid Certificate of Compliance for its CSMS for vehicle-type cybersecurity approval.",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "UN R155 defines CSMS as a system/approach, rather than the certificate itself. Remove the unsupported ISO/SAE basis claim while keeping the distinct certificate requirement."
+  },
+  {
+    "id": "CA",
+    "field": "language",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "English AND French for labels, owner's manual safety content, and recall notices",
+    "proposed": "English and French as specified by each provision. MVSR s.110 requires bilingual tire information; s.114 permits accompanying immobilizer operating and maintenance information in English, French or both, as requested by the first retail purchaser. Check the applicable owner-information and recall-notice provisions.",
+    "evidence": "MVSR110(2): specified information may appear \"in both official languages on one vehicle placard\" or \"in each official language on two vehicle placards\". MVSR114(5) requires operating/maintenance instructions and warning; 114(6): \"The information shall be provided in English, French or both official languages, as requested by the first retail purchaser of the vehicle.\" Current profile's English AND French claim for all owner-manual safety content conflicts with this express choice.",
+    "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s114.md",
+    "confidence": 0.97,
+    "shard": "r20261006-mk-americas-01",
+    "kind": "markets",
+    "finding_id": "F106",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "language",
+    "patch_value": "English and French as specified by each provision. MVSR s.110 requires bilingual tire information; s.114 permits accompanying immobilizer operating and maintenance information in English, French or both, as requested by the first retail purchaser. Check the applicable owner-information and recall-notice provisions.",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "EU",
+    "field": "process",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Choose approving authority (any member state); appoint technical service; establish initial assessment of the QMS for Conformity of Production (CoP).",
+      "Obtain system/component approvals (EU or UN R) per 2019/2144 Annex I and 2018/858 Annex II; then WVTA.",
+      "Emissions: Euro 6/7 type approval incl. RDE, evaporative, OBD, ISC; CO2 monitoring data and WLTP values on CoC.",
+      "Issue CoC per vehicle; register via national registration using CoC.",
+      "Cybersecurity CSMS certificate (UN R155) and software-update SUMS (UN R156) are prerequisites for vehicle type approval.",
+      "Post-market: notify the approval authority and Commission of serious risks (2018/858 Art. 52); RAPEX/Safety Gate recalls; market-surveillance checks."
+    ],
+    "proposed": [
+      "Choose approving authority (any member state); appoint technical service; establish initial assessment of the QMS for Conformity of Production (CoP).",
+      "Obtain system/component approvals (EU or UN R) per 2019/2144 Annex I and 2018/858 Annex II; then WVTA.",
+      "Emissions: Euro 6/7 type approval incl. RDE, evaporative, OBD, ISC; CO2 monitoring data and WLTP values on CoC.",
+      "Issue CoC per vehicle; register via national registration using CoC.",
+      "Cybersecurity CSMS certificate (UN R155) and software-update SUMS (UN R156) are prerequisites for vehicle type approval.",
+      "Post-market: manufacturers immediately provide approval authorities and market surveillance authorities detailed information on serious risks and measures taken (2018/858 Art. 14(2)); RAPEX/Safety Gate recalls; market-surveillance checks."
+    ],
+    "evidence": "Article 14(2): 2.   Where the vehicle, system, component, separate technical unit, part or equipment presents a serious risk, the manufacturer shall immediately provide to the approval authorities and market surveillance authorities detailed information on the risk and on any measures taken in relation thereto.",
+    "evidence_url": "regulations/eu-32018r0858.md",
+    "confidence": 0.99,
+    "shard": "r20261006-mk-europe-01",
+    "kind": "markets",
+    "finding_id": "F107",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "process",
+    "patch_value": [
+      "Choose approving authority (any member state); appoint technical service; establish initial assessment of the QMS for Conformity of Production (CoP).",
+      "Obtain system/component approvals (EU or UN R) per 2019/2144 Annex I and 2018/858 Annex II; then WVTA.",
+      "Emissions: Euro 6/7 type approval incl. RDE, evaporative, OBD, ISC; CO2 monitoring data and WLTP values on CoC.",
+      "Issue CoC per vehicle; register via national registration using CoC.",
+      "Cybersecurity CSMS certificate (UN R155) and software-update SUMS (UN R156) are prerequisites for vehicle type approval.",
+      "Post-market: manufacturers immediately provide approval authorities and market surveillance authorities detailed information on serious risks and measures taken (2018/858 Art. 14(2)); RAPEX/Safety Gate recalls; market-surveillance checks."
+    ],
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "EU",
+    "field": "emissions",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and all new vehicles from 29 Nov 2027 (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review (Commission proposal COM(2025) 995 of 16 Dec 2025 would lower it to 90 %; still a proposal).",
+    "proposed": "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and new M1/N1 vehicles from 29 Nov 2027 (small-volume M1/N1 manufacturers: 1 Jul 2030) (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review (Commission proposal COM(2025) 995 of 16 Dec 2025 would lower it to 90 %; still a proposal).",
+    "evidence": "Article 21\n\nEntry into force and application\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 29 November 2026 for new types of vehicles of categories M1 and N1 and components, systems and separate technical units intended for vehicles of categories M1 or N1 type-approved under this Regulation and from 29 November 2027 for new vehicles of categories M1 and N1 and components, systems and separate technical units for those vehicles.\n\nIt shall apply from 29 May 2028 for new types of vehicles of categories M2, M3, N2, N3, O3 and O4 and components, systems and separate technical units intended for vehicles of categories M2, M3, N2, N3, O3 or O4 type-approved under this Regulation and from 29 May 2029 for new vehicles of categories M2, M3, N2, N3, O3 and O4 and components, systems and separate technical units for those vehicles.\n\nIt shall apply from 1 July 2028 for new types of C1 class tyres, from 1 April 2030 for new types of C2 class tyres and from 1 April 2032 for new types of C3 class tyres.\n\nIt shall apply from 1 July 2030 for vehicles of categories M1 and N1, constructed by small-volume manufacturers and from 1 July 2031 for vehicles of categories M2, M3, N2 and N3 constructed by small-volume manufacturers.\n\nHowever, Article 11(3) shall apply from 28 May 2024.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.\n\n",
+    "evidence_url": "regulations/eu-32024r1257.md",
+    "confidence": 0.97,
+    "shard": "r20261006-mk-europe-01",
+    "kind": "markets",
+    "finding_id": "F108",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "emissions",
+    "patch_value": "Euro 6e-bis / 6e-bis-FCM for new types; Euro 7 (EU) 2024/1257 applies to new M1/N1 types from 29 Nov 2026 and new M1/N1 vehicles from 29 Nov 2027 (small-volume M1/N1 manufacturers: 1 Jul 2030) (incl. brake particles & battery durability). CO2 fleet targets (EU) 2019/631 — 2025–2027 averaging flexibility adopted 2025; 100 % reduction target for 2035 under review (Commission proposal COM(2025) 995 of 16 Dec 2025 would lower it to 90 %; still a proposal).",
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  },
+  {
+    "id": "US",
+    "field": "process",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Register as a manufacturer: Part 565 VIN-decoder/manufacturer-identifier submission at least 60 days before affixing the first VIN, and Part 566 manufacturer identification within 30 days of beginning manufacture.",
+      "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D).",
+      "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests.",
+      "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce.",
+      "Import: CBP entry with HS-7 declaration (box 2A for conforming vehicles) and EPA Form 3520-1.",
+      "Post-market: defect & noncompliance reports within 5 working days (Part 573), owner notification (Part 577), quarterly Early Warning Reporting (Part 579)."
+    ],
+    "proposed": [
+      "Register as a manufacturer: Part 565 requires manufacturer-identifier information at least 60 days before affixing the first VIN using it; VIN-decoding information is due at least 60 days before offering the first vehicle for sale, or within one week after unavailable vehicle-characteristic information first becomes available. Part 566 manufacturer identification is due within 30 days of beginning manufacture.",
+      "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D).",
+      "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests.",
+      "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce.",
+      "Import: CBP entry with HS-7 declaration (box 2A for conforming vehicles) and EPA Form 3520-1.",
+      "Post-market: defect & noncompliance reports within 5 working days (Part 573), owner notification (Part 577), quarterly Early Warning Reporting (Part 579)."
+    ],
+    "evidence": "49 CFR565.16(b): submit unique identifier \"at least 60 days before affixing the first VIN using the identifier\". 565.16(d): decoding information \"at least 60 days prior to offering for sale the first vehicle ... or ... within one week after that information first becomes available\" if unavailable by that date. 566.6: identification \"not later than 30 days after he begins manufacture\". Current profile collapses identifier and decoder submissions into one affixing-VIN deadline. These are clauses in the referenced instruments' own bodies.",
+    "evidence_url": "regulations/us-cfr-part-565.md",
+    "confidence": 0.99,
+    "shard": "r20261006-mk-americas-01",
+    "kind": "markets",
+    "finding_id": "F109",
+    "decision": "accepted",
+    "disposition": "apply",
+    "patch_field": "process",
+    "patch_value": [
+      "Register as a manufacturer: Part 565 requires manufacturer-identifier information at least 60 days before affixing the first VIN using it; VIN-decoding information is due at least 60 days before offering the first vehicle for sale, or within one week after unavailable vehicle-characteristic information first becomes available. Part 566 manufacturer identification is due within 30 days of beginning manufacture.",
+      "Foreign manufacturers designate a US agent for service of process (49 CFR 551 Subpart D).",
+      "Self-certify to every applicable FMVSS — no government pre-approval; keep a test/engineering file because NHTSA's OVSC runs post-sale compliance tests.",
+      "Obtain EPA (and CARB Executive Order where sold in CA/§177 states) Certificate of Conformity BEFORE introduction into commerce.",
+      "Import: CBP entry with HS-7 declaration (box 2A for conforming vehicles) and EPA Form 3520-1.",
+      "Post-market: defect & noncompliance reports within 5 working days (Part 573), owner notification (Part 577), quarterly Early Warning Reporting (Part 579)."
+    ],
+    "additional_fields": {},
+    "root_checked": true,
+    "reason": "The cited stored clause supports this field correction; legal currency remains externally unverified."
+  }
+]

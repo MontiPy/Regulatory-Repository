@@ -1,0 +1,12 @@
+{
+  "shard": "r20261006-ca-justice_ca-limited-01",
+  "kind": "records",
+  "items": [
+    "ca-mvsr-c-r-c---c--1038-s108-1",
+    "ca-mvsr-c-r-c---c--1038-s1106"
+  ],
+  "review_date": "2026-10-06",
+  "base_commit": "faefa1c5f239f5e2a6bcf28ce54ebd0b0c3c8a92",
+  "body_kind": "limited",
+  "source_api": "justice_ca"
+}

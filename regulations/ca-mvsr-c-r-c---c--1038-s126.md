@@ -23,9 +23,10 @@ region: CA
 source_api: justice_ca
 source_url: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html
 status: in-force
-summary: Passenger cars, multi-purpose passenger vehicles, trucks, and buses with
-  a GVWR of 4,536 kg or less must conform to Technical Standards Document No. 126
-  for Electronic Stability Control Systems for Light Vehicles.
+summary: Passenger cars, multi-purpose passenger vehicles, trucks and buses with GVWR
+  of 4,536 kg or less must meet TSD 126 for electronic stability control, or alternatively
+  Annex 9 of UN Regulation No. 13H before the 01 series of amendments, subject to
+  the Canadian adaptations in subsection (2).
 summary_generated_at: '2026-10-06T00:00:00+00:00'
 summary_hash: 1d84b286b1387b74276a28b8d2339f322a383ad1
 systems:

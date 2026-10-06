@@ -1,0 +1,304 @@
+[
+  {
+    "id": "cn-gb-11551-2014",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# The Protection of the Occupants in the Event of a Frontal Collision for Motor Vehicles\n\n**Regulated Area:** Frontal impact\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nMaintain occupant survival space and manage crash energy in full, offset, or full-width frontal crashes.\n\n## Primary Vehicle Systems and Components\n\nFront rails, bumper beam, crush cans, dash/cowl, pedals, steering column, airbags, belts, seats, sensors, firewall.\n\n## Failure Modes and Symptoms\n\nExcessive HIC/chest/femur loads, excessive pedal or steering intrusion, airbag timing errors, dash intrusion, door jamming after crash.\n\n## Related Regulations\n\nFMVSS/CMVSS 208; UNECE R94/R137; GB 11551 and GB/T 20913; KMVSS Arts. 102/102-3; ADR 69/73; CONTRAN 910; GSO 36/40; Japan Article 18.\n\n## Engineering Considerations\n\nMandatory GB for frontal collision occupant protection; check upcoming revisions and type-approval transition dates.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-11551-2014.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-11551-2014",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R137"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 208; UNECE R94/R137; GB 11551 and GB/T 20913; KMVSS Arts. 102/102-3; ADR 69/73; CONTRAN 910; GSO 36/40; Japan Article 18. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-11551-2014.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-11552",
+    "field": "body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": "# Interior Fittings of Passenger Cars\n\n**Regulated Area:** structure\n\n**Applicability:** BIW, closures, crash structures, pedestrian protection, adhesives, welds, structural parts Retained under broad-scope review so the program team can manually disposition applicability.\n\n\n## Key Compliance Intent\n\nEnsure passenger-vehicle programs identify and satisfy applicable regulatory obligations before launch and during production.\n\n## Primary Vehicle Systems and Components\n\nVehicle systems, components, software, documentation and plant/dealer processes affected by the regulation.\n\n## Failure Modes and Symptoms\n\nNonconforming component, missing documentation, failed validation evidence, inconsistent build configuration, delayed type approval or market release.\n\n## Related Regulations\n\nPossible functional overlap: GB / China GB 24550-2024 - The Protection of Motor Vehicle for Pedestrians in the Event of a Collision\n\n## Engineering Considerations\n\nRegional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.",
+    "proposed": null,
+    "evidence": "Record title: \"The interior fittings of passenger car\". Body applicability: \"BIW, closures, crash structures, pedestrian protection, adhesives, welds, structural parts Retained under broad-scope review so the program team can manually disposition applicability.\" Body Related Regulations: \"Possible functional overlap: GB / China GB 24550-2024 - The Protection of Motor Vehicle for Pedestrians in the Event of a Collision\". The local body is a structure/pedestrian template, not interior-fitting regulation text.",
+    "evidence_url": "regulations/cn-gb-11552.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-11552",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "high",
+    "current": "GB 11552-2009 covers the interior fittings of passenger cars (modified adoption of UN R21): energy absorption and radii of interior surfaces, protrusions, controls, seat backs and power-operated windows and sunroofs.",
+    "proposed": "Reference entry for GB 11552-2009, identified as The interior fittings of passenger car. The repository does not hold the standard text; confirm its scope and requirements through the official source.",
+    "evidence": "The summary asserts \"modified adoption of UN R21\" and specific interior and power-window provisions, while the body contains only the structure/pedestrian template quoted above and no adoption or interior-fitting clauses.",
+    "evidence_url": "regulations/cn-gb-11552.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "cn-gb-11552",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R21"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nPossible functional overlap: GB / China GB 24550-2024 - The Protection of Motor Vehicle for Pedestrians in the Event of a Collision This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-11552.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-11555-2025",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Motor Vehicles - Windshield Demisting and Defrosting Systems\n\n**Regulated Area:** Defrosting and demisting\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nRestore and maintain forward visibility in cold or humid conditions.\n\n## Primary Vehicle Systems and Components\n\nHVAC blower, ducts, windshield outlets, heater core/heat pump, rear defogger grid, sensors, HVAC controls.\n\n## Failure Modes and Symptoms\n\nDefrost/demist nonperformance, persistent fogging or ice, insufficient airflow, blocked vents, delayed visibility recovery.\n\n## Related Regulations\n\nFMVSS/CMVSS 103; GB 11555; ADR 42; CONTRAN 224; SASO 3005; Japan Article 45.\n\n## Engineering Considerations\n\nNew standard; implementation 2026-01-01 per public standard references; verify official final text for program timing.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-11555-2025.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-11562",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Requirements and measurement methods of light-duty vehicles forward visibility for drivers\n\n**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record.",
+    "proposed": null,
+    "evidence": "**Reference stub — this repository does not hold the regulation text.** See the official source linked on this record. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-11562.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-11566",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# External Projections for Passenger Cars\n\n**Regulated Area:** structure\n\n**Applicability:** BIW, closures, crash structures, pedestrian protection, adhesives, welds, structural parts Retained under broad-scope review so the program team can manually disposition applicability.\n\n\n## Key Compliance Intent\n\nEnsure passenger-vehicle programs identify and satisfy applicable regulatory obligations before launch and during production.\n\n## Primary Vehicle Systems and Components\n\nVehicle systems, components, software, documentation and plant/dealer processes affected by the regulation.\n\n## Failure Modes and Symptoms\n\nNonconforming component, missing documentation, failed validation evidence, inconsistent build configuration, delayed type approval or market release.\n\n## Related Regulations\n\nPossible functional overlap: GB / China GB 24550-2024 - The Protection of Motor Vehicle for Pedestrians in the Event of a Collision\n\n## Engineering Considerations\n\nRegional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.",
+    "proposed": null,
+    "evidence": "**Applicability:** BIW, closures, crash structures, pedestrian protection, adhesives, welds, structural parts Retained under broad-scope review so the program team can manually disposition applicability. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-11566.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-13057",
+    "field": "body",
+    "verdict": "wrong",
+    "severity": "high",
+    "current": "# Strength of Passenger Car Seats and Seat Fasteners\n\n**Regulated Area:** Restraints / seats / child protection\n\n**Applicability:** Seats, tracks, anchors, head restraints, recliners, fasteners, trim integration Retained under broad-scope review so the program team can manually disposition applicability.\n\n\n## Key Compliance Intent\n\nKeep occupants and child restraints correctly positioned and restrained during crash and normal driving.\n\n## Primary Vehicle Systems and Components\n\nSeats, head restraints, seat tracks, recliners, belt assemblies, retractors, pretensioners, buckles, anchorages, ISOFIX/LATCH/tether hardware.\n\n## Failure Modes and Symptoms\n\nSeat belt anchorage failure, belt webbing/retractor malfunction, poor belt fit, child restraint mis-installation, seat track release, excessive head excursion.\n\n## Related Regulations\n\nPossible functional overlap: GB / China GB 15083-2019 - Strength Requirement and Test Method of Automobile Seats, Their Anchorages and Any Head Restraints\n\n## Engineering Considerations\n\nRegional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.",
+    "proposed": null,
+    "evidence": "Metadata title: \"Strength of seats and their anchorages of buses\"; body heading: \"# Strength of Passenger Car Seats and Seat Fasteners\"; body ends \"Regional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.\" The retained body conflicts with the current bus title and Bus category.",
+    "evidence_url": "regulations/cn-gb-13057.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "cn-gb-13057",
+    "field": "summary",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "GB 13057-2023 specifies strength requirements and tests for seats and their vehicle anchorages in buses (客车). It applies from 2024-01-01.",
+    "proposed": "Reference entry for GB 13057-2023, identified as Strength of seats and their anchorages of buses. The repository does not hold the standard text; confirm its scope and requirements through the official source.",
+    "evidence": "Current body heading is \"Strength of Passenger Car Seats and Seat Fasteners\" and contains no commencement clause supporting the summary’s 2024-01-01 date. A stub summary must preserve the limitation rather than certify unavailable text.",
+    "evidence_url": "regulations/cn-gb-13057.md",
+    "confidence": 0.99
+  },
+  {
+    "id": "cn-gb-14166-2024",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Safety-belts and Restraint Systems for Occupants of Power-driven Vehicles\n\n**Regulated Area:** Seat belts and anchorages\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nKeep occupants restrained and position them correctly for crash energy management and airbag interaction.\n\n## Primary Vehicle Systems and Components\n\nSeat belts, buckles, retractors, pretensioners, load limiters, lower anchors, D-rings, floor/B-pillar/body reinforcements.\n\n## Failure Modes and Symptoms\n\nAnchorage pull-out, belt webbing rupture, buckle unlatch, excessive spool-out, poor belt fit, belt warning faults.\n\n## Related Regulations\n\nFMVSS/CMVSS 209/210; UNECE R14/R16; GB 14166/14167; KMVSS Arts. 27/103; ADR 4/5; CONTRAN 951; GSO 96/97; Japan Article 22-3.\n\n## Engineering Considerations\n\nUpdated belt/restraint standard; verify implementation from 2025-07-01 and related CRS references.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-14166-2024.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-14166-2024",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R16"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 209/210; UNECE R14/R16; GB 14166/14167; KMVSS Arts. 27/103; ADR 4/5; CONTRAN 951; GSO 96/97; Japan Article 22-3. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-14166-2024.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-14167-2024",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Safety-belt Anchorages and Restraint System Anchorages for Motor Vehicles\n\n**Regulated Area:** Seat belts and anchorages\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nKeep occupants restrained and position them correctly for crash energy management and airbag interaction.\n\n## Primary Vehicle Systems and Components\n\nSeat belts, buckles, retractors, pretensioners, load limiters, lower anchors, D-rings, floor/B-pillar/body reinforcements.\n\n## Failure Modes and Symptoms\n\nAnchorage pull-out, belt webbing rupture, buckle unlatch, excessive spool-out, poor belt fit, belt warning faults.\n\n## Related Regulations\n\nFMVSS/CMVSS 209/210; UNECE R14/R16; GB 14166/14167; KMVSS Arts. 27/103; ADR 4/5; CONTRAN 951; GSO 96/97; Japan Article 22-3.\n\n## Engineering Considerations\n\nUpdated anchorage standard; confirm applicability and load cases for seating package.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-14167-2024.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-14167-2024",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R14"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 209/210; UNECE R14/R16; GB 14166/14167; KMVSS Arts. 27/103; ADR 4/5; CONTRAN 951; GSO 96/97; Japan Article 22-3. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-14167-2024.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-1495-2002",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Limits and Measurement Methods for Noise Emitted by Accelerating Motor Vehicles\n\n**Regulated Area:** Noise and AVAS\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nLimit community noise while ensuring quiet electrified vehicles are detectable by pedestrians.\n\n## Primary Vehicle Systems and Components\n\nEngine, exhaust, intake, tires, body sealing, acoustic covers, AVAS speaker/controller, exterior sound calibration.\n\n## Failure Modes and Symptoms\n\nExcessive exterior noise, missing or too-quiet EV warning sound, wrong AVAS activation, tonal noise nonconformance.\n\n## Related Regulations\n\nFMVSS/CMVSS 141; UNECE R51/R138; ADR 83/113; GB 1495; KMVSS Art. 35; GSO 1624; Japan Articles 30/43-7.\n\n## Engineering Considerations\n\nOlder mandatory noise standard with revision work; verify current noise/EV AVAS requirements for launch.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-1495-2002.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-1495-2002",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R51"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 141; UNECE R51/R138; ADR 83/113; GB 1495; KMVSS Art. 35; GSO 1624; Japan Articles 30/43-7. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-1495-2002.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-15083-2019",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Strength Requirement and Test Method of Automobile Seats, Their Anchorages and Any Head Restraints\n\n**Regulated Area:** Seats and head restraints\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nEnsure seats remain attached and support the occupant and head/neck during normal use and crashes.\n\n## Primary Vehicle Systems and Components\n\nSeat structures, tracks, recliners, head restraints, seatback locks, adjusters, integrated restraints, second-row mechanisms.\n\n## Failure Modes and Symptoms\n\nSeat track release, seatback collapse, head restraint too low or too far back, excessive rearward rotation, occupant ramping.\n\n## Related Regulations\n\nFMVSS/CMVSS 202/207; UNECE R17/R25; GB 15083; KMVSS Arts. 25/26/97/99; ADR 3/22; CONTRAN 951; GSO 1598; Japan Articles 22/22-4.\n\n## Engineering Considerations\n\nMandatory seat/head restraint strength standard.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-15083-2019.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-15083-2019",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R17"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 202/207; UNECE R17/R25; GB 15083; KMVSS Arts. 25/26/97/99; ADR 3/22; CONTRAN 951; GSO 1598; Japan Articles 22/22-4. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-15083-2019.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-15084-2022",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Performance and Installation Requirements of Devices for Indirect Vision of Motor Vehicles\n\n**Regulated Area:** Mirrors and indirect vision\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nProvide required rearward, side, and indirect fields of view for safe driving and maneuvering.\n\n## Primary Vehicle Systems and Components\n\nExterior mirrors, interior mirror, camera-monitor systems, displays, blind-spot view devices, mounts, heaters, software.\n\n## Failure Modes and Symptoms\n\nBlind zone, distorted image, camera display delay, display blanking, mirror detachment, insufficient rear/side visibility.\n\n## Related Regulations\n\nFMVSS/CMVSS 111; UNECE R46; GB 15084; KMVSS Art. 94; ADR 14; CONTRAN 966; Japan Article 44.\n\n## Engineering Considerations\n\nMandatory mirror/camera indirect vision requirements; vehicle display latency and FOV are key for CMS.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-15084-2022.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-15084-2022",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R46"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 111; UNECE R46; GB 15084; KMVSS Art. 94; ADR 14; CONTRAN 966; Japan Article 44. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-15084-2022.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-15085-2013",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Performance Requirements and Test Methods for Windshield Wiping and Washing Systems\n\n**Regulated Area:** Wipers and washers\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nAllow the driver to clear the windshield reliably in rain, dirt, snow, and spray.\n\n## Primary Vehicle Systems and Components\n\nWiper motor/linkage/arms/blades, washer pump, nozzles, reservoir, controls, rain sensor, heated nozzles.\n\n## Failure Modes and Symptoms\n\nReduced driver visibility, insufficient wiped area, streaking, wiper stall, nozzle clog/freeze, washer flow failure.\n\n## Related Regulations\n\nFMVSS/CMVSS 104; GB 15085; KMVSS Art. 109; ADR 42; CONTRAN 224; SASO 3007; Japan Article 45.\n\n## Engineering Considerations\n\nCurrent mandatory standard with revision tracking noted by standards database.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-15085-2013.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-15086-2013",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Motor Vehicles - Door Locks and Door Retention Components\n\n**Regulated Area:** Door locks, hinges, and retention\n\n**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date.\n\n\n## Key Compliance Intent\n\nKeep closures secured in crashes while enabling safe access or egress when required.\n\n## Primary Vehicle Systems and Components\n\nSide door latches, hinges, strikers, handles, hood latch, trunk latch, liftgate, power latch controls, child locks.\n\n## Failure Modes and Symptoms\n\nDoor opening during crash, hood fly-up, trunk entrapment, latch stuck closed, occupant ejection risk, water/dust-induced latch corrosion.\n\n## Related Regulations\n\nFMVSS/CMVSS 206/113/401; UNECE R11; GB 15086; KMVSS Arts. 21/104; ADR 2/29; CONTRAN 885/908; Japan body and closure articles.\n\n## Engineering Considerations\n\nCurrent mandatory door lock/retention standard with revision tracking needed.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to passenger vehicles when the GB standard scope includes M1/passenger cars or road motor vehicles; verify mandatory vs recommended status and implementation date. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-15086-2013.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-15086-2013",
+    "field": "un_equivalent",
+    "verdict": "questionable",
+    "severity": "high",
+    "current": [
+      "UN R11"
+    ],
+    "proposed": [],
+    "evidence": "## Related Regulations\n\nFMVSS/CMVSS 206/113/401; UNECE R11; GB 15086; KMVSS Arts. 21/104; ADR 2/29; CONTRAN 885/908; Japan body and closure articles. This related/possible-overlap list does not contain an adoption, legal-equivalence or alternative-acceptance statement. The record’s own body therefore does not support the stored UN equivalent.",
+    "evidence_url": "regulations/cn-gb-15086-2013.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "cn-gb-15740",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Protection of Motor Vehicles Against Unauthorized Use\n\n**Regulated Area:** Theft prevention / security\n\n**Applicability:** Immobilizer, keys, locks, BCM, steering locks, VIN/marking, alarm suppliers Retained under broad-scope review so the program team can manually disposition applicability.\n\n\n## Key Compliance Intent\n\nPrevent vehicle theft/unauthorized operation and unintended movement when parked.\n\n## Primary Vehicle Systems and Components\n\nKeys/fobs, immobilizer, steering/shift lock, alarm, body control module, gateway, cybersecurity and vehicle authorization logic.\n\n## Failure Modes and Symptoms\n\nImmobilizer bypass, false lock/unlock, rollaway, alarm nuisance or non-function, unauthorized start, key-pairing failure.\n\n## Engineering Considerations\n\nRegional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.",
+    "proposed": null,
+    "evidence": "**Applicability:** Immobilizer, keys, locks, BCM, steering locks, VIN/marking, alarm suppliers Retained under broad-scope review so the program team can manually disposition applicability. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-15740.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-1589",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Limits of Dimensions, Axle Load and Masses\n\n**Regulated Area:** dimensions\n\n**Applicability:** Vehicle/platform engineering, suspension/wheel/tire packages, accessories, upfitters Retained under broad-scope review so the program team can manually disposition applicability.\n\n\n## Key Compliance Intent\n\nEnsure passenger-vehicle programs identify and satisfy applicable regulatory obligations before launch and during production.\n\n## Primary Vehicle Systems and Components\n\nVehicle systems, components, software, documentation and plant/dealer processes affected by the regulation.\n\n## Failure Modes and Symptoms\n\nNonconforming component, missing documentation, failed validation evidence, inconsistent build configuration, delayed type approval or market release.\n\n## Related Regulations\n\nPossible functional overlap: GB / China GB 9743-2024 - Passenger Car Tyres\n\n## Engineering Considerations\n\nRegional passenger/light-vehicle coverage; confirm exact applicability by vehicle category, model year, fuel/propulsion type, and local type-approval route.",
+    "proposed": null,
+    "evidence": "**Applicability:** Vehicle/platform engineering, suspension/wheel/tire packages, accessories, upfitters Retained under broad-scope review so the program team can manually disposition applicability. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-1589.md",
+    "confidence": 1.0
+  },
+  {
+    "id": "cn-gb-16735-2019",
+    "field": "body",
+    "verdict": "unverifiable",
+    "severity": "medium",
+    "current": "# Road Vehicle - Vehicle Identification Number (VIN)\n\n**Regulated Area:** Certification / traceability / recall readiness\n\n**Applicability:** Applies to road vehicles in China, including passenger vehicles, for VIN content and identification requirements.\n\n\n## Key Compliance Intent\n\nStandardize VIN identification for registration, traceability, recalls and enforcement.\n\n## Primary Vehicle Systems and Components\n\nVIN marking, vehicle identification plate, body/frame marking, ECU/build records, recall population database.\n\n## Failure Modes and Symptoms\n\nDuplicate VIN; invalid VIN structure; marking unreadable; VIN mismatch between vehicle and documents; recall or registration population error.\n\n## Related Regulations\n\n49 CFR Part 565; ISO 3779/3780; CMVSS/MVSR VIN; ADR/RAV VIN; Japan/Korea VIN requirements.\n\n## Engineering Considerations\n\nAdded because passenger-vehicle traceability standards belong in the revised scope.",
+    "proposed": null,
+    "evidence": "**Applicability:** Applies to road vehicles in China, including passenger vehicles, for VIN content and identification requirements. Current body is a summary/template/reference stub, with no GB regulatory clauses.",
+    "evidence_url": "regulations/cn-gb-16735-2019.md",
+    "confidence": 1.0
+  }
+]

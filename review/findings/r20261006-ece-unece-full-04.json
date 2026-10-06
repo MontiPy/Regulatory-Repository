@@ -1,0 +1,81 @@
+[
+  {
+    "id": "ece-r83",
+    "field": "title",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": "UN Regulation No. 83 — Emissions from M1 and N1 Category Vehicles (Euro 5/6)",
+    "proposed": "UN Regulation No. 83 — Emissions from M1 and N1 Category Vehicles",
+    "evidence": "Current body incorporates the 09 series. Clause 4.2.2: \"The first extension of the Approval numbered 0123, issued by the United Kingdom to Series of Amendments 09, Supplement 01, which is an Approval according to emission standard ‘Euro 7A’.\" Scope includes brake emissions, battery durability and on-board monitoring. The current Euro 5/6 title qualifier misidentifies this body’s content.",
+    "evidence_url": "regulations/ece-r83.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ece-r83",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck"
+    ],
+    "evidence": "Clause 1.1: \"At the request of the manufacturer, for vehicles of category N2 between 3.5 and 5 tonnes maximum mass originating from a type of vehicle of category N1, the approval authority may grant an emission type-approval if the vehicle meets the requirements for a type of vehicle of category N1.\" Current filters omit this expressly permitted N2 scope.",
+    "evidence_url": "regulations/ece-r83.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ece-r87",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus",
+      "Trailer",
+      "Off-road"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus",
+      "Off-road"
+    ],
+    "evidence": "Scope: \"This Regulation applies to daytime running lamps for vehicles of category L, M, N and T.\" O trailers are excluded from this list. UN T is an agricultural/forestry tractor category, not trailer; remove unsupported Trailer tag while holding ambiguous Off-road mapping for a human.",
+    "evidence_url": "regulations/ece-r87.md",
+    "confidence": 0.98
+  },
+  {
+    "id": "ece-r99",
+    "field": "vehicle_categories",
+    "verdict": "wrong",
+    "severity": "medium",
+    "current": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus",
+      "Trailer"
+    ],
+    "proposed": [
+      "Passenger car",
+      "Light truck",
+      "Heavy truck",
+      "Motorcycle",
+      "Bus"
+    ],
+    "evidence": "Clause 1: \"This Regulation applies to gas-discharge light sources shown in Annex 1 to this Regulation and intended for use in approved lamps of power-driven vehicles.\" A trailer is not a power-driven vehicle; the current Trailer filter overstates the stated scope.",
+    "evidence_url": "regulations/ece-r99.md",
+    "confidence": 0.98
+  }
+]

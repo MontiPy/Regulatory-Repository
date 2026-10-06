@@ -28,6 +28,8 @@ summary_hash: 577e663d1ebfce9acad82f06bfba7e466ab2d9ed
 systems:
 - Restraints
 - Crashworthiness
+- Noise
+- Event & data recording
 tagged_at: '2026-06-16T15:44:37+00:00'
 tagging_status: llm-tagged
 title: PART 585—PHASE-IN REPORTING REQUIREMENTS

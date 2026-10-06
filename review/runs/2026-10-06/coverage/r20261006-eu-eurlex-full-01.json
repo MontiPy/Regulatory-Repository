@@ -1,0 +1,284 @@
+{
+  "reviewed": [
+    "eu-32000l0053",
+    "eu-32006l0040",
+    "eu-32006l0066",
+    "eu-32007r0715",
+    "eu-32009r0078",
+    "eu-32009r0661",
+    "eu-32014l0053",
+    "eu-32014r0540",
+    "eu-32018r0858",
+    "eu-32018r0985",
+    "eu-32019r0631",
+    "eu-32019r2144",
+    "eu-32021r0535",
+    "eu-32021r0646",
+    "eu-32021r1341",
+    "eu-32021r1958",
+    "eu-32022r0545",
+    "eu-32022r1426",
+    "eu-32023r1542",
+    "eu-32023r2590",
+    "eu-32024r0573",
+    "eu-32024r1257"
+  ],
+  "skipped": [
+    {
+      "id": "eu-32021r0535",
+      "field": "un_equivalent",
+      "reason": "Definition/test-method references are not sufficient alone, but Articles 1-4 also provide UN-regulation-based approval procedures; retain pending human decision on scope of partial adoption."
+    },
+    {
+      "id": "eu-32000l0053",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32000l0053",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32006l0040",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32006l0040",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32006l0066",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32006l0066",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32007r0715",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32007r0715",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32009r0078",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32009r0078",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32009r0661",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32009r0661",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32014l0053",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32014l0053",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32014r0540",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32014r0540",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32018r0858",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32018r0858",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32018r0985",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32018r0985",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32019r0631",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32019r0631",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32019r2144",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32019r2144",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32021r0535",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32021r0535",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32021r0646",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32021r0646",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32021r1341",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32021r1341",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32021r1958",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32021r1958",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32022r0545",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32022r0545",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32022r1426",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32022r1426",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32023r1542",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32023r1542",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32023r2590",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32023r2590",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32024r0573",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32024r0573",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    },
+    {
+      "id": "eu-32024r1257",
+      "field": "source_url",
+      "reason": "Official URL syntax and instrument identifier match were checked. Shared curl -sIL audit returned proxy policy 403; live availability was not verified."
+    },
+    {
+      "id": "eu-32024r1257",
+      "field": "status",
+      "reason": "Body dates/repeal clauses reviewed, but current consolidation, intervening amendments and present legal status cannot be confirmed while official sources are blocked."
+    }
+  ],
+  "already_fixed": [
+    {
+      "id": "eu-32006l0066",
+      "field": "status",
+      "reason": "Current record already says superseded with Article 95 repeal date supported by eu-32023r1542 body."
+    },
+    {
+      "id": "eu-32009r0078",
+      "field": "status",
+      "reason": "Already superseded."
+    },
+    {
+      "id": "eu-32009r0661",
+      "field": "status",
+      "reason": "Already superseded."
+    },
+    {
+      "id": "eu-32024r1257",
+      "field": "status",
+      "reason": "Already upcoming with November 2026 application date."
+    },
+    {
+      "id": "eu-32022r0545",
+      "field": "un_equivalent",
+      "reason": "Both R160 (Article 2) and R155 (Article 3) are expressly adopted; retained."
+    }
+  ],
+  "notes": [
+    "All 22 full bodies were checked through their own title, subject/scope, application/repeal clauses and relevant UN reference clauses. Existing summary updates were not re-reported. All proposed dates distinguish adoption/signature from legal application or entry into force. General product instruments can correctly have no vehicle categories. The 2021/535 UN-equivalent list contains several definition and test-method references; exact list correction was skipped because its overarching UN approval provisions make partial-adoption interpretation material. No new UN equivalent was proposed.",
+    "Where both entry into force and general application are given, effective_date proposals use the general application date. This is a repository convention choice: the current adoption date is neither, but entry-into-force dates are also legally valid dates and the orchestrator should adjudicate the convention. For 2006/40/EC and 2014/53/EU the proposed date is when Member States apply transposing measures, rather than EU-level directive entry into force."
+  ]
+}

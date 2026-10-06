@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "us-47cfr-part-15",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-47.xml?part=15",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 15\u2014RADIO FREQUENCY DEVICES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-523",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=523",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 523\u2014VEHICLE CLASSIFICATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-525",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=525",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 525\u2014EXEMPTIONS FROM AVERAGE FUEL ECONOMY STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-526",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=526",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 526\u2014PETITIONS AND PLANS FOR RELIEF UNDER THE AUTOMOBILE FUEL EFFICIENCY ACT OF 1980",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-529",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=529",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 529\u2014MANUFACTURERS OF MULTISTAGE AUTOMOBILES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-531",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=531",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 531\u2014PASSENGER AUTOMOBILE AVERAGE FUEL ECONOMY STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-533",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=533",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 533\u2014LIGHT TRUCK FUEL ECONOMY STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-534",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=534",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 534\u2014RIGHTS AND RESPONSIBILITIES OF MANUFACTURERS IN THE CONTEXT OF CHANGES IN CORPORATE RELATIONSHIPS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-536",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=536",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 536\u2014TRANSFER AND TRADING OF FUEL ECONOMY CREDITS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-537",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=537",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 537\u2014AUTOMOTIVE FUEL ECONOMY REPORTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-538",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=538",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 538\u2014MANUFACTURING INCENTIVES FOR ALTERNATIVE FUEL VEHICLES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-541",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=541",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 541\u2014FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-542",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=542",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 542\u2014PROCEDURES FOR SELECTING LIGHT DUTY TRUCK LINES TO BE COVERED BY THE THEFT PREVENTION STANDARD",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-543",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=543",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 543\u2014EXEMPTION FROM VEHICLE THEFT PREVENTION STANDARD",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-545",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=545",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 545\u2014FEDERAL MOTOR VEHICLE THEFT PREVENTION STANDARD PHASE-IN AND SMALL-VOLUME LINE REPORTING REQUIREMENTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-551",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=551",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 551\u2014PROCEDURAL RULES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-554",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=554",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 554\u2014STANDARDS ENFORCEMENT AND DEFECTS INVESTIGATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-555",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=555",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 555\u2014TEMPORARY EXEMPTION FROM MOTOR VEHICLE SAFETY AND BUMPER STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-556",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=556",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 556\u2014EXEMPTION FOR INCONSEQUENTIAL DEFECT OR NONCOMPLIANCE",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-557",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=557",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 557\u2014PETITIONS FOR HEARINGS ON NOTIFICATION AND REMEDY OF DEFECTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-561",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=561",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 561\u2014DOCUMENTATION FOR ELECTRIC-POWERED VEHICLES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-563",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=563",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 563\u2014EVENT DATA RECORDERS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-564",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=564",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 564\u2014REPLACEABLE LIGHT SOURCE AND SEALED BEAM HEADLAMP INFORMATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-565",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=565",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 565\u2014VEHICLE IDENTIFICATION NUMBER (VIN) REQUIREMENTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-566",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=566",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 566\u2014MANUFACTURER IDENTIFICATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-567",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=567",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 567\u2014CERTIFICATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-568",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=568",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 568\u2014VEHICLES MANUFACTURED IN TWO OR MORE STAGES\u2014ALL INCOMPLETE, INTERMEDIATE AND FINAL-STAGE MANUFACTURERS OF VEHICLES MANUFACTURED IN TWO OR MORE STAGES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-569",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=569",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 569\u2014REGROOVED TIRES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-570",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=570",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 570\u2014VEHICLE IN USE INSPECTION STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-101",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.101",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.101 Standard No. 101; Controls and displays.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-102",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.102",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.102 Standard No. 102; Transmission shift position sequence, starter interlock, and transmission braking effect.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-103",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.103",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.103 Standard No. 103; Windshield defrosting and defogging systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-104",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.104",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.104 Standard No. 104; Windshield wiping and washing systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-105",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.105",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.105 Standard No. 105; Hydraulic and electric brake systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-106",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.106",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.106 Standard No. 106; Brake hoses.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-108",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.108",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.108 Standard No. 108; Lamps, reflective devices, and associated equipment.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-109",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.109",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.109 Standard No. 109; New pneumatic tires for vehicles manufactured from 1949 to 1975, bias ply tires, and T-type spare tires.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-110",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.110",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.110 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-111",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.111",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.111 Standard No. 111; Rear visibility.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-113",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.113",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.113 Standard No. 113; Hood latch system.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-114",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.114",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.114 Standard No. 114; Theft protection and rollaway prevention.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-116",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.116",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.116 Standard No. 116; Motor vehicle brake fluids.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-117",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.117",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.117 Standard No. 117; Retreaded pneumatic tires.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-118",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.118",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.118 Standard No. 118; Power-operated window, partition, and roof panel systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-119",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.119",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds), specialty tires, and tires for motorcycles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-120",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.120",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.120 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds).",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-121",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.121",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.121 Standard No. 121; Air brake systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-122",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.122",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.122 Standard No. 122; Motorcycle brake systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-122a",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.122a",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.122a Standard No. 122; Motorcycle brake systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-123",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.123",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.123 Standard No. 123; Motorcycle controls and displays.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-124",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.124",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.124 Standard No. 124; Accelerator control systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-125",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.125",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.125 Standard No. 125; Warning devices.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-126",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.126",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.126 Standard No. 126; Electronic stability control systems for light vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-127",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.127",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.127 Standard No. 127; Automatic emergency braking systems for light vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-129",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.129",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.129 Standard No. 129; New non-pneumatic tires for passenger cars.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-131",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.131",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.131 Standard No. 131; School bus pedestrian safety devices.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-135",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.135",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.135 Standard No. 135; Light vehicle brake systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-136",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.136",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.136 Standard No. 136; Electronic stability control systems for heavy vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-138",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.138",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.138 Standard No. 138; Tire pressure monitoring systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-139",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.139",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.139 Standard No. 139; New pneumatic radial tires for light vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-141",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.141",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric Vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-201",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.201",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.201 Standard No. 201; Occupant protection in interior impact.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-202",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.202",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.202 Standard No. 202; Head restraints; Applicable at the manufacturers option until September 1, 2009.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-202a",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.202a",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.202a Standard No. 202a; Head restraints; Mandatory applicability begins on September 1, 2009.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-203",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.203",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.203 Standard No. 203; Impact protection for the driver from the steering control system.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-204",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.204",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.204 Standard No. 204; Steering control rearward displacement.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-205",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.205",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.205 Standard No. 205, Glazing materials.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-206",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.206",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.206 Standard No. 206; Door locks and door retention components.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-207",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.207",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.207 Standard No. 207; Seating systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-208",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.208",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.208 Standard No. 208; Occupant crash protection.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-209",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.209",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.209 Standard No. 209; Seat belt assemblies.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-210",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.210",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.210 Standard No. 210; Seat belt assembly anchorages.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-212",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.212",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.212 Standard No. 212; Windshield mounting.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-213",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.213",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.213 Child restraint systems; Applicable unless a vehicle or child restraint system is certified to \u00a7 571.213b.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-213a",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.213a",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.213a Standard No. 213a; Child restraint systems\u2014side impact protection.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-213b",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.213b",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.213b Standard No. 213b; Child restraint systems; Mandatory applicability beginning December 5, 2026.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-214",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.214",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.214 Standard No. 214; Side impact protection.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-216",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.216",
+    "as_of": "2026-10-01",
+    "retrieval": "http_error",
+    "body_comparison": "unverified"
+  },
+  {
+    "id": "us-fmvss-216a",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.216a",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.216a Standard No. 216a; Roof crush resistance; Upgraded standard.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-217",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.217",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.217 Standard No. 217; Bus emergency exits and window retention and release.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-217a",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.217a",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.217a Standard No. 217a; Anti-ejection glazing for bus portals; Mandatory applicability beginning October 30, 2027.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-218",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.218",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.218 Standard No. 218; Motorcycle helmets.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-219",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.219",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.219 Standard No. 219; Windshield zone intrusion.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-220",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.220",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.220 Standard No. 220; School bus rollover protection.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-221",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.221",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.221 Standard No. 221; School bus body joint strength.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-222",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.222",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.222 Standard No. 222; School bus passenger seating and crash protection.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-223",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.223",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.223 Standard No. 223; Rear impact guards.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-224",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.224",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.224 Standard No. 224; Rear impact protection.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-225",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.225",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.225 Standard No. 225; Child restraint anchorage systems.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-226",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.226",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.226 Standard No. 226; Ejection Mitigation.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-227",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.227",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.227 Standard No. 227; Bus rollover structural integrity.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-301",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.301",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.301 Standard No. 301; Fuel system integrity.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-302",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.302",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.302 Standard No. 302; Flammability of interior materials.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-303",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.303",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.303 Standard No. 303; Fuel system integrity of compressed natural gas vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-304",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.304",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.304 Standard No. 304; Compressed natural gas fuel container integrity.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-305",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.305",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.305 Standard No. 305; electric-powered vehicles: electrolyte spillage and electrical shock protection; applicable unless a vehicle is certified to \u00a7 571.305a.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-305a",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.305a",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.305a Standard No. 305a; electric-powered vehicles: Electric powertrain integrity; mandatory applicability begins on September 1, 2027.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-307",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.307",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.307 Standard No. 307; Fuel system integrity of hydrogen vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-308",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.308",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.308 Standard No. 308; Compressed hydrogen storage system integrity.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-401",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.401",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.401 Standard No. 401; Interior trunk release.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-403",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.403",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.403 Standard No. 403; Platform lift systems for motor vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-404",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.404",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.404 Standard No. 404; Platform lift installations in motor vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-fmvss-500",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=571&section=571.500",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 571.500 Standard No. 500; Low-speed vehicles.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-572",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=572",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 572\u2014ANTHROPOMORPHIC TEST DEVICES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-573",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=573",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 573\u2014DEFECT AND NONCOMPLIANCE RESPONSIBILITY AND REPORTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-574",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=574",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 574\u2014TIRE IDENTIFICATION AND RECORDKEEPING",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr575-104",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=575&section=575.104",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 575.104 Uniform tire quality grading standards.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr575-105",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=575&section=575.105",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 575.105 Vehicle rollover.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr575-106",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=575&section=575.106",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 575.106 Tire fuel efficiency consumer information program.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr575-301",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=575&section=575.301",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 575.301 Vehicle labeling of safety rating information (applicable unless a vehicle is subject to \u00a7 575.302).",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr575-302",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=575&section=575.302",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 575.302 Vehicle labeling of safety rating information (compliance required for model year 2012 and later vehicles manufactured on or after January 31, 2012).",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr575-401",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=575&section=575.401",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "\u00a7 575.401 Vehicle labeling of fuel economy, greenhouse gas, and other pollutant emissions information.",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-576",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=576",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 576\u2014RECORD RETENTION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-577",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=577",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 577\u2014DEFECT AND NONCOMPLIANCE NOTIFICATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-578",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=578",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 578\u2014CIVIL AND CRIMINAL PENALTIES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-579",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=579",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 579\u2014REPORTING OF INFORMATION AND COMMUNICATIONS ABOUT POTENTIAL DEFECTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-580",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=580",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 580\u2014ODOMETER DISCLOSURE REQUIREMENTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-581",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=581",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 581\u2014BUMPER STANDARD",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-582",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=582",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 582\u2014INSURANCE COST INFORMATION REGULATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-583",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=583",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 583\u2014AUTOMOBILE PARTS CONTENT LABELING",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-585",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=585",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 585\u2014PHASE-IN REPORTING REQUIREMENTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-586",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=586",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 586\u2014REPLICA MOTOR VEHICLES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-587",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=587",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 587\u2014DEFORMABLE BARRIERS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-588",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=588",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 588\u2014CHILD RESTRAINT SYSTEMS RECORDKEEPING REQUIREMENTS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-591",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=591",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 591\u2014IMPORTATION OF VEHICLES AND EQUIPMENT SUBJECT TO FEDERAL SAFETY, BUMPER AND THEFT PREVENTION STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-592",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=592",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 592\u2014REGISTERED IMPORTERS OF VEHICLES NOT ORIGINALLY MANUFACTURED TO CONFORM TO THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-593",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=593",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 593\u2014DETERMINATIONS THAT A VEHICLE NOT ORIGINALLY MANUFACTURED TO CONFORM TO THE FEDERAL MOTOR VEHICLE SAFETY STANDARDS IS ELIGIBLE FOR IMPORTATION",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-594",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=594",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 594\u2014SCHEDULE OF FEES AUTHORIZED BY 49 U.S.C. 30141",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-595",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=595",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 595\u2014MAKE INOPERATIVE EXEMPTIONS",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-cfr-part-596",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-49.xml?part=596",
+    "as_of": "2026-10-01",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 596\u2014AUTOMATIC EMERGENCY BRAKING TEST DEVICES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-40cfr-part-1066",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-02/title-40.xml?part=1066",
+    "as_of": "2026-10-02",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 1066\u2014VEHICLE-TESTING PROCEDURES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-40cfr-part-600",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-02/title-40.xml?part=600",
+    "as_of": "2026-10-02",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 600\u2014FUEL ECONOMY AND GREENHOUSE GAS EXHAUST EMISSIONS OF MOTOR VEHICLES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-40cfr-part-82",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-02/title-40.xml?part=82",
+    "as_of": "2026-10-02",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 82\u2014PROTECTION OF STRATOSPHERIC OZONE",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-40cfr-part-85",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-02/title-40.xml?part=85",
+    "as_of": "2026-10-02",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 85\u2014CONTROL OF AIR POLLUTION FROM MOBILE SOURCES",
+    "body_comparison": "matches_current_extraction"
+  },
+  {
+    "id": "us-40cfr-part-86",
+    "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-02/title-40.xml?part=86",
+    "as_of": "2026-10-02",
+    "retrieval": "response_retrieved",
+    "official_title": "PART 86\u2014CONTROL OF EMISSIONS FROM NEW AND IN-USE HIGHWAY VEHICLES AND ENGINES",
+    "body_comparison": "matches_current_extraction"
+  }
+]
