@@ -1,0 +1,182 @@
+{
+ "shard": "cw-07",
+ "reviewed": [
+  "exterior-noise",
+  "mac-refrigerant",
+  "end-of-life",
+  "emc",
+  "radio-equipment",
+  "cybersecurity",
+  "software-updates",
+  "ecall",
+  "anti-theft"
+ ],
+ "findings": [
+  {
+   "id": "anti-theft",
+   "field": "cells.UN.records / cells.EU.records (ece-r161)",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "ece-r161 linked as UN R161 (unauthorized use), but record is titled 'UN Regulation No. 161 — Pedal Misapplication Mitigation Systems' with pedal/ADAS tags",
+   "proposed": "Keep cite 'UN R161 (unauthorized use)' but fix record ece-r161 title/summary/systems/tags to 'Protection of motor vehicles against unauthorized use (locking systems)'. Pedal-error regulation is UN R175 (ACPE).",
+   "evidence": "Repo: regulations/ece-r161.md title 'Pedal Misapplication Mitigation Systems'. WebSearch: 'UN Regulation No 161 - EUR-Lex' (CELEX 42021X2274) concerns 'protection of motor vehicles against unauthorized use ... (by means of a locking system)'; 'UN Regulations 161, 162 and 163 were published in 2021 ... 161 devices against unauthorized use, 162 immobilizers, 163 alarm systems'; ACPE is 'UN Regulation No. 175 ... came into force on May 12, 2025'.",
+   "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:42021X2274 ; https://www.atic-ts.com/european-un-r175-01-series-acceleration-control-for-pedal-erroracpe-2/",
+   "confidence": "high"
+  },
+  {
+   "id": "end-of-life",
+   "field": "cells.EU.cite / cells.EU.records (eu-32006l0066)",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "'Battery Dir./Reg.' linked to Directive 2006/66/EC (record status in-force); no record for the Battery Regulation",
+   "proposed": "Cite Regulation (EU) 2023/1542 (Battery Regulation); mark eu-32006l0066 as repealed (with effect from 18 Aug 2025, limited transitional provisions) and add a record for 2023/1542",
+   "evidence": "'Directive 2006/66/EC is repealed with effect from 18 August 2025' by Regulation (EU) 2023/1542 (EUR-Lex consolidated 02023R1542-20250731). Repo record eu-32006l0066 has status in-force.",
+   "evidence_url": "https://eur-lex.europa.eu/eli/reg/2023/1542/2025-07-31/eng",
+   "confidence": "high"
+  },
+  {
+   "id": "end-of-life",
+   "field": "cells.EU.records (eu-32006r1907)",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "REACH cell links record eu-32006r1907 whose title is '32006R1907' and whose body is an EUR-Lex error page",
+   "proposed": "Re-pull REACH text (Regulation (EC) No 1907/2006 on registration, evaluation, authorisation and restriction of chemicals) and set title accordingly; until then the link does not cover REACH",
+   "evidence": "Repo body: 'The requested document does not exist.'; summary: 'text contains no substantive regulatory content'.",
+   "evidence_url": "regulations/eu-32006r1907.md",
+   "confidence": "high"
+  },
+  {
+   "id": "end-of-life",
+   "field": "cells.CN.records (cn-gb-26572-2025)",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "GB 26572-2025 (EEE hazardous substances) presented as an end-of-life/vehicle restricted-substances citation; record body is copy-pasted from an unrelated fire/fuel/REESS safety template",
+   "proposed": "Add status/note that GB 26572 is China's RoHS-style EEE standard, vehicle applicability unconfirmed; fix record body and un_equivalent_ai (R100/R153 are unrelated to RoHS)",
+   "evidence": "Repo body: 'Prevent fire, explosion, shock and hazardous leakage ... Fuel system, tanks ... HV battery/REESS'; summary: 'applicability to vehicle-level automotive electronic components requires verification'; un_equivalent_ai ['UN R100','UN R153'].",
+   "evidence_url": "regulations/cn-gb-26572-2025.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "emc",
+   "field": "cells.CN.records (cn-gb-34660) / cells.CN.cite",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "cite 'GB 34660 (vehicle EMC)', record cn-gb-34660 (GB 34660-2026, effective 2027-07-01) whose body/summary/tags describe cybersecurity, OTA and EDR, un_equivalent_ai UN R155/R156",
+   "proposed": "Cite 'GB 34660-2017 (in force); GB 34660-2026 replaces it from 1 Jul 2027'. Fix record body/summary/systems (EMC) and un_equivalent_ai to UN R10.",
+   "evidence": "Repo body: 'Ensure electronic systems are resilient to cyber/software risks ... Possible functional overlap: GB 44496-2024'. WebSearch: 'GB 34660-2026, Road Vehicles - Requirements and Test Methods of Electromagnetic Compatibility, published February 27, 2026 ... take effect on July 1, 2027, fully replacing GB 34660-2017.'",
+   "evidence_url": "https://www.china-certification.com/en/china-announces-2026-standards-updates-for-ccc-related-products/",
+   "confidence": "high"
+  },
+  {
+   "id": "cybersecurity",
+   "field": "cells.IN.status",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "AIS-189 status: proposed",
+   "proposed": "Verify; sources describe AIS-189 as applicable to new vehicle types from 1 Oct 2025 and all types from 1 Oct 2028 (likely phase-in rather than proposed). Same check for AIS-190 in software-updates.",
+   "evidence": "WebSearch: 'AIS-189 is effective for new vehicle types from October 1, 2025, and for all vehicle types from October 1, 2028.' (commercial source, not official; unconfirmed by ARAI/MoRTH)",
+   "evidence_url": "https://www.cyeqt.com/en/ais-189-regulation-vehicle-cybersecurity-india-overview/",
+   "confidence": "low"
+  },
+  {
+   "id": "software-updates",
+   "field": "cells.IN.status",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "AIS-190 status: proposed",
+   "proposed": "Verify against MoRTH/ARAI notification status; do not assume 'proposed'",
+   "evidence": "Third-party sources describe AIS-190 as India's derivation of UN R156 with no clear official dates; official notification not located.",
+   "evidence_url": "https://agnile.com/resources/ais-189-190-guide",
+   "confidence": "low"
+  },
+  {
+   "id": "cybersecurity",
+   "field": "cells.KR",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite 'KMVSS cybersecurity provisions (UN R155-based; 2025+)', no records link",
+   "proposed": "Add dates: new types from 14 Aug 2025, all vehicles from 14 Aug 2027 (self-certification); link a KMVSS record",
+   "evidence": "WebSearch: 'new vehicle types must comply from August 14, 2025, and all vehicles from August 14, 2027 ... self-certification' (commercial source).",
+   "evidence_url": "https://www.cyeqt.com/en/un-r155-worldwide-how-countries-regulate-vehicle-cybersecurity-in-2025/",
+   "confidence": "low"
+  },
+  {
+   "id": "mac-refrigerant",
+   "field": "cells.US.cite / cells.US.records",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "'AIM Act HFC phasedown' attributed to the 40 CFR Part 82 record (us-40cfr-part-82)",
+   "proposed": "AIM Act HFC allocation/technology-transition rules are codified in 40 CFR Part 84; add a Part 84 record or drop the AIM Act claim from the Part 82 citation. SNAP (Part 82 Subpart G) for MVAC refrigerants is correct.",
+   "evidence": "Standard knowledge: EPA implementing rules for the AIM Act are 40 CFR Part 84; Part 82 Subpart G is SNAP. Not verified against the repo body (897 KB, not searched for Part 84).",
+   "evidence_url": "regulations/us-40cfr-part-82.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "ecall",
+   "field": "cells.EU.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "EU cell cites (EU) 2015/758 with no records link and no status",
+   "proposed": "Add record for Regulation (EU) 2015/758 (mandatory eCall for new M1/N1 types since 31 Mar 2018) and set status mandatory; no eCall record exists in regulations/",
+   "evidence": "No file matching 2015/758 or r0758 exists in regulations/ (ls grep).",
+   "evidence_url": "regulations/",
+   "confidence": "medium"
+  },
+  {
+   "id": "ecall",
+   "field": "cells.GCC.records (gcc-uae-s-5019-2024)",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "UAE.S 5019:2024 listed under GCC",
+   "proposed": "Label as UAE national (not GSO-wide); record body is a generic template with no regulation text",
+   "evidence": "Repo body: 'National UAE requirement, not general GSO'; sections are generic compliance-intent boilerplate.",
+   "evidence_url": "regulations/gcc-uae-s-5019-2024.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "anti-theft",
+   "field": "cells.CA.records (ca-mvsr-c-r-c---c--1038-s114)",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "record has no title and no status (title None); id 'MVSR C.R.C.,_c._1038 s. 114'",
+   "proposed": "Title 'CMVSS 114 / MVSR s. 114 — Theft protection, rollaway prevention and immobilization system' and set status in-force",
+   "evidence": "Repo frontmatter has no title/status fields; body: 's. 114(4) ... shall be equipped with an immobilization system' (CAN/ULC-S338-98 or UN R97/R116).",
+   "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s114.md",
+   "confidence": "high"
+  },
+  {
+   "id": "radio-equipment",
+   "field": "cells.CA.cite",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "CA cell (and emc CA cell) cites 'ICES-002 (vehicles) / RSS-Gen' linking a radio certification record",
+   "proposed": "radio-equipment: cite ISED RSS-Gen/RSS-xxx certification only; ICES-002 is for unintentional emitters (vehicle EMI) and belongs to the emc topic",
+   "evidence": "ICES-002 covers vehicle/engine-driven device EMI (unintentional); linked record is 'ISED Radio Equipment Certification / RSS-Gen / ICES'.",
+   "evidence_url": "regulations/ca-workbook-reg-0569-ised-radio-equipment-certification-rss-gen-ices.md",
+   "confidence": "low"
+  },
+  {
+   "id": "exterior-noise",
+   "field": "cells.CN.cite",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "GB 1495-2002 (status in-force, effective 2002-10-01)",
+   "proposed": "Check for a current GB 1495 revision (stage 3/4 limits); record body itself says 'Older mandatory noise standard with revision work'",
+   "evidence": "WebSearch snippet claims a 2020 'GB 1495 (China stage 3/4)' replaced GB 1495-2002 but only a 2017 draft was found; unresolved.",
+   "evidence_url": "https://www.mee.gov.cn/gkml/hbb/bgth/201710/W020171019344419394352.pdf",
+   "confidence": "low"
+  },
+  {
+   "id": "exterior-noise",
+   "field": "records data (eu-32014r0540 un_equivalent)",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "eu-32014r0540 un_equivalent ['UN R59','UN R85','UN R117'], un_equivalent_ai ['UN R51']",
+   "proposed": "Regulation (EU) 540/2014 (sound level of motor vehicles) is aligned to UN R51/R138; R59 (replacement silencers) and R85 are not equivalents, R117 is tyre noise only",
+   "evidence": "Crosswalk exterior-noise EU cell maps 540/2014 to UN R51; EU 540/2014 covers sound level and silencing systems (incl. AVAS = R138).",
+   "evidence_url": "regulations/eu-32014r0540.md",
+   "confidence": "medium"
+  }
+ ],
+ "notes": "Many linked records (ECE R-series, GCC, workbook records) are stubs with only a link or generic template text, so 'full text' claims do not hold; several AI un_equivalent_ai values are unrelated (R155/R156 on an EMC record, R100/R153 on RoHS). Crosswalk lacks status for most cells and has no cells for IN/CA/AU/KR in several topics (e.g. KR software updates, IN noise/EMC), not flagged as errors. ece-r161 title error probably propagates to other crosswalk topics and the R161 summary/tags."
+}

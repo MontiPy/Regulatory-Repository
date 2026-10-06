@@ -1,0 +1,84 @@
+{
+ "shard": "cw-02",
+ "reviewed": [
+  "pedestrian",
+  "interior-impact",
+  "steering-impact",
+  "edr",
+  "seat-belts",
+  "belt-anchorages",
+  "seat-belt-reminder",
+  "seats",
+  "head-restraints",
+  "isofix"
+ ],
+ "findings": [
+  {
+   "id": "pedestrian",
+   "field": "cells.IN",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "IN: cite 'AIS-100' with no status (defaults to mandatory)",
+   "proposed": "Add status (voluntary/proposed) with note: AIS-100 Rev.1 (aligned to UN R127 / GTR 9) was still being notified; verify before treating as mandatory",
+   "evidence": "Web result: 'AIS-100 (Rev. 1) is approved by CMVR-TSC and is currently under process of notification, with reference standards being UN R 127 and UN GTR 9 Amendment 2.' AIS-100 (2010) scope aligns to 2003/102/EC phase 1; AIS are industry standards, not themselves mandatory.",
+   "evidence_url": "https://law.resource.org/pub/in/bis/ais/arai.in.ais.100.2010.pdf",
+   "confidence": "medium"
+  },
+  {
+   "id": "pedestrian",
+   "field": "cells.US",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "status: none; cite 'No FMVSS (GTR 9 adoption proposed)'",
+   "proposed": "Keep 'no FMVSS in force' but name the proposal: FMVSS No. 228 pedestrian head protection NPRM (Sept 2024, NHTSA-2024-0057); consider status: proposed",
+   "evidence": "NHTSA NPRM: 'proposes a new FMVSS ... head-to-hood impact ... initiates the process of adopting GTR 9'; FMVSS No. 228 Pedestrian Head Protection.",
+   "evidence_url": "https://www.federalregister.gov/documents/2024/11/20/2024-26985/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9",
+   "confidence": "high"
+  },
+  {
+   "id": "interior-impact",
+   "field": "description",
+   "verdict": "wrong",
+   "severity": "low",
+   "current": "Energy absorption of instrument panel, seat backs, roof lining, power windows.",
+   "proposed": "Remove 'power windows' (covered by FMVSS 118 / UN R21 does not address them); e.g. 'Energy absorption of instrument panel, seat backs, sun visors, armrests, upper interior head impact.'",
+   "evidence": "FMVSS 201 / UN R21 cover interior fittings (instrument panel, seat backs, visors, armrests, upper interior); power-window requirements are FMVSS 118, not 201. Repo title of us-fmvss-201: 'Occupant protection in interior impact'.",
+   "evidence_url": "regulations/us-fmvss-201.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "seat-belts",
+   "field": "cells.CA.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite 'CMVSS 209, 208' but records lists only ca-mvsr-c-r-c---c--1038-s209",
+   "proposed": "Add ca-mvsr-c-r-c---c--1038-s208 to the CA records list",
+   "evidence": "Record regulations/ca-mvsr-c-r-c---c--1038-s208.md exists in the repository; cite names CMVSS 208 but it is not linked.",
+   "evidence_url": "regulations/ca-mvsr-c-r-c---c--1038-s208.md",
+   "confidence": "high"
+  },
+  {
+   "id": "head-restraints",
+   "field": "cells.EU.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "EU: cite 'UN R17 via (EU) 2019/2144', records [ece-r17]",
+   "proposed": "Add UN R25 (ece-r25) to the EU cell, as the UN cell does",
+   "evidence": "Annex II of Regulation (EU) 2019/2144 lists UN Regulation No 25 (Head restraints) alongside UN R17 (search result listing R21, R127, R17, R25, R121).",
+   "evidence_url": "https://www.legislation.gov.uk/eur/2019/2144/annex/II/adopted?view=plain+extent",
+   "confidence": "medium"
+  },
+  {
+   "id": "seat-belt-reminder",
+   "field": "cells.US",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "FMVSS 208 S7.3 (front); rear-seat SBR final rule 2024 (phase-in)",
+   "proposed": "'FMVSS 208 S7.3 (driver + front outboard passenger, compliance 1 Sep 2026 - now in effect) and S7.4 (rear seats, compliance 1 Sep 2027); final rule Dec 2024 / FR 3 Jan 2025'. Front-row part is no longer merely phase-in.",
+   "evidence": "'Manufacturers must comply ... as of September 1, 2026 for the front seat belt warning system requirements and September 1, 2027 for the rear' (NHTSA final rule). Reviewed date of file is 2026-10-04, after the front date.",
+   "evidence_url": "https://www.federalregister.gov/documents/2025/01/03/2024-30340/federal-motor-vehicle-safety-standards-occupant-crash-protection-seat-belt-reminder-systems-controls",
+   "confidence": "high"
+  }
+ ],
+ "notes": "Citations/instruments checked as correct: UN R127/R21/R12/R160/R16/R14/R17/R25/R145 mappings; GB 24550-2024 (mandatory, eff. 2025-01-01), GB 14166/14167-2024 (eff. 2025-07-01), GB 39732-2020 (mandatory EDR), ADR 4/06 and 5/06 current, GSO 97:1988 (GSO 96:1988 is the test-methods standard, no repo record), 2022/545 EDR. Systemic: EU/UN cells are consistently present but several markets are unmapped (e.g. CN head restraints GB 11550 and CN steering GB 11557 has no year/record; JP/CN gaps for belt-anchorages/seat-belt-reminder; CA 'records' lists sometimes omit instruments named in cite). Not verified (no evidence found): Japan R127 adoption wording ('UN R127 (applied)') and Japan Art. 46-2 EDR scope; GB 11557 edition year. Several linked CA records have empty titles (record-level issue, outside this shard)."
+}

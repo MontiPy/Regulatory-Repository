@@ -1,0 +1,172 @@
+{
+ "shard": "cw-01",
+ "reviewed": [
+  "approval-framework",
+  "vin",
+  "certification-label",
+  "recalls",
+  "frontal-full",
+  "frontal-offset",
+  "side-mdb",
+  "side-pole",
+  "rear-impact",
+  "roof-crush"
+ ],
+ "findings": [
+  {
+   "id": "frontal-full",
+   "field": "cells.CN",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "GB 11551-2014 listed as the China full-width rigid barrier standard",
+   "proposed": "Remove GB 11551-2014 from the full-width row (no verified Chinese mandatory full-width rigid-barrier regulation; leave cell empty or mark none/unverified)",
+   "evidence": "GB 11551 is the 40% offset deformable barrier test at 56 km/h (R94-equivalent). Search: 'GB 11551-2014 is a Chinese safety standard that specifies a 40% offset deformable barrier frontal impact test'. Repo record regulations/cn-gb-11551-2014.md has un_equivalent: UN R94 and open_tags 'offset frontal crash'.",
+   "evidence_url": "https://www.codeofchina.com/standard/GB11551-2014.html",
+   "confidence": "medium"
+  },
+  {
+   "id": "frontal-offset",
+   "field": "cells.CN",
+   "verdict": "wrong",
+   "severity": "high",
+   "current": "GB/T 20913-2007 (recommended), status voluntary; 'offset now via C-NCAP; check GB 11551 scope'",
+   "proposed": "GB 11551-2014 (mandatory 40% ODB, R94-equivalent); keep GB/T 20913 only as a secondary voluntary note; drop status: voluntary",
+   "evidence": "GB 11551-2014 specifies the 40% offset deformable barrier frontal test at 56 km/h; repo record cn-gb-11551-2014 maps un_equivalent UN R94. The cell wrongly implies China has no mandatory offset requirement. Note GB 11551-2014/XG1-2026 amendment reportedly supersedes with effect 2027-07-01 (chinesestandard.net listing).",
+   "evidence_url": "https://www.chinesestandard.net/PDF.aspx/GB11551-2014",
+   "confidence": "medium"
+  },
+  {
+   "id": "roof-crush",
+   "field": "cells.CN",
+   "verdict": "wrong",
+   "severity": "medium",
+   "current": "No CN cell (market missing)",
+   "proposed": "Add CN: GB 26134 (roof crush resistance of passenger cars); GB 26134-2010 superseded by GB 26134-2024 (issued 2024-08-23, implemented 2025-07-01); status mandatory",
+   "evidence": "Search result: 'GB 26134-2010 was superseded by GB 26134-2024, which was issued on August 23, 2024 and implemented on July 1, 2025'. No GB 26134 record exists in regulations/, so a record would also need adding.",
+   "evidence_url": "https://www.codeofchina.com/national_overview/GB26134-2024.html?group=T26",
+   "confidence": "medium"
+  },
+  {
+   "id": "rear-impact",
+   "field": "cells.UN.records[ece-r153]",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "records: ece-r153 (record titled 'Fuel System Integrity in a Frontal Collision')",
+   "proposed": "Cell text is right; the linked record ece-r153 is wrong: UN R153 = fuel system integrity and safety of electric power train in the event of a rear-end collision (M1, N1). Fix record title/summary/open_tags (record says 'frontal').",
+   "evidence": "Repo ece-r153 title: 'UN Regulation No. 153 \u2014 Fuel System Integrity in a Frontal Collision'. Official title: 'approval of vehicles with regard to fuel system integrity and safety of electric power train in the event of a rear-end collision'.",
+   "evidence_url": "https://international.vlex.com/vid/united-nations-regulation-no-1045770530",
+   "confidence": "high"
+  },
+  {
+   "id": "rear-impact",
+   "field": "cells.EU.records",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "cite 'UN R34 / R153 via (EU) 2019/2144' but records lists only ece-r153",
+   "proposed": "Add ece-r34 and eu-32019r2144 to records for consistency",
+   "evidence": "Cite names R34 and the EU act, but records omit them (compare side-mdb/frontal-offset EU cells which link eu-32019r2144).",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "medium"
+  },
+  {
+   "id": "certification-label",
+   "field": "cells.CA.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "MVSR s.6 (National Safety Mark) / s.7 (Statement of Compliance)",
+   "proposed": "MVSR s.6 compliance label bearing the National Safety Mark (NSM prescribed in s.3); verify what s.7 covers before citing 'Statement of Compliance'",
+   "evidence": "Search: 'The National Safety Mark is prescribed in section 3 ... section 6 requires manufacturers of completed vehicles ... compliance label displaying ... national safety mark'. s.7 as 'Statement of Compliance' not corroborated.",
+   "evidence_url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html",
+   "confidence": "low"
+  },
+  {
+   "id": "approval-framework",
+   "field": "cells.CA.cite",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "Self-certification \u2014 MVSA; MVSR s.5\u20137",
+   "proposed": "Confirm section references (s.5 safety requirements; s.6 compliance label); 's.5\u20137' not verified",
+   "evidence": "Search shows s.5 = Safety and Emission Requirements, s.6 = compliance label; s.7 not confirmed. Linked record 0358 body is a generic stub.",
+   "evidence_url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1038/FullText.html",
+   "confidence": "low"
+  },
+  {
+   "id": "certification-label",
+   "field": "cells.BR.cite",
+   "verdict": "questionable",
+   "severity": "medium",
+   "current": "CONTRAN safety labeling / ENCE label",
+   "proposed": "Do not present ENCE as a certification/compliance label (ENCE is the Inmetro energy-efficiency label); cite the actual Brazilian label/plate instrument or mark unverified",
+   "evidence": "Linked record br-contran-safety-labeling is a stub: 'The text provided is too sparse to summarize'; body only links atic-ts.com, no mention of ENCE. 'ENCE' is not supported by the record.",
+   "evidence_url": "regulations/br-contran-safety-labeling.md",
+   "confidence": "medium"
+  },
+  {
+   "id": "approval-framework",
+   "field": "cells.CN.cite",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "CCC (CNCA-C11-01:2020) + MIIT Announcement",
+   "proposed": "Keep, but linked record cn-cnca-c11-01-2020 is a generic stub (no rule text); describe dual MIIT product access + CCC",
+   "evidence": "Record body: 'Retained under broad-scope review so the program team can manually disposition applicability' with no regulation text. Dual MIIT access + CCC regime is confirmed by search (china-certification.com).",
+   "evidence_url": "https://www.china-certification.com/en/automotive-ccc/",
+   "confidence": "medium"
+  },
+  {
+   "id": "vin",
+   "field": "cells.CN.note",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "Also requires VIN visible through windscreen and on electronic control unit records.",
+   "proposed": "Remove or source the windscreen/ECU claim",
+   "evidence": "Linked record cn-gb-16735-2019 only says VIN content, structure and physical marking; the body mentions 'ECU/build records' as an affected component, not a requirement; windscreen visibility not in record.",
+   "evidence_url": "regulations/cn-gb-16735-2019.md",
+   "confidence": "low"
+  },
+  {
+   "id": "vin",
+   "field": "cells.JP.cite",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "17-digit VIN optional for exports; domestic uses short chassis number",
+   "proposed": "Source or soften",
+   "evidence": "No repository record or evidence for the optional-17-digit-for-export claim; cell has no records link.",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "low"
+  },
+  {
+   "id": "side-pole",
+   "field": "cells",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "No JP, CN, IN or GCC cells",
+   "proposed": "Add JP (UN R135 applied via Safety Regs Art. 18; repo record jp-jvsregs-art18 tags 'pole side impact') if verified; CN not applicable unless GB 20071-2025 includes pole test (unverified)",
+   "evidence": "jp-jvsregs-art18 open_tags include 'pole side impact' and un_equivalent_ai UN R94/R95, while side-mdb has a JP cell but side-pole does not.",
+   "evidence_url": "regulations/jp-jvsregs-art18.md",
+   "confidence": "low"
+  },
+  {
+   "id": "frontal-full",
+   "field": "cells.JP.cite",
+   "verdict": "unverifiable",
+   "severity": "low",
+   "current": "Safety Regs Art. 18 \u2014 UN R137 / TRIAS full-lap",
+   "proposed": "Confirm Japan's full-lap requirement/R137 adoption",
+   "evidence": "Record jp-jvsregs-art18 states only 'occupant protection performance standards prescribed by ministerial notice' (front); no R137/full-lap text.",
+   "evidence_url": "regulations/jp-jvsregs-art18.md",
+   "confidence": "low"
+  },
+  {
+   "id": "frontal-full",
+   "field": "cells.IN",
+   "verdict": "questionable",
+   "severity": "low",
+   "current": "No IN cell",
+   "proposed": "Consider adding IN full-frontal if AIS applies (unverified)",
+   "evidence": "frontal-offset has IN AIS-098 but frontal-full has no IN cell; not verified whether India has a full-width requirement.",
+   "evidence_url": "knowledge/crosswalk.yaml",
+   "confidence": "low"
+  }
+ ],
+ "notes": "Many linked records for CA (MVSR sections), BR, CN CCC, GCC and UN R-records are stubs (title+link, no regulation text), so crosswalk citations cannot be backed by repo text. UN R153 record has wrong title/summary (frontal vs rear-end). CN GB 11551 is used for the wrong row (full-width instead of 40% offset). CN GB 20071-2025 / GB 20072-2024 effective 2026-07-01 per records (now in force). Recall cells KR/CN/IN have no records linked. Verified OK: US 573 5-working-day, 565 60-day VIN submission, FMVSS 208 S17 offset deformable barrier with 5th female, JP RTVA Art. 63-3, AU compliance plate replaced by RAV/ADR 61/03, UN R66 buses / no M1 roof-crush UN R."
+}
