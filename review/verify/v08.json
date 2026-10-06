@@ -1,0 +1,120 @@
+{
+ "group": "v08",
+ "patches": {
+  "ece-r79": {
+   "summary": "UN Regulation No. 79 sets uniform provisions for approving vehicles of categories M, N and O with regard to steering equipment, including electronic control systems, corrective and automatically commanded steering functions, auxiliary steering and trailer steering transmissions. It excludes purely pneumatic steering transmissions and autonomous steering systems. Text incorporates Supplement 6 to the 04 series (in force 10 January 2025).",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Trailer"
+   ],
+   "_why": "Scope 1.1 covers categories M, N and O only; motorcycles (L) are not covered."
+  },
+  "ece-r83": {
+   "summary": "UN Regulation No. 83 sets type-approval requirements for M1 and N1 vehicles (N2 of 3.5-5 t derived from N1 on request) covering crankcase emissions (Type 3) and low-ambient-temperature exhaust emissions (Type 6). It also lays down in-service conformity rules for tailpipe and evaporative emissions, battery durability, brake emissions and on-board monitoring, plus anti-tampering, security and cybersecurity. Text is the 09 series, entry into force TBC September 2026.",
+   "_why": "Scope 1.1 and 1.0 text; header says 09 series entry into force XX September 2026 (TBC)."
+  },
+  "ece-r85": {
+   "summary": "UN Regulation No. 85 covers approval of internal combustion engines and electric drive trains for propulsion of M and N category vehicles with regard to the measurement of net power and, for electric drive trains, maximum 30-minute power. It sets the test methods and the declared power curve versus speed. Text incorporates Supplement 6 to the original version (in force 15 July 2013).",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus"
+   ],
+   "_why": "Scope 1.1 limits it to categories M and N; motorcycles (L) are not covered."
+  },
+  "ece-r87": {
+   "summary": "UN Regulation No. 87 applies to daytime running lamps for vehicles of categories L, M, N and T. It defines the lamp as a forward-facing lamp that makes the vehicle more easily visible in daytime and sets requirements for markings, general specification, luminous intensity, apparent surface, colour, test procedure and heat resistance, plus conformity of production. Incorporates Supplement 14 to the original version (24 October 2009).",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus",
+    "Trailer",
+    "Off-road"
+   ],
+   "_why": "Scope 1: categories L, M, N and T; category T (tractors) maps to Off-road, N includes heavy trucks."
+  },
+  "ece-r89": {
+   "_confirmed": true,
+   "_why": "Title and scope 1 match: SLD/ASLD for M3, N2, N3 (and ASLD on M, N) limiting road speed."
+  },
+  "ece-r90": {
+   "summary": "UN Regulation No. 90 covers approval of replacement brake lining assemblies, drum brake linings, and replacement brake discs and drums for vehicles of categories M, N, L and O that are type approved under UN Regulations 13, 13-H or 78. Original-equipment parts and special parts are excluded. It sets performance and marking requirements for the basic braking function. Incorporates Supplement 4 to the 02 series (16 October 2018).",
+   "title": "UN Regulation No. 90 \u2014 Replacement Brake Lining Assemblies, Drum Brake Linings, and Brake Discs and Drums",
+   "_why": "Scope 1.1.1-1.1.5 and header title include replacement discs and drums; existing summary omitted them."
+  },
+  "ece-r91": {
+   "summary": "UN Regulation No. 91 applies to side-marker lamps for vehicles of categories M, N, O and T, which indicate the presence of the vehicle when viewed from the side. It sets markings, general specifications, light intensity, colour (amber or red), test procedure and conformity-of-production requirements. Incorporates Supplement 11 to the original version (15 October 2008).",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Bus",
+    "Trailer",
+    "Off-road"
+   ],
+   "_why": "Scope 1: categories M, N, O and T; L (motorcycles) not covered, T maps to Off-road."
+  },
+  "ece-r94": {
+   "summary": "UN Regulation No. 94 sets requirements for protection of occupants in a frontal collision for vehicles of category M1 up to 3,500 kg and N1 up to 2,500 kg (others at the manufacturer's request). Vehicle types are approved on the results of an offset deformable-barrier impact test, covering the protective system, steering and structural behaviour. Text incorporates Supplement 1 to the 05 series (12 June 2025).",
+   "_why": "Scope 1 and header; existing summary said only a link was provided."
+  },
+  "ece-r95": {
+   "summary": "UN Regulation No. 95 sets requirements for protection of occupants in a lateral (side) collision for vehicles of category M1 up to 3,500 kg (and heavier M1 with the lowest seat R point not more than 700 mm above ground) and category N1. Approval is based on a moving deformable barrier impact test of the passenger compartment, including REESS and hydrogen storage aspects. Incorporates Supplement 1 to the 06 series (12 June 2025).",
+   "_why": "Scope 1 and definition 2.1-2.2; existing summary said no text was provided."
+  },
+  "ece-r98": {
+   "summary": "UN Regulation No. 98 applies to headlamps and distributed lighting systems using gas-discharge light sources, for vehicles of categories M, N and L3. It sets requirements for markings, general specifications, illumination (beam pattern) and glare, plus conformity of production. Incorporates Supplement 4 to the 01 series of amendments (15 July 2013).",
+   "vehicle_categories": [
+    "Passenger car",
+    "Light truck",
+    "Heavy truck",
+    "Motorcycle",
+    "Bus"
+   ],
+   "_why": "Scope: categories M, N and L3 only; trailers (O) are not covered."
+  },
+  "ece-r99": {
+   "_confirmed": true,
+   "_why": "Scope 1: gas-discharge light sources (Annex 1) for approved lamps of power-driven vehicles."
+  },
+  "us-cfr-part-555": {
+   "summary": "49 CFR Part 555 establishes how NHTSA may grant temporary exemptions for manufacturers of motor vehicles from one or more Federal motor vehicle safety standards (49 U.S.C. 30113), and for passenger motor vehicles from Federal bumper standards (49 U.S.C. 32502). Grounds include substantial economic hardship, development or field evaluation of new safety or low-emission features, and an equivalent overall level of safety. It sets application contents and procedure.",
+   "_why": "Sections 555.1-555.5 (scope, purpose, application)."
+  },
+  "us-cfr-part-563": {
+   "summary": "49 CFR Part 563 sets uniform requirements for event data recorders (EDRs) in vehicles so equipped: collection, storage and retrievability of crash event data, data elements and format, crash-test survivability, owner's manual information and commercial availability of data retrieval tools. It applies to vehicles made on or after 1 September 2012 up to 3,855 kg GVWR and 2,495 kg unloaded weight, with a phase-in certification for production years ending 2029-2032.",
+   "_why": "Sections 563.1, 563.3, 563.4 (phase-in years ending Aug 31 2029-2032)."
+  },
+  "us-cfr-part-585": {
+   "summary": "49 CFR Part 585 sets reporting requirements for manufacturers to submit phase-in reports to NHTSA showing compliance with specific FMVSS phase-ins. It covers general report content, multi-manufacturer vehicles and extension petitions, plus standard-specific subparts: FMVSS 208 Appendix A-1 child restraints, minimum sound for hybrid and electric vehicles, child restraint anchorage systems, and event data recorders.",
+   "_why": "Table of contents: Subparts A, D, N, O and P."
+  },
+  "us-fmvss-204": {
+   "summary": "FMVSS No. 204 limits rearward displacement of the steering control into the passenger compartment to reduce chest, neck and head injury in frontal crashes. In a 48 km/h perpendicular impact into a fixed barrier, the upper end of the steering column and shaft may not move more than 127 mm horizontally rearward. It applies to passenger cars, MPVs, trucks and buses (4,536 kg GVWR or less, 2,495 kg unloaded or less), excluding vehicles certified to S14 of FMVSS 208.",
+   "_why": "S1, S2 and S4; existing summary was truncated and omitted the exclusions."
+  },
+  "us-fmvss-205": {
+   "summary": "FMVSS No. 205 specifies requirements for glazing materials in motor vehicles and equipment to reduce injuries from impact with glazing, ensure transparency for driver visibility and limit occupant ejection. It applies to passenger cars, MPVs, trucks, buses, motorcycles, slide-in campers, pickup covers designed to carry persons, and low speed vehicles. Glazing must conform to ANSI/SAE Z26.1-1996, including aftermarket replacement glazing.",
+   "_why": "S1-S3 and S5.1; existing summary was truncated."
+  },
+  "us-fmvss-206": {
+   "summary": "FMVSS No. 206 specifies requirements for vehicle door locks and door retention components (latches, hinges and other supporting means) to minimize occupant ejection in impacts. It applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, and buses with a GVWR of 4,536 kg or less. It defines primary and auxiliary latch systems, back doors, double and folding doors, and door closure warning systems.",
+   "_why": "S1-S3; existing summary was truncated."
+  },
+  "us-fmvss-207": {
+   "summary": "FMVSS No. 207 establishes requirements for seats, their attachment assemblies and installation to minimize seat failure from forces in a vehicle impact. It applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, and buses. Seats must withstand forward and rearward longitudinal loads of 20 times seat mass, a back moment of 373 N-m, and stay in adjusted position.",
+   "_why": "S1, S2 and S4.2; existing summary was truncated."
+  },
+  "us-fmvss-210": {
+   "summary": "FMVSS No. 210 establishes requirements for seat belt assembly anchorages to ensure proper location for effective occupant restraint and to reduce the likelihood of anchorage failure. It applies to passenger cars, multipurpose passenger vehicles, trucks, buses and school buses, and sets strength tests using force application devices (FAD1 and FAD2) for Type 1 and Type 2 belt assemblies.",
+   "_why": "S1-S3 definitions; existing summary was truncated."
+  }
+ },
+ "skipped": []
+}
